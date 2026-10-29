@@ -1,0 +1,22 @@
+# Netlify: Seite direkt aus dem Repository-Hauptordner veröffentlichen, ohne Build-Schritt
+[build]
+  publish = "."
+
+# Crawler-Dateien und Repository-Einstellungen nicht öffentlich ausliefern
+[[redirects]]
+  from = "/tools/*"
+  to = "/index.html"
+  status = 404
+  force = true
+
+[[redirects]]
+  from = "/.github/*"
+  to = "/index.html"
+  status = 404
+  force = true
+
+[[redirects]]
+  from = "/README.md"
+  to = "/index.html"
+  status = 404
+  force = true

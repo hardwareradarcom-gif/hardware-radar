@@ -1,0 +1,69 @@
+{
+  "_info": "Einstellungen für den Hardware-Radar-Crawler. Siehe tools/crawler/README.md.",
+  "contact": "hardwareradar.com@gmail.com",
+  "userAgent": "HardwareRadarBot/1.0 (+https://hardware-radar.de/bot; hardwareradar.com@gmail.com)",
+
+  "limits": {
+    "maxRequestsPerRun": 1500,
+    "maxRequestsPerDomain": 250,
+    "minDelayMs": 3000,
+    "timeoutMs": 15000,
+    "maxSitemapsPerDomain": 25,
+    "maxNewDomainsPerRun": 5,
+    "maxActiveDomains": 60,
+    "maxCatalogProducts": 2500,
+    "maxDeals": 120,
+    "recrawlHours": 8
+  },
+
+  "deals": {
+    "dropVsHistory": 0.10,
+    "belowOtherShops": 0.08,
+    "minPrice": 15
+  },
+
+  "discovery": {
+    "enabled": true,
+    "onlyTlds": [".de", ".com", ".eu", ".net"],
+    "maxCandidatesPerRun": 25
+  },
+
+  "storeImages": false,
+
+  "seeds": [
+    "https://www.alternate.de",
+    "https://www.mindfactory.de",
+    "https://www.notebooksbilliger.de",
+    "https://www.cyberport.de",
+    "https://www.computeruniverse.net",
+    "https://www.galaxus.de",
+    "https://www.proshop.de",
+    "https://www.caseking.de",
+    "https://www.alza.de",
+    "https://www.jacob.de",
+    "https://www.reichelt.de",
+    "https://www.arlt.com",
+    "https://www.kaufland.de",
+    "https://www.conrad.de"
+  ],
+
+  "blockedDomains": [
+    "amazon.de", "amazon.com", "ebay.de", "ebay.com",
+    "mydealz.de", "hardwaredealz.com", "geizhals.de", "geizhals.at", "geizhals.eu", "idealo.de", "billiger.de",
+    "guenstiger.de", "heise.de", "check24.de", "preis.de",
+    "google.com", "google.de", "facebook.com", "instagram.com", "youtube.com", "x.com", "twitter.com", "tiktok.com",
+    "linkedin.com", "pinterest.com", "wikipedia.org", "apple.com", "microsoft.com", "paypal.com", "klarna.com", "trustedshops.de"
+  ],
+
+  "categories": [
+    { "cat": "Grafikkarten", "any": ["geforce", "radeon", "rtx 50", "rtx 40", "rx 9070", "rx 9060", "rx 7", "arc b5", "arc b7", "grafikkarte"], "not": ["laptop", "notebook", "halterung", "kabel", "pc-system", "gaming-pc", "komplett"] },
+    { "cat": "Prozessoren", "any": ["ryzen 5", "ryzen 7", "ryzen 9", "core i5", "core i7", "core i9", "core ultra", "prozessor", "cpu "], "not": ["laptop", "notebook", "kühler", "cooler", "mainboard", "pc-system", "gaming-pc", "bundle", "aufrüstkit"] },
+    { "cat": "Arbeitsspeicher", "any": ["ddr5", "ddr4"], "not": ["sodimm", "so-dimm", "laptop", "notebook", "mainboard", "pc-system"] },
+    { "cat": "SSDs", "any": ["ssd", "nvme", "m.2 2280"], "not": ["extern", "portable", "gehäuse", "adapter", "laptop", "notebook", "pc-system"] },
+    { "cat": "Mainboards", "any": ["b650", "b850", "x670", "x870", "b550", "b760", "z790", "z890", "mainboard"], "not": ["laptop", "notebook", "pc-system", "bundle"] },
+    { "cat": "Monitore", "any": ["monitor", "gaming-monitor"], "not": ["arm", "halterung", "kabel", "lampe", "lichtleiste"] },
+    { "cat": "Netzteile", "any": ["netzteil", "psu", "80 plus", "atx 3."], "not": ["laptop", "notebook", "usb", "ladegerät", "steckernetzteil"] },
+    { "cat": "Gehäuse", "any": ["midi-tower", "pc-gehäuse", "gehäuse midi", "mini-itx-gehäuse", "big-tower"], "not": ["ssd", "festplatte", "lüfter", "adapter"] },
+    { "cat": "Kühlung", "any": ["cpu-kühler", "cpu kühler", "luftkühler", "aio", "wasserkühlung", "liquid freezer", "lüfter 120", "lüfter 140"], "not": ["laptop", "notebook", "pc-system", "wärmeleitpaste"] }
+  ]
+}

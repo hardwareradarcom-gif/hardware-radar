@@ -1,0 +1,42 @@
+# Startet den Hardware-Radar-Crawler dreimal täglich und speichert neue Preise im Repository.
+# Netlify veröffentlicht jede Änderung automatisch, wenn die Seite mit diesem Repository verbunden ist.
+name: Preise aktualisieren
+
+on:
+  schedule:
+    # Zeiten in UTC: 05:38, 10:38, 16:38 = 6:38, 11:38, 17:38 Uhr deutscher Winterzeit
+    - cron: "38 5,10,16 * * *"
+  workflow_dispatch: {}   # erlaubt den manuellen Start unter "Actions"
+
+permissions:
+  contents: write
+
+concurrency:
+  group: crawler
+  cancel-in-progress: false
+
+jobs:
+  crawl:
+    runs-on: ubuntu-latest
+    timeout-minutes: 120
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: "20"
+
+      - name: Crawler ausführen
+        run: node tools/crawler/crawl.mjs
+
+      - name: Neue Daten speichern
+        run: |
+          git config user.name "hardware-radar-bot"
+          git config user.email "hardwareradar.com@gmail.com"
+          git add data/catalog.json data/deals.json tools/crawler/state.json
+          if git diff --cached --quiet; then
+            echo "Keine Änderungen."
+          else
+            git commit -m "Preise aktualisiert $(date -u +'%Y-%m-%d %H:%M') UTC"
+            git push
+          fi

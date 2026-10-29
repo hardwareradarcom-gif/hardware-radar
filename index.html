@@ -1,0 +1,138 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>Hardware-Radar</title>
+<meta name="description" content="Die besten Deals für Gaming-PC-Hardware aus deutschen Shops: Grafikkarten, Prozessoren, RAM, SSDs, Monitore und mehr. Täglich geprüft, mit Preisverlauf für jedes Teil.">
+<meta property="og:title" content="Hardware-Radar">
+<meta property="og:description" content="Gaming-Hardware-Deals, täglich geprüft, mit Preisverlauf für jedes Teil.">
+<meta property="og:type" content="website">
+<meta name="theme-color" content="#0b0e13" media="(prefers-color-scheme: dark)">
+<meta name="theme-color" content="#f3f5f8" media="(prefers-color-scheme: light)">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="preload" href="assets/fonts/Unbounded.woff2" as="font" type="font/woff2" crossorigin>
+<link rel="stylesheet" href="assets/style.css">
+</head>
+<body>
+<a class="skip" href="#main">Zum Inhalt springen</a>
+
+<!--HR:BODY-START-->
+<header class="site-head"><div class="wrap">
+  <a class="logo" href="./" aria-label="Hardware-Radar Startseite">
+    <svg viewBox="0 0 32 32" aria-hidden="true">
+      <circle cx="16" cy="16" r="14.5" fill="none" stroke="var(--line-strong)" stroke-width="1.5"/>
+      <circle cx="16" cy="16" r="9" fill="none" stroke="var(--line-strong)" stroke-width="1.5"/>
+      <circle cx="16" cy="16" r="3.5" fill="none" stroke="var(--line-strong)" stroke-width="1.5"/>
+      <g class="sweep"><path d="M16 16 L16 1.5 A14.5 14.5 0 0 1 28.6 8.8 Z" fill="var(--signal)" opacity=".35"/><line x1="16" y1="16" x2="16" y2="1.5" stroke="var(--signal)" stroke-width="2" stroke-linecap="round"/></g>
+      <circle cx="23" cy="10" r="2.2" fill="var(--down)"/>
+    </svg>
+    <span class="word">Hardware<b>·</b>Radar</span>
+  </a>
+  <nav class="head-nav" aria-label="Hauptnavigation">
+    <a href="#deals">Deals</a>
+    <a href="#preisvergleich">Preisvergleich</a>
+    <a href="#ueber">So funktioniert's</a>
+  </nav>
+</div></header>
+
+<div class="intro"><div class="wrap">
+  <div>
+    <p class="eyebrow"><span class="dot"></span><span id="stand">Preise werden geladen</span></p>
+    <h1>Deals und Preise für deinen Gaming-PC.</h1>
+    <p class="lede">Unter <b>Deals</b> findest du die besten aktuellen Schnäppchen, im <b>Preisvergleich</b> die günstigsten Shops für beliebte Gaming-Hardware. Wir prüfen beides jeden Morgen in deutschen Shops und Deal-Portalen.</p>
+  </div>
+  <div>
+    <p class="pulse-cap">Marktlage</p>
+    <div class="pulse" id="pulse"></div>
+  </div>
+</div></div>
+
+<main id="main">
+  <div class="tabs-wrap"><div class="wrap">
+    <div class="tabs" role="tablist" aria-label="Bereich">
+      <a class="tab" id="tab-deals" role="tab" href="#deals" aria-selected="true">Deals<span class="n" id="n-deals"></span></a>
+      <a class="tab" id="tab-compare" role="tab" href="#preisvergleich" aria-selected="false">Preisvergleich<span class="n" id="n-compare"></span></a>
+    </div>
+  </div></div>
+
+  <section id="top-deals" data-view="deals"><div class="wrap">
+    <div class="sec-head"><h2>Top-Deals heute</h2><span class="meta">Größte Ersparnis gegenüber Vergleichspreis und Verlauf</span></div>
+    <div class="top-grid" id="top"></div>
+    <div class="ad leaderboard" data-ad="leaderboard" hidden></div>
+  </div></section>
+
+  <div class="filters" id="filters"><div class="wrap">
+    <div class="f-row">
+      <label class="search" for="q">
+        <svg viewBox="0 0 24 24" stroke-width="2.2" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M20 20l-4.6-4.6"/></svg>
+        <input id="q" type="search" placeholder="Teil suchen, z. B. RTX 5070, 9800X3D, DDR5" autocomplete="off" aria-label="Teil suchen">
+      </label>
+      <select id="sort" class="sort" aria-label="Sortierung">
+        <option value="deal">Bester Deal</option>
+        <option value="drop">Stärkster Preisrückgang</option>
+        <option value="asc">Preis aufsteigend</option>
+        <option value="desc">Preis absteigend</option>
+      </select>
+    </div>
+    <div class="chips" id="chips" role="group" aria-label="Kategorien"></div>
+    <div class="cmp-tools" data-view="compare" hidden>
+      <div class="chips subchips" id="subchips" role="group" aria-label="Unterkategorien"></div>
+      <div class="tools-row">
+        <div class="range-in" role="group" aria-label="Preisspanne">
+          <span class="lbl">Preis</span>
+          <input id="pmin" type="number" inputmode="numeric" min="0" step="1" placeholder="von €" aria-label="Mindestpreis in Euro">
+          <span class="dash">–</span>
+          <input id="pmax" type="number" inputmode="numeric" min="0" step="1" placeholder="bis €" aria-label="Höchstpreis in Euro">
+        </div>
+        <label class="switch" for="withship"><input type="checkbox" id="withship"><span class="knob" aria-hidden="true"></span>inkl. Versand</label>
+        <button type="button" class="chip watch-chip" id="watchonly" aria-pressed="false"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3.5l2.6 5.3 5.9.9-4.3 4.1 1 5.8L12 16.9l-5.2 2.7 1-5.8-4.3-4.1 5.9-.9z"/></svg>Merkliste<span class="n" id="n-watch">0</span></button>
+        <button type="button" class="linkbtn reset" id="reset-tools" hidden>Filter zurücksetzen</button>
+      </div>
+    </div>
+    <div class="websearch" id="websearch" hidden>Nicht dabei? Direkt im Shop suchen:
+      <a id="ws-amazon" href="https://www.amazon.de" target="_blank" rel="nofollow noopener">Amazon</a>
+      <a id="ws-mediamarkt" href="https://www.mediamarkt.de" target="_blank" rel="nofollow noopener">MediaMarkt</a>
+      <a id="ws-alternate" href="https://www.alternate.de" target="_blank" rel="nofollow noopener">Alternate</a>
+      <a id="ws-mindfactory" href="https://www.mindfactory.de" target="_blank" rel="nofollow noopener">Mindfactory</a>
+    </div>
+  </div></div>
+
+  <section><div class="wrap">
+    <p class="results-meta" id="results-meta" aria-live="polite"></p>
+    <div class="grid" id="grid" data-view="deals"></div>
+    <div class="compare" id="compare" data-view="compare" hidden></div>
+    <div class="empty" id="empty" hidden></div>
+  </div></section>
+</main>
+
+<footer class="site-foot" id="ueber"><div class="wrap">
+  <div>
+    <p><strong>So funktioniert's:</strong> Jeden Morgen werden Preise in deutschen Shops und auf Deal-Portalen neu geprüft. Jeder Preis wird als Messpunkt gespeichert, so entsteht die Verlaufsskala auf jeder Deal-Karte und im Preisvergleich. Wo es für ein Modell noch keinen eigenen Verlauf gibt, zeigt die Skala den günstigsten Marktpreis desselben Chips. Die Quelle steht jeweils darunter. Der Preisvergleich zeigt die günstigsten Shops aus öffentlichen Preisvergleichen wie Geizhals und hardwaredealz; Versandkosten sind getrennt angegeben.</p>
+    <p>Alle Preise in Euro inkl. MwSt., ohne Gewähr. Angebote können schnell enden, Gutscheine und Effektivpreise (z. B. mit Payback) gelten oft nur für bestimmte Kunden. Bitte prüfe den Preis vor dem Kauf im Shop.</p>
+    <p id="aff-note" hidden>* Mit Sternchen markierte Links sind Affiliate-Links. Kaufst du darüber, erhalten wir eine kleine Provision. Für dich ändert sich der Preis nicht.</p>
+  </div>
+  <div class="foot-links">
+    <a href="impressum.html">Impressum</a>
+    <a href="datenschutz.html">Datenschutz</a>
+    <button type="button" class="linkbtn" id="open-consent">Cookie-Einstellungen</button>
+    <span>© <span id="year">2026</span> Hardware-Radar</span>
+  </div>
+</div></footer>
+
+<div class="consent" id="consent" hidden>
+  <div class="consent-box" role="dialog" aria-modal="false" aria-labelledby="consent-title">
+    <h2 id="consent-title">Cookies und Werbung</h2>
+    <p>Wir finanzieren Hardware-Radar über Werbung. Dafür setzt Google mit deiner Zustimmung Cookies, um Anzeigen auszuspielen und zu messen. Ohne Zustimmung siehst du die Seite ohne Werbung. Du kannst deine Wahl jederzeit unten auf der Seite unter „Cookie-Einstellungen“ ändern. Mehr dazu in der <a href="datenschutz.html">Datenschutzerklärung</a>.</p>
+    <div class="consent-actions">
+      <button type="button" class="btn ghost" id="consent-deny">Nur notwendige</button>
+      <button type="button" class="btn primary" id="consent-accept">Werbung erlauben</button>
+    </div>
+  </div>
+</div>
+<!--HR:BODY-END-->
+
+<script src="assets/config.js"></script>
+<script src="assets/app.js"></script>
+</body>
+</html>
