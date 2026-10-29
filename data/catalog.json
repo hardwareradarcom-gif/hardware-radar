@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T17:40:28.426Z",
+ "updated": "2026-10-29T22:37:16.057Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -573,7 +573,7 @@
    "name": "AMD Ryzen 7 7800X3D (tray)",
    "url": "https://www.hardwaredealz.com/hardware/cpu/amd-ryzen-7-7800x3d-tray/preisvergleich.1881",
    "source": "hardwaredealz",
-   "stand": "2026-09-28T13:20",
+   "stand": "2026-10-29T22:37",
    "offers": [
     {
      "shop": "reichelt.de",
@@ -598,6 +598,14 @@
      "price": 276,
      "ship": 0,
      "avail": null
+    },
+    {
+     "shop": "caseking.de",
+     "price": 374.62,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/amd-ryzen-7-7800x3d-5.0-ghz-raphael-am5-boxed/HPAM-257.html",
+     "crawler": true
     }
    ],
    "price": 273.9,
@@ -605,6 +613,10 @@
    "hist": [
     {
      "d": "2026-09-28",
+     "p": 273.9
+    },
+    {
+     "d": "2026-10-29",
      "p": 273.9
     }
    ]
@@ -745,7 +757,7 @@
    "name": "AMD Ryzen 5 7600X (boxed)",
    "url": "https://www.hardwaredealz.com/hardware/cpu/amd-ryzen-5-7600x-boxed/preisvergleich.1856",
    "source": "hardwaredealz",
-   "stand": "2026-10-29T15:20",
+   "stand": "2026-10-29T22:37",
    "offers": [
     {
      "shop": "techonly",
@@ -770,6 +782,14 @@
      "price": 149.99,
      "ship": 6.99,
      "avail": null
+    },
+    {
+     "shop": "caseking.de",
+     "price": 161.14,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/amd-ryzen-5-7600x-4.7-ghz-raphael-am5-boxed/HPAM-248.html",
+     "crawler": true
     }
    ],
    "price": 144,
@@ -960,7 +980,7 @@
    "name": "Intel Core i5-14600KF (boxed)",
    "url": "https://www.hardwaredealz.com/hardware/cpu/intel-core-i5-14600kf-boxed/preisvergleich.1114",
    "source": "hardwaredealz",
-   "stand": "2026-10-22T17:20",
+   "stand": "2026-10-29T22:37",
    "offers": [
     {
      "shop": "Galaxus",
@@ -985,6 +1005,14 @@
      "price": 237.07,
      "ship": 6.99,
      "avail": null
+    },
+    {
+     "shop": "caseking.de",
+     "price": 240.28,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/intel-core-i5-14600kf-3.5-ghz-raptor-lake-refresh-socket-1700-boxed/HPIT-805.html",
+     "crawler": true
     }
    ],
    "price": 232.37,
@@ -992,6 +1020,10 @@
    "hist": [
     {
      "d": "2026-10-22",
+     "p": 232.37
+    },
+    {
+     "d": "2026-10-29",
      "p": 232.37
     }
    ]
@@ -1003,7 +1035,7 @@
    "name": "Intel Core Ultra 7 270K Plus",
    "url": "https://www.hardwaredealz.com/hardware/cpu/intel-core-ultra-7-270k-plus/preisvergleich.33575",
    "source": "hardwaredealz",
-   "stand": "2026-10-24T17:20",
+   "stand": "2026-10-29T22:37",
    "offers": [
     {
      "shop": "MobPicker",
@@ -1024,6 +1056,14 @@
      "avail": null
     },
     {
+     "shop": "caseking.de",
+     "price": 319,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/intel-core-ultra-7-270k-plus-cpu-24-cores-5-5-ghz-socket-1851-arrow-lake-boxed/HPIT-856.html",
+     "crawler": true
+    },
+    {
      "shop": "alza.de",
      "price": 323.9,
      "ship": 4.99,
@@ -1035,6 +1075,10 @@
    "hist": [
     {
      "d": "2026-10-24",
+     "p": 303.57
+    },
+    {
+     "d": "2026-10-29",
      "p": 303.57
     }
    ]
@@ -1528,13 +1572,21 @@
    "name": "Crucial E100 1 TB",
    "url": "https://www.mydealz.de/deals/crucial-e100-1-tb-ssd-pcie-gen4-nvme-m2-bis-zu-5000-mbs-2836246",
    "source": "mydealz",
-   "stand": "2026-10-29T12:00",
+   "stand": "2026-10-29T22:37",
    "offers": [
     {
      "shop": "Cdiscount",
      "price": 122.98,
      "ship": 0,
      "avail": null
+    },
+    {
+     "shop": "caseking.de",
+     "price": 155.14,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/crucial-e100-nvme-ssd-pcie-4.0-m.2-type-2280-1tb-retail/SSCC-119.html",
+     "crawler": true
     }
    ],
    "price": 122.98,
@@ -3410,13 +3462,21 @@
    "name": "AMD Ryzen 5 7500X3D (boxed)",
    "url": "https://www.hardwaredealz.com/hardware/cpu/amd-ryzen-5-7500x3d-boxed/preisvergleich.31579",
    "source": "hardwaredealz",
-   "stand": "2026-10-29T16:00",
+   "stand": "2026-10-29T22:37",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
      "price": 209,
      "ship": null,
      "avail": null
+    },
+    {
+     "shop": "caseking.de",
+     "price": 224.71,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/amd-ryzen-5-7500x3d-4-5-ghz-raphael-am5-boxed/HPAM-320.html",
+     "crawler": true
     }
    ],
    "price": 209,
@@ -3610,13 +3670,21 @@
    "name": "AMD Ryzen 7 7700X (boxed)",
    "url": "https://www.hardwaredealz.com/hardware/cpu/amd-ryzen-7-7700x-boxed/preisvergleich.1878",
    "source": "hardwaredealz",
-   "stand": "2026-10-29T16:00",
+   "stand": "2026-10-29T22:37",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
      "price": 200.49,
      "ship": null,
      "avail": null
+    },
+    {
+     "shop": "caseking.de",
+     "price": 200.49,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/amd-ryzen-7-7700x-4.5-ghz-raphael-am5-boxed/HPAM-249.html",
+     "crawler": true
     }
    ],
    "price": 200.49,
@@ -3660,13 +3728,21 @@
    "name": "AMD Ryzen 5 7600 (boxed)",
    "url": "https://www.hardwaredealz.com/hardware/cpu/amd-ryzen-5-7600-boxed-fan/preisvergleich.1854",
    "source": "hardwaredealz",
-   "stand": "2026-10-29T16:00",
+   "stand": "2026-10-29T22:37",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
      "price": 169.65,
      "ship": null,
      "avail": null
+    },
+    {
+     "shop": "caseking.de",
+     "price": 189.65,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/amd-ryzen-5-7600-5.1-ghz-raphael-am5-boxed/HPAM-256.html",
+     "crawler": true
     }
    ],
    "price": 169.65,
@@ -3935,13 +4011,21 @@
    "name": "Intel Core i7-14700K (boxed)",
    "url": "https://www.hardwaredealz.com/hardware/cpu/intel-core-i7-14700k-boxed/preisvergleich.1179",
    "source": "hardwaredealz",
-   "stand": "2026-10-29T16:00",
+   "stand": "2026-10-29T22:37",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
      "price": 356,
      "ship": null,
      "avail": null
+    },
+    {
+     "shop": "caseking.de",
+     "price": 382.99,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/intel-core-i7-14700k-3.4-ghz-raptor-lake-refresh-socket-1700-boxed/HPIT-808.html",
+     "crawler": true
     }
    ],
    "price": 356,
@@ -3960,13 +4044,21 @@
    "name": "Intel Core i7-14700KF (boxed)",
    "url": "https://www.hardwaredealz.com/hardware/cpu/intel-core-i7-14700kf-boxed/preisvergleich.1181",
    "source": "hardwaredealz",
-   "stand": "2026-10-29T16:00",
+   "stand": "2026-10-29T22:37",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
      "price": 323.49,
      "ship": null,
      "avail": null
+    },
+    {
+     "shop": "caseking.de",
+     "price": 363.52,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/intel-core-i7-14700kf-3.4-ghz-raptor-lake-refresh-socket-1700-tray/HPIT-812.html",
+     "crawler": true
     }
    ],
    "price": 323.49,
@@ -3985,13 +4077,21 @@
    "name": "Intel Core i5-14400 (boxed)",
    "url": "https://www.hardwaredealz.com/hardware/cpu/intel-core-i5-14400-boxed-fan/preisvergleich.2213",
    "source": "hardwaredealz",
-   "stand": "2026-10-29T16:00",
+   "stand": "2026-10-29T22:37",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
      "price": 173.03,
      "ship": null,
      "avail": null
+    },
+    {
+     "shop": "caseking.de",
+     "price": 174.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/intel-core-i5-14400-2.5-ghz-raptor-lake-refresh-socket-1700-boxed/HPIT-819.html",
+     "crawler": true
     }
    ],
    "price": 173.03,
@@ -4010,13 +4110,21 @@
    "name": "Intel Core i5-14400F (boxed)",
    "url": "https://www.hardwaredealz.com/hardware/cpu/intel-core-i5-14400f-boxed-fan/preisvergleich.2215",
    "source": "hardwaredealz",
-   "stand": "2026-10-29T16:00",
+   "stand": "2026-10-29T22:37",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
      "price": 155.24,
      "ship": null,
      "avail": null
+    },
+    {
+     "shop": "caseking.de",
+     "price": 167.28,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/intel-core-i5-14400f-2.5-ghz-raptor-lake-refresh-socket-1700-boxed/HPIT-820.html",
+     "crawler": true
     }
    ],
    "price": 155.24,
@@ -4035,8 +4143,16 @@
    "name": "Intel Core i5-14600K (boxed)",
    "url": "https://www.hardwaredealz.com/hardware/cpu/intel-core-i5-14600k-boxed/preisvergleich.1112",
    "source": "hardwaredealz",
-   "stand": "2026-10-29T16:00",
+   "stand": "2026-10-29T22:37",
    "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 249.63,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/intel-core-i5-14600k-3.5-ghz-raptor-lake-refresh-socket-1700-tray/HPIT-813.html",
+     "crawler": true
+    },
     {
      "shop": "hardwaredealz-Bestpreis",
      "price": 252.25,
@@ -4044,12 +4160,12 @@
      "avail": null
     }
    ],
-   "price": 252.25,
-   "shop": "hardwaredealz-Bestpreis",
+   "price": 249.63,
+   "shop": "caseking.de",
    "hist": [
     {
      "d": "2026-10-29",
-     "p": 252.25
+     "p": 249.63
     }
    ]
   },
@@ -4060,13 +4176,21 @@
    "name": "Intel Core i9-14900K (boxed)",
    "url": "https://www.hardwaredealz.com/hardware/cpu/intel-core-i9-14900k-boxed/preisvergleich.1248",
    "source": "hardwaredealz",
-   "stand": "2026-10-29T16:00",
+   "stand": "2026-10-29T22:37",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
      "price": 444.62,
      "ship": null,
      "avail": null
+    },
+    {
+     "shop": "caseking.de",
+     "price": 461.08,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/intel-core-i9-14900k-3.2-ghz-raptor-lake-refresh-socket-1700-boxed/HPIT-810.html",
+     "crawler": true
     }
    ],
    "price": 444.62,
@@ -4085,13 +4209,21 @@
    "name": "Intel Core i9-14900KF (boxed)",
    "url": "https://www.hardwaredealz.com/hardware/cpu/intel-core-i9-14900kf-boxed/preisvergleich.1250",
    "source": "hardwaredealz",
-   "stand": "2026-10-29T16:00",
+   "stand": "2026-10-29T22:37",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
      "price": 412.66,
      "ship": null,
      "avail": null
+    },
+    {
+     "shop": "caseking.de",
+     "price": 446.04,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/intel-core-i9-14900kf-3.2-ghz-raptor-lake-refresh-socket-1700-boxed/HPIT-809.html",
+     "crawler": true
     }
    ],
    "price": 412.66,
@@ -4110,13 +4242,21 @@
    "name": "Intel Core i5-14500 (boxed)",
    "url": "https://www.hardwaredealz.com/hardware/cpu/intel-core-i5-14500-boxed-fan/preisvergleich.2217",
    "source": "hardwaredealz",
-   "stand": "2026-10-29T16:00",
+   "stand": "2026-10-29T22:37",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
      "price": 242.03,
      "ship": null,
      "avail": null
+    },
+    {
+     "shop": "caseking.de",
+     "price": 254.42,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/intel-core-i5-14500-2.6-ghz-raptor-lake-refresh-socket-1700-boxed/HPIT-821.html",
+     "crawler": true
     }
    ],
    "price": 242.03,
@@ -4135,13 +4275,21 @@
    "name": "Intel Core i5-12400F (tray)",
    "url": "https://www.hardwaredealz.com/hardware/cpu/intel-core-i5-12400f-tray/preisvergleich.1084",
    "source": "hardwaredealz",
-   "stand": "2026-10-29T16:00",
+   "stand": "2026-10-29T22:37",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
      "price": 118.48,
      "ship": null,
      "avail": null
+    },
+    {
+     "shop": "caseking.de",
+     "price": 142.53,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/intel-core-i5-12400f-2.50-ghz-alder-lake-s-socket-1700-boxed/HPIT-756.html",
+     "crawler": true
     }
    ],
    "price": 118.48,
@@ -4185,13 +4333,21 @@
    "name": "Intel Core Ultra 5 250K Plus",
    "url": "https://www.hardwaredealz.com/hardware/cpu/intel-core-ulta-5-250k-plus/preisvergleich.33576",
    "source": "hardwaredealz",
-   "stand": "2026-10-29T16:40",
+   "stand": "2026-10-29T22:37",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
      "price": 189.99,
      "ship": null,
      "avail": null
+    },
+    {
+     "shop": "caseking.de",
+     "price": 229.34,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/intel-core-ultra-5-250k-plus-cpu-18-cores-5.3-ghz-socket-1851-arrow-lake-boxed/HPIT-854.html",
+     "crawler": true
     }
    ],
    "price": 189.99,
@@ -5802,6 +5958,35 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-cooler-master-hyper-212-3dhp-cpu-cooler-intel-and-amd-argb-b",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Cooler Master Hyper 212 3DHP CPU Cooler, Intel and AMD, ARGB - black",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/cooler-master-hyper-212-3dhp-cpu-cooler-intel-and-amd-argb-black/GECO-372.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 29,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/cooler-master-hyper-212-3dhp-cpu-cooler-intel-and-amd-argb-black/GECO-372.html"
+    }
+   ],
+   "price": 29,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 29
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler cooler master hyper 212 3dhp cpu intel and amd argb black",
+   "firstSeen": "2026-10-29"
+  },
+  {
    "id": "c-akasa-vegas-chroma-ilg-cpu-kuhler-intel-lga-1700-argb",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -6440,6 +6625,35 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-adata-xpg-probe-80-plus-bronze-netzteil-atx-2-4-600-watt-sch",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "ADATA XPG PROBE 80 PLUS Bronze Netzteil, ATX 2.4 - 600 Watt, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/adata-xpg-probe-80-plus-bronze-power-supply-atx-2.4-600-watt-black/NEAD-015.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 42.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/adata-xpg-probe-80-plus-bronze-power-supply-atx-2.4-600-watt-black/NEAD-015.html"
+    }
+   ],
+   "price": 42.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 42.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile adata xpg probe plus bronze netzteil atx 600 watt schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
    "id": "c-silverstone-sst-arv140-argb-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -6759,6 +6973,35 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-montech-beta-2-80-plus-bronze-netzteil-atx-3-1-550-watt-schw",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Montech BETA 2 80 PLUS Bronze Netzteil, ATX 3.1 - 550 Watt, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/montech-beta-2-80-plus-bronze-power-supply-atx-3.1-550-watts-black/NEMT-013.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 44.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/montech-beta-2-80-plus-bronze-power-supply-atx-3.1-550-watts-black/NEMT-013.html"
+    }
+   ],
+   "price": 44.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 44.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile montech beta plus bronze netzteil atx 550 watt schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
    "id": "c-jonsbo-ca90-cpu-kuhler-dual-tower-1-x-130mm-1-x-120mm-pwm-ar",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -6785,35 +7028,6 @@
    ],
    "count": 1,
    "tags": "kuhlung luftkuhler jonsbo ca90 cpu kuhler dual tower 130mm 120mm pwm argb schwarz",
-   "firstSeen": "2026-10-29"
-  },
-  {
-   "id": "c-silverstone-sst-ar09-am4-cpu-kuhler-fur-2u-server-amd-am4",
-   "cat": "Kühlung",
-   "sub": "Luftkühler",
-   "name": "SilverStone SST-AR09-AM4 CPU Kühler für 2U Server - AMD AM4",
-   "source": "crawler",
-   "url": "https://www.caseking.de/en/silverstone-sst-ar09-am4-cpu-cooler-for-2u-server-amd-am4/CPSI-065.html",
-   "stand": "2026-10-29T17:40",
-   "offers": [
-    {
-     "shop": "caseking.de",
-     "price": 47.9,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/silverstone-sst-ar09-am4-cpu-cooler-for-2u-server-amd-am4/CPSI-065.html"
-    }
-   ],
-   "price": 47.9,
-   "shop": "caseking.de",
-   "hist": [
-    {
-     "d": "2026-10-29",
-     "p": 47.9
-    }
-   ],
-   "count": 1,
-   "tags": "kuhlung luftkuhler silverstone sst ar09 am4 cpu kuhler fur server amd",
    "firstSeen": "2026-10-29"
   },
   {
@@ -7107,6 +7321,35 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-be-quiet-system-power-11-80-plus-bronze-netzteil-atx-3-1-pci",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "be quiet! System Power 11 80 PLUS Bronze Netzteil, ATX 3.1, PCIe 5.1 - 450 Watt, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/be-quiet-system-power-11-80-plus-bronze-power-supply-atx-3.1-pcie-5.1-450-watts-black/NEBE-255.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 49.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/be-quiet-system-power-11-80-plus-bronze-power-supply-atx-3.1-pcie-5.1-450-watts-black/NEBE-255.html"
+    }
+   ],
+   "price": 49.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 49.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile quiet system power plus bronze netzteil atx pcie 450 watt schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
    "id": "c-alpenfohn-brocken-4-max-argb-cpu-kuhler-2x-120mm-schwarz",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -7162,35 +7405,6 @@
    ],
    "count": 1,
    "tags": "kuhlung luftkuhler alpenfohn brocken max argb cpu kuhler 120mm weiss",
-   "firstSeen": "2026-10-29"
-  },
-  {
-   "id": "c-akasa-1u-intel-lga-1700-cpu-kuhler-kupfer",
-   "cat": "Kühlung",
-   "sub": "Luftkühler",
-   "name": "Akasa 1U Intel LGA 1700 CPU-Kühler - Kupfer",
-   "source": "crawler",
-   "url": "https://www.caseking.de/akasa-1u-intel-lga-1700-cpu-kuehler-kupfer/CPAK-078.html",
-   "stand": "2026-10-29T17:11",
-   "offers": [
-    {
-     "shop": "caseking.de",
-     "price": 54.9,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.caseking.de/akasa-1u-intel-lga-1700-cpu-kuehler-kupfer/CPAK-078.html"
-    }
-   ],
-   "price": 54.9,
-   "shop": "caseking.de",
-   "hist": [
-    {
-     "d": "2026-10-29",
-     "p": 54.9
-    }
-   ],
-   "count": 1,
-   "tags": "kuhlung luftkuhler akasa intel lga 1700 cpu kuhler kupfer",
    "firstSeen": "2026-10-29"
   },
   {
@@ -7252,6 +7466,93 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-lian-li-rb-series-80-plus-bronze-netzteil-teilmodular-atx-3-",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Lian Li RB Series 80 PLUS Bronze Netzteil, teilmodular, ATX 3.1 - 550 Watt, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/lian-li-rb-series-80-plus-bronze-power-supply-semi-modular-atx-3.1-550-watts-black/NELI-036.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 54.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/lian-li-rb-series-80-plus-bronze-power-supply-semi-modular-atx-3.1-550-watts-black/NELI-036.html"
+    }
+   ],
+   "price": 54.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 54.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile lian series plus bronze netzteil teilmodular atx 550 watt schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-montech-beta-2-80-plus-bronze-netzteil-atx-3-1-650-watt-schw",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Montech BETA 2 80 PLUS Bronze Netzteil, ATX 3.1 - 650 Watt, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/montech-beta-2-80-plus-bronze-power-supply-atx-3.1-650-watts-black/NEMT-014.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 54.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/montech-beta-2-80-plus-bronze-power-supply-atx-3.1-650-watts-black/NEMT-014.html"
+    }
+   ],
+   "price": 54.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 54.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile montech beta plus bronze netzteil atx 650 watt schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-corsair-cx-series-cx550-netzteil-80-plus-bronze-550-watt",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Corsair CX Series CX550 Netzteil 80 PLUS Bronze - 550 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/corsair-cx-series-cx550-power-supply-80-plus-bronze-550-watt/NECS-171.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 56.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/corsair-cx-series-cx550-power-supply-80-plus-bronze-550-watt/NECS-171.html"
+    }
+   ],
+   "price": 56.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 56.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile corsair series cx550 netzteil plus bronze 550 watt",
+   "firstSeen": "2026-10-29"
+  },
+  {
    "id": "c-akasa-soho-h4-plus-cpu-kuhler-argb-120mm",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -7278,35 +7579,6 @@
    ],
    "count": 1,
    "tags": "kuhlung luftkuhler akasa soho plus cpu kuhler argb 120mm",
-   "firstSeen": "2026-10-29"
-  },
-  {
-   "id": "c-akasa-ak-cc7401bt01-1u-low-profile-cpu-kuhler-sockel-lga-170",
-   "cat": "Kühlung",
-   "sub": "Luftkühler",
-   "name": "Akasa AK-CC7401BT01 1U Low Profile CPU-Kühler - Sockel LGA 1700",
-   "source": "crawler",
-   "url": "https://www.caseking.de/akasa-ak-cc7401bt01-1u-low-profile-cpu-kuehler-sockel-lga-1700/CPAK-067.html",
-   "stand": "2026-10-29T17:11",
-   "offers": [
-    {
-     "shop": "caseking.de",
-     "price": 59.9,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.caseking.de/akasa-ak-cc7401bt01-1u-low-profile-cpu-kuehler-sockel-lga-1700/CPAK-067.html"
-    }
-   ],
-   "price": 59.9,
-   "shop": "caseking.de",
-   "hist": [
-    {
-     "d": "2026-10-29",
-     "p": 59.9
-    }
-   ],
-   "count": 1,
-   "tags": "kuhlung luftkuhler akasa cc7401bt01 low profile cpu kuhler sockel lga 1700",
    "firstSeen": "2026-10-29"
   },
   {
@@ -7484,20 +7756,78 @@
    "firstSeen": "2026-10-29"
   },
   {
-   "id": "c-akasa-ak-cc7402bt01-2u-low-profile-cpu-kuhler-sockel-lga-170",
-   "cat": "Kühlung",
-   "sub": "Luftkühler",
-   "name": "Akasa AK-CC7402BT01 2U Low Profile CPU-Kühler - Sockel LGA 1700",
+   "id": "c-be-quiet-system-power-11-80-plus-bronze-netzteil-atx-3-1-pci-l0i5z",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "be quiet! System Power 11 80 PLUS Bronze Netzteil, ATX 3.1, PCIe 5.1 - 550 Watt, schwarz",
    "source": "crawler",
-   "url": "https://www.caseking.de/akasa-ak-cc7402bt01-2u-low-profile-cpu-kuehler-sockel-lga-1700/CPAK-068.html",
-   "stand": "2026-10-29T17:11",
+   "url": "https://www.caseking.de/en/be-quiet-system-power-11-80-plus-bronze-power-supply-atx-3.1-pcie-5.1-550-watts-black/NEBE-256.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 59.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/be-quiet-system-power-11-80-plus-bronze-power-supply-atx-3.1-pcie-5.1-550-watts-black/NEBE-256.html"
+    }
+   ],
+   "price": 59.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 59.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile quiet system power plus bronze netzteil atx pcie 550 watt schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-montech-beta-2-80-plus-bronze-netzteil-atx-3-1-750-watt-schw",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Montech BETA 2 80 PLUS Bronze Netzteil, ATX 3.1 - 750 Watt, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/montech-beta-2-80-plus-bronze-power-supply-atx-3.1-750-watt-black/NEMT-015.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 59.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/montech-beta-2-80-plus-bronze-power-supply-atx-3.1-750-watt-black/NEMT-015.html"
+    }
+   ],
+   "price": 59.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 59.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile montech beta plus bronze netzteil atx 750 watt schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-be-quiet-pure-power-12-netzteil-80-plus-gold-atx-3-1-pcie-5-",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "be quiet! Pure Power 12 Netzteil, 80 PLUS Gold, ATX 3.1, PCIe 5.1 - 550 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/be-quiet-pure-power-12-power-supply-80-plus-gold-atx-3.1-pcie-5.1-550-watts/NEBE-247.html",
+   "stand": "2026-10-29T22:37",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 64.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/akasa-ak-cc7402bt01-2u-low-profile-cpu-kuehler-sockel-lga-1700/CPAK-068.html"
+     "url": "https://www.caseking.de/en/be-quiet-pure-power-12-power-supply-80-plus-gold-atx-3.1-pcie-5.1-550-watts/NEBE-247.html"
     }
    ],
    "price": 64.9,
@@ -7509,7 +7839,94 @@
     }
    ],
    "count": 1,
-   "tags": "kuhlung luftkuhler akasa cc7402bt01 low profile cpu kuhler sockel lga 1700",
+   "tags": "netzteile quiet pure power netzteil plus gold atx pcie 550 watt",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-lian-li-rb-series-80-plus-bronze-netzteil-teilmodular-pcie-5-8lelc",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Lian Li RB Series 80 PLUS Bronze Netzteil, teilmodular, PCIe 5.1, ATX 3.1 - 650 Watt, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/lian-li-rb-series-80-plus-bronze-power-supply-semi-modular-pcie-5.1-atx-3.1-650-watts-black/NELI-038.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 64.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/lian-li-rb-series-80-plus-bronze-power-supply-semi-modular-pcie-5.1-atx-3.1-650-watts-black/NELI-038.html"
+    }
+   ],
+   "price": 64.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 64.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile lian series plus bronze netzteil teilmodular pcie atx 650 watt schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-montech-beta-2-80-plus-bronze-netzteil-atx-3-1-pcie-5-1-850-",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Montech BETA 2 80 PLUS Bronze Netzteil, ATX 3.1, PCIe 5.1 - 850 Watt, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/montech-beta-2-80-plus-bronze-power-supply-atx-3.1-pcie-5.1-850-watts-black/NEMT-016.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 64.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/montech-beta-2-80-plus-bronze-power-supply-atx-3.1-pcie-5.1-850-watts-black/NEMT-016.html"
+    }
+   ],
+   "price": 64.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 64.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile montech beta plus bronze netzteil atx pcie 850 watt schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-adata-xpg-probe-80-plus-bronze-netzteil-atx-2-4-700-watt-sch",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "ADATA XPG PROBE 80 PLUS Bronze Netzteil, ATX 2.4 - 700 Watt, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/adata-xpg-probe-80-plus-bronze-power-supply-atx-2.4-700-watts-black/NEAD-017.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 66.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/adata-xpg-probe-80-plus-bronze-power-supply-atx-2.4-700-watts-black/NEAD-017.html"
+    }
+   ],
+   "price": 66.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 66.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile adata xpg probe plus bronze netzteil atx 700 watt schwarz",
    "firstSeen": "2026-10-29"
   },
   {
@@ -7629,6 +8046,35 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-be-quiet-system-power-11-80-plus-bronze-netzteil-atx-3-1-pci-l0i5y",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "be quiet! System Power 11 80 PLUS Bronze Netzteil, ATX 3.1, PCIe 5.1 - 650 Watt, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/be-quiet-system-power-11-80-plus-bronze-power-supply-atx-3.1-pcie-5.1-650-watts-black/NEBE-257.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 69.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/be-quiet-system-power-11-80-plus-bronze-power-supply-atx-3.1-pcie-5.1-650-watts-black/NEBE-257.html"
+    }
+   ],
+   "price": 69.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 69.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile quiet system power plus bronze netzteil atx pcie 650 watt schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
    "id": "c-silverstone-sst-nt06-pro-v2-nitrogon-cpu-kuhler-120-mm",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -7684,6 +8130,64 @@
    ],
    "count": 1,
    "tags": "kuhlung luftkuhler akasa soho h6l low profile cpu kuhler argb 120mm weiss",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-be-quiet-pure-power-12-netzteil-80-plus-gold-atx-3-1-pcie-5--l0ib5",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "be quiet! Pure Power 12 Netzteil, 80 PLUS Gold, ATX 3.1, PCIe 5.1 - 650 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/be-quiet-pure-power-12-power-supply-80-plus-gold-atx-3.1-pcie-5.1-650-watts/NEBE-248.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 72.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/be-quiet-pure-power-12-power-supply-80-plus-gold-atx-3.1-pcie-5.1-650-watts/NEBE-248.html"
+    }
+   ],
+   "price": 72.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 72.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile quiet pure power netzteil plus gold atx pcie 650 watt",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-be-quiet-system-power-11-80-plus-bronze-netzteil-atx-3-1-pci-l0i5x",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "be quiet! System Power 11 80 PLUS Bronze Netzteil, ATX 3.1, PCIe 5.1 - 750 Watt, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/be-quiet-system-power-11-80-plus-bronze-power-supply-atx-3.1-pcie-5.1-750-watts-black/NEBE-258.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 72.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/be-quiet-system-power-11-80-plus-bronze-power-supply-atx-3.1-pcie-5.1-750-watts-black/NEBE-258.html"
+    }
+   ],
+   "price": 72.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 72.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile quiet system power plus bronze netzteil atx pcie 750 watt schwarz",
    "firstSeen": "2026-10-29"
   },
   {
@@ -7774,6 +8278,35 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-lian-li-rb-series-80-plus-bronze-netzteil-teilmodular-pcie-5",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Lian Li RB Series 80 PLUS Bronze Netzteil, teilmodular, PCIe 5.1, ATX 3.1 - 750 Watt, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/lian-li-rb-series-80-plus-bronze-power-supply-semi-modular-pcie-5.1-atx-3.1-750-watts-black/NELI-037.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 74.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/lian-li-rb-series-80-plus-bronze-power-supply-semi-modular-pcie-5.1-atx-3.1-750-watts-black/NELI-037.html"
+    }
+   ],
+   "price": 74.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 74.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile lian series plus bronze netzteil teilmodular pcie atx 750 watt schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
    "id": "c-noctua-nh-u12s-cpu-kuhler-120mm",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -7832,6 +8365,122 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-akasa-cypher-thin-mini-itx-gehause-inkl-120w-netzteil-oem-sc",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Akasa Cypher Thin-Mini-ITX Gehäuse inkl. 120W Netzteil, OEM - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/akasa-cypher-thin-mini-itx-gehaeuse-inkl.-120w-netzteil-oem-schwarz/GEAK-049.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 79.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/akasa-cypher-thin-mini-itx-gehaeuse-inkl.-120w-netzteil-oem-schwarz/GEAK-049.html"
+    }
+   ],
+   "price": 79.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 79.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause akasa cypher thin mini itx inkl 120w netzteil oem schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-adata-xpg-kyber-80-plus-gold-netzteil-atx-3-0-850-watt-schwa",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "ADATA XPG KYBER 80 PLUS Gold Netzteil, ATX 3.0 - 850 Watt, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/adata-xpg-kyber-80-plus-gold-power-supply-atx-3.0-850-watts-black/NEAD-014.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 79.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/adata-xpg-kyber-80-plus-gold-power-supply-atx-3.0-850-watts-black/NEAD-014.html"
+    }
+   ],
+   "price": 79.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 79.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile adata xpg kyber plus gold netzteil atx 850 watt schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-be-quiet-pure-power-12-netzteil-80-plus-gold-atx-3-1-pcie-5--l0ib4",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "be quiet! Pure Power 12 Netzteil, 80 PLUS Gold, ATX 3.1, PCIe 5.1 - 750 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/be-quiet-pure-power-12-power-supply-80-plus-gold-atx-3.1-pcie-5.1-750-watts/NEBE-249.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 84.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/be-quiet-pure-power-12-power-supply-80-plus-gold-atx-3.1-pcie-5.1-750-watts/NEBE-249.html"
+    }
+   ],
+   "price": 84.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 84.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile quiet pure power netzteil plus gold atx pcie 750 watt",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-silverstone-sst-st45sf-v3-0-80-plus-bronze-sfx-netzteil-450-",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "SilverStone SST-ST45SF V3.0 80 PLUS Bronze SFX Netzteil - 450 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/silverstone-sst-st45sf-v3.0-80-plus-bronze-sfx-power-supply-450-watt/NEST-128.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 87.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/silverstone-sst-st45sf-v3.0-80-plus-bronze-sfx-power-supply-450-watt/NEST-128.html"
+    }
+   ],
+   "price": 87.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 87.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile silverstone sst st45sf plus bronze sfx netzteil 450 watt",
+   "firstSeen": "2026-10-29"
+  },
+  {
    "id": "c-noctua-nh-u12s-chromax-black-cpu-kuhler-120mm",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -7861,6 +8510,93 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-adata-xpg-core-reactor-ii-ve-80-plus-gold-netzteil-atx-3-1-8",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "ADATA XPG CORE REACTOR II VE 80 PLUS Gold Netzteil, ATX 3.1 - 850 Watt, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/adata-xpg-core-reactor-ii-ve-80-plus-gold-power-supply-atx-3.1-850-watts-black/NEAD-011.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 89.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/adata-xpg-core-reactor-ii-ve-80-plus-gold-power-supply-atx-3.1-850-watts-black/NEAD-011.html"
+    }
+   ],
+   "price": 89.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 89.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile adata xpg core reactor plus gold netzteil atx 850 watt schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asus-tuf-gaming-650b-80-plus-bronze-netzteil-650-watt",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "ASUS TUF Gaming 650B 80 PLUS Bronze Netzteil - 650 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-tuf-gaming-650b-80-plus-bronze-power-supply-650-watt/NEAS-011.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 89.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-tuf-gaming-650b-80-plus-bronze-power-supply-650-watt/NEAS-011.html"
+    }
+   ],
+   "price": 89.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 89.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile asus tuf gaming 650b plus bronze netzteil 650 watt",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-seasonic-g12-gc-80-plus-gold-netzteil-850-watt-schwarz",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Seasonic G12 GC 80 PLUS Gold Netzteil - 850 Watt, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/seasonic-netzteil-850w-g12-gc-850-80-gold-power-supply-unit-atx-black/NESE-187.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 89.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/seasonic-netzteil-850w-g12-gc-850-80-gold-power-supply-unit-atx-black/NESE-187.html"
+    }
+   ],
+   "price": 89.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 89.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile seasonic g12 plus gold netzteil 850 watt schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
    "id": "c-be-quiet-dark-rock-pro-6-cpu-kuhler-dual-tower-pwm-1x-120-1x",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -7887,6 +8623,64 @@
    ],
    "count": 1,
    "tags": "kuhlung luftkuhler quiet dark rock pro cpu kuhler dual tower pwm 120 135mm schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-be-quiet-pure-power-12-netzteil-80-plus-gold-atx-3-1-pcie-5--l0ib3",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "be quiet! Pure Power 12 Netzteil, 80 PLUS Gold, ATX 3.1, PCIe 5.1 - 850 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/be-quiet-pure-power-12-power-supply-80-plus-gold-atx-3.1-pcie-5.1-850-watts/NEBE-250.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 94.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/be-quiet-pure-power-12-power-supply-80-plus-gold-atx-3.1-pcie-5.1-850-watts/NEBE-250.html"
+    }
+   ],
+   "price": 94.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 94.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile quiet pure power netzteil plus gold atx pcie 850 watt",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-seasonic-core-gx-80-plus-gold-netzteil-modular-atx-3-1-pcie-",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Seasonic Core GX 80 PLUS Gold Netzteil, modular, ATX 3.1, PCIe 5.1 - 650 Watt, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/seasonic-core-gx-80-plus-gold-power-supply-modular-atx-3.1-pcie-5.1-650-watt-black/NESE-197.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 94.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/seasonic-core-gx-80-plus-gold-power-supply-modular-atx-3.1-pcie-5.1-650-watt-black/NESE-197.html"
+    }
+   ],
+   "price": 94.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 94.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile seasonic core plus gold netzteil modular atx pcie 650 watt schwarz",
    "firstSeen": "2026-10-29"
   },
   {
@@ -7945,6 +8739,93 @@
    ],
    "count": 1,
    "tags": "kuhlung luftkuhler noctua d12l cpu kuhler 120mm",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-kolink-regulator-80-plus-gold-psu-atx-3-0-pcie-5-0-modular-7",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Kolink Regulator 80 PLUS Gold PSU, ATX 3.0, PCIe 5.0, modular - 750 Watts",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/kolink-regulator-80-plus-gold-psu-atx-3.0-pcie-5.0-modular-750-watts/NEKL-047.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 99.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/kolink-regulator-80-plus-gold-psu-atx-3.0-pcie-5.0-modular-750-watts/NEKL-047.html"
+    }
+   ],
+   "price": 99.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 99.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile kolink regulator plus gold psu atx pcie modular 750 watts",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-phanteks-amp-gh-750w-80-plus-gold-netzteil-pcie-5-1-atx-3-1-",
+   "cat": "Netzteile",
+   "sub": "750 W",
+   "name": "Phanteks AMP GH 750W 80 PLUS Gold Netzteil, PCIe 5.1, ATX 3.1 - 750 Watt, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/phanteks-amp-gh-750w-80-plus-gold-power-supply-pcie-5.1-atx-3.1-750-watt-black/NEPH-022.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 99.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/phanteks-amp-gh-750w-80-plus-gold-power-supply-pcie-5.1-atx-3.1-750-watt-black/NEPH-022.html"
+    }
+   ],
+   "price": 99.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 99.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile 750 w phanteks amp 750w plus gold netzteil pcie atx 750 watt schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-phanteks-amp-gh-750w-80-plus-gold-netzteil-pcie-5-1-atx-3-1--oepwy",
+   "cat": "Netzteile",
+   "sub": "750 W",
+   "name": "Phanteks AMP GH 750W 80 PLUS Gold Netzteil, PCIe 5.1, ATX 3.1 - 750 Watt, weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/phanteks-amp-gh-750w-80-plus-gold-power-supply-pcie-5.1-atx-3.1-750-watt-white/NEPH-023.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 99.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/phanteks-amp-gh-750w-80-plus-gold-power-supply-pcie-5.1-atx-3.1-750-watt-white/NEPH-023.html"
+    }
+   ],
+   "price": 99.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 99.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile 750 w phanteks amp 750w plus gold netzteil pcie atx 750 watt weiss",
    "firstSeen": "2026-10-29"
   },
   {
@@ -8035,6 +8916,35 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-silverstone-sst-xe04-4677vb-cpu-kuhler-intel-sockel4677-silb",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Silverstone SST-XE04-4677VB CPU-Kühler, Intel Sockel4677 - silber",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/silverstone-sst-xe04-4677vb-cpu-cooler-intel-socket-4677-silver/GESV-562.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 107.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/silverstone-sst-xe04-4677vb-cpu-cooler-intel-socket-4677-silver/GESV-562.html"
+    }
+   ],
+   "price": 107.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 107.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler silverstone sst xe04 4677vb cpu kuhler intel sockel4677 silber",
+   "firstSeen": "2026-10-29"
+  },
+  {
    "id": "c-akasa-soho-h7-dual-tower-cpu-kuhler-argb-120-mm-schwarz",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -8122,32 +9032,148 @@
    "firstSeen": "2026-10-29"
   },
   {
-   "id": "c-lian-li-strimer-wireless-24-pin-rgb-motherboard-cable-contro",
-   "cat": "Mainboards",
-   "sub": "Mainboards",
-   "name": "Lian Li Strimer Wireless 24-Pin RGB Motherboard Cable + Controller + 2x 8-Pin CPU Cables",
+   "id": "c-lian-li-edge-gold-850-80-plus-gold-netzteil-pcie-5-1-atx-3-1",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Lian Li EDGE GOLD 850 80 PLUS Gold Netzteil, PCIe 5.1, ATX 3.1 - 850 Watt, schwarz",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/lian-li-strimer-wireless-24-pin-rgb-motherboard-cable-controller-2x-8-pin-cpu-cables/GABU-530.html",
-   "stand": "2026-10-29T17:40",
+   "url": "https://www.caseking.de/en/lian-li-edge-gold-850-80-plus-gold-power-supply-pcie-5.1-atx-3.1-850-watts-black/NELI-023.html",
+   "stand": "2026-10-29T22:37",
    "offers": [
     {
      "shop": "caseking.de",
-     "price": 119.8,
+     "price": 109.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/lian-li-strimer-wireless-24-pin-rgb-motherboard-cable-controller-2x-8-pin-cpu-cables/GABU-530.html"
+     "url": "https://www.caseking.de/en/lian-li-edge-gold-850-80-plus-gold-power-supply-pcie-5.1-atx-3.1-850-watts-black/NELI-023.html"
     }
    ],
-   "price": 119.8,
+   "price": 109.9,
    "shop": "caseking.de",
    "hist": [
     {
      "d": "2026-10-29",
-     "p": 119.8
+     "p": 109.9
     }
    ],
    "count": 1,
-   "tags": "mainboards lian strimer wireless pin rgb motherboard cable controller cpu cables",
+   "tags": "netzteile lian edge gold 850 plus netzteil pcie atx watt schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-montech-century-ii-80-plus-gold-netzteil-vollmodular-atx-3-1",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Montech Century II 80 PLUS Gold Netzteil, vollmodular, ATX 3.1, PCIe 5.1 - 1.050 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/montech-century-ii-80-plus-gold-power-supply-fully-modular-atx-3.1-pcie-5.1-1-050-watts/NEMT-011.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 109.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/montech-century-ii-80-plus-gold-power-supply-fully-modular-atx-3.1-pcie-5.1-1-050-watts/NEMT-011.html"
+    }
+   ],
+   "price": 109.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 109.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile montech century plus gold netzteil vollmodular atx pcie 050 watt",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-phanteks-amp-gh-850w-80-plus-gold-netzteil-pcie-5-1-atx-3-1-",
+   "cat": "Netzteile",
+   "sub": "850 W",
+   "name": "Phanteks AMP GH 850W 80 PLUS Gold Netzteil, PCIe 5.1, ATX 3.1 - 850 Watt, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/phanteks-amp-gh-850w-80-plus-gold-power-supply-pcie-5.1-atx-3.1-850-watt-black/NEPH-024.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 109.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/phanteks-amp-gh-850w-80-plus-gold-power-supply-pcie-5.1-atx-3.1-850-watt-black/NEPH-024.html"
+    }
+   ],
+   "price": 109.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 109.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile 850 w phanteks amp 850w plus gold netzteil pcie atx 850 watt schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-phanteks-amp-gh-850w-80-plus-gold-netzteil-pcie-5-1-atx-3-1--oepx0",
+   "cat": "Netzteile",
+   "sub": "850 W",
+   "name": "Phanteks AMP GH 850W 80 PLUS Gold Netzteil, PCIe 5.1, ATX 3.1 - 850 Watt, weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/phanteks-amp-gh-850w-80-plus-gold-power-supply-pcie-5.1-atx-3.1-850-watt-white/NEPH-025.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 109.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/phanteks-amp-gh-850w-80-plus-gold-power-supply-pcie-5.1-atx-3.1-850-watt-white/NEPH-025.html"
+    }
+   ],
+   "price": 109.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 109.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile 850 w phanteks amp 850w plus gold netzteil pcie atx 850 watt weiss",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-silverstone-sst-xe04-sp5b-cpu-kuhler-amd-sp5-silber",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Silverstone SST-XE04-SP5B CPU-Kühler, AMD SP5 - silber",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/silverstone-sst-xe04-sp5b-cpu-cooler-amd-sp5-silver/GESV-563.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 116.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/silverstone-sst-xe04-sp5b-cpu-cooler-amd-sp5-silver/GESV-563.html"
+    }
+   ],
+   "price": 116.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 116.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler silverstone sst xe04 sp5b cpu kuhler amd sp5 silber",
    "firstSeen": "2026-10-29"
   },
   {
@@ -8325,6 +9351,180 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-kolink-regulator-80-plus-gold-psu-atx-3-0-pcie-5-0-modular-8",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Kolink Regulator 80 PLUS Gold PSU, ATX 3.0, PCIe 5.0, modular - 850 Watts",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/kolink-regulator-80-plus-gold-psu-atx-3.0-pcie-5.0-modular-850-watts/NEKL-048.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 119.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/kolink-regulator-80-plus-gold-psu-atx-3.0-pcie-5.0-modular-850-watts/NEKL-048.html"
+    }
+   ],
+   "price": 119.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 119.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile kolink regulator plus gold psu atx pcie modular 850 watts",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-lian-li-sp750-v2-gold-netzteil-modular-atx-3-1-750-watt-schw",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Lian Li SP750 V2 Gold Netzteil, modular, ATX 3.1 - 750 Watt, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/lian-li-sp750-v2-gold-netzteil-modular-atx-3.1-750-watt-schwarz/NELI-026.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 124.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/lian-li-sp750-v2-gold-netzteil-modular-atx-3.1-750-watt-schwarz/NELI-026.html"
+    }
+   ],
+   "price": 124.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 124.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile lian sp750 gold netzteil modular atx 750 watt schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-lian-li-sp750-v2-gold-netzteil-modular-atx-3-1-750-watt-weis",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Lian Li SP750 V2 Gold Netzteil, modular, ATX 3.1 - 750 Watt, weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/lian-li-sp750-v2-gold-netzteil-modular-atx-3.1-750-watt-weiss/NELI-027.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 124.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/lian-li-sp750-v2-gold-netzteil-modular-atx-3.1-750-watt-weiss/NELI-027.html"
+    }
+   ],
+   "price": 124.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 124.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile lian sp750 gold netzteil modular atx 750 watt weiss",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-lian-li-sx-series-80-plus-platinum-netzteil-vollmodular-pcie",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Lian Li SX Series 80 PLUS Platinum Netzteil, vollmodular, PCIe 5.1, ATX 3.1 - 850 Watt, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/lian-li-sx-series-80-plus-platinum-power-supply-fully-modular-pcie-5.1-atx-3.1-850-watts-black/NELI-043.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 124.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/lian-li-sx-series-80-plus-platinum-power-supply-fully-modular-pcie-5.1-atx-3.1-850-watts-black/NELI-043.html"
+    }
+   ],
+   "price": 124.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 124.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile lian series plus platinum netzteil vollmodular pcie atx 850 watt schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-seasonic-focus-gx-80-plus-gold-netzteil-modular-750-watt-sch",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Seasonic Focus GX 80 PLUS Gold Netzteil, modular - 750 Watt, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/seasonic-focus-gx-80-plus-gold-power-supply-modular-750-watts-black/NESE-183.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 124.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/seasonic-focus-gx-80-plus-gold-power-supply-modular-750-watts-black/NESE-183.html"
+    }
+   ],
+   "price": 124.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 124.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile seasonic focus plus gold netzteil modular 750 watt schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-patriot-p410-ssd-pcie-4-0-m-2-2280-500-gb",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 500 GB",
+   "name": "Patriot P410 SSD, PCIe 4.0 M.2 2280 - 500 GB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/patriot-p410-ssd-pcie-4.0-m.2-2280-500-gb/MEPA-011.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 127.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/patriot-p410-ssd-pcie-4.0-m.2-2280-500-gb/MEPA-011.html"
+    }
+   ],
+   "price": 127.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 127.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 500 gb patriot p410 ssd pcie 2280 500",
+   "firstSeen": "2026-10-29"
+  },
+  {
    "id": "c-noctua-u12a-chromax-black-cpu-kuhler-120mm",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -8354,6 +9554,122 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-be-quiet-pure-power-13m-80-plus-gold-netzteil-atx-3-1-pcie-5",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "be quiet! Pure Power 13M 80 PLUS Gold Netzteil, ATX 3.1, PCIe 5.1 - 1.000 Watt, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/be-quiet-pure-power-13m-80-plus-gold-power-supply-atx-3.1-pcie-5.1-1-000-watts-black/NEBE-263.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 129.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/be-quiet-pure-power-13m-80-plus-gold-power-supply-atx-3.1-pcie-5.1-1-000-watts-black/NEBE-263.html"
+    }
+   ],
+   "price": 129.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 129.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile quiet pure power 13m plus gold netzteil atx pcie 000 watt schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-corsair-rmx-series-rm750x-netzteil-80-plus-gold-atx-3-0-pcie",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Corsair RMx Series RM750x Netzteil 80 PLUS Gold, ATX 3.0, PCIe 5.1 - 750 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/corsair-rmx-series-rm750x-power-supply-80-plus-gold-atx-3.0-pcie-5.1-750-watts/NECS-176.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 129.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/corsair-rmx-series-rm750x-power-supply-80-plus-gold-atx-3.0-pcie-5.1-750-watts/NECS-176.html"
+    }
+   ],
+   "price": 129.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 129.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile corsair rmx series rm750x netzteil plus gold atx pcie 750 watt",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-montech-century-ii-80-plus-gold-netzteil-vollmodular-atx-3-1-kdq0s",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Montech Century II 80 PLUS Gold Netzteil, vollmodular, ATX 3.1, PCIe 5.1 - 1.200 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/montech-century-ii-80-plus-gold-power-supply-fully-modular-atx-3.1-pcie-5.1-1-200-watts/NEMT-012.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 129.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/montech-century-ii-80-plus-gold-power-supply-fully-modular-atx-3.1-pcie-5.1-1-200-watts/NEMT-012.html"
+    }
+   ],
+   "price": 129.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 129.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile montech century plus gold netzteil vollmodular atx pcie 200 watt",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-patriot-p400-v4-ssd-pcie-4-0-m-2-2280-500-gb",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 500 GB",
+   "name": "Patriot P400 V4 SSD, PCIe 4.0 M.2 2280 - 500 GB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/patriot-p400-v4-ssd-pcie-4.0-m.2-2280-500-gb/MEPA-007.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 133.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/patriot-p400-v4-ssd-pcie-4.0-m.2-2280-500-gb/MEPA-007.html"
+    }
+   ],
+   "price": 133.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 133.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 500 gb patriot p400 ssd pcie 2280 500",
+   "firstSeen": "2026-10-29"
+  },
+  {
    "id": "c-noctua-nh-u14s-tr5-sp6-cpu-kuhler-140-mm",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -8380,6 +9696,93 @@
    ],
    "count": 1,
    "tags": "kuhlung luftkuhler noctua u14s tr5 sp6 cpu kuhler 140",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-corsair-rme-series-rm1000e-80-plus-gold-netzteil-modular-atx",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Corsair RMe Series RM1000e 80 PLUS Gold Netzteil, modular, ATX 3.1, PCIe 5.1 - 1.000 Watt, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/corsair-rme-series-rm1000e-80-plus-gold-power-supply-modular-atx-3.1-pcie-5.1-1-000-watts-black/NECS-186.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 134.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/corsair-rme-series-rm1000e-80-plus-gold-power-supply-modular-atx-3.1-pcie-5.1-1-000-watts-black/NECS-186.html"
+    }
+   ],
+   "price": 134.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 134.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile corsair rme series rm1000e plus gold netzteil modular atx pcie 000 watt schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-seasonic-focus-sgx-80-plus-gold-netzteil-modular-750-watt",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Seasonic Focus SGX 80 PLUS Gold Netzteil, modular - 750 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/seasonic-focus-sgx-80-plus-gold-power-supply-modular-750-watt/NESE-152.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 134.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/seasonic-focus-sgx-80-plus-gold-power-supply-modular-750-watt/NESE-152.html"
+    }
+   ],
+   "price": 134.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 134.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile seasonic focus sgx plus gold netzteil modular 750 watt",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-silverstone-sst-sx700-g-v1-1-sfx-netzteil-80-plus-gold-modul",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "SilverStone SST-SX700-G v1.1 SFX Netzteil 80 PLUS Gold, modular - 700 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/silverstone-sst-sx700-g-v1.1-sfx-power-supply-80-plus-gold-modular-700-watts/NEST-151.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 137.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/silverstone-sst-sx700-g-v1.1-sfx-power-supply-80-plus-gold-modular-700-watts/NEST-151.html"
+    }
+   ],
+   "price": 137.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 137.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile silverstone sst sx700 sfx netzteil plus gold modular 700 watt",
    "firstSeen": "2026-10-29"
   },
   {
@@ -8470,6 +9873,93 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-corsair-rmx-series-rm850x-netzteil-80-plus-gold-atx-3-0-pcie",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Corsair RMx Series RM850x Netzteil 80 PLUS Gold, ATX 3.0, PCIe 5.1 - 850 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/corsair-rmx-series-rm850x-power-supply-80-plus-gold-atx-3.0-pcie-5.1-850-watts/NECS-177.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 139.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/corsair-rmx-series-rm850x-power-supply-80-plus-gold-atx-3.0-pcie-5.1-850-watts/NECS-177.html"
+    }
+   ],
+   "price": 139.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 139.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile corsair rmx series rm850x netzteil plus gold atx pcie 850 watt",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-kolink-regulator-80-plus-gold-psu-atx-3-0-pcie-5-0-modular-1",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Kolink Regulator 80 PLUS Gold PSU, ATX 3.0, PCIe 5.0, modular - 1000 Watts",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/kolink-regulator-80-plus-gold-psu-atx-3.0-pcie-5.0-modular-1000-watts/NEKL-049.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 139.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/kolink-regulator-80-plus-gold-psu-atx-3.0-pcie-5.0-modular-1000-watts/NEKL-049.html"
+    }
+   ],
+   "price": 139.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 139.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile kolink regulator plus gold psu atx pcie modular 1000 watts",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-seasonic-focus-spx-80-plus-platinum-netzteil-modular-650-wat",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Seasonic Focus SPX 80 PLUS Platinum Netzteil, modular - 650 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/seasonic-focus-spx-80-plus-platinum-power-supply-modular-650-watt/NESE-151.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 139.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/seasonic-focus-spx-80-plus-platinum-power-supply-modular-650-watt/NESE-151.html"
+    }
+   ],
+   "price": 139.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 139.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile seasonic focus spx plus platinum netzteil modular 650 watt",
+   "firstSeen": "2026-10-29"
+  },
+  {
    "id": "c-noctua-nh-d15-g2-hbc-cpu-kuhler-intel-optimiert-140-140mm",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -8525,6 +10015,122 @@
    ],
    "count": 1,
    "tags": "kuhlung luftkuhler thermal grizzly intel 1851 mycro pro rgb cpu kuhler",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-lian-li-sp850-v2-gold-netzteil-modular-atx-3-1-850-watt-schw",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Lian Li SP850 V2 Gold Netzteil, modular, ATX 3.1 - 850 Watt, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/lian-li-sp850-v2-gold-netzteil-modular-atx-3.1-850-watt-schwarz/NELI-028.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 144.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/lian-li-sp850-v2-gold-netzteil-modular-atx-3.1-850-watt-schwarz/NELI-028.html"
+    }
+   ],
+   "price": 144.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 144.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile lian sp850 gold netzteil modular atx 850 watt schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-lian-li-sp850-v2-gold-netzteil-modular-atx-3-1-850-watt-weis",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Lian Li SP850 V2 Gold Netzteil, modular, ATX 3.1 - 850 Watt, weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/lian-li-sp850-v2-gold-netzteil-modular-atx-3.1-850-watt-weiss/NELI-029.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 144.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/lian-li-sp850-v2-gold-netzteil-modular-atx-3.1-850-watt-weiss/NELI-029.html"
+    }
+   ],
+   "price": 144.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 144.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile lian sp850 gold netzteil modular atx 850 watt weiss",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-msi-mpg-a1000g-pcie5-netzteil-80-plus-gold-vollmodular-pcie-",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "MSI MPG A1000G PCIe5 Netzteil, 80 PLUS Gold, vollmodular, PCIe 5.0 - 1000 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/msi-mpg-a1000g-pcie5-power-supply-80-plus-gold-fully-modular-pcie-5.0-1000-watt/NEMS-002.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 144.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/msi-mpg-a1000g-pcie5-power-supply-80-plus-gold-fully-modular-pcie-5.0-1000-watt/NEMS-002.html"
+    }
+   ],
+   "price": 144.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 144.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile msi mpg a1000g pcie5 netzteil plus gold vollmodular pcie 1000 watt",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-silverstone-sst-tx700-g-tfx-netzteil-80-plus-gold-700-watt",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "SilverStone SST-TX700-G TFX Netzteil, 80 PLUS Gold - 700 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/silverstone-sst-tx700-g-tfx-power-supply-80-plus-gold-700-watt/NEST-166.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 144.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/silverstone-sst-tx700-g-tfx-power-supply-80-plus-gold-700-watt/NEST-166.html"
+    }
+   ],
+   "price": 144.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 144.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile silverstone sst tx700 tfx netzteil plus gold 700 watt",
    "firstSeen": "2026-10-29"
   },
   {
@@ -8586,6 +10192,238 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-asus-tuf-gaming-1000w-gold-80-plus-gold-netzteil-modular-100",
+   "cat": "Netzteile",
+   "sub": "1000 W",
+   "name": "ASUS TUF Gaming 1000W Gold 80 PLUS Gold Netzteil, modular - 1000 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-tuf-gaming-1000w-gold-80-plus-gold-power-supply-modular-1000-watt/NEAS-028.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 149.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-tuf-gaming-1000w-gold-80-plus-gold-power-supply-modular-1000-watt/NEAS-028.html"
+    }
+   ],
+   "price": 149.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 149.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile 1000 w asus tuf gaming 1000w gold plus netzteil modular 1000 watt",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-be-quiet-power-zone-2-80-plus-platinum-netzteil-vollmodular--l0i9n",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "be quiet! Power Zone 2 80 PLUS Platinum Netzteil, vollmodular, ATX 3.1, PCIe 5.1 - 850 Watt, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/be-quiet-power-zone-2-80-plus-platinum-power-supply-fully-modular-atx-3.1-pcie-5.1-850-watts-black/NEBE-253.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 149.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/be-quiet-power-zone-2-80-plus-platinum-power-supply-fully-modular-atx-3.1-pcie-5.1-850-watts-black/NEBE-253.html"
+    }
+   ],
+   "price": 149.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 149.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile quiet power zone plus platinum netzteil vollmodular atx pcie 850 watt schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-lian-li-sx-series-80-plus-platinum-netzteil-vollmodular-pcie-8lt72",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Lian Li SX Series 80 PLUS Platinum Netzteil, vollmodular, PCIe 5.1, ATX 3.1 - 1.000 Watt, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/lian-li-sx-series-80-plus-platinum-power-supply-fully-modular-pcie-5.1-atx-3.1-1-000-watts-black/NELI-045.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 149.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/lian-li-sx-series-80-plus-platinum-power-supply-fully-modular-pcie-5.1-atx-3.1-1-000-watts-black/NELI-045.html"
+    }
+   ],
+   "price": 149.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 149.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile lian series plus platinum netzteil vollmodular pcie atx 000 watt schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-lian-li-sx-series-80-plus-platinum-netzteil-vollmodular-pcie-8lt7r",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Lian Li SX Series 80 PLUS Platinum Netzteil, vollmodular, PCIe 5.1, ATX 3.1 - 1.000 Watt, weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/lian-li-sx-series-80-plus-platinum-power-supply-fully-modular-pcie-5.1-atx-3.1-1-000-watts-white/NELI-046.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 149.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/lian-li-sx-series-80-plus-platinum-power-supply-fully-modular-pcie-5.1-atx-3.1-1-000-watts-white/NELI-046.html"
+    }
+   ],
+   "price": 149.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 149.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile lian series plus platinum netzteil vollmodular pcie atx 000 watt weiss",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-phanteks-amp-gh-v2-1000w-80-plus-platinum-netzteil-pcie-5-1-",
+   "cat": "Netzteile",
+   "sub": "1000 W",
+   "name": "Phanteks AMP GH V2 1000W 80 PLUS Platinum Netzteil, PCIe 5.1, ATX 3.1 - 1000 Watt, weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/phanteks-amp-gh-v2-1000w-80-plus-platinum-power-supply-pcie-5.1-atx-3.1-1000-watt-white/NEPH-030.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 149.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/phanteks-amp-gh-v2-1000w-80-plus-platinum-power-supply-pcie-5.1-atx-3.1-1000-watt-white/NEPH-030.html"
+    }
+   ],
+   "price": 149.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 149.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile 1000 w phanteks amp 1000w plus platinum netzteil pcie atx 1000 watt weiss",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-phanteks-amp-gh-v2-1000w-80-plus-platinum-netzteil-pcie-5-1--oepc9",
+   "cat": "Netzteile",
+   "sub": "1000 W",
+   "name": "Phanteks AMP GH V2 1000W 80 PLUS Platinum Netzteil, PCIe 5.1, ATX 3.1 - 1000 Watt, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/phanteks-amp-gh-v2-1000w-80-plus-platinum-power-supply-pcie-5.1-atx-3.1-1000-watts-black/NEPH-031.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 149.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/phanteks-amp-gh-v2-1000w-80-plus-platinum-power-supply-pcie-5.1-atx-3.1-1000-watts-black/NEPH-031.html"
+    }
+   ],
+   "price": 149.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 149.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile 1000 w phanteks amp 1000w plus platinum netzteil pcie atx 1000 watt schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-seasonic-focus-gx-80-plus-gold-netzteil-modular-pcie-5-1-850",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Seasonic Focus GX 80 PLUS Gold Netzteil, modular, PCIe 5.1 - 850 Watt, weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/seasonic-focus-gx-80-plus-gold-power-supply-modular-pcie-5.1-850-watts-white/NESE-179.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 149.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/seasonic-focus-gx-80-plus-gold-power-supply-modular-pcie-5.1-850-watts-white/NESE-179.html"
+    }
+   ],
+   "price": 149.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 149.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile seasonic focus plus gold netzteil modular pcie 850 watt weiss",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-silverstone-sst-sx700-lpt-v1-1-sfx-l-netzteil-80-plus-platin",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "SilverStone SST-SX700-LPT v1.1 SFX-L Netzteil 80 PLUS Platinum, modular - 700 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/silverstone-sst-sx700-lpt-v1.1-sfx-l-power-supply-80-plus-platinum-modular-700-watt/NEST-149.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 157.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/silverstone-sst-sx700-lpt-v1.1-sfx-l-power-supply-80-plus-platinum-modular-700-watt/NEST-149.html"
+    }
+   ],
+   "price": 157.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 157.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile silverstone sst sx700 lpt sfx netzteil plus platinum modular 700 watt",
+   "firstSeen": "2026-10-29"
+  },
+  {
    "id": "c-noctua-nh-d15-g2-chromax-black-cpu-kuhler-dual-tower-pwm-sch",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -8612,6 +10450,151 @@
    ],
    "count": 1,
    "tags": "kuhlung luftkuhler noctua d15 chromax black cpu kuhler dual tower pwm schwarz 140mm",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-patriot-p410-ssd-pcie-4-0-m-2-2280-1-tb",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 1 TB",
+   "name": "Patriot P410 SSD, PCIe 4.0 M.2 2280 - 1 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/patriot-p410-ssd-pcie-4.0-m.2-2280-1-tb/MEPA-010.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 159.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/patriot-p410-ssd-pcie-4.0-m.2-2280-1-tb/MEPA-010.html"
+    }
+   ],
+   "price": 159.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 159.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 1 tb patriot p410 ssd pcie 2280",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-lian-li-sx-series-80-plus-platinum-netzteil-vollmodular-pcie-8lt95",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Lian Li SX Series 80 PLUS Platinum Netzteil, vollmodular, PCIe 5.1, ATX 3.1 - 1.200 Watt, weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/lian-li-sx-series-80-plus-platinum-power-supply-fully-modular-pcie-5.1-atx-3.1-1-200-watts-white/NELI-048.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 159.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/lian-li-sx-series-80-plus-platinum-power-supply-fully-modular-pcie-5.1-atx-3.1-1-200-watts-white/NELI-048.html"
+    }
+   ],
+   "price": 159.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 159.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile lian series plus platinum netzteil vollmodular pcie atx 200 watt weiss",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-phanteks-amp-gh-v2-1200w-80-plus-platinum-netzteil-pcie-5-1-",
+   "cat": "Netzteile",
+   "sub": "1200 W",
+   "name": "Phanteks AMP GH V2 1200W 80 PLUS Platinum Netzteil, PCIe 5.1, ATX 3.1 - 1200 Watt, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/phanteks-amp-gh-v2-1200w-80-plus-platinum-power-supply-pcie-5.1-atx-3.1-1200-watt-black/NEPH-032.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 159.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/phanteks-amp-gh-v2-1200w-80-plus-platinum-power-supply-pcie-5.1-atx-3.1-1200-watt-black/NEPH-032.html"
+    }
+   ],
+   "price": 159.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 159.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile 1200 w phanteks amp 1200w plus platinum netzteil pcie atx 1200 watt schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-phanteks-amp-gh-v2-1200w-80-plus-platinum-netzteil-pcie-5-1--oepc9",
+   "cat": "Netzteile",
+   "sub": "1200 W",
+   "name": "Phanteks AMP GH V2 1200W 80 PLUS Platinum Netzteil, PCIe 5.1, ATX 3.1 - 1200 Watt, weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/phanteks-amp-gh-v2-1200w-80-plus-platinum-power-supply-pcie-5.1-atx-3.1-1200-watts-white/NEPH-033.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 159.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/phanteks-amp-gh-v2-1200w-80-plus-platinum-power-supply-pcie-5.1-atx-3.1-1200-watts-white/NEPH-033.html"
+    }
+   ],
+   "price": 159.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 159.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile 1200 w phanteks amp 1200w plus platinum netzteil pcie atx 1200 watt weiss",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-silverstone-sst-sx700-pt-sfx-netzteil-80-plus-platinum-modul",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "SilverStone SST-SX700-PT SFX Netzteil 80 PLUS Platinum, modular - 700 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/silverstone-sst-sx700-pt-sfx-power-supply-80-plus-platinum-modular-700-watt/NEST-142.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 159.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/silverstone-sst-sx700-pt-sfx-power-supply-80-plus-platinum-modular-700-watt/NEST-142.html"
+    }
+   ],
+   "price": 159.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 159.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile silverstone sst sx700 sfx netzteil plus platinum modular 700 watt",
    "firstSeen": "2026-10-29"
   },
   {
@@ -8673,6 +10656,93 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-lian-li-sp-series-platinum-80-plus-platinum-netzteil-sfx-vol",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Lian Li SP Series Platinum 80 PLUS Platinum Netzteil, SFX, vollmodular, PCIe 5.1, ATX 3.1 - 850 Watt, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/lian-li-sp-series-platinum-80-plus-platinum-power-supply-sfx-fully-modular-pcie-5.1-atx-3.1-850-watts-black/NELI-039.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 164.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/lian-li-sp-series-platinum-80-plus-platinum-power-supply-sfx-fully-modular-pcie-5.1-atx-3.1-850-watts-black/NELI-039.html"
+    }
+   ],
+   "price": 164.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 164.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile lian series platinum plus netzteil sfx vollmodular pcie atx 850 watt schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-lian-li-sp-series-platinum-80-plus-platinum-netzteil-sfx-vol-8lem2",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Lian Li SP Series Platinum 80 PLUS Platinum Netzteil, SFX, vollmodular, PCIe 5.1, ATX 3.1 - 850 Watt, weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/lian-li-sp-series-platinum-80-plus-platinum-power-supply-sfx-fully-modular-pcie-5.1-atx-3.1-850-watts-white/NELI-040.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 164.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/lian-li-sp-series-platinum-80-plus-platinum-power-supply-sfx-fully-modular-pcie-5.1-atx-3.1-850-watts-white/NELI-040.html"
+    }
+   ],
+   "price": 164.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 164.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile lian series platinum plus netzteil sfx vollmodular pcie atx 850 watt weiss",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asus-rog-loki-sfx-l-80-plus-platinum-netzteil-modular-750-wa",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "ASUS ROG Loki SFX-L 80 PLUS Platinum netzteil, modular - 750 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-rog-loki-sfx-l-80-plus-platinum-power-supply-modular-750-watt/NEAS-018.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 165.31,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-rog-loki-sfx-l-80-plus-platinum-power-supply-modular-750-watt/NEAS-018.html"
+    }
+   ],
+   "price": 165.31,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 165.31
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile asus rog loki sfx plus platinum netzteil modular 750 watt",
+   "firstSeen": "2026-10-29"
+  },
+  {
    "id": "c-silverstone-sst-xed120s-ws-cpu-kuhler-4u-formfaktor-silber",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -8699,6 +10769,296 @@
    ],
    "count": 1,
    "tags": "kuhlung luftkuhler silverstone sst xed120s cpu kuhler formfaktor silber",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-patriot-p400-v4-ssd-pcie-4-0-m-2-2280-1-tb",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 1 TB",
+   "name": "Patriot P400 V4 SSD, PCIe 4.0 M.2 2280 - 1 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/patriot-p400-v4-ssd-pcie-4.0-m.2-2280-1-tb/MEPA-006.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 169.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/patriot-p400-v4-ssd-pcie-4.0-m.2-2280-1-tb/MEPA-006.html"
+    }
+   ],
+   "price": 169.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 169.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 1 tb patriot p400 ssd pcie 2280",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-be-quiet-power-zone-2-80-plus-platinum-netzteil-vollmodular-",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "be quiet! Power Zone 2 80 PLUS Platinum Netzteil, vollmodular, ATX 3.1, PCIe 5.1 - 1.000 Watt, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/be-quiet-power-zone-2-80-plus-platinum-power-supply-fully-modular-atx-3.1-pcie-5.1-1-000-watts-black/NEBE-252.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 169.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/be-quiet-power-zone-2-80-plus-platinum-power-supply-fully-modular-atx-3.1-pcie-5.1-1-000-watts-black/NEBE-252.html"
+    }
+   ],
+   "price": 169.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 169.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile quiet power zone plus platinum netzteil vollmodular atx pcie 000 watt schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-corsair-rmx-series-rm1000x-netzteil-80-plus-gold-atx-3-1-pci",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Corsair RMx Series RM1000x Netzteil 80 PLUS Gold, ATX 3.1, PCIe 5.1 - 1000 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/corsair-rmx-series-rm1000x-power-supply-80-plus-gold-atx-3.1-pcie-5.1-1000-watt/NECS-178.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 169.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/corsair-rmx-series-rm1000x-power-supply-80-plus-gold-atx-3.1-pcie-5.1-1000-watt/NECS-178.html"
+    }
+   ],
+   "price": 169.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 169.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile corsair rmx series rm1000x netzteil plus gold atx pcie 1000 watt",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-silverstone-sst-sx750-pt-v-1-1-sfx-netzteil-80-plus-platinum",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "SilverStone SST-SX750-PT V.1.1 SFX Netzteil 80 PLUS Platinum, modular - 750 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/silverstone-sst-sx750-pt-v.1.1-sfx-power-supply-80-plus-platinum-modular-750-watt/NEST-152.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 169.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/silverstone-sst-sx750-pt-v.1.1-sfx-power-supply-80-plus-platinum-modular-750-watt/NEST-152.html"
+    }
+   ],
+   "price": 169.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 169.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile silverstone sst sx750 sfx netzteil plus platinum modular 750 watt",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-intel-core-i5-12600kf-3-70-ghz-alder-lake-s-sockel-1700-boxe",
+   "cat": "Prozessoren",
+   "sub": "Intel LGA1700",
+   "name": "Intel Core i5-12600KF 3,70 GHz (Alder Lake-S) Sockel 1700 - boxed",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/intel-core-i5-12600kf-3.70-ghz-alder-lake-s-socket-1700-boxed/HPIT-744.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 174.75,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/intel-core-i5-12600kf-3.70-ghz-alder-lake-s-socket-1700-boxed/HPIT-744.html"
+    }
+   ],
+   "price": 174.75,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 174.75
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren intel lga1700 intel core 12600kf ghz alder lake sockel 1700 boxed",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-intel-core-i5-12400-2-50-ghz-alder-lake-s-sockel-1700-boxed",
+   "cat": "Prozessoren",
+   "sub": "Intel LGA1700",
+   "name": "Intel Core i5-12400 2,50 GHz (Alder Lake-S) Sockel 1700 - boxed",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/intel-core-i5-12400-2.50-ghz-alder-lake-s-socket-1700-boxed/HPIT-755.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 174.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/intel-core-i5-12400-2.50-ghz-alder-lake-s-socket-1700-boxed/HPIT-755.html"
+    }
+   ],
+   "price": 174.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 174.9
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren intel lga1700 intel core 12400 ghz alder lake sockel 1700 boxed",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-silverstone-hela-750r-80-plus-platinum-netzteil-atx-3-1-pcie",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "SilverStone HELA 750R 80 PLUS Platinum Netzteil, ATX 3.1, PCIe 5.0 - 750 Watt, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/silverstone-hela-750r-80-plus-platinum-power-supply-atx-3.1-pcie-5.1-750-watts-black/NEST-220.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 176.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/silverstone-hela-750r-80-plus-platinum-power-supply-atx-3.1-pcie-5.1-750-watts-black/NEST-220.html"
+    }
+   ],
+   "price": 176.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 176.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile silverstone hela 750r plus platinum netzteil atx pcie 750 watt schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asus-rog-strix-850-platinum-netzteil-80-plus-platinum-modula",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "ASUS ROG Strix 850 Platinum Netzteil, 80 PLUS Platinum, modular, PCIe 5.1 - 850 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-rog-strix-850-platinum-power-supply-80-plus-platinum-modular-pcie-5.1-850-watts/NEAS-037.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 179.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-rog-strix-850-platinum-power-supply-80-plus-platinum-modular-pcie-5.1-850-watts/NEAS-037.html"
+    }
+   ],
+   "price": 179.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 179.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile asus rog strix 850 platinum netzteil plus modular pcie watt",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-lian-li-sp-series-platinum-80-plus-platinum-netzteil-sfx-vol-8lskw",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Lian Li SP Series Platinum 80 PLUS Platinum Netzteil, SFX, vollmodular, PCIe 5.1, ATX 3.1 - 1.000 Watt, weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/lian-li-sp-series-platinum-80-plus-platinum-power-supply-sfx-fully-modular-pcie-5.1-atx-3.1-1-000-watt-white/NELI-042.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 184.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/lian-li-sp-series-platinum-80-plus-platinum-power-supply-sfx-fully-modular-pcie-5.1-atx-3.1-1-000-watt-white/NELI-042.html"
+    }
+   ],
+   "price": 184.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 184.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile lian series platinum plus netzteil sfx vollmodular pcie atx 000 watt weiss",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-be-quiet-dark-power-14-80-plus-titanium-netzteil-atx-3-1-pci-l0hoy",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "be quiet! Dark Power 14 80 PLUS Titanium Netzteil, ATX 3.1, PCIe 5.1 - 850 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/be-quiet-dark-power-14-80-plus-titanium-power-supply-atx-3.1-pcie-5.1-850-watts/NEBE-266.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 193.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/be-quiet-dark-power-14-80-plus-titanium-power-supply-atx-3.1-pcie-5.1-850-watts/NEBE-266.html"
+    }
+   ],
+   "price": 193.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 193.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile quiet dark power plus titanium netzteil atx pcie 850 watt",
    "firstSeen": "2026-10-29"
   },
   {
@@ -8760,32 +11120,235 @@
    "firstSeen": "2026-10-29"
   },
   {
-   "id": "c-delock-slim-bay-wechselrahmen-fur-2-x-2-5-u-2-nvme-ssd-laufw",
-   "cat": "SSDs",
-   "sub": "NVMe",
-   "name": "DeLOCK Slim Bay Wechselrahmen für 2 x 2.5″ U.2 NVMe SSD, Laufwerksgehäuse",
+   "id": "c-intel-core-i5-12600k-3-70-ghz-alder-lake-s-sockel-1700-boxed",
+   "cat": "Prozessoren",
+   "sub": "Intel LGA1700",
+   "name": "Intel Core i5-12600K 3,70 GHz (Alder Lake-S) Sockel 1700 - boxed",
    "source": "crawler",
-   "url": "https://www.alternate.de/DeLOCK/Slim-Bay-Wechselrahmen-f%C3%BCr-2-x-2-5-U-2-NVMe-SSD-Laufwerksgeh%C3%A4use/html/product/100009816",
-   "stand": "2026-10-29T17:40",
+   "url": "https://www.caseking.de/en/intel-core-i5-12600k-3.70-ghz-alder-lake-s-socket-1700-boxed/HPIT-743.html",
+   "stand": "2026-10-29T22:37",
    "offers": [
     {
-     "shop": "ALTERNATE",
-     "price": 202.9,
-     "ship": 7.99,
+     "shop": "caseking.de",
+     "price": 199.9,
+     "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.alternate.de/DeLOCK/Slim-Bay-Wechselrahmen-f%C3%BCr-2-x-2-5-U-2-NVMe-SSD-Laufwerksgeh%C3%A4use/html/product/100009816"
+     "url": "https://www.caseking.de/en/intel-core-i5-12600k-3.70-ghz-alder-lake-s-socket-1700-boxed/HPIT-743.html"
     }
    ],
-   "price": 202.9,
-   "shop": "ALTERNATE",
+   "price": 199.9,
+   "shop": "caseking.de",
    "hist": [
     {
      "d": "2026-10-29",
-     "p": 202.9
+     "p": 199.9
     }
    ],
    "count": 1,
-   "tags": "ssds nvme delock slim bay wechselrahmen fur ssd laufwerksgehause",
+   "tags": "prozessoren intel lga1700 intel core 12600k ghz alder lake sockel 1700 boxed",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-intel-core-ultra-5-250kf-plus-cpu-18-core-5-3-ghz-socket-185",
+   "cat": "Prozessoren",
+   "sub": "Intel LGA1851",
+   "name": "Intel Core Ultra 5 250KF Plus CPU, 18 Core, 5,3 GHz, Socket 1851 (Arrow Lake) - boxed",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/intel-core-ultra-5-250kf-plus-cpu-18-core-5-3-ghz-socket-1851-arrow-lake-boxed/HPIT-855.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 202.43,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/intel-core-ultra-5-250kf-plus-cpu-18-core-5-3-ghz-socket-1851-arrow-lake-boxed/HPIT-855.html"
+    }
+   ],
+   "price": 202.43,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 202.43
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren intel lga1851 intel core ultra 250kf plus cpu ghz socket 1851 arrow lake boxed",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-intel-core-ultra-5-250kf-plus-cpu-18-core-5-3-ghz-socket-185-yfy2v",
+   "cat": "Prozessoren",
+   "sub": "Intel LGA1851",
+   "name": "Intel Core Ultra 5 250KF Plus CPU, 18 Core, 5,3 GHz, Socket 1851 (Arrow Lake) - tray",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/intel-core-ultra-5-250kf-plus-cpu-18-core-5-3-ghz-socket-1851-arrow-lake-tray/HPIT-858.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 203.34,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/intel-core-ultra-5-250kf-plus-cpu-18-core-5-3-ghz-socket-1851-arrow-lake-tray/HPIT-858.html"
+    }
+   ],
+   "price": 203.34,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 203.34
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren intel lga1851 intel core ultra 250kf plus cpu ghz socket 1851 arrow lake tray",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asus-rog-loki-850p-sfx-l-platinum-80-plus-platinum-netzteil-",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "ASUS ROG Loki 850P SFX-L Platinum, 80 PLUS Platinum Netzteil, modular, PCIe 5.0 - 850 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-rog-loki-850p-sfx-l-platinum-80-plus-platinum-power-supply-modular-pcie-5.0-850-watt/NEAS-017.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 214.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-rog-loki-850p-sfx-l-platinum-80-plus-platinum-power-supply-modular-pcie-5.0-850-watt/NEAS-017.html"
+    }
+   ],
+   "price": 214.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 214.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile asus rog loki 850p sfx platinum plus netzteil modular pcie 850 watt",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-seasonic-focus-gx-80-plus-gold-netzteil-modular-1000-watt-we",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Seasonic Focus GX 80 PLUS Gold Netzteil, modular - 1000 Watt, weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/seasonic-focus-gx-80-plus-gold-power-supply-modular-1000-watts-white/NESE-178.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 214.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/seasonic-focus-gx-80-plus-gold-power-supply-modular-1000-watts-white/NESE-178.html"
+    }
+   ],
+   "price": 214.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 214.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile seasonic focus plus gold netzteil modular 1000 watt weiss",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-adata-xpg-mars-980-blade-nvme-ssd-pcie-5-0-m-2-typ-2280-1-tb",
+   "cat": "SSDs",
+   "sub": "PCIe 5.0 1 TB",
+   "name": "ADATA XPG MARS 980 BLADE NVMe SSD, PCIe 5.0 M.2 Typ 2280 - 1 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/adata-xpg-mars-980-blade-nvme-ssd-pcie-5.0-m.2-type-2280-1tb/SSAD-061.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 219.16,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/adata-xpg-mars-980-blade-nvme-ssd-pcie-5.0-m.2-type-2280-1tb/SSAD-061.html"
+    }
+   ],
+   "price": 219.16,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 219.16
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 5.0 1 tb adata xpg mars 980 blade nvme ssd pcie typ 2280",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asus-rog-loki-sfx-l-80-plus-platinum-netzteil-modular-850-wa",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "ASUS ROG Loki SFX-L 80 PLUS Platinum netzteil, modular - 850 Watt - weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-rog-loki-sfx-l-80-plus-platinum-power-supply-modular-850-watt-white/NEAS-020.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 224.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-rog-loki-sfx-l-80-plus-platinum-power-supply-modular-850-watt-white/NEAS-020.html"
+    }
+   ],
+   "price": 224.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 224.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile asus rog loki sfx plus platinum netzteil modular 850 watt weiss",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-be-quiet-dark-power-14-80-plus-titanium-netzteil-atx-3-1-pci-l0hox",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "be quiet! Dark Power 14 80 PLUS Titanium Netzteil, ATX 3.1, PCIe 5.1 - 1.000 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/be-quiet-dark-power-14-80-plus-titanium-power-supply-atx-3.1-pcie-5.1-1-000-watts/NEBE-265.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 229.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/be-quiet-dark-power-14-80-plus-titanium-power-supply-atx-3.1-pcie-5.1-1-000-watts/NEBE-265.html"
+    }
+   ],
+   "price": 229.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 229.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile quiet dark power plus titanium netzteil atx pcie 000 watt",
    "firstSeen": "2026-10-29"
   },
   {
@@ -8818,6 +11381,35 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-silverstone-sst-ex850r-pm-extreme-sfx-netzteil-platinum-850-",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "SilverStone SST-EX850R-PM Extreme SFX Netzteil Platinum - 850 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/silverstone-sst-ex850r-pm-extreme-sfx-netzteil-platinum-850-watt/NEST-210.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 232.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/silverstone-sst-ex850r-pm-extreme-sfx-netzteil-platinum-850-watt/NEST-210.html"
+    }
+   ],
+   "price": 232.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 232.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile silverstone sst ex850r extreme sfx netzteil platinum 850 watt",
+   "firstSeen": "2026-10-29"
+  },
+  {
    "id": "c-phanteks-evolv-x2-pc-gehause-midi-tower-e-atx-tempered-glass",
    "cat": "Gehäuse",
    "sub": "Gehäuse",
@@ -8847,6 +11439,93 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-patriot-viper-pv593-ssd-pcie-5-0-m-2-2280-1-tb",
+   "cat": "SSDs",
+   "sub": "PCIe 5.0 1 TB",
+   "name": "Patriot Viper PV593 SSD PCIe 5.0 M.2 2280 - 1 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/patriot-viper-pv593-ssd-pcie-5.0-m.2-2280-1-tb/MEPA-003.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 234.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/patriot-viper-pv593-ssd-pcie-5.0-m.2-2280-1-tb/MEPA-003.html"
+    }
+   ],
+   "price": 234.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 234.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 5.0 1 tb patriot viper pv593 ssd pcie 2280",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asus-rog-loki-1000p-sfx-l-platinum-80-plus-platinum-netzteil",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "ASUS ROG Loki 1000P SFX-L Platinum, 80 PLUS Platinum Netzteil, modular, PCIe 5.0 - 1.000 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-rog-loki-1000p-sfx-l-platinum-80-plus-platinum-power-supply-modular-pcie-5.0-1-000-watts/NEAS-016.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 239.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-rog-loki-1000p-sfx-l-platinum-80-plus-platinum-power-supply-modular-pcie-5.0-1-000-watts/NEAS-016.html"
+    }
+   ],
+   "price": 239.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 239.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile asus rog loki 1000p sfx platinum plus netzteil modular pcie 000 watt",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asus-rog-strix-1000-platinum-netzteil-80-plus-platinum-modul",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "ASUS ROG Strix 1000 Platinum Netzteil, 80 PLUS Platinum, modular, PCIe 5.1 - 1.000 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-rog-strix-1000-platinum-power-supply-80-plus-platinum-modular-pcie-5.1-1-000-watts/NEAS-036.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 239.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-rog-strix-1000-platinum-power-supply-80-plus-platinum-modular-pcie-5.1-1-000-watts/NEAS-036.html"
+    }
+   ],
+   "price": 239.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 239.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile asus rog strix 1000 platinum netzteil plus modular pcie 000 watt",
+   "firstSeen": "2026-10-29"
+  },
+  {
    "id": "c-lian-li-o11-dynamic-evo-rgb-pc-gehause-bundle-midi-tower-arg",
    "cat": "Gehäuse",
    "sub": "Gehäuse",
@@ -8873,6 +11552,354 @@
    ],
    "count": 1,
    "tags": "gehause lian o11 dynamic evo rgb bundle midi tower argb tempered glass uni fan inf schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-intel-core-i5-14400t-1-5-ghz-raptor-lake-refresh-sockel-1700",
+   "cat": "Prozessoren",
+   "sub": "Intel LGA1700",
+   "name": "Intel Core i5-14400T 1,5 GHz (Raptor Lake Refresh) Sockel 1700 - tray",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/intel-core-i5-14400t-1.5-ghz-raptor-lake-refresh-socket-1700-tray/HPIT-828.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 244.65,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/intel-core-i5-14400t-1.5-ghz-raptor-lake-refresh-socket-1700-tray/HPIT-828.html"
+    }
+   ],
+   "price": 244.65,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 244.65
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren intel lga1700 intel core 14400t ghz raptor lake refresh sockel 1700 tray",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-intel-core-i7-12700kf-3-60-ghz-alder-lake-s-sockel-1700-boxe",
+   "cat": "Prozessoren",
+   "sub": "Intel LGA1700",
+   "name": "Intel Core i7-12700KF 3,60 GHz (Alder Lake-S) Sockel 1700 - boxed",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/intel-core-i7-12700kf-3.60-ghz-alder-lake-s-socket-1700-boxed/HPIT-746.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 244.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/intel-core-i7-12700kf-3.60-ghz-alder-lake-s-socket-1700-boxed/HPIT-746.html"
+    }
+   ],
+   "price": 244.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 244.9
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren intel lga1700 intel core 12700kf ghz alder lake sockel 1700 boxed",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-intel-core-i5-12600-3-30-ghz-alder-lake-s-sockel-1700-boxed",
+   "cat": "Prozessoren",
+   "sub": "Intel LGA1700",
+   "name": "Intel Core i5-12600 3,30 GHz (Alder Lake-S) Sockel 1700 - boxed",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/intel-core-i5-12600-3.30-ghz-alder-lake-s-socket-1700-boxed/HPIT-718.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 245.25,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/intel-core-i5-12600-3.30-ghz-alder-lake-s-socket-1700-boxed/HPIT-718.html"
+    }
+   ],
+   "price": 245.25,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 245.25
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren intel lga1700 intel core 12600 ghz alder lake sockel 1700 boxed",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-corsair-mp600-elite-nvme-ssd-pcie-4-0-m-2-typ-2280-1-tb-mit-",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 1 TB",
+   "name": "Corsair MP600 Elite NVMe SSD, PCIe 4.0 M.2 Typ 2280 - 1 TB mit Kühlkörper",
+   "source": "crawler",
+   "url": "https://www.caseking.de/corsair-mp600-elite-nvme-ssd-pcie-4.0-m.2-typ-2280-1-tb-mit-kuehlkoerper/SSCS-112.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 248.28,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/corsair-mp600-elite-nvme-ssd-pcie-4.0-m.2-typ-2280-1-tb-mit-kuehlkoerper/SSCS-112.html"
+    }
+   ],
+   "price": 248.28,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 248.28
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 1 tb corsair mp600 elite nvme ssd pcie typ 2280 mit kuhlkorper",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asus-rog-strix-1000w-platinum-80-plus-platinum-netzteil-modu",
+   "cat": "Netzteile",
+   "sub": "1000 W",
+   "name": "ASUS ROG Strix 1000W Platinum, 80 PLUS Platinum Netzteil, modular, PCIe 5.1 - 1.000 Watt, weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-rog-strix-1000w-platinum-80-plus-platinum-power-supply-modular-pcie-5.1-1-000-watts-white/NEAS-041.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 249.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-rog-strix-1000w-platinum-80-plus-platinum-power-supply-modular-pcie-5.1-1-000-watts-white/NEAS-041.html"
+    }
+   ],
+   "price": 249.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 249.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile 1000 w asus rog strix 1000w platinum plus netzteil modular pcie 000 watt weiss",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-be-quiet-dark-power-14-80-plus-titanium-netzteil-atx-3-1-pci",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "be quiet! Dark Power 14 80 PLUS Titanium Netzteil, ATX 3.1, PCIe 5.1 - 1.200 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/be-quiet-dark-power-14-80-plus-titanium-power-supply-atx-3.1-pcie-5.1-1-200-watts/NEBE-264.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 249.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/be-quiet-dark-power-14-80-plus-titanium-power-supply-atx-3.1-pcie-5.1-1-200-watts/NEBE-264.html"
+    }
+   ],
+   "price": 249.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 249.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile quiet dark power plus titanium netzteil atx pcie 200 watt",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-seasonic-prime-fanless-tx-netzteil-80-plus-titanium-modular-",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Seasonic Prime Fanless TX Netzteil, 80 PLUS Titanium, modular - 700 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/seasonic-prime-fanless-tx-power-supply-80-plus-titanium-modular-700-watt/NESE-133.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 249.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/seasonic-prime-fanless-tx-power-supply-80-plus-titanium-modular-700-watt/NESE-133.html"
+    }
+   ],
+   "price": 249.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 249.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile seasonic prime fanless netzteil plus titanium modular 700 watt",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-crucial-t700-nvme-ssd-pcie-5-0-m-2-typ-2280-1-tb-mit-kuhlkor",
+   "cat": "SSDs",
+   "sub": "PCIe 5.0 1 TB",
+   "name": "Crucial T700 NVMe SSD, PCIe 5.0 M.2 Typ 2280 - 1 TB mit Kühlkörper",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/crucial-t700-nvme-ssd-pcie-5.0-m.2-type-2280-1-tb-with-heatsink/SSCC-102.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 251.49,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/crucial-t700-nvme-ssd-pcie-5.0-m.2-type-2280-1-tb-with-heatsink/SSCC-102.html"
+    }
+   ],
+   "price": 251.49,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 251.49
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 5.0 1 tb crucial t700 nvme ssd pcie typ 2280 mit kuhlkorper",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-intel-core-i7-12700k-3-60-ghz-alder-lake-s-sockel-1700-boxed",
+   "cat": "Prozessoren",
+   "sub": "Intel LGA1700",
+   "name": "Intel Core i7-12700K 3,60 GHz (Alder Lake-S) Sockel 1700 - boxed",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/intel-core-i7-12700k-3.60-ghz-alder-lake-s-socket-1700-boxed/HPIT-745.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 263.8,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/intel-core-i7-12700k-3.60-ghz-alder-lake-s-socket-1700-boxed/HPIT-745.html"
+    }
+   ],
+   "price": 263.8,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 263.8
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren intel lga1700 intel core 12700k ghz alder lake sockel 1700 boxed",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-amd-ryzen-9-7900x-4-7-ghz-raphael-am5-boxed",
+   "cat": "Prozessoren",
+   "sub": "AM5",
+   "name": "AMD Ryzen 9 7900X 4,7 GHz (Raphael) AM5 - boxed",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/amd-ryzen-9-7900x-4.7-ghz-raphael-am5-boxed/HPAM-250.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 264.31,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/amd-ryzen-9-7900x-4.7-ghz-raphael-am5-boxed/HPAM-250.html"
+    }
+   ],
+   "price": 264.31,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 264.31
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren am5 amd ryzen 7900x ghz raphael boxed",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-intel-core-i7-12700f-2-10-ghz-alder-lake-s-sockel-1700-boxed",
+   "cat": "Prozessoren",
+   "sub": "Intel LGA1700",
+   "name": "Intel Core i7-12700F 2,10 GHz (Alder Lake-S) Sockel 1700 - boxed",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/intel-core-i7-12700f-2.10-ghz-alder-lake-s-socket-1700-boxed/HPIT-715.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 275.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/intel-core-i7-12700f-2.10-ghz-alder-lake-s-socket-1700-boxed/HPIT-715.html"
+    }
+   ],
+   "price": 275.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 275.9
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren intel lga1700 intel core 12700f ghz alder lake sockel 1700 boxed",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-be-quiet-dark-power-pro-13-netzteil-80-plus-titanium-atx-3-1",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "be quiet! Dark Power Pro 13 Netzteil 80 PLUS Titanium, ATX 3.1, PCIe 5.1 - 1300 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/be-quiet-dark-power-pro-13-power-supply-80-plus-titanium-atx-3.1-pcie-5.1-1300-watt/NEBE-234.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 299.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/be-quiet-dark-power-pro-13-power-supply-80-plus-titanium-atx-3.1-pcie-5.1-1300-watt/NEBE-234.html"
+    }
+   ],
+   "price": 299.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 299.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile quiet dark power pro netzteil plus titanium atx pcie 1300 watt",
    "firstSeen": "2026-10-29"
   },
   {
@@ -8934,6 +11961,267 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-intel-core-i7-12700-2-10-ghz-alder-lake-s-sockel-1700-boxed",
+   "cat": "Prozessoren",
+   "sub": "Intel LGA1700",
+   "name": "Intel Core i7-12700 2,10 GHz (Alder Lake-S) Sockel 1700 - boxed",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/intel-core-i7-12700-2.10-ghz-alder-lake-s-socket-1700-boxed/HPIT-717.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 319.63,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/intel-core-i7-12700-2.10-ghz-alder-lake-s-socket-1700-boxed/HPIT-717.html"
+    }
+   ],
+   "price": 319.63,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 319.63
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren intel lga1700 intel core 12700 ghz alder lake sockel 1700 boxed",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-intel-core-i7-14700f-2-1-ghz-raptor-lake-refresh-sockel-1700",
+   "cat": "Prozessoren",
+   "sub": "Intel LGA1700",
+   "name": "Intel Core i7-14700F 2,1 GHz (Raptor Lake Refresh) Sockel 1700 - boxed",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/intel-core-i7-14700f-2.1-ghz-raptor-lake-refresh-socket-1700-boxed/HPIT-823.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 327.32,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/intel-core-i7-14700f-2.1-ghz-raptor-lake-refresh-socket-1700-boxed/HPIT-823.html"
+    }
+   ],
+   "price": 327.32,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 327.32
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren intel lga1700 intel core 14700f ghz raptor lake refresh sockel 1700 boxed",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-silverstone-sst-ha1300r-pm-platinum-netzteil-modular-1300-wa",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Silverstone SST-HA1300R-PM Platinum Netzteil, modular - 1300 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/silverstone-sst-ha1300r-pm-platinum-netzteil-modular-1300-watt/NEST-209.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 329.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/silverstone-sst-ha1300r-pm-platinum-netzteil-modular-1300-watt/NEST-209.html"
+    }
+   ],
+   "price": 329.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 329.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile silverstone sst ha1300r platinum netzteil modular 1300 watt",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-intel-core-i7-14700-2-1-ghz-raptor-lake-refresh-sockel-1700-",
+   "cat": "Prozessoren",
+   "sub": "Intel LGA1700",
+   "name": "Intel Core i7-14700 2,1 GHz (Raptor Lake Refresh) Sockel 1700 - boxed",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/intel-core-i7-14700-2.1-ghz-raptor-lake-refresh-socket-1700-boxed/HPIT-822.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 348.65,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/intel-core-i7-14700-2.1-ghz-raptor-lake-refresh-socket-1700-boxed/HPIT-822.html"
+    }
+   ],
+   "price": 348.65,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 348.65
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren intel lga1700 intel core 14700 ghz raptor lake refresh sockel 1700 boxed",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asus-rog-loki-sfx-l-1200w-80-plus-titanium-netzteil-modular-",
+   "cat": "Netzteile",
+   "sub": "1200 W",
+   "name": "ASUS ROG Loki SFX-L 1200W, 80 PLUS Titanium Netzteil, modular, PCIe 5.0 - 1200 Watt, weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-rog-loki-sfx-l-1200w-80-plus-titanium-power-supply-modular-pcie-5.0-1200-watt-white/NEAS-031.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 349.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-rog-loki-sfx-l-1200w-80-plus-titanium-power-supply-modular-pcie-5.0-1200-watt-white/NEAS-031.html"
+    }
+   ],
+   "price": 349.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 349.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile 1200 w asus rog loki sfx 1200w plus titanium netzteil modular pcie 1200 watt weiss",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-be-quiet-dark-power-pro-13-80-plus-titanium-netzteil-atx-3-1",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "be quiet! Dark Power Pro 13 80 PLUS Titanium Netzteil, ATX 3.1, PCIe 5.1 - 1.600 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/-be-quiet-dark-power-pro-13-80-plus-titanium-power-supply-atx-3.1-pcie-5.1-1-600-watts-/NEBE-233.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 349.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/-be-quiet-dark-power-pro-13-80-plus-titanium-power-supply-atx-3.1-pcie-5.1-1-600-watts-/NEBE-233.html"
+    }
+   ],
+   "price": 349.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 349.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile quiet dark power pro plus titanium netzteil atx pcie 600 watt",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-intel-core-i9-12900k-3-20-ghz-alder-lake-s-sockel-1700-boxed",
+   "cat": "Prozessoren",
+   "sub": "Intel LGA1700",
+   "name": "Intel Core i9-12900K 3,20 GHz (Alder Lake-S) Sockel 1700 - boxed",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/intel-core-i9-12900k-3.20-ghz-alder-lake-s-socket-1700-boxed/HPIT-747.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 394.53,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/intel-core-i9-12900k-3.20-ghz-alder-lake-s-socket-1700-boxed/HPIT-747.html"
+    }
+   ],
+   "price": 394.53,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 394.53
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren intel lga1700 intel core 12900k ghz alder lake sockel 1700 boxed",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asus-rog-thor-platinum-iii-80-plus-platinum-netzteil-modular-5nyhn",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "ASUS ROG Thor Platinum III, 80 PLUS Platinum Netzteil, modular, ATX 3.1, PCIe 5.1 - 1.000 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-rog-thor-platinum-iii-80-plus-platinum-power-supply-modular-atx-3.1-pcie-5.1-1-000-watts/NEAS-040.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 409.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-rog-thor-platinum-iii-80-plus-platinum-power-supply-modular-atx-3.1-pcie-5.1-1-000-watts/NEAS-040.html"
+    }
+   ],
+   "price": 409.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 409.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile asus rog thor platinum iii plus netzteil modular atx pcie 000 watt",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-adata-xpg-mars-980-blade-nvme-ssd-pcie-5-0-m-2-typ-2280-2-tb",
+   "cat": "SSDs",
+   "sub": "PCIe 5.0 2 TB",
+   "name": "ADATA XPG MARS 980 BLADE NVMe SSD, PCIe 5.0 M.2 Typ 2280 - 2 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/adata-xpg-mars-980-blade-nvme-ssd-pcie-5.0-m.2-type-2280-2tb/SSAD-062.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 411.07,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/adata-xpg-mars-980-blade-nvme-ssd-pcie-5.0-m.2-type-2280-2tb/SSAD-062.html"
+    }
+   ],
+   "price": 411.07,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 411.07
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 5.0 2 tb adata xpg mars 980 blade nvme ssd pcie typ 2280",
+   "firstSeen": "2026-10-29"
+  },
+  {
    "id": "c-gigabyte-geforce-rtx-5050-gaming-oc-8g-8192-mb-gddr6",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5050",
@@ -8989,6 +12277,64 @@
    ],
    "count": 1,
    "tags": "gehause tryx luca l70 midi tower weiss panorama argb 360 komplett wasserkuhlung amoled 360mm",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-silverstone-sst-st1500-ti-v2-0-strider-netzteil-80-plus-tita",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "SilverStone SST-ST1500-TI v2.0 Strider Netzteil 80 PLUS Titanium, modular - 1500 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/silverstone-sst-st1500-ti-v2.0-strider-power-supply-80-plus-titanium-modular-1500-watt/NEST-153.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 436.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/silverstone-sst-st1500-ti-v2.0-strider-power-supply-80-plus-titanium-modular-1500-watt/NEST-153.html"
+    }
+   ],
+   "price": 436.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 436.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile silverstone sst st1500 strider netzteil plus titanium modular 1500 watt",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asus-rog-thor-platinum-iii-80-plus-platinum-netzteil-modular",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "ASUS ROG Thor Platinum III, 80 PLUS Platinum Netzteil, modular, ATX 3.1, PCIe 5.1 - 1.200 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-rog-thor-platinum-iii-80-plus-platinum-power-supply-modular-atx-3.1-pcie-5.1-1-200-watts/NEAS-039.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 439.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-rog-thor-platinum-iii-80-plus-platinum-power-supply-modular-atx-3.1-pcie-5.1-1-200-watts/NEAS-039.html"
+    }
+   ],
+   "price": 439.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 439.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile asus rog thor platinum iii plus netzteil modular atx pcie 200 watt",
    "firstSeen": "2026-10-29"
   },
   {
@@ -9108,6 +12454,64 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-patriot-p400-v4-ssd-pcie-4-0-m-2-2280-4-tb",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 4 TB",
+   "name": "Patriot P400 V4 SSD, PCIe 4.0 M.2 2280 - 4 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/patriot-p400-v4-ssd-pcie-4.0-m.2-2280-4-tb/MEPA-004.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 474.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/patriot-p400-v4-ssd-pcie-4.0-m.2-2280-4-tb/MEPA-004.html"
+    }
+   ],
+   "price": 474.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 474.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 4 tb patriot p400 ssd pcie 2280",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-seasonic-prime-px-2200-netzteil-80-plus-platinum-vollmodular",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Seasonic Prime PX-2200 Netzteil, 80 PLUS Platinum, vollmodular, ATX 3.1, PCIe 5.1 - 2.200 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/seasonic-prime-px-2200-power-supply-80-plus-platinum-fully-modular-atx-3.1-pcie-5.1-2-200-watts/NESE-193.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 479.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/seasonic-prime-px-2200-power-supply-80-plus-platinum-fully-modular-atx-3.1-pcie-5.1-2-200-watts/NESE-193.html"
+    }
+   ],
+   "price": 479.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 479.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile seasonic prime 2200 netzteil plus platinum vollmodular atx pcie 200 watt",
+   "firstSeen": "2026-10-29"
+  },
+  {
    "id": "c-gigabyte-geforce-rtx-5060-windforce-oc-8192-mb-gddr7",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5060",
@@ -9134,6 +12538,35 @@
    ],
    "count": 1,
    "tags": "grafikkarten geforce rtx 5060 gigabyte geforce rtx 5060 windforce 8192 gddr7",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-patriot-p410-ssd-pcie-4-0-m-2-2280-4-tb",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 4 TB",
+   "name": "Patriot P410 SSD, PCIe 4.0 M.2 2280 - 4 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/patriot-p410-ssd-pcie-4.0-m.2-2280-4-tb/MEPA-008.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 534.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/patriot-p410-ssd-pcie-4.0-m.2-2280-4-tb/MEPA-008.html"
+    }
+   ],
+   "price": 534.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 534.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 4 tb patriot p410 ssd pcie 2280",
    "firstSeen": "2026-10-29"
   },
   {
@@ -9192,6 +12625,35 @@
    ],
    "count": 1,
    "tags": "grafikkarten geforce rtx 5060 asus dual geforce rtx 5060 edition 8192 gddr7",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-intel-core-i9-14900f-2-0-ghz-raptor-lake-refresh-sockel-1700",
+   "cat": "Prozessoren",
+   "sub": "Intel LGA1700",
+   "name": "Intel Core i9-14900F 2,0 GHz (Raptor Lake Refresh) Sockel 1700 - boxed",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/intel-core-i9-14900f-2.0-ghz-raptor-lake-refresh-socket-1700-boxed/HPIT-825.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 549.28,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/intel-core-i9-14900f-2.0-ghz-raptor-lake-refresh-socket-1700-boxed/HPIT-825.html"
+    }
+   ],
+   "price": 549.28,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 549.28
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren intel lga1700 intel core 14900f ghz raptor lake refresh sockel 1700 boxed",
    "firstSeen": "2026-10-29"
   },
   {
@@ -9369,6 +12831,35 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-intel-core-i9-14900t-1-1-ghz-raptor-lake-refresh-sockel-1700",
+   "cat": "Prozessoren",
+   "sub": "Intel LGA1700",
+   "name": "Intel Core i9-14900T 1,1 GHz (Raptor Lake Refresh) Sockel 1700 - tray",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/intel-core-i9-14900t-1.1-ghz-raptor-lake-refresh-socket-1700-tray/HPIT-832.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 615.6,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/intel-core-i9-14900t-1.1-ghz-raptor-lake-refresh-socket-1700-tray/HPIT-832.html"
+    }
+   ],
+   "price": 615.6,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 615.6
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren intel lga1700 intel core 14900t ghz raptor lake refresh sockel 1700 tray",
+   "firstSeen": "2026-10-29"
+  },
+  {
    "id": "c-gigabyte-geforce-rtx-5060-ti-gaming-oc-8192-mb-gddr7",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5060 Ti",
@@ -9540,6 +13031,35 @@
    ],
    "count": 1,
    "tags": "grafikkarten radeon rx 9060 xt asus dual radeon 9060 white edition 16384 gddr6",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-intel-core-i9-14900ks-3-2-ghz-raptor-lake-refresh-sockel-170",
+   "cat": "Prozessoren",
+   "sub": "Intel LGA1700",
+   "name": "Intel Core i9-14900KS 3,2 GHz (Raptor Lake Refresh) Sockel 1700 - boxed",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/intel-core-i9-14900ks-3.2-ghz-raptor-lake-refresh-socket-1700-boxed/HPIT-833.html",
+   "stand": "2026-10-29T22:37",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 707.21,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/intel-core-i9-14900ks-3.2-ghz-raptor-lake-refresh-socket-1700-boxed/HPIT-833.html"
+    }
+   ],
+   "price": 707.21,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 707.21
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren intel lga1700 intel core 14900ks ghz raptor lake refresh sockel 1700 boxed",
    "firstSeen": "2026-10-29"
   },
   {
