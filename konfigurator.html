@@ -1,0 +1,127 @@
+<!doctype html>
+<html lang="de">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
+<title>PC-Konfigurator · Hardware-Radar</title>
+<meta name="description" content="Stell deinen Gaming-PC mit aktuellen Bestpreisen zusammen. Der Hardware-Radar-Assistent schlägt passende Teile für dein Budget vor und prüft, ob alles zusammenpasst.">
+<meta name="theme-color" content="#0b0e13" media="(prefers-color-scheme: dark)">
+<meta name="theme-color" content="#f3f5f8" media="(prefers-color-scheme: light)">
+<link rel="icon" href="favicon.svg" type="image/svg+xml">
+<link rel="stylesheet" href="assets/style.css">
+<link rel="stylesheet" href="assets/konfigurator.css">
+</head>
+<body>
+<a class="skip" href="#main">Zum Inhalt springen</a>
+
+<!--HR:BODY-START-->
+<header class="site-head"><div class="wrap">
+  <a class="logo" href="./" aria-label="Hardware-Radar Startseite">
+    <svg viewBox="0 0 32 32" aria-hidden="true">
+      <circle cx="16" cy="16" r="14.5" fill="none" stroke="var(--line-strong)" stroke-width="1.5"/>
+      <circle cx="16" cy="16" r="9" fill="none" stroke="var(--line-strong)" stroke-width="1.5"/>
+      <circle cx="16" cy="16" r="3.5" fill="none" stroke="var(--line-strong)" stroke-width="1.5"/>
+      <g class="sweep"><path d="M16 16 L16 1.5 A14.5 14.5 0 0 1 28.6 8.8 Z" fill="var(--signal)" opacity=".35"/><line x1="16" y1="16" x2="16" y2="1.5" stroke="var(--signal)" stroke-width="2" stroke-linecap="round"/></g>
+      <circle cx="23" cy="10" r="2.2" fill="var(--down)"/>
+    </svg>
+    <span class="word">Hardware<b>·</b>Radar</span>
+  </a>
+  <nav class="head-nav" aria-label="Hauptnavigation">
+    <a href="./#deals">Deals</a>
+    <a href="./#preisvergleich">Preisvergleich</a>
+    <a href="konfigurator.html" aria-current="page">PC-Konfigurator</a>
+  </nav>
+</div></header>
+
+<main id="main">
+  <div class="cfg-intro"><div class="wrap">
+    <p class="eyebrow"><span class="dot"></span><span id="stand">Preise werden geladen</span></p>
+    <h1>PC-Konfigurator</h1>
+    <p class="lede">Sag dem Assistenten dein Budget und wofür du den PC brauchst. Er stellt aus den aktuellen Bestpreisen einen passenden PC zusammen, prüft, ob alles zusammenpasst, und erklärt seine Wahl. Jedes Teil kannst du danach selbst tauschen.</p>
+  </div></div>
+
+  <div class="wrap cfg-grid">
+    <!-- Assistent -->
+    <section class="assistant" aria-labelledby="as-title">
+      <div class="as-head">
+        <div class="as-avatar" aria-hidden="true"><svg viewBox="0 0 32 32"><circle cx="16" cy="16" r="12" fill="none" stroke="currentColor" stroke-width="1.6"/><circle cx="16" cy="16" r="6" fill="none" stroke="currentColor" stroke-width="1.6" opacity=".6"/><path d="M16 16 L16 4 A12 12 0 0 1 26.4 10 Z" fill="currentColor" opacity=".35"/><circle cx="21.5" cy="10.5" r="2" fill="var(--down)"/></svg></div>
+        <div><h2 id="as-title">Radar-Assistent</h2><p class="as-sub" id="as-mode">Stellt PCs aus aktuellen Bestpreisen zusammen</p></div>
+      </div>
+
+      <form class="as-quick" id="quick" autocomplete="off">
+        <label class="as-field" for="budget"><span>Budget für den PC</span>
+          <span class="budget-row"><input id="budget" type="range" min="500" max="4000" step="50" value="1500"><output id="budget-out" for="budget">1.500 €</output></span>
+        </label>
+        <fieldset class="as-field"><legend>Wofür vor allem?</legend>
+          <div class="seg" role="radiogroup">
+            <label><input type="radio" name="use" value="1080" id="use-1080"><span>Gaming Full HD</span></label>
+            <label><input type="radio" name="use" value="1440" id="use-1440" checked><span>Gaming WQHD</span></label>
+            <label><input type="radio" name="use" value="2160" id="use-2160"><span>Gaming 4K</span></label>
+            <label><input type="radio" name="use" value="work" id="use-work"><span>Streaming &amp; Arbeit</span></label>
+          </div>
+        </fieldset>
+        <fieldset class="as-field"><legend>Vorlieben</legend>
+          <div class="seg seg-wrap">
+            <label><input type="radio" name="gpu" value="any" id="gpu-any" checked><span>Grafik egal</span></label>
+            <label><input type="radio" name="gpu" value="nvidia" id="gpu-nv"><span>NVIDIA</span></label>
+            <label><input type="radio" name="gpu" value="amd" id="gpu-amd"><span>AMD Radeon</span></label>
+          </div>
+          <label class="check" for="wifi"><input type="checkbox" id="wifi" checked><span>WLAN auf dem Mainboard</span></label>
+          <label class="check" for="monitor"><input type="checkbox" id="monitor"><span>Monitor mit einplanen (zusätzlich zum Budget)</span></label>
+        </fieldset>
+        <button class="btn primary as-go" type="submit" id="build-btn">PC zusammenstellen</button>
+      </form>
+
+      <div class="chat" id="chat" aria-live="polite"></div>
+      <form class="chat-in" id="chat-form" autocomplete="off">
+        <label for="chat-text" class="sr">Nachricht an den Assistenten</label>
+        <input id="chat-text" type="text" placeholder="z. B. „1500 € für 4K, lieber AMD“ oder „stärkere Grafikkarte“" maxlength="400">
+        <button class="btn primary" type="submit">Senden</button>
+      </form>
+      <div class="chips as-hints" id="hints"></div>
+    </section>
+
+    <!-- Zusammenstellung -->
+    <section class="build" aria-labelledby="b-title">
+      <div class="b-head">
+        <h2 id="b-title">Deine Zusammenstellung</h2>
+        <div class="b-total"><span class="lbl">Gesamt</span><span class="val" id="total">0,00 €</span><span class="sub" id="total-sub"></span></div>
+      </div>
+      <div class="checks" id="checks"></div>
+      <div class="slots" id="slots"></div>
+      <div class="b-actions">
+        <button type="button" class="btn ghost" id="copy-list">Liste kopieren</button>
+        <button type="button" class="btn ghost" id="share-link">Link teilen</button>
+        <button type="button" class="btn ghost" id="clear-build">Alles leeren</button>
+      </div>
+      <p class="b-note">Preise laut Hardware-Radar, ohne Gewähr. Leistungsangaben sind grobe Richtwerte für Spiele. Maßgeblich sind Preis und Verfügbarkeit im Shop.</p>
+    </section>
+  </div>
+</main>
+
+<div class="picker" id="picker" hidden>
+  <div class="picker-box" role="dialog" aria-modal="true" aria-labelledby="pk-title">
+    <div class="pk-head"><h2 id="pk-title">Teil wählen</h2><button type="button" class="btn ghost pk-close" id="pk-close" aria-label="Schließen">✕</button></div>
+    <label class="search" for="pk-q"><svg viewBox="0 0 24 24" stroke-width="2.2" aria-hidden="true"><circle cx="10.5" cy="10.5" r="6.5"/><path d="M20 20l-4.6-4.6"/></svg><input id="pk-q" type="search" placeholder="Suchen …" autocomplete="off"></label>
+    <label class="check" for="pk-compat"><input type="checkbox" id="pk-compat" checked><span>Nur passende Teile zeigen</span></label>
+    <div class="pk-list" id="pk-list"></div>
+  </div>
+</div>
+
+<footer class="site-foot"><div class="wrap">
+  <div>
+    <p>Der Radar-Assistent rechnet direkt in deinem Browser mit den aktuellen Preisen aus dem Preisvergleich. Er prüft Sockel, Arbeitsspeicher-Typ, Formfaktor und die nötige Netzteil-Leistung. Spezielle Fälle wie sehr lange Grafikkarten oder hohe CPU-Kühler prüfe bitte zusätzlich beim Hersteller.</p>
+    <p id="aff-note" hidden>* Mit Sternchen markierte Links sind Affiliate-Links. Kaufst du darüber, erhalten wir eine kleine Provision. Für dich ändert sich der Preis nicht.</p>
+  </div>
+  <div class="foot-links">
+    <a href="./">Startseite</a>
+    <a href="impressum.html">Impressum</a>
+    <a href="datenschutz.html">Datenschutz</a>
+  </div>
+</div></footer>
+<!--HR:BODY-END-->
+
+<script src="assets/config.js"></script>
+<script src="assets/konfigurator.js"></script>
+</body>
+</html>

@@ -33,6 +33,10 @@ window.HR_CONFIG = {
     }
   },
 
+  // Optional: Adresse deines eigenen KI-Endpunkts für den PC-Konfigurator (siehe tools/ai-worker/README.md).
+  // Leer = der eingebaute Radar-Assistent antwortet (läuft im Browser, kostenlos, ohne Datenübertragung).
+  aiEndpoint: "",
+
   // true = eingebautes Cookie-Banner. Wenn du stattdessen Googles eigenes Consent-Tool
   // ("Datenschutz und Mitteilungen" in AdSense) nutzt, auf false setzen.
   useBuiltinConsent: true

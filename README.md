@@ -134,6 +134,17 @@ Format eines Produkts in `data/catalog.json` (Preisvergleich):
 
 Erlaubte Kategorien: Grafikkarten, Prozessoren, Arbeitsspeicher, SSDs, Mainboards, Monitore, Netzteile, Gehäuse, Kühlung.
 
+## PC-Konfigurator mit Radar-Assistent
+
+`konfigurator.html` stellt aus den aktuellen Bestpreisen (Preisvergleich und Deals) einen kompletten Gaming-PC zusammen:
+
+- **Assistent:** Budget, Einsatz (Full HD, WQHD, 4K, Streaming/Arbeit), Grafikkarten-Marke, WLAN und optional Monitor wählen. Er prüft alle passenden Kombinationen aus Prozessor und Grafikkarte, nimmt die stärkste fürs Budget und erklärt die Wahl, inklusive Tipp, was mehr Budget bringen würde.
+- **Chat:** versteht Wünsche wie „1500 € für 4K, lieber NVIDIA“, „günstiger“, „stärkere Grafikkarte“, „mit Monitor“, „mehr Speicher“, „warum diese Teile?“.
+- **Kompatibilität:** Sockel, DDR4/DDR5, Mainboard-Größe und Gehäuse, Netzteil-Leistung, mitgelieferter Kühler. Jedes Teil lässt sich tauschen; die Auswahl zeigt nur passende Teile oder markiert, warum etwas nicht passt.
+- **Teilen:** Liste kopieren oder Link teilen. Die Zusammenstellung bleibt im Browser gespeichert.
+
+Die Leistungswerte sind grobe Richtwerte in `assets/konfigurator.js` (Tabellen `CPU_TABLE` und `GPU_TABLE`) und lassen sich dort anpassen, wenn neue Modelle erscheinen. Eine echte KI (Claude) für freie Fragen kannst du optional anschließen, siehe `tools/ai-worker/README.md`.
+
 ## Automatischer Deal-Crawler
 
 Im Ordner `tools/crawler` liegt ein Programm, das selbstständig Shops durchsucht, neue Shops entdeckt, Preise samt Verlauf speichert und Deals erkennt. Es schreibt direkt in `data/catalog.json` und `data/deals.json`, mit direkten Links auf die Produktseiten im Shop. Wie es funktioniert und wie man es einstellt, steht in `tools/crawler/README.md`.

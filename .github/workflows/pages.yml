@@ -31,7 +31,7 @@ jobs:
       - name: Nur die Website-Dateien zusammenstellen
         run: |
           mkdir _site
-          cp -r index.html impressum.html datenschutz.html favicon.svg assets data _site/
+          cp -r index.html konfigurator.html impressum.html datenschutz.html favicon.svg assets data _site/
           [ -f ads.txt ] && cp ads.txt _site/ || true
           [ -f CNAME ] && cp CNAME _site/ || true
           touch _site/.nojekyll
