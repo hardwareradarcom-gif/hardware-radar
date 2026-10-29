@@ -23,14 +23,13 @@ window.HR_CONFIG = {
     awinId: "3139071",
     // AWIN: pro Shop die Advertiser-ID, sobald dich der Shop freigeschaltet hat.
     // Schlüssel = Domain des Shops. Leere Einträge werden ignoriert. Weitere Shops einfach ergänzen.
+    // Erst eintragen, wenn der Shop dich in AWIN unter "Zugelassen" führt.
     awinMerchants: {
-      "mediamarkt.de": "",
-      "saturn.de": "",
-      "alternate.de": "",
-      "notebooksbilliger.de": "",
-      "cyberport.de": "",
-      "galaxus.de": ""
-    }
+    },
+    // Beworben am 29.10.2026, wartet auf Freigabe. Bei Freigabe die Zeile nach oben in awinMerchants kopieren.
+    // "alternate.de": "11731", "notebooksbilliger.de": "11348", "cyberport.de": "11657",
+    // "caseking.de": "28817", "proshop.de": "18501", "computeruniverse.net": "11355",
+    // "msi.com": "130771", "samsung.com": "14815", "conrad.de": "11354", "otto.de": "14336"
   },
 
   // Optional: Adresse deines eigenen KI-Endpunkts für den PC-Konfigurator (siehe tools/ai-worker/README.md).
