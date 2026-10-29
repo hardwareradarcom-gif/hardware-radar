@@ -38,5 +38,5 @@ window.HR_CONFIG = {
 
   // true = eingebautes Cookie-Banner. Wenn du stattdessen Googles eigenes Consent-Tool
   // ("Datenschutz und Mitteilungen" in AdSense) nutzt, auf false setzen.
-  useBuiltinConsent: true
+  useBuiltinConsent: false
 };

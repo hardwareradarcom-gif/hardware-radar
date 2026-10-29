@@ -208,8 +208,9 @@
     $("open-consent").addEventListener("click", function () { showConsent(true); $("consent-accept").focus(); });
     if (!consent()) showConsent(true);
   } else {
-    $("open-consent").hidden = true;
     store("hr-consent", "granted"); // Einwilligung verwaltet dann Googles Consent-Tool
+    // "Cookie-Einstellungen" öffnet Googles Einwilligungsfenster erneut
+    $("open-consent").addEventListener("click", function () { window.googlefc = window.googlefc || {}; googlefc.callbackQueue = googlefc.callbackQueue || []; googlefc.callbackQueue.push(function () { try { googlefc.showRevocationMessage(); } catch (e) {} }); });
   }
   loadAdsense();
 
