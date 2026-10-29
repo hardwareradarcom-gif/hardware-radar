@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T17:39:58.456Z",
+ "updated": "2026-10-29T17:40:28.426Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -223,7 +223,7 @@
    "name": "GIGABYTE GeForce RTX 5080 Gaming OC 16G",
    "url": "https://www.hardwaredealz.com/hardware/gpu/nvidia-geforce-rtx-5080-16gb/gigabyte-gaming-oc-16gb-gddr7-hdmi-3x-dp/preisvergleich.24952",
    "source": "hardwaredealz",
-   "stand": "2026-10-27T16:20",
+   "stand": "2026-10-29T17:40",
    "offers": [
     {
      "shop": "notebooksbilliger.de",
@@ -248,6 +248,14 @@
      "price": 1929,
      "ship": 0,
      "avail": null
+    },
+    {
+     "shop": "caseking.de",
+     "price": 2169,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5080-gaming-oc-16g-16384-mb-gddr7/GCGB-549.html",
+     "crawler": true
     }
    ],
    "price": 1889,
@@ -255,6 +263,10 @@
    "hist": [
     {
      "d": "2026-10-27",
+     "p": 1889
+    },
+    {
+     "d": "2026-10-29",
      "p": 1889
     }
    ]
@@ -2468,13 +2480,21 @@
    "name": "ASUS Prime Radeon RX 9070 XT OC",
    "url": "https://www.hardwaredealz.com/hardware/gpu/amd-radeon-rx-9070-xt-16gb/asus-prime-radeon-oc-16gb-gddr6-hdmi-3x-dp/preisvergleich.26215",
    "source": "hardwaredealz",
-   "stand": "2026-10-29T15:40",
+   "stand": "2026-10-29T17:40",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
      "price": 999,
      "ship": null,
      "avail": null
+    },
+    {
+     "shop": "caseking.de",
+     "price": 999,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-prime-radeon-rx-9070-xt-oc-edition-graphics-card-16384-mb-gddr6/GCAS-659.html",
+     "crawler": true
     }
    ],
    "price": 999,
@@ -2518,13 +2538,21 @@
    "name": "ASUS TUF Gaming GeForce RTX 5080 OC",
    "url": "https://www.hardwaredealz.com/hardware/gpu/nvidia-geforce-rtx-5080-16gb/asus-tuf-gaming-oc-16gb-gddr7-2x-hdmi-3x-dp/preisvergleich.24951",
    "source": "hardwaredealz",
-   "stand": "2026-10-29T15:40",
+   "stand": "2026-10-29T17:40",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
      "price": 2029,
      "ship": null,
      "avail": null
+    },
+    {
+     "shop": "caseking.de",
+     "price": 2139,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-tuf-gaming-geforce-rtx-5080-oc-edition-16384-mb-gddr7/GCAS-643.html",
+     "crawler": true
     }
    ],
    "price": 2029,
@@ -2618,13 +2646,21 @@
    "name": "ASUS Prime Radeon RX 9060 XT OC",
    "url": "https://www.hardwaredealz.com/hardware/gpu/amd-radeon-rx-9060-xt-16gb/asus-prime-radeon-oc-16gb-gddr6-hdmi-2x-dp/preisvergleich.29131",
    "source": "hardwaredealz",
-   "stand": "2026-10-29T15:40",
+   "stand": "2026-10-29T17:40",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
      "price": 669,
      "ship": null,
      "avail": null
+    },
+    {
+     "shop": "caseking.de",
+     "price": 709,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-prime-radeon-rx-9060-xt-oc-edition-graphics-card-16-384-mb-gddr6/GCAS-683.html",
+     "crawler": true
     }
    ],
    "price": 669,
@@ -2668,13 +2704,21 @@
    "name": "GIGABYTE Radeon RX 9070 XT Gaming OC 16G",
    "url": "https://www.hardwaredealz.com/hardware/gpu/amd-radeon-rx-9070-xt-16gb/gigabyte-radeon-gaming-oc-16gb-gddr6-2x-hdmi-2x-dp/preisvergleich.25382",
    "source": "hardwaredealz",
-   "stand": "2026-10-29T15:40",
+   "stand": "2026-10-29T17:40",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
      "price": 861.5,
      "ship": null,
      "avail": null
+    },
+    {
+     "shop": "caseking.de",
+     "price": 1049,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/gigabyte-radeon-rx-9070-xt-gaming-oc-16g-graphics-card-16384-mb-gddr6/GCGB-559.html",
+     "crawler": true
     }
    ],
    "price": 861.5,
@@ -2693,13 +2737,21 @@
    "name": "ASRock Radeon RX 9070 XT Steel Legend Dark",
    "url": "https://www.hardwaredealz.com/hardware/gpu/amd-radeon-rx-9070-xt-16gb/asrock-radeon-steel-legend-dark-1-16gb-gddr6-hdmi-3x-dp/preisvergleich.25288",
    "source": "hardwaredealz",
-   "stand": "2026-10-29T15:40",
+   "stand": "2026-10-29T17:40",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
      "price": 919,
      "ship": null,
      "avail": null
+    },
+    {
+     "shop": "caseking.de",
+     "price": 969,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asrock-radeon-rx-9070-xt-steel-legend-graphics-card-16384-mb-gddr6/GCAR-031.html",
+     "crawler": true
     }
    ],
    "price": 919,
@@ -2718,13 +2770,21 @@
    "name": "GIGABYTE GeForce RTX 5070 Ti Windforce OC SFF 16G",
    "url": "https://www.hardwaredealz.com/hardware/gpu/nvidia-geforce-rtx-5070-ti-16gb/gigabyte-windforce-oc-sff-16gb-gddr7-hdmi-3x-dp/preisvergleich.25199",
    "source": "hardwaredealz",
-   "stand": "2026-10-29T15:40",
+   "stand": "2026-10-29T17:40",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
      "price": 1289,
      "ship": null,
      "avail": null
+    },
+    {
+     "shop": "caseking.de",
+     "price": 1449,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5070-ti-eagle-oc-ice-sff-16g-16384-mb-gddr7/GCGB-555.html",
+     "crawler": true
     }
    ],
    "price": 1289,
@@ -2818,13 +2878,21 @@
    "name": "ASUS TUF Gaming Radeon RX 9070 XT OC",
    "url": "https://www.hardwaredealz.com/hardware/gpu/amd-radeon-rx-9070-xt-16gb/asus-tuf-gaming-radeon-oc-16gb-gddr6-hdmi-3x-dp/preisvergleich.25576",
    "source": "hardwaredealz",
-   "stand": "2026-10-29T15:40",
+   "stand": "2026-10-29T17:40",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
      "price": 1029.89,
      "ship": null,
      "avail": null
+    },
+    {
+     "shop": "caseking.de",
+     "price": 1069,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-tuf-radeon-rx-9070-xt-oc-edition-graphics-card-16384-mb-gddr6/GCAS-658.html",
+     "crawler": true
     }
    ],
    "price": 1029.89,
@@ -3018,8 +3086,16 @@
    "name": "ASUS TUF Gaming GeForce RTX 5070 Ti OC",
    "url": "https://www.hardwaredealz.com/hardware/gpu/nvidia-geforce-rtx-5070-ti-16gb/asus-tuf-gaming-oc-16gb-gddr7-2x-hdmi-3x-dp/preisvergleich.25168",
    "source": "hardwaredealz",
-   "stand": "2026-10-29T15:40",
+   "stand": "2026-10-29T17:40",
    "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 1549,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-tuf-geforce-rtx-5070-ti-oc-white-edition-16-384-mb-gddr7/GCAS-692.html",
+     "crawler": true
+    },
     {
      "shop": "hardwaredealz-Bestpreis",
      "price": 1659,
@@ -3027,12 +3103,12 @@
      "avail": null
     }
    ],
-   "price": 1659,
-   "shop": "hardwaredealz-Bestpreis",
+   "price": 1549,
+   "shop": "caseking.de",
    "hist": [
     {
      "d": "2026-10-29",
-     "p": 1659
+     "p": 1549
     }
    ]
   },
@@ -3143,13 +3219,21 @@
    "name": "GIGABYTE AORUS GeForce RTX 5090 Master ICE 32G",
    "url": "https://www.hardwaredealz.com/hardware/gpu/nvidia-geforce-rtx-5090-32gb/gigabyte-aorus-master-ice-32gb-gddr7-hdmi-3x-dp/preisvergleich.26367",
    "source": "hardwaredealz",
-   "stand": "2026-10-29T15:40",
+   "stand": "2026-10-29T17:40",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
      "price": 7999,
      "ship": null,
      "avail": null
+    },
+    {
+     "shop": "caseking.de",
+     "price": 8499,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/gigabyte-aorus-geforce-rtx-5090-master-32g-32768-mb-gddr7/GCGB-542.html",
+     "crawler": true
     }
    ],
    "price": 7999,
@@ -3168,13 +3252,21 @@
    "name": "ASUS ROG Astral GeForce RTX 5090 OC",
    "url": "https://www.hardwaredealz.com/hardware/gpu/nvidia-geforce-rtx-5090-32gb/asus-rog-astral-oc-32gb-gddr7-2x-hdmi-3x-dp/preisvergleich.26216",
    "source": "hardwaredealz",
-   "stand": "2026-10-29T15:40",
+   "stand": "2026-10-29T17:40",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
      "price": 8099,
      "ship": null,
      "avail": null
+    },
+    {
+     "shop": "caseking.de",
+     "price": 9299,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-rog-astral-geforce-rtx-5090-oc-edition-32768-mb-gddr7/GCAS-650.html",
+     "crawler": true
     }
    ],
    "price": 8099,
@@ -4659,6 +4751,42 @@
    "note": "Aktuell im Angebot, vorher 189,59 €."
   },
   {
+   "id": "c-asus-dual-geforce-rtx-5060-ti-oc-edition-8192-mb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060 Ti",
+   "name": "ASUS Dual GeForce RTX 5060 Ti OC Edition, 8192 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-dual-geforce-rtx-5060-ti-oc-edition-8192-mb-gddr7/GCAS-676.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 599,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-dual-geforce-rtx-5060-ti-oc-edition-8192-mb-gddr7/GCAS-676.html"
+    },
+    {
+     "shop": "proshop.de",
+     "price": 609.9,
+     "ship": 4.99,
+     "avail": "Auf Lager",
+     "url": "https://www.proshop.de/Grafikkarte/ASUS-GeForce-RTX-5060-Ti-DUAL-OC-8GB-GDDR7-RAM-Grafikkarte/3358070"
+    }
+   ],
+   "price": 599,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 599
+    }
+   ],
+   "count": 2,
+   "tags": "grafikkarten geforce rtx 5060 ti asus dual geforce rtx 5060 edition 8192 gddr7",
+   "firstSeen": "2026-10-29"
+  },
+  {
    "id": "c-akasa-ak-cc6308ep01-low-profile-cpu-kuhler-92mm",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -4804,6 +4932,35 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-silverstone-sst-nt09-1700-nitrogon-cpu-kuhler-92mm",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "SilverStone SST-NT09-1700 - Nitrogon CPU Kühler - 92mm",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/silverstone-sst-nt09-1700-nitrogon-cpu-cooler-92mm/CPSI-064.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 17.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/silverstone-sst-nt09-1700-nitrogon-cpu-cooler-92mm/CPSI-064.html"
+    }
+   ],
+   "price": 17.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 17.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler silverstone sst nt09 1700 nitrogon cpu kuhler 92mm",
+   "firstSeen": "2026-10-29"
+  },
+  {
    "id": "c-akasa-ak-959cu-cpu-kuhler-92mm",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -4830,6 +4987,35 @@
    ],
    "count": 1,
    "tags": "kuhlung luftkuhler akasa 959cu cpu kuhler 92mm",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-silverstone-nitrogon-nt08-115x-v2-cpu-kuhler-pwm-92mm",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "SilverStone Nitrogon NT08-115X-V2 CPU-Kühler, PWM - 92mm",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/silverstone-nitrogon-nt08-115x-v2-cpu-cooler-pwm-92mm/CPSI-046.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 18.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/silverstone-nitrogon-nt08-115x-v2-cpu-cooler-pwm-92mm/CPSI-046.html"
+    }
+   ],
+   "price": 18.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 18.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler silverstone nitrogon nt08 115x cpu kuhler pwm 92mm",
    "firstSeen": "2026-10-29"
   },
   {
@@ -5149,6 +5335,35 @@
    ],
    "count": 1,
    "tags": "kuhlung luftkuhler jonsbo 1000max cpu kuhler pwm schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-thermalright-assasin-x120-refine-se-argb-cpu-kuhler-120mm",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Thermalright Assasin X120 Refine SE ARGB CPU-Kühler - 120mm",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/thermalright-assasin-x120-refine-se-argb-cpu-cooler-120mm/CPTR-104.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 22.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/thermalright-assasin-x120-refine-se-argb-cpu-cooler-120mm/CPTR-104.html"
+    }
+   ],
+   "price": 22.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 22.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler thermalright assasin x120 refine argb cpu kuhler 120mm",
    "firstSeen": "2026-10-29"
   },
   {
@@ -5558,6 +5773,35 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-silverstone-sst-nt07-1700-low-profile-cpu-cooler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "SilverStone SST-NT07-1700 Low Profile CPU Cooler",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/silverstone-sst-nt07-1700-low-profile-cpu-cooler/CPSI-068.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 28.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/silverstone-sst-nt07-1700-low-profile-cpu-cooler/CPSI-068.html"
+    }
+   ],
+   "price": 28.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 28.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler silverstone sst nt07 1700 low profile cpu cooler",
+   "firstSeen": "2026-10-29"
+  },
+  {
    "id": "c-akasa-vegas-chroma-ilg-cpu-kuhler-intel-lga-1700-argb",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -5645,6 +5889,64 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-silverstone-sst-ar09-115xp-cpu-kuhler-60mm",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "SilverStone SST-AR09-115XP CPU-Kühler - 60mm",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/silverstone-sst-ar09-115xp-cpu-cooler-60mm/CPSI-032.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 29.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/silverstone-sst-ar09-115xp-cpu-cooler-60mm/CPSI-032.html"
+    }
+   ],
+   "price": 29.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 29.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler silverstone sst ar09 115xp cpu kuhler 60mm",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-thermalright-assassin-spirit-120-evo-cpu-kuhler-120-mm-a-rgb",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Thermalright Assassin Spirit 120 Evo CPU-Kühler - 120 mm, A-RGB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/thermalright-assassin-spirit-120-evo-cpu-cooler-120-mm-a-rgb/CPTR-115.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 29.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/thermalright-assassin-spirit-120-evo-cpu-cooler-120-mm-a-rgb/CPTR-115.html"
+    }
+   ],
+   "price": 29.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 29.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler thermalright assassin spirit 120 evo cpu kuhler rgb",
+   "firstSeen": "2026-10-29"
+  },
+  {
    "id": "c-akasa-ak-955a-bv2-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -5671,6 +5973,35 @@
    ],
    "count": 1,
    "tags": "kuhlung luftkuhler akasa 955a bv2 cpu kuhler",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-silverstone-sst-ar10-115xp-cpu-kuhler-70-mm",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "SilverStone SST-AR10-115XP CPU-Kühler - 70 mm",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/silverstone-sst-ar10-115xp-cpu-cooler-70-mm/CPSI-034.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 32.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/silverstone-sst-ar10-115xp-cpu-cooler-70-mm/CPSI-034.html"
+    }
+   ],
+   "price": 32.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 32.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler silverstone sst ar10 115xp cpu kuhler",
    "firstSeen": "2026-10-29"
   },
   {
@@ -5790,6 +6121,35 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-silverstone-sst-xe01-1700a-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Silverstone SST-XE01-1700A CPU Kühler",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/silverstone-sst-xe01-1700a-cpu-cooler/CPSI-072.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 35.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/silverstone-sst-xe01-1700a-cpu-cooler/CPSI-072.html"
+    }
+   ],
+   "price": 35.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 35.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler silverstone sst xe01 1700a cpu kuhler",
+   "firstSeen": "2026-10-29"
+  },
+  {
    "id": "c-alpenfohn-brocken-4-argb-cpu-kuhler-120mm-weiss",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -5845,6 +6205,35 @@
    ],
    "count": 1,
    "tags": "kuhlung luftkuhler akasa cc6606bp01 low profile cpu kuhler sockel lga 1700 2mm hoch",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-silverstone-ar12-tuf-cpu-kuhler-argb-120mm",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "SilverStone AR12-TUF CPU-Kühler, ARGB - 120mm",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/silverstone-ar12-tuf-cpu-cooler-argb-120mm/CPSI-061.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 36.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/silverstone-ar12-tuf-cpu-cooler-argb-120mm/CPSI-061.html"
+    }
+   ],
+   "price": 36.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 36.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler silverstone ar12 tuf cpu kuhler argb 120mm",
    "firstSeen": "2026-10-29"
   },
   {
@@ -6051,6 +6440,64 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-silverstone-sst-arv140-argb-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Silverstone SST-ARV140-ARGB CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/silverstone-sst-arv140-argb-cpu-cooler/CPSI-075.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 43.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/silverstone-sst-arv140-argb-cpu-cooler/CPSI-075.html"
+    }
+   ],
+   "price": 43.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 43.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler silverstone sst arv140 argb cpu kuhler",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-thermalright-peerless-assassin-120-se-cpu-kuhler-120mm",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Thermalright Peerless Assassin 120 SE CPU-Kühler - 120mm",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/thermalright-peerless-assassin-120-se-cpu-cooler-120mm/CPTR-103.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 43.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/thermalright-peerless-assassin-120-se-cpu-cooler-120mm/CPTR-103.html"
+    }
+   ],
+   "price": 43.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 43.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler thermalright peerless assassin 120 cpu kuhler 120mm",
+   "firstSeen": "2026-10-29"
+  },
+  {
    "id": "c-akasa-alucia-h4-high-performance-cpu-kuhler-120mm",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -6225,6 +6672,93 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-thermalright-axp120-x67-low-profile-cpu-cooler-120mm-black",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Thermalright AXP120 X67 Low Profile CPU Cooler - 120mm, black",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/thermalright-axp120-x67-low-profile-cpu-cooler-120mm-black/CPTR-118.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 44.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/thermalright-axp120-x67-low-profile-cpu-cooler-120mm-black/CPTR-118.html"
+    }
+   ],
+   "price": 44.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 44.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler thermalright axp120 x67 low profile cpu cooler 120mm black",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-thermalright-axp120-x67-argb-low-profile-cpu-kuhler-120mm-sc",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Thermalright AXP120 X67 ARGB Low Profile CPU-Kühler - 120mm, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/thermalright-axp120-x67-argb-low-profile-cpu-kuehler-120mm-schwarz/CPTR-119.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 44.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/thermalright-axp120-x67-argb-low-profile-cpu-kuehler-120mm-schwarz/CPTR-119.html"
+    }
+   ],
+   "price": 44.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 44.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler thermalright axp120 x67 argb low profile cpu kuhler 120mm schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-thermalright-royal-pretor-cpu-cooler-dual-tower-120mm-and-13",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Thermalright Royal Pretor CPU Cooler, Dual Tower - 120mm and 130mm, black",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/thermalright-royal-pretor-cpu-cooler-dual-tower-120mm-and-130mm-black/CPTR-127.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 44.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/thermalright-royal-pretor-cpu-cooler-dual-tower-120mm-and-130mm-black/CPTR-127.html"
+    }
+   ],
+   "price": 44.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 44.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler thermalright royal pretor cpu cooler dual tower 120mm and 130mm black",
+   "firstSeen": "2026-10-29"
+  },
+  {
    "id": "c-jonsbo-ca90-cpu-kuhler-dual-tower-1-x-130mm-1-x-120mm-pwm-ar",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -6251,6 +6785,64 @@
    ],
    "count": 1,
    "tags": "kuhlung luftkuhler jonsbo ca90 cpu kuhler dual tower 130mm 120mm pwm argb schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-silverstone-sst-ar09-am4-cpu-kuhler-fur-2u-server-amd-am4",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "SilverStone SST-AR09-AM4 CPU Kühler für 2U Server - AMD AM4",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/silverstone-sst-ar09-am4-cpu-cooler-for-2u-server-amd-am4/CPSI-065.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 47.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/silverstone-sst-ar09-am4-cpu-cooler-for-2u-server-amd-am4/CPSI-065.html"
+    }
+   ],
+   "price": 47.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 47.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler silverstone sst ar09 am4 cpu kuhler fur server amd",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-silverstone-sst-ar10-1700-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Silverstone SST-AR10-1700 CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/silverstone-sst-ar10-1700-cpu-cooler/CPSI-076.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 47.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/silverstone-sst-ar10-1700-cpu-cooler/CPSI-076.html"
+    }
+   ],
+   "price": 47.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 47.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler silverstone sst ar10 1700 cpu kuhler",
    "firstSeen": "2026-10-29"
   },
   {
@@ -6370,6 +6962,151 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-silverstone-sst-hyh90-argb-hydrogon-cpu-kuhler-argb-92mm",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "SilverStone SST-HYH90-ARGB - Hydrogon CPU Kühler, ARGB - 92mm",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/silverstone-sst-hyh90-argb-hydrogon-cpu-cooler-argb-92mm/CPSI-062.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 49.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/silverstone-sst-hyh90-argb-hydrogon-cpu-cooler-argb-92mm/CPSI-062.html"
+    }
+   ],
+   "price": 49.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 49.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler silverstone sst hyh90 argb hydrogon cpu kuhler 92mm",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-dynatron-xeon-cpu-kuhler-r-27",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Dynatron Xeon CPU-Kühler R-27",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Dynatron/Xeon-CPU-K%C3%BChler-R-27/html/product/1180332",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 49.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Dynatron/Xeon-CPU-K%C3%BChler-R-27/html/product/1180332"
+    }
+   ],
+   "price": 49.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 49.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler dynatron xeon cpu kuhler",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-thermalright-axp120-x67-argb-low-profile-cpu-kuhler-120mm-we",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Thermalright AXP120 X67 ARGB Low Profile CPU-Kühler - 120mm, weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/thermalright-axp120-x67-argb-low-profile-cpu-cooler-120mm-white/CPTR-120.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 49.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/thermalright-axp120-x67-argb-low-profile-cpu-cooler-120mm-white/CPTR-120.html"
+    }
+   ],
+   "price": 49.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 49.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler thermalright axp120 x67 argb low profile cpu kuhler 120mm weiss",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-thermalright-royal-pretor-130-cpu-cooler-dual-tower-1x-120mm",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Thermalright Royal Pretor 130 CPU Cooler, Dual-Tower - 1x 120mm, 1x 130mm, black",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/thermalright-royal-pretor-130-cpu-cooler-dual-tower-1x-120mm-1x-130mm-black/CPTR-125.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 49.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/thermalright-royal-pretor-130-cpu-cooler-dual-tower-1x-120mm-1x-130mm-black/CPTR-125.html"
+    }
+   ],
+   "price": 49.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 49.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler thermalright royal pretor 130 cpu cooler dual tower 120mm 130mm black",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-thermalright-royal-pretor-130-cpu-kuhler-dual-tower-1x-120mm",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Thermalright Royal Pretor 130 CPU-Kühler, Dual-Tower - 1x 120mm, 1x 130mm, weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/thermalright-royal-pretor-130-cpu-cooler-dual-tower-1x-120mm-1x-130mm-white/CPTR-126.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 49.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/thermalright-royal-pretor-130-cpu-cooler-dual-tower-1x-120mm-1x-130mm-white/CPTR-126.html"
+    }
+   ],
+   "price": 49.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 49.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler thermalright royal pretor 130 cpu kuhler dual tower 120mm 130mm weiss",
+   "firstSeen": "2026-10-29"
+  },
+  {
    "id": "c-alpenfohn-brocken-4-max-argb-cpu-kuhler-2x-120mm-schwarz",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -6483,6 +7220,35 @@
    ],
    "count": 1,
    "tags": "kuhlung luftkuhler noctua u12s redux cpu kuhler 120mm",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-thermalright-peerless-assassin-cpu-cooler-dual-tower-140-mm-",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Thermalright Peerless Assassin CPU Cooler, Dual-Tower - 140 mm, black",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/thermalright-peerless-assassin-cpu-cooler-dual-tower-140-mm-black/CPTR-121.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 54.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/thermalright-peerless-assassin-cpu-cooler-dual-tower-140-mm-black/CPTR-121.html"
+    }
+   ],
+   "price": 54.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 54.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler thermalright peerless assassin cpu cooler dual tower 140 black",
    "firstSeen": "2026-10-29"
   },
   {
@@ -6863,6 +7629,35 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-silverstone-sst-nt06-pro-v2-nitrogon-cpu-kuhler-120-mm",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "SilverStone SST-NT06-PRO-V2 Nitrogon CPU-Kühler - 120 mm",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/silverstone-sst-nt06-pro-v2-nitrogon-cpu-cooler-120-mm/CPSI-042.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 71.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/silverstone-sst-nt06-pro-v2-nitrogon-cpu-cooler-120-mm/CPSI-042.html"
+    }
+   ],
+   "price": 71.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 71.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler silverstone sst nt06 pro nitrogon cpu kuhler 120",
+   "firstSeen": "2026-10-29"
+  },
+  {
    "id": "c-akasa-soho-h6l-m2-low-profile-cpu-kuhler-argb-120mm-weiss",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -7153,6 +7948,64 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-msi-pro-h810m-b-mainboard",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "MSI PRO H810M-B, Mainboard",
+   "source": "crawler",
+   "url": "https://www.alternate.de/MSI/PRO-H810M-B-Mainboard/html/product/100140528",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 100.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/MSI/PRO-H810M-B-Mainboard/html/product/100140528"
+    }
+   ],
+   "price": 100.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 100.9
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards msi pro h810m mainboard",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-silverstone-sst-xe04-4189b-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Silverstone SST-XE04-4189B CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/silverstone-sst-xe04-4189b-cpu-cooler/CPSI-077.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 102.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/silverstone-sst-xe04-4189b-cpu-cooler/CPSI-077.html"
+    }
+   ],
+   "price": 102.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 102.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler silverstone sst xe04 4189b cpu kuhler",
+   "firstSeen": "2026-10-29"
+  },
+  {
    "id": "c-noctua-nh-d15-cpu-kuhler-140-140mm",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -7266,6 +8119,35 @@
    ],
    "count": 1,
    "tags": "kuhlung luftkuhler noctua d12l chromax black cpu kuhler 120mm",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-lian-li-strimer-wireless-24-pin-rgb-motherboard-cable-contro",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "Lian Li Strimer Wireless 24-Pin RGB Motherboard Cable + Controller + 2x 8-Pin CPU Cables",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/lian-li-strimer-wireless-24-pin-rgb-motherboard-cable-controller-2x-8-pin-cpu-cables/GABU-530.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 119.8,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/lian-li-strimer-wireless-24-pin-rgb-motherboard-cable-controller-2x-8-pin-cpu-cables/GABU-530.html"
+    }
+   ],
+   "price": 119.8,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 119.8
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards lian strimer wireless pin rgb motherboard cable controller cpu cables",
    "firstSeen": "2026-10-29"
   },
   {
@@ -7385,6 +8267,64 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-phanteks-xt-view-matrix-case-bundle-midi-tower-e-atx-tempere",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Phanteks XT View Matrix Case Bundle, Midi Tower, E-ATX, Tempered Glass + Nxlinq V2 HUB - Black",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/phanteks-xt-view-matrix-case-bundle-midi-tower-e-atx-tempered-glass-nxlinq-v2-hub-black/GABU-729.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 119.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/phanteks-xt-view-matrix-case-bundle-midi-tower-e-atx-tempered-glass-nxlinq-v2-hub-black/GABU-729.html"
+    }
+   ],
+   "price": 119.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 119.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause phanteks view matrix case bundle midi tower atx tempered glass nxlinq hub black",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-phanteks-xt-view-matrix-gehause-bundle-midi-tower-e-atx-temp",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Phanteks XT View Matrix Gehäuse-Bundle, Midi-Tower, E-ATX, Tempered Glass + Nxlinq V2 HUB - weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/phanteks-xt-view-matrix-gehaeuse-bundle-midi-tower-e-atx-tempered-glass-nxlinq-v2-hub-weiss/GABU-730.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 119.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/phanteks-xt-view-matrix-gehaeuse-bundle-midi-tower-e-atx-tempered-glass-nxlinq-v2-hub-weiss/GABU-730.html"
+    }
+   ],
+   "price": 119.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 119.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause phanteks view matrix bundle midi tower atx tempered glass nxlinq hub weiss",
+   "firstSeen": "2026-10-29"
+  },
+  {
    "id": "c-noctua-u12a-chromax-black-cpu-kuhler-120mm",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -7443,6 +8383,93 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-tryx-turris-t620-cpu-luftkuhler-dual-tower-mit-5-zoll-displa",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "TRYX TURRIS T620 CPU-Luftkühler, Dual-Tower, mit 5-Zoll-Display - 120mm, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/tryx-turris-t620-cpu-luftkuehler-dual-tower-mit-5-zoll-display-120mm-schwarz/CPTX-001.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 139.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/tryx-turris-t620-cpu-luftkuehler-dual-tower-mit-5-zoll-display-120mm-schwarz/CPTX-001.html"
+    }
+   ],
+   "price": 139.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 139.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler tryx turris t620 cpu dual tower mit zoll display 120mm schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-tryx-turris-t620-cpu-luftkuhler-dual-tower-mit-5-zoll-displa-ld9kc",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "TRYX TURRIS T620 CPU-Luftkühler, Dual-Tower, mit 5-Zoll-Display - 120mm, weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/tryx-turris-t620-cpu-luftkuehler-dual-tower-mit-5-zoll-display-120mm-weiss/CPTX-002.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 139.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/tryx-turris-t620-cpu-luftkuehler-dual-tower-mit-5-zoll-display-120mm-weiss/CPTX-002.html"
+    }
+   ],
+   "price": 139.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 139.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler tryx turris t620 cpu dual tower mit zoll display 120mm weiss",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-thermal-grizzly-tg-amd-am5-mycro-pro-rgb-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Thermal Grizzly TG AMD AM5 Mycro Pro RGB CPU Kühler",
+   "source": "crawler",
+   "url": "https://www.caseking.de/thermal-grizzly-tg-amd-am5-mycro-pro-rgb-cpu-kuehler/FSD8-078.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 139.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/thermal-grizzly-tg-amd-am5-mycro-pro-rgb-cpu-kuehler/FSD8-078.html"
+    }
+   ],
+   "price": 139.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 139.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler thermal grizzly amd am5 mycro pro rgb cpu kuhler",
+   "firstSeen": "2026-10-29"
+  },
+  {
    "id": "c-noctua-nh-d15-g2-hbc-cpu-kuhler-intel-optimiert-140-140mm",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -7469,6 +8496,35 @@
    ],
    "count": 1,
    "tags": "kuhlung luftkuhler noctua d15 hbc cpu kuhler intel optimiert 140 140mm",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-thermal-grizzly-tg-intel-1851-mycro-pro-rgb-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Thermal Grizzly TG Intel 1851 Mycro Pro RGB CPU Kühler",
+   "source": "crawler",
+   "url": "https://www.caseking.de/thermal-grizzly-tg-intel-1851-mycro-pro-rgb-cpu-kuehler/FSD8-077.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 144.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/thermal-grizzly-tg-intel-1851-mycro-pro-rgb-cpu-kuehler/FSD8-077.html"
+    }
+   ],
+   "price": 144.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 144.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler thermal grizzly intel 1851 mycro pro rgb cpu kuhler",
    "firstSeen": "2026-10-29"
   },
   {
@@ -7556,6 +8612,1543 @@
    ],
    "count": 1,
    "tags": "kuhlung luftkuhler noctua d15 chromax black cpu kuhler dual tower pwm schwarz 140mm",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-msi-pro-b850m-p-wifi-mainboard",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "MSI PRO B850M-P WIFI, Mainboard",
+   "source": "crawler",
+   "url": "https://www.alternate.de/MSI/PRO-B850M-P-WIFI-Mainboard/html/product/100140540",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 161.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/MSI/PRO-B850M-P-WIFI-Mainboard/html/product/100140540"
+    }
+   ],
+   "price": 161.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 161.9
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards msi pro b850m wifi mainboard",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-msi-pro-b850-s-wifi6e-mainboard",
+   "cat": "Mainboards",
+   "sub": "Intel B850",
+   "name": "MSI PRO B850-S WIFI6E, Mainboard",
+   "source": "crawler",
+   "url": "https://www.alternate.de/MSI/PRO-B850-S-WIFI6E-Mainboard/html/product/100140537",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "ALTERNATE GmbH",
+     "price": 162.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/MSI/PRO-B850-S-WIFI6E-Mainboard/html/product/100140537"
+    }
+   ],
+   "price": 162.9,
+   "shop": "ALTERNATE GmbH",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 162.9
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel b850 msi pro b850 wifi6e mainboard",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-silverstone-sst-xed120s-ws-cpu-kuhler-4u-formfaktor-silber",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "SilverStone SST-XED120S-WS CPU-Kühler, 4U-Formfaktor - silber",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/silverstone-sst-xed120s-ws-cpu-cooler-4u-form-factor-silver/CPSI-078.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 169.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/silverstone-sst-xed120s-ws-cpu-cooler-4u-form-factor-silver/CPSI-078.html"
+    }
+   ],
+   "price": 169.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 169.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler silverstone sst xed120s cpu kuhler formfaktor silber",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-phanteks-evolv-x2-matrix-case-bundle-midi-tower-e-atx-temper",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Phanteks Evolv X2 Matrix Case Bundle, Midi Tower, E-ATX, Tempered Glass + Nxlinq V2 HUB - black",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/phanteks-evolv-x2-matrix-case-bundle-midi-tower-e-atx-tempered-glass-nxlinq-v2-hub-black/GABU-727.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 199.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/phanteks-evolv-x2-matrix-case-bundle-midi-tower-e-atx-tempered-glass-nxlinq-v2-hub-black/GABU-727.html"
+    }
+   ],
+   "price": 199.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 199.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause phanteks evolv matrix case bundle midi tower atx tempered glass nxlinq hub black",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-phanteks-evolv-x2-matrix-gehause-bundle-midi-tower-e-atx-tem",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Phanteks Evolv X2 Matrix Gehäuse-Bundle, Midi-Tower, E-ATX, Tempered Glass + Nxlinq V2 HUB - weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/phanteks-evolv-x2-matrix-gehaeuse-bundle-midi-tower-e-atx-tempered-glass-nxlinq-v2-hub-weiss/GABU-728.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 199.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/phanteks-evolv-x2-matrix-gehaeuse-bundle-midi-tower-e-atx-tempered-glass-nxlinq-v2-hub-weiss/GABU-728.html"
+    }
+   ],
+   "price": 199.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 199.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause phanteks evolv matrix bundle midi tower atx tempered glass nxlinq hub weiss",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-delock-slim-bay-wechselrahmen-fur-2-x-2-5-u-2-nvme-ssd-laufw",
+   "cat": "SSDs",
+   "sub": "NVMe",
+   "name": "DeLOCK Slim Bay Wechselrahmen für 2 x 2.5″ U.2 NVMe SSD, Laufwerksgehäuse",
+   "source": "crawler",
+   "url": "https://www.alternate.de/DeLOCK/Slim-Bay-Wechselrahmen-f%C3%BCr-2-x-2-5-U-2-NVMe-SSD-Laufwerksgeh%C3%A4use/html/product/100009816",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 202.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/DeLOCK/Slim-Bay-Wechselrahmen-f%C3%BCr-2-x-2-5-U-2-NVMe-SSD-Laufwerksgeh%C3%A4use/html/product/100009816"
+    }
+   ],
+   "price": 202.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 202.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme delock slim bay wechselrahmen fur ssd laufwerksgehause",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-msi-b850-gaming-plus-wifi-pz-mainboard",
+   "cat": "Mainboards",
+   "sub": "Intel B850",
+   "name": "MSI B850 GAMING PLUS WIFI PZ, Mainboard",
+   "source": "crawler",
+   "url": "https://www.alternate.de/MSI/B850-GAMING-PLUS-WIFI-PZ-Mainboard/html/product/100140531",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 230.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/MSI/B850-GAMING-PLUS-WIFI-PZ-Mainboard/html/product/100140531"
+    }
+   ],
+   "price": 230.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 230.9
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel b850 msi b850 gaming plus wifi mainboard",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-phanteks-evolv-x2-pc-gehause-midi-tower-e-atx-tempered-glass",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "PHANTEKS Evolv X2 PC-Gehäuse, Midi-Tower, E-ATX, Tempered Glass, DRGB - weiß + Glacier One 360M25 Gen2 DRGB AiO Wasserkühlung - 360mm",
+   "source": "crawler",
+   "url": "https://www.caseking.de/phanteks-evolv-x2-pc-gehaeuse-midi-tower-e-atx-tempered-glass-drgb-weiss-glacier-one-360m25-gen2-drgb-aio-wasserkuehlung-360mm/GABU-519.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 234.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/phanteks-evolv-x2-pc-gehaeuse-midi-tower-e-atx-tempered-glass-drgb-weiss-glacier-one-360m25-gen2-drgb-aio-wasserkuehlung-360mm/GABU-519.html"
+    }
+   ],
+   "price": 234.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 234.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause phanteks evolv midi tower atx tempered glass drgb weiss glacier one 360m25 gen2 aio wasserkuhlung 360mm",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-lian-li-o11-dynamic-evo-rgb-pc-gehause-bundle-midi-tower-arg",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Lian Li O11 Dynamic EVO RGB PC-Gehäuse Bundle, Midi-Tower, ARGB, Tempered Glass + 3x UNI FAN SL-INF - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/lian-li-o11-dynamic-evo-rgb-pc-gehaeuse-bundle-midi-tower-argb-tempered-glass-3x-uni-fan-sl-inf-schwarz/GABU-741.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 242.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/lian-li-o11-dynamic-evo-rgb-pc-gehaeuse-bundle-midi-tower-argb-tempered-glass-3x-uni-fan-sl-inf-schwarz/GABU-741.html"
+    }
+   ],
+   "price": 242.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 242.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause lian o11 dynamic evo rgb bundle midi tower argb tempered glass uni fan inf schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asus-geforce-rtx-3050-dual-o6g-6144-mb-gddr6",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 3050",
+   "name": "ASUS GeForce RTX 3050 Dual O6G, 6144 MB GDDR6",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-geforce-rtx-3050-dual-o6g-6144-mb-gddr6/GCAS-616.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 309,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-geforce-rtx-3050-dual-o6g-6144-mb-gddr6/GCAS-616.html"
+    }
+   ],
+   "price": 309,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 309
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 3050 asus geforce rtx 3050 dual o6g 6144 gddr6",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asus-geforce-rtx-3050-low-profile-o6g-6144-mb-gddr6",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 3050",
+   "name": "ASUS GeForce RTX 3050 Low Profile O6G, 6144 MB GDDR6",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-geforce-rtx-3050-low-profile-o6g-6144-mb-gddr6/GCAS-617.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 319,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-geforce-rtx-3050-low-profile-o6g-6144-mb-gddr6/GCAS-617.html"
+    }
+   ],
+   "price": 319,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 319
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 3050 asus geforce rtx 3050 low profile o6g 6144 gddr6",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-gigabyte-geforce-rtx-5050-gaming-oc-8g-8192-mb-gddr6",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5050",
+   "name": "GIGABYTE GeForce RTX 5050 GAMING OC 8G, 8192 MB GDDR6",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5050-gaming-oc-8g-8192-mb-gddr6/GCGB-591.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 420.69,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5050-gaming-oc-8g-8192-mb-gddr6/GCGB-591.html"
+    }
+   ],
+   "price": 420.69,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 420.69
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5050 gigabyte geforce rtx 5050 gaming 8192 gddr6",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-tryx-luca-l70-midi-tower-weiss-panorama-se-argb-360-komplett",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "TRYX LUCA L70 Midi-Tower - weiß + PANORAMA SE ARGB 360 Komplett-Wasserkühlung, 3D-AMOLED, 360mm - weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/tryx-luca-l70-midi-tower-white-panorama-se-argb-360-complete-water-cooling-3d-amoled-360mm-white/GABU-596.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 429.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/tryx-luca-l70-midi-tower-white-panorama-se-argb-360-complete-water-cooling-3d-amoled-360mm-white/GABU-596.html"
+    }
+   ],
+   "price": 429.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 429.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause tryx luca l70 midi tower weiss panorama argb 360 komplett wasserkuhlung amoled 360mm",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-gainward-geforce-rtx-5050-ghost-8gb-grafikkarte",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5050",
+   "name": "Gainward GeForce RTX 5050 Ghost 8GB, Grafikkarte",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Gainward/GeForce-RTX-5050-Ghost-8GB-Grafikkarte/html/product/100140887",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 441,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Gainward/GeForce-RTX-5050-Ghost-8GB-Grafikkarte/html/product/100140887"
+    }
+   ],
+   "price": 441,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 441
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5050 gainward geforce rtx 5050 ghost 8gb grafikkarte",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-gigabyte-geforce-rtx-5050-windforce-oc-8g-8192-mb-gddr6",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5050",
+   "name": "GIGABYTE GeForce RTX 5050 WINDFORCE OC 8G, 8192 MB GDDR6",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5050-windforce-oc-8g-8192-mb-gddr6/GCGB-592.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 446.4,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5050-windforce-oc-8g-8192-mb-gddr6/GCGB-592.html"
+    }
+   ],
+   "price": 446.4,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 446.4
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5050 gigabyte geforce rtx 5050 windforce 8192 gddr6",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asus-dual-geforce-rtx-5050-oc-edition-8192-mb-gddr6",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5050",
+   "name": "ASUS Dual GeForce RTX 5050 OC Edition, 8192 MB GDDR6",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-dual-geforce-rtx-5050-oc-edition-8192-mb-gddr6/GCAS-697.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 450.19,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-dual-geforce-rtx-5050-oc-edition-8192-mb-gddr6/GCAS-697.html"
+    }
+   ],
+   "price": 450.19,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 450.19
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5050 asus dual geforce rtx 5050 edition 8192 gddr6",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-gigabyte-geforce-rtx-5050-oc-low-profile-8g-8192-mb-gddr6",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5050",
+   "name": "GIGABYTE GeForce RTX 5050 OC Low Profile 8G, 8192 MB GDDR6",
+   "source": "crawler",
+   "url": "https://www.caseking.de/gigabyte-geforce-rtx-5050-oc-low-profile-8g-8192-mb-gddr6/GCGB-593.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 468.38,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/gigabyte-geforce-rtx-5050-oc-low-profile-8g-8192-mb-gddr6/GCGB-593.html"
+    }
+   ],
+   "price": 468.38,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 468.38
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5050 gigabyte geforce rtx 5050 low profile 8192 gddr6",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-gigabyte-geforce-rtx-5060-windforce-oc-8192-mb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060",
+   "name": "GIGABYTE GeForce RTX 5060 Windforce OC, 8192 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5060-windforce-oc-8192-mb-gddr7/GCGB-585.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 529.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5060-windforce-oc-8192-mb-gddr7/GCGB-585.html"
+    }
+   ],
+   "price": 529.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 529.9
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 gigabyte geforce rtx 5060 windforce 8192 gddr7",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-gigabyte-geforce-rtx-5060-eagle-oc-8192-mb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060",
+   "name": "GIGABYTE GeForce RTX 5060 Eagle OC, 8192 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5060-eagle-oc-8192-mb-gddr7/GCGB-586.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 539,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5060-eagle-oc-8192-mb-gddr7/GCGB-586.html"
+    }
+   ],
+   "price": 539,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 539
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 gigabyte geforce rtx 5060 eagle 8192 gddr7",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asus-dual-geforce-rtx-5060-oc-edition-8192-mb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060",
+   "name": "ASUS Dual GeForce RTX 5060 OC Edition, 8192 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-dual-geforce-rtx-5060-oc-edition-8192-mb-gddr7/GCAS-686.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 549,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-dual-geforce-rtx-5060-oc-edition-8192-mb-gddr7/GCAS-686.html"
+    }
+   ],
+   "price": 549,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 549
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 asus dual geforce rtx 5060 edition 8192 gddr7",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asus-prime-geforce-rtx-5060-oc-edition-8192-mb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060",
+   "name": "ASUS Prime GeForce RTX 5060 OC Edition, 8192 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-prime-geforce-rtx-5060-oc-edition-8192-mb-gddr7/GCAS-688.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 549.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-prime-geforce-rtx-5060-oc-edition-8192-mb-gddr7/GCAS-688.html"
+    }
+   ],
+   "price": 549.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 549.9
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 asus prime geforce rtx 5060 edition 8192 gddr7",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asus-tuf-geforce-rtx-5060-oc-edition-8192-mb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060",
+   "name": "ASUS TUF GeForce RTX 5060 OC Edition, 8192 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-tuf-geforce-rtx-5060-oc-edition-8192-mb-gddr7/GCAS-690.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 569,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-tuf-geforce-rtx-5060-oc-edition-8192-mb-gddr7/GCAS-690.html"
+    }
+   ],
+   "price": 569,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 569
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 asus tuf geforce rtx 5060 edition 8192 gddr7",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asus-dual-geforce-rtx-5060-white-oc-edition-8192-mb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060",
+   "name": "ASUS Dual GeForce RTX 5060 White OC Edition, 8192 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-dual-geforce-rtx-5060-white-oc-edition-8192-mb-gddr7/GCAS-711.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 579,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-dual-geforce-rtx-5060-white-oc-edition-8192-mb-gddr7/GCAS-711.html"
+    }
+   ],
+   "price": 579,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 579
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 asus dual geforce rtx 5060 white edition 8192 gddr7",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-gigabyte-geforce-rtx-5060-eagle-oc-ice-8192-mb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060",
+   "name": "GIGABYTE GeForce RTX 5060 Eagle OC ICE, 8192 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5060-eagle-oc-ice-8192-mb-gddr7/GCGB-587.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 579,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5060-eagle-oc-ice-8192-mb-gddr7/GCGB-587.html"
+    }
+   ],
+   "price": 579,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 579
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 gigabyte geforce rtx 5060 eagle ice 8192 gddr7",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-gigabyte-geforce-rtx-5060-ti-windforce-8192-mb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060 Ti",
+   "name": "Gigabyte GeForce RTX 5060 Ti Windforce, 8192 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5060-ti-windforce-8192-mb-gddr7/GCGB-580.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 599,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5060-ti-windforce-8192-mb-gddr7/GCGB-580.html"
+    }
+   ],
+   "price": 599,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 599
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 ti gigabyte geforce rtx 5060 windforce 8192 gddr7",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-gigabyte-geforce-rtx-5060-oc-8192-mb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060",
+   "name": "GIGABYTE GeForce RTX 5060 OC, 8192 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5060-oc-8192-mb-gddr7/GCGB-583.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 599,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5060-oc-8192-mb-gddr7/GCGB-583.html"
+    }
+   ],
+   "price": 599,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 599
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 gigabyte geforce rtx 5060 8192 gddr7",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-gigabyte-geforce-rtx-5060-ti-gaming-oc-8192-mb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060 Ti",
+   "name": "Gigabyte GeForce RTX 5060 Ti Gaming OC, 8192 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5060-ti-gaming-oc-8192-mb-gddr7/GCGB-577.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 619,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5060-ti-gaming-oc-8192-mb-gddr7/GCGB-577.html"
+    }
+   ],
+   "price": 619,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 619
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 ti gigabyte geforce rtx 5060 gaming 8192 gddr7",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-gigabyte-geforce-rtx-5060-ti-windforce-oc-8192-mb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060 Ti",
+   "name": "Gigabyte GeForce RTX 5060 Ti Windforce OC, 8192 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5060-ti-windforce-oc-8192-mb-gddr7/GCGB-579.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 619,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5060-ti-windforce-oc-8192-mb-gddr7/GCGB-579.html"
+    }
+   ],
+   "price": 619,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 619
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 ti gigabyte geforce rtx 5060 windforce 8192 gddr7",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-gigabyte-geforce-rtx-5060-ti-aero-oc-8192-mb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060 Ti",
+   "name": "Gigabyte GeForce RTX 5060 Ti Aero OC, 8192 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5060-ti-aero-oc-8192-mb-gddr7/GCGB-576.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 629,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5060-ti-aero-oc-8192-mb-gddr7/GCGB-576.html"
+    }
+   ],
+   "price": 629,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 629
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 ti gigabyte geforce rtx 5060 aero 8192 gddr7",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asrock-radeon-9060-xt-cl-grafikkarte-16384-mb-gddr6",
+   "cat": "Grafikkarten",
+   "sub": "Grafikkarten",
+   "name": "ASRock Radeon 9060 XT CL Grafikkarte, 16384 MB GDDR6",
+   "source": "crawler",
+   "url": "https://www.caseking.de/asrock-radeon-9060-xt-cl-grafikkarte-16384-mb-gddr6/GCAR-034.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 669,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/asrock-radeon-9060-xt-cl-grafikkarte-16384-mb-gddr6/GCAR-034.html"
+    }
+   ],
+   "price": 669,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 669
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten asrock radeon 9060 grafikkarte 16384 gddr6",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asrock-radeon-9060-xt-sl-grafikkarte-16384-mb-gddr6",
+   "cat": "Grafikkarten",
+   "sub": "Grafikkarten",
+   "name": "ASRock Radeon 9060 XT SL Grafikkarte, 16384 MB GDDR6",
+   "source": "crawler",
+   "url": "https://www.caseking.de/asrock-radeon-9060-xt-sl-grafikkarte-16384-mb-gddr6/GCAR-033.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 679,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/asrock-radeon-9060-xt-sl-grafikkarte-16384-mb-gddr6/GCAR-033.html"
+    }
+   ],
+   "price": 679,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 679
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten asrock radeon 9060 grafikkarte 16384 gddr6",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asus-dual-radeon-rx-9060-xt-white-edition-16384-mb-gddr6",
+   "cat": "Grafikkarten",
+   "sub": "Radeon RX 9060 XT",
+   "name": "ASUS Dual Radeon RX 9060 XT White Edition, 16384 MB GDDR6",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-dual-radeon-rx-9060-xt-white-edition-16384-mb-gddr6/GCAS-701.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 689,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-dual-radeon-rx-9060-xt-white-edition-16384-mb-gddr6/GCAS-701.html"
+    }
+   ],
+   "price": 689,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 689
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten radeon rx 9060 xt asus dual radeon 9060 white edition 16384 gddr6",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asus-dual-geforce-rtx-5060-ti-white-oc-edition-16384-mb-gddr",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060 Ti",
+   "name": "ASUS Dual GeForce RTX 5060 Ti White OC Edition, 16384 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-dual-geforce-rtx-5060-ti-white-oc-edition-16384-mb-gddr7/GCAS-707.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 849,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-dual-geforce-rtx-5060-ti-white-oc-edition-16384-mb-gddr7/GCAS-707.html"
+    }
+   ],
+   "price": 849,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 849
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 ti asus dual geforce rtx 5060 white edition 16384 gddr7",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asus-prime-geforce-rtx-5060-ti-oc-edition-16384-mb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060 Ti",
+   "name": "ASUS Prime GeForce RTX 5060 Ti OC Edition, 16384 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-prime-geforce-rtx-5060-ti-oc-edition-16384-mb-gddr7/GCAS-668.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 859,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-prime-geforce-rtx-5060-ti-oc-edition-16384-mb-gddr7/GCAS-668.html"
+    }
+   ],
+   "price": 859,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 859
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 ti asus prime geforce rtx 5060 edition 16384 gddr7",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-gigabyte-geforce-rtx-5070-eagle-oc-ice-sff-12g-12288-mb-gddr",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5070",
+   "name": "GIGABYTE GeForce RTX 5070 Eagle OC Ice SFF 12G, 12288 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5070-eagle-oc-ice-sff-12g-12288-mb-gddr7/GCGB-564.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 875.21,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5070-eagle-oc-ice-sff-12g-12288-mb-gddr7/GCGB-564.html"
+    }
+   ],
+   "price": 875.21,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 875.21
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5070 gigabyte geforce rtx 5070 eagle ice sff 12g 12288 gddr7",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-gigabyte-geforce-rtx-5070-eagle-oc-sff-12g-12288-mb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5070",
+   "name": "GIGABYTE GeForce RTX 5070 Eagle OC SFF 12G, 12288 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5070-eagle-oc-12g-sff-12288-mb-gddr7/GCGB-565.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 929,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5070-eagle-oc-12g-sff-12288-mb-gddr7/GCGB-565.html"
+    }
+   ],
+   "price": 929,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 929
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5070 gigabyte geforce rtx 5070 eagle sff 12g 12288 gddr7",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asus-dual-geforce-rtx-5070-12g-oc-edition-12288-mb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5070",
+   "name": "ASUS Dual GeForce RTX 5070 12G OC Edition, 12288 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-dual-geforce-rtx-5070-12g-oc-edition-12288-mb-gddr7/GCAS-681.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 939,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-dual-geforce-rtx-5070-12g-oc-edition-12288-mb-gddr7/GCAS-681.html"
+    }
+   ],
+   "price": 939,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 939
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5070 asus dual geforce rtx 5070 12g edition 12288 gddr7",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asrock-arc-pro-b60-creator-grafikkarte-24576-mb-gddr6",
+   "cat": "Grafikkarten",
+   "sub": "Grafikkarten",
+   "name": "ASRock Arc Pro B60 Creator Grafikkarte, 24576 MB GDDR6",
+   "source": "crawler",
+   "url": "https://www.caseking.de/asrock-arc-pro-b60-creator-grafikkarte-24576-mb-gddr6/GCAR-040.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 949,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/asrock-arc-pro-b60-creator-grafikkarte-24576-mb-gddr6/GCAR-040.html"
+    }
+   ],
+   "price": 949,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 949
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten asrock arc pro b60 creator grafikkarte 24576 gddr6",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asus-tuf-geforce-rtx-5060-ti-oc-edition-16384-mb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060 Ti",
+   "name": "ASUS TUF GeForce RTX 5060 Ti OC Edition, 16384 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-tuf-geforce-rtx-5060-ti-oc-edition-16384-mb-gddr7/GCAS-666.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 949,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-tuf-geforce-rtx-5060-ti-oc-edition-16384-mb-gddr7/GCAS-666.html"
+    }
+   ],
+   "price": 949,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 949
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 ti asus tuf geforce rtx 5060 edition 16384 gddr7",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-gigabyte-geforce-rtx-5060-ti-eagle-oc-16384-mb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060 Ti",
+   "name": "Gigabyte GeForce RTX 5060 Ti Eagle OC, 16384 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5060-ti-eagle-oc-16384-mb-gddr7/GCGB-571.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 949,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5060-ti-eagle-oc-16384-mb-gddr7/GCGB-571.html"
+    }
+   ],
+   "price": 949,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 949
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 ti gigabyte geforce rtx 5060 eagle 16384 gddr7",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-gigabyte-geforce-rtx-5060-ti-windforce-oc-16g-16384-mb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060 Ti",
+   "name": "Gigabyte GeForce RTX 5060 Ti Windforce OC 16G, 16384 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5060-ti-windforce-oc-16g-16384-mb-gddr7/GCGB-572.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 959,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5060-ti-windforce-oc-16g-16384-mb-gddr7/GCGB-572.html"
+    }
+   ],
+   "price": 959,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 959
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 ti gigabyte geforce rtx 5060 windforce 16g 16384 gddr7",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-gigabyte-geforce-rtx-5070-gaming-oc-12g-12288-mb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5070",
+   "name": "GIGABYTE GeForce RTX 5070 Gaming OC 12G, 12288 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5070-gaming-oc-12g-12288-mb-gddr7/GCGB-563.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 969,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5070-gaming-oc-12g-12288-mb-gddr7/GCGB-563.html"
+    }
+   ],
+   "price": 969,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 969
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5070 gigabyte geforce rtx 5070 gaming 12g 12288 gddr7",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-gigabyte-geforce-rtx-5070-windforce-oc-sff-12g-12288-mb-gddr",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5070",
+   "name": "GIGABYTE GeForce RTX 5070 Windforce OC SFF 12G, 12288 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5070-windforce-oc-sff-12g-12288-mb-gddr7/GCGB-566.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 979,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5070-windforce-oc-sff-12g-12288-mb-gddr7/GCGB-566.html"
+    }
+   ],
+   "price": 979,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 979
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5070 gigabyte geforce rtx 5070 windforce sff 12g 12288 gddr7",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asus-tuf-geforce-rtx-5070-oc-edition-12288-mb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5070",
+   "name": "ASUS TUF GeForce RTX 5070 OC Edition, 12288 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-tuf-geforce-rtx-5070-oc-edition-12288-mb-gddr7/GCAS-662.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 999,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-tuf-geforce-rtx-5070-oc-edition-12288-mb-gddr7/GCAS-662.html"
+    }
+   ],
+   "price": 999,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 999
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5070 asus tuf geforce rtx 5070 edition 12288 gddr7",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asus-prime-geforce-rtx-5070-oc-edition-12288-mb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5070",
+   "name": "ASUS Prime GeForce RTX 5070 OC Edition, 12288 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-prime-geforce-rtx-5070-oc-edition-12288-mb-gddr7/GCAS-664.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 999,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-prime-geforce-rtx-5070-oc-edition-12288-mb-gddr7/GCAS-664.html"
+    }
+   ],
+   "price": 999,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 999
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5070 asus prime geforce rtx 5070 edition 12288 gddr7",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asus-prime-geforce-rtx-5070-white-oc-grafikkarte-12288-mb-gd",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5070",
+   "name": "ASUS Prime GeForce RTX 5070 White OC Grafikkarte, 12288 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-prime-geforce-rtx-5070-white-oc-graphics-card-12288-mb-gddr7/GCAS-718.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 1029,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-prime-geforce-rtx-5070-white-oc-graphics-card-12288-mb-gddr7/GCAS-718.html"
+    }
+   ],
+   "price": 1029,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 1029
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5070 asus prime geforce rtx 5070 white grafikkarte 12288 gddr7",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-gigabyte-aorus-geforce-rtx-5070-master-12g-12288-mb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5070",
+   "name": "GIGABYTE Aorus GeForce RTX 5070 Master 12G, 12288 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/gigabyte-aorus-geforce-rtx-5070-master-12g-12288-mb-gddr7/GCGB-561.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 1049,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/gigabyte-aorus-geforce-rtx-5070-master-12g-12288-mb-gddr7/GCGB-561.html"
+    }
+   ],
+   "price": 1049,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 1049
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5070 gigabyte aorus geforce rtx 5070 master 12g 12288 gddr7",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-gigabyte-geforce-rtx-5070-ti-aero-oc-16g-16384-mb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5070 Ti",
+   "name": "GIGABYTE GeForce RTX 5070 Ti Aero OC 16G, 16384 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5070-ti-aero-oc-16g-16384-mb-gddr7/GCGB-553.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 1499,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5070-ti-aero-oc-16g-16384-mb-gddr7/GCGB-553.html"
+    }
+   ],
+   "price": 1499,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 1499
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5070 ti gigabyte geforce rtx 5070 aero 16g 16384 gddr7",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-16384-mb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5070 Ti",
+   "name": "GIGABYTE GeForce RTX 5070 Ti Gaming OC 16G, 16384 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-16384-mb-gddr7/GCGB-554.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 1499,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5070-ti-gaming-oc-16g-16384-mb-gddr7/GCGB-554.html"
+    }
+   ],
+   "price": 1499,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 1499
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5070 ti gigabyte geforce rtx 5070 gaming 16g 16384 gddr7",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asus-geforce-rtx-5080-proart-oc-edition-16384-mb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5080",
+   "name": "ASUS GeForce RTX 5080 ProArt OC Edition, 16384 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-geforce-rtx-5080-proart-oc-edition-16384-mb-gddr7/GCAS-705.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 2199,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-geforce-rtx-5080-proart-oc-edition-16384-mb-gddr7/GCAS-705.html"
+    }
+   ],
+   "price": 2199,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 2199
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5080 asus geforce rtx 5080 proart edition 16384 gddr7",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asrock-radeon-ai-pro-r9700-creator-32gb-grafikkarte-32768-mb",
+   "cat": "Grafikkarten",
+   "sub": "Grafikkarten",
+   "name": "ASRock Radeon AI Pro R9700 Creator 32GB Grafikkarte, 32768 MB GDDR6",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asrock-radeon-ai-pro-r9700-creator-32gb-graphics-card-32768-mb-gddr6/GCAR-037.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 2399,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asrock-radeon-ai-pro-r9700-creator-32gb-graphics-card-32768-mb-gddr6/GCAR-037.html"
+    }
+   ],
+   "price": 2399,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 2399
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten asrock radeon pro r9700 creator 32gb grafikkarte 32768 gddr6",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asus-turbo-radeon-ai-pro-r9700-32g-grafikkarte-32768-mb-gddr",
+   "cat": "Grafikkarten",
+   "sub": "Grafikkarten",
+   "name": "ASUS TURBO Radeon AI PRO R9700 32G Grafikkarte, 32768 MB GDDR6",
+   "source": "crawler",
+   "url": "https://www.caseking.de/asus-turbo-radeon-ai-pro-r9700-32g-grafikkarte-32768-mb-gddr6/GCAS-713.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 2399,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/asus-turbo-radeon-ai-pro-r9700-32g-grafikkarte-32768-mb-gddr6/GCAS-713.html"
+    }
+   ],
+   "price": 2399,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 2399
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten asus turbo radeon pro r9700 32g grafikkarte 32768 gddr6",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-gigabyte-geforce-rtx-5090-gaming-oc-32g-32768-mb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5090",
+   "name": "GIGABYTE GeForce RTX 5090 Gaming OC 32G, 32768 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5090-gaming-oc-32g-32768-mb-gddr7/GCGB-543.html",
+   "stand": "2026-10-29T17:40",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 9499,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5090-gaming-oc-32g-32768-mb-gddr7/GCGB-543.html"
+    }
+   ],
+   "price": 9499,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 9499
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5090 gigabyte geforce rtx 5090 gaming 32g 32768 gddr7",
    "firstSeen": "2026-10-29"
   }
  ]
