@@ -467,6 +467,8 @@
     opt.wifi = $("wifi").checked; opt.monitor = $("monitor").checked;
     say(eur0(opt.budget) + ", " + USE_TEXT[opt.use] + (opt.gpu !== "any" ? ", " + (opt.gpu === "nvidia" ? "NVIDIA" : "AMD Radeon") : "") + (opt.monitor ? ", mit Monitor" : ""), "me");
     runAssistant();
+    // Auf dem Handy direkt zur Antwort springen, sonst bleibt sie unter dem Formular versteckt
+    if (window.matchMedia && window.matchMedia("(max-width: 900px)").matches) { var last = $("chat").lastElementChild; if (last) try { last.scrollIntoView({ behavior: "smooth", block: "start" }); } catch (x) {} }
   });
   $("chat-form").addEventListener("submit", function (e) {
     e.preventDefault(); var t = $("chat-text").value.trim(); if (!t) return;

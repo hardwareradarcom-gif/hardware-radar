@@ -437,6 +437,8 @@
   }
   try { var ss = JSON.parse(store("hr-sorts") || "{}"); ["deals", "compare"].forEach(function (k) { if (ss[k] && SORTS[k].some(function (o) { return o[0] === ss[k]; })) state.sorts[k] = ss[k]; }); } catch (e) {}
   fromHash();
+  function markTabbar() { var v = state.view; [].forEach.call(document.querySelectorAll(".tabbar a"), function (x) { if (x.getAttribute("data-v") === v) x.setAttribute("aria-current", "page"); else x.removeAttribute("aria-current"); }); }
+  markTabbar();
   renderSortOptions();
   $("q").addEventListener("input", function (e) { state.q = e.target.value; render(); });
   $("sort").addEventListener("change", function (e) { state.sorts[state.view] = e.target.value; store("hr-sorts", JSON.stringify(state.sorts)); render(); });
@@ -472,7 +474,7 @@
     var open = b.getAttribute("aria-expanded") === "true";
     b.setAttribute("aria-expanded", !open); box.hidden = open;
   });
-  window.addEventListener("hashchange", function () { if (fromHash()) { renderSortOptions(); render(); var t = $("tab-deals").parentNode; try { t.scrollIntoView({ block: "nearest" }); } catch (e) {} } });
+  window.addEventListener("hashchange", function () { if (fromHash()) { markTabbar(); renderSortOptions(); render(); var t = $("tab-deals").parentNode; try { t.scrollIntoView({ block: "nearest" }); } catch (e) {} } });
   var y = $("year"); if (y) y.textContent = new Date().getFullYear();
   if (CFG.affiliate && (CFG.affiliate.amazonTag || CFG.affiliate.awinId)) $("aff-note").hidden = false;
 
