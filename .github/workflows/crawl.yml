@@ -1,12 +1,22 @@
-# Startet den Hardware-Radar-Crawler dreimal täglich, speichert neue Preise im Repository
-# und veröffentlicht die Website danach automatisch auf GitHub Pages.
+# Startet den Hardware-Radar-Crawler, speichert neue Preise im Repository und veröffentlicht die Website
+# (inklusive Produktseiten und Kaufberatungen) danach automatisch neu.
+#   Großer Lauf (neue Produkte und Shops finden): 3x täglich
+#   Schnell-Prüfung (nur bekannte Preise neu prüfen): alle 2 Stunden dazwischen
 name: Preise aktualisieren
 
 on:
   schedule:
     # Zeiten in UTC: 05:38, 10:38, 16:38 = 6:38, 11:38, 17:38 Uhr deutscher Winterzeit
     - cron: "38 5,10,16 * * *"
-  workflow_dispatch: {}   # erlaubt den manuellen Start unter "Actions"
+    # Schnell-Prüfung: 07:08, 09:08 … 21:08 UTC
+    - cron: "8 7-21/2 * * *"
+  workflow_dispatch:      # erlaubt den manuellen Start unter "Actions"
+    inputs:
+      mode:
+        description: "full = großer Lauf, refresh = nur Preise neu prüfen"
+        default: full
+        type: choice
+        options: [full, refresh]
 
 permissions:
   contents: write
@@ -29,7 +39,12 @@ jobs:
           node-version: "20"
 
       - name: Crawler ausführen
-        run: node tools/crawler/crawl.mjs
+        run: |
+          if [ "${{ github.event.schedule }}" = "8 7-21/2 * * *" ] || [ "${{ inputs.mode }}" = "refresh" ]; then
+            node tools/crawler/crawl.mjs --refresh
+          else
+            node tools/crawler/crawl.mjs
+          fi
 
       - name: Neue Daten speichern
         run: |

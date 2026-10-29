@@ -19,7 +19,7 @@ function gpuTable(H, rows, note) {
   if (!rows.length) return `<p class="g-empty">Gerade gibt es in diesem Preisbereich keine Karte im Radar. ${note || ""}</p>`;
   const best = rows.slice().sort((a, b) => a.p.price / a.gi.perf - b.p.price / b.gi.perf)[0];
   return `<div class="offers-scroll"><table class="g-table"><thead><tr><th>Grafikchip</th><th>Günstigstes Modell</th><th class="num">Preis</th><th class="num">Leistung</th><th class="num">€ pro Punkt</th><th></th></tr></thead><tbody>` +
-    rows.map(r => `<tr class="${r === best ? "best" : ""}"><td><b>${H.esc(r.chip)}</b>${r === best ? '<span class="tag-best">bestes Preis-Leistungs-Verhältnis</span>' : ""}</td><td><a href="${H.B}p/${r.p.id}.html">${H.esc(r.p.name)}</a></td><td class="num">${H.eur(r.p.price)}</td><td class="num">${r.gi.perf}</td><td class="num">${(r.p.price / r.gi.perf).toFixed(1).replace(".", ",")}</td><td class="go">${H.btn(H.L.productLink(r.p), "ghost")}</td></tr>`).join("") +
+    rows.map(r => `<tr class="${r === best ? "best" : ""}"><td><b>${H.esc(r.chip)}</b>${r === best ? '<span class="tag-best">bestes Preis-Leistungs-Verhältnis</span>' : ""}</td><td><a href="${H.B}p/${r.p.id}.html">${H.esc(r.p.name)}</a></td><td class="num">${H.eur(r.p.price)}${H.drop(r.p)}</td><td class="num">${r.gi.perf}</td><td class="num">${(r.p.price / r.gi.perf).toFixed(1).replace(".", ",")}</td><td class="go">${H.btn(H.L.productLink(r.p), "ghost")}</td></tr>`).join("") +
     `</tbody></table></div>`;
 }
 function list(H, items, n) { return items.length ? `<ul class="minis">${items.slice(0, n || 8).map(p => H.miniRow(p, H.B)).join("")}</ul>` : '<p class="g-empty">Gerade ist hier nichts im Radar.</p>'; }
@@ -119,7 +119,7 @@ ${gpuTable(H, rows)}
 <h2>Gaming-Prozessoren im Vergleich</h2>
 <p>Pro Modell das günstigste Angebot im Radar. „Gaming“ ist ein grober Richtwert (Ryzen 7 9800X3D = 100).</p>
 ${rows.length ? `<div class="offers-scroll"><table class="g-table"><thead><tr><th>Prozessor</th><th class="num">Preis</th><th class="num">Gaming</th><th class="num">€ pro Punkt</th><th></th></tr></thead><tbody>` +
-        rows.map(r => `<tr><td><a href="${H.B}p/${r.p.id}.html"><b>${H.esc(r.model)}</b></a><br><small>${H.esc(r.p.name)}</small></td><td class="num">${H.eur(r.p.price)}</td><td class="num">${r.score}</td><td class="num">${(r.p.price / r.score).toFixed(2).replace(".", ",")}</td><td class="go">${H.btn(H.L.productLink(r.p), "ghost")}</td></tr>`).join("") + `</tbody></table></div>` : '<p class="g-empty">Gerade sind keine Prozessoren im Radar.</p>'}
+        rows.map(r => `<tr><td><a href="${H.B}p/${r.p.id}.html"><b>${H.esc(r.model)}</b></a><br><small>${H.esc(r.p.name)}</small></td><td class="num">${H.eur(r.p.price)}${H.drop(r.p)}</td><td class="num">${r.score}</td><td class="num">${(r.p.price / r.score).toFixed(2).replace(".", ",")}</td><td class="go">${H.btn(H.L.productLink(r.p), "ghost")}</td></tr>`).join("") + `</tbody></table></div>` : '<p class="g-empty">Gerade sind keine Prozessoren im Radar.</p>'}
 <h2>Worauf du achten solltest</h2>
 <ul class="g-ul">
 <li><b>Sockel:</b> Prozessor und Mainboard müssen zusammenpassen (AM5, AM4, LGA1700 oder LGA1851). Der PC-Konfigurator prüft das automatisch.</li>
@@ -163,7 +163,7 @@ ${ddr4.length ? `<h2>DDR4 für ältere PCs</h2><p>Nur sinnvoll, wenn du einen PC
 <p>Für einen Gaming-PC ist eine <b>NVMe-SSD mit PCIe 4.0 und 2 TB</b> die beste Wahl. Viele aktuelle Spiele sind über 100 GB groß, 1 TB ist deshalb schnell voll. PCIe-5.0-SSDs sind auf dem Papier doppelt so schnell, die Ladezeiten in Spielen verkürzen sie aber kaum. Sie werden außerdem heißer und kosten mehr.</p>
 <h2>Die günstigsten SSDs pro Terabyte</h2>
 ${ssds.length ? `<div class="offers-scroll"><table class="g-table"><thead><tr><th>SSD</th><th class="num">Größe</th><th class="num">Preis</th><th class="num">€ pro TB</th><th></th></tr></thead><tbody>` +
-        ssds.slice(0, 10).map((r, i) => `<tr class="${i === 0 ? "best" : ""}"><td><a href="${H.B}p/${r.p.id}.html">${H.esc(r.p.name)}</a></td><td class="num">${String(r.tb).replace(".", ",")} TB</td><td class="num">${H.eur(r.p.price)}</td><td class="num">${H.eur(r.per)}</td><td class="go">${H.btn(H.L.productLink(r.p), "ghost")}</td></tr>`).join("") + `</tbody></table></div>` : '<p class="g-empty">Gerade sind keine SSDs im Radar.</p>'}
+        ssds.slice(0, 10).map((r, i) => `<tr class="${i === 0 ? "best" : ""}"><td><a href="${H.B}p/${r.p.id}.html">${H.esc(r.p.name)}</a></td><td class="num">${String(r.tb).replace(".", ",")} TB</td><td class="num">${H.eur(r.p.price)}${H.drop(r.p)}</td><td class="num">${H.eur(r.per)}</td><td class="go">${H.btn(H.L.productLink(r.p), "ghost")}</td></tr>`).join("") + `</tbody></table></div>` : '<p class="g-empty">Gerade sind keine SSDs im Radar.</p>'}
 <h2>Worauf du achten solltest</h2>
 <ul class="g-ul">
 <li><b>M.2-Steckplatz:</b> Fast jedes aktuelle Mainboard hat mindestens zwei M.2-Plätze. Prüfe, ob einer davon PCIe 4.0 unterstützt.</li>

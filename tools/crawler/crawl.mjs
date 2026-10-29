@@ -493,6 +493,8 @@ async function crawlDomain(dom) {
       else if (ud !== dom) noteDomain(ud, u, dom);
     }
   }
+  // feste Such- und Kategorieseiten aus config.json (listingSeeds), damit alle Kategorien wachsen
+  for (const u of ((CFG.listingSeeds || {})[dom] || [])) state.urls[u] ??= { last: null, key: null, kind: "listing", d: dom };
   const searches = queueSearches(dom);
   let urls = Object.entries(state.urls).filter(([, v]) => v.d === dom && v.kind !== "dead" && v.kind !== "nonproduct");
   const recrawl = v => v.kind === "listing" ? 24 : v.kind === "search" ? 24 * 7 : L.recrawlHours;
@@ -653,8 +655,41 @@ function cleanup() {
   for (const [cat, words] of Object.entries(state.learned)) state.learned[cat] = (words || []).filter(w => /\d/.test(w) || /^(Kühlung|Netzteile|Gehäuse)$/.test(cat));
   if (dropped || offers) log(`Aufgeräumt: ${dropped} unpassende Produkte und ${offers} Angebote gesperrter Seiten entfernt`);
 }
+/* Schnell-Prüfung (--refresh): nur bekannte Produktseiten erneut abrufen, ohne neue Seiten zu suchen.
+   Läuft zwischen den großen Durchläufen, damit Preissenkungen schnell auf der Website landen. */
+async function refreshDomain(dom) {
+  const D = state.domains[dom], cap = (CFG.refresh && CFG.refresh.perDomain) || 120, minAgeH = (CFG.refresh && CFG.refresh.minAgeHours) || 1.5;
+  const rob = await robotsFor(new URL(D.origin)); if (!rob || rob.deny) return;
+  const list = Object.entries(state.urls).filter(([, v]) => v.d === dom && v.kind === "product" && (!v.last || (NOW - new Date(v.last)) / 36e5 >= minAgeH))
+    .sort((a, b) => (a[1].last ? Date.parse(a[1].last) : 0) - (b[1].last ? Date.parse(b[1].last) : 0)).slice(0, cap);
+  let hits = 0;
+  for (const [u] of list) {
+    if (perDomain[dom] >= L.maxRequestsPerDomain || requests >= L.maxRequestsPerRun) break;
+    const r = await get(u); if (!r) break;
+    if (r.status === 404 || r.status === 410) { state.urls[u] = { last: NOW.toISOString(), kind: "dead", d: dom }; continue; }
+    if (r.status === 403 || r.status === 401 || r.status === 429 || r.status === 503) { log(dom, "Schnell-Prüfung abgebrochen (HTTP " + r.status + ")"); break; }
+    if (r.status !== 200 || !r.text) continue;
+    const pr = parseProduct(r.text, r.url || u);
+    if (pr && record(dom, u, pr)) hits++; else state.urls[u] = { ...state.urls[u], last: NOW.toISOString() };
+  }
+  log(dom, "Schnell-Prüfung: " + hits + " von " + list.length + " Preisen aktualisiert");
+}
+
 async function main() {
   cleanup();
+  if (args.refresh) {
+    const doms = Object.entries(state.domains).filter(([d, v]) => v.status === "active" && v.products > 0 && !isBlocked(d)).map(([d]) => d);
+    log("Schnell-Prüfung für " + doms.length + " Shops");
+    await pool(doms, 6, refreshDomain);
+    const res = buildOutputs();
+    state.runs = [...state.runs.slice(-29), { at: NOW.toISOString(), mode: "refresh", requests, newOffers: newOffersThisRun, crawlerProducts: res.crawled, deals: res.found }];
+    log("Fertig (Schnell-Prüfung):", requests, "Abrufe,", newOffersThisRun, "neue Angebote,", res.found, "Deals");
+    if (DRY) return;
+    fs.writeFileSync(STATE_FILE, JSON.stringify(state));
+    fs.writeFileSync(res.catalogFile, JSON.stringify(res.catalog, null, 1));
+    fs.writeFileSync(res.dealsFile, JSON.stringify(res.deals, null, 1));
+    return;
+  }
   if (args.rebuild) { const res = buildOutputs(); if (!DRY) { fs.writeFileSync(STATE_FILE, JSON.stringify(state)); fs.writeFileSync(res.catalogFile, JSON.stringify(res.catalog, null, 1)); fs.writeFileSync(res.dealsFile, JSON.stringify(res.deals, null, 1)); } log("Nur neu aufgebaut:", res.crawled, "Crawler-Produkte"); return; }
   log(`Start: ${Object.keys(state.domains).length} bekannte Shops, ${Object.keys(state.products).length} Produkte im Gedächtnis`);
   const active = Object.entries(state.domains).filter(([d, v]) => (v.status === "active" || v.status === "candidate") && !isBlocked(d))

@@ -455,3 +455,4 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
 .home-guides h2{font-family:var(--font-display);font-weight:600;font-size:22px;margin:0}
 .home-guides .pp-lede{margin-bottom:16px}
 .g-cta-btns{display:flex;gap:8px;flex-wrap:wrap}
+.g-drop{display:block;font-size:11px;font-family:var(--font-body);font-weight:700;color:var(--down)}

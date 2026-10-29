@@ -273,12 +273,19 @@ function catPage(c) {
 }
 
 /* ---------- Kaufberatungen ---------- */
-const H = { esc, eur, eur0, dlong, dshort, products, byId, gpuInfo, chipOf, offersOf, shopNm, L, btn, miniRow, catSlug, STAND, pulse: dealsData.pulse || [], deals: dealsData.deals || [] };
+// Preissenkung seit dem letzten Messtag (für die Tabellen in den Kaufberatungen)
+function drop(p) {
+  const h = (p.hist || []).filter(x => x && typeof x.p === "number").sort((a, b) => a.d < b.d ? -1 : 1);
+  const today = String(p.stand || STAND).slice(0, 10), prev = h.filter(x => x.d < today).pop();
+  if (!prev || prev.p <= p.price * 1.005) return "";
+  return `<span class="g-drop" title="Vorher ${eur(prev.p)} am ${dshort(prev.d)}">▼ ${eur0(prev.p - p.price)} günstiger</span>`;
+}
+const H = { drop, esc, eur, eur0, dlong, dshort, products, byId, gpuInfo, chipOf, offersOf, shopNm, L, btn, miniRow, catSlug, STAND, pulse: dealsData.pulse || [], deals: dealsData.deals || [] };
 function guidePage(g) {
   const rel = "ratgeber/" + g.slug + ".html", B = "../";
   const html = g.render(Object.assign({ B }, H));
   const body = `<div class="wrap guide"><article class="g-body">
-  <header class="g-head"><span class="p-sub">Kaufberatung · aktualisiert am ${esc(dlong(STAND))}</span><h1>${esc(g.title)}</h1><p class="pp-lede">${esc(g.teaser)}</p></header>
+  <header class="g-head"><span class="p-sub">Kaufberatung · Preise vom ${esc(dlong(STAND))}, ${esc(tlong(STAND))} Uhr</span><h1>${esc(g.title)}</h1><p class="pp-lede">${esc(g.teaser)}</p></header>
   ${html}
   <aside class="g-cta"><div><b>Lieber direkt einen kompletten PC?</b><span>Der PC-Konfigurator stellt aus den aktuellen Bestpreisen einen passenden PC zusammen und prüft, ob alles zusammenpasst.</span></div><span class="g-cta-btns"><a class="btn primary" href="${B}konfigurator.html${g.cfg ? "#" + g.cfg : ""}">PC-Konfigurator öffnen</a><a class="btn ghost" href="${B}konfigurator.html#aufruesten">Meinen PC aufrüsten</a></span></aside>
   <p class="pp-small">Die Empfehlungen in den Tabellen werden bei jeder Preisprüfung automatisch neu berechnet. Leistungswerte sind grobe Richtwerte aus öffentlichen Tests und dienen nur dem Vergleich. Maßgeblich sind Preis und Verfügbarkeit im Shop.</p>

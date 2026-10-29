@@ -58,3 +58,8 @@ Automatisch: Die Datei `.github/workflows/crawl.yml` startet den Crawler über G
 - Shops ohne strukturierte Produktdaten oder mit starkem Bot-Schutz liefern keine Preise. Viele große Händler blocken Bots, dann bleibt der Shop außen vor.
 - Versandkosten stehen selten in den Produktdaten, dann zeigt die Seite „unbekannt“.
 - Produktbilder übernimmt er nur von Shops, die in `config.json` → `imageDomains` stehen. Die Liste ist anfangs leer, weil Produktfotos urheberrechtlich geschützt sind. Trag einen Shop erst ein, wenn du seine Bilder nutzen darfst, zum Beispiel weil sein Partnerprogramm (AWIN, Amazon PartnerNet usw.) das erlaubt. Gespeichert wird nur der Bildlink, nicht das Bild selbst. Die Website zeigt das Bild dann klein am Produkt, lädt es nicht, erscheint wieder das Kategorie-Symbol.
+
+## Schnell-Prüfung und feste Suchseiten
+
+- **Schnell-Prüfung** (`node tools/crawler/crawl.mjs --refresh`): ruft nur bekannte Produktseiten erneut ab (höchstens `refresh.perDomain` pro Shop) und sucht keine neuen Seiten. Der Workflow startet sie alle 2 Stunden zwischen den großen Läufen. Danach werden Website, Produktseiten und Kaufberatungen automatisch neu erzeugt, Preissenkungen sind also spätestens nach etwa 2 Stunden online.
+- **Feste Suchseiten** (`listingSeeds` in `config.json`): Such- oder Kategorieseiten pro Shop, die bei jedem großen Lauf als Liste ausgewertet werden. So wachsen gezielt die Kategorien, in denen noch wenig Auswahl ist.
