@@ -85,8 +85,8 @@ export function chipOf(p) {
 }
 
 /* ---------- Seitenrahmen ---------- */
-function page({ rel, title, desc, body, jsonld, crumbs }) {
-  const depth = rel.split("/").length - 1, B = "../".repeat(depth);
+function page({ rel, title, desc, body, jsonld, crumbs, base, noindex }) {
+  const depth = rel.split("/").length - 1, B = base != null ? base : "../".repeat(depth);
   const canon = SITE + rel.replace(/index\.html$/, "");
   const ld = (jsonld || []).concat(crumbs ? [{ "@context": "https://schema.org", "@type": "BreadcrumbList", itemListElement: crumbs.map((c, i) => ({ "@type": "ListItem", position: i + 1, name: c[0], item: SITE + c[1] })) }] : []);
   return `<!doctype html>
@@ -96,9 +96,9 @@ function page({ rel, title, desc, body, jsonld, crumbs }) {
 <meta name="viewport" content="width=device-width,initial-scale=1,viewport-fit=cover">
 <meta name="google-adsense-account" content="${esc(CFG.adsenseClient || "")}">
 <title>${esc(title)}</title>
-<meta name="description" content="${esc(desc)}">
+<meta name="description" content="${esc(desc)}">${noindex ? '\n<meta name="robots" content="noindex">' : ""}
 <link rel="canonical" href="${esc(canon)}">
-<meta property="og:type" content="website"><meta property="og:site_name" content="Hardware-Radar"><meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(desc)}"><meta property="og:url" content="${esc(canon)}"><meta property="og:image" content="${SITE}assets/brand/profilbild-512.png">
+<meta property="og:type" content="website"><meta property="og:site_name" content="Hardware-Radar"><meta property="og:title" content="${esc(title)}"><meta property="og:description" content="${esc(desc)}"><meta property="og:url" content="${esc(canon)}"><meta property="og:image" content="${SITE}assets/brand/og.png"><meta property="og:image:width" content="1200"><meta property="og:image:height" content="630"><meta name="twitter:card" content="summary_large_image">
 <meta name="theme-color" content="#0b0e13" media="(prefers-color-scheme: dark)">
 <meta name="theme-color" content="#f3f5f8" media="(prefers-color-scheme: light)">
 <link rel="icon" href="${B}favicon.svg" type="image/svg+xml">
@@ -365,6 +365,11 @@ urls.push(["impressum.html", "yearly", "0.1"], ["datenschutz.html", "yearly", "0
 const today = new Date(STAND).toISOString().slice(0, 10);
 fs.writeFileSync(path.join(OUT, "sitemap.xml"), '<?xml version="1.0" encoding="UTF-8"?>\n<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">\n' +
   urls.map(u => `  <url><loc>${SITE}${u[0]}</loc><lastmod>${today}</lastmod><changefreq>${u[1]}</changefreq><priority>${u[2]}</priority></url>`).join("\n") + "\n</urlset>\n");
+// 404-Seite im Seitendesign (absolute Pfade, weil sie unter jeder Adresse ausgeliefert wird)
+fs.writeFileSync(path.join(OUT, "404.html"), page({ rel: "404.html", base: "/", noindex: true, title: "Seite nicht gefunden | Hardware-Radar", desc: "Diese Seite gibt es nicht (mehr).",
+  body: `<div class="wrap pp"><section class="pp-head cat-head"><div class="pp-title"><span class="p-sub">Fehler 404</span><h1>Diese Seite gibt es nicht (mehr)</h1><p class="pp-lede">Vielleicht wurde das Produkt aus dem Katalog genommen oder der Link ist veraltet. Hier geht es weiter:</p>
+  <div class="intro-cta"><a class="btn primary" href="/">Zu den Deals</a><a class="btn ghost" href="/#preisvergleich">Preisvergleich</a><a class="btn ghost" href="/ratgeber/">Kaufberatung</a><a class="btn ghost" href="/konfigurator.html">PC-Konfigurator</a></div></div></section></div>` }));
+
 // Startseite: Kaufberatungen als Links einfügen (gut für Besucher und Suchmaschinen)
 const home = path.join(OUT, "index.html");
 if (fs.existsSync(home)) {

@@ -36,8 +36,7 @@ jobs:
           [ -f CNAME ] && cp CNAME _site/ || true
           cp robots.txt _site/ 2>/dev/null || true
           touch _site/.nojekyll
-          # einfache 404-Seite, die zur Startseite führt
-          printf '<!doctype html><meta charset="utf-8"><title>Seite nicht gefunden</title><meta http-equiv="refresh" content="0; url=./">' > _site/404.html
+          # 404.html erzeugt tools/build/build.mjs im nächsten Schritt
 
       - uses: actions/setup-node@v4
         with:

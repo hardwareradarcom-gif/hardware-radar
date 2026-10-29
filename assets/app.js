@@ -302,7 +302,7 @@
         if (!g.length) return;
         var limit = state.cat === "Alle" && !state.q.trim() && !state.watchOnly && state.pmin == null && state.pmax == null ? 8 : Infinity;
         var shown = g.slice(0, limit);
-        html += '<div class="cmp-group"><h3>' + esc(c) + '<span class="n">' + g.length + '</span></h3><div class="cmp-list">' + shown.map(productRow).join("") + "</div>" +
+        html += '<div class="cmp-group"><h3>' + esc(c) + '<span class="n">' + g.length + '</span><a class="cmp-all" href="k/' + c.toLowerCase().replace(/ä/g, "ae").replace(/ö/g, "oe").replace(/ü/g, "ue").replace(/ß/g, "ss").replace(/[^a-z0-9]+/g, "-") + '.html">Kategorieseite →</a></h3><div class="cmp-list">' + shown.map(productRow).join("") + "</div>" +
           (g.length > shown.length ? '<button type="button" class="btn ghost more" data-showcat="' + esc(c) + '">Alle ' + g.length + " " + esc(c) + " anzeigen</button>" : "") + "</div>";
       });
     } else if (list.length) {

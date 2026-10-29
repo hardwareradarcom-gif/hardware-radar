@@ -2,10 +2,7 @@
    Layout: kompakter Kopf mit Radar-Logo, Markt-Puls, Top-Deals, klebrige Filterleiste, Raster aus Preiskarten mit Verlaufsskala.
    Dunkel zuerst (Gaming-Setup bei Nacht), helles Gegenstück für helle Systemeinstellung. */
 
-/* Lokale Schriften (Dateien in assets/fonts, siehe README). Fehlen sie, greifen die Systemschriften. */
-@font-face{font-family:"Unbounded";src:url("fonts/Unbounded.woff2") format("woff2");font-weight:400 800;font-display:swap}
-@font-face{font-family:"Manrope";src:url("fonts/Manrope.woff2") format("woff2");font-weight:400 800;font-display:swap}
-@font-face{font-family:"JetBrains Mono";src:url("fonts/JetBrainsMono.woff2") format("woff2");font-weight:400 800;font-display:swap}
+/* Schriften: Systemschriften. Eigene Schriftdateien kannst du später in assets/fonts ablegen und hier per @font-face einbinden. */
 
 :root{
   --bg:#0b0e13; --bg-2:#0f131a; --surface:#141922; --surface-2:#1b222d; --line:#263041; --line-strong:#344157;
@@ -471,3 +468,6 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
   .pc-parts td:nth-child(1){grid-column:1/-1}.pc-parts td:nth-child(2){grid-column:1}.pc-parts td:nth-child(3){grid-column:2;grid-row:2}
   .pc-parts td.go{grid-column:1/-1}.pc-parts td.go .btn{width:100%;margin-top:6px}
 }
+
+.cmp-all{margin-left:auto;font-family:var(--font-body);font-size:13px;font-weight:700;color:var(--signal);text-decoration:none}
+.cmp-group h3{display:flex;align-items:baseline;gap:8px}
