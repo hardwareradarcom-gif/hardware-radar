@@ -163,11 +163,21 @@ function parseRobots(txt, status) {
 }
 
 /* ---------------- Kategorien ---------------- */
-function classify(name) {
+// Wörter nur als ganze Wörter erkennen ("aio" soll nicht in "XAiOX" stecken)
+const WRE = {};
+function hasWord(n, w) {
+  const k = norm(w);
+  const re = WRE[k] ??= new RegExp("(^|[^a-z0-9])" + k.replace(/[.*+?^${}()|[\]\\]/g, "\\$&") + (/[a-z0-9]$/.test(k) ? "(?![a-z0-9])" : ""));
+  return re.test(n);
+}
+function classify(name, price) {
   const n = " " + norm(name) + " ";
   for (const c of CFG.categories) {
-    if (c.not.some(w => n.includes(norm(w)))) continue;
-    if (c.any.some(w => n.includes(norm(w)))) return c.cat;
+    if (c.not.some(w => hasWord(n, w))) continue;
+    if (!c.any.some(w => hasWord(n, w))) continue;
+    if (c.must && !c.must.some(w => n.includes(norm(w)))) continue;
+    if (price != null && ((c.min && price < c.min) || (c.max && price > c.max))) continue;
+    return c.cat;
   }
   return null;
 }
@@ -175,7 +185,10 @@ function pathWords(u) { let p = u.pathname; try { p = decodeURIComponent(p); } c
 function catWords(c) { return c.any.concat(state.learned[c.cat] || []).map(w => norm(w).replace(/[-_]+/g, " ").trim()).filter(Boolean); }
 function urlCategory(u) {
   const p = pathWords(u);
-  for (const c of CFG.categories) if (catWords(c).some(w => p.includes(w))) return c.cat;
+  for (const c of CFG.categories) {
+    if (c.not.slice(0, 40).some(w => hasWord(p, w))) continue;
+    if (catWords(c).some(w => p.includes(w))) return c.cat;
+  }
   return null;
 }
 function urlLooksRelevant(u) { return !!urlCategory(u); }
@@ -323,7 +336,7 @@ function productKey(p) {
   return "name:" + norm(p.name).replace(/\b(kit|gaming|edition|retail|boxed|tray|wof|schwarz|black|weiss|white)\b/g, "").replace(/[^a-z0-9]+/g, " ").trim();
 }
 function record(dom, pageUrl, p) {
-  const cat = classify(p.name); if (!cat) return false;
+  const cat = classify(p.name, p.offer.price); if (!cat) return false;
   if (p.offer.price < (CFG.deals.minPrice || 0)) return false;
   const key = productKey(p);
   const rec = state.products[key] ??= { name: p.name, cat, sub: subOf(cat, p.name), gtin: p.gtin, mpn: p.mpn, brand: p.brand, offers: {}, hist: [], firstSeen: TODAY };
@@ -382,7 +395,7 @@ function priority(u, v) {
   let s = deficit(cat) * 3;
   if (!v.last) s += 2;
   if (v.kind === "listing") s += 1.5;
-  if (v.kind === "search") s += 2.5;
+  if (v.kind === "search") s -= 1;
   return s + Math.min(age, 240) / 240;
 }
 const MODEL_RE = [
@@ -394,17 +407,17 @@ function learnKeywords() {
   if (!GROW.learnKeywords) return 0;
   const tally = {};
   for (const p of Object.values(state.products)) {
-    const n = norm(p.name), t = tally[p.cat] ??= {};
-    for (const re of MODEL_RE) for (const m of n.matchAll(re)) { const k = m[1].replace(/\s+/g, " ").trim(); if (k.length >= 4) t[k] = (t[k] || 0) + 1; }
+    const n = norm(p.name), t = tally[p.cat] ??= {}, shops = Object.keys(p.offers).length;
+    for (const re of MODEL_RE) for (const m of n.matchAll(re)) { const k = m[1].replace(/\s+/g, " ").trim(); if (k.length >= 4) t[k] = (t[k] || 0) + shops; }
     // Marke + Produktreihe, z. B. "pure power", "liquid freezer", "dark rock"
     const w = n.replace(/[^a-z0-9 ]+/g, " ").split(/\s+/).filter(Boolean);
-    if (w.length >= 3 && p.brand) { const b = norm(p.brand); const i = w.indexOf(b.split(" ")[0]); if (i >= 0 && w[i + 1] && w[i + 2] && !/\d/.test(w[i + 1])) { const k = w[i + 1] + " " + w[i + 2]; t[k] = (t[k] || 0) + 1; } }
+    if (w.length >= 3 && p.brand && /^(Kühlung|Netzteile|Gehäuse)$/.test(p.cat)) { const b = norm(p.brand); const i = w.indexOf(b.split(" ")[0]); if (i >= 0 && w[i + 1] && w[i + 2] && !/\d/.test(w[i + 1])) { const k = w[i + 1] + " " + w[i + 2]; t[k] = (t[k] || 0) + 1; } }
   }
   let added = 0;
   for (const [cat, t] of Object.entries(tally)) {
     const base = new Set((CFG.categories.find(c => c.cat === cat)?.any || []).map(norm));
     const other = CFG.categories.filter(c => c.cat !== cat).flatMap(c => c.any.map(norm));
-    const top = Object.entries(t).filter(([k, n]) => n >= 2 && !base.has(k) && !other.some(o => o.includes(k) || k.includes(o))).sort((a, b) => b[1] - a[1]).slice(0, GROW.maxLearnedPerCategory || 60).map(([k]) => k);
+    const top = Object.entries(t).filter(([k, n]) => n >= 3 && !base.has(k) && !other.some(o => o.includes(k) || k.includes(o))).sort((a, b) => b[1] - a[1]).slice(0, GROW.maxLearnedPerCategory || 60).map(([k]) => k);
     const before = new Set(state.learned[cat] || []);
     added += top.filter(k => !before.has(k)).length;
     state.learned[cat] = top;
@@ -426,6 +439,7 @@ function similarity(a, b) {
 function searchTerm(name) { return norm(name).replace(/\([^)]*\)/g, " ").replace(/[^a-z0-9 .-]+/g, " ").replace(/\s+/g, " ").trim().split(" ").slice(0, 7).join(" "); }
 function queueSearches(dom) {
   if (!GROW.fillMissingShops) return 0;
+  if (!(state.domains[dom]?.products > 0)) return 0; // erst suchen, wenn der Shop auswertbare Produktseiten hat
   const tpl = Object.entries(CFG.searchTemplates || {}).find(([d]) => dom === d || dom.endsWith("." + d))?.[1];
   if (!tpl) return 0;
   const catalog = loadJSON(path.join(DATA_DIR, "catalog.json"), { products: [] });
@@ -484,14 +498,18 @@ async function crawlDomain(dom) {
   const recrawl = v => v.kind === "listing" ? 24 : v.kind === "search" ? 24 * 7 : L.recrawlHours;
   const due = urls.filter(([, v]) => !v.last || (NOW - new Date(v.last)) / 36e5 >= recrawl(v));
   due.sort((a, b) => priority(b[0], b[1]) - priority(a[0], a[1]));
-  let listingPages = 0, newFound = 0;
+  let listingPages = 0, newFound = 0, productTries = 0, deadRun = 0;
   if (searches) log(dom, searches + " gezielte Suchen für Produkte ohne Shop-Angebot eingeplant");
   for (const [u] of due) {
     if (perDomain[dom] >= L.maxRequestsPerDomain || requests >= L.maxRequestsPerRun) break;
+    const kindBefore = state.urls[u]?.kind;
     const r = await get(u); tried++;
+    if (kindBefore !== "listing" && kindBefore !== "search") productTries++;
     if (!r) break;
     if (r.blocked) { state.urls[u] = { last: NOW.toISOString(), kind: "nonproduct", d: dom }; continue; }
-    if (r.status === 404 || r.status === 410) { state.urls[u] = { last: NOW.toISOString(), kind: "dead", d: dom }; continue; }
+    if (r.status === 404 || r.status === 410) { state.urls[u] = { last: NOW.toISOString(), kind: "dead", d: dom }; deadRun++; continue; }
+    deadRun = 0;
+    if (r.status === 403 || r.status === 401) { D.blockedBot = (D.blockedBot || 0) + 1; log(dom, "Zugriff verweigert (HTTP " + r.status + "), vermutlich Bot-Schutz"); break; }
     if (r.status === 429 || r.status === 503) { log(dom, "Shop bremst (HTTP " + r.status + "), pausiere bis zum nächsten Lauf"); break; }
     if (r.status !== 200 || !r.text) { state.urls[u] = { ...state.urls[u], last: NOW.toISOString(), d: dom }; continue; }
     const links = extractLinks(r.text, r.url || u);
@@ -513,7 +531,8 @@ async function crawlDomain(dom) {
         for (const nx of nextPageLinks(r.text, r.url || u, dom)) if (!state.urls[nx]) { state.urls[nx] = { last: null, kind: "listing", d: dom }; listingPages++; }
       }
     }
-    if (tried >= 40 && hits === 0) { log(dom, "keine Produktdaten auf den ersten 40 Seiten gefunden"); break; }
+    if (productTries >= 40 && hits === 0) { log(dom, "keine Produktdaten auf den ersten 40 Produktseiten gefunden"); break; }
+    if (deadRun >= 30 && hits === 0) { log(dom, "30 Seiten in Folge nicht gefunden, der Shop blockt vermutlich Bots"); break; }
   }
   D.lastCrawl = NOW.toISOString();
   D.products = Object.values(state.products).filter(p => p.offers[dom] && fresh(p.offers[dom])).length;
@@ -618,7 +637,25 @@ function buildOutputs() {
 
 /* ---------------- Ablauf ---------------- */
 async function pool(items, n, fn) { const q = [...items]; await Promise.all(Array.from({ length: Math.min(n, q.length) }, async () => { while (q.length) await fn(q.shift()); })); }
+function cleanup() {
+  // gesperrte Domains entfernen und alle Produkte mit den aktuellen Regeln neu prüfen
+  let dropped = 0, offers = 0;
+  for (const [d, v] of Object.entries(state.domains)) if (isBlocked(d)) { delete state.domains[d]; }
+  for (const d of Object.keys(state.discovered)) if (isBlocked(d)) delete state.discovered[d];
+  for (const [u, v] of Object.entries(state.urls)) if (!v.d || isBlocked(v.d)) delete state.urls[u];
+  for (const [k, p] of Object.entries(state.products)) {
+    for (const d of Object.keys(p.offers)) if (isBlocked(d)) { delete p.offers[d]; offers++; }
+    const anyPrice = Object.values(p.offers).map(o => o.price)[0];
+    const cat = anyPrice != null ? classify(p.name, anyPrice) : null;
+    if (!cat || !Object.keys(p.offers).length) { delete state.products[k]; dropped++; continue; }
+    p.cat = cat; p.sub = subOf(cat, p.name);
+  }
+  for (const [cat, words] of Object.entries(state.learned)) state.learned[cat] = (words || []).filter(w => /\d/.test(w) || /^(Kühlung|Netzteile|Gehäuse)$/.test(cat));
+  if (dropped || offers) log(`Aufgeräumt: ${dropped} unpassende Produkte und ${offers} Angebote gesperrter Seiten entfernt`);
+}
 async function main() {
+  cleanup();
+  if (args.rebuild) { const res = buildOutputs(); if (!DRY) { fs.writeFileSync(STATE_FILE, JSON.stringify(state)); fs.writeFileSync(res.catalogFile, JSON.stringify(res.catalog, null, 1)); fs.writeFileSync(res.dealsFile, JSON.stringify(res.deals, null, 1)); } log("Nur neu aufgebaut:", res.crawled, "Crawler-Produkte"); return; }
   log(`Start: ${Object.keys(state.domains).length} bekannte Shops, ${Object.keys(state.products).length} Produkte im Gedächtnis`);
   const active = Object.entries(state.domains).filter(([d, v]) => (v.status === "active" || v.status === "candidate") && !isBlocked(d))
     .sort((a, b) => (a[1].lastCrawl ? Date.parse(a[1].lastCrawl) : 0) - (b[1].lastCrawl ? Date.parse(b[1].lastCrawl) : 0)).map(([d]) => d);
