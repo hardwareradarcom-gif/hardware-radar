@@ -538,6 +538,8 @@
   }
   function getJSON(u) { return fetch(u, { cache: "no-cache" }).then(function (r) { if (!r.ok) throw 0; return r.json(); }); }
   if (CFG.affiliate && (CFG.affiliate.amazonTag || CFG.affiliate.awinId)) $("aff-note").hidden = false;
+  // Kern-Funktionen für das Erzeugen der fertigen PC-Seiten (tools/build/build.mjs)
+  window.HRCfgCore = { assemble: assemble, checkBuild: checkBuild, needWatt: needWatt, attrs: attrs, explain: explain, sum: sum, SLOTS: SLOTS, ready: function () { return !!(byCat.Mainboards && byCat.Mainboards.length); } };
   Promise.all([window.HR_DATA ? Promise.resolve(window.HR_DATA) : getJSON("data/deals.json").catch(function () { return null; }),
                window.HR_CATALOG ? Promise.resolve(window.HR_CATALOG) : getJSON("data/catalog.json").catch(function () { return null; })])
     .then(function (r) { start(r[0], r[1]); })

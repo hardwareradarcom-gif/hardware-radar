@@ -313,8 +313,9 @@ ${lowp.length ? `<h2>Flache Kühler für kleine Gehäuse</h2>${list(H, lowp, 4)}
 <tr><td>Netzteil, Gehäuse, Kühler</td><td class="num">12–15 %</td><td class="num">ca. 180–225 €</td></tr>
 </tbody></table></div>
 <h2>Fertige Vorschläge aus aktuellen Bestpreisen</h2>
-<p>Der PC-Konfigurator rechnet alle passenden Kombinationen durch und zeigt dir die stärkste für dein Budget. Ein Klick genügt:</p>
-<div class="g-budgets">${budgets.map(b => `<a class="g-budget" href="${H.B}konfigurator.html#budget=${b[0]}&use=${b[1]}"><b>${H.eur0(b[0])}</b><span>${b[2]}</span></a>`).join("")}</div>
+<p>Für die gängigen Budgets rechnet Hardware-Radar bei jeder Preisprüfung den stärksten passenden PC aus. Ein Klick genügt:</p>
+<div class="g-budgets">${budgets.map(b => `<a class="g-budget" href="${H.B}pc/gaming-pc-${b[0]}-euro.html"><b>${H.eur0(b[0])}</b><span>${b[2]}</span></a>`).join("")}</div>
+<p>Eigenes Budget? Im <a href="${H.B}konfigurator.html">PC-Konfigurator</a> stellst du jeden Betrag ein.</p>
 <h2>Die wichtigsten Regeln</h2>
 <ul class="g-ul">
 <li><b>Sockel prüfen:</b> Prozessor und Mainboard müssen denselben Sockel haben, der Arbeitsspeicher den passenden Typ (DDR4 oder DDR5).</li>

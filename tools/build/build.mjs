@@ -305,12 +305,60 @@ function guideIndex() {
   return "ratgeber/";
 }
 
+
+/* ---------- fertige PC-Vorschläge (Rechenkern des Konfigurators) ---------- */
+function loadCfgCore() {
+  const stub = () => new Proxy(function () {}, { get(t, k) { if (k === Symbol.toPrimitive) return () => ""; if (["value", "textContent", "innerHTML", "hash"].includes(k)) return ""; if (k === "length") return 0; if (k === "checked" || k === "hidden") return false; if (k === "then") return undefined; return stub(); }, set() { return true; }, apply() { return stub(); } });
+  const win = { HR_CONFIG: CFG, HR_DATA: dealsData, HR_CATALOG: catalog };
+  const ctx = { window: win, document: stub(), location: { hash: "", pathname: "/konfigurator.html", origin: "https://hwradar.de" }, history: stub(), localStorage: { getItem() { return null; }, setItem() {} }, navigator: stub(), matchMedia: () => ({ matches: false }), setTimeout, clearTimeout, console: { log() {}, warn() {}, error() {} }, URL, Promise, fetch: () => Promise.reject(0) };
+  win.window = win; vm.createContext(ctx);
+  vm.runInContext(read("assets/konfigurator.js"), ctx);
+  return () => win.HRCfgCore;
+}
+export const PCS = [[1000, "1080", "Full HD"], [1500, "1440", "WQHD"], [2000, "1440", "WQHD mit hohen Bildraten"], [3000, "2160", "4K"]];
+const pcSlug = b => "pc/gaming-pc-" + b + "-euro.html";
+function pcPage(core, [budget, use, useTxt]) {
+  const rel = pcSlug(budget), B = "../";
+  const res = core.assemble({ budget, use, gpu: "any", wifi: true, monitor: false });
+  const x = res.builds[0] || res.cheapest || null;
+  const fits = !!res.builds[0];
+  let body;
+  if (!x) body = `<div class="wrap pp"><section class="pp-head cat-head"><div class="pp-title"><h1>Gaming-PC für ${eur0(budget)}</h1><p class="pp-lede">${esc(res.reason || "Gerade lässt sich aus dem Katalog kein vollständiger PC zusammenstellen.")}</p></div></section></div>`;
+  else {
+    const b = x.b, slots = core.SLOTS.filter(s => b[s.id]);
+    const link = "konfigurator.html#pc=" + encodeURIComponent(slots.map(s => s.id + ":" + b[s.id].id).join(","));
+    const rows = slots.map(s => { const p = b[s.id], l = L.productLink(p), page = byId.has(p.id); return `<tr><td><span class="p-sub">${esc(s.label)}</span></td><td>${page ? `<a href="${B}p/${p.id}.html">${esc(p.name)}</a>` : esc(p.name)}</td><td class="num">${eur(p.price)}</td><td class="go">${btn(l, "ghost")}</td></tr>`; }).join("");
+    const checks = core.checkBuild(b).filter(c => c.text).map(c => `<li class="${c.lvl}">${c.lvl === "ok" ? "✓" : c.lvl === "warn" ? "!" : "✕"} ${esc(c.text)}</li>`).join("");
+    const why = fits ? core.explain(res, { budget, use, gpu: "any", wifi: true }).replace(/<p>Du kannst jedes Teil[\s\S]*?<\/p>/, "") : "";
+    body = `<div class="wrap pp">
+  <section class="pp-head">
+    <div class="pp-title" style="grid-column:1/3"><span class="p-sub">Fertiger Vorschlag · ${esc(useTxt)} · Preise vom ${esc(dlong(STAND))}</span><h1>Gaming-PC für ${eur0(budget)}</h1>
+      <p class="pp-lede">${fits ? `Der stärkste PC, den Hardware-Radar gerade aus den aktuellen Bestpreisen für ${eur0(budget)} zusammenstellen kann. Alle Teile passen zusammen und werden bei jeder Preisprüfung neu berechnet.` : `${esc(res.reason || ("Für " + eur0(budget) + " lässt sich gerade kein vollständiger PC zusammenstellen."))} Hier ist der günstigste passende PC.`}</p></div>
+    <div class="pp-buy"><span class="from">Gesamtpreis</span><span class="val">${eur(x.total)}</span><span class="at">${slots.length} Teile, ohne Monitor</span><a class="btn primary" href="${B}${link}">Im Konfigurator anpassen</a></div>
+  </section>
+  <div class="pp-grid">
+    <section class="pp-card wide"><h2>Die Teile</h2><div class="offers-scroll pc-parts"><table><thead><tr><th>Teil</th><th>Modell</th><th class="num">Preis</th><th></th></tr></thead><tbody>${rows}</tbody></table></div>
+      <p class="pp-small">Preise laut Hardware-Radar, Stand ${esc(dlong(STAND))}. Maßgeblich sind Preis und Verfügbarkeit im Shop.</p></section>
+    <section class="pp-card"><h2>Passt alles zusammen?</h2><ul class="pc-checks">${checks}</ul></section>
+    ${why ? `<section class="pp-card"><h2>Warum diese Teile?</h2><div class="pc-why">${why}</div></section>` : ""}
+    <section class="pp-card wide"><h2>Andere Budgets</h2><div class="g-budgets">${PCS.map(p => `<a class="g-budget${p[0] === budget ? " on" : ""}" href="${B}${pcSlug(p[0])}"><b>${eur0(p[0])}</b><span>${esc(p[2])}</span></a>`).join("")}</div>
+      <p class="pp-small">Eigenes Budget oder andere Wünsche? Im <a href="${B}konfigurator.html">PC-Konfigurator</a> stellst du deinen PC selbst zusammen, oder du lässt dir zeigen, wie du deinen <a href="${B}konfigurator.html#aufruesten">alten PC aufrüstest</a>.</p></section>
+  </div>
+</div>`;
+  }
+  const desc = x ? `Gaming-PC für ${eur0(budget)} (${useTxt}): ${fits ? "der stärkste passende PC" : "der günstigste passende PC"} aus aktuellen Bestpreisen, Gesamtpreis ${eur(x.total)}. Mit Teileliste, Shop-Links und Kompatibilitätsprüfung.` : `Gaming-PC für ${eur0(budget)}: aktuelle Zusammenstellung aus Bestpreisen.`;
+  write(rel, page({ rel, title: `Gaming-PC für ${eur0(budget)} zusammenstellen (${useTxt}) | Hardware-Radar`, desc, body, crumbs: [["Startseite", ""], ["Kaufberatung", "ratgeber/"], [`Gaming-PC für ${eur0(budget)}`, rel]] }));
+  return rel;
+}
+
 /* ---------- Ablauf ---------- */
 fs.mkdirSync(OUT, { recursive: true });
 for (const d of ["p", "k", "ratgeber"]) fs.rmSync(path.join(OUT, d), { recursive: true, force: true });
 const urls = [["", "daily", "1.0"], ["konfigurator.html", "daily", "0.8"]];
 urls.push([guideIndex(), "daily", "0.8"]);
 for (const g of GUIDES) urls.push([guidePage(g), "daily", "0.8"]);
+fs.rmSync(path.join(OUT, "pc"), { recursive: true, force: true });
+{ const getCore = loadCfgCore(); await new Promise(r => setTimeout(r, 30)); const core = getCore(); if (core && core.ready()) for (const pc of PCS) urls.push([pcPage(core, pc), "daily", "0.8"]); else console.warn("PC-Vorschläge übersprungen: Rechenkern nicht bereit"); }
 for (const c of CATS) { const r = catPage(c); if (r) urls.push([r, "daily", "0.7"]); }
 for (const p of products) urls.push([productPage(p), "daily", "0.5"]);
 urls.push(["impressum.html", "yearly", "0.1"], ["datenschutz.html", "yearly", "0.1"]);
@@ -320,7 +368,7 @@ fs.writeFileSync(path.join(OUT, "sitemap.xml"), '<?xml version="1.0" encoding="U
 // Startseite: Kaufberatungen als Links einfügen (gut für Besucher und Suchmaschinen)
 const home = path.join(OUT, "index.html");
 if (fs.existsSync(home)) {
-  const sec = `<section class="home-guides"><div class="wrap"><h2>Kaufberatung</h2><p class="pp-lede">Kurze Ratgeber mit den aktuell besten Angeboten, bei jeder Preisprüfung neu berechnet.</p><ul class="g-list">${GUIDES.map(g => `<li><a href="ratgeber/${g.slug}.html"><span class="p-sub">${esc(g.cat || "PC")}</span><b>${esc(g.title)}</b><span>${esc(g.teaser)}</span></a></li>`).join("")}</ul><div class="guide-chips">${CATS.filter(c => products.some(p => p.cat === c)).map(c => `<a class="chip" href="k/${catSlug(c)}.html">${esc(c)} im Preisvergleich</a>`).join("")}</div></div></section>`;
+  const sec = `<section class="home-guides"><div class="wrap"><h2>Kaufberatung</h2><p class="pp-lede">Kurze Ratgeber mit den aktuell besten Angeboten, bei jeder Preisprüfung neu berechnet.</p><ul class="g-list">${GUIDES.map(g => `<li><a href="ratgeber/${g.slug}.html"><span class="p-sub">${esc(g.cat || "PC")}</span><b>${esc(g.title)}</b><span>${esc(g.teaser)}</span></a></li>`).join("")}</ul><h3 class="home-h3">Fertige Gaming-PCs</h3><div class="g-budgets">${PCS.map(p => `<a class="g-budget" href="${pcSlug(p[0])}"><b>${eur0(p[0])}</b><span>${esc(p[2])}</span></a>`).join("")}</div><div class="guide-chips">${CATS.filter(c => products.some(p => p.cat === c)).map(c => `<a class="chip" href="k/${catSlug(c)}.html">${esc(c)} im Preisvergleich</a>`).join("")}</div></div></section>`;
   fs.writeFileSync(home, fs.readFileSync(home, "utf8").replace("<!--HR:GUIDES-->", sec));
 }
 console.log(`Seiten erzeugt: ${products.length} Produkte, ${GUIDES.length} Kaufberatungen, ${urls.length} Einträge in der Sitemap → ${OUT}`);
