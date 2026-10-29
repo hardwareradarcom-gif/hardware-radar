@@ -197,7 +197,7 @@ function subOf(cat, name) {
   switch (cat) {
     case "Grafikkarten":
       if ((m = /rtx\s?(\d{4})\s?(ti|super)?/.exec(n))) return "GeForce RTX " + m[1] + (m[2] ? " " + (m[2] === "ti" ? "Ti" : "Super") : "");
-      if ((m = /rx\s?(\d{4})\s?(xtx|xt|gre)?/.exec(n))) return "Radeon RX " + m[1] + (m[2] ? " " + m[2].toUpperCase() : "");
+      if ((m = /(?:rx|radeon)\s?(\d{4})\s?(xtx|xt|gre)?/.exec(n))) return "Radeon RX " + m[1] + (m[2] ? " " + m[2].toUpperCase() : "");
       if ((m = /arc\s?(b\d{3}|a\d{3})/.exec(n))) return "Intel Arc " + m[1].toUpperCase();
       return "Grafikkarten";
     case "Prozessoren":
@@ -229,7 +229,11 @@ function subOf(cat, name) {
     case "Monitore": {
       const z = /(\d{2}(?:[.,]\d)?)\s?("|zoll|”|'')/.exec(n); return z ? z[1].replace(".", ",") + "\"" : "Monitore";
     }
-    case "Netzteile": { const w = /(\d{3,4})\s?w\b/.exec(n); return w ? w[1] + " W" : "Netzteile"; }
+    case "Netzteile": {
+      const w = /(\d[.,]?\d{3}|\d{3,4})\s?(?:w\b|watts?\b)/.exec(n); if (!w) return /sfx/.test(n) ? "SFX" : "Netzteile";
+      const watt = +w[1].replace(/[.,]/, ""); if (/\bsfx\b/.test(n)) return "SFX";
+      return watt >= 1000 ? "1000 W+" : watt >= 850 ? "850 W" : watt >= 750 ? "750 W" : watt >= 650 ? "650 W" : "bis 600 W";
+    }
     case "Kühlung": return /aio|wasser|liquid/.test(n) ? "AiO-Wasserkühlung" : /lufter|fan/.test(n) && !/kuhler|cooler/.test(n) ? "Lüfter" : "Luftkühler";
     default: return cat;
   }

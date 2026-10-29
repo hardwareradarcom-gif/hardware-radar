@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-29T22:37:16.057Z",
+ "updated": "2026-10-29T23:16:50.541Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -5320,35 +5320,6 @@
    "firstSeen": "2026-10-29"
   },
   {
-   "id": "c-noctua-hc8-chromax-black-cpu-kuhler-abdeckung-schwarz",
-   "cat": "Kühlung",
-   "sub": "Luftkühler",
-   "name": "Noctua HC8 chromax.black CPU-Kühler-Abdeckung - schwarz",
-   "source": "crawler",
-   "url": "https://www.caseking.de/noctua-hc8-chromax.black-cpu-kuehler-abdeckung-schwarz/CPNA-073.html",
-   "stand": "2026-10-29T17:11",
-   "offers": [
-    {
-     "shop": "caseking.de",
-     "price": 19.9,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.caseking.de/noctua-hc8-chromax.black-cpu-kuehler-abdeckung-schwarz/CPNA-073.html"
-    }
-   ],
-   "price": 19.9,
-   "shop": "caseking.de",
-   "hist": [
-    {
-     "d": "2026-10-29",
-     "p": 19.9
-    }
-   ],
-   "count": 1,
-   "tags": "kuhlung luftkuhler noctua hc8 chromax black cpu kuhler abdeckung schwarz",
-   "firstSeen": "2026-10-29"
-  },
-  {
    "id": "c-akasa-ak-cce-7106hp-low-profile-cpu-kuhler-intel-74mm",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -6045,35 +6016,6 @@
    "firstSeen": "2026-10-29"
   },
   {
-   "id": "c-noctua-na-hc4-chromax-black-cpu-kuhler-abdeckung-schwarz",
-   "cat": "Kühlung",
-   "sub": "Luftkühler",
-   "name": "Noctua NA-HC4 chromax.black CPU-Kühler-Abdeckung - schwarz",
-   "source": "crawler",
-   "url": "https://www.caseking.de/noctua-na-hc4-chromax.black-cpu-kuehler-abdeckung-schwarz/CPNA-054.html",
-   "stand": "2026-10-29T17:11",
-   "offers": [
-    {
-     "shop": "caseking.de",
-     "price": 29.9,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.caseking.de/noctua-na-hc4-chromax.black-cpu-kuehler-abdeckung-schwarz/CPNA-054.html"
-    }
-   ],
-   "price": 29.9,
-   "shop": "caseking.de",
-   "hist": [
-    {
-     "d": "2026-10-29",
-     "p": 29.9
-    }
-   ],
-   "count": 1,
-   "tags": "kuhlung luftkuhler noctua hc4 chromax black cpu kuhler abdeckung schwarz",
-   "firstSeen": "2026-10-29"
-  },
-  {
    "id": "c-silverstone-sst-ar09-115xp-cpu-kuhler-60mm",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -6627,7 +6569,7 @@
   {
    "id": "c-adata-xpg-probe-80-plus-bronze-netzteil-atx-2-4-600-watt-sch",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "bis 600 W",
    "name": "ADATA XPG PROBE 80 PLUS Bronze Netzteil, ATX 2.4 - 600 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/adata-xpg-probe-80-plus-bronze-power-supply-atx-2.4-600-watt-black/NEAD-015.html",
@@ -6650,7 +6592,7 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile adata xpg probe plus bronze netzteil atx 600 watt schwarz",
+   "tags": "netzteile bis 600 w adata xpg probe plus bronze netzteil atx 600 watt schwarz",
    "firstSeen": "2026-10-29"
   },
   {
@@ -6975,7 +6917,7 @@
   {
    "id": "c-montech-beta-2-80-plus-bronze-netzteil-atx-3-1-550-watt-schw",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "bis 600 W",
    "name": "Montech BETA 2 80 PLUS Bronze Netzteil, ATX 3.1 - 550 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/montech-beta-2-80-plus-bronze-power-supply-atx-3.1-550-watts-black/NEMT-013.html",
@@ -6998,7 +6940,7 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile montech beta plus bronze netzteil atx 550 watt schwarz",
+   "tags": "netzteile bis 600 w montech beta plus bronze netzteil atx 550 watt schwarz",
    "firstSeen": "2026-10-29"
   },
   {
@@ -7323,7 +7265,7 @@
   {
    "id": "c-be-quiet-system-power-11-80-plus-bronze-netzteil-atx-3-1-pci",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "bis 600 W",
    "name": "be quiet! System Power 11 80 PLUS Bronze Netzteil, ATX 3.1, PCIe 5.1 - 450 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-system-power-11-80-plus-bronze-power-supply-atx-3.1-pcie-5.1-450-watts-black/NEBE-255.html",
@@ -7346,7 +7288,7 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile quiet system power plus bronze netzteil atx pcie 450 watt schwarz",
+   "tags": "netzteile bis 600 w quiet system power plus bronze netzteil atx pcie 450 watt schwarz",
    "firstSeen": "2026-10-29"
   },
   {
@@ -7468,7 +7410,7 @@
   {
    "id": "c-lian-li-rb-series-80-plus-bronze-netzteil-teilmodular-atx-3-",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "bis 600 W",
    "name": "Lian Li RB Series 80 PLUS Bronze Netzteil, teilmodular, ATX 3.1 - 550 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/lian-li-rb-series-80-plus-bronze-power-supply-semi-modular-atx-3.1-550-watts-black/NELI-036.html",
@@ -7491,13 +7433,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile lian series plus bronze netzteil teilmodular atx 550 watt schwarz",
+   "tags": "netzteile bis 600 w lian series plus bronze netzteil teilmodular atx 550 watt schwarz",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-montech-beta-2-80-plus-bronze-netzteil-atx-3-1-650-watt-schw",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "650 W",
    "name": "Montech BETA 2 80 PLUS Bronze Netzteil, ATX 3.1 - 650 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/montech-beta-2-80-plus-bronze-power-supply-atx-3.1-650-watts-black/NEMT-014.html",
@@ -7520,13 +7462,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile montech beta plus bronze netzteil atx 650 watt schwarz",
+   "tags": "netzteile 650 w montech beta plus bronze netzteil atx 650 watt schwarz",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-corsair-cx-series-cx550-netzteil-80-plus-bronze-550-watt",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "bis 600 W",
    "name": "Corsair CX Series CX550 Netzteil 80 PLUS Bronze - 550 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/corsair-cx-series-cx550-power-supply-80-plus-bronze-550-watt/NECS-171.html",
@@ -7549,7 +7491,7 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile corsair series cx550 netzteil plus bronze 550 watt",
+   "tags": "netzteile bis 600 w corsair series cx550 netzteil plus bronze 550 watt",
    "firstSeen": "2026-10-29"
   },
   {
@@ -7758,7 +7700,7 @@
   {
    "id": "c-be-quiet-system-power-11-80-plus-bronze-netzteil-atx-3-1-pci-l0i5z",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "bis 600 W",
    "name": "be quiet! System Power 11 80 PLUS Bronze Netzteil, ATX 3.1, PCIe 5.1 - 550 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-system-power-11-80-plus-bronze-power-supply-atx-3.1-pcie-5.1-550-watts-black/NEBE-256.html",
@@ -7781,13 +7723,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile quiet system power plus bronze netzteil atx pcie 550 watt schwarz",
+   "tags": "netzteile bis 600 w quiet system power plus bronze netzteil atx pcie 550 watt schwarz",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-montech-beta-2-80-plus-bronze-netzteil-atx-3-1-750-watt-schw",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "750 W",
    "name": "Montech BETA 2 80 PLUS Bronze Netzteil, ATX 3.1 - 750 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/montech-beta-2-80-plus-bronze-power-supply-atx-3.1-750-watt-black/NEMT-015.html",
@@ -7810,13 +7752,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile montech beta plus bronze netzteil atx 750 watt schwarz",
+   "tags": "netzteile 750 w montech beta plus bronze netzteil atx 750 watt schwarz",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-be-quiet-pure-power-12-netzteil-80-plus-gold-atx-3-1-pcie-5-",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "bis 600 W",
    "name": "be quiet! Pure Power 12 Netzteil, 80 PLUS Gold, ATX 3.1, PCIe 5.1 - 550 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-pure-power-12-power-supply-80-plus-gold-atx-3.1-pcie-5.1-550-watts/NEBE-247.html",
@@ -7839,13 +7781,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile quiet pure power netzteil plus gold atx pcie 550 watt",
+   "tags": "netzteile bis 600 w quiet pure power netzteil plus gold atx pcie 550 watt",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-lian-li-rb-series-80-plus-bronze-netzteil-teilmodular-pcie-5-8lelc",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "650 W",
    "name": "Lian Li RB Series 80 PLUS Bronze Netzteil, teilmodular, PCIe 5.1, ATX 3.1 - 650 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/lian-li-rb-series-80-plus-bronze-power-supply-semi-modular-pcie-5.1-atx-3.1-650-watts-black/NELI-038.html",
@@ -7868,13 +7810,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile lian series plus bronze netzteil teilmodular pcie atx 650 watt schwarz",
+   "tags": "netzteile 650 w lian series plus bronze netzteil teilmodular pcie atx 650 watt schwarz",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-montech-beta-2-80-plus-bronze-netzteil-atx-3-1-pcie-5-1-850-",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "850 W",
    "name": "Montech BETA 2 80 PLUS Bronze Netzteil, ATX 3.1, PCIe 5.1 - 850 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/montech-beta-2-80-plus-bronze-power-supply-atx-3.1-pcie-5.1-850-watts-black/NEMT-016.html",
@@ -7897,13 +7839,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile montech beta plus bronze netzteil atx pcie 850 watt schwarz",
+   "tags": "netzteile 850 w montech beta plus bronze netzteil atx pcie 850 watt schwarz",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-adata-xpg-probe-80-plus-bronze-netzteil-atx-2-4-700-watt-sch",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "650 W",
    "name": "ADATA XPG PROBE 80 PLUS Bronze Netzteil, ATX 2.4 - 700 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/adata-xpg-probe-80-plus-bronze-power-supply-atx-2.4-700-watts-black/NEAD-017.html",
@@ -7926,7 +7868,7 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile adata xpg probe plus bronze netzteil atx 700 watt schwarz",
+   "tags": "netzteile 650 w adata xpg probe plus bronze netzteil atx 700 watt schwarz",
    "firstSeen": "2026-10-29"
   },
   {
@@ -8048,7 +7990,7 @@
   {
    "id": "c-be-quiet-system-power-11-80-plus-bronze-netzteil-atx-3-1-pci-l0i5y",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "650 W",
    "name": "be quiet! System Power 11 80 PLUS Bronze Netzteil, ATX 3.1, PCIe 5.1 - 650 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-system-power-11-80-plus-bronze-power-supply-atx-3.1-pcie-5.1-650-watts-black/NEBE-257.html",
@@ -8071,7 +8013,7 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile quiet system power plus bronze netzteil atx pcie 650 watt schwarz",
+   "tags": "netzteile 650 w quiet system power plus bronze netzteil atx pcie 650 watt schwarz",
    "firstSeen": "2026-10-29"
   },
   {
@@ -8135,7 +8077,7 @@
   {
    "id": "c-be-quiet-pure-power-12-netzteil-80-plus-gold-atx-3-1-pcie-5--l0ib5",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "650 W",
    "name": "be quiet! Pure Power 12 Netzteil, 80 PLUS Gold, ATX 3.1, PCIe 5.1 - 650 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-pure-power-12-power-supply-80-plus-gold-atx-3.1-pcie-5.1-650-watts/NEBE-248.html",
@@ -8158,13 +8100,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile quiet pure power netzteil plus gold atx pcie 650 watt",
+   "tags": "netzteile 650 w quiet pure power netzteil plus gold atx pcie 650 watt",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-be-quiet-system-power-11-80-plus-bronze-netzteil-atx-3-1-pci-l0i5x",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "750 W",
    "name": "be quiet! System Power 11 80 PLUS Bronze Netzteil, ATX 3.1, PCIe 5.1 - 750 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-system-power-11-80-plus-bronze-power-supply-atx-3.1-pcie-5.1-750-watts-black/NEBE-258.html",
@@ -8187,7 +8129,7 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile quiet system power plus bronze netzteil atx pcie 750 watt schwarz",
+   "tags": "netzteile 750 w quiet system power plus bronze netzteil atx pcie 750 watt schwarz",
    "firstSeen": "2026-10-29"
   },
   {
@@ -8280,7 +8222,7 @@
   {
    "id": "c-lian-li-rb-series-80-plus-bronze-netzteil-teilmodular-pcie-5",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "750 W",
    "name": "Lian Li RB Series 80 PLUS Bronze Netzteil, teilmodular, PCIe 5.1, ATX 3.1 - 750 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/lian-li-rb-series-80-plus-bronze-power-supply-semi-modular-pcie-5.1-atx-3.1-750-watts-black/NELI-037.html",
@@ -8303,7 +8245,7 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile lian series plus bronze netzteil teilmodular pcie atx 750 watt schwarz",
+   "tags": "netzteile 750 w lian series plus bronze netzteil teilmodular pcie atx 750 watt schwarz",
    "firstSeen": "2026-10-29"
   },
   {
@@ -8396,7 +8338,7 @@
   {
    "id": "c-adata-xpg-kyber-80-plus-gold-netzteil-atx-3-0-850-watt-schwa",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "850 W",
    "name": "ADATA XPG KYBER 80 PLUS Gold Netzteil, ATX 3.0 - 850 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/adata-xpg-kyber-80-plus-gold-power-supply-atx-3.0-850-watts-black/NEAD-014.html",
@@ -8419,13 +8361,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile adata xpg kyber plus gold netzteil atx 850 watt schwarz",
+   "tags": "netzteile 850 w adata xpg kyber plus gold netzteil atx 850 watt schwarz",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-be-quiet-pure-power-12-netzteil-80-plus-gold-atx-3-1-pcie-5--l0ib4",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "750 W",
    "name": "be quiet! Pure Power 12 Netzteil, 80 PLUS Gold, ATX 3.1, PCIe 5.1 - 750 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-pure-power-12-power-supply-80-plus-gold-atx-3.1-pcie-5.1-750-watts/NEBE-249.html",
@@ -8448,13 +8390,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile quiet pure power netzteil plus gold atx pcie 750 watt",
+   "tags": "netzteile 750 w quiet pure power netzteil plus gold atx pcie 750 watt",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-silverstone-sst-st45sf-v3-0-80-plus-bronze-sfx-netzteil-450-",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "SFX",
    "name": "SilverStone SST-ST45SF V3.0 80 PLUS Bronze SFX Netzteil - 450 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/silverstone-sst-st45sf-v3.0-80-plus-bronze-sfx-power-supply-450-watt/NEST-128.html",
@@ -8477,7 +8419,7 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile silverstone sst st45sf plus bronze sfx netzteil 450 watt",
+   "tags": "netzteile sfx silverstone sst st45sf plus bronze netzteil 450 watt",
    "firstSeen": "2026-10-29"
   },
   {
@@ -8512,7 +8454,7 @@
   {
    "id": "c-adata-xpg-core-reactor-ii-ve-80-plus-gold-netzteil-atx-3-1-8",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "850 W",
    "name": "ADATA XPG CORE REACTOR II VE 80 PLUS Gold Netzteil, ATX 3.1 - 850 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/adata-xpg-core-reactor-ii-ve-80-plus-gold-power-supply-atx-3.1-850-watts-black/NEAD-011.html",
@@ -8535,13 +8477,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile adata xpg core reactor plus gold netzteil atx 850 watt schwarz",
+   "tags": "netzteile 850 w adata xpg core reactor plus gold netzteil atx 850 watt schwarz",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-asus-tuf-gaming-650b-80-plus-bronze-netzteil-650-watt",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "650 W",
    "name": "ASUS TUF Gaming 650B 80 PLUS Bronze Netzteil - 650 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-tuf-gaming-650b-80-plus-bronze-power-supply-650-watt/NEAS-011.html",
@@ -8564,13 +8506,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile asus tuf gaming 650b plus bronze netzteil 650 watt",
+   "tags": "netzteile 650 w asus tuf gaming 650b plus bronze netzteil 650 watt",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-seasonic-g12-gc-80-plus-gold-netzteil-850-watt-schwarz",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "850 W",
    "name": "Seasonic G12 GC 80 PLUS Gold Netzteil - 850 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/seasonic-netzteil-850w-g12-gc-850-80-gold-power-supply-unit-atx-black/NESE-187.html",
@@ -8593,7 +8535,7 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile seasonic g12 plus gold netzteil 850 watt schwarz",
+   "tags": "netzteile 850 w seasonic g12 plus gold netzteil 850 watt schwarz",
    "firstSeen": "2026-10-29"
   },
   {
@@ -8628,7 +8570,7 @@
   {
    "id": "c-be-quiet-pure-power-12-netzteil-80-plus-gold-atx-3-1-pcie-5--l0ib3",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "850 W",
    "name": "be quiet! Pure Power 12 Netzteil, 80 PLUS Gold, ATX 3.1, PCIe 5.1 - 850 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-pure-power-12-power-supply-80-plus-gold-atx-3.1-pcie-5.1-850-watts/NEBE-250.html",
@@ -8651,13 +8593,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile quiet pure power netzteil plus gold atx pcie 850 watt",
+   "tags": "netzteile 850 w quiet pure power netzteil plus gold atx pcie 850 watt",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-seasonic-core-gx-80-plus-gold-netzteil-modular-atx-3-1-pcie-",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "650 W",
    "name": "Seasonic Core GX 80 PLUS Gold Netzteil, modular, ATX 3.1, PCIe 5.1 - 650 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/seasonic-core-gx-80-plus-gold-power-supply-modular-atx-3.1-pcie-5.1-650-watt-black/NESE-197.html",
@@ -8680,7 +8622,7 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile seasonic core plus gold netzteil modular atx pcie 650 watt schwarz",
+   "tags": "netzteile 650 w seasonic core plus gold netzteil modular atx pcie 650 watt schwarz",
    "firstSeen": "2026-10-29"
   },
   {
@@ -8744,7 +8686,7 @@
   {
    "id": "c-kolink-regulator-80-plus-gold-psu-atx-3-0-pcie-5-0-modular-7",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "750 W",
    "name": "Kolink Regulator 80 PLUS Gold PSU, ATX 3.0, PCIe 5.0, modular - 750 Watts",
    "source": "crawler",
    "url": "https://www.caseking.de/en/kolink-regulator-80-plus-gold-psu-atx-3.0-pcie-5.0-modular-750-watts/NEKL-047.html",
@@ -8767,7 +8709,7 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile kolink regulator plus gold psu atx pcie modular 750 watts",
+   "tags": "netzteile 750 w kolink regulator plus gold psu atx pcie modular 750 watts",
    "firstSeen": "2026-10-29"
   },
   {
@@ -8831,7 +8773,7 @@
   {
    "id": "c-msi-pro-h810m-b-mainboard",
    "cat": "Mainboards",
-   "sub": "Mainboards",
+   "sub": "Intel LGA1851 H810",
    "name": "MSI PRO H810M-B, Mainboard",
    "source": "crawler",
    "url": "https://www.alternate.de/MSI/PRO-H810M-B-Mainboard/html/product/100140528",
@@ -8854,7 +8796,7 @@
     }
    ],
    "count": 1,
-   "tags": "mainboards msi pro h810m mainboard",
+   "tags": "mainboards intel lga1851 h810 msi pro h810m mainboard",
    "firstSeen": "2026-10-29"
   },
   {
@@ -8913,35 +8855,6 @@
    ],
    "count": 1,
    "tags": "kuhlung luftkuhler noctua d15 cpu kuhler 140 140mm",
-   "firstSeen": "2026-10-29"
-  },
-  {
-   "id": "c-silverstone-sst-xe04-4677vb-cpu-kuhler-intel-sockel4677-silb",
-   "cat": "Kühlung",
-   "sub": "Luftkühler",
-   "name": "Silverstone SST-XE04-4677VB CPU-Kühler, Intel Sockel4677 - silber",
-   "source": "crawler",
-   "url": "https://www.caseking.de/en/silverstone-sst-xe04-4677vb-cpu-cooler-intel-socket-4677-silver/GESV-562.html",
-   "stand": "2026-10-29T22:37",
-   "offers": [
-    {
-     "shop": "caseking.de",
-     "price": 107.9,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/silverstone-sst-xe04-4677vb-cpu-cooler-intel-socket-4677-silver/GESV-562.html"
-    }
-   ],
-   "price": 107.9,
-   "shop": "caseking.de",
-   "hist": [
-    {
-     "d": "2026-10-29",
-     "p": 107.9
-    }
-   ],
-   "count": 1,
-   "tags": "kuhlung luftkuhler silverstone sst xe04 4677vb cpu kuhler intel sockel4677 silber",
    "firstSeen": "2026-10-29"
   },
   {
@@ -9034,7 +8947,7 @@
   {
    "id": "c-lian-li-edge-gold-850-80-plus-gold-netzteil-pcie-5-1-atx-3-1",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "850 W",
    "name": "Lian Li EDGE GOLD 850 80 PLUS Gold Netzteil, PCIe 5.1, ATX 3.1 - 850 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/lian-li-edge-gold-850-80-plus-gold-power-supply-pcie-5.1-atx-3.1-850-watts-black/NELI-023.html",
@@ -9057,13 +8970,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile lian edge gold 850 plus netzteil pcie atx watt schwarz",
+   "tags": "netzteile 850 w lian edge gold 850 plus netzteil pcie atx watt schwarz",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-montech-century-ii-80-plus-gold-netzteil-vollmodular-atx-3-1",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "1000 W+",
    "name": "Montech Century II 80 PLUS Gold Netzteil, vollmodular, ATX 3.1, PCIe 5.1 - 1.050 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/montech-century-ii-80-plus-gold-power-supply-fully-modular-atx-3.1-pcie-5.1-1-050-watts/NEMT-011.html",
@@ -9086,7 +8999,7 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile montech century plus gold netzteil vollmodular atx pcie 050 watt",
+   "tags": "netzteile 1000 w+ montech century plus gold netzteil vollmodular atx pcie 050 watt",
    "firstSeen": "2026-10-29"
   },
   {
@@ -9145,35 +9058,6 @@
    ],
    "count": 1,
    "tags": "netzteile 850 w phanteks amp 850w plus gold netzteil pcie atx 850 watt weiss",
-   "firstSeen": "2026-10-29"
-  },
-  {
-   "id": "c-silverstone-sst-xe04-sp5b-cpu-kuhler-amd-sp5-silber",
-   "cat": "Kühlung",
-   "sub": "Luftkühler",
-   "name": "Silverstone SST-XE04-SP5B CPU-Kühler, AMD SP5 - silber",
-   "source": "crawler",
-   "url": "https://www.caseking.de/en/silverstone-sst-xe04-sp5b-cpu-cooler-amd-sp5-silver/GESV-563.html",
-   "stand": "2026-10-29T22:37",
-   "offers": [
-    {
-     "shop": "caseking.de",
-     "price": 116.9,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/silverstone-sst-xe04-sp5b-cpu-cooler-amd-sp5-silver/GESV-563.html"
-    }
-   ],
-   "price": 116.9,
-   "shop": "caseking.de",
-   "hist": [
-    {
-     "d": "2026-10-29",
-     "p": 116.9
-    }
-   ],
-   "count": 1,
-   "tags": "kuhlung luftkuhler silverstone sst xe04 sp5b cpu kuhler amd sp5 silber",
    "firstSeen": "2026-10-29"
   },
   {
@@ -9264,35 +9148,6 @@
    "firstSeen": "2026-10-29"
   },
   {
-   "id": "c-noctua-nh-d9-tr5-sp6-cpu-kuhler-90-mm",
-   "cat": "Kühlung",
-   "sub": "Luftkühler",
-   "name": "Noctua NH-D9 TR5-SP6 CPU-Kühler - 90 mm",
-   "source": "crawler",
-   "url": "https://www.caseking.de/noctua-nh-d9-tr5-sp6-cpu-kuehler-90-mm/CPNA-097.html",
-   "stand": "2026-10-29T17:11",
-   "offers": [
-    {
-     "shop": "caseking.de",
-     "price": 119.9,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.caseking.de/noctua-nh-d9-tr5-sp6-cpu-kuehler-90-mm/CPNA-097.html"
-    }
-   ],
-   "price": 119.9,
-   "shop": "caseking.de",
-   "hist": [
-    {
-     "d": "2026-10-29",
-     "p": 119.9
-    }
-   ],
-   "count": 1,
-   "tags": "kuhlung luftkuhler noctua tr5 sp6 cpu kuhler",
-   "firstSeen": "2026-10-29"
-  },
-  {
    "id": "c-phanteks-xt-view-matrix-case-bundle-midi-tower-e-atx-tempere",
    "cat": "Gehäuse",
    "sub": "Gehäuse",
@@ -9353,7 +9208,7 @@
   {
    "id": "c-kolink-regulator-80-plus-gold-psu-atx-3-0-pcie-5-0-modular-8",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "850 W",
    "name": "Kolink Regulator 80 PLUS Gold PSU, ATX 3.0, PCIe 5.0, modular - 850 Watts",
    "source": "crawler",
    "url": "https://www.caseking.de/en/kolink-regulator-80-plus-gold-psu-atx-3.0-pcie-5.0-modular-850-watts/NEKL-048.html",
@@ -9376,13 +9231,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile kolink regulator plus gold psu atx pcie modular 850 watts",
+   "tags": "netzteile 850 w kolink regulator plus gold psu atx pcie modular 850 watts",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-lian-li-sp750-v2-gold-netzteil-modular-atx-3-1-750-watt-schw",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "750 W",
    "name": "Lian Li SP750 V2 Gold Netzteil, modular, ATX 3.1 - 750 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/lian-li-sp750-v2-gold-netzteil-modular-atx-3.1-750-watt-schwarz/NELI-026.html",
@@ -9405,13 +9260,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile lian sp750 gold netzteil modular atx 750 watt schwarz",
+   "tags": "netzteile 750 w lian sp750 gold netzteil modular atx 750 watt schwarz",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-lian-li-sp750-v2-gold-netzteil-modular-atx-3-1-750-watt-weis",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "750 W",
    "name": "Lian Li SP750 V2 Gold Netzteil, modular, ATX 3.1 - 750 Watt, weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/lian-li-sp750-v2-gold-netzteil-modular-atx-3.1-750-watt-weiss/NELI-027.html",
@@ -9434,13 +9289,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile lian sp750 gold netzteil modular atx 750 watt weiss",
+   "tags": "netzteile 750 w lian sp750 gold netzteil modular atx 750 watt weiss",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-lian-li-sx-series-80-plus-platinum-netzteil-vollmodular-pcie",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "850 W",
    "name": "Lian Li SX Series 80 PLUS Platinum Netzteil, vollmodular, PCIe 5.1, ATX 3.1 - 850 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/lian-li-sx-series-80-plus-platinum-power-supply-fully-modular-pcie-5.1-atx-3.1-850-watts-black/NELI-043.html",
@@ -9463,13 +9318,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile lian series plus platinum netzteil vollmodular pcie atx 850 watt schwarz",
+   "tags": "netzteile 850 w lian series plus platinum netzteil vollmodular pcie atx 850 watt schwarz",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-seasonic-focus-gx-80-plus-gold-netzteil-modular-750-watt-sch",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "750 W",
    "name": "Seasonic Focus GX 80 PLUS Gold Netzteil, modular - 750 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/seasonic-focus-gx-80-plus-gold-power-supply-modular-750-watts-black/NESE-183.html",
@@ -9492,7 +9347,7 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile seasonic focus plus gold netzteil modular 750 watt schwarz",
+   "tags": "netzteile 750 w seasonic focus plus gold netzteil modular 750 watt schwarz",
    "firstSeen": "2026-10-29"
   },
   {
@@ -9556,7 +9411,7 @@
   {
    "id": "c-be-quiet-pure-power-13m-80-plus-gold-netzteil-atx-3-1-pcie-5",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "1000 W+",
    "name": "be quiet! Pure Power 13M 80 PLUS Gold Netzteil, ATX 3.1, PCIe 5.1 - 1.000 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-pure-power-13m-80-plus-gold-power-supply-atx-3.1-pcie-5.1-1-000-watts-black/NEBE-263.html",
@@ -9579,13 +9434,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile quiet pure power 13m plus gold netzteil atx pcie 000 watt schwarz",
+   "tags": "netzteile 1000 w+ quiet pure power 13m plus gold netzteil atx pcie 000 watt schwarz",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-corsair-rmx-series-rm750x-netzteil-80-plus-gold-atx-3-0-pcie",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "750 W",
    "name": "Corsair RMx Series RM750x Netzteil 80 PLUS Gold, ATX 3.0, PCIe 5.1 - 750 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/corsair-rmx-series-rm750x-power-supply-80-plus-gold-atx-3.0-pcie-5.1-750-watts/NECS-176.html",
@@ -9608,13 +9463,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile corsair rmx series rm750x netzteil plus gold atx pcie 750 watt",
+   "tags": "netzteile 750 w corsair rmx series rm750x netzteil plus gold atx pcie 750 watt",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-montech-century-ii-80-plus-gold-netzteil-vollmodular-atx-3-1-kdq0s",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "1000 W+",
    "name": "Montech Century II 80 PLUS Gold Netzteil, vollmodular, ATX 3.1, PCIe 5.1 - 1.200 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/montech-century-ii-80-plus-gold-power-supply-fully-modular-atx-3.1-pcie-5.1-1-200-watts/NEMT-012.html",
@@ -9637,7 +9492,7 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile montech century plus gold netzteil vollmodular atx pcie 200 watt",
+   "tags": "netzteile 1000 w+ montech century plus gold netzteil vollmodular atx pcie 200 watt",
    "firstSeen": "2026-10-29"
   },
   {
@@ -9670,38 +9525,9 @@
    "firstSeen": "2026-10-29"
   },
   {
-   "id": "c-noctua-nh-u14s-tr5-sp6-cpu-kuhler-140-mm",
-   "cat": "Kühlung",
-   "sub": "Luftkühler",
-   "name": "Noctua NH-U14S TR5-SP6 CPU-Kühler - 140 mm",
-   "source": "crawler",
-   "url": "https://www.caseking.de/noctua-nh-u14s-tr5-sp6-cpu-kuehler-140-mm/CPNA-098.html",
-   "stand": "2026-10-29T17:11",
-   "offers": [
-    {
-     "shop": "caseking.de",
-     "price": 134.9,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.caseking.de/noctua-nh-u14s-tr5-sp6-cpu-kuehler-140-mm/CPNA-098.html"
-    }
-   ],
-   "price": 134.9,
-   "shop": "caseking.de",
-   "hist": [
-    {
-     "d": "2026-10-29",
-     "p": 134.9
-    }
-   ],
-   "count": 1,
-   "tags": "kuhlung luftkuhler noctua u14s tr5 sp6 cpu kuhler 140",
-   "firstSeen": "2026-10-29"
-  },
-  {
    "id": "c-corsair-rme-series-rm1000e-80-plus-gold-netzteil-modular-atx",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "1000 W+",
    "name": "Corsair RMe Series RM1000e 80 PLUS Gold Netzteil, modular, ATX 3.1, PCIe 5.1 - 1.000 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/corsair-rme-series-rm1000e-80-plus-gold-power-supply-modular-atx-3.1-pcie-5.1-1-000-watts-black/NECS-186.html",
@@ -9724,13 +9550,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile corsair rme series rm1000e plus gold netzteil modular atx pcie 000 watt schwarz",
+   "tags": "netzteile 1000 w+ corsair rme series rm1000e plus gold netzteil modular atx pcie 000 watt schwarz",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-seasonic-focus-sgx-80-plus-gold-netzteil-modular-750-watt",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "750 W",
    "name": "Seasonic Focus SGX 80 PLUS Gold Netzteil, modular - 750 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/seasonic-focus-sgx-80-plus-gold-power-supply-modular-750-watt/NESE-152.html",
@@ -9753,13 +9579,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile seasonic focus sgx plus gold netzteil modular 750 watt",
+   "tags": "netzteile 750 w seasonic focus sgx plus gold netzteil modular 750 watt",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-silverstone-sst-sx700-g-v1-1-sfx-netzteil-80-plus-gold-modul",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "SFX",
    "name": "SilverStone SST-SX700-G v1.1 SFX Netzteil 80 PLUS Gold, modular - 700 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/silverstone-sst-sx700-g-v1.1-sfx-power-supply-80-plus-gold-modular-700-watts/NEST-151.html",
@@ -9782,7 +9608,7 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile silverstone sst sx700 sfx netzteil plus gold modular 700 watt",
+   "tags": "netzteile sfx silverstone sst sx700 netzteil plus gold modular 700 watt",
    "firstSeen": "2026-10-29"
   },
   {
@@ -9875,7 +9701,7 @@
   {
    "id": "c-corsair-rmx-series-rm850x-netzteil-80-plus-gold-atx-3-0-pcie",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "850 W",
    "name": "Corsair RMx Series RM850x Netzteil 80 PLUS Gold, ATX 3.0, PCIe 5.1 - 850 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/corsair-rmx-series-rm850x-power-supply-80-plus-gold-atx-3.0-pcie-5.1-850-watts/NECS-177.html",
@@ -9898,13 +9724,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile corsair rmx series rm850x netzteil plus gold atx pcie 850 watt",
+   "tags": "netzteile 850 w corsair rmx series rm850x netzteil plus gold atx pcie 850 watt",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-kolink-regulator-80-plus-gold-psu-atx-3-0-pcie-5-0-modular-1",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "1000 W+",
    "name": "Kolink Regulator 80 PLUS Gold PSU, ATX 3.0, PCIe 5.0, modular - 1000 Watts",
    "source": "crawler",
    "url": "https://www.caseking.de/en/kolink-regulator-80-plus-gold-psu-atx-3.0-pcie-5.0-modular-1000-watts/NEKL-049.html",
@@ -9927,13 +9753,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile kolink regulator plus gold psu atx pcie modular 1000 watts",
+   "tags": "netzteile 1000 w+ kolink regulator plus gold psu atx pcie modular 1000 watts",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-seasonic-focus-spx-80-plus-platinum-netzteil-modular-650-wat",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "650 W",
    "name": "Seasonic Focus SPX 80 PLUS Platinum Netzteil, modular - 650 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/seasonic-focus-spx-80-plus-platinum-power-supply-modular-650-watt/NESE-151.html",
@@ -9956,7 +9782,7 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile seasonic focus spx plus platinum netzteil modular 650 watt",
+   "tags": "netzteile 650 w seasonic focus spx plus platinum netzteil modular 650 watt",
    "firstSeen": "2026-10-29"
   },
   {
@@ -10020,7 +9846,7 @@
   {
    "id": "c-lian-li-sp850-v2-gold-netzteil-modular-atx-3-1-850-watt-schw",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "850 W",
    "name": "Lian Li SP850 V2 Gold Netzteil, modular, ATX 3.1 - 850 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/lian-li-sp850-v2-gold-netzteil-modular-atx-3.1-850-watt-schwarz/NELI-028.html",
@@ -10043,13 +9869,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile lian sp850 gold netzteil modular atx 850 watt schwarz",
+   "tags": "netzteile 850 w lian sp850 gold netzteil modular atx 850 watt schwarz",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-lian-li-sp850-v2-gold-netzteil-modular-atx-3-1-850-watt-weis",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "850 W",
    "name": "Lian Li SP850 V2 Gold Netzteil, modular, ATX 3.1 - 850 Watt, weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/lian-li-sp850-v2-gold-netzteil-modular-atx-3.1-850-watt-weiss/NELI-029.html",
@@ -10072,13 +9898,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile lian sp850 gold netzteil modular atx 850 watt weiss",
+   "tags": "netzteile 850 w lian sp850 gold netzteil modular atx 850 watt weiss",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-msi-mpg-a1000g-pcie5-netzteil-80-plus-gold-vollmodular-pcie-",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "1000 W+",
    "name": "MSI MPG A1000G PCIe5 Netzteil, 80 PLUS Gold, vollmodular, PCIe 5.0 - 1000 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/msi-mpg-a1000g-pcie5-power-supply-80-plus-gold-fully-modular-pcie-5.0-1000-watt/NEMS-002.html",
@@ -10101,13 +9927,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile msi mpg a1000g pcie5 netzteil plus gold vollmodular pcie 1000 watt",
+   "tags": "netzteile 1000 w+ msi mpg a1000g pcie5 netzteil plus gold vollmodular pcie 1000 watt",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-silverstone-sst-tx700-g-tfx-netzteil-80-plus-gold-700-watt",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "650 W",
    "name": "SilverStone SST-TX700-G TFX Netzteil, 80 PLUS Gold - 700 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/silverstone-sst-tx700-g-tfx-power-supply-80-plus-gold-700-watt/NEST-166.html",
@@ -10130,7 +9956,7 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile silverstone sst tx700 tfx netzteil plus gold 700 watt",
+   "tags": "netzteile 650 w silverstone sst tx700 tfx netzteil plus gold 700 watt",
    "firstSeen": "2026-10-29"
   },
   {
@@ -10194,7 +10020,7 @@
   {
    "id": "c-asus-tuf-gaming-1000w-gold-80-plus-gold-netzteil-modular-100",
    "cat": "Netzteile",
-   "sub": "1000 W",
+   "sub": "1000 W+",
    "name": "ASUS TUF Gaming 1000W Gold 80 PLUS Gold Netzteil, modular - 1000 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-tuf-gaming-1000w-gold-80-plus-gold-power-supply-modular-1000-watt/NEAS-028.html",
@@ -10217,13 +10043,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile 1000 w asus tuf gaming 1000w gold plus netzteil modular 1000 watt",
+   "tags": "netzteile 1000 w+ asus tuf gaming 1000w gold plus netzteil modular 1000 watt",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-be-quiet-power-zone-2-80-plus-platinum-netzteil-vollmodular--l0i9n",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "850 W",
    "name": "be quiet! Power Zone 2 80 PLUS Platinum Netzteil, vollmodular, ATX 3.1, PCIe 5.1 - 850 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-power-zone-2-80-plus-platinum-power-supply-fully-modular-atx-3.1-pcie-5.1-850-watts-black/NEBE-253.html",
@@ -10246,13 +10072,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile quiet power zone plus platinum netzteil vollmodular atx pcie 850 watt schwarz",
+   "tags": "netzteile 850 w quiet power zone plus platinum netzteil vollmodular atx pcie 850 watt schwarz",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-lian-li-sx-series-80-plus-platinum-netzteil-vollmodular-pcie-8lt72",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "1000 W+",
    "name": "Lian Li SX Series 80 PLUS Platinum Netzteil, vollmodular, PCIe 5.1, ATX 3.1 - 1.000 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/lian-li-sx-series-80-plus-platinum-power-supply-fully-modular-pcie-5.1-atx-3.1-1-000-watts-black/NELI-045.html",
@@ -10275,13 +10101,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile lian series plus platinum netzteil vollmodular pcie atx 000 watt schwarz",
+   "tags": "netzteile 1000 w+ lian series plus platinum netzteil vollmodular pcie atx 000 watt schwarz",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-lian-li-sx-series-80-plus-platinum-netzteil-vollmodular-pcie-8lt7r",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "1000 W+",
    "name": "Lian Li SX Series 80 PLUS Platinum Netzteil, vollmodular, PCIe 5.1, ATX 3.1 - 1.000 Watt, weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/en/lian-li-sx-series-80-plus-platinum-power-supply-fully-modular-pcie-5.1-atx-3.1-1-000-watts-white/NELI-046.html",
@@ -10304,13 +10130,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile lian series plus platinum netzteil vollmodular pcie atx 000 watt weiss",
+   "tags": "netzteile 1000 w+ lian series plus platinum netzteil vollmodular pcie atx 000 watt weiss",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-phanteks-amp-gh-v2-1000w-80-plus-platinum-netzteil-pcie-5-1-",
    "cat": "Netzteile",
-   "sub": "1000 W",
+   "sub": "1000 W+",
    "name": "Phanteks AMP GH V2 1000W 80 PLUS Platinum Netzteil, PCIe 5.1, ATX 3.1 - 1000 Watt, weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/en/phanteks-amp-gh-v2-1000w-80-plus-platinum-power-supply-pcie-5.1-atx-3.1-1000-watt-white/NEPH-030.html",
@@ -10333,13 +10159,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile 1000 w phanteks amp 1000w plus platinum netzteil pcie atx 1000 watt weiss",
+   "tags": "netzteile 1000 w+ phanteks amp 1000w plus platinum netzteil pcie atx 1000 watt weiss",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-phanteks-amp-gh-v2-1000w-80-plus-platinum-netzteil-pcie-5-1--oepc9",
    "cat": "Netzteile",
-   "sub": "1000 W",
+   "sub": "1000 W+",
    "name": "Phanteks AMP GH V2 1000W 80 PLUS Platinum Netzteil, PCIe 5.1, ATX 3.1 - 1000 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/phanteks-amp-gh-v2-1000w-80-plus-platinum-power-supply-pcie-5.1-atx-3.1-1000-watts-black/NEPH-031.html",
@@ -10362,13 +10188,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile 1000 w phanteks amp 1000w plus platinum netzteil pcie atx 1000 watt schwarz",
+   "tags": "netzteile 1000 w+ phanteks amp 1000w plus platinum netzteil pcie atx 1000 watt schwarz",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-seasonic-focus-gx-80-plus-gold-netzteil-modular-pcie-5-1-850",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "850 W",
    "name": "Seasonic Focus GX 80 PLUS Gold Netzteil, modular, PCIe 5.1 - 850 Watt, weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/en/seasonic-focus-gx-80-plus-gold-power-supply-modular-pcie-5.1-850-watts-white/NESE-179.html",
@@ -10391,13 +10217,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile seasonic focus plus gold netzteil modular pcie 850 watt weiss",
+   "tags": "netzteile 850 w seasonic focus plus gold netzteil modular pcie 850 watt weiss",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-silverstone-sst-sx700-lpt-v1-1-sfx-l-netzteil-80-plus-platin",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "SFX",
    "name": "SilverStone SST-SX700-LPT v1.1 SFX-L Netzteil 80 PLUS Platinum, modular - 700 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/silverstone-sst-sx700-lpt-v1.1-sfx-l-power-supply-80-plus-platinum-modular-700-watt/NEST-149.html",
@@ -10420,7 +10246,7 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile silverstone sst sx700 lpt sfx netzteil plus platinum modular 700 watt",
+   "tags": "netzteile sfx silverstone sst sx700 lpt netzteil plus platinum modular 700 watt",
    "firstSeen": "2026-10-29"
   },
   {
@@ -10484,7 +10310,7 @@
   {
    "id": "c-lian-li-sx-series-80-plus-platinum-netzteil-vollmodular-pcie-8lt95",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "1000 W+",
    "name": "Lian Li SX Series 80 PLUS Platinum Netzteil, vollmodular, PCIe 5.1, ATX 3.1 - 1.200 Watt, weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/en/lian-li-sx-series-80-plus-platinum-power-supply-fully-modular-pcie-5.1-atx-3.1-1-200-watts-white/NELI-048.html",
@@ -10507,13 +10333,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile lian series plus platinum netzteil vollmodular pcie atx 200 watt weiss",
+   "tags": "netzteile 1000 w+ lian series plus platinum netzteil vollmodular pcie atx 200 watt weiss",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-phanteks-amp-gh-v2-1200w-80-plus-platinum-netzteil-pcie-5-1-",
    "cat": "Netzteile",
-   "sub": "1200 W",
+   "sub": "1000 W+",
    "name": "Phanteks AMP GH V2 1200W 80 PLUS Platinum Netzteil, PCIe 5.1, ATX 3.1 - 1200 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/phanteks-amp-gh-v2-1200w-80-plus-platinum-power-supply-pcie-5.1-atx-3.1-1200-watt-black/NEPH-032.html",
@@ -10536,13 +10362,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile 1200 w phanteks amp 1200w plus platinum netzteil pcie atx 1200 watt schwarz",
+   "tags": "netzteile 1000 w+ phanteks amp 1200w plus platinum netzteil pcie atx 1200 watt schwarz",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-phanteks-amp-gh-v2-1200w-80-plus-platinum-netzteil-pcie-5-1--oepc9",
    "cat": "Netzteile",
-   "sub": "1200 W",
+   "sub": "1000 W+",
    "name": "Phanteks AMP GH V2 1200W 80 PLUS Platinum Netzteil, PCIe 5.1, ATX 3.1 - 1200 Watt, weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/en/phanteks-amp-gh-v2-1200w-80-plus-platinum-power-supply-pcie-5.1-atx-3.1-1200-watts-white/NEPH-033.html",
@@ -10565,13 +10391,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile 1200 w phanteks amp 1200w plus platinum netzteil pcie atx 1200 watt weiss",
+   "tags": "netzteile 1000 w+ phanteks amp 1200w plus platinum netzteil pcie atx 1200 watt weiss",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-silverstone-sst-sx700-pt-sfx-netzteil-80-plus-platinum-modul",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "SFX",
    "name": "SilverStone SST-SX700-PT SFX Netzteil 80 PLUS Platinum, modular - 700 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/silverstone-sst-sx700-pt-sfx-power-supply-80-plus-platinum-modular-700-watt/NEST-142.html",
@@ -10594,13 +10420,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile silverstone sst sx700 sfx netzteil plus platinum modular 700 watt",
+   "tags": "netzteile sfx silverstone sst sx700 netzteil plus platinum modular 700 watt",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-msi-pro-b850m-p-wifi-mainboard",
    "cat": "Mainboards",
-   "sub": "Mainboards",
+   "sub": "AM5 B850",
    "name": "MSI PRO B850M-P WIFI, Mainboard",
    "source": "crawler",
    "url": "https://www.alternate.de/MSI/PRO-B850M-P-WIFI-Mainboard/html/product/100140540",
@@ -10623,13 +10449,13 @@
     }
    ],
    "count": 1,
-   "tags": "mainboards msi pro b850m wifi mainboard",
+   "tags": "mainboards am5 b850 msi pro b850m wifi mainboard",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-msi-pro-b850-s-wifi6e-mainboard",
    "cat": "Mainboards",
-   "sub": "Intel B850",
+   "sub": "AM5 B850",
    "name": "MSI PRO B850-S WIFI6E, Mainboard",
    "source": "crawler",
    "url": "https://www.alternate.de/MSI/PRO-B850-S-WIFI6E-Mainboard/html/product/100140537",
@@ -10652,13 +10478,13 @@
     }
    ],
    "count": 1,
-   "tags": "mainboards intel b850 msi pro b850 wifi6e mainboard",
+   "tags": "mainboards am5 b850 msi pro b850 wifi6e mainboard",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-lian-li-sp-series-platinum-80-plus-platinum-netzteil-sfx-vol",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "SFX",
    "name": "Lian Li SP Series Platinum 80 PLUS Platinum Netzteil, SFX, vollmodular, PCIe 5.1, ATX 3.1 - 850 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/lian-li-sp-series-platinum-80-plus-platinum-power-supply-sfx-fully-modular-pcie-5.1-atx-3.1-850-watts-black/NELI-039.html",
@@ -10681,13 +10507,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile lian series platinum plus netzteil sfx vollmodular pcie atx 850 watt schwarz",
+   "tags": "netzteile sfx lian series platinum plus netzteil vollmodular pcie atx 850 watt schwarz",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-lian-li-sp-series-platinum-80-plus-platinum-netzteil-sfx-vol-8lem2",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "SFX",
    "name": "Lian Li SP Series Platinum 80 PLUS Platinum Netzteil, SFX, vollmodular, PCIe 5.1, ATX 3.1 - 850 Watt, weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/en/lian-li-sp-series-platinum-80-plus-platinum-power-supply-sfx-fully-modular-pcie-5.1-atx-3.1-850-watts-white/NELI-040.html",
@@ -10710,13 +10536,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile lian series platinum plus netzteil sfx vollmodular pcie atx 850 watt weiss",
+   "tags": "netzteile sfx lian series platinum plus netzteil vollmodular pcie atx 850 watt weiss",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-asus-rog-loki-sfx-l-80-plus-platinum-netzteil-modular-750-wa",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "SFX",
    "name": "ASUS ROG Loki SFX-L 80 PLUS Platinum netzteil, modular - 750 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-loki-sfx-l-80-plus-platinum-power-supply-modular-750-watt/NEAS-018.html",
@@ -10739,7 +10565,7 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile asus rog loki sfx plus platinum netzteil modular 750 watt",
+   "tags": "netzteile sfx asus rog loki plus platinum netzteil modular 750 watt",
    "firstSeen": "2026-10-29"
   },
   {
@@ -10803,7 +10629,7 @@
   {
    "id": "c-be-quiet-power-zone-2-80-plus-platinum-netzteil-vollmodular-",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "1000 W+",
    "name": "be quiet! Power Zone 2 80 PLUS Platinum Netzteil, vollmodular, ATX 3.1, PCIe 5.1 - 1.000 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-power-zone-2-80-plus-platinum-power-supply-fully-modular-atx-3.1-pcie-5.1-1-000-watts-black/NEBE-252.html",
@@ -10826,13 +10652,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile quiet power zone plus platinum netzteil vollmodular atx pcie 000 watt schwarz",
+   "tags": "netzteile 1000 w+ quiet power zone plus platinum netzteil vollmodular atx pcie 000 watt schwarz",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-corsair-rmx-series-rm1000x-netzteil-80-plus-gold-atx-3-1-pci",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "1000 W+",
    "name": "Corsair RMx Series RM1000x Netzteil 80 PLUS Gold, ATX 3.1, PCIe 5.1 - 1000 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/corsair-rmx-series-rm1000x-power-supply-80-plus-gold-atx-3.1-pcie-5.1-1000-watt/NECS-178.html",
@@ -10855,13 +10681,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile corsair rmx series rm1000x netzteil plus gold atx pcie 1000 watt",
+   "tags": "netzteile 1000 w+ corsair rmx series rm1000x netzteil plus gold atx pcie 1000 watt",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-silverstone-sst-sx750-pt-v-1-1-sfx-netzteil-80-plus-platinum",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "SFX",
    "name": "SilverStone SST-SX750-PT V.1.1 SFX Netzteil 80 PLUS Platinum, modular - 750 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/silverstone-sst-sx750-pt-v.1.1-sfx-power-supply-80-plus-platinum-modular-750-watt/NEST-152.html",
@@ -10884,7 +10710,7 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile silverstone sst sx750 sfx netzteil plus platinum modular 750 watt",
+   "tags": "netzteile sfx silverstone sst sx750 netzteil plus platinum modular 750 watt",
    "firstSeen": "2026-10-29"
   },
   {
@@ -10948,7 +10774,7 @@
   {
    "id": "c-silverstone-hela-750r-80-plus-platinum-netzteil-atx-3-1-pcie",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "750 W",
    "name": "SilverStone HELA 750R 80 PLUS Platinum Netzteil, ATX 3.1, PCIe 5.0 - 750 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/silverstone-hela-750r-80-plus-platinum-power-supply-atx-3.1-pcie-5.1-750-watts-black/NEST-220.html",
@@ -10971,13 +10797,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile silverstone hela 750r plus platinum netzteil atx pcie 750 watt schwarz",
+   "tags": "netzteile 750 w silverstone hela 750r plus platinum netzteil atx pcie 750 watt schwarz",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-asus-rog-strix-850-platinum-netzteil-80-plus-platinum-modula",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "850 W",
    "name": "ASUS ROG Strix 850 Platinum Netzteil, 80 PLUS Platinum, modular, PCIe 5.1 - 850 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-850-platinum-power-supply-80-plus-platinum-modular-pcie-5.1-850-watts/NEAS-037.html",
@@ -11000,13 +10826,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile asus rog strix 850 platinum netzteil plus modular pcie watt",
+   "tags": "netzteile 850 w asus rog strix 850 platinum netzteil plus modular pcie watt",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-lian-li-sp-series-platinum-80-plus-platinum-netzteil-sfx-vol-8lskw",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "SFX",
    "name": "Lian Li SP Series Platinum 80 PLUS Platinum Netzteil, SFX, vollmodular, PCIe 5.1, ATX 3.1 - 1.000 Watt, weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/en/lian-li-sp-series-platinum-80-plus-platinum-power-supply-sfx-fully-modular-pcie-5.1-atx-3.1-1-000-watt-white/NELI-042.html",
@@ -11029,13 +10855,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile lian series platinum plus netzteil sfx vollmodular pcie atx 000 watt weiss",
+   "tags": "netzteile sfx lian series platinum plus netzteil vollmodular pcie atx 000 watt weiss",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-be-quiet-dark-power-14-80-plus-titanium-netzteil-atx-3-1-pci-l0hoy",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "850 W",
    "name": "be quiet! Dark Power 14 80 PLUS Titanium Netzteil, ATX 3.1, PCIe 5.1 - 850 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-dark-power-14-80-plus-titanium-power-supply-atx-3.1-pcie-5.1-850-watts/NEBE-266.html",
@@ -11058,7 +10884,7 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile quiet dark power plus titanium netzteil atx pcie 850 watt",
+   "tags": "netzteile 850 w quiet dark power plus titanium netzteil atx pcie 850 watt",
    "firstSeen": "2026-10-29"
   },
   {
@@ -11209,7 +11035,7 @@
   {
    "id": "c-asus-rog-loki-850p-sfx-l-platinum-80-plus-platinum-netzteil-",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "SFX",
    "name": "ASUS ROG Loki 850P SFX-L Platinum, 80 PLUS Platinum Netzteil, modular, PCIe 5.0 - 850 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-loki-850p-sfx-l-platinum-80-plus-platinum-power-supply-modular-pcie-5.0-850-watt/NEAS-017.html",
@@ -11232,13 +11058,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile asus rog loki 850p sfx platinum plus netzteil modular pcie 850 watt",
+   "tags": "netzteile sfx asus rog loki 850p platinum plus netzteil modular pcie 850 watt",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-seasonic-focus-gx-80-plus-gold-netzteil-modular-1000-watt-we",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "1000 W+",
    "name": "Seasonic Focus GX 80 PLUS Gold Netzteil, modular - 1000 Watt, weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/en/seasonic-focus-gx-80-plus-gold-power-supply-modular-1000-watts-white/NESE-178.html",
@@ -11261,7 +11087,7 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile seasonic focus plus gold netzteil modular 1000 watt weiss",
+   "tags": "netzteile 1000 w+ seasonic focus plus gold netzteil modular 1000 watt weiss",
    "firstSeen": "2026-10-29"
   },
   {
@@ -11296,7 +11122,7 @@
   {
    "id": "c-asus-rog-loki-sfx-l-80-plus-platinum-netzteil-modular-850-wa",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "SFX",
    "name": "ASUS ROG Loki SFX-L 80 PLUS Platinum netzteil, modular - 850 Watt - weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-loki-sfx-l-80-plus-platinum-power-supply-modular-850-watt-white/NEAS-020.html",
@@ -11319,13 +11145,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile asus rog loki sfx plus platinum netzteil modular 850 watt weiss",
+   "tags": "netzteile sfx asus rog loki plus platinum netzteil modular 850 watt weiss",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-be-quiet-dark-power-14-80-plus-titanium-netzteil-atx-3-1-pci-l0hox",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "1000 W+",
    "name": "be quiet! Dark Power 14 80 PLUS Titanium Netzteil, ATX 3.1, PCIe 5.1 - 1.000 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-dark-power-14-80-plus-titanium-power-supply-atx-3.1-pcie-5.1-1-000-watts/NEBE-265.html",
@@ -11348,13 +11174,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile quiet dark power plus titanium netzteil atx pcie 000 watt",
+   "tags": "netzteile 1000 w+ quiet dark power plus titanium netzteil atx pcie 000 watt",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-msi-b850-gaming-plus-wifi-pz-mainboard",
    "cat": "Mainboards",
-   "sub": "Intel B850",
+   "sub": "AM5 B850",
    "name": "MSI B850 GAMING PLUS WIFI PZ, Mainboard",
    "source": "crawler",
    "url": "https://www.alternate.de/MSI/B850-GAMING-PLUS-WIFI-PZ-Mainboard/html/product/100140531",
@@ -11377,13 +11203,13 @@
     }
    ],
    "count": 1,
-   "tags": "mainboards intel b850 msi b850 gaming plus wifi mainboard",
+   "tags": "mainboards am5 b850 msi b850 gaming plus wifi mainboard",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-silverstone-sst-ex850r-pm-extreme-sfx-netzteil-platinum-850-",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "SFX",
    "name": "SilverStone SST-EX850R-PM Extreme SFX Netzteil Platinum - 850 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/silverstone-sst-ex850r-pm-extreme-sfx-netzteil-platinum-850-watt/NEST-210.html",
@@ -11406,7 +11232,7 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile silverstone sst ex850r extreme sfx netzteil platinum 850 watt",
+   "tags": "netzteile sfx silverstone sst ex850r extreme netzteil platinum 850 watt",
    "firstSeen": "2026-10-29"
   },
   {
@@ -11470,7 +11296,7 @@
   {
    "id": "c-asus-rog-loki-1000p-sfx-l-platinum-80-plus-platinum-netzteil",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "SFX",
    "name": "ASUS ROG Loki 1000P SFX-L Platinum, 80 PLUS Platinum Netzteil, modular, PCIe 5.0 - 1.000 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-loki-1000p-sfx-l-platinum-80-plus-platinum-power-supply-modular-pcie-5.0-1-000-watts/NEAS-016.html",
@@ -11493,13 +11319,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile asus rog loki 1000p sfx platinum plus netzteil modular pcie 000 watt",
+   "tags": "netzteile sfx asus rog loki 1000p platinum plus netzteil modular pcie 000 watt",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-asus-rog-strix-1000-platinum-netzteil-80-plus-platinum-modul",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "1000 W+",
    "name": "ASUS ROG Strix 1000 Platinum Netzteil, 80 PLUS Platinum, modular, PCIe 5.1 - 1.000 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-1000-platinum-power-supply-80-plus-platinum-modular-pcie-5.1-1-000-watts/NEAS-036.html",
@@ -11522,7 +11348,7 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile asus rog strix 1000 platinum netzteil plus modular pcie 000 watt",
+   "tags": "netzteile 1000 w+ asus rog strix 1000 platinum netzteil plus modular pcie 000 watt",
    "firstSeen": "2026-10-29"
   },
   {
@@ -11673,7 +11499,7 @@
   {
    "id": "c-asus-rog-strix-1000w-platinum-80-plus-platinum-netzteil-modu",
    "cat": "Netzteile",
-   "sub": "1000 W",
+   "sub": "1000 W+",
    "name": "ASUS ROG Strix 1000W Platinum, 80 PLUS Platinum Netzteil, modular, PCIe 5.1 - 1.000 Watt, weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-1000w-platinum-80-plus-platinum-power-supply-modular-pcie-5.1-1-000-watts-white/NEAS-041.html",
@@ -11696,13 +11522,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile 1000 w asus rog strix 1000w platinum plus netzteil modular pcie 000 watt weiss",
+   "tags": "netzteile 1000 w+ asus rog strix 1000w platinum plus netzteil modular pcie 000 watt weiss",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-be-quiet-dark-power-14-80-plus-titanium-netzteil-atx-3-1-pci",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "1000 W+",
    "name": "be quiet! Dark Power 14 80 PLUS Titanium Netzteil, ATX 3.1, PCIe 5.1 - 1.200 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-dark-power-14-80-plus-titanium-power-supply-atx-3.1-pcie-5.1-1-200-watts/NEBE-264.html",
@@ -11725,13 +11551,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile quiet dark power plus titanium netzteil atx pcie 200 watt",
+   "tags": "netzteile 1000 w+ quiet dark power plus titanium netzteil atx pcie 200 watt",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-seasonic-prime-fanless-tx-netzteil-80-plus-titanium-modular-",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "650 W",
    "name": "Seasonic Prime Fanless TX Netzteil, 80 PLUS Titanium, modular - 700 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/seasonic-prime-fanless-tx-power-supply-80-plus-titanium-modular-700-watt/NESE-133.html",
@@ -11754,7 +11580,7 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile seasonic prime fanless netzteil plus titanium modular 700 watt",
+   "tags": "netzteile 650 w seasonic prime fanless netzteil plus titanium modular 700 watt",
    "firstSeen": "2026-10-29"
   },
   {
@@ -11876,7 +11702,7 @@
   {
    "id": "c-be-quiet-dark-power-pro-13-netzteil-80-plus-titanium-atx-3-1",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "1000 W+",
    "name": "be quiet! Dark Power Pro 13 Netzteil 80 PLUS Titanium, ATX 3.1, PCIe 5.1 - 1300 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-dark-power-pro-13-power-supply-80-plus-titanium-atx-3.1-pcie-5.1-1300-watt/NEBE-234.html",
@@ -11899,7 +11725,7 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile quiet dark power pro netzteil plus titanium atx pcie 1300 watt",
+   "tags": "netzteile 1000 w+ quiet dark power pro netzteil plus titanium atx pcie 1300 watt",
    "firstSeen": "2026-10-29"
   },
   {
@@ -12021,7 +11847,7 @@
   {
    "id": "c-silverstone-sst-ha1300r-pm-platinum-netzteil-modular-1300-wa",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "1000 W+",
    "name": "Silverstone SST-HA1300R-PM Platinum Netzteil, modular - 1300 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/silverstone-sst-ha1300r-pm-platinum-netzteil-modular-1300-watt/NEST-209.html",
@@ -12044,7 +11870,7 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile silverstone sst ha1300r platinum netzteil modular 1300 watt",
+   "tags": "netzteile 1000 w+ silverstone sst ha1300r platinum netzteil modular 1300 watt",
    "firstSeen": "2026-10-29"
   },
   {
@@ -12079,7 +11905,7 @@
   {
    "id": "c-asus-rog-loki-sfx-l-1200w-80-plus-titanium-netzteil-modular-",
    "cat": "Netzteile",
-   "sub": "1200 W",
+   "sub": "SFX",
    "name": "ASUS ROG Loki SFX-L 1200W, 80 PLUS Titanium Netzteil, modular, PCIe 5.0 - 1200 Watt, weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-loki-sfx-l-1200w-80-plus-titanium-power-supply-modular-pcie-5.0-1200-watt-white/NEAS-031.html",
@@ -12102,13 +11928,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile 1200 w asus rog loki sfx 1200w plus titanium netzteil modular pcie 1200 watt weiss",
+   "tags": "netzteile sfx asus rog loki 1200w plus titanium netzteil modular pcie 1200 watt weiss",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-be-quiet-dark-power-pro-13-80-plus-titanium-netzteil-atx-3-1",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "1000 W+",
    "name": "be quiet! Dark Power Pro 13 80 PLUS Titanium Netzteil, ATX 3.1, PCIe 5.1 - 1.600 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/-be-quiet-dark-power-pro-13-80-plus-titanium-power-supply-atx-3.1-pcie-5.1-1-600-watts-/NEBE-233.html",
@@ -12131,7 +11957,7 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile quiet dark power pro plus titanium netzteil atx pcie 600 watt",
+   "tags": "netzteile 1000 w+ quiet dark power pro plus titanium netzteil atx pcie 600 watt",
    "firstSeen": "2026-10-29"
   },
   {
@@ -12166,7 +11992,7 @@
   {
    "id": "c-asus-rog-thor-platinum-iii-80-plus-platinum-netzteil-modular-5nyhn",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "1000 W+",
    "name": "ASUS ROG Thor Platinum III, 80 PLUS Platinum Netzteil, modular, ATX 3.1, PCIe 5.1 - 1.000 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-thor-platinum-iii-80-plus-platinum-power-supply-modular-atx-3.1-pcie-5.1-1-000-watts/NEAS-040.html",
@@ -12189,7 +12015,7 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile asus rog thor platinum iii plus netzteil modular atx pcie 000 watt",
+   "tags": "netzteile 1000 w+ asus rog thor platinum iii plus netzteil modular atx pcie 000 watt",
    "firstSeen": "2026-10-29"
   },
   {
@@ -12282,7 +12108,7 @@
   {
    "id": "c-silverstone-sst-st1500-ti-v2-0-strider-netzteil-80-plus-tita",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "1000 W+",
    "name": "SilverStone SST-ST1500-TI v2.0 Strider Netzteil 80 PLUS Titanium, modular - 1500 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/silverstone-sst-st1500-ti-v2.0-strider-power-supply-80-plus-titanium-modular-1500-watt/NEST-153.html",
@@ -12305,13 +12131,13 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile silverstone sst st1500 strider netzteil plus titanium modular 1500 watt",
+   "tags": "netzteile 1000 w+ silverstone sst st1500 strider netzteil plus titanium modular 1500 watt",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-asus-rog-thor-platinum-iii-80-plus-platinum-netzteil-modular",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "1000 W+",
    "name": "ASUS ROG Thor Platinum III, 80 PLUS Platinum Netzteil, modular, ATX 3.1, PCIe 5.1 - 1.200 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-thor-platinum-iii-80-plus-platinum-power-supply-modular-atx-3.1-pcie-5.1-1-200-watts/NEAS-039.html",
@@ -12334,7 +12160,7 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile asus rog thor platinum iii plus netzteil modular atx pcie 200 watt",
+   "tags": "netzteile 1000 w+ asus rog thor platinum iii plus netzteil modular atx pcie 200 watt",
    "firstSeen": "2026-10-29"
   },
   {
@@ -12485,7 +12311,7 @@
   {
    "id": "c-seasonic-prime-px-2200-netzteil-80-plus-platinum-vollmodular",
    "cat": "Netzteile",
-   "sub": "Netzteile",
+   "sub": "1000 W+",
    "name": "Seasonic Prime PX-2200 Netzteil, 80 PLUS Platinum, vollmodular, ATX 3.1, PCIe 5.1 - 2.200 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/seasonic-prime-px-2200-power-supply-80-plus-platinum-fully-modular-atx-3.1-pcie-5.1-2-200-watts/NESE-193.html",
@@ -12508,7 +12334,7 @@
     }
    ],
    "count": 1,
-   "tags": "netzteile seasonic prime 2200 netzteil plus platinum vollmodular atx pcie 200 watt",
+   "tags": "netzteile 1000 w+ seasonic prime 2200 netzteil plus platinum vollmodular atx pcie 200 watt",
    "firstSeen": "2026-10-29"
   },
   {
@@ -12949,7 +12775,7 @@
   {
    "id": "c-asrock-radeon-9060-xt-cl-grafikkarte-16384-mb-gddr6",
    "cat": "Grafikkarten",
-   "sub": "Grafikkarten",
+   "sub": "Radeon RX 9060 XT",
    "name": "ASRock Radeon 9060 XT CL Grafikkarte, 16384 MB GDDR6",
    "source": "crawler",
    "url": "https://www.caseking.de/asrock-radeon-9060-xt-cl-grafikkarte-16384-mb-gddr6/GCAR-034.html",
@@ -12972,13 +12798,13 @@
     }
    ],
    "count": 1,
-   "tags": "grafikkarten asrock radeon 9060 grafikkarte 16384 gddr6",
+   "tags": "grafikkarten radeon rx 9060 xt asrock radeon 9060 grafikkarte 16384 gddr6",
    "firstSeen": "2026-10-29"
   },
   {
    "id": "c-asrock-radeon-9060-xt-sl-grafikkarte-16384-mb-gddr6",
    "cat": "Grafikkarten",
-   "sub": "Grafikkarten",
+   "sub": "Radeon RX 9060 XT",
    "name": "ASRock Radeon 9060 XT SL Grafikkarte, 16384 MB GDDR6",
    "source": "crawler",
    "url": "https://www.caseking.de/asrock-radeon-9060-xt-sl-grafikkarte-16384-mb-gddr6/GCAR-033.html",
@@ -13001,7 +12827,7 @@
     }
    ],
    "count": 1,
-   "tags": "grafikkarten asrock radeon 9060 grafikkarte 16384 gddr6",
+   "tags": "grafikkarten radeon rx 9060 xt asrock radeon 9060 grafikkarte 16384 gddr6",
    "firstSeen": "2026-10-29"
   },
   {
