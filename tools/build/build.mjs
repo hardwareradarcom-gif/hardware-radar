@@ -333,7 +333,7 @@ function pcPage(core, [budget, use, useTxt]) {
     body = `<div class="wrap pp">
   <section class="pp-head">
     <div class="pp-title" style="grid-column:1/3"><span class="p-sub">Fertiger Vorschlag · ${esc(useTxt)} · Preise vom ${esc(dlong(STAND))}</span><h1>Gaming-PC für ${eur0(budget)}</h1>
-      <p class="pp-lede">${fits ? `Der stärkste PC, den Hardware-Radar gerade aus den aktuellen Bestpreisen für ${eur0(budget)} zusammenstellen kann. Alle Teile passen zusammen und werden bei jeder Preisprüfung neu berechnet.` : `${esc(res.reason || ("Für " + eur0(budget) + " lässt sich gerade kein vollständiger PC zusammenstellen."))} Hier ist der günstigste passende PC.`}</p></div>
+      <p class="pp-lede">${fits ? `Der stärkste PC, den Hardware-Radar gerade aus den aktuellen Bestpreisen für ${eur0(budget)} zusammenstellen kann. Alle Teile passen zusammen und werden bei jeder Preisprüfung neu berechnet.${b.ram && b.ram.price / x.total > 0.25 ? ` Achtung: Arbeitsspeicher ist gerade sehr teuer (32 GB ab ${eur0(b.ram.price)}), deshalb bleibt weniger Geld für die Grafikkarte übrig. Mehr dazu in der <a href="${B}ratgeber/arbeitsspeicher-ram-2026.html">RAM-Kaufberatung</a>.` : ""}` : `${esc(res.reason || ("Für " + eur0(budget) + " lässt sich gerade kein vollständiger PC zusammenstellen."))} Hier ist der günstigste passende PC.`}</p></div>
     <div class="pp-buy"><span class="from">Gesamtpreis</span><span class="val">${eur(x.total)}</span><span class="at">${slots.length} Teile, ohne Monitor</span><a class="btn primary" href="${B}${link}">Im Konfigurator anpassen</a></div>
   </section>
   <div class="pp-grid">
