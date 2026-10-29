@@ -524,6 +524,15 @@
     applyOptToForm(); render();
     $("hints").innerHTML = ["1000 € für Full HD", "1500 € für WQHD, lieber NVIDIA", "2500 € für 4K", "Streaming und Arbeit, 1800 €", "mit Monitor", "günstiger", "stärkere Grafikkarte", "warum diese Teile?"]
       .map(function (s) { return '<button type="button" class="chip" data-say="' + esc(s) + '">' + esc(s) + "</button>"; }).join("");
+    // Direktstart per Link, z. B. konfigurator.html#budget=1500&use=1440 (aus den Kaufberatungen)
+    var auto = /^budget=(\d{3,5})(?:&use=(1080|1440|2160|work))?(?:&gpu=(any|nvidia|amd))?/.exec(h);
+    if (auto) {
+      opt.budget = Math.max(500, Math.min(15000, +auto[1])); if (auto[2]) opt.use = auto[2]; if (auto[3]) opt.gpu = auto[3];
+      applyOptToForm();
+      say(eur0(opt.budget) + ", " + USE_TEXT[opt.use], "me"); runAssistant();
+      try { history.replaceState(null, "", location.pathname); } catch (x) {}
+      return;
+    }
     if (Object.keys(build).length) say("<p>Willkommen zurück! Deine letzte Zusammenstellung ist rechts geladen. Sag mir, was ich ändern soll, oder lass mich neu planen.</p>");
     else say("<p>Hallo! Ich bin der Radar-Assistent. Wähl oben Budget und Einsatz und tippe auf <b>PC zusammenstellen</b>, oder schreib mir einfach, was du brauchst.</p>");
   }

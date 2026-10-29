@@ -18,57 +18,9 @@
   function pct(x) { return (x * 100).toLocaleString("de-DE", { maximumFractionDigits: 1, signDisplay: "exceptZero" }) + " %"; }
   function safeUrl(u) { try { var x = new URL(u); return (x.protocol === "https:" || x.protocol === "http:") ? x : null; } catch (e) { return null; } }
 
-  /* Fremde Tracking-Kennungen entfernen und eigene Partner-ID anhängen */
-  var STRIP = ["tag", "ascsubtag", "linkcode", "linkid", "creative", "creativeasin", "camp", "awc", "smid", "psc", "th", "gclid", "fbclid", "msclkid", "wt_mc", "wt.mc_id", "emid", "affid", "affiliate", "partner", "pid", "clickref", "srsltid"];
-  function hostIs(h, dom) { h = h.replace(/^www\./, ""); return h === dom || h.slice(-(dom.length + 1)) === "." + dom; }
-  function affiliate(url) {
-    var u = safeUrl(url); if (!u) return { href: "#", aff: false, shop: false };
-    var A = CFG.affiliate || {};
-    var portal = ["mydealz.de", "hardwaredealz.com", "geizhals.de", "geizhals.at", "billiger.de", "idealo.de"].some(function (d) { return hostIs(u.hostname, d); });
-    if (portal) return { href: u.toString(), aff: false, shop: false };
-    Array.from(u.searchParams.keys()).forEach(function (k) { var l = k.toLowerCase(); if (l.indexOf("utm_") === 0 || STRIP.indexOf(l) > -1) u.searchParams.delete(k); });
-    var clean = u.toString();
-    if (A.amazonTag && hostIs(u.hostname, "amazon.de")) { u.searchParams.set("tag", A.amazonTag); return { href: u.toString(), aff: true, shop: true }; }
-    var m = A.awinMerchants || {};
-    for (var dom in m) {
-      if (m[dom] && A.awinId && hostIs(u.hostname, dom)) {
-        return { href: "https://www.awin1.com/cread.php?awinmid=" + encodeURIComponent(m[dom]) + "&awinaffid=" + encodeURIComponent(A.awinId) + "&ued=" + encodeURIComponent(clean), aff: true, shop: true };
-      }
-    }
-    return { href: clean, aff: false, shop: true };
-  }
-  /* Direkte Links zu Shops: Produktseite, wenn bekannt, sonst die Shop-Suche nach dem Produktnamen */
-  var SHOPS = [
-    [/amazon/i, "Amazon", "https://www.amazon.de/s?k="],
-    [/mediamarkt/i, "MediaMarkt", "https://www.mediamarkt.de/de/search.html?query="],
-    [/saturn/i, "Saturn", "https://www.saturn.de/de/search.html?query="],
-    [/alternate/i, "Alternate", "https://www.alternate.de/listing.xhtml?q="],
-    [/mindfactory/i, "Mindfactory", "https://www.mindfactory.de/search_result.php?search_query="],
-    [/notebooksbilliger|^nbb$/i, "notebooksbilliger.de", "https://www.notebooksbilliger.de/produkte/"],
-    [/cyberport/i, "Cyberport", "https://www.cyberport.de/tools/search-results.html?q="],
-    [/computeruniverse/i, "computeruniverse", "https://www.computeruniverse.net/de/search?query="],
-    [/galaxus/i, "Galaxus", "https://www.galaxus.de/de/search?q="],
-    [/alza/i, "Alza", "https://www.alza.de/search.htm?exps="],
-    [/proshop/i, "Proshop", "https://www.proshop.de/?s="],
-    [/caseking/i, "Caseking", "https://www.caseking.de/search?search="],
-    [/jacob/i, "Jacob", "https://www.jacob.de/q/"],
-    [/kaufland/i, "Kaufland", "https://www.kaufland.de/s/?search_value="],
-    [/conrad/i, "Conrad", "https://www.conrad.de/de/search.html?search="],
-    [/reichelt/i, "reichelt", "https://www.reichelt.de/index.html?ACTION=446&SEARCH="],
-    [/ebay/i, "eBay", "https://www.ebay.de/sch/i.html?_nkw="]
-  ];
-  var PORTALS = ["mydealz.de", "hardwaredealz.com", "geizhals.de", "geizhals.at", "geizhals.eu", "billiger.de", "idealo.de", "guenstiger.de", "preisvergleich.heise.de"];
-  function isPortal(url) { var u = safeUrl(url); return !!u && PORTALS.some(function (d) { return hostIs(u.hostname, d); }); }
-  function shopOf(name) { for (var i = 0; i < SHOPS.length; i++) if (SHOPS[i][0].test(name || "")) return SHOPS[i]; return null; }
-  function cleanName(n) { return String(n || "").replace(/\([^)]*\)/g, " ").replace(/["„“]/g, " ").replace(/\s+/g, " ").trim(); }
-  /* Liefert {href, label, aff, guess} für einen Shop-Knopf oder null */
-  function shopLink(url, shop, name) {
-    if (url && !isPortal(url)) { var l = affiliate(url); if (l.shop) return { href: l.href, aff: l.aff, label: shopOf(shop) ? "Zu " + shopOf(shop)[1] : "Zum Shop", guess: false }; }
-    var s = shopOf(shop); if (!s) return null;
-    var q = encodeURIComponent(cleanName(name)), l2 = affiliate(s[2] + q);
-    return { href: l2.href, aff: l2.aff, label: "Zu " + s[1], guess: true };
-  }
-  function fallbackLink(name) { var l = affiliate("https://www.amazon.de/s?k=" + encodeURIComponent(cleanName(name))); return { href: l.href, aff: l.aff, label: "Bei Amazon suchen", guess: true }; }
+  /* Shop-Links (assets/links.js): Tracking entfernen, Partner-IDs anhängen, nie zu Preisportalen */
+  var HL = window.HRLinks || {};
+  var affiliate = HL.affiliate, isPortal = HL.isPortal, shopOf = HL.shopOf, cleanName = HL.cleanName, shopLink = HL.shopLink, fallbackLink = HL.fallbackLink;
   function shopBtn(l, cls) {
     return '<a class="btn ' + cls + '" href="' + esc(l.href) + '" target="_blank" rel="' + relOf(l) + '"' + (l.guess ? ' title="Öffnet die Suche nach diesem Produkt im Shop"' : "") + ">" + esc(l.label) + aff(l) + "</a>";
   }
@@ -152,7 +104,7 @@
     var main = shopLink(d.shopUrl, d.shop, d.name) || shopLink(d.url, d.shop, d.name) || fallbackLink(d.name);
     var alt = main.label === "Zu Amazon" || main.label === "Bei Amazon suchen" ? null : fallbackLink(d.name);
     return '<article class="card"><div class="c-head">' + thumb(d, rank) +
-      '<div class="c-title"><div class="c-cat">' + esc(d.cat) + '</div><h3 class="c-name">' + esc(d.name) + "</h3></div>" + pill + "</div>" +
+      '<div class="c-title"><div class="c-cat">' + esc(d.cat) + '</div><h3 class="c-name">' + (d.pid ? '<a href="p/' + encodeURIComponent(d.pid) + '.html">' + esc(d.name) + "</a>" : esc(d.name)) + "</h3></div>" + pill + "</div>" +
       '<div><div class="c-price"><span class="now">' + eur(d.price) + "</span>" + (d.ref && d.ref > d.price ? '<span class="was">' + eur(d.ref) + "</span>" : "") + "</div>" +
       '<div class="c-shop">bei <b>' + esc(d.shop) + "</b>" + (d.seen ? " · geprüft " + dshort(d.seen) : "") + "</div></div>" +
       (d.note ? '<p class="c-note">' + esc(d.note) + "</p>" : "") + scale +
@@ -318,7 +270,7 @@
     }).join("");
     var id = "of-" + esc(p.id);
     return '<article class="prod"><div class="prod-main">' +
-      '<div class="p-left">' + thumb(p) + '<div class="p-info"><span class="p-sub">' + esc(p.sub || p.cat) + (isNew(p) ? '<span class="new-badge">neu</span>' : "") + '</span><h4 class="p-name">' + esc(p.name) + "</h4>" +
+      '<div class="p-left">' + thumb(p) + '<div class="p-info"><span class="p-sub">' + esc(p.sub || p.cat) + (isNew(p) ? '<span class="new-badge">neu</span>' : "") + '</span><h4 class="p-name"><a href="p/' + encodeURIComponent(p.id) + '.html">' + esc(p.name) + "</a></h4>" +
       '<div class="p-meta"><span>' + (n > 1 ? n + " Shops verglichen" : "1 Angebot") + (p.count ? " · " + p.count + " Angebote insgesamt" : "") + "</span><span>Stand " + dlong(p.stand) + "</span>" + (stale ? '<span class="stale">Preis älter als 7 Tage</span>' : "") + "</div>" + spread + "</div></div>" +
       '<div class="p-price"><span class="from">' + (state.ship && e.best.known ? "ab, inkl. Versand" : "ab") + '</span><span class="val">' + eur(e.price) + '</span><span class="at">bei <b>' + esc(best.shop) + "</b>" + (state.ship ? (e.best.known ? "" : " · Versand unbekannt") : best.ship != null ? " · Versand " + shipText(best) : "") + "</span>" +
       (e.unit != null ? '<span class="unit">' + eur(e.unit) + " pro " + e.uinfo.u + "</span>" : "") + "</div>" +
@@ -488,6 +440,10 @@
   function start(data, cat) {
     deals = ((data && data.deals) || []).filter(function (d) { return d && d.name && typeof d.price === "number" && CATS.indexOf(d.cat) > -1; });
     products = ((cat && cat.products) || []).filter(function (p) { return p && p.name && typeof p.price === "number" && CATS.indexOf(p.cat) > -1; });
+    // Deals mit passender Produktseite verknüpfen
+    var nk = function (s) { return String(s || "").toLowerCase().replace(/\([^)]*\)/g, "").replace(/[^a-z0-9]/g, ""); };
+    var pm = {}; products.forEach(function (p) { pm[nk(p.name)] = p.id; pm[p.id] = p.id; });
+    deals.forEach(function (d) { d.pid = pm[d.id] || pm[nk(d.name)] || null; });
     var upd = (data && data.updated) || (cat && cat.updated);
     if (upd) {
       var t = new Date(upd);

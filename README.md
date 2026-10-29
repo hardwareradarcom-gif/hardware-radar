@@ -166,3 +166,16 @@ Weil die Seite `deals.json` nachlädt, öffnet man sie am besten über einen kle
 - Werbung und Affiliate-Links gekennzeichnet
 - Werbe-Cookies erst nach Einwilligung
 - Wer regelmäßig Einnahmen erzielt, braucht in der Regel eine Gewerbeanmeldung; Einnahmen gehören in die Steuererklärung
+
+## Produktseiten, Kategorien und Kaufberatungen
+
+Bei jeder Veröffentlichung (Workflow `Website veröffentlichen`) erzeugt `tools/build/build.mjs` aus `data/catalog.json` statische Seiten:
+
+- `p/<id>.html` – eine Seite pro Produkt mit allen Shops, Preisverlauf, Preisalarm und ähnlichen Produkten
+- `k/<kategorie>.html` – eine Übersicht pro Kategorie
+- `ratgeber/…` – die Kaufberatungen aus `tools/build/guides.mjs` (fester Text, Tabellen werden aus den aktuellen Preisen neu berechnet)
+- `sitemap.xml` – alle Seiten für Google
+
+Lokal testen: `node tools/build/build.mjs --out /tmp/site` (vorher die Website-Dateien nach `/tmp/site` kopieren). Neue Kaufberatungen fügst du in `guides.mjs` hinzu.
+
+Der **Preisalarm** (`assets/alarm.js`) speichert Zielpreise nur im Browser der Besucher und meldet beim nächsten Besuch, wenn ein Ziel erreicht ist.
