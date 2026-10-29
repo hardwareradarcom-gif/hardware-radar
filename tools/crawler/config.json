@@ -29,7 +29,6 @@
     ],
     "maxCandidatesPerRun": 25
   },
-  "storeImages": false,
   "seeds": [
     "https://www.alternate.de",
     "https://www.mindfactory.de",
@@ -282,5 +281,7 @@
     "reichelt.de": "https://www.reichelt.de/index.html?ACTION=446&SEARCH={q}",
     "kaufland.de": "https://www.kaufland.de/s/?search_value={q}",
     "conrad.de": "https://www.conrad.de/de/search.html?search={q}"
-  }
+  },
+  "imageDomains": [],
+  "_imageInfo": "Produktbilder werden nur von Shops in imageDomains übernommen. Trage hier nur Shops ein, deren Bilder du nutzen darfst, z. B. weil du bei ihnen Affiliate-Partner bist und das Partnerprogramm die Nutzung der Produktbilder erlaubt."
 }

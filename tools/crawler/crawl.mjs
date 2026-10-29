@@ -279,7 +279,7 @@ function parseProduct(html, pageUrl) {
     const brand = decode(typeof p.brand === "string" ? p.brand : p.brand?.name || "").trim();
     const gtin = String(p.gtin13 || p.gtin || p.gtin14 || p.gtin12 || p.ean || "").replace(/\D/g, "") || null;
     const mpn = String(p.mpn || "").trim() || null;
-    const img = CFG.storeImages ? [].concat(p.image || [])[0] : null;
+    const img = [].concat(p.image || [])[0] || null; // wird nur für freigegebene Shops übernommen, siehe record()
     return { name: brand && !norm(name).includes(norm(brand)) ? brand + " " + name : name, brand, gtin, mpn, img: typeof img === "string" ? img : img?.url || null, offer: of, siteName };
   }
   // Rückfall: Open-Graph-Produktpreis
@@ -331,7 +331,11 @@ function record(dom, pageUrl, p) {
   if (!rec.offers[dom]) newOffersThisRun++;
   if (p.name.length < rec.name.length || !rec.name) rec.name = p.name;
   rec.cat = cat; rec.sub = subOf(cat, rec.name);
-  if (p.img && !rec.img) rec.img = p.img;
+  // Produktbilder nur von Shops, deren Bilder du nutzen darfst (config.json -> imageDomains, z. B. als Affiliate-Partner)
+  if (p.img && hostMatches(dom, CFG.imageDomains || [])) {
+    const iu = safeUrl(typeof p.img === "string" ? p.img : "", pageUrl);
+    if (iu && iu.protocol === "https:") { rec.img = iu.toString(); rec.imgFrom = dom; }
+  }
   const shopName = state.domains[dom]?.name || p.offer.seller || p.siteName || dom;
   if (state.domains[dom] && !state.domains[dom].name && p.siteName && p.siteName.length < 40) state.domains[dom].name = p.siteName;
   const prev = rec.offers[dom];

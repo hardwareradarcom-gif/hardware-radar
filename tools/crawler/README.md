@@ -57,4 +57,4 @@ Automatisch: Die Datei `.github/workflows/crawl.yml` startet den Crawler über G
 
 - Shops ohne strukturierte Produktdaten oder mit starkem Bot-Schutz liefern keine Preise. Viele große Händler blocken Bots, dann bleibt der Shop außen vor.
 - Versandkosten stehen selten in den Produktdaten, dann zeigt die Seite „unbekannt“.
-- Produktbilder werden nicht übernommen (`storeImages: false`), weil sie urheberrechtlich geschützt sind.
+- Produktbilder übernimmt er nur von Shops, die in `config.json` → `imageDomains` stehen. Die Liste ist anfangs leer, weil Produktfotos urheberrechtlich geschützt sind. Trag einen Shop erst ein, wenn du seine Bilder nutzen darfst, zum Beispiel weil sein Partnerprogramm (AWIN, Amazon PartnerNet usw.) das erlaubt. Gespeichert wird nur der Bildlink, nicht das Bild selbst. Die Website zeigt das Bild dann klein am Produkt, lädt es nicht, erscheint wieder das Kategorie-Symbol.
