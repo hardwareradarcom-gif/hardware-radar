@@ -4,7 +4,7 @@ window.HR_CONFIG = {
   siteName: "Hardware-Radar",
 
   // Google AdSense: deine Publisher-ID, z. B. "ca-pub-1234567890123456". Leer = keine Werbung.
-  adsenseClient: "",
+  adsenseClient: "ca-pub-2634653069939049",
   // Die Anzeigenblock-IDs aus deinem AdSense-Konto (Anzeigen > Nach Anzeigenblock).
   adSlots: {
     leaderboard: "",   // breiter Block unter den Top-Deals
