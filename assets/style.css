@@ -321,3 +321,17 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
   .scale:has(> .s-one){display:none}
 }
 @media (max-width:480px){.pulse .v{font-size:15px;white-space:nowrap}.pulse .l{font-size:11px}.intro-cta .btn{flex:1 1 100%}.pulse .s{display:none}}
+
+/* ---------- Schalter Hell/Dunkel ---------- */
+.site-head .wrap{gap:12px}
+.head-nav{margin-left:auto}
+.theme-toggle{flex:0 0 auto;width:38px;height:38px;display:inline-grid;place-items:center;border-radius:10px;border:1px solid var(--line);background:var(--surface);color:var(--ink);cursor:pointer;padding:0}
+.theme-toggle:hover{border-color:var(--line-strong)}
+.theme-toggle:focus-visible{outline:2px solid var(--signal);outline-offset:2px}
+.theme-toggle svg{width:19px;height:19px;fill:none;stroke:currentColor;stroke-width:1.9;stroke-linecap:round;stroke-linejoin:round}
+.theme-toggle .i-moon{display:none}
+:root[data-theme="light"] .theme-toggle .i-sun{display:none}
+:root[data-theme="light"] .theme-toggle .i-moon{display:block}
+@media (prefers-color-scheme: light){:root:not([data-theme="dark"]) .theme-toggle .i-sun{display:none}:root:not([data-theme="dark"]) .theme-toggle .i-moon{display:block}}
+.logo + .theme-toggle{margin-left:auto}
+@media (max-width:560px){.theme-toggle{margin-left:auto}}
