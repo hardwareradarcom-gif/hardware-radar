@@ -20,7 +20,7 @@ window.HR_CONFIG = {
     // Amazon PartnerNet: deine Tracking-ID, z. B. "hardwareradar-21". Wird an amazon.de-Links angehängt.
     amazonTag: "",
     // AWIN: deine Publisher-ID (Zahl aus deinem AWIN-Konto).
-    awinId: "",
+    awinId: "3139071",
     // AWIN: pro Shop die Advertiser-ID, sobald dich der Shop freigeschaltet hat.
     // Schlüssel = Domain des Shops. Leere Einträge werden ignoriert. Weitere Shops einfach ergänzen.
     awinMerchants: {
