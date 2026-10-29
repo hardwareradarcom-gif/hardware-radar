@@ -184,6 +184,7 @@
   }
   function loadAdsense() {
     if (adsLoaded || !CFG.adsenseClient || consent() !== "granted") return;
+    if (document.querySelector('script[src*="adsbygoogle.js"]')) { adsLoaded = true; gtag("consent", "update", { ad_storage: "granted", ad_user_data: "granted", ad_personalization: "granted" }); [].forEach.call(document.querySelectorAll("ins.adsbygoogle:not([data-adsbygoogle-status])"), function () { try { (window.adsbygoogle = window.adsbygoogle || []).push({}); } catch (e) {} }); return; }
     adsLoaded = true;
     gtag("consent", "update", { ad_storage: "granted", ad_user_data: "granted", ad_personalization: "granted" });
     var s = document.createElement("script");
