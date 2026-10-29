@@ -326,7 +326,11 @@
         "kühlkörper für",
         "dock",
         "handschuh",
-        "nas-gehäuse"
+        "nas-gehäuse",
+        "laufwerksgehäuse",
+        "wechselrahmen",
+        "u.2",
+        "enclosure"
       ],
       "min": 25,
       "max": 3000
@@ -396,7 +400,10 @@
         "kabel",
         "abdeckung",
         "i/o-blende",
-        "halter"
+        "halter",
+        "cable",
+        "strimer",
+        "verlängerungskabel"
       ],
       "min": 50,
       "max": 1500
@@ -622,7 +629,10 @@
         "pad",
         "laptop-kühler",
         "notebookkühler",
-        "kühlpad"
+        "kühlpad",
+        "server",
+        "1u",
+        "2u"
       ],
       "min": 10,
       "max": 600
