@@ -280,7 +280,7 @@ function guidePage(g) {
   const body = `<div class="wrap guide"><article class="g-body">
   <header class="g-head"><span class="p-sub">Kaufberatung · aktualisiert am ${esc(dlong(STAND))}</span><h1>${esc(g.title)}</h1><p class="pp-lede">${esc(g.teaser)}</p></header>
   ${html}
-  <aside class="g-cta"><div><b>Lieber direkt einen kompletten PC?</b><span>Der PC-Konfigurator stellt aus den aktuellen Bestpreisen einen passenden PC zusammen und prüft, ob alles zusammenpasst.</span></div><a class="btn primary" href="${B}konfigurator.html${g.cfg ? "#" + g.cfg : ""}">PC-Konfigurator öffnen</a></aside>
+  <aside class="g-cta"><div><b>Lieber direkt einen kompletten PC?</b><span>Der PC-Konfigurator stellt aus den aktuellen Bestpreisen einen passenden PC zusammen und prüft, ob alles zusammenpasst.</span></div><span class="g-cta-btns"><a class="btn primary" href="${B}konfigurator.html${g.cfg ? "#" + g.cfg : ""}">PC-Konfigurator öffnen</a><a class="btn ghost" href="${B}konfigurator.html#aufruesten">Meinen PC aufrüsten</a></span></aside>
   <p class="pp-small">Die Empfehlungen in den Tabellen werden bei jeder Preisprüfung automatisch neu berechnet. Leistungswerte sind grobe Richtwerte aus öffentlichen Tests und dienen nur dem Vergleich. Maßgeblich sind Preis und Verfügbarkeit im Shop.</p>
   </article>
   <nav class="g-more" aria-label="Weitere Kaufberatungen"><h2>Weitere Kaufberatungen</h2><ul>${GUIDES.filter(x => x !== g).map(x => `<li><a href="${B}ratgeber/${x.slug}.html">${esc(x.title)}</a></li>`).join("")}</ul></nav>

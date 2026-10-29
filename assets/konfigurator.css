@@ -97,3 +97,51 @@
 .pk-item.incompat{opacity:.55}
 .pk-item .why{color:var(--up)}
 .pk-empty{padding:20px;text-align:center;color:var(--muted);font-size:14px}
+
+/* ---------- Umschalter Neuer PC / Aufrüsten ---------- */
+.mode-switch{display:inline-flex;gap:4px;margin-top:18px;padding:4px;border:1px solid var(--line);border-radius:12px;background:var(--surface);flex-wrap:wrap}
+.mode-switch button{font:inherit;font-size:14px;font-weight:700;border:0;border-radius:9px;padding:10px 16px;background:transparent;color:var(--muted);cursor:pointer}
+.mode-switch button[aria-selected="true"]{background:var(--signal);color:var(--signal-ink)}
+.mode-switch button:focus-visible{outline:2px solid var(--signal);outline-offset:2px}
+@media (max-width:560px){.mode-switch{display:flex}.mode-switch button{flex:1 1 140px;padding:10px 8px}}
+
+/* ---------- PC aufrüsten ---------- */
+.upg{display:grid;grid-template-columns:minmax(0,5fr) minmax(0,7fr);gap:20px;padding-block:24px 10px;align-items:start}
+.upg[hidden]{display:none}
+@media (max-width:960px){.upg{grid-template-columns:1fr}}
+.ug-in{font:inherit;font-size:15px;padding:10px 12px;border-radius:9px;border:1px solid var(--line-strong);background:var(--bg-2);color:var(--ink);width:100%;min-width:0}
+.ug-in:focus{outline:2px solid var(--signal);outline-offset:1px}
+.ug-ok{font-size:12.5px;color:var(--down);min-height:1em}.ug-ok.bad{color:var(--up)}
+.ug-two{display:grid;grid-template-columns:1fr 1fr;gap:10px}
+.ug-ex{display:flex;flex-wrap:wrap;gap:6px;align-items:center;font-size:12.5px;color:var(--muted)}
+.ug-ex .chip{font-size:12.5px;padding:5px 11px}
+.ug-result{display:flex;flex-direction:column;gap:14px;min-width:0}
+.ug-empty,.ug-ana,.ug-opt,.ug-tips{background:var(--surface);border:1px solid var(--line);border-radius:var(--r);padding:16px;box-shadow:var(--shadow)}
+.ug-empty h3,.ug-ana h3,.ug-opt h3,.ug-tips h3{font-family:var(--font-display);font-weight:600;font-size:17px;margin:0 0 10px}
+.ug-empty ol{margin:0 0 10px;padding-left:20px;line-height:1.7}.ug-empty p{margin:0;color:var(--muted);font-size:14px}
+.ug-ana dl{margin:0;display:grid;gap:10px}
+.ug-ana dl div{display:grid;grid-template-columns:120px 1fr;gap:10px;align-items:start}
+.ug-ana dt{font-size:12px;font-family:var(--font-mono);letter-spacing:.06em;text-transform:uppercase;color:var(--muted);padding-top:2px}
+.ug-ana dd{margin:0;font-size:14.5px;display:flex;flex-direction:column;gap:4px}
+.ug-ana small{color:var(--muted);font-size:12px}
+.ug-bar{display:block;height:7px;border-radius:5px;background:var(--bg-2);border:1px solid var(--line);overflow:hidden;max-width:320px}
+.ug-bar i{display:block;height:100%;background:var(--signal);border-radius:5px}
+.ug-verdict{margin:14px 0 0;padding:12px;border-radius:10px;background:var(--signal-soft);font-size:14.5px;line-height:1.5}
+.ug-opt.best{border-color:var(--down);box-shadow:0 0 0 1px var(--down) inset,var(--shadow)}
+.ug-opt-h{display:flex;justify-content:space-between;gap:12px;align-items:flex-start;margin-bottom:10px}
+.ug-opt-h h3{margin:4px 0 0}
+.ug-gain{display:flex;flex-direction:column;align-items:flex-end;text-align:right;flex:none}
+.ug-gain b{font-family:var(--font-mono);font-size:24px;color:var(--down);line-height:1}
+.ug-gain span{font-size:11.5px;color:var(--muted);max-width:120px}
+.ug-parts{list-style:none;margin:0;padding:0;display:grid;gap:8px}
+.ug-parts li{display:grid;grid-template-columns:110px minmax(0,1fr) auto auto;grid-template-areas:"role name price go" "role why price go";gap:2px 12px;align-items:center;padding:10px;border:1px solid var(--line);border-radius:10px;background:var(--bg-2)}
+.ug-role{grid-area:role;font-family:var(--font-mono);font-size:10.5px;letter-spacing:.08em;text-transform:uppercase;color:var(--muted)}
+.ug-name{grid-area:name;font-weight:700;color:var(--ink);text-decoration:none;font-size:14px;line-height:1.3}.ug-name:hover{color:var(--signal)}
+.ug-why{grid-area:why;font-size:12.5px;color:var(--muted)}
+.ug-price{grid-area:price;font-family:var(--font-mono);font-weight:700;white-space:nowrap}
+.ug-parts .btn{grid-area:go;flex:none;padding:8px 12px;font-size:13px;white-space:nowrap}
+.ug-sum{display:flex;justify-content:space-between;align-items:baseline;margin-top:10px;padding-top:10px;border-top:1px solid var(--line)}
+.ug-sum b{font-family:var(--font-mono);font-size:20px}
+.ug-notes,.ug-tips ul{margin:10px 0 0;padding-left:20px;font-size:13.5px;color:var(--muted);line-height:1.55}
+.ug-tips ul{color:var(--ink);font-size:14px}.ug-tips li{margin-bottom:8px}.ug-tips b{color:var(--ink)}
+@media (max-width:560px){.ug-parts li{grid-template-columns:minmax(0,1fr) auto;grid-template-areas:"role price" "name name" "why why" "go go"}.ug-parts .btn{justify-self:stretch;margin-top:6px}.ug-ana dl div{grid-template-columns:1fr}.ug-two{grid-template-columns:1fr 1fr}}

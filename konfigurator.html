@@ -43,7 +43,12 @@
   <div class="cfg-intro"><div class="wrap">
     <p class="eyebrow"><span class="dot"></span><span id="stand">Preise werden geladen</span></p>
     <h1>PC-Konfigurator</h1>
-    <p class="lede">Sag dem Assistenten dein Budget und wofür du den PC brauchst. Er stellt aus den aktuellen Bestpreisen einen passenden PC zusammen, prüft, ob alles zusammenpasst, und erklärt seine Wahl. Jedes Teil kannst du danach selbst tauschen.</p>
+    <p class="lede" id="cfg-lede-new">Sag dem Assistenten dein Budget und wofür du den PC brauchst. Er stellt aus den aktuellen Bestpreisen einen passenden PC zusammen, prüft, ob alles zusammenpasst, und erklärt seine Wahl. Jedes Teil kannst du danach selbst tauschen.</p>
+    <p class="lede" id="cfg-lede-up" hidden>Gib deinen jetzigen Prozessor und deine Grafikkarte ein. Der Assistent zeigt dir, was deinen PC bremst, und sucht aus den aktuellen Bestpreisen das Upgrade mit dem größten Leistungsgewinn für dein Budget.</p>
+    <div class="mode-switch" role="tablist" aria-label="Modus">
+      <button type="button" role="tab" id="mode-new" aria-selected="true">Neuen PC zusammenstellen</button>
+      <button type="button" role="tab" id="mode-up" aria-selected="false">Meinen PC aufrüsten</button>
+    </div>
   </div></div>
 
   <div class="wrap cfg-grid">
@@ -103,6 +108,49 @@
       <p class="b-note">Preise laut Hardware-Radar, ohne Gewähr. Leistungsangaben sind grobe Richtwerte für Spiele. Maßgeblich sind Preis und Verfügbarkeit im Shop.</p>
     </section>
   </div>
+
+  <div class="wrap upg" id="upgrade" hidden>
+    <section class="assistant ug-form-box" aria-labelledby="ug-title">
+      <div class="as-head">
+        <div class="as-avatar" aria-hidden="true"><svg viewBox="0 0 32 32"><path d="M16 4v16M9 11l7-7 7 7" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/><path d="M6 22v4h20v-4" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"/></svg></div>
+        <div><h2 id="ug-title">Upgrade-Assistent</h2><p class="as-sub">Findet den Engpass und das beste Upgrade</p></div>
+      </div>
+      <form id="ug-form" class="as-quick" autocomplete="off">
+        <label class="as-field" for="ug-cpu"><span>Dein Prozessor</span>
+          <input class="ug-in" id="ug-cpu" list="ug-cpu-list" placeholder="z. B. Ryzen 5 3600 oder i5-9400F" required>
+          <small class="ug-ok" id="ug-cpu-ok" aria-live="polite"></small></label>
+        <datalist id="ug-cpu-list"></datalist>
+        <label class="as-field" for="ug-gpu"><span>Deine Grafikkarte</span>
+          <input class="ug-in" id="ug-gpu" list="ug-gpu-list" placeholder="z. B. GTX 1070 oder RX 6600" required>
+          <small class="ug-ok" id="ug-gpu-ok" aria-live="polite"></small></label>
+        <datalist id="ug-gpu-list"></datalist>
+        <div class="ug-two">
+          <label class="as-field" for="ug-ram"><span>Arbeitsspeicher</span>
+            <select class="ug-in" id="ug-ram"><option value="8">8 GB</option><option value="16" selected>16 GB</option><option value="32">32 GB</option><option value="64">64 GB</option></select></label>
+          <label class="as-field" for="ug-ramtype"><span>RAM-Typ</span>
+            <select class="ug-in" id="ug-ramtype"><option value="auto" id="ug-ramtype-auto">automatisch</option><option value="DDR3">DDR3</option><option value="DDR4">DDR4</option><option value="DDR5">DDR5</option></select></label>
+        </div>
+        <label class="as-field" for="ug-psu"><span>Netzteil (steht auf dem Typenschild)</span>
+          <select class="ug-in" id="ug-psu"><option value="0">weiß ich nicht</option><option value="400">400 W</option><option value="450">450 W</option><option value="500">500 W</option><option value="550">550 W</option><option value="600">600 W</option><option value="650">650 W</option><option value="700">700 W</option><option value="750">750 W</option><option value="850">850 W</option><option value="1000">1000 W oder mehr</option></select></label>
+        <fieldset class="as-field"><legend>Du spielst in</legend>
+          <div class="seg seg-wrap" role="radiogroup">
+            <label><input type="radio" name="ug-use" value="1080"><span>Full HD</span></label>
+            <label><input type="radio" name="ug-use" value="1440" checked><span>WQHD</span></label>
+            <label><input type="radio" name="ug-use" value="2160"><span>4K</span></label>
+          </div>
+        </fieldset>
+        <label class="as-field" for="ug-budget"><span>Budget fürs Upgrade</span>
+          <span class="budget-row"><input id="ug-budget" type="range" min="100" max="2500" step="50" value="600"><output id="ug-budget-out" for="ug-budget">600 €</output></span></label>
+        <button class="btn primary as-go" type="submit">Upgrade finden</button>
+      </form>
+      <div class="ug-ex" id="ug-examples"><span>Beispiele:</span>
+        <button type="button" class="chip" data-ex="Ryzen 5 3600|GTX 1070|16|550">Ryzen 5 3600 + GTX 1070</button>
+        <button type="button" class="chip" data-ex="i5-9400F|GTX 1660 Super|16|500">i5-9400F + GTX 1660 Super</button>
+        <button type="button" class="chip" data-ex="Ryzen 7 5800X3D|RTX 3060|32|650">Ryzen 7 5800X3D + RTX 3060</button>
+      </div>
+    </section>
+    <div class="ug-result" id="ug-result" aria-live="polite"><div class="ug-empty"><h3>So funktioniert's</h3><ol><li>Prozessor und Grafikkarte eintippen, die Vorschläge helfen beim Schreiben.</li><li>Arbeitsspeicher, Netzteil und Auflösung angeben.</li><li>Budget wählen und auf <b>Upgrade finden</b> tippen.</li></ol><p>Der Assistent prüft Sockel, Speichertyp und Netzteil und rechnet alle sinnvollen Kombinationen durch: nur Grafikkarte, nur Prozessor, neue Plattform oder beides.</p></div></div>
+  </div>
 </main>
 
 <div class="picker" id="picker" hidden>
@@ -134,7 +182,9 @@
 <!--HR:BODY-END-->
 
 <script src="assets/config.js"></script>
+<script src="assets/links.js"></script>
 <script src="assets/konfigurator.js"></script>
+<script src="assets/upgrade.js"></script>
 <script src="assets/alarm.js"></script>
 </body>
 </html>
