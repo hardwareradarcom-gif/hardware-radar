@@ -28,7 +28,7 @@ Ohne die Dateien funktioniert die Seite trotzdem, sie nutzt dann die Systemschri
 
 ## 2. Online stellen (kostenlos)
 
-**Aktuell eingerichtet:** GitHub Pages über GitHub Actions. Der Workflow `Website veröffentlichen` stellt die Seite bei jeder Änderung neu online, der Workflow `Preise aktualisieren` startet dreimal täglich den Crawler und veröffentlicht danach automatisch. Die Adresse ist `https://hardwareradarcom-gif.github.io/hardware-radar/`.
+**Aktuell eingerichtet:** GitHub Pages über GitHub Actions. Der Workflow `Website veröffentlichen` stellt die Seite bei jeder Änderung neu online, der Workflow `Preise aktualisieren` startet dreimal täglich den Crawler und veröffentlicht danach automatisch. Die Adresse ist `https://hwradar.de/` (Domain bei INWX, DNS zeigt auf GitHub Pages; die alte Adresse `https://hardwareradarcom-gif.github.io/hardware-radar/` leitet automatisch weiter).
 
 ### Alternative: manuell bei GitHub Pages
 

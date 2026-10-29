@@ -34,6 +34,7 @@ jobs:
           cp -r index.html konfigurator.html impressum.html datenschutz.html favicon.svg assets data _site/
           [ -f ads.txt ] && cp ads.txt _site/ || true
           [ -f CNAME ] && cp CNAME _site/ || true
+          cp robots.txt sitemap.xml _site/ 2>/dev/null || true
           touch _site/.nojekyll
           # einfache 404-Seite, die zur Startseite führt
           printf '<!doctype html><meta charset="utf-8"><title>Seite nicht gefunden</title><meta http-equiv="refresh" content="0; url=./">' > _site/404.html

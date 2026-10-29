@@ -10,7 +10,7 @@ Wenn du zusätzlich eine **echte KI** (Claude) für freie Fragen willst, brauchs
 2. **Cloudflare Worker:** Kostenloses Konto auf dash.cloudflare.com → *Workers & Pages* → *Create* → *Worker*. Den Inhalt von `worker.js` in den Editor kopieren und *Deploy* klicken.
 3. **Einstellungen** des Workers (*Settings → Variables and Secrets*):
    - `ANTHROPIC_API_KEY` als **Secret** mit deinem Schlüssel
-   - `ALLOWED_ORIGIN` = `https://hardwareradarcom-gif.github.io` (bzw. später deine eigene Domain)
+   - `ALLOWED_ORIGIN` = `https://hwradar.de`
 4. **Website verbinden:** In `assets/config.js` bei `aiEndpoint` die Adresse des Workers eintragen, z. B. `"https://hardware-radar-ai.deinname.workers.dev"`.
 
 Fällt die KI aus oder ist das Limit erreicht, antwortet automatisch wieder der eingebaute Assistent.

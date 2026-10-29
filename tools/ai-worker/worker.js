@@ -5,7 +5,7 @@
  *
  * Einstellungen im Cloudflare-Dashboard (Settings -> Variables):
  *   ANTHROPIC_API_KEY  (als "Secret")         dein Schlüssel von console.anthropic.com
- *   ALLOWED_ORIGIN     z. B. https://hardwareradarcom-gif.github.io
+ *   ALLOWED_ORIGIN     z. B. https://hwradar.de
  *   MODEL              optional, Standard: claude-haiku-5-5 (schnell und günstig)
  */
 const RATE = new Map(); // einfache Bremse pro IP: höchstens 20 Anfragen pro 10 Minuten
