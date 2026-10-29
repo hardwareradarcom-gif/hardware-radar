@@ -1,5 +1,5 @@
-# Startet den Hardware-Radar-Crawler dreimal täglich und speichert neue Preise im Repository.
-# Netlify veröffentlicht jede Änderung automatisch, wenn die Seite mit diesem Repository verbunden ist.
+# Startet den Hardware-Radar-Crawler dreimal täglich, speichert neue Preise im Repository
+# und veröffentlicht die Website danach automatisch auf GitHub Pages.
 name: Preise aktualisieren
 
 on:
@@ -10,6 +10,8 @@ on:
 
 permissions:
   contents: write
+  pages: write
+  id-token: write
 
 concurrency:
   group: crawler
@@ -38,5 +40,14 @@ jobs:
             echo "Keine Änderungen."
           else
             git commit -m "Preise aktualisiert $(date -u +'%Y-%m-%d %H:%M') UTC"
+            git pull --rebase --autostash
             git push
           fi
+
+  deploy:
+    needs: crawl
+    uses: ./.github/workflows/pages.yml
+    permissions:
+      contents: read
+      pages: write
+      id-token: write

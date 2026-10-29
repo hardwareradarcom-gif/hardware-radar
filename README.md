@@ -26,7 +26,11 @@ Die Seite lädt bewusst nichts von Google Fonts, weil das in Deutschland ohne Ei
 
 Ohne die Dateien funktioniert die Seite trotzdem, sie nutzt dann die Systemschriften.
 
-## 2. Bei GitHub Pages online stellen (kostenlos)
+## 2. Online stellen (kostenlos)
+
+**Aktuell eingerichtet:** GitHub Pages über GitHub Actions. Der Workflow `Website veröffentlichen` stellt die Seite bei jeder Änderung neu online, der Workflow `Preise aktualisieren` startet dreimal täglich den Crawler und veröffentlicht danach automatisch. Die Adresse ist `https://hardwareradarcom-gif.github.io/hardware-radar/`.
+
+### Alternative: manuell bei GitHub Pages
 
 1. Konto auf https://github.com anlegen.
 2. Neues Repository anlegen, z. B. `hardware-radar`, Sichtbarkeit **Public**.

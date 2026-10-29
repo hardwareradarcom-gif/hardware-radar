@@ -1,0 +1,48 @@
+# Veröffentlicht die Website auf GitHub Pages.
+# Läuft bei jeder Änderung auf main, nach jedem Crawler-Lauf und auf Knopfdruck.
+name: Website veröffentlichen
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch: {}
+  workflow_call: {}
+
+permissions:
+  contents: read
+  pages: write
+  id-token: write
+
+concurrency:
+  group: pages
+  cancel-in-progress: true
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main   # neuesten Stand holen, auch direkt nach einem Crawler-Commit
+
+      - name: Nur die Website-Dateien zusammenstellen
+        run: |
+          mkdir _site
+          cp -r index.html impressum.html datenschutz.html favicon.svg assets data _site/
+          [ -f ads.txt ] && cp ads.txt _site/ || true
+          [ -f CNAME ] && cp CNAME _site/ || true
+          touch _site/.nojekyll
+          # einfache 404-Seite, die zur Startseite führt
+          printf '<!doctype html><meta charset="utf-8"><title>Seite nicht gefunden</title><meta http-equiv="refresh" content="0; url=./">' > _site/404.html
+
+      - uses: actions/configure-pages@v5
+
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: _site
+
+      - id: deployment
+        uses: actions/deploy-pages@v4
