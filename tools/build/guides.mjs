@@ -43,6 +43,18 @@ function cpuRows(H) {
   return [...by.values()].sort((a, b) => b.score - a.score);
 }
 
+
+/* ---------- weitere Bausteine ---------- */
+const hz = p => { const m = (p.name + " " + (p.sub || "")).match(/(\d{2,3})\s?hz/i); return m ? +m[1] : null; };
+const formf = p => /mini-?itx|\bitx\b/i.test(p.name) ? "Mini-ITX" : /m-?atx|micro-?atx|\b[ab]\d{3}m\b|\bb\d{3}m-|\bh\d{3}m/i.test(p.name) ? "Micro-ATX" : "ATX";
+const wifi = p => /wi-?fi|wlan/i.test(p.name);
+function chipsetOf(p) {
+  const m = (p.sub + " " + p.name).toLowerCase().match(/\b([abxzh])(\d{3})e?(?=m\b|i\b|\b|-)/); if (!m) return null;
+  const L1 = m[1].toUpperCase(), num = +m[2], amd = L1 === "X" || L1 === "A" || (L1 === "B" && [350, 450, 550, 650, 840, 850].includes(num));
+  return { chip: L1 + m[2], socket: amd ? (num < 600 ? "AM4" : "AM5") : num >= 800 ? "LGA1851" : num >= 600 ? "LGA1700" : "Intel" };
+}
+function table(H, head, rows) { return `<div class="offers-scroll"><table class="g-table"><thead><tr>${head.map(h => `<th${/Preis|€|Hz/.test(h) ? ' class="num"' : ""}>${h}</th>`).join("")}<th></th></tr></thead><tbody>${rows.join("")}</tbody></table></div>`; }
+
 /* ---------- die Beratungen ---------- */
 export const GUIDES = [
   {
@@ -193,6 +205,93 @@ ${ssds.length ? `<div class="offers-scroll"><table class="g-table"><thead><tr><t
 </ul>
 <h2>Netzteile im Radar</h2>
 ${list(H, psus, 8)}`;
+    }
+  },
+  {
+    slug: "gaming-monitor-kaufberatung", cat: "Monitore", short: "Gaming-Monitor",
+    title: "Gaming-Monitor kaufen: Auflösung, Hertz und OLED einfach erklärt",
+    teaser: "Full HD, WQHD oder 4K, 144 oder 240 Hz, IPS oder OLED? So findest du den Monitor, der zu deiner Grafikkarte passt, mit den aktuell günstigsten Modellen je Klasse.",
+    forProduct: (p) => p.cat === "Monitore",
+    render(H) {
+      const mons = H.products.filter(p => p.cat === "Monitore");
+      const groups = [...new Set(mons.map(p => p.sub).filter(Boolean))];
+      const rows = groups.map(g => mons.filter(p => p.sub === g).sort((a, b) => a.price - b.price)[0]).sort((a, b) => a.price - b.price)
+        .map(p => `<tr><td><b>${H.esc(p.sub)}</b></td><td><a href="${H.B}p/${p.id}.html">${H.esc(p.name)}</a></td><td class="num">${hz(p) ? hz(p) + " Hz" : "–"}</td><td class="num">${H.eur(p.price)}${H.drop(p)}</td><td class="go">${H.btn(H.L.productLink(p), "ghost")}</td></tr>`);
+      return `<h2>Kurz gesagt</h2>
+<p>Der Monitor sollte zur Grafikkarte passen. Für <b>Full HD</b> (1920 × 1080) reichen Einsteiger-Karten wie RTX 5060 oder RX 9060 XT, hier lohnen sich 165 bis 240 Hz für schnelle Shooter. <b>WQHD</b> (2560 × 1440) auf 27 Zoll ist für die meisten Spieler der beste Kompromiss und passt zu Karten ab etwa RTX 5070 oder RX 9070. <b>4K</b> lohnt sich vor allem mit sehr starken Karten oder wenn du viel Wert auf Schärfe legst und Upscaling nutzt.</p>
+<h2>Die günstigsten Monitore je Klasse</h2>
+${rows.length ? table(H, ["Klasse", "Günstigstes Modell", "Hz", "Preis"], rows) : '<p class="g-empty">Gerade sind keine Monitore im Radar.</p>'}
+<h2>IPS, VA oder OLED?</h2>
+<ul class="g-ul">
+<li><b>IPS:</b> gute Farben und Blickwinkel, schnelle Reaktion. Der sichere Allrounder.</li>
+<li><b>VA:</b> sehr guter Kontrast, oft gebogen und günstig, bei dunklen Szenen manchmal leichtes Nachziehen.</li>
+<li><b>OLED:</b> perfektes Schwarz und extrem schnelle Pixel, aber teurer. Statische Elemente wie Taskleisten können über Jahre einbrennen. Die eingebauten Pflegefunktionen solltest du deshalb eingeschaltet lassen.</li>
+</ul>
+<h2>Worauf du achten solltest</h2>
+<ul class="g-ul">
+<li><b>Bildwiederholrate:</b> Ab 144 Hz wirkt alles spürbar flüssiger. Mehr als 240 Hz merken vor allem E-Sport-Spieler.</li>
+<li><b>Adaptive Sync:</b> FreeSync bzw. „G-Sync kompatibel“ verhindert Bildrisse. Das haben fast alle aktuellen Gaming-Monitore.</li>
+<li><b>Anschluss:</b> Für hohe Hertzzahlen in WQHD oder 4K nutze DisplayPort oder HDMI 2.1 an der Grafikkarte, nicht den Anschluss am Mainboard.</li>
+</ul>`;
+    }
+  },
+  {
+    slug: "mainboard-kaufberatung", cat: "Mainboards", short: "Mainboard",
+    title: "Mainboard-Kaufberatung: Welcher Chipsatz passt zu deinem Prozessor?",
+    teaser: "AM5 oder Intel, B650, B850 oder X870, mit oder ohne WLAN? Was du beim Mainboard wirklich brauchst und welche Boards gerade am günstigsten sind.",
+    forProduct: (p) => p.cat === "Mainboards",
+    render(H) {
+      const boards = H.products.filter(p => p.cat === "Mainboards" && !/kabel|cable|strimer/i.test(p.name)).map(p => ({ p, c: chipsetOf(p) })).filter(x => x.c);
+      const keys = [...new Set(boards.map(x => x.c.socket + " " + x.c.chip))].sort();
+      const rows = keys.map(k => boards.filter(x => x.c.socket + " " + x.c.chip === k).sort((a, b) => a.p.price - b.p.price)[0])
+        .map(x => `<tr><td><b>${H.esc(x.c.chip)}</b><br><small>${H.esc(x.c.socket)}</small></td><td><a href="${H.B}p/${x.p.id}.html">${H.esc(x.p.name)}</a><br><small>${formf(x.p)}${wifi(x.p) ? " · mit WLAN" : ""}</small></td><td class="num">${H.eur(x.p.price)}${H.drop(x.p)}</td><td class="go">${H.btn(H.L.productLink(x.p), "ghost")}</td></tr>`);
+      const wifiCheap = boards.filter(x => wifi(x.p) && x.c.socket === "AM5").sort((a, b) => a.p.price - b.p.price).slice(0, 4).map(x => x.p);
+      return `<h2>Kurz gesagt</h2>
+<p>Das Mainboard muss zum <b>Sockel</b> des Prozessors passen: AMD Ryzen 7000 und 9000 brauchen <b>AM5</b>, Intel Core Ultra 200 braucht <b>LGA1851</b>, Intel Core der 12. bis 14. Generation <b>LGA1700</b>. Danach entscheidet der Chipsatz, wie viele Anschlüsse und Extras du bekommst. Für einen Gaming-PC reicht fast immer ein Board aus der Mittelklasse.</p>
+<h2>Die Chipsätze für AM5 kurz erklärt</h2>
+<ul class="g-ul">
+<li><b>A620:</b> Einstiegsklasse ohne Übertakten. Für sparsame Prozessoren in Ordnung, für Top-Modelle eher nicht.</li>
+<li><b>B650:</b> der bewährte Allrounder mit allem, was ein Gaming-PC braucht.</li>
+<li><b>B850:</b> Nachfolger von B650, mit PCIe 5.0 für die SSD. Oft kaum teurer und deshalb meist die bessere Wahl.</li>
+<li><b>X870:</b> mehr Anschlüsse, USB4 und PCIe 5.0 für Grafikkarte und SSD. Nur nötig, wenn du diese Extras wirklich nutzt.</li>
+</ul>
+<h2>Das günstigste Board je Chipsatz</h2>
+${rows.length ? table(H, ["Chipsatz", "Günstigstes Modell", "Preis"], rows) : '<p class="g-empty">Gerade sind keine Mainboards im Radar.</p>'}
+${wifiCheap.length ? `<h2>Günstige AM5-Boards mit WLAN</h2>${list(H, wifiCheap, 4)}` : ""}
+<h2>Worauf du achten solltest</h2>
+<ul class="g-ul">
+<li><b>Größe:</b> ATX ist das Standardformat, Micro-ATX ist kleiner und oft günstiger, Mini-ITX passt in sehr kleine Gehäuse. Prüfe, was dein Gehäuse aufnimmt.</li>
+<li><b>WLAN:</b> Wenn kein Netzwerkkabel zum PC geht, spart ein Board mit WLAN einen extra Adapter.</li>
+<li><b>Arbeitsspeicher:</b> AM5- und LGA1851-Boards nutzen nur DDR5. Bei LGA1700 gibt es Boards für DDR4 oder DDR5, das steht im Namen.</li>
+<li><b>BIOS:</b> Für neue Prozessoren auf älteren Boards kann ein BIOS-Update nötig sein. Viele Boards können das per „BIOS Flashback“ sogar ohne Prozessor.</li>
+</ul>`;
+    }
+  },
+  {
+    slug: "cpu-kuehler-kaufberatung", cat: "Kühlung", short: "CPU-Kühler",
+    title: "CPU-Kühler: Luftkühler oder Wasserkühlung?",
+    teaser: "Ein guter Kühler muss nicht teuer sein. Welcher Kühler zu deinem Prozessor passt, worauf du bei der Bauhöhe achten musst und welche Modelle gerade günstig sind.",
+    forProduct: (p) => p.cat === "Kühlung",
+    render(H) {
+      const k = H.products.filter(p => p.cat === "Kühlung" && !/abdeckung|cover|blende/i.test(p.name));
+      const single = k.filter(p => /120\s?mm|120mm/i.test(p.name) && !/dual|low.?profile|2\s?x/i.test(p.name)).sort((a, b) => a.price - b.price);
+      const dual = k.filter(p => /dual[- ]?tower|2\s?x\s?1[24]0|nh-d15|peerless|royal|frozen|phantom spirit 120(?! se)/i.test(p.name)).sort((a, b) => a.price - b.price);
+      const lowp = k.filter(p => /low.?profile|\blp\b/i.test(p.name)).sort((a, b) => a.price - b.price);
+      const aio = k.filter(p => /\baio\b|wasserkühlung|liquid|\bloop\b|\b(240|280|360|420)\s?mm\b/i.test(p.sub + " " + p.name) && !/lüfter|fan/i.test(p.sub)).sort((a, b) => a.price - b.price);
+      return `<h2>Kurz gesagt</h2>
+<p>Für die meisten Gaming-Prozessoren reicht ein <b>guter Tower-Luftkühler mit 120-mm-Lüfter</b>. Gute Modelle kosten oft nur 20 bis 40 € und sind leise. Erst bei sehr hungrigen Prozessoren (über etwa 170 Watt, zum Beispiel Intel Core i7/i9 der K-Serie oder Ryzen 9) lohnt sich ein großer Doppelturm-Kühler oder eine <b>AiO-Wasserkühlung</b> mit 280 oder 360 mm. Die X3D-Prozessoren von AMD brauchen erstaunlich wenig Strom, für sie reicht ein einfacher Tower meist völlig.</p>
+<h2>Einfache Tower-Kühler (120 mm)</h2>
+${list(H, single, 6)}
+${dual.length ? `<h2>Doppelturm-Kühler für starke Prozessoren</h2>${list(H, dual, 4)}` : ""}
+${aio.length ? `<h2>AiO-Wasserkühlungen</h2>${list(H, aio, 4)}` : ""}
+${lowp.length ? `<h2>Flache Kühler für kleine Gehäuse</h2>${list(H, lowp, 4)}` : ""}
+<h2>Worauf du achten solltest</h2>
+<ul class="g-ul">
+<li><b>Sockel:</b> Prüfe, ob der Kühler deinen Sockel unterstützt (AM5/AM4 oder LGA1700/LGA1851). Die meisten aktuellen Kühler können beides.</li>
+<li><b>Bauhöhe:</b> Tower-Kühler sind oft 150 bis 165 mm hoch. Das Gehäuse gibt an, wie hoch der Kühler maximal sein darf.</li>
+<li><b>Arbeitsspeicher:</b> Große Kühler können hohe RAM-Module verdecken. Achte bei Doppelturm-Kühlern auf die angegebene RAM-Freiheit.</li>
+<li><b>Wärmeleitpaste:</b> Liegt fast immer bei oder ist schon aufgetragen.</li>
+</ul>`;
     }
   },
   {

@@ -215,7 +215,16 @@ function subOf(cat, name) {
       return pcie + (tb ? " " + tb[1].replace(".", ",") + " TB" : gb ? " " + gb[1] + " GB" : "");
     }
     case "Mainboards":
-      if ((m = /\b([abxz]\d{3}e?)\b/.exec(n))) { const c = m[1].toUpperCase(); return (/^[ABX][56]/.test(c) && !/^B7|^Z/.test(c) ? (c.startsWith("B5") || c.startsWith("X5") ? "AM4 " : "AM5 ") : "Intel ") + c; }
+      if ((m = /\b([abxzh])(\d{3})e?(?=m\b|i\b|\b|-)/.exec(n))) {
+        const L1 = m[1].toUpperCase(), num = +m[2], c = L1 + m[2];
+        const amd = L1 === "X" || L1 === "A" || (L1 === "B" && [350, 450, 550, 650, 840, 850].includes(num));
+        if (amd) return (num < 600 ? "AM4 " : "AM5 ") + c;
+        if (num >= 800) return "Intel LGA1851 " + c;
+        if (num >= 600) return "Intel LGA1700 " + c;
+        return "Intel " + c;
+      }
+      if (/\bam5\b/.test(n)) return "AM5";
+      if (/\bam4\b/.test(n)) return "AM4";
       return "Mainboards";
     case "Monitore": {
       const z = /(\d{2}(?:[.,]\d)?)\s?("|zoll|”|'')/.exec(n); return z ? z[1].replace(".", ",") + "\"" : "Monitore";

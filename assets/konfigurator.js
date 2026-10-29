@@ -496,7 +496,7 @@
   document.addEventListener("keydown", function (e) { if (e.key === "Escape" && !$("picker").hidden) closePicker(); });
   $("clear-build").addEventListener("click", function () { build = {}; render(); });
   function listText() {
-    return "Mein PC von Hardware-Radar\n" + SLOTS.filter(function (s) { return build[s.id]; }).map(function (s) { var bo = bestOffer(build[s.id]); return s.label + ": " + build[s.id].name + " – " + eur(build[s.id].price) + " bei " + (bo.o.shop || "") + "\n  " + bo.link.href; }).join("\n") + "\nGesamt: " + $("total").textContent;
+    return "Mein PC von Hardware-Radar\n" + SLOTS.filter(function (s) { return build[s.id]; }).map(function (s) { var bo = bestOffer(build[s.id]); return s.label + ": " + build[s.id].name + " – " + eur(build[s.id].price) + " bei " + (/bestpreis|gunstigster|günstigster|geizhals|hardwaredealz/i.test(bo.o.shop || "") ? "günstigstem Händler" : (bo.o.shop || "")) + "\n  " + bo.link.href; }).join("\n") + "\nGesamt: " + $("total").textContent;
   }
   function copy(text, btn, done) {
     function ok() { var t = btn.textContent; btn.textContent = done; setTimeout(function () { btn.textContent = t; }, 1800); }

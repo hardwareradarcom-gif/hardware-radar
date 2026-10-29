@@ -20,6 +20,7 @@
 
   /* Shop-Links (assets/links.js): Tracking entfernen, Partner-IDs anhängen, nie zu Preisportalen */
   var HL = window.HRLinks || {};
+  var shopLabel = HL.shopName || function (x) { return x; };
   var affiliate = HL.affiliate, isPortal = HL.isPortal, shopOf = HL.shopOf, cleanName = HL.cleanName, shopLink = HL.shopLink, fallbackLink = HL.fallbackLink;
   function shopBtn(l, cls) {
     return '<a class="btn ' + cls + '" href="' + esc(l.href) + '" target="_blank" rel="' + relOf(l) + '"' + (l.guess ? ' title="Öffnet die Suche nach diesem Produkt im Shop"' : "") + ">" + esc(l.label) + aff(l) + "</a>";
@@ -106,7 +107,7 @@
     return '<article class="card"><div class="c-head">' + thumb(d, rank) +
       '<div class="c-title"><div class="c-cat">' + esc(d.cat) + '</div><h3 class="c-name">' + (d.pid ? '<a href="p/' + encodeURIComponent(d.pid) + '.html">' + esc(d.name) + "</a>" : esc(d.name)) + "</h3></div>" + pill + "</div>" +
       '<div><div class="c-price"><span class="now">' + eur(d.price) + "</span>" + (d.ref && d.ref > d.price ? '<span class="was">' + eur(d.ref) + "</span>" : "") + "</div>" +
-      '<div class="c-shop">bei <b>' + esc(d.shop) + "</b>" + (d.seen ? " · geprüft " + dshort(d.seen) : "") + "</div></div>" +
+      '<div class="c-shop">bei <b>' + esc(shopLabel(d.shop)) + "</b>" + (d.seen ? " · geprüft " + dshort(d.seen) : "") + "</div></div>" +
       (d.note ? '<p class="c-note">' + esc(d.note) + "</p>" : "") + scale +
       '<div class="c-go">' + shopBtn(main, "primary") + (alt ? shopBtn(alt, "ghost") : "") + "</div></article>";
   }
@@ -266,13 +267,13 @@
     var rows = ranked.map(function (r, i) {
       var o = r.o, total = o.ship == null ? null : o.price + o.ship;
       var ol = shopLink(o.url, o.shop, p.name);
-      return '<tr class="' + (i === 0 ? "best" : "") + '"><td>' + esc(o.shop) + (i === 0 ? '<span class="tag-best">günstigster</span>' : "") + '</td><td class="num">' + eur(o.price) + '</td><td class="num">' + shipText(o) + '</td><td class="num">' + (total == null ? '<span class="unk">unbekannt</span>' : eur(total)) + "</td><td>" + esc(o.avail || "–") + '</td><td class="go">' + (ol ? '<a href="' + esc(ol.href) + '" target="_blank" rel="' + relOf(ol) + '">' + esc(ol.label) + aff(ol) + "</a>" : "") + "</td></tr>";
+      return '<tr class="' + (i === 0 ? "best" : "") + '"><td>' + esc(shopLabel(o.shop)) + (i === 0 ? '<span class="tag-best">günstigster</span>' : "") + '</td><td class="num">' + eur(o.price) + '</td><td class="num">' + shipText(o) + '</td><td class="num">' + (total == null ? '<span class="unk">unbekannt</span>' : eur(total)) + "</td><td>" + esc(o.avail || "–") + '</td><td class="go">' + (ol ? '<a href="' + esc(ol.href) + '" target="_blank" rel="' + relOf(ol) + '">' + esc(ol.label) + aff(ol) + "</a>" : "") + "</td></tr>";
     }).join("");
     var id = "of-" + esc(p.id);
     return '<article class="prod"><div class="prod-main">' +
       '<div class="p-left">' + thumb(p) + '<div class="p-info"><span class="p-sub">' + esc(p.sub || p.cat) + (isNew(p) ? '<span class="new-badge">neu</span>' : "") + '</span><h4 class="p-name"><a href="p/' + encodeURIComponent(p.id) + '.html">' + esc(p.name) + "</a></h4>" +
       '<div class="p-meta"><span>' + (n > 1 ? n + " Shops verglichen" : "1 Angebot") + (p.count ? " · " + p.count + " Angebote insgesamt" : "") + "</span><span>Stand " + dlong(p.stand) + "</span>" + (stale ? '<span class="stale">Preis älter als 7 Tage</span>' : "") + "</div>" + spread + "</div></div>" +
-      '<div class="p-price"><span class="from">' + (state.ship && e.best.known ? "ab, inkl. Versand" : "ab") + '</span><span class="val">' + eur(e.price) + '</span><span class="at">bei <b>' + esc(best.shop) + "</b>" + (state.ship ? (e.best.known ? "" : " · Versand unbekannt") : best.ship != null ? " · Versand " + shipText(best) : "") + "</span>" +
+      '<div class="p-price"><span class="from">' + (state.ship && e.best.known ? "ab, inkl. Versand" : "ab") + '</span><span class="val">' + eur(e.price) + '</span><span class="at">bei <b>' + esc(shopLabel(best.shop)) + "</b>" + (state.ship ? (e.best.known ? "" : " · Versand unbekannt") : best.ship != null ? " · Versand " + shipText(best) : "") + "</span>" +
       (e.unit != null ? '<span class="unit">' + eur(e.unit) + " pro " + e.uinfo.u + "</span>" : "") + "</div>" +
       '<div class="p-actions"><button type="button" class="star" data-watch="' + esc(p.id) + '" aria-pressed="' + !!watch[p.id] + '" aria-label="' + (watch[p.id] ? "Von Merkliste entfernen" : "Auf die Merkliste") + '" title="Merkliste"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M12 3.5l2.6 5.3 5.9.9-4.3 4.1 1 5.8L12 16.9l-5.2 2.7 1-5.8-4.3-4.1 5.9-.9z"/></svg></button>' + (n > 1 || p.note ? '<button type="button" class="btn ghost" aria-expanded="false" aria-controls="' + id + '" data-toggle="' + id + '">Shops ansehen <span class="chev">▾</span></button>' : "") +
       shopBtn(bestLink, "primary") + "</div></div>" +

@@ -47,7 +47,7 @@
       return { href: clean, aff: false, shop: true };
     }
     function shopOf(name) { for (var i = 0; i < SHOPS.length; i++) if (SHOPS[i][0].test(name || "")) return SHOPS[i]; return null; }
-    function shopName(name) { var s = shopOf(name); return s ? s[1] : String(name || "Shop").replace(/^www\./, ""); }
+    function shopName(name) { if (/geizhals|hardwaredealz|idealo|mydealz|günstigst/i.test(name || "")) return "Bestpreis im Netz"; var s = shopOf(name); return s ? s[1] : String(name || "Shop").replace(/^www\./, ""); }
     function cleanName(n) { return String(n || "").replace(/\([^)]*\)/g, " ").replace(/["„“]/g, " ").replace(/\s+/g, " ").trim(); }
     /* {href, label, aff, guess} für einen Shop-Knopf oder null */
     function shopLink(url, shop, name) {
