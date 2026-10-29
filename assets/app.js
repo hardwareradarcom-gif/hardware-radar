@@ -245,7 +245,7 @@
   }
   var SORTS = {
     deals: [["deal", "Bester Deal"], ["drop", "Stärkster Preisrückgang"], ["asc", "Preis aufsteigend"], ["desc", "Preis absteigend"]],
-    compare: [["cat", "Nach Kategorie"], ["asc", "Preis aufsteigend"], ["desc", "Preis absteigend"], ["unit", "Preis pro GB/TB"], ["spread", "Größte Shop-Unterschiede"], ["name", "Name A–Z"]]
+    compare: [["cat", "Nach Kategorie"], ["asc", "Preis aufsteigend"], ["desc", "Preis absteigend"], ["unit", "Preis pro GB/TB"], ["spread", "Größte Shop-Unterschiede"], ["new", "Neu im Radar"], ["name", "Name A–Z"]]
   };
   function current() { return state.view === "deals" ? deals : products; }
   function matches(d, words) {
@@ -292,6 +292,7 @@
   function dlong(stand) { var t = new Date(stand); return isFinite(t) ? t.toLocaleDateString("de-DE", { day: "2-digit", month: "2-digit" }) : ""; }
   function shipText(o) { return o.ship == null ? "–" : o.ship === 0 ? "frei" : eur(o.ship); }
 
+  function isNew(p) { var t = Date.parse(p.firstSeen || ""); return isFinite(t) && (Date.now() - t) / 864e5 <= 3; }
   function productRow(p) {
     var e = eff(p), ranked = e.list;
     var offers = (p.offers || []).slice().sort(function (a, b) { return a.price - b.price; });
@@ -315,7 +316,7 @@
     }).join("");
     var id = "of-" + esc(p.id);
     return '<article class="prod"><div class="prod-main">' +
-      '<div class="p-left">' + thumb(p) + '<div class="p-info"><span class="p-sub">' + esc(p.sub || p.cat) + '</span><h4 class="p-name">' + esc(p.name) + "</h4>" +
+      '<div class="p-left">' + thumb(p) + '<div class="p-info"><span class="p-sub">' + esc(p.sub || p.cat) + (isNew(p) ? '<span class="new-badge">neu</span>' : "") + '</span><h4 class="p-name">' + esc(p.name) + "</h4>" +
       '<div class="p-meta"><span>' + (n > 1 ? n + " Shops verglichen" : "1 Angebot") + (p.count ? " · " + p.count + " Angebote insgesamt" : "") + "</span><span>Stand " + dlong(p.stand) + "</span>" + (stale ? '<span class="stale">Preis älter als 7 Tage</span>' : "") + "</div>" + spread + "</div></div>" +
       '<div class="p-price"><span class="from">' + (state.ship && e.best.known ? "ab, inkl. Versand" : "ab") + '</span><span class="val">' + eur(e.price) + '</span><span class="at">bei <b>' + esc(best.shop) + "</b>" + (state.ship ? (e.best.known ? "" : " · Versand unbekannt") : best.ship != null ? " · Versand " + shipText(best) : "") + "</span>" +
       (e.unit != null ? '<span class="unit">' + eur(e.unit) + " pro " + e.uinfo.u + "</span>" : "") + "</div>" +
@@ -336,7 +337,8 @@
       desc: function (a, b) { return E.get(b).price - E.get(a).price; },
       unit: function (a, b) { var ua = E.get(a).unit, ub = E.get(b).unit; if (ua == null && ub == null) return E.get(a).price - E.get(b).price; if (ua == null) return 1; if (ub == null) return -1; return (E.get(a).uinfo.u === E.get(b).uinfo.u ? 0 : E.get(a).uinfo.u === "GB" ? -1 : 1) || ua - ub; },
       spread: function (a, b) { return spreadOf(b) - spreadOf(a); },
-      name: function (a, b) { return a.name.localeCompare(b.name, "de"); }
+      name: function (a, b) { return a.name.localeCompare(b.name, "de"); },
+      new: function (a, b) { return (b.firstSeen || "").localeCompare(a.firstSeen || "") || E.get(a).price - E.get(b).price; }
     }[sort];
     list.sort(by);
     if (sort === "cat") {

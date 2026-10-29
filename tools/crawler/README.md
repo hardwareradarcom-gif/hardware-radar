@@ -15,6 +15,19 @@ Der Crawler sucht automatisch in Online-Shops nach Gaming-Hardware, liest die Pr
 
 Manuell gepflegte Einträge in den Datendateien bleiben erhalten. Findet der Crawler dasselbe Produkt, ergänzt er dort seine Shop-Angebote.
 
+## Sortiment wächst automatisch
+
+Bei jedem Lauf sorgt der Crawler dafür, dass immer mehr Produkte in die Kategorien kommen:
+
+- **Lücken zuerst füllen:** Für jede Kategorie gibt es ein Ziel (`growth.targetPerCategory`, z. B. 300 Netzteile). Seiten aus Kategorien, die noch weit vom Ziel entfernt sind, besucht er zuerst.
+- **Listen und Folgeseiten:** Kategorie- und Listenseiten erkennt er, besucht sie täglich neu und folgt den Folgeseiten (Seite 2, 3, …). So findet er neu eingetroffene Produkte.
+- **Neue Begriffe lernen:** Aus den gefundenen Produktnamen merkt er sich Modellnamen und Produktreihen (z. B. „rtx 5060“, „pure power“) und erkennt damit mehr passende Seiten in Sitemaps und Listen. Die gelernten Begriffe stehen in `state.json` unter `learned`.
+- **Gezielt nachsuchen:** Für Produkte im Preisvergleich, die noch kein direktes Shop-Angebot haben, sucht er höchstens einmal pro Woche in der Shop-Suche (`searchTemplates`). Das passiert nur, wenn die robots.txt des Shops die Suchseite erlaubt.
+- **Zusammenführen:** Findet er ein Produkt, das schon im Preisvergleich steht (gleiche Modellnummer und Bezeichnung), ergänzt er dort sein Shop-Angebot mit direktem Link, statt einen Doppeleintrag anzulegen.
+- **Neu markieren:** Produkte, die in den letzten drei Tagen dazugekommen sind, bekommen auf der Website ein „neu“-Abzeichen. Im Preisvergleich gibt es dafür die Sortierung „Neu im Radar“.
+
+Nach jedem Lauf steht im Log und in `state.json` → `runs`, wie viele Produkte jede Kategorie hat.
+
 ## Höflich bleiben
 
 - Höchstens eine Anfrage pro Shop alle 3 Sekunden, höchstens 250 Seiten pro Shop und 1500 pro Lauf.

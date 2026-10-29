@@ -50,6 +50,8 @@ state.urls ??= {};         // url -> { last, key, kind }
 state.products ??= {};     // key -> { name, cat, sub, gtin, mpn, brand, offers: {domain: {...}}, hist: [{d,p}] }
 state.discovered ??= {};   // domain -> { origin, firstSeen, seenOn }
 state.runs ??= [];
+state.learned ??= {};      // Kategorie -> gelernte Suchbegriffe aus gefundenen Produktnamen
+const GROW = CFG.growth || {};
 
 for (const s of CFG.seeds) {
   const u = safeUrl(s); if (!u) continue;
@@ -169,10 +171,14 @@ function classify(name) {
   }
   return null;
 }
-function urlLooksRelevant(u) {
-  const p = norm(decodeURIComponent(u.pathname)).replace(/[-_/+.]+/g, " ");
-  return CFG.categories.some(c => c.any.some(w => p.includes(norm(w).replace(/[-_]+/g, " ").trim())));
+function pathWords(u) { let p = u.pathname; try { p = decodeURIComponent(p); } catch {} return " " + norm(p + " " + u.search).replace(/[-_/+.=&?]+/g, " ") + " "; }
+function catWords(c) { return c.any.concat(state.learned[c.cat] || []).map(w => norm(w).replace(/[-_]+/g, " ").trim()).filter(Boolean); }
+function urlCategory(u) {
+  const p = pathWords(u);
+  for (const c of CFG.categories) if (catWords(c).some(w => p.includes(w))) return c.cat;
+  return null;
 }
+function urlLooksRelevant(u) { return !!urlCategory(u); }
 function subOf(cat, name) {
   const n = norm(name); let m;
   switch (cat) {
@@ -320,7 +326,9 @@ function record(dom, pageUrl, p) {
   const cat = classify(p.name); if (!cat) return false;
   if (p.offer.price < (CFG.deals.minPrice || 0)) return false;
   const key = productKey(p);
-  const rec = state.products[key] ??= { name: p.name, cat, sub: subOf(cat, p.name), gtin: p.gtin, mpn: p.mpn, brand: p.brand, offers: {}, hist: [] };
+  const rec = state.products[key] ??= { name: p.name, cat, sub: subOf(cat, p.name), gtin: p.gtin, mpn: p.mpn, brand: p.brand, offers: {}, hist: [], firstSeen: TODAY };
+  if (!rec.firstSeen) rec.firstSeen = TODAY;
+  if (!rec.offers[dom]) newOffersThisRun++;
   if (p.name.length < rec.name.length || !rec.name) rec.name = p.name;
   rec.cat = cat; rec.sub = subOf(cat, rec.name);
   if (p.img && !rec.img) rec.img = p.img;
@@ -343,6 +351,103 @@ function availText(a) {
   if (/BackOrder|LimitedAvailability/i.test(a)) return "Begrenzt lieferbar";
   if (/OutOfStock|SoldOut/i.test(a)) return "Nicht lieferbar";
   return null;
+}
+
+/* ---------------- Sortiment wachsen lassen ----------------
+ * 1. Kategorien mit wenig Produkten bekommen Vorrang (Ziele in config.json -> growth.targetPerCategory).
+ * 2. Listen-/Kategorieseiten werden erkannt, regelmäßig neu besucht und ihre Folgeseiten (Seite 2, 3, ...) verfolgt.
+ * 3. Aus gefundenen Produktnamen lernt der Crawler neue Suchbegriffe (z. B. neue Modellnamen) und findet damit mehr Seiten.
+ * 4. Für Produkte im Preisvergleich ohne Shop-Angebot sucht er gezielt in der Shop-Suche (nur wo robots.txt das erlaubt).
+ */
+let newOffersThisRun = 0;
+function catCounts() {
+  const n = {}; for (const c of CFG.categories) n[c.cat] = 0;
+  for (const p of Object.values(state.products)) if (Object.values(p.offers).some(fresh)) n[p.cat] = (n[p.cat] || 0) + 1;
+  return n;
+}
+let COUNTS = catCounts();
+function deficit(cat) {
+  if (!cat) return 0;
+  const t = (GROW.targetPerCategory || {})[cat] || 300;
+  return Math.max(0, 1 - (COUNTS[cat] || 0) / t);
+}
+function priority(u, v) {
+  // höher = früher. Unbesuchte Seiten aus Kategorien mit Lücken zuerst, dann Listen, dann Neu-Besuche alter Produkte.
+  let cat = v.cat; if (cat === undefined) { const x = safeUrl(u); cat = v.cat = x ? urlCategory(x) : null; }
+  const age = v.last ? (NOW - new Date(v.last)) / 36e5 : 1e4;
+  let s = deficit(cat) * 3;
+  if (!v.last) s += 2;
+  if (v.kind === "listing") s += 1.5;
+  if (v.kind === "search") s += 2.5;
+  return s + Math.min(age, 240) / 240;
+}
+const MODEL_RE = [
+  /\b(rtx\s?\d{4}(?:\s?(?:ti|super))?)\b/g, /\b(rx\s?\d{4}(?:\s?(?:xt|xtx|gre))?)\b/g, /\b(arc\s?[ab]\d{3})\b/g,
+  /\b(ryzen\s?[3579]\s?\d{4}x?3?d?)\b/g, /\b(core\s?ultra\s?[3579]\s?\d{3}k?f?)\b/g, /\b(i[3579][\s-]\d{5}k?f?)\b/g,
+  /\b([abxz]\d{3}e?m?)\b/g, /\b(ddr[45][\s-]\d{4})\b/g, /\b(\d{3,4}\s?w)\b/g
+];
+function learnKeywords() {
+  if (!GROW.learnKeywords) return 0;
+  const tally = {};
+  for (const p of Object.values(state.products)) {
+    const n = norm(p.name), t = tally[p.cat] ??= {};
+    for (const re of MODEL_RE) for (const m of n.matchAll(re)) { const k = m[1].replace(/\s+/g, " ").trim(); if (k.length >= 4) t[k] = (t[k] || 0) + 1; }
+    // Marke + Produktreihe, z. B. "pure power", "liquid freezer", "dark rock"
+    const w = n.replace(/[^a-z0-9 ]+/g, " ").split(/\s+/).filter(Boolean);
+    if (w.length >= 3 && p.brand) { const b = norm(p.brand); const i = w.indexOf(b.split(" ")[0]); if (i >= 0 && w[i + 1] && w[i + 2] && !/\d/.test(w[i + 1])) { const k = w[i + 1] + " " + w[i + 2]; t[k] = (t[k] || 0) + 1; } }
+  }
+  let added = 0;
+  for (const [cat, t] of Object.entries(tally)) {
+    const base = new Set((CFG.categories.find(c => c.cat === cat)?.any || []).map(norm));
+    const other = CFG.categories.filter(c => c.cat !== cat).flatMap(c => c.any.map(norm));
+    const top = Object.entries(t).filter(([k, n]) => n >= 2 && !base.has(k) && !other.some(o => o.includes(k) || k.includes(o))).sort((a, b) => b[1] - a[1]).slice(0, GROW.maxLearnedPerCategory || 60).map(([k]) => k);
+    const before = new Set(state.learned[cat] || []);
+    added += top.filter(k => !before.has(k)).length;
+    state.learned[cat] = top;
+  }
+  return added;
+}
+function modelTokens(name) {
+  const n = norm(name).replace(/\((?:boxed|tray|wof|mpk)[^)]*\)/g, " ");
+  return new Set(n.replace(/[^a-z0-9 ]+/g, " ").split(/\s+/).filter(w => w.length > 1 && !/^(gb|tb|oc|kit|gaming|edition|black|schwarz|white|weiss|mit|und|the|for|fur|de|retail|boxed|tray|grafikkarte|prozessor|arbeitsspeicher|mainboard|monitor|netzteil|gehause)$/.test(w)));
+}
+function similarity(a, b) {
+  const A = modelTokens(a), B = modelTokens(b); if (!A.size || !B.size) return 0;
+  let inter = 0; for (const t of A) if (B.has(t)) inter++;
+  // Zahlen/Modellnummern müssen übereinstimmen
+  const numsA = [...A].filter(t => /\d/.test(t)), numsB = [...B].filter(t => /\d/.test(t));
+  if (numsA.length && numsB.length && !numsA.every(t => B.has(t)) && !numsB.every(t => A.has(t))) return 0;
+  return inter / Math.min(A.size, B.size);
+}
+function searchTerm(name) { return norm(name).replace(/\([^)]*\)/g, " ").replace(/[^a-z0-9 .-]+/g, " ").replace(/\s+/g, " ").trim().split(" ").slice(0, 7).join(" "); }
+function queueSearches(dom) {
+  if (!GROW.fillMissingShops) return 0;
+  const tpl = Object.entries(CFG.searchTemplates || {}).find(([d]) => dom === d || dom.endsWith("." + d))?.[1];
+  if (!tpl) return 0;
+  const catalog = loadJSON(path.join(DATA_DIR, "catalog.json"), { products: [] });
+  const wanted = (catalog.products || []).filter(p => p.source !== "crawler" && !(p.offers || []).some(o => o.url && domainOfStr(o.url) === dom))
+    .sort((a, b) => deficit(b.cat) - deficit(a.cat) || ((a.offers || []).filter(o => o.url).length - (b.offers || []).filter(o => o.url).length));
+  let n = 0;
+  for (const p of wanted) {
+    if (n >= (GROW.maxSearchesPerDomain || 15)) break;
+    const u = tpl.replace("{q}", encodeURIComponent(searchTerm(p.name)));
+    const v = state.urls[u];
+    if (v && v.last && (NOW - new Date(v.last)) / 864e5 < 7) continue; // höchstens einmal pro Woche suchen
+    state.urls[u] = { ...(v || {}), last: v?.last || null, kind: "search", d: dom, want: p.name, cat: p.cat };
+    n++;
+  }
+  return n;
+}
+function nextPageLinks(html, base, dom) {
+  const out = new Set();
+  const rel = /<(?:a|link)[^>]+rel=["']next["'][^>]*href=["']([^"']+)["']|<(?:a|link)[^>]+href=["']([^"']+)["'][^>]*rel=["']next["']/gi; let m;
+  while ((m = rel.exec(html))) { const u = safeUrl(decode(m[1] || m[2]), base); if (u && domainOf(u) === dom) out.add(cleanUrl(u)); }
+  const cur = safeUrl(base);
+  if (cur) for (const k of ["page", "p", "seite", "pg"]) {
+    const n = +(cur.searchParams.get(k) || 1);
+    if (new RegExp("[?&]" + k + "=\\d+", "i").test(html) || cur.searchParams.has(k)) { const nx = new URL(cur); nx.searchParams.set(k, String(n + 1)); out.add(cleanUrl(nx)); break; }
+  }
+  return [...out].slice(0, 2);
 }
 
 /* ---------------- Einen Shop durchsuchen ---------------- */
@@ -370,10 +475,13 @@ async function crawlDomain(dom) {
       else if (ud !== dom) noteDomain(ud, u, dom);
     }
   }
+  const searches = queueSearches(dom);
   let urls = Object.entries(state.urls).filter(([, v]) => v.d === dom && v.kind !== "dead" && v.kind !== "nonproduct");
-  // Fällige zuerst: noch nie besucht, dann am längsten nicht besucht
-  urls.sort((a, b) => (a[1].last ? Date.parse(a[1].last) : 0) - (b[1].last ? Date.parse(b[1].last) : 0));
-  const due = urls.filter(([, v]) => !v.last || (NOW - new Date(v.last)) / 36e5 >= L.recrawlHours);
+  const recrawl = v => v.kind === "listing" ? 24 : v.kind === "search" ? 24 * 7 : L.recrawlHours;
+  const due = urls.filter(([, v]) => !v.last || (NOW - new Date(v.last)) / 36e5 >= recrawl(v));
+  due.sort((a, b) => priority(b[0], b[1]) - priority(a[0], a[1]));
+  let listingPages = 0, newFound = 0;
+  if (searches) log(dom, searches + " gezielte Suchen für Produkte ohne Shop-Angebot eingeplant");
   for (const [u] of due) {
     if (perDomain[dom] >= L.maxRequestsPerDomain || requests >= L.maxRequestsPerRun) break;
     const r = await get(u); tried++;
@@ -384,23 +492,31 @@ async function crawlDomain(dom) {
     if (r.status !== 200 || !r.text) { state.urls[u] = { ...state.urls[u], last: NOW.toISOString(), d: dom }; continue; }
     const links = extractLinks(r.text, r.url || u);
     for (const l of links.slice(0, 600)) { const ld = domainOf(l); if (ld !== dom) noteDomain(ld, l, dom); }
-    const p = parseProduct(r.text, r.url || u);
+    const prevKind = state.urls[u]?.kind, want = state.urls[u]?.want;
+    const p = prevKind === "search" ? null : parseProduct(r.text, r.url || u);
     if (p && record(dom, u, p)) hits++;
+    else if (p) state.urls[u] = { last: NOW.toISOString(), kind: "nonproduct", d: dom };
     else {
-      state.urls[u] = { last: NOW.toISOString(), kind: p ? "nonproduct" : "candidate", d: dom };
-      // Kategorie-/Listenseiten: weitere Produktlinks einsammeln
-      if (!p) for (const l of links.slice(0, 400)) {
-        if (domainOf(l) === dom && urlLooksRelevant(l)) state.urls[cleanUrl(l)] ??= { last: null, key: null, kind: "candidate", d: dom };
+      // Liste, Kategorie- oder Suchseite: Produktlinks einsammeln
+      const own = [...new Set(links.filter(l => domainOf(l) === dom).map(cleanUrl))];
+      let picked;
+      if (prevKind === "search" && want) picked = own.filter(l => similarity(want, pathWords(new URL(l))) >= 0.6).slice(0, 3);
+      else picked = own.filter(l => urlLooksRelevant(new URL(l))).slice(0, 400);
+      for (const l of picked) if (!state.urls[l]) { state.urls[l] = { last: null, key: null, kind: "candidate", d: dom, from: prevKind === "search" ? "search" : "listing" }; newFound++; }
+      const isListing = prevKind === "search" || picked.length >= 8;
+      state.urls[u] = { last: NOW.toISOString(), kind: prevKind === "search" ? "search" : isListing ? "listing" : "candidate", d: dom, cat: state.urls[u]?.cat, want };
+      if (isListing && prevKind !== "search" && GROW.followListings && listingPages < (GROW.maxListingPagesPerDomain || 40)) {
+        for (const nx of nextPageLinks(r.text, r.url || u, dom)) if (!state.urls[nx]) { state.urls[nx] = { last: null, kind: "listing", d: dom }; listingPages++; }
       }
     }
-    if (tried >= 25 && hits === 0) { log(dom, "keine Produktdaten auf den ersten 25 Seiten gefunden"); break; }
+    if (tried >= 40 && hits === 0) { log(dom, "keine Produktdaten auf den ersten 40 Seiten gefunden"); break; }
   }
   D.lastCrawl = NOW.toISOString();
   D.products = Object.values(state.products).filter(p => p.offers[dom] && fresh(p.offers[dom])).length;
   if (hits === 0 && tried > 0) D.fails = (D.fails || 0) + 1; else if (hits > 0) D.fails = 0;
   if (D.status === "candidate") D.status = hits > 0 ? "active" : (D.fails >= 2 ? "rejected" : "candidate");
   if (D.status === "active" && !D.seed && D.fails >= 4) D.status = "rejected";
-  log(dom, `${tried} Seiten geprüft, ${hits} Produkte mit Preis` + (D.status !== "active" ? ` (Status: ${D.status})` : ""));
+  log(dom, `${tried} Seiten geprüft, ${hits} Produkte mit Preis, ${newFound} neue Produktseiten entdeckt` + (D.status !== "active" ? ` (Status: ${D.status})` : ""));
 }
 function domainOfStr(s) { const u = safeUrl(s); return u ? domainOf(u) : ""; }
 
@@ -458,10 +574,11 @@ function buildOutputs() {
       url: best.url, stand: offers.map(o => o.seen).sort().pop().slice(0, 16),
       offers: offers.slice(0, 8).map(o => ({ shop: o.shop, price: o.price, ship: o.ship, avail: o.avail, url: o.url })),
       price: best.price, shop: best.shop, hist: rec.hist.slice(-90), count: offers.length,
-      tags: tagsOf(rec.name, rec.cat, rec.sub)
+      tags: tagsOf(rec.name, rec.cat, rec.sub), firstSeen: rec.firstSeen || TODAY
     };
     if (rec.img) p.img = rec.img;
-    const m = manualBy.get(nkey(rec.name));
+    let m = manualBy.get(nkey(rec.name));
+    if (!m) { let bestS = 0; for (const x of manual) if (x.cat === rec.cat) { const sim = similarity(x.name, rec.name); if (sim > bestS) { bestS = sim; m = x; } } if (bestS < 0.85) m = null; }
     if (m) {
       const shops = new Set((m.offers || []).map(o => norm(o.shop)));
       for (const o of p.offers) if (!shops.has(norm(o.shop))) m.offers.push({ ...o, crawler: true });
@@ -501,6 +618,9 @@ async function main() {
   log(`Start: ${Object.keys(state.domains).length} bekannte Shops, ${Object.keys(state.products).length} Produkte im Gedächtnis`);
   const active = Object.entries(state.domains).filter(([d, v]) => (v.status === "active" || v.status === "candidate") && !isBlocked(d))
     .sort((a, b) => (a[1].lastCrawl ? Date.parse(a[1].lastCrawl) : 0) - (b[1].lastCrawl ? Date.parse(b[1].lastCrawl) : 0)).map(([d]) => d);
+  COUNTS = catCounts();
+  const learned = learnKeywords();
+  if (learned) log(learned + " neue Suchbegriffe aus gefundenen Produkten gelernt");
   await pool(active, 6, crawlDomain);
   const added = await verifyCandidates();
   if (added) { // neue Kandidaten gleich anprobieren, solange Budget da ist
@@ -515,7 +635,9 @@ async function main() {
 
   const res = buildOutputs();
   const activeN = Object.values(state.domains).filter(v => v.status === "active").length;
-  const summary = { at: NOW.toISOString(), requests, activeShops: activeN, newShops: added, crawlerProducts: res.crawled, deals: res.found };
+  COUNTS = catCounts(); learnKeywords();
+  const summary = { at: NOW.toISOString(), requests, activeShops: activeN, newShops: added, newOffers: newOffersThisRun, crawlerProducts: res.crawled, deals: res.found, perCategory: COUNTS };
+  log("Produkte je Kategorie:", Object.entries(COUNTS).map(([c, n]) => c + " " + n + "/" + ((GROW.targetPerCategory || {})[c] || 300)).join(", "));
   state.runs = [...state.runs.slice(-29), summary];
   log("Fertig:", JSON.stringify(summary));
   if (DRY) { log("Testlauf (--dry): nichts gespeichert"); return; }

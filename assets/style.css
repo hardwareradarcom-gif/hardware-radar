@@ -299,3 +299,4 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
 
 .cmp-group .more{margin-top:10px;width:100%;flex:none}
 .offers td.go{text-align:right;white-space:nowrap}.offers td.go a{color:var(--signal);font-weight:700;text-decoration:none}.offers td.go a:hover{text-decoration:underline}
+.new-badge{display:inline-block;margin-left:8px;font-size:10px;font-weight:700;letter-spacing:.06em;color:var(--signal-ink);background:var(--signal);border-radius:4px;padding:1px 5px;vertical-align:1px}
