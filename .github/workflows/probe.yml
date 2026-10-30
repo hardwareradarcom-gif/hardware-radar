@@ -13,6 +13,7 @@ jobs:
             const h = await (await fetch(u,{headers:{"User-Agent":UA}})).text();
             const ld = [...h.matchAll(/<script[^>]+ld\+json[^>]*>([\s\S]*?)<\/script>/gi)].map(m=>m[1]);
             for (const b of ld) { if (/offer/i.test(b)) { const i=b.search(/"offers"/i); console.log("::warning::"+u.slice(25,60)+" "+b.slice(Math.max(0,i-100),i+900).replace(/\s+/g," ")); } }
+            for (const m of [...h.matchAll(/price-block|product-detail-price|delivery-information|itemprop="price"/gi)].slice(0,4)) console.log("::warning::blk "+h.slice(m.index, m.index+700).replace(/<[^>]+>/g," ").replace(/\s+/g," ").replace(/%/g,""));
             const pm=[...h.matchAll(/price[^<]{0,80}/gi)].slice(0,6).map(m=>m[0]).join(" || ");
             console.log("::warning::meta "+pm.replace(/[\r\n%]/g," "));
           }
