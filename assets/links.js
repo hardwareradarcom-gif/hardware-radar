@@ -26,6 +26,7 @@
       [/conrad/i, "Conrad", "https://www.conrad.de/de/search.html?search="],
       [/reichelt/i, "reichelt", "https://www.reichelt.de/index.html?ACTION=446&SEARCH="],
       [/otto\b/i, "OTTO", "https://www.otto.de/suche/"],
+      [/it-versand/i, "it-versand.com", "https://www.it-versand.com/search?sSearch="],
       [/ebay/i, "eBay", "https://www.ebay.de/sch/i.html?_nkw="]
     ];
     function safeUrl(u) { try { var x = new URL(u); return (x.protocol === "https:" || x.protocol === "http:") ? x : null; } catch (e) { return null; } }

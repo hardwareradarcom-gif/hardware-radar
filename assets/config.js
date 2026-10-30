@@ -25,7 +25,9 @@ window.HR_CONFIG = {
     // Schlüssel = Domain des Shops. Leere Einträge werden ignoriert. Weitere Shops einfach ergänzen.
     // Erst eintragen, wenn der Shop dich in AWIN unter "Zugelassen" führt.
     awinMerchants: {
+      "it-versand.com": "121708"   // zugelassen am 30.10.2026 (generalüberholte IT, 5 % Provision)
     },
+    // Weitere beworben am 29.10.2026 (ESM Computer, LG, Joybuy, MemoryPC, reichelt, ARLT, Acer, JACOB: IDs bei Freigabe aus AWIN übernehmen).
     // Beworben am 29.10.2026, wartet auf Freigabe. Bei Freigabe die Zeile nach oben in awinMerchants kopieren.
     // "alternate.de": "11731", "notebooksbilliger.de": "11348", "cyberport.de": "11657",
     // "caseking.de": "28817", "proshop.de": "18501", "computeruniverse.net": "11355",
