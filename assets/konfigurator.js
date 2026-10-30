@@ -104,7 +104,10 @@
   var GPU_TABLE = [
     [/rtx 5090/, 100, 575], [/rtx 5080/, 72, 360], [/rtx 5070 ti/, 61, 300], [/rtx 5070/, 50, 250], [/rtx 5060 ti 16/, 39, 180], [/rtx 5060 ti/, 37, 180],
     [/rtx 5060/, 33, 150], [/rtx 5050/, 26, 130], [/rx 9070 xt/, 60, 304], [/rx 9070 gre/, 46, 220], [/rx 9070/, 53, 220], [/rx 9060 xt/, 38, 160],
-    [/rx 9060/, 32, 140], [/ai pro r9700/, 55, 300], [/arc b580/, 30, 190], [/arc b570/, 26, 150]
+    [/rx 9060/, 32, 140], [/ai pro r9700/, 55, 300], [/arc b580/, 30, 190], [/arc b570/, 26, 150],
+    [/rtx 4070 ti/, 48, 285], [/rtx 4070/, 41, 200], [/rtx 4060 ti/, 32, 165], [/rtx 4060/, 27, 115], [/rtx 3060/, 22, 170], [/rtx 3050/, 15, 115],
+    [/rx 7800 xt/, 45, 263], [/rx 7700 xt/, 39, 245], [/rx 7600 xt/, 27, 190], [/rx 7600/, 25, 165], [/rx 6600/, 20, 132],
+    [/arc a770/, 25, 225], [/arc a750/, 23, 225], [/arc a580/, 20, 185], [/arc a380/, 9, 75], [/arc a310/, 5, 75], [/gt 1030|gt 730|gt 710/, 2, 30]
   ];
   var BOXED_COOLER = /ryzen 5 5500|ryzen 5 5600x?\b|5600xt|5700g|ryzen 5 7600\b|ryzen 7 7700\b|i5-14400|i5-14500|12400\b/;
 
@@ -135,10 +138,10 @@
       }
       case "Grafikkarten": {
         var key = (sub + " " + name).replace(/\s+/g, " ");
-        var gr = GPU_TABLE.find(function (r) { return r[0].test(key); }) || [null, 30, 200];
+        var gr = GPU_TABLE.find(function (r) { return r[0].test(key); }) || [null, 10, 200];
         a.perf = gr[1]; a.watt = gr[2];
         a.brand = /radeon|\brx\b/.test(key) ? "amd" : /geforce|rtx/.test(key) ? "nvidia" : /arc/.test(key) ? "intel" : "?";
-        a.pro = /ai pro|workstation|quadro/.test(key);
+        a.pro = /ai pro|workstation|quadro|arc pro|\brtx a?\d000\b|rtx pro/.test(key);
         break;
       }
       case "SSDs": { var tb = /(\d+(?:[.,]\d+)?)\s?tb/.exec(name + " " + sub), gb = /(\d{3,4})\s?gb/.exec(name); a.tb = tb ? parseFloat(tb[1].replace(",", ".")) : gb ? +gb[1] / 1000 : 1; break; }
@@ -148,7 +151,11 @@
         // nur echte CPU-Kühler zählen; Gehäuselüfter (auch ohne das Wort "Lüfter" im Namen) werden aussortiert
         a.fan = /^lufter$/.test(sub) || !/kuhler|cooler|freezer|assassin|spirit|rock|aio|loop|liquid|kraken|brocken|nh-[a-z]|contac|tower|wasser/.test(name);
         a.aio = /aio|wasser|liquid|loop|kraken/.test(name + sub);
-        a.cap = a.aio || /phantom spirit|peerless|dark rock|brocken|nh-d15|nh-u12|assassin/.test(name) ? 260 : 160;
+        // Sockel: reine Intel- bzw. AMD-Kühler erkennen (z. B. "Freezer 8i", "Vegas Chroma AM")
+        var intelOnly = /\b\d{1,2}i\b|\bilg\b|lga\s?1[27]\d\d|lga\s?1851|\bintel\b/.test(name) && !/\bam[45]\b|\bamd\b|am4|am5|universal/.test(name);
+        var amdOnly = (/\bam[45]?\b|\bamd\b|\b\d{1,2}a\b/.test(name)) && !/\bintel\b|lga|universal/.test(name);
+        a.sock = intelOnly ? "intel" : amdOnly ? "amd" : "any";
+        a.cap = a.aio || /phantom spirit|peerless|dark rock|brocken|nh-d15|nh-u12|assassin/.test(name) ? 260 : /low.?profile|top.?blow|\b(65|70|80)\s?mm|\bl9|\bl12|\bc7\b|ak-cc63/.test(name) ? 65 : /\b92\s?mm|cr-1400|nt0\d/.test(name) ? 110 : 160;
         break;
       }
       case "Monitore": {
@@ -183,7 +190,7 @@
     if (slot === "case" && board && a.fits.indexOf(attrs(board).ff) < 0) why.push("zu klein für ein " + attrs(board).ff + "-Mainboard");
     if (slot === "psu") { var need = needWatt({ cpu: cpu, gpu: gpu }); if (a.watt && a.watt < need) why.push("zu schwach, empfohlen ab " + need + " W"); }
     if (slot === "gpu" && psu && attrs(psu).watt && attrs(psu).watt < needWatt({ cpu: cpu, gpu: p })) why.push("Netzteil zu schwach für diese Karte");
-    if (slot === "cooler") { if (a.fan) why.push("nur ein Gehäuselüfter, kein CPU-Kühler"); else if (cpu && a.cap < attrs(cpu).watt) why.push("zu schwach für diesen Prozessor"); }
+    if (slot === "cooler") { if (a.fan) why.push("nur ein Gehäuselüfter, kein CPU-Kühler"); else if (cpu && a.cap < attrs(cpu).watt) why.push("zu schwach für diesen Prozessor"); else if (cpu && a.sock !== "any" && a.sock !== (/^AM/.test(attrs(cpu).socket) ? "amd" : "intel")) why.push("passt nicht auf den Sockel des Prozessors"); }
     return why;
   }
   function checkBuild(b) {
@@ -235,7 +242,7 @@
       var cpuBest = {}; P.Prozessoren.forEach(function (c) { if (attrs(c).socket !== sock) return; var k = attrs(c).game + "|" + attrs(c).work + "|" + attrs(c).cooler; if (!cpuBest[k] || c.price < cpuBest[k].price) cpuBest[k] = c; });
       Object.keys(cpuBest).forEach(function (k) {
         var cpu = cpuBest[k], ca = attrs(cpu);
-        var cooler = ca.cooler ? null : cheapest(P["Kühlung"], function (c) { return !attrs(c).fan && attrs(c).cap >= ca.watt; });
+        var cooler = ca.cooler ? null : cheapest(P["Kühlung"], function (c) { var k = attrs(c); return !k.fan && k.cap >= ca.watt && (k.sock === "any" || k.sock === (/^AM/.test(sock) ? "amd" : "intel")); });
         if (!ca.cooler && !cooler) return;
         gpus.forEach(function (gpu) {
           var b = { cpu: cpu, board: board, ram: ram, gpu: gpu, ssd: ssd, case: cs, cooler: cooler };

@@ -307,7 +307,7 @@ function parseProduct(html, pageUrl) {
     const gtin = String(p.gtin13 || p.gtin || p.gtin14 || p.gtin12 || p.ean || "").replace(/\D/g, "") || null;
     const mpn = String(p.mpn || "").trim() || null;
     const img = [].concat(p.image || [])[0] || null; // wird nur für freigegebene Shops übernommen, siehe record()
-    return { name: brand && !norm(name).includes(norm(brand)) ? brand + " " + name : name, brand, gtin, mpn, img: typeof img === "string" ? img : img?.url || null, offer: of, siteName };
+    return { name: brand && !norm(name).includes(norm(brand)) ? brand + " " + name : name, brand, gtin, mpn, img: typeof img === "string" ? img : img?.url || null, offer: { ...of, fromJsonLd: true }, siteName };
   }
   // Rückfall: Open-Graph-Produktpreis
   const pr = num((/<meta[^>]+property=["'](?:product|og):price:amount["'][^>]+content=["']([^"']+)/i.exec(html) || [])[1]);
@@ -414,8 +414,12 @@ function recordRefurb(dom, pageUrl, p) {
   state.urls[pageUrl] = { last: NOW.toISOString(), key, kind: "product", d: dom };
   return true;
 }
+// Platzhalterpreise (z. B. JACOB zeigt Bots bei manchen Produkten pauschal 100 € statt des echten Preises)
+const isPlaceholder = (dom, price) => Object.entries(CFG.placeholderPrices || {}).some(([d, list]) => Array.isArray(list) && hostMatches(dom, [d]) && list.includes(round(price)));
+const PH_PRICES = new Set(Object.values(CFG.placeholderPrices || {}).filter(Array.isArray).flat().map(n => Math.round(n * 100) / 100));
 function record(dom, pageUrl, p) {
   p.name = tidyName(p.name);
+  if (p.offer && isPlaceholder(dom, p.offer.price) && !p.offer.fromJsonLd) { state.urls[pageUrl] = { last: NOW.toISOString(), kind: "product", d: dom }; return false; }
   if (isRefurb(dom)) return recordRefurb(dom, pageUrl, p);
   const cat = classify(p.name, p.offer.price); if (!cat) return false;
   if (p.offer.price < (CFG.deals.minPrice || 0)) return false;
@@ -682,7 +686,7 @@ function buildOutputs() {
       id, cat: rec.cat, sub: rec.sub, name: rec.name, source: "crawler",
       url: best.url, stand: offers.map(o => o.seen).sort().pop().slice(0, 16),
       offers: offers.slice(0, 8).map(o => ({ shop: o.shop, price: o.price, ship: o.ship, avail: o.avail, url: o.url })),
-      price: best.price, shop: best.shop, hist: rec.hist.slice(-90), count: offers.length,
+      price: best.price, shop: best.shop, hist: rec.hist.filter(h => !(PH_PRICES.has(round(h.p)) && Math.abs(h.p - best.price) / best.price > 0.3)).slice(-90), count: offers.length,
       tags: tagsOf(rec.name, rec.cat, rec.sub), firstSeen: rec.firstSeen || TODAY
     };
     if (rec.img) p.img = rec.img;
@@ -692,7 +696,8 @@ function buildOutputs() {
       const shops = new Set((m.offers || []).map(o => norm(o.shop)));
       for (const o of p.offers) if (!shops.has(norm(o.shop))) m.offers.push({ ...o, crawler: true });
       m.offers.sort((a, b) => a.price - b.price);
-      if (m.offers[0].price <= m.price || m.offers[0].crawler) { m.price = m.offers[0].price; m.shop = m.offers[0].shop; }
+      m.price = m.offers[0].price; m.shop = m.offers[0].shop;
+      if (m.hist) m.hist = m.hist.filter(h => !(PH_PRICES.has(round(h.p)) && Math.abs(h.p - m.price) / m.price > 0.3));
       if (p.stand > (m.stand || "")) m.stand = p.stand;
       const h = (m.hist ||= []), last = h[h.length - 1];
       if (last && last.d === TODAY) last.p = Math.min(last.p, m.price); else h.push({ d: TODAY, p: m.price });
@@ -737,13 +742,14 @@ function cleanup() {
   for (const [k, p] of Object.entries(state.products)) {
     p.name = tidyName(p.name);
     for (const d of Object.keys(p.offers)) if (isBlocked(d)) { delete p.offers[d]; offers++; }
+    for (const [d, o] of Object.entries(p.offers)) if (isPlaceholder(d, o.price)) { delete p.offers[d]; offers++; }
     const anyPrice = Object.values(p.offers).map(o => o.price)[0];
     const cat = anyPrice != null ? classify(p.name, anyPrice) : null;
     if (!cat || !Object.keys(p.offers).length) { delete state.products[k]; dropped++; continue; }
     p.cat = cat; p.sub = subOf(cat, p.name);
   }
   for (const [cat, words] of Object.entries(state.learned)) state.learned[cat] = (words || []).filter(w => /\d/.test(w) || /^(Kühlung|Netzteile|Gehäuse)$/.test(cat));
-  if (dropped || offers) log(`Aufgeräumt: ${dropped} unpassende Produkte und ${offers} Angebote gesperrter Seiten entfernt`);
+  if (dropped || offers) log(`Aufgeräumt: ${dropped} unpassende Produkte und ${offers} ungültige Angebote entfernt`);
 }
 /* Schnell-Prüfung (--refresh): nur bekannte Produktseiten erneut abrufen, ohne neue Seiten zu suchen.
    Läuft zwischen den großen Durchläufen, damit Preissenkungen schnell auf der Website landen. */

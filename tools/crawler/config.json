@@ -284,7 +284,12 @@
         "barebone",
         "supermicro",
         "xeon",
-        "server-"
+        "server-",
+        "dummy",
+        "2 stück",
+        "registriert",
+        "registered",
+        "ksm"
       ],
       "min": 20,
       "max": 2500
@@ -345,7 +350,23 @@
         "docking",
         "dockingstation",
         "docking station",
-        "usb-gehäuse"
+        "usb-gehäuse",
+        "heatpipe",
+        "heatsink",
+        "case",
+        "clone",
+        "usb-c",
+        "usb 3",
+        "usb-gehause",
+        "ssd kühler",
+        "ssd-kühler",
+        "kühler für",
+        "to usb",
+        "usb3",
+        "klon",
+        "klon-station",
+        "duplicator",
+        "dockingstation"
       ],
       "min": 25,
       "max": 3000
@@ -868,5 +889,11 @@
       "laptop-notebook-refurbished": "Laptops",
       "gebrauchte-premium-notebooks": "Laptops"
     }
+  },
+  "placeholderPrices": {
+    "_info": "Preise, die ein Shop Bots als Platzhalter zeigt (kein echter Preis). Nur für Preise ohne JSON-LD.",
+    "jacob.de": [
+      100
+    ]
   }
 }
