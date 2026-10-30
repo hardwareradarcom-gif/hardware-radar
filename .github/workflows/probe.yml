@@ -7,5 +7,5 @@ jobs:
       - run: |
           for u in https://it-versand.com/ https://it-versand.com/robots.txt https://it-versand.com/collections/monitor-refurbished https://it-versand.com/collections/monitor-refurbished/products.json https://it-versand.com/products.json?limit=2; do
             echo "== $u"; curl -s -o /tmp/b -w "%{http_code} %{url_effective} %{size_download}\n" -L -A "HardwareRadarBot/1.0 (+https://hardware-radar.de/bot; hardwareradar.com@gmail.com)" -H "Accept-Language: de-DE" "$u"; head -c 300 /tmp/b; echo
-            echo "-- browser UA:"; curl -s -o /dev/null -w "%{http_code}\n" -L -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/130 Safari/537.36" "$u"
+            echo "::warning::browser \$u -> \$(curl -s -o /dev/null -w "%{http_code}\n" -L -A "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 Chrome/130 Safari/537.36" "$u"
           done
