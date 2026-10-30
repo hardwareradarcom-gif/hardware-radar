@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T15:54:28.715Z",
+ "updated": "2026-10-30T17:16:30.547Z",
  "products": [
   {
    "id": "r-acer-b246hylbymiprx-23-8-full-hd-1920x1080-display-hdmi-disp",
@@ -10055,7 +10055,7 @@
   {
    "id": "r-dell-optiplex-5090-micro-intel-core-i7-11700t-16gb-ram-1tb-s",
    "cat": "PCs & Workstations",
-   "name": "Dell OptiPlex 5090 Micro, Intel Core i7-11700T, 16GB RAM, 1TB SSD, Windows 11 Pro",
+   "name": "Dell OptiPlex 5090 Micro, Intel Core i7 11700T, 16GB RAM, 1TB SSD, Windows 11 Pro",
    "brand": "Dell",
    "price": 559,
    "ship": null,
@@ -12447,6 +12447,25 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "r-lenovo-thinkpad-x1-yoga-gen-6-14-touch-display-intel-core-i7",
+   "cat": "Laptops",
+   "name": "Lenovo ThinkPad X1 Yoga Gen 6, 14\" Touch Display, Intel Core i7 1185G7, 32GB RAM, 512GB SSD, Webcam, Windows 11 Pro",
+   "brand": "Lenovo",
+   "price": 659,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkpad-x1-yoga-gen-6-14-touch-display-intel-core-i7-1185g7-32gb-ram-512gb-ssd-webcam-windows-11-pro-4",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-X1-Yoga-Gen-6-2_f3662243-33ed-4297-b022-a46fa7f209c1.jpg?v=1770990974",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 659
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "r-lenovo-thinkpad-p14s-gen-2-14-zoll-1920x1080-full-hd-intel-c",
    "cat": "Laptops",
    "name": "Lenovo ThinkPad P14s Gen 2 14 Zoll 1920x1080 Full HD Intel Core i5 512GB SSD 16GB Windows 11 Pro Fingerprinter",
@@ -12588,25 +12607,6 @@
    "ship": null,
    "shop": "it-versand.com",
    "url": "https://it-versand.com/products/lenovo-thinkpad-x1-yoga-gen-6-14-touch-display-intel-core-i7-1185g7-32gb-ram-512gb-ssd-webcam-windows-11-pro-3",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-X1-Yoga-Gen-6-2_f3662243-33ed-4297-b022-a46fa7f209c1.jpg?v=1770990974",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 668.99
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-lenovo-thinkpad-x1-yoga-gen-6-14-touch-display-intel-core-i7",
-   "cat": "Laptops",
-   "name": "Lenovo ThinkPad X1 Yoga Gen 6, 14\" Touch Display, Intel Core i7 1185G7, 32GB RAM, 512GB SSD, Webcam, Windows 11 Pro",
-   "brand": "Lenovo",
-   "price": 668.99,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/lenovo-thinkpad-x1-yoga-gen-6-14-touch-display-intel-core-i7-1185g7-32gb-ram-512gb-ssd-webcam-windows-11-pro-4",
    "avail": "Auf Lager",
    "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-X1-Yoga-Gen-6-2_f3662243-33ed-4297-b022-a46fa7f209c1.jpg?v=1770990974",
    "hist": [

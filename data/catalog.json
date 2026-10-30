@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T15:54:28.715Z",
+ "updated": "2026-10-30T17:16:30.547Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -5701,6 +5701,35 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-arctic-freezer-8i-co-cpu-cooler-intel-socket-lga1851-1700-pw",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Arctic Freezer 8i CO CPU Cooler, Intel Socket LGA1851/1700, PWM – black, 100mm",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/arctic-freezer-8i-co-cpu-cooler-intel-socket-lga1851-1700-pwm-black-100mm/WACP-576.html",
+   "stand": "2026-10-30T17:16",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 15.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/arctic-freezer-8i-co-cpu-cooler-intel-socket-lga1851-1700-pwm-black-100mm/WACP-576.html"
+    }
+   ],
+   "price": 15.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 15.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler arctic freezer cpu cooler intel socket lga1851 1700 pwm black 100mm",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-akasa-vegas-chroma-am-cpu-kuhler-amd-rgb-120-mm",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -6559,6 +6588,35 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-fsp-np5-wa-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "FSP NP5-WA, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/FSP/NP5-WA-CPU-K%C3%BChler/html/product/100143921",
+   "stand": "2026-10-30T17:16",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 24.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/FSP/NP5-WA-CPU-K%C3%BChler/html/product/100143921"
+    }
+   ],
+   "price": 24.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 24.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler fsp np5 cpu kuhler",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-jonsbo-cr-1000-v3-pro-cpu-kuhler-pwm-argb-weiss",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -6623,6 +6681,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler jonsbo 1000max cpu kuhler pwm argb weiss",
    "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-silentware-bora-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Silentware Bora, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Silentware/Bora-CPU-K%C3%BChler/html/product/100143607",
+   "stand": "2026-10-30T17:16",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 25.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Silentware/Bora-CPU-K%C3%BChler/html/product/100143607"
+    }
+   ],
+   "price": 25.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 25.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler silentware bora cpu kuhler",
+   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-graugear-heatpipe-kuhler-fur-m-2-nvme-2280-ssd-pwm-lufter-25",
@@ -6977,6 +7064,64 @@
    ],
    "count": 1,
    "tags": "ssds nvme akasa external usb ssd aluminium case black",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-deepcool-ak400-digital-se-wh-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "DeepCool AK400 DIGITAL SE WH, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/DeepCool/AK400-DIGITAL-SE-WH-CPU-K%C3%BChler/html/product/100143292",
+   "stand": "2026-10-30T17:16",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 29.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/DeepCool/AK400-DIGITAL-SE-WH-CPU-K%C3%BChler/html/product/100143292"
+    }
+   ],
+   "price": 29.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 29.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler deepcool ak400 digital cpu kuhler",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-silentware-bora-white-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Silentware Bora White, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Silentware/Bora-White-CPU-K%C3%BChler/html/product/100143610",
+   "stand": "2026-10-30T17:16",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 30.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Silentware/Bora-White-CPU-K%C3%BChler/html/product/100143610"
+    }
+   ],
+   "price": 30.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 30.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler silentware bora white cpu kuhler",
    "firstSeen": "2026-10-30"
   },
   {
@@ -7591,6 +7736,35 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-silentware-titan-performance-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Silentware Titan Performance, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Silentware/Titan-Performance-CPU-K%C3%BChler/html/product/100143613",
+   "stand": "2026-10-30T17:16",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 40.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Silentware/Titan-Performance-CPU-K%C3%BChler/html/product/100143613"
+    }
+   ],
+   "price": 40.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 40.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler silentware titan performance cpu kuhler",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-jonsbo-hp600-cpu-kuhler-rgb-120mm-weiss",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -8086,6 +8260,35 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-silentware-titan-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Silentware Titan, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Silentware/Titan-CPU-K%C3%BChler/html/product/100143611",
+   "stand": "2026-10-30T17:16",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 45.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Silentware/Titan-CPU-K%C3%BChler/html/product/100143611"
+    }
+   ],
+   "price": 45.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 45.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler silentware titan cpu kuhler",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-jonsbo-ca90-cpu-kuhler-dual-tower-1-x-130mm-1-x-120mm-pwm-ar",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -8482,6 +8685,64 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-scythe-fuma-3-scmf-3000-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Scythe Fuma 3 SCMF-3000, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Scythe/Fuma-3-SCMF-3000-CPU-K%C3%BChler/html/product/100010874",
+   "stand": "2026-10-30T17:16",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 49.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Scythe/Fuma-3-SCMF-3000-CPU-K%C3%BChler/html/product/100010874"
+    }
+   ],
+   "price": 49.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 49.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler scythe fuma scmf 3000 cpu kuhler",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-fsp-mp7-wa-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "FSP MP7-WA, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/FSP/MP7-WA-CPU-K%C3%BChler/html/product/100143924",
+   "stand": "2026-10-30T17:16",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 49.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/FSP/MP7-WA-CPU-K%C3%BChler/html/product/100143924"
+    }
+   ],
+   "price": 49.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 49.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler fsp mp7 cpu kuhler",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-alpenfohn-brocken-4-max-argb-cpu-kuhler-2x-120mm-schwarz",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -8546,6 +8807,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler alpenfohn brocken max argb cpu kuhler 120mm weiss",
    "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-silentware-titan-white-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Silentware Titan White, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Silentware/Titan-White-CPU-K%C3%BChler/html/product/100143612",
+   "stand": "2026-10-30T17:16",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 50.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Silentware/Titan-White-CPU-K%C3%BChler/html/product/100143612"
+    }
+   ],
+   "price": 50.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 50.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler silentware titan white cpu kuhler",
+   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-patriot-p220-128-gb-ssd-2-5-sata",
@@ -8736,6 +9026,35 @@
    "count": 1,
    "tags": "netzteile 650 w montech beta plus bronze netzteil atx 650 watt schwarz",
    "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-deepcool-ak620-digital-se-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "DeepCool AK620 DIGITAL SE, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/DeepCool/AK620-DIGITAL-SE-CPU-K%C3%BChler/html/product/100143295",
+   "stand": "2026-10-30T17:16",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 54.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/DeepCool/AK620-DIGITAL-SE-CPU-K%C3%BChler/html/product/100143295"
+    }
+   ],
+   "price": 54.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 54.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler deepcool ak620 digital cpu kuhler",
+   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-corsair-cx-series-cx550-netzteil-80-plus-bronze-550-watt",
@@ -10267,6 +10586,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-alphacool-core-ocean-t38-360mm-cpu-digital-aio-wasserkuhlung",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Alphacool Core Ocean T38 360mm CPU Digital AiO Wasserkühlung",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/alphacool-core-ocean-t38-360mm-cpu-digital-aio-cooler-black/WASE-661.html",
+   "stand": "2026-10-30T17:16",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 75.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/alphacool-core-ocean-t38-360mm-cpu-digital-aio-cooler-black/WASE-661.html"
+    }
+   ],
+   "price": 75.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 75.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung alphacool core ocean t38 360mm cpu digital aio wasserkuhlung",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asrock-b760m-h2-m-2-mainboard-sockel-1700-intel-b760-matx-dd",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 B760",
@@ -10657,6 +11005,64 @@
    ],
    "count": 1,
    "tags": "gehause asus prime ap303 midi tower atx mesh panel schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-alphacool-core-1-lt-cpu-cooler-black",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Alphacool Core 1 LT CPU Cooler - Black",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/alphacool-core-1-lt-cpu-cooler-black/WACP-552.html",
+   "stand": "2026-10-30T17:16",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 79.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/alphacool-core-1-lt-cpu-cooler-black/WACP-552.html"
+    }
+   ],
+   "price": 79.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 79.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler alphacool core cpu cooler black",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-alphacool-core-ocean-t38-280mm-cpu-digital-aio-cooler",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Alphacool Core Ocean T38 280mm CPU Digital AIO Cooler",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/alphacool-core-ocean-t38-280mm-cpu-digital-aio-cooler/WASE-662.html",
+   "stand": "2026-10-30T17:16",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 79.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/alphacool-core-ocean-t38-280mm-cpu-digital-aio-cooler/WASE-662.html"
+    }
+   ],
+   "price": 79.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 79.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung alphacool core ocean t38 280mm cpu digital aio cooler",
    "firstSeen": "2026-10-30"
   },
   {
@@ -11126,6 +11532,35 @@
    "count": 1,
    "tags": "netzteile 750 w quiet pure power netzteil plus gold atx pcie 750 watt",
    "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-alphacool-core-1-aurora-lt-cpu-kuhler-argb-acryl",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Alphacool Core 1 Aurora LT CPU-Kühler - ARGB, Acryl",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/alphacool-core-1-aurora-lt-cpu-cooler-argb-acrylic/WACP-551.html",
+   "stand": "2026-10-30T17:16",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 84.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/alphacool-core-1-aurora-lt-cpu-cooler-argb-acrylic/WACP-551.html"
+    }
+   ],
+   "price": 84.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 84.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler alphacool core aurora cpu kuhler argb acryl",
+   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-asus-vp227hf-gaming-led-monitor-55-9-cm-22-21-5-sichtbar-90l",
@@ -17978,6 +18413,64 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-alphacool-core-1-cpu-cooler-black",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Alphacool Core 1 CPU Cooler - Black",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/alphacool-core-1-cpu-cooler-black/WACP-533.html",
+   "stand": "2026-10-30T17:16",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 105.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/alphacool-core-1-cpu-cooler-black/WACP-533.html"
+    }
+   ],
+   "price": 105.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 105.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler alphacool core cpu cooler black",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-alphacool-core-1-cpu-kuhler-silber",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Alphacool Core 1 CPU-Kühler - Silber",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/alphacool-core-1-cpu-cooler-silver/WACP-534.html",
+   "stand": "2026-10-30T17:16",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 105.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/alphacool-core-1-cpu-cooler-silver/WACP-534.html"
+    }
+   ],
+   "price": 105.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 105.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler alphacool core cpu kuhler silber",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-gigabyte-gs25f2-62-23cm-24-5zoll-ss-ips-monitor-1920x1080-fh",
    "cat": "Monitore",
    "sub": "24,5\"",
@@ -19224,6 +19717,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-alphacool-core-1-cpu-kuhler-weiss",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Alphacool Core 1 CPU-Kühler - Weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/alphacool-core-1-cpu-cooler-white/WACP-535.html",
+   "stand": "2026-10-30T17:16",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 115.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/alphacool-core-1-cpu-cooler-white/WACP-535.html"
+    }
+   ],
+   "price": 115.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 115.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler alphacool core cpu kuhler weiss",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-samsung-870-evo-2-5-zoll-ssd-sata-6g-250-gb",
    "cat": "SSDs",
    "sub": "SATA 250 GB",
@@ -20202,6 +20724,64 @@
    ],
    "count": 1,
    "tags": "gehause fractal design epoch black rgb light tint midi tower atx tempered glass schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-alphacool-core-1-aurora-cpu-cooler-argb-black",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Alphacool Core 1 Aurora CPU cooler, ARGB - Black",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/alphacool-core-1-aurora-cpu-cooler-argb-black/WACP-536.html",
+   "stand": "2026-10-30T17:16",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 119.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/alphacool-core-1-aurora-cpu-cooler-argb-black/WACP-536.html"
+    }
+   ],
+   "price": 119.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 119.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler alphacool core aurora cpu cooler argb black",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-alphacool-core-1-cpu-kuhler-carbon",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Alphacool Core 1 CPU-Kühler - Carbon",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/alphacool-core-1-cpu-cooler-carbon/WACP-553.html",
+   "stand": "2026-10-30T17:16",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 119.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/alphacool-core-1-cpu-cooler-carbon/WACP-553.html"
+    }
+   ],
+   "price": 119.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 119.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler alphacool core cpu kuhler carbon",
    "firstSeen": "2026-10-30"
   },
   {
@@ -22213,6 +22793,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-alphacool-core-1-aurora-silver-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Alphacool Core 1 Aurora Silver, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Alphacool/Core-1-Aurora-Silver-CPU-K%C3%BChler/html/product/100009635",
+   "stand": "2026-10-30T17:16",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 129.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Alphacool/Core-1-Aurora-Silver-CPU-K%C3%BChler/html/product/100009635"
+    }
+   ],
+   "price": 129.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 129.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler alphacool core aurora silver cpu kuhler",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asrock-b850m-pro-a-wifi-mainboard-micro-atx-socket-am5-ddr5-",
    "cat": "Mainboards",
    "sub": "AM5 B850",
@@ -23208,6 +23817,64 @@
    ],
    "count": 1,
    "tags": "gehause fractal design epoch white rgb clear tint midi tower atx argb tempered glass weiss",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-alphacool-core-1-aurora-cpu-kuhler-argb-weiss",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Alphacool Core 1 Aurora CPU-Kühler, ARGB - weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/alphacool-core-1-aurora-cpu-cooler-argb-white/WACH-874.html",
+   "stand": "2026-10-30T17:16",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 136.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/alphacool-core-1-aurora-cpu-cooler-argb-white/WACH-874.html"
+    }
+   ],
+   "price": 136.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 136.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler alphacool core aurora cpu kuhler argb weiss",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-alphacool-core-1-aurora-cpu-kuhler-a-rgb-carbon",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Alphacool Core 1 Aurora CPU-Kühler - A-RGB, Carbon",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/alphacool-core-1-aurora-cpu-cooler-a-rgb-carbon/WACP-550.html",
+   "stand": "2026-10-30T17:16",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 136.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/alphacool-core-1-aurora-cpu-cooler-a-rgb-carbon/WACP-550.html"
+    }
+   ],
+   "price": 136.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 136.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler alphacool core aurora cpu kuhler rgb carbon",
    "firstSeen": "2026-10-30"
   },
   {
@@ -27648,6 +28315,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-alphacool-apex-1-cpu-cooler-am5-socket-argb-black",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Alphacool Apex 1 CPU cooler, AM5 socket, ARGB - black",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/alphacool-apex-1-cpu-cooler-am5-socket-argb-black/WACP-562.html",
+   "stand": "2026-10-30T17:16",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 159.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/alphacool-apex-1-cpu-cooler-am5-socket-argb-black/WACP-562.html"
+    }
+   ],
+   "price": 159.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 159.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler alphacool apex cpu cooler am5 socket argb black",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-prime-b660m-a-d4-csm-mainboard-micro-atx-sockel-lga-170",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 B660",
@@ -29817,6 +30513,35 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-alphacool-eisbaer-aurora-360-cpu-digital-rgb-v1-1-wasserkuhl",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Alphacool Eisbaer Aurora 360 CPU - Digital RGB V1.1, Wasserkühlung",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Alphacool/Eisbaer-Aurora-360-CPU-Digital-RGB-V1-1-Wasserk%C3%BChlung/html/product/100144330",
+   "stand": "2026-10-30T17:16",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 174.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Alphacool/Eisbaer-Aurora-360-CPU-Digital-RGB-V1-1-Wasserk%C3%BChlung/html/product/100144330"
+    }
+   ],
+   "price": 174.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 174.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung alphacool eisbaer aurora 360 cpu digital rgb wasserkuhlung",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-tuf-gaming-vg27aql5a-27-qhd-fast-ips-210-hz-gaming-moni",
    "cat": "Monitore",
    "sub": "27\"",
@@ -30285,6 +31010,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-alphacool-apex-1-cpu-cooler-lga-1700-1851-socket-argb-black",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Alphacool Apex 1 CPU cooler, LGA 1700/1851 socket, ARGB - black",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/alphacool-apex-1-cpu-cooler-lga-1700-1851-socket-argb-black/WACP-563.html",
+   "stand": "2026-10-30T17:16",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 178.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/alphacool-apex-1-cpu-cooler-lga-1700-1851-socket-argb-black/WACP-563.html"
+    }
+   ],
+   "price": 178.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 178.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler alphacool apex cpu cooler lga 1700 1851 socket argb black",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-tuf-gaming-vg27wq3b-27-zoll-gaming-monitor-180hz-va-fre",
    "cat": "Monitore",
    "sub": "27\"",
@@ -30547,6 +31301,35 @@
    ],
    "count": 1,
    "tags": "gehause fractal design meshify rgb clear midi tower atx weiss",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-alphacool-eisbaer-lt360-aurora-hpe-cpu-aio-360mm-wasserkuhlu",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Alphacool Eisbaer LT360 Aurora HPE CPU AIO 360mm, Wasserkühlung",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Alphacool/Eisbaer-LT360-Aurora-HPE-CPU-AIO-360mm-Wasserk%C3%BChlung/html/product/1838983",
+   "stand": "2026-10-30T17:16",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 179.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Alphacool/Eisbaer-LT360-Aurora-HPE-CPU-AIO-360mm-Wasserk%C3%BChlung/html/product/1838983"
+    }
+   ],
+   "price": 179.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 179.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung alphacool eisbaer lt360 aurora hpe cpu aio 360mm wasserkuhlung",
    "firstSeen": "2026-10-30"
   },
   {
@@ -31918,6 +32701,35 @@
    ],
    "count": 1,
    "tags": "monitore 27\" japannext wqhd monitor 2560x1440 pixel ips panel amd freesync hdmi displayport ips270wqhd75f c65w hsp",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-alphacool-eisbaer-aurora-hpe-edition-360-cpu-aio-360mm-wasse",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Alphacool Eisbaer Aurora HPE Edition 360 CPU AIO 360mm, Wasserkühlung",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Alphacool/Eisbaer-Aurora-HPE-Edition-360-CPU-AIO-360mm-Wasserk%C3%BChlung/html/product/1838984",
+   "stand": "2026-10-30T17:16",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 197.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Alphacool/Eisbaer-Aurora-HPE-Edition-360-CPU-AIO-360mm-Wasserk%C3%BChlung/html/product/1838984"
+    }
+   ],
+   "price": 197.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 197.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung alphacool eisbaer aurora hpe edition 360 cpu aio 360mm wasserkuhlung",
    "firstSeen": "2026-10-30"
   },
   {
