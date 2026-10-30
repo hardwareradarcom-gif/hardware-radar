@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T11:44:37.048Z",
+ "updated": "2026-10-30T12:32:01.736Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -429,7 +429,7 @@
    "name": "ASRock Radeon RX 9070 Challenger 16GB",
    "url": "https://www.hardwaredealz.com/hardware/gpu/amd-radeon-rx-9070-16gb/asrock-radeon-challenger-1-16gb-gddr6-hdmi-3x-dp/preisvergleich.25289",
    "source": "hardwaredealz",
-   "stand": "2026-10-26T08:20",
+   "stand": "2026-10-30T12:32",
    "offers": [
     {
      "shop": "MobPicker",
@@ -454,6 +454,14 @@
      "price": 749,
      "ship": 0,
      "avail": null
+    },
+    {
+     "shop": "proshop.de",
+     "price": 803.33,
+     "ship": 5.99,
+     "avail": "Auf Lager",
+     "url": "https://www.proshop.de/Grafikkarte/ASRock-Radeon-RX-9070-Challenger-16GB-GDDR6-RAM-Grafikkarte/3348384",
+     "crawler": true
     }
    ],
    "price": 720.72,
@@ -461,6 +469,10 @@
    "hist": [
     {
      "d": "2026-10-26",
+     "p": 720.72
+    },
+    {
+     "d": "2026-10-30",
      "p": 720.72
     }
    ]
@@ -472,7 +484,7 @@
    "name": "XFX Swift Radeon RX 9070 XT Triple Fan Gaming Edition",
    "url": "https://www.hardwaredealz.com/hardware/gpu/amd-radeon-rx-9070-xt-16gb/xfx-swift-radeon-triple-fan-gaming-edition-16gb-gddr6-hdmi-3x-dp/preisvergleich.25429",
    "source": "hardwaredealz",
-   "stand": "2026-10-29T15:20",
+   "stand": "2026-10-30T12:32",
    "offers": [
     {
      "shop": "25now",
@@ -497,6 +509,14 @@
      "price": 899,
      "ship": 0,
      "avail": null
+    },
+    {
+     "shop": "proshop.de",
+     "price": 985.3,
+     "ship": 5.99,
+     "avail": "Auf Lager",
+     "url": "https://www.proshop.de/Grafikkarte/XFX-Radeon-RX-9070-XT-Swift-Triple-Fan-White-16GB-GDDR6-RAM-Grafikkarte/3378179",
+     "crawler": true
     }
    ],
    "price": 897.76,
@@ -504,6 +524,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 897.76
+    },
+    {
+     "d": "2026-10-30",
      "p": 897.76
     }
    ]
@@ -1510,7 +1534,7 @@
    "name": "WD_BLACK SN850X 2 TB",
    "url": "https://geizhals.de/2770177",
    "source": "Geizhals",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T12:32",
    "offers": [
     {
      "shop": "Notebooksbilliger",
@@ -1543,6 +1567,14 @@
      "price": 407.81,
      "ship": 6.9,
      "avail": "2–4 Tage"
+    },
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 758.82,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/wd-black-sn850x-4-tb-ssd-m-2-2280-pcie-4-0-x4-7976337/",
+     "crawler": true
     }
    ],
    "price": 338.99,
@@ -1565,8 +1597,16 @@
    "name": "Crucial P310 2 TB",
    "url": "https://geizhals.de/crucial-p310-ssd-2tb-ct2000p310ssd8t-a3343169.html",
    "source": "Geizhals",
-   "stand": "2026-10-26T04:09",
+   "stand": "2026-10-30T12:32",
    "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 151.39,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/crucial-p310-500-gb-ssd-pcie-4-0-x4-nvme-m-2-2280-100505778/",
+     "crawler": true
+    },
     {
      "shop": "Mindfactory",
      "price": 385.89,
@@ -1586,12 +1626,16 @@
      "avail": "Sofort"
     }
    ],
-   "price": 385.89,
-   "shop": "Mindfactory",
+   "price": 151.39,
+   "shop": "JACOB Elektronik GmbH",
    "hist": [
     {
      "d": "2026-10-26",
      "p": 385.89
+    },
+    {
+     "d": "2026-10-30",
+     "p": 151.39
     }
    ]
   },
@@ -6345,6 +6389,35 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-graugear-heatpipe-kuhler-fur-m-2-nvme-2280-ssd-pwm-lufter-25",
+   "cat": "SSDs",
+   "sub": "NVMe",
+   "name": "Graugear Heatpipe Kühler für M.2 NVMe 2280 SSD, PWM Lüfter - 25 mm",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/greygear-heatpipe-cooler-for-m.2-nvme-2280-ssd-pwm-fan-25-mm/ZUWE-536.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 26.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/greygear-heatpipe-cooler-for-m.2-nvme-2280-ssd-pwm-fan-25-mm/ZUWE-536.html"
+    }
+   ],
+   "price": 26.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 26.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme graugear heatpipe kuhler fur 2280 ssd pwm lufter",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-ekl-22227-cpu-kuhler-amd-intel-120-mm-pwm-140-180-w-tdp",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -6642,6 +6715,35 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-akasa-external-usb-3-1-m-2-ssd-aluminium-case-black",
+   "cat": "SSDs",
+   "sub": "NVMe",
+   "name": "Akasa external USB 3.1 M.2 SSD aluminium case - black",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/akasa-external-usb-3.1-m.2-ssd-aluminium-case-black/ZUWE-408.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 29.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/akasa-external-usb-3.1-m.2-ssd-aluminium-case-black/ZUWE-408.html"
+    }
+   ],
+   "price": 29.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 29.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme akasa external usb ssd aluminium case black",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-akasa-ak-955a-bv2-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -6706,6 +6808,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler silverstone sst ar10 115xp cpu kuhler",
    "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-axagon-eem2-sd2-usb-c-3-2-gen-2-m-2-nvme-sata-ssd-30-80mm",
+   "cat": "SSDs",
+   "sub": "SATA",
+   "name": "AXAGON EEM2-SD2 USB-C 3.2 Gen 2 - M.2 NVMe / SATA SSD 30-80mm",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/axagon-eem2-sd2-usb-c-3.2-gen-2-m.2-nvme-sata-ssd-30-80mm/ZUUS-749.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 33.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/axagon-eem2-sd2-usb-c-3.2-gen-2-m.2-nvme-sata-ssd-30-80mm/ZUUS-749.html"
+    }
+   ],
+   "price": 33.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 33.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata axagon eem2 sd2 usb gen nvme ssd 80mm",
+   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-alpenfohn-brocken-4-cpu-kuhler-120mm",
@@ -6866,6 +6997,64 @@
    ],
    "count": 1,
    "tags": "arbeitsspeicher ddr5 alphacool core ram modul stuck schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-alphacool-hdx-apex-m-2-2280-ssd-kuhler-argb-acryl",
+   "cat": "SSDs",
+   "sub": "NVMe",
+   "name": "Alphacool HDX Apex M.2 2280 SSD Kühler, ARGB - Acryl",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/alphacool-hdx-apex-m.2-2280-ssd-cooler-argb-acrylic/ZUWE-495.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 34.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/alphacool-hdx-apex-m.2-2280-ssd-cooler-argb-acrylic/ZUWE-495.html"
+    }
+   ],
+   "price": 34.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 34.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme alphacool hdx apex 2280 ssd kuhler argb acryl",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-alphacool-hdx-apex-m-2-2280-ssd-kuhler-acetal",
+   "cat": "SSDs",
+   "sub": "NVMe",
+   "name": "Alphacool HDX Apex M.2 2280 SSD Kühler - Acetal",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/alphacool-hdx-apex-m.2-2280-ssd-cooler-acetal/ZUWE-496.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 34.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/alphacool-hdx-apex-m.2-2280-ssd-cooler-acetal/ZUWE-496.html"
+    }
+   ],
+   "price": 34.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 34.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme alphacool hdx apex 2280 ssd kuhler acetal",
    "firstSeen": "2026-10-30"
   },
   {
@@ -8111,6 +8300,64 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-patriot-p220-128-gb-ssd-2-5-sata-8110472",
+   "cat": "SSDs",
+   "sub": "SATA 128 GB",
+   "name": "Patriot P220 128 GB SSD 2.5\" SATA | 8110472",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/patriot-p220-128-gb-ssd-2-5-sata-8110472/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 51.68,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/patriot-p220-128-gb-ssd-2-5-sata-8110472/"
+    }
+   ],
+   "price": 51.68,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 51.68
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 128 gb patriot p220 128 ssd sata 8110472",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-team-group-t-force-vulcan-z-256-gb-2-5-sata-ssd-8297797",
+   "cat": "SSDs",
+   "sub": "SATA 256 GB",
+   "name": "Team Group T-FORCE Vulcan Z 256 GB 2.5\" SATA SSD | 8297797",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/team-group-t-force-vulcan-z-256-gb-2-5-sata-ssd-8297797/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 51.96,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/team-group-t-force-vulcan-z-256-gb-2-5-sata-ssd-8297797/"
+    }
+   ],
+   "price": 51.96,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 51.96
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 256 gb team group force vulcan 256 sata ssd 8297797",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-noctua-nh-u12s-redux-cpu-kuhler-120mm",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -8290,6 +8537,35 @@
    ],
    "count": 1,
    "tags": "mainboards intel lga1700 h610 msi pro h610m mainboard micro atx intel h610 lga 1700 ddr5 schwarz 100270968",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-patriot-p300-nvme-ssd-pcie-3-0-m-2-typ-2280-256gb",
+   "cat": "SSDs",
+   "sub": "NVMe 256 GB",
+   "name": "Patriot P300 NVMe SSD, PCIe 3.0, M.2 Typ 2280 - 256GB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/patriot-p300-nvme-ssd-pcie-3.0-m.2-type-2280-256gb/SSPM-033.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 58.48,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/patriot-p300-nvme-ssd-pcie-3.0-m.2-type-2280-256gb/SSPM-033.html"
+    }
+   ],
+   "price": 58.48,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 58.48
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 256 gb patriot p300 nvme ssd pcie typ 2280 256gb",
    "firstSeen": "2026-10-30"
   },
   {
@@ -8640,6 +8916,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-patriot-p300-nvme-ssd-pcie-3-0-m-2-typ-2280-128-gb",
+   "cat": "SSDs",
+   "sub": "NVMe 128 GB",
+   "name": "Patriot P300 NVMe SSD, PCIe 3.0 M.2 Typ 2280 - 128 GB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/patriot-p300-nvme-ssd-pcie-3.0-m.2-type-2280-128-gb/SSPM-025.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 62.63,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/patriot-p300-nvme-ssd-pcie-3.0-m.2-type-2280-128-gb/SSPM-025.html"
+    }
+   ],
+   "price": 62.63,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 62.63
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 128 gb patriot p300 nvme ssd pcie typ 2280 128",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-prime-h610m-k-argb-intel-h610-mainboard-sockel-1700-ddr",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 H610",
@@ -8666,6 +8971,35 @@
    ],
    "count": 1,
    "tags": "mainboards intel lga1700 h610 asus prime h610m argb intel h610 mainboard sockel 1700 ddr5",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-axagon-adsa-cc-usb-c-10gbps-nvme-m-2-ssd-sata-2-5-3-5-ssd-hd",
+   "cat": "SSDs",
+   "sub": "SATA",
+   "name": "AXAGON ADSA-CC USB-C 10Gbps - NVMe M.2 SSD & SATA 2.5\"/3.5\" SSD/HDD CLONE MASTER 2",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/axagon-adsa-cc-usb-c-10gbps-nvme-m.2-ssd-and-sata-2.5-3.5-ssd-hdd-clone-master-2/ZUWE-549.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 63.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/axagon-adsa-cc-usb-c-10gbps-nvme-m.2-ssd-and-sata-2.5-3.5-ssd-hdd-clone-master-2/ZUWE-549.html"
+    }
+   ],
+   "price": 63.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 63.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata axagon adsa usb 10gbps nvme ssd hdd clone master",
    "firstSeen": "2026-10-30"
   },
   {
@@ -8756,6 +9090,64 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-cooler-master-elite-502-pc-gehause-midi-tower-atx-argb-tempe",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Cooler Master Elite 502 PC-Gehäuse, Midi-Tower, ATX, ARGB, Tempered Glass - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/cooler-master-elite-502-pc-gehaeuse-midi-tower-atx-argb-tempered-glass-schwarz/GECO-364.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 64.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/cooler-master-elite-502-pc-gehaeuse-midi-tower-atx-argb-tempered-glass-schwarz/GECO-364.html"
+    }
+   ],
+   "price": 64.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 64.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause cooler master elite 502 midi tower atx argb tempered glass schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-verbatim-vi3000-256-gb-m-2-pcie-3-0-nvme-ssd-8274920",
+   "cat": "SSDs",
+   "sub": "NVMe 256 GB",
+   "name": "Verbatim Vi3000 256 GB M.2 PCIe 3.0 NVMe SSD | 8274920",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/verbatim-vi3000-256-gb-m-2-pcie-3-0-nvme-ssd-8274920/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 65.41,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/verbatim-vi3000-256-gb-m-2-pcie-3-0-nvme-ssd-8274920/"
+    }
+   ],
+   "price": 65.41,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 65.41
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 256 gb verbatim vi3000 256 pcie nvme ssd 8274920",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-adata-xpg-probe-80-plus-bronze-netzteil-atx-2-4-700-watt-sch",
    "cat": "Netzteile",
    "sub": "650 W",
@@ -8840,6 +9232,35 @@
    ],
    "count": 1,
    "tags": "mainboards am4 a520 gigabyte a520m ds3h mainboard sockel am4 amd a520 micro atx ddr4",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-gigabyte-v2-256-gb-ssd-m-2-2280-pcie-3-0-x4-nvme-100675177",
+   "cat": "SSDs",
+   "sub": "NVMe 256 GB",
+   "name": "Gigabyte V2 256 GB SSD M.2 2280 PCIe 3.0 x4 NVMe | 100675177",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/gigabyte-v2-256-gb-ssd-m-2-2280-pcie-3-0-x4-nvme-100675177/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 69.64,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/gigabyte-v2-256-gb-ssd-m-2-2280-pcie-3-0-x4-nvme-100675177/"
+    }
+   ],
+   "price": 69.64,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 69.64
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 256 gb gigabyte 256 ssd 2280 pcie nvme 100675177",
    "firstSeen": "2026-10-30"
   },
   {
@@ -9004,6 +9425,122 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-akasa-vegas-ssd-mate-m-2-sata-nvme-ssd-to-usb3-2-gen2",
+   "cat": "SSDs",
+   "sub": "SATA",
+   "name": "Akasa Vegas SSD Mate, M.2 SATA/NVMe SSD to USB3.2 Gen2",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/akasa-vegas-ssd-mate-m.2-sata-nvme-ssd-to-usb3.2-gen2/ZUUS-469.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 69.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/akasa-vegas-ssd-mate-m.2-sata-nvme-ssd-to-usb3.2-gen2/ZUUS-469.html"
+    }
+   ],
+   "price": 69.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 69.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata akasa vegas ssd mate nvme usb3 gen2",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-be-quiet-pure-base-501-pc-gehause-midi-tower-atx-schwarz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "be quiet! Pure Base 501 PC-Gehäuse, Midi-Tower, ATX - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/be-quiet-pure-base-501-pc-gehaeuse-midi-tower-atx-schwarz/GEBQ-076.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 69.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/be-quiet-pure-base-501-pc-gehaeuse-midi-tower-atx-schwarz/GEBQ-076.html"
+    }
+   ],
+   "price": 69.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 69.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause quiet pure base 501 midi tower atx schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-delock-64178-ssd-dockingstation-fur-2-m-2-sata-ssds-usb-c-3-",
+   "cat": "SSDs",
+   "sub": "SATA",
+   "name": "Delock 64178 SSD-Dockingstation für 2 M.2 SATA SSDs USB-C 3.2 Gen 2 Schwarz | 8065422",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/delock-64178-ssd-dockingstation-fuer-2-m-2-sata-ssds-usb-c-3-2-gen-2-schwarz-8065422/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 70.32,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/delock-64178-ssd-dockingstation-fuer-2-m-2-sata-ssds-usb-c-3-2-gen-2-schwarz-8065422/"
+    }
+   ],
+   "price": 70.32,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 70.32
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata delock 64178 ssd dockingstation fur usb gen schwarz 8065422",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-msi-spatium-s270-sata-ssd-240-gb-2-5-9201746",
+   "cat": "SSDs",
+   "sub": "SATA 240 GB",
+   "name": "MSI SPATIUM S270 SATA SSD 240 GB 2.5\" | 9201746",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/msi-spatium-s270-sata-ssd-240-gb-2-5-9201746/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 70.91,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/msi-spatium-s270-sata-ssd-240-gb-2-5-9201746/"
+    }
+   ],
+   "price": 70.91,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 70.91
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 240 gb msi spatium s270 sata ssd 240 9201746",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-prime-h610m-r-d4-mainboard-lga-1700-h610-ddr4-micro-atx",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 H610",
@@ -9064,6 +9601,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler silverstone sst nt06 pro nitrogon cpu kuhler 120",
    "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-kingston-ssdnow-a400-series-2-5-zoll-ssd-sata-6g-240-gb",
+   "cat": "SSDs",
+   "sub": "SATA 240 GB",
+   "name": "Kingston SSDNow A400 Series 2,5 Zoll SSD, SATA 6G - 240 GB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/kingston-ssdnow-a400-series-2.5-inch-ssd-sata-6g-240-gb/SSKT-045.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 71.95,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/kingston-ssdnow-a400-series-2.5-inch-ssd-sata-6g-240-gb/SSKT-045.html"
+    }
+   ],
+   "price": 71.95,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 71.95
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 240 gb kingston ssdnow a400 series zoll ssd sata 240",
+   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-msi-pro-a620am-b-evo-mainboard-sockel-am5-amd-a620-matx-ddr5",
@@ -9674,6 +10240,93 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-graugear-usb-4-0-docking-station-for-m-2-nvme-ssd-with-heats",
+   "cat": "SSDs",
+   "sub": "NVMe",
+   "name": "Graugear USB 4.0 Docking Station for M.2 NVMe SSD with Heatsink and Fan",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/graugear-usb-4.0-docking-station-for-m.2-nvme-ssd-with-heatsink-and-fan/ZUWE-588.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 79.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/graugear-usb-4.0-docking-station-for-m.2-nvme-ssd-with-heatsink-and-fan/ZUWE-588.html"
+    }
+   ],
+   "price": 79.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 79.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme graugear usb docking station for ssd with heatsink and fan",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-prime-ap303-pc-gehause-midi-tower-atx-tempered-glass-sc",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "ASUS Prime AP303 PC-Gehäuse, Midi-Tower, ATX, Tempered Glass - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/asus-prime-ap303-pc-gehaeuse-midi-tower-atx-tempered-glass-schwarz/GEAS-058.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 79.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/asus-prime-ap303-pc-gehaeuse-midi-tower-atx-tempered-glass-schwarz/GEAS-058.html"
+    }
+   ],
+   "price": 79.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 79.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause asus prime ap303 midi tower atx tempered glass schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-prime-ap303-pc-gehause-midi-tower-atx-mesh-panel-schwar",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "ASUS Prime AP303 PC-Gehäuse, Midi-Tower, ATX, Mesh Panel - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/asus-prime-ap303-pc-gehaeuse-midi-tower-atx-mesh-panel-schwarz/GEAS-059.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 79.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/asus-prime-ap303-pc-gehaeuse-midi-tower-atx-mesh-panel-schwarz/GEAS-059.html"
+    }
+   ],
+   "price": 79.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 79.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause asus prime ap303 midi tower atx mesh panel schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asrock-cl25ffb-24-5-monitor-1920x1080-144-hz-schwarz-1006731",
    "cat": "Monitore",
    "sub": "24,5\"",
@@ -9816,6 +10469,64 @@
    ],
    "count": 1,
    "tags": "mainboards am4 b450 asus prime b450m mainboard micro atx socket am4 amd b450 ddr4 schwarz 6789780",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-fractal-design-pop-air-black-solid-midi-tower-schwarz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Fractal Design Pop Air Black Solid Midi-Tower - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/fractal-design-pop-air-black-solid-midi-tower-schwarz/GEFD-157.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 82.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/fractal-design-pop-air-black-solid-midi-tower-schwarz/GEFD-157.html"
+    }
+   ],
+   "price": 82.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 82.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause fractal design pop air black solid midi tower schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-fractal-design-pop-air-black-tg-clear-tint-midi-tower-schwar",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Fractal Design Pop Air Black TG Clear Tint Midi-Tower - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/fractal-design-pop-air-black-tg-clear-tint-midi-tower-schwarz/GEFD-158.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 82.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/fractal-design-pop-air-black-tg-clear-tint-midi-tower-schwarz/GEFD-158.html"
+    }
+   ],
+   "price": 82.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 82.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause fractal design pop air black clear tint midi tower schwarz",
    "firstSeen": "2026-10-30"
   },
   {
@@ -10403,6 +11114,35 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-be-quiet-pure-base-501-dx-pc-gehause-midi-tower-atx-argb-tem",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "be quiet! Pure Base 501 DX PC-Gehäuse, Midi-Tower, ATX, ARGB, Tempered Glass - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/be-quiet-pure-base-501-dx-pc-gehaeuse-midi-tower-atx-argb-tempered-glass-schwarz/GEBQ-089.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 89.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/be-quiet-pure-base-501-dx-pc-gehaeuse-midi-tower-atx-argb-tempered-glass-schwarz/GEBQ-089.html"
+    }
+   ],
+   "price": 89.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 89.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause quiet pure base 501 midi tower atx argb tempered glass schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asrock-phantom-gaming-b550m-phantom-gaming-4-mainboard-micro",
    "cat": "Mainboards",
    "sub": "AM4 B550",
@@ -10784,6 +11524,93 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-fractal-design-meshify-c-midi-tower-schwarz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Fractal Design Meshify C Midi-Tower - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/fractal-design-meshify-c-midi-tower-schwarz/GEFD-076.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 94.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/fractal-design-meshify-c-midi-tower-schwarz/GEFD-076.html"
+    }
+   ],
+   "price": 94.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 94.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause fractal design meshify midi tower schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-fractal-design-epoch-white-tg-clear-tint-pc-gehause-midi-tow",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Fractal Design Epoch White TG Clear tint PC-Gehäuse, Midi-Tower, ATX, Tempered Glass - weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/fractal-design-epoch-white-tg-clear-tint-pc-gehaeuse-midi-tower-atx-tempered-glass-weiss/GEFD-208.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 94.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/fractal-design-epoch-white-tg-clear-tint-pc-gehaeuse-midi-tower-atx-tempered-glass-weiss/GEFD-208.html"
+    }
+   ],
+   "price": 94.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 94.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause fractal design epoch white clear tint midi tower atx tempered glass weiss",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-cooler-master-masterbox-600-argb-pc-gehause-midi-tower-e-atx",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Cooler Master MasterBox 600 ARGB PC-Gehäuse, Midi-Tower, E-ATX, RGB, Tempered Glass - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/cooler-master-masterbox-600-argb-pc-gehaeuse-midi-tower-e-atx-rgb-tempered-glass-schwarz/GECO-339.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 95.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/cooler-master-masterbox-600-argb-pc-gehaeuse-midi-tower-e-atx-rgb-tempered-glass-schwarz/GECO-339.html"
+    }
+   ],
+   "price": 95.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 95.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause cooler master masterbox 600 argb midi tower atx rgb tempered glass schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-prime-a620am-k-mainboard-micro-atx-sockel-am5-amd-a620a",
    "cat": "Mainboards",
    "sub": "AM5",
@@ -10987,6 +11814,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-lexar-nm610-pro-nvme-ssd-pcie-3-0-m-2-typ-2280-500-gb",
+   "cat": "SSDs",
+   "sub": "NVMe 500 GB",
+   "name": "Lexar NM610 Pro NVMe SSD, PCIe 3.0 M.2 Typ 2280 - 500 GB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/lexar-nm610-pro-nvme-ssd-pcie-3.0-m.2-type-2280-500-gb/SSLX-021.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 98.76,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/lexar-nm610-pro-nvme-ssd-pcie-3.0-m.2-type-2280-500-gb/SSLX-021.html"
+    }
+   ],
+   "price": 98.76,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 98.76
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 500 gb lexar nm610 pro nvme ssd pcie typ 2280 500",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-vz249hg-eye-care-gaming-monitor-60-5-cm-24-ips-full-hd-",
    "cat": "Monitore",
    "sub": "24\"",
@@ -11047,6 +11903,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler noctua d15s cpu kuhler 140mm",
    "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-fractal-design-pop-air-rgb-black-tg-clear-tint-midi-tower-sc",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Fractal Design Pop Air RGB Black TG Clear Tint Midi-Tower - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/fractal-design-pop-air-rgb-black-tg-clear-tint-midi-tower-schwarz/GEFD-155.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 98.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/fractal-design-pop-air-rgb-black-tg-clear-tint-midi-tower-schwarz/GEFD-155.html"
+    }
+   ],
+   "price": 98.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 98.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause fractal design pop air rgb black clear tint midi tower schwarz",
+   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-msi-pro-h810m-b-mainboard-intel-h810-lga1851-matx-ddr5-10059",
@@ -11311,6 +12196,151 @@
    ],
    "count": 1,
    "tags": "gehause asus a31 plus argb case midi tower atx tempered glass black",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-axagon-adsa-m2c-nvme-clone-dual-ssd-docking-station",
+   "cat": "SSDs",
+   "sub": "NVMe",
+   "name": "AXAGON ADSA-M2C NVMe CLONE DUAL SSD Docking Station",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/axagon-adsa-m2c-nvme-clone-dual-ssd-docking-station/ZUWE-480.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 99.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/axagon-adsa-m2c-nvme-clone-dual-ssd-docking-station/ZUWE-480.html"
+    }
+   ],
+   "price": 99.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 99.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme axagon adsa m2c clone dual ssd docking station",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-be-quiet-light-base-500-pc-gehause-midi-tower-atx-tempered-g",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "be quiet! Light Base 500 PC-Gehäuse, Midi-Tower, ATX, Tempered Glass - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/be-quiet-light-base-500-pc-gehaeuse-midi-tower-atx-tempered-glass-schwarz/GEBQ-093.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 99.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/be-quiet-light-base-500-pc-gehaeuse-midi-tower-atx-tempered-glass-schwarz/GEBQ-093.html"
+    }
+   ],
+   "price": 99.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 99.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause quiet light base 500 midi tower atx tempered glass schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-corsair-frame-4000d-rs-pc-gehause-midi-tower-e-atx-tempered-",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Corsair Frame 4000D RS PC-Gehäuse, Midi-Tower, E-ATX, Tempered Glass - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/corsair-frame-4000d-rs-pc-gehaeuse-midi-tower-e-atx-tempered-glass-schwarz/GECS-201.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 99.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/corsair-frame-4000d-rs-pc-gehaeuse-midi-tower-e-atx-tempered-glass-schwarz/GECS-201.html"
+    }
+   ],
+   "price": 99.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 99.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause corsair frame 4000d midi tower atx tempered glass schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-fractal-design-meshify-c-midi-tower-dark-tempered-glass-schw",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Fractal Design Meshify C Midi-Tower Dark, Tempered Glass, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/fractal-design-meshify-c-midi-tower-dark-tempered-glass-schwarz/GEFD-044.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 99.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/fractal-design-meshify-c-midi-tower-dark-tempered-glass-schwarz/GEFD-044.html"
+    }
+   ],
+   "price": 99.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 99.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause fractal design meshify midi tower dark tempered glass schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-fractal-design-epoch-black-solid-pc-gehause-midi-tower-atx-s",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Fractal Design Epoch Black Solid PC-Gehäuse, Midi-Tower, ATX - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/fractal-design-epoch-black-solid-pc-gehaeuse-midi-tower-atx-schwarz/GEFD-206.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 99.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/fractal-design-epoch-black-solid-pc-gehaeuse-midi-tower-atx-schwarz/GEFD-206.html"
+    }
+   ],
+   "price": 99.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 99.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause fractal design epoch black solid midi tower atx schwarz",
    "firstSeen": "2026-10-30"
   },
   {
@@ -13692,6 +14722,209 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-transcend-470t-i-1-tb-msata-ssd-100547494",
+   "cat": "SSDs",
+   "sub": "SATA 1 TB",
+   "name": "Transcend 470T-I 1 TB mSATA SSD | 100547494",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/transcend-470t-i-1-tb-msata-ssd-100547494/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 100,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/transcend-470t-i-1-tb-msata-ssd-100547494/"
+    }
+   ],
+   "price": 100,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 100
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 1 tb transcend 470t msata ssd 100547494",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-msi-spatium-m470-pro-ssd-2-tb-m-2-pcie-4-0-x4-nvme-100563175",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 2 TB",
+   "name": "MSI SPATIUM M470 PRO SSD 2 TB M.2 PCIe 4.0 x4 NVMe | 100563175",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/msi-spatium-m470-pro-ssd-2-tb-m-2-pcie-4-0-x4-nvme-100563175/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 100,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/msi-spatium-m470-pro-ssd-2-tb-m-2-pcie-4-0-x4-nvme-100563175/"
+    }
+   ],
+   "price": 100,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 100
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 2 tb msi spatium m470 pro ssd pcie nvme 100563175",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-crucial-mx500-ssd-1-tb-2-5-sata-iii-silber-3981372",
+   "cat": "SSDs",
+   "sub": "SATA 1 TB",
+   "name": "Crucial MX500 SSD 1 TB 2.5\" SATA III Silber | 3981372",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/crucial-mx500-ssd-1-tb-2-5-sata-iii-silber-3981372/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 100,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/crucial-mx500-ssd-1-tb-2-5-sata-iii-silber-3981372/"
+    }
+   ],
+   "price": 100,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 100
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 1 tb crucial mx500 ssd sata iii silber 3981372",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-samsung-pm893-mz-7l31t900-ssd-1-92-tb-2-5-sata-iii-v-nand-tl",
+   "cat": "SSDs",
+   "sub": "SATA 1,92 TB",
+   "name": "Samsung PM893 MZ-7L31T900 SSD 1.92 TB 2.5\" SATA III V-NAND TLC | 7896905",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/samsung-pm893-mz-7l31t900-ssd-1-92-tb-2-5-sata-iii-v-nand-tlc-7896905/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 100,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/samsung-pm893-mz-7l31t900-ssd-1-92-tb-2-5-sata-iii-v-nand-tlc-7896905/"
+    }
+   ],
+   "price": 100,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 100
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 1,92 tb samsung pm893 7l31t900 ssd sata iii nand tlc 7896905",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-lenovo-thinkpad-ssd-180-gb-2-5-sata-6gb-s-985298",
+   "cat": "SSDs",
+   "sub": "SATA 180 GB",
+   "name": "Lenovo ThinkPad SSD 180 GB 2.5\" SATA 6Gb/s | 985298",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/lenovo-thinkpad-ssd-180-gb-2-5-sata-6gb-s-985298/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 100,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/lenovo-thinkpad-ssd-180-gb-2-5-sata-6gb-s-985298/"
+    }
+   ],
+   "price": 100,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 100
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 180 gb lenovo thinkpad ssd 180 sata 6gb 985298",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-lenovo-thinkpad-128-gb-ssd-2-5-sata-iii-986281",
+   "cat": "SSDs",
+   "sub": "SATA 128 GB",
+   "name": "Lenovo ThinkPad 128 GB SSD 2.5\" SATA III | 986281",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/lenovo-thinkpad-128-gb-ssd-2-5-sata-iii-986281/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 100,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/lenovo-thinkpad-128-gb-ssd-2-5-sata-iii-986281/"
+    }
+   ],
+   "price": 100,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 100
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 128 gb lenovo thinkpad 128 ssd sata iii 986281",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-hp-8pe64aa-1-tb-m-2-2280-pcie-tlc-ssd-6471606",
+   "cat": "SSDs",
+   "sub": "NVMe 1 TB",
+   "name": "HP 8PE64AA 1 TB M.2 2280 PCIe TLC SSD | 6471606",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/hp-8pe64aa-1-tb-m-2-2280-pcie-tlc-ssd-6471606/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 100,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/hp-8pe64aa-1-tb-m-2-2280-pcie-tlc-ssd-6471606/"
+    }
+   ],
+   "price": 100,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 100
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 1 tb 8pe64aa 2280 pcie tlc ssd 6471606",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-viewsonic-vx27g1-hd-27-gaming-monitor-full-hd-ips-180-hz-1-m",
    "cat": "Monitore",
    "sub": "27\"",
@@ -13899,6 +15132,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-msi-spatium-s270-480-gb-ssd-sata-2-5-9201747",
+   "cat": "SSDs",
+   "sub": "SATA 480 GB",
+   "name": "MSI SPATIUM S270 480 GB SSD SATA 2,5\" | 9201747",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/msi-spatium-s270-480-gb-ssd-sata-2-5-9201747/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 102.29,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/msi-spatium-s270-480-gb-ssd-sata-2-5-9201747/"
+    }
+   ],
+   "price": 102.29,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 102.29
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 480 gb msi spatium s270 480 ssd sata 9201747",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-msi-b550m-pro-vdh-mainboard-socket-am4-amd-b550-ddr4-schwarz",
    "cat": "Mainboards",
    "sub": "AM4 B550",
@@ -14074,6 +15336,35 @@
    ],
    "count": 1,
    "tags": "mainboards am5 b650 asus prime b650m mainboard b650 chipsatz sockel am5 ddr5",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-fractal-design-epoch-black-tg-light-tint-pc-gehause-midi-tow",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Fractal Design Epoch Black TG Light tint PC-Gehäuse, Midi-Tower, ATX, Tempered Glass - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/fractal-design-epoch-black-tg-light-tint-pc-gehaeuse-midi-tower-atx-tempered-glass-schwarz/GEFD-207.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 103.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/fractal-design-epoch-black-tg-light-tint-pc-gehaeuse-midi-tower-atx-tempered-glass-schwarz/GEFD-207.html"
+    }
+   ],
+   "price": 103.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 103.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause fractal design epoch black light tint midi tower atx tempered glass schwarz",
    "firstSeen": "2026-10-30"
   },
   {
@@ -14905,6 +16196,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-corsair-frame-4000d-rs-argb-pc-gehause-midi-tower-e-atx-rgb-",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Corsair Frame 4000D RS ARGB PC-Gehäuse, Midi-Tower, E-ATX, RGB, Tempered Glass - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/corsair-frame-4000d-rs-argb-pc-gehaeuse-midi-tower-e-atx-rgb-tempered-glass-schwarz/GECS-199.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 109.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/corsair-frame-4000d-rs-argb-pc-gehaeuse-midi-tower-e-atx-rgb-tempered-glass-schwarz/GECS-199.html"
+    }
+   ],
+   "price": 109.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 109.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause corsair frame 4000d argb midi tower atx rgb tempered glass schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-gigabyte-gs25f2a-24-5-gaming-monitor-1920-x-1080-240-hz-schw",
    "cat": "Monitore",
    "sub": "24,5\"",
@@ -15137,6 +16457,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-be-quiet-light-base-500-lx-pc-gehause-midi-tower-atx-argb-te",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "be quiet! Light Base 500 LX PC-Gehäuse, Midi-Tower, ATX, ARGB, Tempered Glass - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/be-quiet-light-base-500-lx-pc-gehaeuse-midi-tower-atx-argb-tempered-glass-schwarz/GEBQ-094.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 114.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/be-quiet-light-base-500-lx-pc-gehaeuse-midi-tower-atx-argb-tempered-glass-schwarz/GEBQ-094.html"
+    }
+   ],
+   "price": 114.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 114.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause quiet light base 500 midi tower atx argb tempered glass schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-gigabyte-b760m-ds3h-ddr4-mainboard-lga-1700-micro-atx-schwar",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 B760",
@@ -15308,6 +16657,35 @@
    ],
    "count": 1,
    "tags": "monitore 23,8\" krom kertz gaming monitor full 200 schwarz 100709353",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-samsung-870-evo-2-5-zoll-ssd-sata-6g-250-gb",
+   "cat": "SSDs",
+   "sub": "SATA 250 GB",
+   "name": "Samsung 870 EVO 2,5 Zoll SSD, SATA 6G - 250 GB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/samsung-870-evo-2.5-inch-ssd-sata-6g-250-gb/SSSS-177.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 116.05,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/samsung-870-evo-2.5-inch-ssd-sata-6g-250-gb/SSSS-177.html"
+    }
+   ],
+   "price": 116.05,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 116.05
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 250 gb samsung 870 evo zoll ssd sata 250",
    "firstSeen": "2026-10-30"
   },
   {
@@ -15659,6 +17037,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-graugear-klon-station-fur-m-2-nvme-ssd-mit-lufter-und-one-to",
+   "cat": "SSDs",
+   "sub": "NVMe",
+   "name": "Graugear Klon-Station für M.2-NVMe-SSD - mit Lüfter und One-Touch-Klontaste",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/graygear-clone-station-for-m.2-nvme-ssd-with-fan-and-one-touch-clone-button/ZUWE-577.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 119,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/graygear-clone-station-for-m.2-nvme-ssd-with-fan-and-one-touch-clone-button/ZUWE-577.html"
+    }
+   ],
+   "price": 119,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 119
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme graugear klon station fur ssd mit lufter und one touch klontaste",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-zenscreen-mb166c-15-6-full-hd-ips-monitor-usb-c-schwarz",
    "cat": "Monitore",
    "sub": "15,6\"",
@@ -15940,6 +17347,64 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-be-quiet-light-base-600-dx-midi-tower-tempered-glass-argb-sc",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "be quiet! Light Base 600 DX Midi-Tower, Tempered Glass, ARGB - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/be-quiet-light-base-600-dx-midi-tower-tempered-glass-argb-schwarz/GEBQ-085.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 119.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/be-quiet-light-base-600-dx-midi-tower-tempered-glass-argb-schwarz/GEBQ-085.html"
+    }
+   ],
+   "price": 119.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 119.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause quiet light base 600 midi tower tempered glass argb schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-fractal-design-epoch-black-rgb-tg-light-tint-pc-gehause-midi",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Fractal Design Epoch Black RGB TG Light tint PC-Gehäuse, Midi-Tower, ATX, Tempered Glass - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/fractal-design-epoch-black-rgb-tg-light-tint-pc-gehaeuse-midi-tower-atx-tempered-glass-schwarz/GEFD-209.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 119.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/fractal-design-epoch-black-rgb-tg-light-tint-pc-gehaeuse-midi-tower-atx-tempered-glass-schwarz/GEFD-209.html"
+    }
+   ],
+   "price": 119.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 119.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause fractal design epoch black rgb light tint midi tower atx tempered glass schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-philips-e-line-241e1sca-curved-led-monitor-24-full-hd-va-tex",
    "cat": "Monitore",
    "sub": "24\"",
@@ -15966,6 +17431,35 @@
    ],
    "count": 1,
    "tags": "monitore 24\" philips line 241e1sca curved led monitor full textured black 5969956",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-samsung-870-evo-250-gb-2-5-sata-ssd-schwarz-6951386",
+   "cat": "SSDs",
+   "sub": "SATA 250 GB",
+   "name": "Samsung 870 EVO 250 GB 2.5\" SATA SSD Schwarz | 6951386",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/samsung-870-evo-250-gb-2-5-sata-ssd-schwarz-6951386/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 120.13,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/samsung-870-evo-250-gb-2-5-sata-ssd-schwarz-6951386/"
+    }
+   ],
+   "price": 120.13,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 120.13
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 250 gb samsung 870 evo 250 sata ssd schwarz 6951386",
    "firstSeen": "2026-10-30"
   },
   {
@@ -16053,6 +17547,35 @@
    ],
    "count": 1,
    "tags": "mainboards intel lga1700 b760 asus prime b760 plus intel mainboard sockel 1700 ddr4",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-fractal-design-epoch-xl-black-tg-light-tint-pc-gehause-midi-",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Fractal Design Epoch XL Black TG Light Tint PC-Gehäuse, Midi-Tower, E-ATX, Tempered Glass – schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/fractal-design-epoch-xl-black-tg-light-tint-pc-gehaeuse-midi-tower-e-atx-tempered-glass-schwarz/GEFD-212.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 120.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/fractal-design-epoch-xl-black-tg-light-tint-pc-gehaeuse-midi-tower-e-atx-tempered-glass-schwarz/GEFD-212.html"
+    }
+   ],
+   "price": 120.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 120.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause fractal design epoch black light tint midi tower atx tempered glass schwarz",
    "firstSeen": "2026-10-30"
   },
   {
@@ -16285,6 +17808,35 @@
    ],
    "count": 1,
    "tags": "mainboards intel lga1851 h810 asus prime h810m csm mainboard intel h810 lga 1851 ddr5 micro atx schwarz 100692238",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-fractal-design-epoch-white-rgb-tg-clear-tint-pc-gehause-midi",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Fractal Design Epoch White RGB TG Clear tint PC-Gehäuse, Midi-Tower, ATX, Tempered Glass - weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/fractal-design-epoch-white-rgb-tg-clear-tint-pc-gehaeuse-midi-tower-atx-tempered-glass-weiss/GEFD-210.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 123.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/fractal-design-epoch-white-rgb-tg-clear-tint-pc-gehaeuse-midi-tower-atx-tempered-glass-weiss/GEFD-210.html"
+    }
+   ],
+   "price": 123.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 123.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause fractal design epoch white rgb clear tint midi tower atx tempered glass weiss",
    "firstSeen": "2026-10-30"
   },
   {
@@ -16549,6 +18101,35 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-hyte-x50-midi-tower-wild-cherry",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "HYTE X50 Midi Tower - Wild Cherry",
+   "source": "crawler",
+   "url": "https://www.caseking.de/hyte-x50-midi-tower-wild-cherry/GEHY-055.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 124.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/hyte-x50-midi-tower-wild-cherry/GEHY-055.html"
+    }
+   ],
+   "price": 124.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 124.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause hyte x50 midi tower wild cherry",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-gigabyte-b760m-gaming-x-ddr4-gen5-intel-b760-lga-1700-micro-",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 B760",
@@ -16633,6 +18214,35 @@
    ],
    "count": 1,
    "tags": "mainboards intel lga1700 b760 asus prime b760m wifi mainboard micro atx lga1700 intel b760 ddr5 100678832",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-fractal-design-epoch-xl-white-tg-clear-tint-pc-gehause-midi-",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Fractal Design Epoch XL White TG Clear Tint PC-Gehäuse, Midi-Tower, E-ATX, Tempered Glass – weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/fractal-design-epoch-xl-white-tg-clear-tint-pc-gehaeuse-midi-tower-e-atx-tempered-glass-weiss/GEFD-213.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 125.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/fractal-design-epoch-xl-white-tg-clear-tint-pc-gehaeuse-midi-tower-e-atx-tempered-glass-weiss/GEFD-213.html"
+    }
+   ],
+   "price": 125.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 125.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause fractal design epoch white clear tint midi tower atx tempered glass weiss",
    "firstSeen": "2026-10-30"
   },
   {
@@ -16749,6 +18359,35 @@
    ],
    "count": 1,
    "tags": "mainboards intel lga1700 b760 asus pro b760m csm intel b760 mainboard sockel 1700 ddr5",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-fractal-design-epoch-xl-black-solid-pc-gehause-midi-tower-e-",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Fractal Design Epoch XL Black Solid PC-Gehäuse, Midi-Tower, E-ATX – schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/fractal-design-epoch-xl-black-solid-pc-gehaeuse-midi-tower-e-atx-schwarz/GEFD-211.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 126.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/fractal-design-epoch-xl-black-solid-pc-gehaeuse-midi-tower-e-atx-schwarz/GEFD-211.html"
+    }
+   ],
+   "price": 126.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 126.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause fractal design epoch black solid midi tower atx schwarz",
    "firstSeen": "2026-10-30"
   },
   {
@@ -17829,6 +19468,35 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-corsair-frame-5000d-pc-gehause-midi-tower-e-atx-tempered-gla",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Corsair Frame 5000D PC-Gehäuse, Midi-Tower, E-ATX, Tempered Glass - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/corsair-frame-5000d-pc-gehaeuse-midi-tower-e-atx-tempered-glass-schwarz/GECS-207.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 134.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/corsair-frame-5000d-pc-gehaeuse-midi-tower-e-atx-tempered-glass-schwarz/GECS-207.html"
+    }
+   ],
+   "price": 134.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 134.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause corsair frame 5000d midi tower atx tempered glass schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-prime-b760m-plus-intel-b760-mainboard-sockel-1700-ddr5",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 B760",
@@ -17971,6 +19639,64 @@
    ],
    "count": 1,
    "tags": "mainboards intel lga1700 b760 asus prime b760 plus mainboard atx intel lga 1700 ddr5 8273536",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-fractal-design-epoch-xl-black-rgb-tg-light-tint-pc-gehause-m",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Fractal Design Epoch XL Black RGB TG Light Tint PC-Gehäuse, Midi-Tower, E-ATX, ARGB, Tempered Glass – schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/fractal-design-epoch-xl-black-rgb-tg-light-tint-pc-gehaeuse-midi-tower-e-atx-argb-tempered-glass-schwarz/GEFD-214.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 135.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/fractal-design-epoch-xl-black-rgb-tg-light-tint-pc-gehaeuse-midi-tower-e-atx-argb-tempered-glass-schwarz/GEFD-214.html"
+    }
+   ],
+   "price": 135.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 135.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause fractal design epoch black rgb light tint midi tower atx argb tempered glass schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-fractal-design-epoch-xl-white-rgb-tg-clear-tint-pc-gehause-m",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Fractal Design Epoch XL White RGB TG Clear Tint PC-Gehäuse, Midi-Tower, E-ATX, ARGB, Tempered Glass – weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/fractal-design-epoch-xl-white-rgb-tg-clear-tint-pc-gehaeuse-midi-tower-e-atx-argb-tempered-glass-weiss/GEFD-215.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 135.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/fractal-design-epoch-xl-white-rgb-tg-clear-tint-pc-gehaeuse-midi-tower-e-atx-argb-tempered-glass-weiss/GEFD-215.html"
+    }
+   ],
+   "price": 135.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 135.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause fractal design epoch white rgb clear tint midi tower atx argb tempered glass weiss",
    "firstSeen": "2026-10-30"
   },
   {
@@ -18421,6 +20147,151 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-be-quiet-light-base-900-dx-big-tower-tempred-glass-argb-schw",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "be quiet! Light Base 900 DX Big-Tower, Tempred Glass, ARGB - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/be-quiet-light-base-900-dx-big-tower-tempred-glass-argb-schwarz/GEBQ-081.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 139.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/be-quiet-light-base-900-dx-big-tower-tempred-glass-argb-schwarz/GEBQ-081.html"
+    }
+   ],
+   "price": 139.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 139.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause quiet light base 900 big tower tempred glass argb schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-be-quiet-light-base-600-lx-midi-tower-tempered-glass-argb-sc",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "be quiet! Light Base 600 LX Midi-Tower, Tempered Glass, ARGB - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/be-quiet-light-base-600-lx-midi-tower-tempered-glass-argb-schwarz/GEBQ-086.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 139.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/be-quiet-light-base-600-lx-midi-tower-tempered-glass-argb-schwarz/GEBQ-086.html"
+    }
+   ],
+   "price": 139.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 139.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause quiet light base 600 midi tower tempered glass argb schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-corsair-frame-4000d-rs-wood-pc-gehause-midi-tower-e-atx-holz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Corsair FRAME 4000D RS Wood PC-Gehäuse, Midi-Tower, E-ATX - Holz, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/corsair-frame-4000d-rs-wood-pc-gehaeuse-midi-tower-e-atx-holz-schwarz/GECS-233.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 139.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/corsair-frame-4000d-rs-wood-pc-gehaeuse-midi-tower-e-atx-holz-schwarz/GECS-233.html"
+    }
+   ],
+   "price": 139.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 139.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause corsair frame 4000d wood midi tower atx holz schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-hyte-x50-midi-tower-snow-white",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "HYTE X50 Midi Tower - Snow White",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/hyte-x50-midi-tower-snow-white/GEHY-053.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 139.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/hyte-x50-midi-tower-snow-white/GEHY-053.html"
+    }
+   ],
+   "price": 139.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 139.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause hyte x50 midi tower snow white",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-hyte-x50-midi-tower-pitch-black",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "HYTE X50 Midi Tower - Pitch Black",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/hyte-x50-midi-tower-pitch-black/GEHY-054.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 139.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/hyte-x50-midi-tower-pitch-black/GEHY-054.html"
+    }
+   ],
+   "price": 139.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 139.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause hyte x50 midi tower pitch black",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-gigabyte-b650-eagle-ax-mainboard-sockel-am5-amd-b650-atx-ddr",
    "cat": "Mainboards",
    "sub": "AM5 B650",
@@ -18679,6 +20550,35 @@
    ],
    "count": 1,
    "tags": "monitore 23,8\" japannext i238fhd120f hsp gaming monitor 1920 1080 ips 120 blau 100609123",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-fractal-design-north-tempered-glass-midi-tower-schwarz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Fractal Design North Tempered Glass Midi-Tower - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/fractal-design-north-tempered-glass-midi-tower-schwarz/GEFD-153.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 141.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/fractal-design-north-tempered-glass-midi-tower-schwarz/GEFD-153.html"
+    }
+   ],
+   "price": 141.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 141.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause fractal design north tempered glass midi tower schwarz",
    "firstSeen": "2026-10-30"
   },
   {
@@ -19096,6 +20996,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-fractal-design-north-midi-tower-schwarz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Fractal Design North Midi-Tower - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/fractal-design-north-midi-tower-schwarz/GEFD-152.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 144.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/fractal-design-north-midi-tower-schwarz/GEFD-152.html"
+    }
+   ],
+   "price": 144.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 144.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause fractal design north midi tower schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-hp-series-3-pro-327ph-27-fhd-ips-monitor-100-hz-schwarz-1005",
    "cat": "Monitore",
    "sub": "27\"",
@@ -19122,6 +21051,35 @@
    ],
    "count": 1,
    "tags": "monitore 27\" series pro 327ph fhd ips monitor 100 schwarz 100590173",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-fractal-design-meshify-3-white-tg-clear-pc-gehause-midi-towe",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Fractal Design Meshify 3 White TG Clear PC-Gehäuse, Midi-Tower, E-ATX - weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/fractal-design-meshify-3-white-tg-clear-pc-gehaeuse-midi-tower-e-atx-weiss/GEFD-194.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 145.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/fractal-design-meshify-3-white-tg-clear-pc-gehaeuse-midi-tower-e-atx-weiss/GEFD-194.html"
+    }
+   ],
+   "price": 145.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 145.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause fractal design meshify white clear midi tower atx weiss",
    "firstSeen": "2026-10-30"
   },
   {
@@ -19180,6 +21138,35 @@
    ],
    "count": 1,
    "tags": "mainboards am5 b650 gigabyte b650 gaming mainboard sockel am5 amd atx ddr5",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-fractal-design-meshify-3-tg-light-tint-pc-gehause-midi-tower",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Fractal Design Meshify 3 TG Light Tint PC-Gehäuse, Midi-Tower, E-ATX - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/fractal-design-meshify-3-tg-light-tint-pc-gehaeuse-midi-tower-e-atx-schwarz/GEFD-192.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 146.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/fractal-design-meshify-3-tg-light-tint-pc-gehaeuse-midi-tower-e-atx-schwarz/GEFD-192.html"
+    }
+   ],
+   "price": 146.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 146.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause fractal design meshify light tint midi tower atx schwarz",
    "firstSeen": "2026-10-30"
   },
   {
@@ -19415,6 +21402,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-lenovo-sk-hynix-ssd-256-gb-m-2-2280-pcie-3-0-x4-nvme-6933949",
+   "cat": "SSDs",
+   "sub": "NVMe 256 GB",
+   "name": "Lenovo SK Hynix SSD 256 GB M.2 2280 PCIe 3.0 x4 NVMe | 6933949",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/lenovo-sk-hynix-ssd-256-gb-m-2-2280-pcie-3-0-x4-nvme-6933949/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 148.86,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/lenovo-sk-hynix-ssd-256-gb-m-2-2280-pcie-3-0-x4-nvme-6933949/"
+    }
+   ],
+   "price": 148.86,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 148.86
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 256 gb lenovo hynix ssd 256 2280 pcie nvme 6933949",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-gigabyte-g27q20-27-zoll-qhd-gaming-monitor-210hz-ips-panel-g",
    "cat": "Monitore",
    "sub": "27\"",
@@ -19441,6 +21457,35 @@
    ],
    "count": 1,
    "tags": "monitore 27\" gigabyte g27q20 zoll qhd gaming monitor 210hz ips panel sync compatible",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-kingston-ssdnow-a400-series-2-5-zoll-ssd-sata-6g-960-gb",
+   "cat": "SSDs",
+   "sub": "SATA 960 GB",
+   "name": "Kingston SSDNow A400 Series 2,5 Zoll SSD, SATA 6G - 960 GB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/kingston-ssdnow-a400-series-2.5-inch-ssd-sata-6g-960-gb/SSKT-058.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 149.45,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/kingston-ssdnow-a400-series-2.5-inch-ssd-sata-6g-960-gb/SSKT-058.html"
+    }
+   ],
+   "price": 149.45,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 149.45
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 960 gb kingston ssdnow a400 series zoll ssd sata 960",
    "firstSeen": "2026-10-30"
   },
   {
@@ -19800,6 +21845,64 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-western-digital-blue-sa510-2-5-zoll-ssd-sata-6g-500-gb",
+   "cat": "SSDs",
+   "sub": "SATA 500 GB",
+   "name": "Western Digital Blue SA510 2,5 Zoll SSD, SATA 6G - 500 GB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/western-digital-blue-sa510-2.5-inch-ssd-sata-6g-500-gb/SSWD-071.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 149.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/western-digital-blue-sa510-2.5-inch-ssd-sata-6g-500-gb/SSWD-071.html"
+    }
+   ],
+   "price": 149.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 149.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 500 gb western digital blue sa510 zoll ssd sata 500",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-be-quiet-silent-base-802-window-midi-tower-tempered-glass-sc",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "be quiet! Silent Base 802 Window Midi-Tower - Tempered Glass, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/be-quiet-silent-base-802-window-midi-tower-tempered-glass-schwarz/GEBQ-061.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 149.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/be-quiet-silent-base-802-window-midi-tower-tempered-glass-schwarz/GEBQ-061.html"
+    }
+   ],
+   "price": 149.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 149.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause quiet silent base 802 window midi tower tempered glass schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-va27ehf-27-ips-100-hz-full-hd-monitor-schwarz-8913120",
    "cat": "Monitore",
    "sub": "27\"",
@@ -19826,6 +21929,64 @@
    ],
    "count": 1,
    "tags": "monitore 27\" asus va27ehf ips 100 full monitor schwarz 8913120",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-team-group-mp33-pro-nvme-ssd-pcie-3-0-m-2-typ-2280-1-tb",
+   "cat": "SSDs",
+   "sub": "NVMe 1 TB",
+   "name": "Team Group MP33 Pro NVMe SSD, PCIe 3.0 M.2 Typ 2280 - 1 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/team-group-mp33-pro-nvme-ssd-pcie-3.0-m.2-typ-2280-1-tb/SSTG-067.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 150.33,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/team-group-mp33-pro-nvme-ssd-pcie-3.0-m.2-typ-2280-1-tb/SSTG-067.html"
+    }
+   ],
+   "price": 150.33,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 150.33
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 1 tb team group mp33 pro nvme ssd pcie typ 2280",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-patriot-p300-nvme-ssd-pcie-3-0-m-2-typ-2280-1tb",
+   "cat": "SSDs",
+   "sub": "NVMe 1 TB",
+   "name": "Patriot P300 NVMe SSD, PCIe 3.0. M.2 Typ 2280 - 1TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/patriot-p300-nvme-ssd-pcie-3.0.-m.2-type-2280-1tb/SSPM-031.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 150.39,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/patriot-p300-nvme-ssd-pcie-3.0.-m.2-type-2280-1tb/SSPM-031.html"
+    }
+   ],
+   "price": 150.39,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 150.39
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 1 tb patriot p300 nvme ssd pcie typ 2280 1tb",
    "firstSeen": "2026-10-30"
   },
   {
@@ -20177,6 +22338,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-corsair-frame-5000d-rs-argb-pc-gehause-midi-tower-e-atx-rgb-",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Corsair Frame 5000D RS ARGB PC-Gehäuse, Midi-Tower, E-ATX, RGB, Tempered Glass - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/corsair-frame-5000d-rs-argb-pc-gehaeuse-midi-tower-e-atx-rgb-tempered-glass-schwarz/GECS-209.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 154.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/corsair-frame-5000d-rs-argb-pc-gehaeuse-midi-tower-e-atx-rgb-tempered-glass-schwarz/GECS-209.html"
+    }
+   ],
+   "price": 154.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 154.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause corsair frame 5000d argb midi tower atx rgb tempered glass schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-tuf-gaming-b760-plus-wifi-mainboard-intel-b760-lga-1700",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 B760",
@@ -20293,6 +22483,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-fractal-design-meshify-2-black-tg-light-tint-midi-tower-temp",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Fractal Design Meshify 2 Black TG Light Tint Midi-Tower, Tempered Glass, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/fractal-design-meshify-2-black-tg-light-tint-midi-tower-tempered-glass-schwarz/GEFD-133.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 156.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/fractal-design-meshify-2-black-tg-light-tint-midi-tower-tempered-glass-schwarz/GEFD-133.html"
+    }
+   ],
+   "price": 156.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 156.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause fractal design meshify black light tint midi tower tempered glass schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-iiyama-prolite-xb2797hsu-w1-27-ips-full-hd-120-hz-monitor-we",
    "cat": "Monitore",
    "sub": "27\"",
@@ -20319,6 +22538,35 @@
    ],
    "count": 1,
    "tags": "monitore 27\" iiyama prolite xb2797hsu ips full 120 monitor weiss 100698822",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-lenovo-ssd-m-2-2280-256-gb-pcie-nvme-opal-2-0-7165348",
+   "cat": "SSDs",
+   "sub": "NVMe 256 GB",
+   "name": "Lenovo SSD M.2 2280 256 GB PCIe NVMe OPAL 2.0 | 7165348",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/lenovo-ssd-m-2-2280-256-gb-pcie-nvme-opal-2-0-7165348/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 157.27,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/lenovo-ssd-m-2-2280-256-gb-pcie-nvme-opal-2-0-7165348/"
+    }
+   ],
+   "price": 157.27,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 157.27
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 256 gb lenovo ssd 2280 256 pcie nvme opal 7165348",
    "firstSeen": "2026-10-30"
   },
   {
@@ -20522,6 +22770,64 @@
    ],
    "count": 1,
    "tags": "monitore 27\" philips line 272e1ca curved full led monitor vga hdmi displayport schwarz 5939681",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-intenso-performance-1-tb-ssd-2-5-sata-7895749",
+   "cat": "SSDs",
+   "sub": "SATA 1 TB",
+   "name": "Intenso performance 1 TB SSD 2.5\" SATA | 7895749",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/intenso-performance-1-tb-ssd-2-5-sata-7895749/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 159.41,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/intenso-performance-1-tb-ssd-2-5-sata-7895749/"
+    }
+   ],
+   "price": 159.41,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 159.41
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 1 tb intenso performance ssd sata 7895749",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-lenovo-ssd-m-2-2242-256-gb-pcie-3-0-x4-nvme-6955056",
+   "cat": "SSDs",
+   "sub": "NVMe 256 GB",
+   "name": "Lenovo SSD M.2 2242 256 GB PCIe 3.0 x4 NVMe | 6955056",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/lenovo-ssd-m-2-2242-256-gb-pcie-3-0-x4-nvme-6955056/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 159.42,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/lenovo-ssd-m-2-2242-256-gb-pcie-3-0-x4-nvme-6955056/"
+    }
+   ],
+   "price": 159.42,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 159.42
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 256 gb lenovo ssd 2242 256 pcie nvme 6955056",
    "firstSeen": "2026-10-30"
   },
   {
@@ -20787,6 +23093,93 @@
    ],
    "count": 1,
    "tags": "gehause asus tuf gaming gt502 horizon midi tower atx tempered glass schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-lexar-nm620-nvme-ssd-pcie-3-0-m-2-typ-2280-1-tb",
+   "cat": "SSDs",
+   "sub": "NVMe 1 TB",
+   "name": "Lexar NM620 NVMe SSD, PCIe 3.0 M.2 Typ 2280 - 1 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/lexar-nm620-nvme-ssd-pcie-3.0-m.2-type-2280-1-tb/SSLX-008.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 159.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/lexar-nm620-nvme-ssd-pcie-3.0-m.2-type-2280-1-tb/SSLX-008.html"
+    }
+   ],
+   "price": 159.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 159.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 1 tb lexar nm620 nvme ssd pcie typ 2280",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-havn-bf-360-pc-case-midi-tower-e-atx-tempered-glass-white",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "HAVN BF 360 PC Case, Midi Tower, E-ATX, Tempered Glass - White",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/havn-bf-360-pc-case-midi-tower-e-atx-tempered-glass-white/GEHV-018.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 159.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/havn-bf-360-pc-case-midi-tower-e-atx-tempered-glass-white/GEHV-018.html"
+    }
+   ],
+   "price": 159.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 159.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause havn 360 case midi tower atx tempered glass white",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-havn-bf-360-pc-case-midi-tower-e-atx-tempered-glass-black",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "HAVN BF 360 PC Case, Midi Tower, E-ATX, Tempered Glass - Black",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/havn-bf-360-pc-case-midi-tower-e-atx-tempered-glass-black/GEHV-019.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 159.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/havn-bf-360-pc-case-midi-tower-e-atx-tempered-glass-black/GEHV-019.html"
+    }
+   ],
+   "price": 159.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 159.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause havn 360 case midi tower atx tempered glass black",
    "firstSeen": "2026-10-30"
   },
   {
@@ -21088,6 +23481,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-lenovo-sk-hynix-ssd-256-gb-m-2-2280-pcie-4-0-x4-9084462",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 256 GB",
+   "name": "Lenovo SK Hynix SSD 256 GB M.2 2280 PCIe 4.0 x4 | 9084462",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/lenovo-sk-hynix-ssd-256-gb-m-2-2280-pcie-4-0-x4-9084462/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 163.11,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/lenovo-sk-hynix-ssd-256-gb-m-2-2280-pcie-4-0-x4-9084462/"
+    }
+   ],
+   "price": 163.11,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 163.11
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 256 gb lenovo hynix ssd 256 2280 pcie 9084462",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-philips-evnia-5000-27m2c5201l-27-gaming-monitor-180-hz-weiss",
    "cat": "Monitore",
    "sub": "27\"",
@@ -21114,6 +23536,35 @@
    ],
    "count": 1,
    "tags": "monitore 27\" philips evnia 5000 27m2c5201l gaming monitor 180 weiss 100508103",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-msi-spatium-s270-ssd-960-gb-2-5-sata-iii-9201824",
+   "cat": "SSDs",
+   "sub": "SATA 960 GB",
+   "name": "MSI SPATIUM S270 SSD 960 GB 2,5\" SATA III | 9201824",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/msi-spatium-s270-ssd-960-gb-2-5-sata-iii-9201824/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 163.41,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/msi-spatium-s270-ssd-960-gb-2-5-sata-iii-9201824/"
+    }
+   ],
+   "price": 163.41,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 163.41
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 960 gb msi spatium s270 ssd 960 sata iii 9201824",
    "firstSeen": "2026-10-30"
   },
   {
@@ -21172,6 +23623,35 @@
    ],
    "count": 1,
    "tags": "monitore 27\" gigabyte g27q20 wqhd gaming monitor 200 schwarz 100695646",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-patriot-p400-lite-ssd-pcie-4-0-m-2-typ-2280-1tb",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 1 TB",
+   "name": "Patriot P400 Lite SSD, PCIe 4.0 M.2 Typ 2280 - 1TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/patriot-p400-lite-ssd-pcie-4.0-m.2-type-2280-1tb/SSPM-027.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 163.61,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/patriot-p400-lite-ssd-pcie-4.0-m.2-type-2280-1tb/SSPM-027.html"
+    }
+   ],
+   "price": 163.61,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 163.61
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 1 tb patriot p400 lite ssd pcie typ 2280 1tb",
    "firstSeen": "2026-10-30"
   },
   {
@@ -21668,6 +24148,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-fractal-design-meshify-3-rgb-tg-light-pc-gehause-midi-tower-",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Fractal Design Meshify 3 RGB TG Light PC-Gehäuse, Midi-Tower, E-ATX - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/fractal-design-meshify-3-rgb-tg-light-pc-gehaeuse-midi-tower-e-atx-schwarz/GEFD-196.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 167.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/fractal-design-meshify-3-rgb-tg-light-pc-gehaeuse-midi-tower-e-atx-schwarz/GEFD-196.html"
+    }
+   ],
+   "price": 167.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 167.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause fractal design meshify rgb light midi tower atx schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-pro-b650m-ct-csm-mainboard-amd-b650-sockel-am5-ddr5-mic",
    "cat": "Mainboards",
    "sub": "AM5 B650",
@@ -21962,6 +24471,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-lexar-nq780-nvme-ssd-pcie-4-0-m-2-type-2280-1-tb",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 1 TB",
+   "name": "Lexar NQ780 NVMe SSD, PCIe 4.0 M.2 Type 2280 - 1 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/lexar-nq780-nvme-ssd-pcie-4.0-m.2-type-2280-1-tb/SSLX-020.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 169.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/lexar-nq780-nvme-ssd-pcie-4.0-m.2-type-2280-1-tb/SSLX-020.html"
+    }
+   ],
+   "price": 169.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 169.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 1 tb lexar nq780 nvme ssd pcie type 2280",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-b850m-max-gaming-wifi-mainboard-amd-b850-sockel-am5-mic",
    "cat": "Mainboards",
    "sub": "AM5 B850",
@@ -22046,6 +24584,35 @@
    ],
    "count": 1,
    "tags": "monitore 27\" asus va27dqsb led monitor 1920 1080 full 1080p ips 250 1000 hdmi vga displayport lautsprecher schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-integral-inssd960gs625v2-ssd-2-5-960-gb-sata-iii-530-mb-s-10",
+   "cat": "SSDs",
+   "sub": "SATA 960 GB",
+   "name": "Integral INSSD960GS625V2 SSD 2.5\" 960 GB SATA III 530 MB/s | 100874460",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/integral-inssd960gs625v2-ssd-2-5-960-gb-sata-iii-530-mb-s-100874460/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 172.18,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/integral-inssd960gs625v2-ssd-2-5-960-gb-sata-iii-530-mb-s-100874460/"
+    }
+   ],
+   "price": 172.18,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 172.18
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 960 gb integral inssd960gs625v2 ssd 960 sata iii 530 100874460",
    "firstSeen": "2026-10-30"
   },
   {
@@ -22467,6 +25034,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-transcend-mts552t2-64-gb-ssd-m-2-2242-sata-6gb-s-3d-tlc-nand",
+   "cat": "SSDs",
+   "sub": "SATA",
+   "name": "Transcend MTS552T2 64 GB SSD M.2 2242 SATA 6Gb/s 3D TLC NAND | 6545116",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/transcend-mts552t2-64-gb-ssd-m-2-2242-sata-6gb-s-3d-tlc-nand-6545116/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 175.36,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/transcend-mts552t2-64-gb-ssd-m-2-2242-sata-6gb-s-3d-tlc-nand-6545116/"
+    }
+   ],
+   "price": 175.36,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 175.36
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata transcend mts552t2 ssd 2242 6gb tlc nand 6545116",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-gigabyte-b860-gaming-x-wifi6e-mainboard-sockel-lga-1851-inte",
    "cat": "Mainboards",
    "sub": "Intel LGA1851 B860",
@@ -22581,6 +25177,35 @@
    "count": 1,
    "tags": "netzteile 750 w silverstone hela 750r plus platinum netzteil atx pcie 750 watt schwarz",
    "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-western-digital-blue-sa510-2-5-zoll-ssd-sata-6g-1-tb",
+   "cat": "SSDs",
+   "sub": "SATA 1 TB",
+   "name": "Western Digital Blue SA510 2,5 Zoll SSD, SATA 6G - 1 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/western-digital-blue-sa510-2.5-inch-ssd-sata-6g-1-tb/SSWD-072.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 176.92,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/western-digital-blue-sa510-2.5-inch-ssd-sata-6g-1-tb/SSWD-072.html"
+    }
+   ],
+   "price": 176.92,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 176.92
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 1 tb western digital blue sa510 zoll ssd sata",
+   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-asus-tuf-gaming-b850-plus-wifi-mainboard-sockel-am5-amd-b850",
@@ -22813,6 +25438,93 @@
    "count": 1,
    "tags": "netzteile 850 w asus rog strix 850 platinum netzteil plus modular pcie watt",
    "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-msi-spatium-m450-v1-ssd-pcie-4-0-m-2-typ-2280-1tb",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 1 TB",
+   "name": "MSI Spatium M450 V1 SSD, PCIe 4.0, M.2 Typ 2280 - 1TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/msi-spatium-m450-v1-ssd-pcie-4.0-m.2-type-2280-1tb/SSMS-004.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 179.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/msi-spatium-m450-v1-ssd-pcie-4.0-m.2-type-2280-1tb/SSMS-004.html"
+    }
+   ],
+   "price": 179.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 179.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 1 tb msi spatium m450 ssd pcie typ 2280 1tb",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-be-quiet-light-base-900-fx-big-tower-tempered-glass-argb-sch",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "be quiet! Light Base 900 FX Big-Tower, Tempered Glass, ARGB - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/be-quiet-light-base-900-fx-big-tower-tempered-glass-argb-schwarz/GEBQ-082.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 179.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/be-quiet-light-base-900-fx-big-tower-tempered-glass-argb-schwarz/GEBQ-082.html"
+    }
+   ],
+   "price": 179.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 179.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause quiet light base 900 big tower tempered glass argb schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-fractal-design-meshify-3-rgb-tg-clear-pc-gehause-midi-tower-",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Fractal Design Meshify 3 RGB TG Clear PC-Gehäuse, Midi-Tower, E-ATX - weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/fractal-design-meshify-3-rgb-tg-clear-pc-gehaeuse-midi-tower-e-atx-weiss/GEFD-197.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 179.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/fractal-design-meshify-3-rgb-tg-clear-pc-gehaeuse-midi-tower-e-atx-weiss/GEFD-197.html"
+    }
+   ],
+   "price": 179.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 179.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause fractal design meshify rgb clear midi tower atx weiss",
+   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-msi-b850-gaming-plus-wifi6e-mainboard-amd-b850-socket-am5-at",
@@ -23134,6 +25846,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-samsung-870-evo-2-5-zoll-ssd-sata-6g-500-gb",
+   "cat": "SSDs",
+   "sub": "SATA 500 GB",
+   "name": "Samsung 870 EVO 2,5 Zoll SSD, SATA 6G - 500 GB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/samsung-870-evo-2.5-inch-ssd-sata-6g-500-gb/SSSS-178.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 185.74,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/samsung-870-evo-2.5-inch-ssd-sata-6g-500-gb/SSSS-178.html"
+    }
+   ],
+   "price": 185.74,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 185.74
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 500 gb samsung 870 evo zoll ssd sata 500",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asrock-b850-livemixer-wifi-mainboard-sockel-am5-amd-b850-atx",
    "cat": "Mainboards",
    "sub": "AM5 B850",
@@ -23221,6 +25962,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-fractal-design-meshify-3-xl-rgb-tg-pc-gehause-big-tower-e-at",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Fractal Design Meshify 3 XL RGB TG PC Gehäuse - Big-Tower, E-ATX, Tempered Glass - weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/fractal-design-meshify-3-xl-rgb-tg-pc-gehaeuse-big-tower-e-atx-tempered-glass-weiss/GEFD-203.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 186.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/fractal-design-meshify-3-xl-rgb-tg-pc-gehaeuse-big-tower-e-atx-tempered-glass-weiss/GEFD-203.html"
+    }
+   ],
+   "price": 186.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 186.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause fractal design meshify rgb big tower atx tempered glass weiss",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-tuf-gaming-vg328qa1a-31-5-zoll-gaming-monitor-170-hz-va",
    "cat": "Monitore",
    "sub": "31,5\"",
@@ -23247,6 +26017,64 @@
    ],
    "count": 1,
    "tags": "monitore 31,5\" asus tuf gaming vg328qa1a zoll monitor 170 freesync",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-western-digital-wd-blue-sn5100-1-tb-ssd-m-2-2280-pcie-4-0-nv",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 1 TB",
+   "name": "Western Digital WD Blue SN5100 1 TB SSD M.2 2280 PCIe 4.0 NVMe | 100604956",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/western-digital-wd-blue-sn5100-1-tb-ssd-m-2-2280-pcie-4-0-nvme-100604956/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 187.95,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/western-digital-wd-blue-sn5100-1-tb-ssd-m-2-2280-pcie-4-0-nvme-100604956/"
+    }
+   ],
+   "price": 187.95,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 187.95
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 1 tb western digital blue sn5100 ssd 2280 pcie nvme 100604956",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-fractal-design-north-xl-rc-chalk-tg-clear-pc-gehause-midi-to",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Fractal Design North XL RC Chalk TG Clear PC-Gehäuse, Midi-Tower, ATX, Tempered Glass - weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/fractal-design-north-xl-rc-chalk-tg-clear-pc-gehaeuse-midi-tower-atx-tempered-glass-weiss/GEFD-205.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 188.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/fractal-design-north-xl-rc-chalk-tg-clear-pc-gehaeuse-midi-tower-atx-tempered-glass-weiss/GEFD-205.html"
+    }
+   ],
+   "price": 188.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 188.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause fractal design north chalk clear midi tower atx tempered glass weiss",
    "firstSeen": "2026-10-30"
   },
   {
@@ -23305,6 +26133,64 @@
    ],
    "count": 1,
    "tags": "monitore 27\" ultragear 27g610a zoll wqhd gaming monitor 200hz ips freesync premium",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-havn-bf-360-flow-pc-case-midi-tower-e-atx-tempered-glass-whi",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "HAVN BF 360 Flow PC Case, Midi Tower, E-ATX, Tempered Glass - White",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/havn-bf-360-flow-pc-case-midi-tower-e-atx-tempered-glass-white/GEHV-020.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 189.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/havn-bf-360-flow-pc-case-midi-tower-e-atx-tempered-glass-white/GEHV-020.html"
+    }
+   ],
+   "price": 189.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 189.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause havn 360 flow case midi tower atx tempered glass white",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-havn-bf-360-flow-pc-case-midi-tower-e-atx-tempered-glass-bla",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "HAVN BF 360 Flow PC Case, Midi Tower, E-ATX, Tempered Glass - Black",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/havn-bf-360-flow-pc-case-midi-tower-e-atx-tempered-glass-black/GEHV-021.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 189.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/havn-bf-360-flow-pc-case-midi-tower-e-atx-tempered-glass-black/GEHV-021.html"
+    }
+   ],
+   "price": 189.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 189.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause havn 360 flow case midi tower atx tempered glass black",
    "firstSeen": "2026-10-30"
   },
   {
@@ -23627,6 +26513,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-seagate-firecuda-x1070-1-tb-m-2-pcie-4-0-nvme-ssd-100869168",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 1 TB",
+   "name": "Seagate FireCuda X1070 1 TB M.2 PCIe 4.0 NVMe SSD | 100869168",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/seagate-firecuda-x1070-1-tb-m-2-pcie-4-0-nvme-ssd-100869168/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 195.09,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/seagate-firecuda-x1070-1-tb-m-2-pcie-4-0-nvme-ssd-100869168/"
+    }
+   ],
+   "price": 195.09,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 195.09
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 1 tb seagate firecuda x1070 pcie nvme ssd 100869168",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-gigabyte-b850m-aorus-elite-wifi6e-ice-mainboard-micro-atx-so",
    "cat": "Mainboards",
    "sub": "AM5 B850",
@@ -23714,6 +26629,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-samsung-980-nvme-ssd-pcie-3-0-m-2-typ-2280-500-gb",
+   "cat": "SSDs",
+   "sub": "NVMe 500 GB",
+   "name": "Samsung 980 NVMe SSD, PCIe 3.0 M.2 Typ 2280 - 500 GB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/samsung-980-nvme-ssd-pcie-3.0-m.2-type-2280-500-gb/SSSS-187.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 196.85,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/samsung-980-nvme-ssd-pcie-3.0-m.2-type-2280-500-gb/SSSS-187.html"
+    }
+   ],
+   "price": 196.85,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 196.85
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 500 gb samsung 980 nvme ssd pcie typ 2280 500",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asrock-z890-pro-rs-intel-z890-mainboard-sockel-lga-1851-inte",
    "cat": "Mainboards",
    "sub": "Intel LGA1851 Z890",
@@ -23798,6 +26742,35 @@
    ],
    "count": 1,
    "tags": "monitore 27\" japannext wqhd monitor 2560x1440 pixel ips panel amd freesync hdmi displayport ips270wqhd75f c65w hsp 100609125",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-msi-spatium-m470-pro-ssd-1-tb-m-2-2280-pcie-4-0-x4-nvme-1005",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 1 TB",
+   "name": "MSI SPATIUM M470 PRO SSD 1 TB M.2 2280 PCIe 4.0 x4 NVMe | 100563174",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/msi-spatium-m470-pro-ssd-1-tb-m-2-2280-pcie-4-0-x4-nvme-100563174/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 198.29,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/msi-spatium-m470-pro-ssd-1-tb-m-2-2280-pcie-4-0-x4-nvme-100563174/"
+    }
+   ],
+   "price": 198.29,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 198.29
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 1 tb msi spatium m470 pro ssd 2280 pcie nvme 100563174",
    "firstSeen": "2026-10-30"
   },
   {
@@ -24071,6 +27044,122 @@
    ],
    "count": 1,
    "tags": "arbeitsspeicher ddr5 bitspower ram cooler transparent double sided dimms",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-fractal-design-define-7-black-dark-tg-midi-tower-getontes-te",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Fractal Design Define 7 Black Dark TG Midi-Tower - getöntes Tempered Glass, gedämmt, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/fractal-design-define-7-black-dark-tg-midi-tower-getoentes-tempered-glass-gedaemmt-schwarz/GEFD-113.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 199.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/fractal-design-define-7-black-dark-tg-midi-tower-getoentes-tempered-glass-gedaemmt-schwarz/GEFD-113.html"
+    }
+   ],
+   "price": 199.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 199.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause fractal design define black dark midi tower getontes tempered glass gedammt schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-fractal-design-north-xl-rc-charcoal-tg-dark-pc-gehause-midi-",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Fractal Design North XL RC Charcoal TG Dark PC-Gehäuse, Midi-Tower, ATX, Tempered Glass - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/fractal-design-north-xl-rc-charcoal-tg-dark-pc-gehaeuse-midi-tower-atx-tempered-glass-schwarz/GEFD-204.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 199.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/fractal-design-north-xl-rc-charcoal-tg-dark-pc-gehaeuse-midi-tower-atx-tempered-glass-schwarz/GEFD-204.html"
+    }
+   ],
+   "price": 199.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 199.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause fractal design north charcoal dark midi tower atx tempered glass schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-hyte-y70-midi-tower-tempered-glass-taro-milk",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Hyte Y70 Midi-Tower, Tempered Glass - Taro Milk",
+   "source": "crawler",
+   "url": "https://www.caseking.de/hyte-y70-midi-tower-tempered-glass-taro-milk/GEHY-039.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 199.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/hyte-y70-midi-tower-tempered-glass-taro-milk/GEHY-039.html"
+    }
+   ],
+   "price": 199.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 199.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause hyte y70 midi tower tempered glass taro milk",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-western-digital-blue-sa510-m-2-ssd-sata-6g-1-tb",
+   "cat": "SSDs",
+   "sub": "SATA 1 TB",
+   "name": "Western Digital Blue SA510 M.2 SSD, SATA 6G - 1 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/western-digital-blue-sa510-m.2-ssd-sata-6g-1-tb/SSWD-068.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 199.91,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/western-digital-blue-sa510-m.2-ssd-sata-6g-1-tb/SSWD-068.html"
+    }
+   ],
+   "price": 199.91,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 199.91
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 1 tb western digital blue sa510 ssd sata",
    "firstSeen": "2026-10-30"
   },
   {
@@ -24361,6 +27450,35 @@
    ],
    "count": 1,
    "tags": "mainboards intel lga1851 z890 msi pro z890 wifi mainboard sockel 1851 intel atx ddr5",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-hyte-y70-midi-tower-standard-schwarz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Hyte Y70 Midi Tower Standard - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/hyte-y70-midi-tower-standard-schwarz/GEHY-030.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 204.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/hyte-y70-midi-tower-standard-schwarz/GEHY-030.html"
+    }
+   ],
+   "price": 204.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 204.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause hyte y70 midi tower standard schwarz",
    "firstSeen": "2026-10-30"
   },
   {
@@ -24741,6 +27859,93 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-fractal-design-torrent-solid-midi-tower-schwarz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Fractal Design Torrent Solid Midi-Tower, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/fractal-design-torrent-solid-midi-tower-schwarz/GEFD-142.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 209.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/fractal-design-torrent-solid-midi-tower-schwarz/GEFD-142.html"
+    }
+   ],
+   "price": 209.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 209.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause fractal design torrent solid midi tower schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-hyte-y70-pc-gehause-midi-tower-atx-tempered-glass-schwarz-we",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Hyte Y70 PC-Gehäuse, Midi Tower, ATX, Tempered Glass - schwarz / weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/hyte-y70-pc-gehaeuse-midi-tower-atx-tempered-glass-schwarz-weiss/GEHY-032.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 209.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/hyte-y70-pc-gehaeuse-midi-tower-atx-tempered-glass-schwarz-weiss/GEHY-032.html"
+    }
+   ],
+   "price": 209.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 209.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause hyte y70 midi tower atx tempered glass schwarz weiss",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-hyte-y70-midi-tower-tempered-glass-strawberry-milk",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Hyte Y70 Midi-Tower, Tempered Glass - Strawberry Milk",
+   "source": "crawler",
+   "url": "https://www.caseking.de/hyte-y70-midi-tower-tempered-glass-strawberry-milk/GEHY-038.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 209.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/hyte-y70-midi-tower-tempered-glass-strawberry-milk/GEHY-038.html"
+    }
+   ],
+   "price": 209.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 209.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause hyte y70 midi tower tempered glass strawberry milk",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-philips-4000-series-24b2u4301-office-monitor-24-ips-1920-x-1",
    "cat": "Monitore",
    "sub": "24\"",
@@ -25002,6 +28207,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asus-proart-pa602-pc-gehause-midi-tower-e-atx-schwarz-braun-",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "ASUS ProArt PA602 PC-Gehäuse, Midi-Tower, E-ATX - schwarz/braun, Holz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/asus-proart-pa602-pc-gehaeuse-midi-tower-e-atx-schwarz-braun-holz/GEAS-057.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 214.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/asus-proart-pa602-pc-gehaeuse-midi-tower-e-atx-schwarz-braun-holz/GEAS-057.html"
+    }
+   ],
+   "price": 214.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 214.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause asus proart pa602 midi tower atx schwarz braun holz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-rog-strix-b760-g-gaming-wifi-intel-b760-mainboard-socke",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 B760",
@@ -25115,6 +28349,35 @@
    ],
    "count": 1,
    "tags": "monitore 23,8\" ba850 24ba850 fhd ips 100 monitor schwarz 100511916",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-gigabyte-aorus-gen4-7000e-1-tb-ssd-m-2-2280-pcie-4-0-x4-nvme",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 1 TB",
+   "name": "Gigabyte AORUS Gen4 7000E 1 TB SSD M.2 2280 PCIe 4.0 x4 NVMe | 100677613",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/gigabyte-aorus-gen4-7000e-1-tb-ssd-m-2-2280-pcie-4-0-x4-nvme-100677613/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 217.14,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/gigabyte-aorus-gen4-7000e-1-tb-ssd-m-2-2280-pcie-4-0-x4-nvme-100677613/"
+    }
+   ],
+   "price": 217.14,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 217.14
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 1 tb gigabyte aorus gen4 7000e ssd 2280 pcie nvme 100677613",
    "firstSeen": "2026-10-30"
   },
   {
@@ -25318,6 +28581,35 @@
    ],
    "count": 1,
    "tags": "mainboards am5 x870 asrock x870 pro wifi am5 atx ddr5 white 100508668",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-samsung-990-evo-plus-nvme-2-0-ssd-pcie-4-0-x4-5-0-x2-typ-228",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 1 TB",
+   "name": "Samsung 990 Evo Plus NVMe 2.0 SSD, PCIe 4.0 x4 / 5.0 x2, Typ 2280 - 1 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/samsung-990-evo-plus-nvme-2.0-ssd-pcie-4.0-x4-5.0-x2-type-2280-1-tb/SSSS-204.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 218.65,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/samsung-990-evo-plus-nvme-2.0-ssd-pcie-4.0-x4-5.0-x2-type-2280-1-tb/SSSS-204.html"
+    }
+   ],
+   "price": 218.65,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 218.65
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 1 tb samsung 990 evo plus nvme ssd pcie typ 2280",
    "firstSeen": "2026-10-30"
   },
   {
@@ -25756,6 +29048,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-fractal-design-meshify-3-ambience-pro-rgb-tg-light-pc-gehaus",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Fractal Design Meshify 3 Ambience Pro RGB TG Light PC-Gehäuse, Midi-Tower, E-ATX - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/fractal-design-meshify-3-ambience-pro-rgb-tg-light-pc-gehaeuse-midi-tower-e-atx-schwarz/GEFD-193.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 225.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/fractal-design-meshify-3-ambience-pro-rgb-tg-light-pc-gehaeuse-midi-tower-e-atx-schwarz/GEFD-193.html"
+    }
+   ],
+   "price": 225.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 225.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause fractal design meshify ambience pro rgb light midi tower atx schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-acer-vero-cb273u-27-ips-wqhd-monitor-100-hz-schwarz-10031657",
    "cat": "Monitore",
    "sub": "27\"",
@@ -25930,6 +29251,93 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-fractal-design-meshify-3-ambience-pro-rgb-white-tg-clear-pc-",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Fractal Design Meshify 3 Ambience Pro RGB White TG Clear PC-Gehäuse, Midi-Tower, E-ATX - weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/fractal-design-meshify-3-ambience-pro-rgb-white-tg-clear-pc-gehaeuse-midi-tower-e-atx-weiss/GEFD-195.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 229.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/fractal-design-meshify-3-ambience-pro-rgb-white-tg-clear-pc-gehaeuse-midi-tower-e-atx-weiss/GEFD-195.html"
+    }
+   ],
+   "price": 229.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 229.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause fractal design meshify ambience pro rgb white clear midi tower atx weiss",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-havn-hs-420-pc-gehause-midi-tower-e-atx-tempered-glass-weiss",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "HAVN HS 420 PC-Gehäuse, Midi-Tower, E-ATX, Tempered Glass - weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/havn-hs-420-pc-gehaeuse-midi-tower-e-atx-tempered-glass-weiss/GEHV-001.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 229.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/havn-hs-420-pc-gehaeuse-midi-tower-e-atx-tempered-glass-weiss/GEHV-001.html"
+    }
+   ],
+   "price": 229.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 229.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause havn 420 midi tower atx tempered glass weiss",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-havn-hs-420-pc-gehause-midi-tower-e-atx-tempered-glass-schwa",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "HAVN HS 420 PC-Gehäuse, Midi-Tower, E-ATX, Tempered Glass - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/havn-hs-420-pc-gehaeuse-midi-tower-e-atx-tempered-glass-schwarz/GEHV-002.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 229.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/havn-hs-420-pc-gehaeuse-midi-tower-e-atx-tempered-glass-schwarz/GEHV-002.html"
+    }
+   ],
+   "price": 229.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 229.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause havn 420 midi tower atx tempered glass schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-viewsonic-vx-series-vx3276-2k-mhd-2-32-led-monitor-wqhd-2560",
    "cat": "Monitore",
    "sub": "32\"",
@@ -26019,6 +29427,35 @@
    "count": 1,
    "tags": "mainboards am5 b850 msi b850 gaming plus wifi mainboard",
    "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-lenovo-00up642-ssd-m-2-2280-512-gb-pcie-3-0-x4-nvme-5836562",
+   "cat": "SSDs",
+   "sub": "NVMe 512 GB",
+   "name": "Lenovo 00UP642 SSD M.2 2280 512 GB PCIe 3.0 x4 NVMe | 5836562",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/lenovo-00up642-ssd-m-2-2280-512-gb-pcie-3-0-x4-nvme-5836562/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 231.59,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/lenovo-00up642-ssd-m-2-2280-512-gb-pcie-3-0-x4-nvme-5836562/"
+    }
+   ],
+   "price": 231.59,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 231.59
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 512 gb lenovo 00up642 ssd 2280 512 pcie nvme 5836562",
+   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-hp-e24mv-g4-conferencing-monitor-23-8-full-hd-ips-schwarz-72",
@@ -26134,6 +29571,35 @@
    ],
    "count": 1,
    "tags": "monitore 28\" japannext i280uhd60f monitor 3840x2160 ips schwarz 100609126",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-lenovo-00up450-interne-ssd-m-2-512-gb-sata-iii-5836482",
+   "cat": "SSDs",
+   "sub": "SATA 512 GB",
+   "name": "Lenovo 00UP450 Interne SSD M.2 512 GB SATA III | 5836482",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/lenovo-00up450-interne-ssd-m-2-512-gb-sata-iii-5836482/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 234.54,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/lenovo-00up450-interne-ssd-m-2-512-gb-sata-iii-5836482/"
+    }
+   ],
+   "price": 234.54,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 234.54
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 512 gb lenovo 00up450 interne ssd 512 sata iii 5836482",
    "firstSeen": "2026-10-30"
   },
   {
@@ -26460,6 +29926,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-samsung-9100-pro-mz-vap1t0bw-1-tb-ssd-pcie-5-0-x4-schwarz-10",
+   "cat": "SSDs",
+   "sub": "PCIe 5.0 1 TB",
+   "name": "Samsung 9100 PRO MZ-VAP1T0BW 1 TB SSD PCIe 5.0 x4 Schwarz | 100555717",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/samsung-9100-pro-mz-vap1t0bw-1-tb-ssd-pcie-5-0-x4-schwarz-100555717/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 238.79,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/samsung-9100-pro-mz-vap1t0bw-1-tb-ssd-pcie-5-0-x4-schwarz-100555717/"
+    }
+   ],
+   "price": 238.79,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 238.79
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 5.0 1 tb samsung 9100 pro vap1t0bw ssd pcie schwarz 100555717",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-sandisk-wd-black-sn8100-ssd-1tb-m-2-2280-pcie-gen5-nvme-inte",
    "cat": "SSDs",
    "sub": "PCIe 5.0 1 TB",
@@ -26515,6 +30010,35 @@
    ],
    "count": 1,
    "tags": "mainboards am5 x870 sapphire pure x870a wifi7 mainboard sockel am5 amd x870 atx ddr5",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-samsung-870-evo-2-5-500-gb-ssd-sata-iii-schwarz-8290310",
+   "cat": "SSDs",
+   "sub": "SATA 500 GB",
+   "name": "Samsung 870 EVO 2,5\" 500 GB SSD SATA III Schwarz | 8290310",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/samsung-870-evo-2-5-500-gb-ssd-sata-iii-schwarz-8290310/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 239.68,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/samsung-870-evo-2-5-500-gb-ssd-sata-iii-schwarz-8290310/"
+    }
+   ],
+   "price": 239.68,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 239.68
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 500 gb samsung 870 evo 500 ssd sata iii schwarz 8290310",
    "firstSeen": "2026-10-30"
   },
   {
@@ -26718,6 +30242,35 @@
    ],
    "count": 1,
    "tags": "mainboards intel lga1700 b760 asus rog strix b760 gaming wifi mainboard atx lga 1700 intel ddr5 schwarz 8134289",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-samsung-990-pro-1-tb-ssd-m-2-nvme-pcie-4-0-x4-8001470",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 1 TB",
+   "name": "Samsung 990 PRO 1 TB SSD M.2 NVMe PCIe 4.0 x4 | 8001470",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/samsung-990-pro-1-tb-ssd-m-2-nvme-pcie-4-0-x4-8001470/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 242.31,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/samsung-990-pro-1-tb-ssd-m-2-nvme-pcie-4-0-x4-8001470/"
+    }
+   ],
+   "price": 242.31,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 242.31
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 1 tb samsung 990 pro ssd nvme pcie 8001470",
    "firstSeen": "2026-10-30"
   },
   {
@@ -27201,20 +30754,49 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-samsung-990-pro-series-nvme-ssd-pcie-4-0-m-2-typ-2280-mit-ku",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 1 TB",
+   "name": "Samsung 990 PRO Series NVMe SSD, PCIe 4.0 M.2 Typ 2280, mit Kühlkörper - 1 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/samsung-990-pro-series-nvme-ssd-pcie-4.0-m.2-type-2280-with-heatsink-1-tb/SSSS-195.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 247.45,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/samsung-990-pro-series-nvme-ssd-pcie-4.0-m.2-type-2280-with-heatsink-1-tb/SSSS-195.html"
+    }
+   ],
+   "price": 247.45,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 247.45
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 1 tb samsung 990 pro series nvme ssd pcie typ 2280 mit kuhlkorper",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-corsair-mp600-elite-nvme-ssd-pcie-4-0-m-2-typ-2280-1-tb-mit-",
    "cat": "SSDs",
    "sub": "PCIe 4.0 1 TB",
    "name": "Corsair MP600 Elite NVMe SSD, PCIe 4.0 M.2 Typ 2280 - 1 TB mit Kühlkörper",
    "source": "crawler",
-   "url": "https://www.caseking.de/corsair-mp600-elite-nvme-ssd-pcie-4.0-m.2-typ-2280-1-tb-mit-kuehlkoerper/SSCS-112.html",
-   "stand": "2026-10-29T22:37",
+   "url": "https://www.caseking.de/en/corsair-mp600-elite-nvme-ssd-pcie-4.0-m.2-type-2280-1-tb-with-heatsink/SSCS-112.html",
+   "stand": "2026-10-30T12:32",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 248.28,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/corsair-mp600-elite-nvme-ssd-pcie-4.0-m.2-typ-2280-1-tb-mit-kuehlkoerper/SSCS-112.html"
+     "url": "https://www.caseking.de/en/corsair-mp600-elite-nvme-ssd-pcie-4.0-m.2-type-2280-1-tb-with-heatsink/SSCS-112.html"
     }
    ],
    "price": 248.28,
@@ -27222,6 +30804,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 248.28
+    },
+    {
+     "d": "2026-10-30",
      "p": 248.28
     }
    ],
@@ -27462,6 +31048,35 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-western-digital-black-sn850x-nvme-m-2-ssd-pcie-4-0-m-2-type-",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 1 TB",
+   "name": "Western Digital Black SN850X NVMe M.2 SSD, PCIe 4.0 M.2 Type 2280 - 1 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/western-digital-black-sn850x-nvme-m.2-ssd-pcie-4.0-m.2-type-2280-1-tb/SSWD-050.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 249.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/western-digital-black-sn850x-nvme-m.2-ssd-pcie-4.0-m.2-type-2280-1-tb/SSWD-050.html"
+    }
+   ],
+   "price": 249.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 249.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 1 tb western digital black sn850x nvme ssd pcie type 2280",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-msi-x870e-gaming-plus-wifi-atx-mainboard-socket-am5-amd-x870",
    "cat": "Mainboards",
    "sub": "AM5 X870",
@@ -27517,6 +31132,35 @@
    ],
    "count": 1,
    "tags": "monitore 27\" asus tuf gaming vg27aqm5a qhd monitor zoll 2560 1440 fast ips reaktionszeit 300 lautsprecher elmb sync",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-patriot-p400-lite-ssd-pcie-4-0-m-2-typ-2280-2-tb",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 2 TB",
+   "name": "Patriot P400 Lite SSD, PCIe 4.0 M.2 Typ 2280 - 2 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/patriot-p400-lite-ssd-pcie-4.0-m.2-type-2280-2-tb/SSPM-026.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 251.05,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/patriot-p400-lite-ssd-pcie-4.0-m.2-type-2280-2-tb/SSPM-026.html"
+    }
+   ],
+   "price": 251.05,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 251.05
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 2 tb patriot p400 lite ssd pcie typ 2280",
    "firstSeen": "2026-10-30"
   },
   {
@@ -27604,6 +31248,35 @@
    ],
    "count": 1,
    "tags": "monitore 31,5\" aoc gaming c32g2ze curved monitor full 240 schwarz 6492650",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-samsung-9100-pro-series-nvme-ssd-pcie-5-0-m-2-typ-2280-mit-k",
+   "cat": "SSDs",
+   "sub": "PCIe 5.0 1 TB",
+   "name": "Samsung 9100 PRO Series NVMe SSD, PCIe 5.0 M.2 Typ 2280, mit Kühlkörper - 1TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/samsung-9100-pro-series-nvme-ssd-pcie-5.0-m.2-type-2280-with-heatsink-1tb/SSSS-210.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 252.38,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/samsung-9100-pro-series-nvme-ssd-pcie-5.0-m.2-type-2280-with-heatsink-1tb/SSSS-210.html"
+    }
+   ],
+   "price": 252.38,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 252.38
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 5.0 1 tb samsung 9100 pro series nvme ssd pcie typ 2280 mit kuhlkorper 1tb",
    "firstSeen": "2026-10-30"
   },
   {
@@ -27839,6 +31512,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-fractal-design-meshify-3-xl-ambience-pro-rgb-pc-gehause-big-",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Fractal Design Meshify 3 XL Ambience Pro RGB PC Gehäuse - Big-Tower, E-ATX, Tempered Glass - weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/fractal-design-meshify-3-xl-ambience-pro-rgb-pc-gehaeuse-big-tower-e-atx-tempered-glass-weiss/GEFD-202.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 256.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/fractal-design-meshify-3-xl-ambience-pro-rgb-pc-gehaeuse-big-tower-e-atx-tempered-glass-weiss/GEFD-202.html"
+    }
+   ],
+   "price": 256.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 256.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause fractal design meshify ambience pro rgb big tower atx tempered glass weiss",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-gigabyte-g34wqc2-curved-gaming-monitor-34-uwqhd-va-200-hz-sc",
    "cat": "Monitore",
    "sub": "34\"",
@@ -28039,6 +31741,35 @@
    ],
    "count": 1,
    "tags": "arbeitsspeicher ddr4 16 gb kingston fury beast rgb ddr4 3200 cl16 dimm schwarz 100049092",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-fractal-design-torrent-rgb-midi-tower-light-tint-tempered-gl",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Fractal Design Torrent RGB Midi-Tower Light Tint, Tempered Glass, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/fractal-design-torrent-rgb-midi-tower-light-tint-tempered-glass-schwarz/GEFD-138.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 259.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/fractal-design-torrent-rgb-midi-tower-light-tint-tempered-glass-schwarz/GEFD-138.html"
+    }
+   ],
+   "price": 259.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 259.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause fractal design torrent rgb midi tower light tint tempered glass schwarz",
    "firstSeen": "2026-10-30"
   },
   {
@@ -28311,6 +32042,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-lenovo-toshiba-ssd-512-gb-m-2-2280-pcie-3-0-x4-5834143",
+   "cat": "SSDs",
+   "sub": "NVMe 512 GB",
+   "name": "Lenovo Toshiba SSD 512 GB M.2 2280 PCIe 3.0 x4 | 5834143",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/lenovo-toshiba-ssd-512-gb-m-2-2280-pcie-3-0-x4-5834143/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 265.07,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/lenovo-toshiba-ssd-512-gb-m-2-2280-pcie-3-0-x4-5834143/"
+    }
+   ],
+   "price": 265.07,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 265.07
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 512 gb lenovo toshiba ssd 512 2280 pcie 5834143",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-lc-power-lc-m32-qhd-165-c-v2-31-5-qhd-lcd-monitor-165-hz-sch",
    "cat": "Monitore",
    "sub": "31,5\"",
@@ -28337,6 +32097,35 @@
    ],
    "count": 1,
    "tags": "monitore 31,5\" power m32 qhd 165 lcd monitor schwarz 9122027",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-corsair-frame-4000d-lcd-rs-pc-gehause-midi-tower-atx-argb-te",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "CORSAIR FRAME 4000D LCD RS PC-Gehäuse, Midi-Tower, ATX, ARGB, Tempered Glass - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/corsair-frame-4000d-lcd-rs-pc-gehaeuse-midi-tower-atx-argb-tempered-glass-schwarz/GECS-223.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 265.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/corsair-frame-4000d-lcd-rs-pc-gehaeuse-midi-tower-atx-argb-tempered-glass-schwarz/GECS-223.html"
+    }
+   ],
+   "price": 265.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 265.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause corsair frame 4000d lcd midi tower atx argb tempered glass schwarz",
    "firstSeen": "2026-10-30"
   },
   {
@@ -28953,6 +32742,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-kingston-nv3-nvme-ssd-pcie-4-0-m-2-typ-2280-2-tb",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 2 TB",
+   "name": "Kingston NV3 NVMe-SSD, PCIe 4.0, M.2 Typ 2280 - 2 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/kingston-nv3-nvme-ssd-pcie-4.0-m.2-type-2280-2-tb/SSKT-079.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 279.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/kingston-nv3-nvme-ssd-pcie-4.0-m.2-type-2280-2-tb/SSKT-079.html"
+    }
+   ],
+   "price": 279.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 279.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 2 tb kingston nv3 nvme ssd pcie typ 2280",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-acer-pd163qsmiuux-15-6-full-hd-monitor-silber-100592695",
    "cat": "Monitore",
    "sub": "15,6\"",
@@ -29214,6 +33032,64 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-havn-hs-420-vgpu-pc-gehause-midi-tower-e-atx-tempered-glass-",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "HAVN HS 420 VGPU PC-Gehäuse, Midi-Tower, E-ATX, Tempered Glass, PCIe 5.0 Riser Kabel - weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/havn-hs-420-vgpu-pc-gehaeuse-midi-tower-e-atx-tempered-glass-pcie-5.0-riser-kabel-weiss/GEHV-003.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 289.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/havn-hs-420-vgpu-pc-gehaeuse-midi-tower-e-atx-tempered-glass-pcie-5.0-riser-kabel-weiss/GEHV-003.html"
+    }
+   ],
+   "price": 289.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 289.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause havn 420 vgpu midi tower atx tempered glass pcie riser kabel weiss",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-havn-hs-420-vgpu-pc-gehause-midi-tower-e-atx-tempered-glass--way4v",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "HAVN HS 420 VGPU PC-Gehäuse, Midi-Tower, E-ATX, Tempered Glass, PCIe 5.0 Riser Kabel - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/havn-hs-420-vgpu-pc-gehaeuse-midi-tower-e-atx-tempered-glass-pcie-5.0-riser-kabel-schwarz/GEHV-004.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 289.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/havn-hs-420-vgpu-pc-gehaeuse-midi-tower-e-atx-tempered-glass-pcie-5.0-riser-kabel-schwarz/GEHV-004.html"
+    }
+   ],
+   "price": 289.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 289.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause havn 420 vgpu midi tower atx tempered glass pcie riser kabel schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-gigabyte-x870e-a-elite-wifi7-mainboard-sockel-am5-amd-x870e-",
    "cat": "Mainboards",
    "sub": "AM5 X870",
@@ -29417,6 +33293,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-samsung-870-evo-2-5-zoll-ssd-sata-6g-1-tb",
+   "cat": "SSDs",
+   "sub": "SATA 1 TB",
+   "name": "Samsung 870 EVO 2,5 Zoll SSD, SATA 6G - 1 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/samsung-870-evo-2.5-inch-ssd-sata-6g-1-tb/SSSS-179.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 297.05,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/samsung-870-evo-2.5-inch-ssd-sata-6g-1-tb/SSSS-179.html"
+    }
+   ],
+   "price": 297.05,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 297.05
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 1 tb samsung 870 evo zoll ssd sata",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-gigabyte-g34wqc2-34-zoll-wqhd-gaming-monitor-200hz-va-panel-",
    "cat": "Monitore",
    "sub": "34\"",
@@ -29530,6 +33435,35 @@
    ],
    "count": 1,
    "tags": "mainboards am5 b850 msi mag b850 tomahawk max wifi mainboard sockel am5 amd atx ddr5",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-samsung-990-pro-1-tb-ssd-m-2-nvme-pcie-4-0-mit-kuhlkorper-92",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 1 TB",
+   "name": "Samsung 990 PRO 1 TB SSD M.2 NVMe PCIe 4.0 mit Kühlkörper | 9247569",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/samsung-990-pro-1-tb-ssd-m-2-nvme-pcie-4-0-mit-kuehlkoerper-9247569/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 300.23,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/samsung-990-pro-1-tb-ssd-m-2-nvme-pcie-4-0-mit-kuehlkoerper-9247569/"
+    }
+   ],
+   "price": 300.23,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 300.23
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 1 tb samsung 990 pro ssd nvme pcie mit kuhlkorper 9247569",
    "firstSeen": "2026-10-30"
   },
   {
@@ -30390,6 +34324,35 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-integral-v-series-v2-2-5-interne-ssd-2-tb-sata-iii-100874475",
+   "cat": "SSDs",
+   "sub": "SATA 2 TB",
+   "name": "Integral V-Series V2 2,5\" Interne SSD 2 TB SATA III | 100874475",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/integral-v-series-v2-2-5-interne-ssd-2-tb-sata-iii-100874475/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 328.13,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/integral-v-series-v2-2-5-interne-ssd-2-tb-sata-iii-100874475/"
+    }
+   ],
+   "price": 328.13,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 328.13
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 2 tb integral series interne ssd sata iii 100874475",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-hp-e14-g4-led-monitor-35-6-cm-14-14-sichtbar-tragbar-1920-x-",
    "cat": "Monitore",
    "sub": "14\"",
@@ -30651,6 +34614,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-sandisk-ssd-plus-2-tb-2-5-sata-ssd-schwarz-6096948",
+   "cat": "SSDs",
+   "sub": "SATA 2 TB",
+   "name": "SanDisk SSD PLUS 2 TB 2.5\" SATA SSD Schwarz | 6096948",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/sandisk-ssd-plus-2-tb-2-5-sata-ssd-schwarz-6096948/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 334.53,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/sandisk-ssd-plus-2-tb-2-5-sata-ssd-schwarz-6096948/"
+    }
+   ],
+   "price": 334.53,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 334.53
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 2 tb sandisk ssd plus sata schwarz 6096948",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-iiyama-prolite-t2454msc-b3ag-24-touchscreen-monitor-1920-x-1",
    "cat": "Monitore",
    "sub": "24\"",
@@ -30764,6 +34756,35 @@
    ],
    "count": 1,
    "tags": "monitore 27\" asus tuf gaming vg27uq1a zoll monitor 160hz ips freesync premium",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-lenovo-thinkpad-1-tb-pcie-4-0-nvme-m-2-2280-ssd-7090960",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 1 TB",
+   "name": "Lenovo ThinkPad 1 TB PCIe 4.0 NVMe M.2 2280 SSD | 7090960",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/lenovo-thinkpad-1-tb-pcie-4-0-nvme-m-2-2280-ssd-7090960/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 339.11,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/lenovo-thinkpad-1-tb-pcie-4-0-nvme-m-2-2280-ssd-7090960/"
+    }
+   ],
+   "price": 339.11,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 339.11
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 1 tb lenovo thinkpad pcie nvme 2280 ssd 7090960",
    "firstSeen": "2026-10-30"
   },
   {
@@ -31174,6 +35195,35 @@
    ],
    "count": 1,
    "tags": "mainboards am5 x870 asus rog strix x870 gaming wifi mainboard amd am5 ddr5 atx weiss 100509199",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-lenovo-sk-hynix-ssd-512-gb-m-2-2280-pcie-4-0-x4-nvme-9088676",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 512 GB",
+   "name": "Lenovo SK Hynix SSD 512 GB M.2 2280 PCIe 4.0 x4 NVMe | 9088676",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/lenovo-sk-hynix-ssd-512-gb-m-2-2280-pcie-4-0-x4-nvme-9088676/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 354.13,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/lenovo-sk-hynix-ssd-512-gb-m-2-2280-pcie-4-0-x4-nvme-9088676/"
+    }
+   ],
+   "price": 354.13,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 354.13
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 512 gb lenovo hynix ssd 512 2280 pcie nvme 9088676",
    "firstSeen": "2026-10-30"
   },
   {
@@ -31641,6 +35691,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-samsung-980-nvme-ssd-pcie-3-0-m-2-typ-2280-1-tb",
+   "cat": "SSDs",
+   "sub": "NVMe 1 TB",
+   "name": "Samsung 980 NVMe SSD, PCIe 3.0 M.2 Typ 2280 - 1 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/samsung-980-nvme-ssd-pcie-3.0-m.2-type-2280-1-tb/SSSS-188.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 371.1,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/samsung-980-nvme-ssd-pcie-3.0-m.2-type-2280-1-tb/SSSS-188.html"
+    }
+   ],
+   "price": 371.1,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 371.1
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 1 tb samsung 980 nvme ssd pcie typ 2280",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-proart-pa24acrv-23-8-qhd-ips-monitor-hdmi-displayport-u",
    "cat": "Monitore",
    "sub": "23,8\"",
@@ -31989,6 +36068,64 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asus-rog-hyperion-gr701-btf-edition-pc-gehause-big-tower-e-a",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "ASUS ROG Hyperion GR701 BTF Edition PC-Gehäuse, Big-Tower, E-ATX, Tempered Glass - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/asus-rog-hyperion-gr701-btf-edition-pc-gehaeuse-big-tower-e-atx-tempered-glass-schwarz/GEAS-056.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 379.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/asus-rog-hyperion-gr701-btf-edition-pc-gehaeuse-big-tower-e-atx-tempered-glass-schwarz/GEAS-056.html"
+    }
+   ],
+   "price": 379.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 379.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause asus rog hyperion gr701 btf edition big tower atx tempered glass schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-msi-spatium-m461-ssd-pcie-4-0-m-2-typ-2280-2-tb",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 2 TB",
+   "name": "MSI Spatium M461 SSD, PCIe 4.0 M.2 Typ 2280 - 2 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/msi-spatium-m461-ssd-pcie-4.0-m.2-type-2280-2-tb/SSMS-003.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 380.77,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/msi-spatium-m461-ssd-pcie-4.0-m.2-type-2280-2-tb/SSMS-003.html"
+    }
+   ],
+   "price": 380.77,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 380.77
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 2 tb msi spatium m461 ssd pcie typ 2280",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-viewsonic-vg3419c-led-monitor-gebogen-86-4-cm-34-3440-x-1440",
    "cat": "Monitore",
    "sub": "34\"",
@@ -32044,6 +36181,35 @@
    ],
    "count": 1,
    "tags": "monitore 17\" iiyama prolite t1731sr b2s touch monitor 1280 1024 schwarz 100865677",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-samsung-870-evo-1-tb-ssd-2-5-sata-iii-schwarz-100540084",
+   "cat": "SSDs",
+   "sub": "SATA 1 TB",
+   "name": "Samsung 870 EVO 1 TB SSD 2.5\" SATA III Schwarz | 100540084",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/samsung-870-evo-1-tb-ssd-2-5-sata-iii-schwarz-100540084/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 381.32,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/samsung-870-evo-1-tb-ssd-2-5-sata-iii-schwarz-100540084/"
+    }
+   ],
+   "price": 381.32,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 381.32
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 1 tb samsung 870 evo ssd sata iii schwarz 100540084",
    "firstSeen": "2026-10-30"
   },
   {
@@ -32544,6 +36710,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-hyte-y70-touch-infinite-pc-gehause-midi-tower-atx-tempered-g",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Hyte Y70 Touch Infinite PC-Gehäuse, Midi-Tower, ATX, Tempered Glass - Panda",
+   "source": "crawler",
+   "url": "https://www.caseking.de/hyte-y70-touch-infinite-pc-gehaeuse-midi-tower-atx-tempered-glass-panda/GEHY-035.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 399.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/hyte-y70-touch-infinite-pc-gehaeuse-midi-tower-atx-tempered-glass-panda/GEHY-035.html"
+    }
+   ],
+   "price": 399.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 399.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause hyte y70 touch infinite midi tower atx tempered glass panda",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-kingston-fury-beast-rgb-16-gb-ddr5-6000-cl36-dimm-weiss-1004",
    "cat": "Arbeitsspeicher",
    "sub": "DDR5 16 GB",
@@ -32689,6 +36884,64 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-hyte-y70-touch-infinite-pc-gehause-midi-tower-tempered-glass",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Hyte Y70 Touch Infinite PC-Gehäuse, Midi Tower, Tempered Glass - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/hyte-y70-touch-infinite-pc-gehaeuse-midi-tower-tempered-glass-schwarz/GEHY-037.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 409.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/hyte-y70-touch-infinite-pc-gehaeuse-midi-tower-tempered-glass-schwarz/GEHY-037.html"
+    }
+   ],
+   "price": 409.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 409.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause hyte y70 touch infinite midi tower tempered glass schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-samsung-990-pro-series-nvme-ssd-pcie-4-0-m-2-typ-2280-mit-ku-6zcyo",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 2 TB",
+   "name": "Samsung 990 PRO Series NVMe SSD, PCIe 4.0 M.2 Typ 2280, mit Kühlkörper - 2 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/samsung-990-pro-series-nvme-ssd-pcie-4.0-m.2-type-2280-with-heatsink-2-tb/SSSS-196.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 410.29,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/samsung-990-pro-series-nvme-ssd-pcie-4.0-m.2-type-2280-with-heatsink-2-tb/SSSS-196.html"
+    }
+   ],
+   "price": 410.29,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 410.29
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 2 tb samsung 990 pro series nvme ssd pcie typ 2280 mit kuhlkorper",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-rog-strix-x870-i-gaming-wifi-mainboard-amd-x870-sockel-",
    "cat": "Mainboards",
    "sub": "AM5 X870",
@@ -32773,6 +37026,35 @@
    ],
    "count": 1,
    "tags": "monitore 27\" aoc agon pro ag276fk gaming monitor 1920 1080 ips 520 matte gray 100546954",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-lenovo-512-gb-ssd-pcie-gen4-nvme-m-2-2280-opal2-100280281",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 512 GB",
+   "name": "Lenovo 512 GB SSD PCIe Gen4 NVMe M.2 2280 OPAL2 | 100280281",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/lenovo-512-gb-ssd-pcie-gen4-nvme-m-2-2280-opal2-100280281/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 413.74,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/lenovo-512-gb-ssd-pcie-gen4-nvme-m-2-2280-opal2-100280281/"
+    }
+   ],
+   "price": 413.74,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 413.74
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 512 gb lenovo 512 ssd pcie gen4 nvme 2280 opal2 100280281",
    "firstSeen": "2026-10-30"
   },
   {
@@ -32918,6 +37200,35 @@
    ],
    "count": 1,
    "tags": "monitore 23,8\" sharp multisync ea242f ips led monitor 1920 1080 schwarz 100675501",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-western-digital-blue-sa510-2-5-zoll-ssd-sata-6g-2-tb",
+   "cat": "SSDs",
+   "sub": "SATA 2 TB",
+   "name": "Western Digital Blue SA510 2,5 Zoll SSD, SATA 6G - 2 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/western-digital-blue-sa510-2.5-inch-ssd-sata-6g-2-tb/SSWD-073.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 417.24,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/western-digital-blue-sa510-2.5-inch-ssd-sata-6g-2-tb/SSWD-073.html"
+    }
+   ],
+   "price": 417.24,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 417.24
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 2 tb western digital blue sa510 zoll ssd sata",
    "firstSeen": "2026-10-30"
   },
   {
@@ -33306,6 +37617,35 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-samsung-990-pro-mz-v9p2t0gw-ssd-2-tb-m-2-2280-nvme-pcie-4-0-",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 2 TB",
+   "name": "Samsung 990 PRO MZ-V9P2T0GW SSD 2 TB M.2 2280 NVMe PCIe 4.0 mit Kühlkörper | 9247568",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/samsung-990-pro-mz-v9p2t0gw-ssd-2-tb-m-2-2280-nvme-pcie-4-0-mit-kuehlkoerper-9247568/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 438.62,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/samsung-990-pro-mz-v9p2t0gw-ssd-2-tb-m-2-2280-nvme-pcie-4-0-mit-kuehlkoerper-9247568/"
+    }
+   ],
+   "price": 438.62,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 438.62
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 2 tb samsung 990 pro v9p2t0gw ssd 2280 nvme pcie mit kuhlkorper 9247568",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-sandisk-wd-black-sn8100-ssd-2tb-m-2-2280-pcie-gen5-nvme-inte",
    "cat": "SSDs",
    "sub": "PCIe 5.0 2 TB",
@@ -33666,6 +38006,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-samsung-990-pro-2-tb-ssd-m-2-nvme-8001471",
+   "cat": "SSDs",
+   "sub": "NVMe 2 TB",
+   "name": "Samsung 990 PRO 2 TB SSD M.2 NVMe | 8001471",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/samsung-990-pro-2-tb-ssd-m-2-nvme-8001471/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 457.96,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/samsung-990-pro-2-tb-ssd-m-2-nvme-8001471/"
+    }
+   ],
+   "price": 457.96,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 457.96
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 2 tb samsung 990 pro ssd nvme 8001471",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-msi-mpg-x870e-carbon-wifi-mainboard-amd-x870e-am5-atx-ddr5-s",
    "cat": "Mainboards",
    "sub": "AM5 X870",
@@ -33989,6 +38358,64 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-samsung-9100-pro-series-nvme-ssd-pcie-5-0-m-2-typ-2280-2tb",
+   "cat": "SSDs",
+   "sub": "PCIe 5.0 2 TB",
+   "name": "Samsung 9100 PRO Series NVMe SSD, PCIe 5.0 M.2 Typ 2280 - 2TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/samsung-9100-pro-series-nvme-ssd-pcie-5.0-m.2-type-2280-2tb/SSSS-208.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 469.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/samsung-9100-pro-series-nvme-ssd-pcie-5.0-m.2-type-2280-2tb/SSSS-208.html"
+    }
+   ],
+   "price": 469.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 469.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 5.0 2 tb samsung 9100 pro series nvme ssd pcie typ 2280 2tb",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-samsung-870-qvo-1-tb-ssd-2-5-sata-iii-6491946",
+   "cat": "SSDs",
+   "sub": "SATA 1 TB",
+   "name": "Samsung 870 QVO 1 TB SSD 2,5\" SATA III | 6491946",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/samsung-870-qvo-1-tb-ssd-2-5-sata-iii-6491946/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 470.38,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/samsung-870-qvo-1-tb-ssd-2-5-sata-iii-6491946/"
+    }
+   ],
+   "price": 470.38,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 470.38
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 1 tb samsung 870 qvo ssd sata iii 6491946",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-iiyama-prolite-tf1734mc-b8x-17-tn-touch-monitor-1280-x-1024-",
    "cat": "Monitore",
    "sub": "17\"",
@@ -34134,6 +38561,35 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-lenovo-sk-hynix-ssd-1-tb-m-2-2280-pcie-4-0-x4-nvme-fru-90886",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 1 TB",
+   "name": "Lenovo SK Hynix SSD 1 TB M.2 2280 PCIe 4.0 x4 NVMe FRU | 9088677",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/lenovo-sk-hynix-ssd-1-tb-m-2-2280-pcie-4-0-x4-nvme-fru-9088677/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 482.22,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/lenovo-sk-hynix-ssd-1-tb-m-2-2280-pcie-4-0-x4-nvme-fru-9088677/"
+    }
+   ],
+   "price": 482.22,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 482.22
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 1 tb lenovo hynix ssd 2280 pcie nvme fru 9088677",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-samsung-odyssey-g7-s37fg750eu-37-3840-x-2160-165-hz-gaming-m",
    "cat": "Monitore",
    "sub": "37\"",
@@ -34218,6 +38674,35 @@
    ],
    "count": 1,
    "tags": "mainboards am5 x870 asus rog strix x870e gaming wifi mainboard atx sockel am5 amd ddr5 schwarz 100510008",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-wd-red-sn700-wds500g1r0c-500-gb-m-2-nvme-ssd-7397902",
+   "cat": "SSDs",
+   "sub": "NVMe 500 GB",
+   "name": "WD Red SN700 WDS500G1R0C 500 GB M.2 NVMe SSD | 7397902",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/wd-red-sn700-wds500g1r0c-500-gb-m-2-nvme-ssd-7397902/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 484.81,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/wd-red-sn700-wds500g1r0c-500-gb-m-2-nvme-ssd-7397902/"
+    }
+   ],
+   "price": 484.81,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 484.81
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 500 gb red sn700 wds500g1r0c 500 nvme ssd 7397902",
    "firstSeen": "2026-10-30"
   },
   {
@@ -34363,6 +38848,35 @@
    ],
    "count": 1,
    "tags": "monitore 27\" gigabyte mo27q2a zoll qhd gaming monitor 280hz oled panel freesync premium pro",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-transcend-msa372m-256-gb-msata-ssd-7523308",
+   "cat": "SSDs",
+   "sub": "SATA 256 GB",
+   "name": "Transcend MSA372M 256 GB mSATA SSD | 7523308",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/transcend-msa372m-256-gb-msata-ssd-7523308/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 490.88,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/transcend-msa372m-256-gb-msata-ssd-7523308/"
+    }
+   ],
+   "price": 490.88,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 490.88
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 256 gb transcend msa372m 256 msata ssd 7523308",
    "firstSeen": "2026-10-30"
   },
   {
@@ -34598,6 +39112,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-msi-spatium-m571-2-tb-ssd-m-2-pcie-gen5-x4-nvme-100697845",
+   "cat": "SSDs",
+   "sub": "PCIe 5.0 2 TB",
+   "name": "MSI Spatium M571 2 TB SSD M.2 PCIe Gen5 x4 NVMe | 100697845",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/msi-spatium-m571-2-tb-ssd-m-2-pcie-gen5-x4-nvme-100697845/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 506.77,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/msi-spatium-m571-2-tb-ssd-m-2-pcie-gen5-x4-nvme-100697845/"
+    }
+   ],
+   "price": 506.77,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 506.77
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 5.0 2 tb msi spatium m571 ssd pcie gen5 nvme 100697845",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-samsung-odyssey-oled-g6-g60sd-27-zoll-gaming-monitor-360hz-q",
    "cat": "Monitore",
    "sub": "27\"",
@@ -34656,6 +39199,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-samsung-9100-pro-heatsink-m-2-nvme-ssd-2-tb-pcie-5-0-schwarz",
+   "cat": "SSDs",
+   "sub": "PCIe 5.0 2 TB",
+   "name": "Samsung 9100 PRO Heatsink M.2 NVMe SSD 2 TB PCIe 5.0 Schwarz | 100560268",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/samsung-9100-pro-heatsink-m-2-nvme-ssd-2-tb-pcie-5-0-schwarz-100560268/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 525.85,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/samsung-9100-pro-heatsink-m-2-nvme-ssd-2-tb-pcie-5-0-schwarz-100560268/"
+    }
+   ],
+   "price": 525.85,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 525.85
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 5.0 2 tb samsung 9100 pro heatsink nvme ssd pcie schwarz 100560268",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-gigabyte-geforce-rtx-5060-windforce-oc-8192-mb-gddr7",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5060",
@@ -34687,6 +39259,35 @@
    "count": 1,
    "tags": "grafikkarten geforce rtx 5060 gigabyte geforce rtx 5060 windforce 8192 gddr7",
    "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-samsung-9100-pro-series-nvme-ssd-pcie-5-0-m-2-typ-2280-mit-k-9l6if",
+   "cat": "SSDs",
+   "sub": "PCIe 5.0 2 TB",
+   "name": "Samsung 9100 PRO Series NVMe SSD, PCIe 5.0 M.2 Typ 2280, mit Kühlkörper - 2TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/samsung-9100-pro-series-nvme-ssd-pcie-5.0-m.2-type-2280-with-heatsink-2tb/SSSS-211.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 529.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/samsung-9100-pro-series-nvme-ssd-pcie-5.0-m.2-type-2280-with-heatsink-2tb/SSSS-211.html"
+    }
+   ],
+   "price": 529.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 529.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 5.0 2 tb samsung 9100 pro series nvme ssd pcie typ 2280 mit kuhlkorper 2tb",
+   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-asus-proart-z890-creator-wifi-intel-z890-lga-1851-ddr5-atx-s",
@@ -35053,6 +39654,35 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-samsung-pm893-480-gb-ssd-2-5-sata-6gb-s-7102257",
+   "cat": "SSDs",
+   "sub": "SATA 480 GB",
+   "name": "Samsung PM893 480 GB SSD 2.5\" SATA 6Gb/s | 7102257",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/samsung-pm893-480-gb-ssd-2-5-sata-6gb-s-7102257/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 550.33,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/samsung-pm893-480-gb-ssd-2-5-sata-6gb-s-7102257/"
+    }
+   ],
+   "price": 550.33,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 550.33
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 480 gb samsung pm893 480 ssd sata 6gb 7102257",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-pro-ws-w680m-ace-se-mainboard-lga-1700-intel-w680-ddr5-",
    "cat": "Mainboards",
    "sub": "Mainboards",
@@ -35282,6 +39912,35 @@
    ],
    "count": 1,
    "tags": "mainboards asus p13r 10g mainboard atx lga1700 intel c266 10gb lan ddr5 schwarz 100513628",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-western-digital-black-sn770m-2-tb-m-2-pcie-4-0-nvme-ssd-1005",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 2 TB",
+   "name": "Western Digital Black SN770M 2 TB M.2 PCIe 4.0 NVMe SSD | 100548531",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/western-digital-black-sn770m-2-tb-m-2-pcie-4-0-nvme-ssd-100548531/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 568.82,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/western-digital-black-sn770m-2-tb-m-2-pcie-4-0-nvme-ssd-100548531/"
+    }
+   ],
+   "price": 568.82,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 568.82
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 2 tb western digital black sn770m pcie nvme ssd 100548531",
    "firstSeen": "2026-10-30"
   },
   {
@@ -35732,6 +40391,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-samsung-870-evo-mz-77e2t0b-2-tb-ssd-2-5-sata-iii-schwarz-695",
+   "cat": "SSDs",
+   "sub": "SATA 2 TB",
+   "name": "Samsung 870 EVO MZ-77E2T0B 2 TB SSD 2.5\" SATA III Schwarz | 6951389",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/samsung-870-evo-mz-77e2t0b-2-tb-ssd-2-5-sata-iii-schwarz-6951389/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 596.76,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/samsung-870-evo-mz-77e2t0b-2-tb-ssd-2-5-sata-iii-schwarz-6951389/"
+    }
+   ],
+   "price": 596.76,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 596.76
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 2 tb samsung 870 evo 77e2t0b ssd sata iii schwarz 6951389",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-benq-rd280u-28-2-4k-ips-monitor-schwarz-100499305",
    "cat": "Monitore",
    "sub": "28,2\"",
@@ -35943,6 +40631,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-samsung-870-evo-2-5-zoll-ssd-sata-6g-2-tb",
+   "cat": "SSDs",
+   "sub": "SATA 2 TB",
+   "name": "Samsung 870 EVO 2,5 Zoll SSD, SATA 6G - 2 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/samsung-870-evo-2.5-inch-ssd-sata-6g-2-tb/SSSS-180.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 605.66,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/samsung-870-evo-2.5-inch-ssd-sata-6g-2-tb/SSSS-180.html"
+    }
+   ],
+   "price": 605.66,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 605.66
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 2 tb samsung 870 evo zoll ssd sata",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-rog-crosshair-x870e-hero-mainboard-amd-x870e-sockel-am5",
    "cat": "Mainboards",
    "sub": "AM5 X870",
@@ -36117,6 +40834,35 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-western-digital-wd-black-sn8100-nvme-ssd-2-tb-m-2-pcie-5-0-1",
+   "cat": "SSDs",
+   "sub": "PCIe 5.0 2 TB",
+   "name": "Western Digital WD_BLACK SN8100 NVMe SSD 2 TB M.2 PCIe 5.0 | 100861041",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/western-digital-wd-black-sn8100-nvme-ssd-2-tb-m-2-pcie-5-0-100861041/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 618.48,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/western-digital-wd-black-sn8100-nvme-ssd-2-tb-m-2-pcie-5-0-100861041/"
+    }
+   ],
+   "price": 618.48,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 618.48
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 5.0 2 tb western digital black sn8100 nvme ssd pcie 100861041",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-g-skill-trident-z5-neo-ddr5-6000-ram-cl36-expo-32-gb-dual-ki",
    "cat": "Arbeitsspeicher",
    "sub": "DDR5 32 GB",
@@ -36270,6 +41016,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-wd-red-sn700-wds100t1r0c-1-tb-ssd-m-2-2280-pcie-3-0-x4-nvme-",
+   "cat": "SSDs",
+   "sub": "NVMe 1 TB",
+   "name": "WD Red SN700 WDS100T1R0C 1 TB SSD M.2 2280 PCIe 3.0 x4 (NVMe) | 7397904",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/wd-red-sn700-wds100t1r0c-1-tb-ssd-m-2-2280-pcie-3-0-x4-nvme-7397904/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 624.35,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/wd-red-sn700-wds100t1r0c-1-tb-ssd-m-2-2280-pcie-3-0-x4-nvme-7397904/"
+    }
+   ],
+   "price": 624.35,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 624.35
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 1 tb red sn700 wds100t1r0c ssd 2280 pcie nvme 7397904",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-t-force-vulcan-ddr5-32-gb-ram-2x16-gb-6000-mhz-cl38-schwarz-",
    "cat": "Arbeitsspeicher",
    "sub": "DDR5 32 GB",
@@ -36358,6 +41133,93 @@
    ],
    "count": 1,
    "tags": "monitore 49\" samsung odyssey g91f zoll gaming monitor 144 sync compatible",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-samsung-990-evo-plus-nvme-2-0-ssd-pcie-4-0-x4-5-0-x2-typ-228-89eyq",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 4 TB",
+   "name": "Samsung 990 Evo Plus NVMe 2.0 SSD, PCIe 4.0 x4 / 5.0 x2, Typ 2280 - 4 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/samsung-990-evo-plus-nvme-2.0-ssd-pcie-4.0-x4-5.0-x2-type-2280-4-tb/SSSS-206.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 629.07,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/samsung-990-evo-plus-nvme-2.0-ssd-pcie-4.0-x4-5.0-x2-type-2280-4-tb/SSSS-206.html"
+    }
+   ],
+   "price": 629.07,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 629.07
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 4 tb samsung 990 evo plus nvme ssd pcie typ 2280",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-western-digital-blue-sa510-2-5-zoll-ssd-sata-6g-4-tb",
+   "cat": "SSDs",
+   "sub": "SATA 4 TB",
+   "name": "Western Digital Blue SA510 2,5 Zoll SSD, SATA 6G - 4 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/western-digital-blue-sa510-2.5-inch-ssd-sata-6g-4-tb/SSWD-074.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 629.34,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/western-digital-blue-sa510-2.5-inch-ssd-sata-6g-4-tb/SSWD-074.html"
+    }
+   ],
+   "price": 629.34,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 629.34
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 4 tb western digital blue sa510 zoll ssd sata",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-samsung-980-pro-nvme-m-2-ssd-2-tb-6951385",
+   "cat": "SSDs",
+   "sub": "NVMe 2 TB",
+   "name": "Samsung 980 PRO NVMe M.2 SSD 2 TB | 6951385",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/samsung-980-pro-nvme-m-2-ssd-2-tb-6951385/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 638.09,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/samsung-980-pro-nvme-m-2-ssd-2-tb-6951385/"
+    }
+   ],
+   "price": 638.09,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 638.09
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 2 tb samsung 980 pro nvme ssd 6951385",
    "firstSeen": "2026-10-30"
   },
   {
@@ -37790,6 +42652,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-samsung-990-pro-series-nvme-ssd-pcie-4-0-m-2-typ-2280-mit-ku-4kfj8",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 4 TB",
+   "name": "Samsung 990 PRO Series NVMe SSD, PCIe 4.0 M.2 Typ 2280, mit Kühlkörper - 4 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/samsung-990-pro-series-nvme-ssd-pcie-4.0-m.2-type-2280-with-heatsink-4-tb/SSSS-201.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 732.35,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/samsung-990-pro-series-nvme-ssd-pcie-4.0-m.2-type-2280-with-heatsink-4-tb/SSSS-201.html"
+    }
+   ],
+   "price": 732.35,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 732.35
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 4 tb samsung 990 pro series nvme ssd pcie typ 2280 mit kuhlkorper",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-ag-neovo-x-2402w-24-led-monitor-1920-x-1080-full-hd-weiss-10",
    "cat": "Monitore",
    "sub": "24\"",
@@ -38428,6 +43319,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-msi-spatium-m571-4-tb-m-2-pcie-gen5-x4-nvme-ssd-100697846",
+   "cat": "SSDs",
+   "sub": "PCIe 5.0 4 TB",
+   "name": "MSI Spatium M571 4 TB M.2 PCIe Gen5 x4 NVMe SSD | 100697846",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/msi-spatium-m571-4-tb-m-2-pcie-gen5-x4-nvme-ssd-100697846/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 806.65,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/msi-spatium-m571-4-tb-m-2-pcie-gen5-x4-nvme-ssd-100697846/"
+    }
+   ],
+   "price": 806.65,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 806.65
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 5.0 4 tb msi spatium m571 pcie gen5 nvme ssd 100697846",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-pro-ws-w790-ace-mainboard-sockel-lga-4677-intel-w790-dd",
    "cat": "Mainboards",
    "sub": "Mainboards",
@@ -38483,6 +43403,35 @@
    ],
    "count": 1,
    "tags": "arbeitsspeicher ddr5 32 gb kingston fury beast ddr5 6400 mhz dimm schwarz 100495404",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-samsung-870-qvo-2-tb-ssd-2-5-sata-iii-6491947",
+   "cat": "SSDs",
+   "sub": "SATA 2 TB",
+   "name": "Samsung 870 QVO 2 TB SSD 2.5\" SATA III | 6491947",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/samsung-870-qvo-2-tb-ssd-2-5-sata-iii-6491947/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 825.28,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/samsung-870-qvo-2-tb-ssd-2-5-sata-iii-6491947/"
+    }
+   ],
+   "price": 825.28,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 825.28
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 2 tb samsung 870 qvo ssd sata iii 6491947",
    "firstSeen": "2026-10-30"
   },
   {
@@ -38686,6 +43635,35 @@
    ],
    "count": 1,
    "tags": "monitore 27\" alogic clarity pro 27c4kpdw 6cm uhd ips monitor hdmi usb energieklasse 100506554",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-lenovo-4xb1s30112-ssd-1-tb-m-2-2280-pci-express-5-0-x4-nvme-",
+   "cat": "SSDs",
+   "sub": "NVMe 1 TB",
+   "name": "Lenovo 4XB1S30112 SSD 1 TB M.2 2280 PCI Express 5.0 x4 NVMe | 100591969",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/lenovo-4xb1s30112-ssd-1-tb-m-2-2280-pci-express-5-0-x4-nvme-100591969/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 837.89,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/lenovo-4xb1s30112-ssd-1-tb-m-2-2280-pci-express-5-0-x4-nvme-100591969/"
+    }
+   ],
+   "price": 837.89,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 837.89
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 1 tb lenovo 4xb1s30112 ssd 2280 pci express nvme 100591969",
    "firstSeen": "2026-10-30"
   },
   {
@@ -39045,6 +44023,35 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-crucial-t700-4-tb-ssd-m-2-pci-express-5-0-nvme-8660898",
+   "cat": "SSDs",
+   "sub": "NVMe 4 TB",
+   "name": "Crucial T700 4 TB SSD M.2 PCI Express 5.0 (NVMe) | 8660898",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/crucial-t700-4-tb-ssd-m-2-pci-express-5-0-nvme-8660898/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 861.02,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/crucial-t700-4-tb-ssd-m-2-pci-express-5-0-nvme-8660898/"
+    }
+   ],
+   "price": 861.02,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 861.02
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 4 tb crucial t700 ssd pci express nvme 8660898",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-supermicro-x13sei-tf-server-mainboard-atx-lga4677-intel-c741",
    "cat": "Mainboards",
    "sub": "Mainboards",
@@ -39390,6 +44397,35 @@
    ],
    "count": 1,
    "tags": "arbeitsspeicher ddr5 32 gb skill flare ram ddr5 6000 cl28 dimm low profile weiss 100545665",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-seagate-firecuda-x1070-2-tb-m-2-ssd-100869169",
+   "cat": "SSDs",
+   "sub": "NVMe 2 TB",
+   "name": "Seagate FireCuda X1070 2 TB M.2 SSD | 100869169",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/seagate-firecuda-x1070-2-tb-m-2-ssd-100869169/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 911.17,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/seagate-firecuda-x1070-2-tb-m-2-ssd-100869169/"
+    }
+   ],
+   "price": 911.17,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 911.17
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 2 tb seagate firecuda x1070 ssd 100869169",
    "firstSeen": "2026-10-30"
   },
   {
@@ -39881,6 +44917,35 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-xfx-radeon-rx-9070-xt-gaming-16gb-gddr6-ram-grafikkarte",
+   "cat": "Grafikkarten",
+   "sub": "Radeon RX 9070 XT",
+   "name": "XFX Radeon RX 9070 XT GAMING - 16GB GDDR6 RAM - Grafikkarte",
+   "source": "crawler",
+   "url": "https://www.proshop.de/Grafikkarte/XFX-Radeon-RX-9070-XT-GAMING-16GB-GDDR6-RAM-Grafikkarte/3383838",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "proshop.de",
+     "price": 963.89,
+     "ship": 5.99,
+     "avail": "Auf Lager",
+     "url": "https://www.proshop.de/Grafikkarte/XFX-Radeon-RX-9070-XT-GAMING-16GB-GDDR6-RAM-Grafikkarte/3383838"
+    }
+   ],
+   "price": 963.89,
+   "shop": "proshop.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 963.89
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten radeon rx 9070 xt xfx radeon 9070 gaming 16gb gddr6 ram grafikkarte",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-gigabyte-geforce-rtx-5070-gaming-oc-12g-12288-mb-gddr7",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5070",
@@ -39912,6 +44977,35 @@
    "count": 1,
    "tags": "grafikkarten geforce rtx 5070 gigabyte geforce rtx 5070 gaming 12g 12288 gddr7",
    "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-samsung-9100-pro-series-nvme-ssd-pcie-5-0-m-2-typ-2280-4tb",
+   "cat": "SSDs",
+   "sub": "PCIe 5.0 4 TB",
+   "name": "Samsung 9100 PRO Series NVMe SSD, PCIe 5.0 M.2 Typ 2280 - 4TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/samsung-9100-pro-series-nvme-ssd-pcie-5.0-m.2-type-2280-4tb/SSSS-209.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 971.61,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/samsung-9100-pro-series-nvme-ssd-pcie-5.0-m.2-type-2280-4tb/SSSS-209.html"
+    }
+   ],
+   "price": 971.61,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 971.61
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 5.0 4 tb samsung 9100 pro series nvme ssd pcie typ 2280 4tb",
+   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-gigabyte-trx50-ai-top-mainboard-e-atx-sockel-str5-ddr5-schwa",
@@ -40003,6 +45097,35 @@
    "count": 1,
    "tags": "grafikkarten geforce rtx 5070 gigabyte geforce rtx 5070 windforce sff 12g 12288 gddr7",
    "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-samsung-9100-pro-ssd-4-tb-m-2-pcie-5-0-nvme-schwarz-10055571",
+   "cat": "SSDs",
+   "sub": "PCIe 5.0 4 TB",
+   "name": "Samsung 9100 PRO SSD 4 TB M.2 PCIe 5.0 NVMe Schwarz | 100555718",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/samsung-9100-pro-ssd-4-tb-m-2-pcie-5-0-nvme-schwarz-100555718/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 981.57,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/samsung-9100-pro-ssd-4-tb-m-2-pcie-5-0-nvme-schwarz-100555718/"
+    }
+   ],
+   "price": 981.57,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 981.57
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 5.0 4 tb samsung 9100 pro ssd pcie nvme schwarz 100555718",
+   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-lg-ultragear-oled-39gs95qe-b-39-zoll-curved-gaming-monitor-2",
@@ -40891,6 +46014,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-samsung-870-evo-2-5-zoll-ssd-sata-6g-4-tb",
+   "cat": "SSDs",
+   "sub": "SATA 4 TB",
+   "name": "Samsung 870 EVO 2,5 Zoll SSD, SATA 6G - 4 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/samsung-870-evo-2.5-inch-ssd-sata-6g-4-tb/SSSS-181.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 1239.11,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/samsung-870-evo-2.5-inch-ssd-sata-6g-4-tb/SSSS-181.html"
+    }
+   ],
+   "price": 1239.11,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 1239.11
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 4 tb samsung 870 evo zoll ssd sata",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-msi-meg-x870e-godlike-mainboard-e-atx-sockel-am5-ddr5-wi-fi-",
    "cat": "Mainboards",
    "sub": "AM5 X870",
@@ -41181,6 +46333,64 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-samsung-pm9a1-mzvl21t0hclr-1-tb-ssd-pcie-4-0-x4-nvme-m-2-692",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 1 TB",
+   "name": "Samsung PM9A1 MZVL21T0HCLR 1 TB SSD PCIe 4.0 x4 NVMe M.2 | 6927631",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/samsung-pm9a1-mzvl21t0hclr-1-tb-ssd-pcie-4-0-x4-nvme-m-2-6927631/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1308.26,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/samsung-pm9a1-mzvl21t0hclr-1-tb-ssd-pcie-4-0-x4-nvme-m-2-6927631/"
+    }
+   ],
+   "price": 1308.26,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 1308.26
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 1 tb samsung pm9a1 mzvl21t0hclr ssd pcie nvme 6927631",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-samsung-870-qvo-ssd-4-tb-2-5-sata-iii-6491948",
+   "cat": "SSDs",
+   "sub": "SATA 4 TB",
+   "name": "Samsung 870 QVO SSD 4 TB 2.5\" SATA III | 6491948",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/samsung-870-qvo-ssd-4-tb-2-5-sata-iii-6491948/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1314.08,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/samsung-870-qvo-ssd-4-tb-2-5-sata-iii-6491948/"
+    }
+   ],
+   "price": 1314.08,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 1314.08
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 4 tb samsung 870 qvo ssd sata iii 6491948",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-proart-pa32qcv-32-6k-ips-monitor-thunderbolt-4-grau-100",
    "cat": "Monitore",
    "sub": "32\"",
@@ -41207,6 +46417,35 @@
    ],
    "count": 1,
    "tags": "monitore 32\" asus proart pa32qcv ips monitor thunderbolt grau 100606610",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-kingston-dc600m-1-92-tb-ssd-sata-6gb-s-8360486",
+   "cat": "SSDs",
+   "sub": "SATA 1,92 TB",
+   "name": "Kingston DC600M 1.92 TB SSD SATA 6Gb/s | 8360486",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/kingston-dc600m-1-92-tb-ssd-sata-6gb-s-8360486/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1320.21,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/kingston-dc600m-1-92-tb-ssd-sata-6gb-s-8360486/"
+    }
+   ],
+   "price": 1320.21,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 1320.21
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 1,92 tb kingston dc600m ssd sata 6gb 8360486",
    "firstSeen": "2026-10-30"
   },
   {
@@ -41624,6 +46863,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-seagate-firecuda-x1070-4-tb-m-2-nvme-ssd-100869170",
+   "cat": "SSDs",
+   "sub": "NVMe 4 TB",
+   "name": "Seagate FireCuda X1070 4 TB M.2 NVMe SSD | 100869170",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/seagate-firecuda-x1070-4-tb-m-2-nvme-ssd-100869170/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1678.67,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/seagate-firecuda-x1070-4-tb-m-2-nvme-ssd-100869170/"
+    }
+   ],
+   "price": 1678.67,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 1678.67
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 4 tb seagate firecuda x1070 nvme ssd 100869170",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-g-skill-trident-z5-rgb-ddr5-6400-ram-cl32-xmp-64-gb-dual-kit",
    "cat": "Arbeitsspeicher",
    "sub": "DDR5 64 GB",
@@ -41679,6 +46947,35 @@
    ],
    "count": 1,
    "tags": "arbeitsspeicher ddr5 96 gb corsair vengeance rgb ram ddr5 7200 mhz cl40 dimm schwarz 100533554",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-lenovo-4xb1s30114-interne-ssd-2-tb-m-2-2280-pcie-5-0-x4-nvme",
+   "cat": "SSDs",
+   "sub": "PCIe 5.0 2 TB",
+   "name": "Lenovo 4XB1S30114 Interne SSD 2 TB M.2 2280 PCIe 5.0 x4 NVMe | 100591971",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/lenovo-4xb1s30114-interne-ssd-2-tb-m-2-2280-pcie-5-0-x4-nvme-100591971/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1695.06,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/lenovo-4xb1s30114-interne-ssd-2-tb-m-2-2280-pcie-5-0-x4-nvme-100591971/"
+    }
+   ],
+   "price": 1695.06,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 1695.06
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 5.0 2 tb lenovo 4xb1s30114 interne ssd 2280 pcie nvme 100591971",
    "firstSeen": "2026-10-30"
   },
   {
@@ -41769,6 +47066,93 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-samsung-9100-pro-mz-vap8t0-8-tb-ssd-m-2-2280-pcie-5-0-x4-nvm",
+   "cat": "SSDs",
+   "sub": "PCIe 5.0 8 TB",
+   "name": "Samsung 9100 PRO MZ-VAP8T0 8 TB SSD M.2 2280 PCIe 5.0 x4 NVMe Schwarz | 100661921",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/samsung-9100-pro-mz-vap8t0-8-tb-ssd-m-2-2280-pcie-5-0-x4-nvme-schwarz-100661921/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 2117.59,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/samsung-9100-pro-mz-vap8t0-8-tb-ssd-m-2-2280-pcie-5-0-x4-nvme-schwarz-100661921/"
+    }
+   ],
+   "price": 2117.59,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 2117.59
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 5.0 8 tb samsung 9100 pro vap8t0 ssd 2280 pcie nvme schwarz 100661921",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-samsung-9100-pro-series-nvme-ssd-pcie-5-0-m-2-typ-2280-8-tb",
+   "cat": "SSDs",
+   "sub": "PCIe 5.0 8 TB",
+   "name": "Samsung 9100 PRO Series NVMe SSD, PCIe 5.0 M.2 Typ 2280 - 8 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/samsung-9100-pro-series-nvme-ssd-pcie-5.0-m.2-type-2280-8-tb/SSSS-214.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 2126.79,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/samsung-9100-pro-series-nvme-ssd-pcie-5.0-m.2-type-2280-8-tb/SSSS-214.html"
+    }
+   ],
+   "price": 2126.79,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 2126.79
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 5.0 8 tb samsung 9100 pro series nvme ssd pcie typ 2280",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-samsung-9100-pro-series-nvme-ssd-pcie-5-0-m-2-typ-2280-mit-k-9l6id",
+   "cat": "SSDs",
+   "sub": "PCIe 5.0 8 TB",
+   "name": "Samsung 9100 PRO Series NVMe SSD, PCIe 5.0 M.2 Typ 2280, mit Kühlkörper - 8TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/samsung-9100-pro-series-nvme-ssd-pcie-5.0-m.2-type-2280-with-heatsink-8tb/SSSS-215.html",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 2139.94,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/samsung-9100-pro-series-nvme-ssd-pcie-5.0-m.2-type-2280-with-heatsink-8tb/SSSS-215.html"
+    }
+   ],
+   "price": 2139.94,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 2139.94
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 5.0 8 tb samsung 9100 pro series nvme ssd pcie typ 2280 mit kuhlkorper 8tb",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-geforce-rtx-5080-proart-oc-edition-16384-mb-gddr7",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5080",
@@ -41800,6 +47184,35 @@
    "count": 1,
    "tags": "grafikkarten geforce rtx 5080 asus geforce rtx 5080 proart edition 16384 gddr7",
    "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-lenovo-thinkpad-4-tb-ssd-m-2-2280-pcie-4-0-x4-nvme-opal-1007",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 4 TB",
+   "name": "Lenovo ThinkPad 4 TB SSD M.2 2280 PCIe 4.0 x4 NVMe OPAL | 100703511",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/lenovo-thinkpad-4-tb-ssd-m-2-2280-pcie-4-0-x4-nvme-opal-100703511/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 2208.25,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/lenovo-thinkpad-4-tb-ssd-m-2-2280-pcie-4-0-x4-nvme-opal-100703511/"
+    }
+   ],
+   "price": 2208.25,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 2208.25
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 4 tb lenovo thinkpad ssd 2280 pcie nvme opal 100703511",
+   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-asrock-radeon-ai-pro-r9700-creator-32gb-grafikkarte-32768-mb",
@@ -41952,6 +47365,35 @@
    ],
    "count": 1,
    "tags": "monitore 52\" dell ultrasharp u5226kw thunderbolt hub monitor ips black silber schwarz 100696278",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-samsung-870-evo-8-tb-ssd-2-5-sata-iii-schwarz-100702040",
+   "cat": "SSDs",
+   "sub": "SATA 8 TB",
+   "name": "Samsung 870 EVO 8 TB SSD 2.5\" SATA III Schwarz | 100702040",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/samsung-870-evo-8-tb-ssd-2-5-sata-iii-schwarz-100702040/",
+   "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 2893.82,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/samsung-870-evo-8-tb-ssd-2-5-sata-iii-schwarz-100702040/"
+    }
+   ],
+   "price": 2893.82,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 2893.82
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 8 tb samsung 870 evo ssd sata iii schwarz 100702040",
    "firstSeen": "2026-10-30"
   },
   {
