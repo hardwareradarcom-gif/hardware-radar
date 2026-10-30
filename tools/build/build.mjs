@@ -285,7 +285,7 @@ function drop(p) {
   if (!prev || prev.p <= p.price * 1.005) return "";
   return `<span class="g-drop" title="Vorher ${eur(prev.p)} am ${dshort(prev.d)}">▼ ${eur0(prev.p - p.price)} günstiger</span>`;
 }
-const H = { drop, esc, eur, eur0, dlong, dshort, products, byId, gpuInfo, chipOf, offersOf, shopNm, L, btn, miniRow, catSlug, STAND, pulse: dealsData.pulse || [], deals: dealsData.deals || [] };
+const H = { refurb: (refurbData.products || []).filter(r => r && typeof r.price === "number" && L.safeUrl(r.url)), drop, esc, eur, eur0, dlong, dshort, products, byId, gpuInfo, chipOf, offersOf, shopNm, L, btn, miniRow, catSlug, STAND, pulse: dealsData.pulse || [], deals: dealsData.deals || [] };
 function guidePage(g) {
   const rel = "ratgeber/" + g.slug + ".html", B = "../";
   const html = g.render(Object.assign({ B }, H));
@@ -426,6 +426,11 @@ fs.writeFileSync(path.join(OUT, "404.html"), page({ rel: "404.html", base: "/", 
 const home = path.join(OUT, "index.html");
 if (fs.existsSync(home)) {
   const sec = `<section class="home-guides"><div class="wrap"><h2>Kaufberatung</h2><p class="pp-lede">Kurze Ratgeber mit den aktuell besten Angeboten, bei jeder Preisprüfung neu berechnet.</p><ul class="g-list">${GUIDES.map(g => `<li><a href="ratgeber/${g.slug}.html"><span class="p-sub">${esc(g.cat || "PC")}</span><b>${esc(g.title)}</b><span>${esc(g.teaser)}</span></a></li>`).join("")}</ul><h3 class="home-h3">Fertige Gaming-PCs</h3><div class="g-budgets">${PCS.map(p => `<a class="g-budget" href="${pcSlug(p[0])}"><b>${eur0(p[0])}</b><span>${esc(p[2])}</span></a>`).join("")}</div><div class="guide-chips">${CATS.filter(c => products.some(p => p.cat === c)).map(c => `<a class="chip" href="k/${catSlug(c)}.html">${esc(c)} im Preisvergleich</a>`).join("")}<a class="chip" href="generalueberholt/">Generalüberholt: gebrauchte Monitore, PCs, Laptops</a></div></div></section>`;
-  fs.writeFileSync(home, fs.readFileSync(home, "utf8").replace("<!--HR:GUIDES-->", sec));
+  // Generalüberholt-Teaser: je Kategorie das günstigste brauchbare Angebot
+  const rfPick = (cat, ok) => (refurbData.products || []).filter(r => r.cat === cat && L.safeUrl(r.url) && ok(r.name.toLowerCase())).sort((a, b) => a.price - b.price)[0];
+  const picks = [["Monitore", "Monitor 24 Zoll+", n => /2[4-9]([,.]\d)?\s?("|”|zoll)|3[0-9]([,.]\d)?\s?("|”|zoll)/.test(n)], ["Laptops", "Laptop mit 16 GB", n => /16\s?gb/.test(n) && /i[57]|ryzen/.test(n)], ["PCs & Workstations", "Business-PC mit i5", n => /i[57]/.test(n) && /(8|16)\s?gb/.test(n)]]
+    .map(([c, t, ok]) => [t, rfPick(c, ok)]).filter(x => x[1]);
+  const rfSec = picks.length ? `<section class="home-guides home-rf"><div class="wrap"><h2>Generalüberholt</h2><p class="pp-lede">Geprüfte Gebrauchtgeräte mit Gewährleistung, getrennt vom Preisvergleich. Ideal als Zweitmonitor, Büro- oder Schul-Laptop.</p><div class="g-budgets">${picks.map(([t, r]) => { const l = L.shopLink(r.url, r.shop, r.name); return `<a class="g-budget" href="${esc(l.href)}" target="_blank" rel="${relOf(l)}"><b>ab ${eur0(r.price)}${affMark(l)}</b><span>${esc(t)}</span></a>`; }).join("")}<a class="g-budget" href="generalueberholt/"><b>Alle ${refurbData.products.length}</b><span>Angebote ansehen</span></a></div></div></section>` : "";
+  fs.writeFileSync(home, fs.readFileSync(home, "utf8").replace("<!--HR:GUIDES-->", sec + rfSec));
 }
 console.log(`Seiten erzeugt: ${products.length} Produkte, ${GUIDES.length} Kaufberatungen, ${urls.length} Einträge in der Sitemap → ${OUT}`);

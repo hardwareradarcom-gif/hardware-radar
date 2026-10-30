@@ -221,6 +221,10 @@ ${list(H, psus, 8)}`;
 <p>Der Monitor sollte zur Grafikkarte passen. Für <b>Full HD</b> (1920 × 1080) reichen Einsteiger-Karten wie RTX 5060 oder RX 9060 XT, hier lohnen sich 165 bis 240 Hz für schnelle Shooter. <b>WQHD</b> (2560 × 1440) auf 27 Zoll ist für die meisten Spieler der beste Kompromiss und passt zu Karten ab etwa RTX 5070 oder RX 9070. <b>4K</b> lohnt sich vor allem mit sehr starken Karten oder wenn du viel Wert auf Schärfe legst und Upscaling nutzt.</p>
 <h2>Die günstigsten Monitore je Klasse</h2>
 ${rows.length ? table(H, ["Klasse", "Günstigstes Modell", "Hz", "Preis"], rows) : '<p class="g-empty">Gerade sind keine Monitore im Radar.</p>'}
+${(() => { const rf = (H.refurb || []).filter(r => r.cat === "Monitore").sort((a, b) => a.price - b.price).slice(0, 3); return rf.length ? `<h2>Noch günstiger: generalüberholt</h2>
+<p>Für einen Zweit- oder Büromonitor lohnen sich geprüfte Gebrauchtgeräte. Sie kosten oft nur einen Bruchteil, haben aber meist nur 60 bis 75 Hz und sind daher nichts für schnelle Shooter.</p>
+<ul class="g-ul">${rf.map(r => { const l = H.L.shopLink(r.url, r.shop, r.name); return `<li><a href="${H.esc(l.href)}" target="_blank" rel="${H.L.relOf(l)}">${H.esc(r.name.replace(/,.*$/, ""))}</a> für <b>${H.eur(r.price)}</b>${l.aff ? "*" : ""} (generalüberholt)</li>`; }).join("")}</ul>
+<p><a href="${H.B}generalueberholt/#monitore">Alle generalüberholten Monitore ansehen</a></p>` : ""; })()}
 <h2>IPS, VA oder OLED?</h2>
 <ul class="g-ul">
 <li><b>IPS:</b> gute Farben und Blickwinkel, schnelle Reaktion. Der sichere Allrounder.</li>
