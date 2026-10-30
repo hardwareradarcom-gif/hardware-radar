@@ -40,5 +40,8 @@ window.HR_CONFIG = {
 
   // true = eingebautes Cookie-Banner. Wenn du stattdessen Googles eigenes Consent-Tool
   // ("Datenschutz und Mitteilungen" in AdSense) nutzt, auf false setzen.
-  useBuiltinConsent: false
+  useBuiltinConsent: false,
+
+  // Besucherstatistik mit GoatCounter (ohne Cookies): dein Code aus goatcounter.com, z. B. "hwradar". Leer = aus.
+  goatcounter: ""
 };

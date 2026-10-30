@@ -151,6 +151,8 @@ ${body}
   <a href="${B}konfigurator.html"><svg viewBox="0 0 24 24" aria-hidden="true"><rect x="5" y="3" width="14" height="18" rx="2"/><path d="M9 7h6M9 11h6"/><circle cx="12" cy="16" r="1.6"/></svg><span>Konfigurator</span></a>
 </nav>
 <script src="${B}assets/alarm.js"></script>
+<script src="${B}assets/config.js"></script>
+<script src="${B}assets/stats.js"></script>
 </body>
 </html>
 `;
