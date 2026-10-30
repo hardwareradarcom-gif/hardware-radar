@@ -769,7 +769,7 @@ async function refreshDomain(dom) {
 async function main() {
   cleanup();
   if (args.refresh) {
-    const doms = Object.entries(state.domains).filter(([d, v]) => v.status === "active" && v.products > 0 && !isBlocked(d)).map(([d]) => d);
+    const doms = Object.entries(state.domains).filter(([d, v]) => v.status === "active" && (v.products > 0 || isRefurb(d)) && !isBlocked(d)).map(([d]) => d);
     log("Schnell-Prüfung für " + doms.length + " Shops");
     await pool(doms, 6, refreshDomain);
     const res = buildOutputs();
