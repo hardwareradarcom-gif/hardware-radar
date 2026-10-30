@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T06:15:22.787Z",
+ "updated": "2026-10-30T08:04:20.167Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -1973,7 +1973,7 @@
    "name": "GIGABYTE G27Q2",
    "url": "https://www.mydealz.de/deals/gigabyte-g27q2-gaming-monitor-mit-27-wqhd-200hz-350nits-freesync-premium-usb-c-mit-dp-pd-2858404",
    "source": "mydealz",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "Cyberport",
@@ -2436,7 +2436,7 @@
    "name": "ARCTIC Freezer 36",
    "url": "https://geizhals.de/3144218",
    "source": "Geizhals",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "Mindfactory",
@@ -5197,7 +5197,7 @@
    "name": "Akasa AK-CC6308EP01 Low Profile CPU-Kühler - 92mm",
    "source": "crawler",
    "url": "https://www.caseking.de/akasa-ak-cc6308ep01-low-profile-cpu-kuehler-92mm/CPAK-053.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -5213,6 +5213,10 @@
     {
      "d": "2026-10-29",
      "p": 15.29
+    },
+    {
+     "d": "2026-10-30",
+     "p": 15.29
     }
    ],
    "count": 1,
@@ -5226,7 +5230,7 @@
    "name": "Akasa AK-CC6607EP01 Low Profile CPU-Kühler - Sockel LGA 1700, 64,5 mm Höhe",
    "source": "crawler",
    "url": "https://www.caseking.de/akasa-ak-cc6607ep01-low-profile-cpu-kuehler-sockel-lga-1700-64-5-mm-hoehe/CPAK-064.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -5242,6 +5246,10 @@
     {
      "d": "2026-10-29",
      "p": 15.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 15.9
     }
    ],
    "count": 1,
@@ -5255,7 +5263,7 @@
    "name": "Akasa Vegas Chroma AM CPU-Kühler, AMD, RGB - 120 mm",
    "source": "crawler",
    "url": "https://www.caseking.de/akasa-vegas-chroma-am-cpu-kuehler-amd-rgb-120-mm/CPAK-050.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -5271,6 +5279,10 @@
     {
      "d": "2026-10-29",
      "p": 17.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 17.9
     }
    ],
    "count": 1,
@@ -5284,7 +5296,7 @@
    "name": "Akasa AK-CC1113BP01 Low Profile CPU Kühler, AMD Sockel AM4 und AM5 - 95mm",
    "source": "crawler",
    "url": "https://www.caseking.de/akasa-ak-cc1113bp01-low-profile-cpu-kuehler-amd-sockel-am4-und-am5-95mm/CPAK-082.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -5300,6 +5312,10 @@
     {
      "d": "2026-10-29",
      "p": 17.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 17.9
     }
    ],
    "count": 1,
@@ -5313,7 +5329,7 @@
    "name": "Jonsbo CR-1400 EVO CPU-Kühler",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-cr-1400-evo-cpu-kuehler/CPJB-035.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -5328,6 +5344,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 17.9
+    },
+    {
+     "d": "2026-10-30",
      "p": 17.9
     }
    ],
@@ -5371,7 +5391,7 @@
    "name": "Akasa AK-959CU CPU-Kühler - 92mm",
    "source": "crawler",
    "url": "https://www.caseking.de/akasa-ak-959cu-cpu-kuehler-92mm/CPAK-039.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -5387,6 +5407,10 @@
     {
      "d": "2026-10-29",
      "p": 18.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 18.9
     }
    ],
    "count": 1,
@@ -5399,15 +5423,15 @@
    "sub": "Luftkühler",
    "name": "SilverStone Nitrogon NT08-115X-V2 CPU-Kühler, PWM - 92mm",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/silverstone-nitrogon-nt08-115x-v2-cpu-cooler-pwm-92mm/CPSI-046.html",
-   "stand": "2026-10-29T17:40",
+   "url": "https://www.caseking.de/silverstone-nitrogon-nt08-115x-v2-cpu-kuehler-pwm-92mm/CPSI-046.html",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 18.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/silverstone-nitrogon-nt08-115x-v2-cpu-cooler-pwm-92mm/CPSI-046.html"
+     "url": "https://www.caseking.de/silverstone-nitrogon-nt08-115x-v2-cpu-kuehler-pwm-92mm/CPSI-046.html"
     }
    ],
    "price": 18.9,
@@ -5415,6 +5439,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 18.9
+    },
+    {
+     "d": "2026-10-30",
      "p": 18.9
     }
    ],
@@ -5429,7 +5457,7 @@
    "name": "Akasa AK-CC7129BP01 Low Profile CPU-Kühler - 74mm",
    "source": "crawler",
    "url": "https://www.caseking.de/en/akasa-ak-cc7129bp01-low-profile-cpu-kuehler-74mm/CPAK-038.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -5445,6 +5473,10 @@
     {
      "d": "2026-10-29",
      "p": 19.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 19.9
     }
    ],
    "count": 1,
@@ -5458,7 +5490,7 @@
    "name": "Akasa AK-CC6605EP01 Low Profile CPU Kühler, Intel Sockel 1700 und 1851 - 92mm",
    "source": "crawler",
    "url": "https://www.caseking.de/akasa-ak-cc6605ep01-low-profile-cpu-kuehler-intel-sockel-1700-und-1851-92mm/CPAK-083.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -5474,6 +5506,10 @@
     {
      "d": "2026-10-29",
      "p": 19.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 19.9
     }
    ],
    "count": 1,
@@ -5487,7 +5523,7 @@
    "name": "Jonsbo CR-1400 CPU-Kühler, ARGB - 92mm, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-cr-1400-cpu-kuehler-argb-92mm-schwarz/CPJB-007.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -5503,6 +5539,10 @@
     {
      "d": "2026-10-29",
      "p": 19.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 19.9
     }
    ],
    "count": 1,
@@ -5516,7 +5556,7 @@
    "name": "Jonsbo CR-1400 EVO CPU-Kühler, 92mm - weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-cr-1400-evo-cpu-kuehler-92mm-weiss/CPJB-037.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -5532,6 +5572,10 @@
     {
      "d": "2026-10-29",
      "p": 19.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 19.9
     }
    ],
    "count": 1,
@@ -5545,7 +5589,7 @@
    "name": "Jonsbo CB40 CPU-Kühler, PWM, RGB - weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-cb40-cpu-kuehler-pwm-rgb-weiss/CPJB-088.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -5561,6 +5605,10 @@
     {
      "d": "2026-10-29",
      "p": 19.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 19.9
     }
    ],
    "count": 1,
@@ -5574,7 +5622,7 @@
    "name": "Akasa AK-CCE-7106HP Low Profile CPU-Kühler Intel - 74mm",
    "source": "crawler",
    "url": "https://www.caseking.de/en/akasa-ak-cce-7106hp-low-profile-cpu-kuehler-intel-74mm/CPAK-022.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -5590,6 +5638,10 @@
     {
      "d": "2026-10-29",
      "p": 21.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 21.9
     }
    ],
    "count": 1,
@@ -5603,7 +5655,7 @@
    "name": "Akasa AK-CC6602HP01 Low Profile CPU-Kühler - Sockel LGA 1700, 30 mm Höhe",
    "source": "crawler",
    "url": "https://www.caseking.de/akasa-ak-cc6602hp01-low-profile-cpu-kuehler-sockel-lga-1700-30-mm-hoehe/CPAK-063.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -5619,6 +5671,10 @@
     {
      "d": "2026-10-29",
      "p": 21.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 21.9
     }
    ],
    "count": 1,
@@ -5632,7 +5688,7 @@
    "name": "be quiet! Pure Rock Slim 3 CPU-Kühler, 130W TDP - 100mm, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/be-quiet-pure-rock-slim-3-cpu-kuehler-130w-tdp-100mm-schwarz/CPBQ-038.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -5648,6 +5704,10 @@
     {
      "d": "2026-10-29",
      "p": 21.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 21.9
     }
    ],
    "count": 1,
@@ -5661,7 +5721,7 @@
    "name": "Akasa low profile CPU-Kühler, Intel LGA1700 - Kupfer und Aluminium",
    "source": "crawler",
    "url": "https://www.caseking.de/akasa-low-profile-cpu-kuehler-intel-lga1700-kupfer-und-aluminium/CPAK-077.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -5677,6 +5737,10 @@
     {
      "d": "2026-10-29",
      "p": 22.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 22.9
     }
    ],
    "count": 1,
@@ -5690,7 +5754,7 @@
    "name": "Jonsbo CR-1000MAX V2 CPU-Kühler, PWM - schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-cr-1000max-v2-cpu-kuehler-pwm-schwarz/CPJB-079.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -5705,6 +5769,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 22.9
+    },
+    {
+     "d": "2026-10-30",
      "p": 22.9
     }
    ],
@@ -5748,7 +5816,7 @@
    "name": "Akasa AK-CC6610EP01 Low Profile CPU-Kühler - Sockel LGA 1700",
    "source": "crawler",
    "url": "https://www.caseking.de/akasa-ak-cc6610ep01-low-profile-cpu-kuehler-sockel-lga-1700/CPAK-071.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -5764,6 +5832,10 @@
     {
      "d": "2026-10-29",
      "p": 23.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 23.9
     }
    ],
    "count": 1,
@@ -5777,7 +5849,7 @@
    "name": "Jonsbo CR-1000 V2 PRO RGB CPU-Kühler, 120mm - schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-cr-1000-v2-pro-rgb-cpu-kuehler-120mm-schwarz/CPJB-045.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -5793,6 +5865,10 @@
     {
      "d": "2026-10-29",
      "p": 23.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 23.9
     }
    ],
    "count": 1,
@@ -5806,7 +5882,7 @@
    "name": "Jonsbo CR-1000 V2 PRO RGB CPU-Kühler, 120mm - weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-cr-1000-v2-pro-rgb-cpu-kuehler-120mm-weiss/CPJB-046.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -5822,6 +5898,10 @@
     {
      "d": "2026-10-29",
      "p": 23.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 23.9
     }
    ],
    "count": 1,
@@ -5835,7 +5915,7 @@
    "name": "Jonsbo CR-1000MAX CPU-Kühler, 120mm, RGB - weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-cr-1000max-cpu-kuehler-120mm-rgb-weiss/CPJB-070.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -5851,6 +5931,10 @@
     {
      "d": "2026-10-29",
      "p": 23.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 23.9
     }
    ],
    "count": 1,
@@ -5864,7 +5948,7 @@
    "name": "Jonsbo CR-1000 V3 PRO Color CPU-Kühler, PWM, RGB - schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-cr-1000-v3-pro-color-cpu-kuehler-pwm-rgb-schwarz/CPJB-075.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -5880,6 +5964,10 @@
     {
      "d": "2026-10-29",
      "p": 23.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 23.9
     }
    ],
    "count": 1,
@@ -5893,7 +5981,7 @@
    "name": "Jonsbo CR-1000MAX V2 Color CPU-Kühler, PWM, RGB - schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-cr-1000max-v2-color-cpu-kuehler-pwm-rgb-schwarz/CPJB-080.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -5909,6 +5997,10 @@
     {
      "d": "2026-10-29",
      "p": 23.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 23.9
     }
    ],
    "count": 1,
@@ -5922,7 +6014,7 @@
    "name": "Jonsbo HP-400S CPU-Kühler - 90mm, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-hp-400s-cpu-kuehler-90mm-schwarz/CPJB-020.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -5938,6 +6030,10 @@
     {
      "d": "2026-10-29",
      "p": 24.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 24.9
     }
    ],
    "count": 1,
@@ -5951,7 +6047,7 @@
    "name": "Jonsbo CR-1000 EVO RGB CPU-Kühler, 120mm - weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-cr-1000-evo-rgb-cpu-kuehler-120mm-weiss/CPJB-032.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -5967,6 +6063,10 @@
     {
      "d": "2026-10-29",
      "p": 24.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 24.9
     }
    ],
    "count": 1,
@@ -5980,7 +6080,7 @@
    "name": "Jonsbo CR-1000 EVO ARGB CPU-Kühler, 120mm - weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-cr-1000-evo-argb-cpu-kuehler-120mm-weiss/CPJB-034.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -5996,6 +6096,10 @@
     {
      "d": "2026-10-29",
      "p": 24.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 24.9
     }
    ],
    "count": 1,
@@ -6009,7 +6113,7 @@
    "name": "Jonsbo CR-1000 V3 PRO CPU-Kühler, PWM, ARGB - weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-cr-1000-v3-pro-cpu-kuehler-pwm-argb-weiss/CPJB-078.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -6025,6 +6129,10 @@
     {
      "d": "2026-10-29",
      "p": 25.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 25.9
     }
    ],
    "count": 1,
@@ -6038,7 +6146,7 @@
    "name": "Jonsbo CR-1000MAX V2 CPU-Kühler, PWM, ARGB - weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-cr-1000max-v2-cpu-kuehler-pwm-argb-weiss/CPJB-083.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -6054,6 +6162,10 @@
     {
      "d": "2026-10-29",
      "p": 25.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 25.9
     }
    ],
    "count": 1,
@@ -6067,7 +6179,7 @@
    "name": "EKL 22227 CPU-Kühler, AMD/Intel, 120 mm PWM - 140/180 W TDP",
    "source": "crawler",
    "url": "https://www.caseking.de/ekl-22227-cpu-kuehler-amd-intel-120-mm-pwm-140-180-w-tdp/CPEK-004.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -6083,6 +6195,10 @@
     {
      "d": "2026-10-29",
      "p": 27.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 27.9
     }
    ],
    "count": 1,
@@ -6096,7 +6212,7 @@
    "name": "Akasa AK-CC6608BP01 Low Profile CPU-Kühler - Sockel LGA 1700, 63,2 mm Höhe",
    "source": "crawler",
    "url": "https://www.caseking.de/akasa-ak-cc6608bp01-low-profile-cpu-kuehler-sockel-lga-1700-63-2-mm-hoehe/CPAK-065.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -6112,6 +6228,10 @@
     {
      "d": "2026-10-29",
      "p": 28.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 28.9
     }
    ],
    "count": 1,
@@ -6125,7 +6245,7 @@
    "name": "Cooler Master Hyper 212 3DHP CPU-Kühler, Intel und AMD - schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/cooler-master-hyper-212-3dhp-cpu-kuehler-intel-und-amd-schwarz/CPCO-080.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -6140,6 +6260,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 28.9
+    },
+    {
+     "d": "2026-10-30",
      "p": 28.9
     }
    ],
@@ -6212,7 +6336,7 @@
    "name": "Akasa Vegas Chroma iLG CPU-Kühler Intel LGA 1700, ARGB",
    "source": "crawler",
    "url": "https://www.caseking.de/akasa-vegas-chroma-ilg-cpu-kuehler-intel-lga-1700-argb/CPAK-070.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -6228,6 +6352,10 @@
     {
      "d": "2026-10-29",
      "p": 29.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 29.9
     }
    ],
    "count": 1,
@@ -6241,7 +6369,7 @@
    "name": "Kolink Umbra EX180 Black Edition CPU-Kühler - 120mm",
    "source": "crawler",
    "url": "https://www.caseking.de/kolink-umbra-ex180-black-edition-cpu-kuehler-120mm/CPKL-002.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -6257,6 +6385,10 @@
     {
      "d": "2026-10-29",
      "p": 29.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 29.9
     }
    ],
    "count": 1,
@@ -6270,7 +6402,7 @@
    "name": "SilverStone SST-AR09-115XP CPU-Kühler - 60mm",
    "source": "crawler",
    "url": "https://www.caseking.de/en/silverstone-sst-ar09-115xp-cpu-cooler-60mm/CPSI-032.html",
-   "stand": "2026-10-29T17:40",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -6285,6 +6417,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 29.9
+    },
+    {
+     "d": "2026-10-30",
      "p": 29.9
     }
    ],
@@ -6328,7 +6464,7 @@
    "name": "Akasa AK-955A-BV2 CPU-Kühler",
    "source": "crawler",
    "url": "https://www.caseking.de/akasa-ak-955a-bv2-cpu-kuehler/CPAK-052.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -6344,6 +6480,10 @@
     {
      "d": "2026-10-29",
      "p": 32.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 32.9
     }
    ],
    "count": 1,
@@ -6357,7 +6497,7 @@
    "name": "SilverStone SST-AR10-115XP CPU-Kühler - 70 mm",
    "source": "crawler",
    "url": "https://www.caseking.de/en/silverstone-sst-ar10-115xp-cpu-cooler-70-mm/CPSI-034.html",
-   "stand": "2026-10-29T17:40",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -6373,6 +6513,10 @@
     {
      "d": "2026-10-29",
      "p": 32.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 32.9
     }
    ],
    "count": 1,
@@ -6386,7 +6530,7 @@
    "name": "Alpenföhn Brocken 4 CPU-Kühler - 120mm",
    "source": "crawler",
    "url": "https://www.caseking.de/alpenfoehn-brocken-4-cpu-kuehler-120mm/CPAF-056.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -6402,6 +6546,10 @@
     {
      "d": "2026-10-29",
      "p": 34.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 34.9
     }
    ],
    "count": 1,
@@ -6415,7 +6563,7 @@
    "name": "Akasa ALUCIA H4I, Low-Profile CPU-Kühler, für Intel",
    "source": "crawler",
    "url": "https://www.caseking.de/akasa-alucia-h4i-low-profile-cpu-kuehler-fuer-intel/CPAK-073.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -6431,6 +6579,10 @@
     {
      "d": "2026-10-29",
      "p": 34.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 34.9
     }
    ],
    "count": 1,
@@ -6444,7 +6596,7 @@
    "name": "be quiet! Pure Rock LP CPU Kühler - 92mm",
    "source": "crawler",
    "url": "https://www.caseking.de/be-quiet-pure-rock-lp-cpu-kuehler-92mm/CPBQ-029.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -6460,6 +6612,10 @@
     {
      "d": "2026-10-29",
      "p": 34.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 34.9
     }
    ],
    "count": 1,
@@ -6473,7 +6629,7 @@
    "name": "Kolink Umbra EX180 ARGB CPU-Kühler - 120mm",
    "source": "crawler",
    "url": "https://www.caseking.de/kolink-umbra-ex180-argb-cpu-kuehler-120mm/CPKL-001.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -6488,6 +6644,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 34.9
+    },
+    {
+     "d": "2026-10-30",
      "p": 34.9
     }
    ],
@@ -6531,7 +6691,7 @@
    "name": "Alpenföhn Brocken 4 ARGB CPU-Kühler - 120mm, weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/alpenfoehn-brocken-4-argb-cpu-kuehler-120mm-weiss/CPAF-061.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -6547,6 +6707,10 @@
     {
      "d": "2026-10-29",
      "p": 36.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 36.9
     }
    ],
    "count": 1,
@@ -6560,7 +6724,7 @@
    "name": "Akasa AK-CC6606BP01 Low Profile CPU-Kühler - Sockel LGA 1700, 63,2mm hoch",
    "source": "crawler",
    "url": "https://www.caseking.de/akasa-ak-cc6606bp01-low-profile-cpu-kuehler-sockel-lga-1700-63-2mm-hoch/CPAK-059.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -6575,6 +6739,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 36.9
+    },
+    {
+     "d": "2026-10-30",
      "p": 36.9
     }
    ],
@@ -6618,7 +6786,7 @@
    "name": "Montech NX600 CPU Kühler, Dual Tower - 2x 120mm, weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/montech-nx600-cpu-kuehler-dual-tower-2x-120mm-weiss/CPMT-009.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -6634,6 +6802,10 @@
     {
      "d": "2026-10-29",
      "p": 37.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 37.9
     }
    ],
    "count": 1,
@@ -6647,7 +6819,7 @@
    "name": "Jonsbo HP600 Low-Profile CPU-Kühler - 120mm, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-hp600-low-profile-cpu-kuehler-120mm-schwarz/CPJB-059.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -6663,6 +6835,10 @@
     {
      "d": "2026-10-29",
      "p": 39.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 39.9
     }
    ],
    "count": 1,
@@ -6676,7 +6852,7 @@
    "name": "Jonsbo CB80 CPU-Kühler, Dual-Tower, 2 x 120mm, PWM, RGB - schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-cb80-cpu-kuehler-dual-tower-2-x-120mm-pwm-rgb-schwarz/CPJB-089.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -6692,6 +6868,10 @@
     {
      "d": "2026-10-29",
      "p": 39.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 39.9
     }
    ],
    "count": 1,
@@ -6705,7 +6885,7 @@
    "name": "Jonsbo CB80 CPU-Kühler, Dual-Tower, 2 x 120mm, PWM, RGB - weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-cb80-cpu-kuehler-dual-tower-2-x-120mm-pwm-rgb-weiss/CPJB-090.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -6721,6 +6901,10 @@
     {
      "d": "2026-10-29",
      "p": 39.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 39.9
     }
    ],
    "count": 1,
@@ -6734,7 +6918,7 @@
    "name": "Montech NX600 ARGB CPU Kühler, Dual Tower- 2x 120mm, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/montech-nx600-argb-cpu-kuehler-dual-tower-2x-120mm-schwarz/CPMT-010.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -6750,6 +6934,10 @@
     {
      "d": "2026-10-29",
      "p": 39.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 39.9
     }
    ],
    "count": 1,
@@ -6763,7 +6951,7 @@
    "name": "Jonsbo HP600 CPU-Kühler, RGB - 120mm, weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-hp600-cpu-kuehler-rgb-120mm-weiss/CPJB-060.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -6779,6 +6967,10 @@
     {
      "d": "2026-10-29",
      "p": 41.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 41.9
     }
    ],
    "count": 1,
@@ -6792,7 +6984,7 @@
    "name": "Montech NX600 ARGB CPU Kühler, Dual Tower- 2x 120mm, weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/montech-nx600-argb-cpu-kuehler-dual-tower-2x-120mm-weiss/CPMT-011.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -6807,6 +6999,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 41.9
+    },
+    {
+     "d": "2026-10-30",
      "p": 41.9
     }
    ],
@@ -6908,7 +7104,7 @@
    "name": "Akasa Alucia H4 High Performance CPU Kühler, 120mm",
    "source": "crawler",
    "url": "https://www.caseking.de/akasa-alucia-h4-high-performance-cpu-kuehler-120mm/CPAK-060.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -6924,6 +7120,10 @@
     {
      "d": "2026-10-29",
      "p": 44.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 44.9
     }
    ],
    "count": 1,
@@ -6937,7 +7137,7 @@
    "name": "be quiet! Dark Rock Slim CPU-Kühler - 120mm",
    "source": "crawler",
    "url": "https://www.caseking.de/be-quiet-dark-rock-slim-cpu-kuehler-120mm/CPBQ-020.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -6953,6 +7153,10 @@
     {
      "d": "2026-10-29",
      "p": 44.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 44.9
     }
    ],
    "count": 1,
@@ -6966,7 +7170,7 @@
    "name": "be quiet! Pure Rock Pro 3 LX CPU-Kühler - 120mm, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/be-quiet-pure-rock-pro-3-lx-cpu-kuehler-120mm-schwarz/CPBQ-035.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -6982,6 +7186,10 @@
     {
      "d": "2026-10-29",
      "p": 44.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 44.9
     }
    ],
    "count": 1,
@@ -6995,7 +7203,7 @@
    "name": "Jonsbo CR-3000E CPU-Kühler, Dual-Tower, RGB, 260W TDP - weiß, 120mm",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-cr-3000e-cpu-kuehler-dual-tower-rgb-260w-tdp-weiss-120mm/CPJB-061.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -7011,6 +7219,10 @@
     {
      "d": "2026-10-29",
      "p": 44.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 44.9
     }
    ],
    "count": 1,
@@ -7024,7 +7236,7 @@
    "name": "Jonsbo CR-3000E CPU-Kühler, Dual-Tower, RGB, 260W TDP - schwarz, 120mm",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-cr-3000e-cpu-kuehler-dual-tower-rgb-260w-tdp-schwarz-120mm/CPJB-062.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -7040,6 +7252,10 @@
     {
      "d": "2026-10-29",
      "p": 44.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 44.9
     }
    ],
    "count": 1,
@@ -7053,7 +7269,7 @@
    "name": "Jonsbo CA80 CPU-Kühler, Dual-Tower, 2 x 120mm, PWM, RGB - schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-ca80-cpu-kuehler-dual-tower-2-x-120mm-pwm-rgb-schwarz/CPJB-085.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -7068,6 +7284,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 44.9
+    },
+    {
+     "d": "2026-10-30",
      "p": 44.9
     }
    ],
@@ -7198,7 +7418,7 @@
    "name": "Jonsbo CA90 CPU-Kühler, Dual-Tower, 1 x 130mm / 1 x 120mm, PWM, ARGB - schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-ca90-cpu-kuehler-dual-tower-1-x-130mm-1-x-120mm-pwm-argb-schwarz/CPJB-086.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -7213,6 +7433,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 46.9
+    },
+    {
+     "d": "2026-10-30",
      "p": 46.9
     }
    ],
@@ -7256,7 +7480,7 @@
    "name": "Jonsbo HX6250 CPU-Kühler - 140mm, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-hx6250-cpu-kuehler-140mm-schwarz/CPJB-013.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -7272,6 +7496,10 @@
     {
      "d": "2026-10-29",
      "p": 49.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 49.9
     }
    ],
    "count": 1,
@@ -7285,7 +7513,7 @@
    "name": "Jonsbo CR-3000 CPU-Kühler Dual Tower, ARGB - 2x 120 mm, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-cr-3000-cpu-kuehler-dual-tower-argb-2x-120-mm-schwarz/CPJB-029.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -7301,6 +7529,10 @@
     {
      "d": "2026-10-29",
      "p": 49.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 49.9
     }
    ],
    "count": 1,
@@ -7314,7 +7546,7 @@
    "name": "Jonsbo CR-3000 CPU-Kühler, ARGB - weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-cr-3000-cpu-kuehler-argb-weiss/CPJB-041.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -7330,6 +7562,10 @@
     {
      "d": "2026-10-29",
      "p": 49.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 49.9
     }
    ],
    "count": 1,
@@ -7343,7 +7579,7 @@
    "name": "Noctua NH-L9a-AM5 Low Profile CPU-Kühler - 92mm",
    "source": "crawler",
    "url": "https://www.caseking.de/noctua-nh-l9a-am5-low-profile-cpu-kuehler-92mm/CPNA-090.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -7358,6 +7594,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 49.9
+    },
+    {
+     "d": "2026-10-30",
      "p": 49.9
     }
    ],
@@ -7401,7 +7641,7 @@
    "name": "Dynatron Xeon CPU-Kühler R-27",
    "source": "crawler",
    "url": "https://www.alternate.de/Dynatron/Xeon-CPU-K%C3%BChler-R-27/html/product/1180332",
-   "stand": "2026-10-29T17:40",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -7416,6 +7656,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 49.9
+    },
+    {
+     "d": "2026-10-30",
      "p": 49.9
     }
    ],
@@ -7546,7 +7790,7 @@
    "name": "Alpenföhn Brocken 4 Max ARGB CPU-Kühler - 2x 120mm, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/alpenfoehn-brocken-4-max-argb-cpu-kuehler-2x-120mm-schwarz/CPAF-062.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -7562,6 +7806,10 @@
     {
      "d": "2026-10-29",
      "p": 50.6
+    },
+    {
+     "d": "2026-10-30",
+     "p": 50.6
     }
    ],
    "count": 1,
@@ -7575,7 +7823,7 @@
    "name": "Alpenföhn Brocken 4 Max ARGB CPU-Kühler - 2x 120mm, weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/alpenfoehn-brocken-4-max-argb-cpu-kuehler-2x-120mm-weiss/CPAF-063.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -7591,6 +7839,10 @@
     {
      "d": "2026-10-29",
      "p": 50.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 50.9
     }
    ],
    "count": 1,
@@ -7604,7 +7856,7 @@
    "name": "Noctua NH-U12S redux CPU-Kühler - 120mm",
    "source": "crawler",
    "url": "https://www.caseking.de/noctua-nh-u12s-redux-cpu-kuehler-120mm/CPNA-066.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -7619,6 +7871,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 54.9
+    },
+    {
+     "d": "2026-10-30",
      "p": 54.9
     }
    ],
@@ -7749,7 +8005,7 @@
    "name": "Akasa SOHO H4 plus CPU Kühler, ARGB - 120mm",
    "source": "crawler",
    "url": "https://www.caseking.de/akasa-soho-h4-plus-cpu-kuehler-argb-120mm/CPAK-062.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -7765,6 +8021,10 @@
     {
      "d": "2026-10-29",
      "p": 59.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 59.9
     }
    ],
    "count": 1,
@@ -7778,7 +8038,7 @@
    "name": "Noctua NH-D9L CPU-Kühler - 92mm",
    "source": "crawler",
    "url": "https://www.caseking.de/en/noctua-nh-d9l-cpu-kuehler-92mm/CPNA-035.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -7794,6 +8054,10 @@
     {
      "d": "2026-10-29",
      "p": 59.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 59.9
     }
    ],
    "count": 1,
@@ -7807,7 +8071,7 @@
    "name": "Noctua NH-L9x65 CPU-Kühler - 92mm",
    "source": "crawler",
    "url": "https://www.caseking.de/noctua-nh-l9x65-cpu-kuehler-92mm/CPNA-037.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -7823,6 +8087,10 @@
     {
      "d": "2026-10-29",
      "p": 59.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 59.9
     }
    ],
    "count": 1,
@@ -7836,7 +8104,7 @@
    "name": "Noctua NH-L9i chromax.black CPU-Kühler - 92mm",
    "source": "crawler",
    "url": "https://www.caseking.de/noctua-nh-l9i-chromax.black-cpu-kuehler-92mm/CPNA-060.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -7852,6 +8120,10 @@
     {
      "d": "2026-10-29",
      "p": 59.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 59.9
     }
    ],
    "count": 1,
@@ -7865,7 +8137,7 @@
    "name": "Noctua NH-L9a-AM4 chromax.black Low Profile CPU-Kühler - 92mm",
    "source": "crawler",
    "url": "https://www.caseking.de/noctua-nh-l9a-am4-chromax.black-low-profile-cpu-kuehler-92mm/CPNA-063.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -7881,6 +8153,10 @@
     {
      "d": "2026-10-29",
      "p": 59.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 59.9
     }
    ],
    "count": 1,
@@ -7894,7 +8170,7 @@
    "name": "Noctua NH-L9i-17xx chromax.black CPU-Kühler - 92mm",
    "source": "crawler",
    "url": "https://www.caseking.de/noctua-nh-l9i-17xx-chromax.black-cpu-kuehler-92mm/CPNA-081.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -7910,6 +8186,10 @@
     {
      "d": "2026-10-29",
      "p": 59.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 59.9
     }
    ],
    "count": 1,
@@ -7923,7 +8203,7 @@
    "name": "Noctua NH-L9a-AM5 chromax.black Low Profile CPU-Kühler - 92mm",
    "source": "crawler",
    "url": "https://www.caseking.de/noctua-nh-l9a-am5-chromax.black-low-profile-cpu-kuehler-92mm/CPNA-091.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -7938,6 +8218,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 59.9
+    },
+    {
+     "d": "2026-10-30",
      "p": 59.9
     }
    ],
@@ -8155,7 +8439,7 @@
    "name": "Jonsbo HX6280 CPU-Kühler, PWM, RGB - 130mm, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-hx6280-cpu-kuehler-pwm-rgb-130mm-schwarz/CPJB-066.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -8171,6 +8455,10 @@
     {
      "d": "2026-10-29",
      "p": 69.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 69.9
     }
    ],
    "count": 1,
@@ -8184,7 +8472,7 @@
    "name": "Jonsbo HX6280 CPU-Kühler, PWM, RGB - 130mm, weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-hx6280-cpu-kuehler-pwm-rgb-130mm-weiss/CPJB-067.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -8200,6 +8488,10 @@
     {
      "d": "2026-10-29",
      "p": 69.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 69.9
     }
    ],
    "count": 1,
@@ -8213,7 +8505,7 @@
    "name": "Noctua NH-U9S CPU-Kühler - 92mm",
    "source": "crawler",
    "url": "https://www.caseking.de/en/noctua-nh-u9s-cpu-kuehler-92mm/CPNA-034.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -8229,6 +8521,10 @@
     {
      "d": "2026-10-29",
      "p": 69.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 69.9
     }
    ],
    "count": 1,
@@ -8242,7 +8538,7 @@
    "name": "Noctua NH-L12S Low Profile CPU-Kühler - 120mm",
    "source": "crawler",
    "url": "https://www.caseking.de/en/noctua-nh-l12s-low-profile-cpu-kuehler-120mm/CPNA-049.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -8257,6 +8553,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 69.9
+    },
+    {
+     "d": "2026-10-30",
      "p": 69.9
     }
    ],
@@ -8300,7 +8600,7 @@
    "name": "SilverStone SST-NT06-PRO-V2 Nitrogon CPU-Kühler - 120 mm",
    "source": "crawler",
    "url": "https://www.caseking.de/en/silverstone-sst-nt06-pro-v2-nitrogon-cpu-cooler-120-mm/CPSI-042.html",
-   "stand": "2026-10-29T17:40",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -8316,6 +8616,10 @@
     {
      "d": "2026-10-29",
      "p": 71.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 71.9
     }
    ],
    "count": 1,
@@ -8329,7 +8633,7 @@
    "name": "Akasa SOHO H6L M2 Low-Profile CPU-Kühler, ARGB - 120mm, weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/akasa-soho-h6l-m2-low-profile-cpu-kuehler-argb-120mm-weiss/CPAK-090.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -8344,6 +8648,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 72.9
+    },
+    {
+     "d": "2026-10-30",
      "p": 72.9
     }
    ],
@@ -8416,7 +8724,7 @@
    "name": "Akasa SOHO H4 Plus CPU-Kühler & AR12 Reverse-Lüfter, RGB - schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/akasa-soho-h4-plus-cpu-kuehler-und-ar12-reverse-luefter-rgb-schwarz/CPAK-081.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -8432,6 +8740,10 @@
     {
      "d": "2026-10-29",
      "p": 74.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 74.9
     }
    ],
    "count": 1,
@@ -8445,7 +8757,7 @@
    "name": "Akasa SOHO H6L M2 Low-Profile CPU-Kühler, ARGB - 120mm, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/akasa-soho-h6l-m2-low-profile-cpu-kuehler-argb-120mm-schwarz/CPAK-087.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -8461,6 +8773,10 @@
     {
      "d": "2026-10-29",
      "p": 74.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 74.9
     }
    ],
    "count": 1,
@@ -8474,7 +8790,7 @@
    "name": "Be quiet! Dark Rock 6 CPU-Kühler, PWM - 135mm, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/be-quiet-dark-rock-6-cpu-kuehler-pwm-135mm-schwarz/CPBQ-040.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -8489,6 +8805,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 74.9
+    },
+    {
+     "d": "2026-10-30",
      "p": 74.9
     }
    ],
@@ -8619,7 +8939,7 @@
    "name": "Noctua NH-U12S CPU-Kühler - 120mm",
    "source": "crawler",
    "url": "https://www.caseking.de/en/noctua-nh-u12s-cpu-kuehler-120mm/CPNA-028.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -8635,6 +8955,10 @@
     {
      "d": "2026-10-29",
      "p": 79.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 79.9
     }
    ],
    "count": 1,
@@ -8648,7 +8972,7 @@
    "name": "Noctua NH-U9S chromax.black CPU-Kühler - 92mm",
    "source": "crawler",
    "url": "https://www.caseking.de/noctua-nh-u9s-chromax.black-cpu-kuehler-92mm/CPNA-064.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -8663,6 +8987,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 79.9
+    },
+    {
+     "d": "2026-10-30",
      "p": 79.9
     }
    ],
@@ -8735,7 +9063,7 @@
    "name": "ASRock CL25FFB 24,5\" Monitor 1920x1080 144 Hz Schwarz | 100673168",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asrock-cl25ffb-24-5-monitor-1920x1080-144-hz-schwarz-100673168/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -8793,7 +9121,7 @@
    "name": "Dell SE2225HM - LED-Monitor - 55.9 cm (22\") (21.5\" sichtbar) (DELL-SE2225HM) | 100583588",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/dell-se2225hm-led-monitor-55-9-cm-22-21-5-sichtbar-dell-se2225hm-100583588/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -8938,7 +9266,7 @@
    "name": "ASUS VP227HF Gaming LED-Monitor 55.9 cm (22\") (21.5\" sichtbar) (90LM0880-B01O71) | 100672869",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-vp227hf-gaming-led-monitor-55-9-cm-22-21-5-sichtbar-90lm0880-b01o71-100672869/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -9083,7 +9411,7 @@
    "name": "HP Series 3 Pro 322pe 21.45\" 1920 x 1080 IPS LED-Monitor Schwarz | 100588735",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/hp-series-3-pro-322pe-21-45-1920-x-1080-ips-led-monitor-schwarz-100588735/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -9112,7 +9440,7 @@
    "name": "Noctua NH-U12S chromax.black CPU-Kühler - 120mm",
    "source": "crawler",
    "url": "https://www.caseking.de/noctua-nh-u12s-chromax.black-cpu-kuehler-120mm/CPNA-062.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -9127,6 +9455,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 89.9
+    },
+    {
+     "d": "2026-10-30",
      "p": 89.9
     }
    ],
@@ -9286,7 +9618,7 @@
    "name": "Be quiet! Dark Rock Pro 6 CPU-Kühler, Dual-Tower, PWM - 1x 120/1x 135mm, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/be-quiet-dark-rock-pro-6-cpu-kuehler-dual-tower-pwm-1x-120-1x-135mm-schwarz/CPBQ-039.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -9302,6 +9634,10 @@
     {
      "d": "2026-10-29",
      "p": 92.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 92.9
     }
    ],
    "count": 1,
@@ -9315,22 +9651,22 @@
    "name": "Philips 1000 Series 27E2N1110 27\" FHD Monitor IPS 120Hz 1ms HDMI VGA Schwarz | 100589200",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/philips-1000-series-27e2n1110-27-fhd-monitor-ips-120hz-1ms-hdmi-vga-schwarz-100589200/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
-     "price": 93.18,
+     "price": 93.17,
      "ship": null,
      "avail": null,
      "url": "https://www.jacob.de/produkt/philips-1000-series-27e2n1110-27-fhd-monitor-ips-120hz-1ms-hdmi-vga-schwarz-100589200/"
     }
    ],
-   "price": 93.18,
+   "price": 93.17,
    "shop": "JACOB Elektronik GmbH",
    "hist": [
     {
      "d": "2026-10-30",
-     "p": 93.18
+     "p": 93.17
     }
    ],
    "count": 1,
@@ -9344,7 +9680,7 @@
    "name": "BenQ GW2491 23.8\" IPS-Monitor 1920 x 1080 100 Hz Schwarz | 100547774",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/benq-gw2491-23-8-ips-monitor-1920-x-1080-100-hz-schwarz-100547774/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -9547,7 +9883,7 @@
    "name": "AOC 27B31H - 27\" Zoll Full HD Monitor - 120 Hz - Adaptive Bildsynchronisation - 1920x1080 - 16:9 IPS - 1x D-Sub, 1x HDMI 1.4 - schwarz [Energieklasse E] (27B31H) | 100589084",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/aoc-27b31h-27-zoll-full-hd-monitor-120-hz-adaptive-bildsynchronisation-1920x1080-16-9-ips-1x-d-sub-1x-hdmi-1-4-schwarz-energieklasse-e-27b31h-100589084/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -9634,7 +9970,7 @@
    "name": "ASUS VZ249HG Eye Care Gaming Monitor 60.5 cm (24\") - IPS, Full HD, 99% sRGB, rahmenlos, 120Hz, SmoothMotion (90LM0BV1-B01A71) | 100672871",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-vz249hg-eye-care-gaming-monitor-60-5-cm-24-ips-full-hd-99-srgb-rahmenlos-120hz-smoothmotion-90lm0bv1-b01a71-100672871/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -9663,7 +9999,7 @@
    "name": "Noctua NH-D15S CPU-Kühler - 140mm",
    "source": "crawler",
    "url": "https://www.caseking.de/noctua-nh-d15s-cpu-kuehler-140mm/CPNA-039.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -9679,6 +10015,10 @@
     {
      "d": "2026-10-29",
      "p": 98.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 98.9
     }
    ],
    "count": 1,
@@ -9692,7 +10032,7 @@
    "name": "Noctua NH-D12L CPU-Kühler - 120mm",
    "source": "crawler",
    "url": "https://www.caseking.de/noctua-nh-d12l-cpu-kuehler-120mm/CPNA-083.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -9707,6 +10047,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 99.9
+    },
+    {
+     "d": "2026-10-30",
      "p": 99.9
     }
    ],
@@ -9837,7 +10181,7 @@
    "name": "Samsung Odyssey G5 S32DG500EU Gaming-Monitor 32\" Quad HD IPS 180 Hz 1 ms Schwarz | 100503619",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/samsung-odyssey-g5-s32dg500eu-gaming-monitor-32-quad-hd-ips-180-hz-1-ms-schwarz-100503619/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -9866,7 +10210,7 @@
    "name": "Dell S2722DC 27\" Monitor 2560 x 1440 75 Hz USB-C Grau | 7532216",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/dell-s2722dc-27-monitor-2560-x-1440-75-hz-usb-c-grau-7532216/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -9895,7 +10239,7 @@
    "name": "NEC MultiSync EA241WU-BK Monitor 24\" WUXGA IPS Schwarz | 4604916",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/nec-multisync-ea241wu-bk-monitor-24-wuxga-ips-schwarz-4604916/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -9924,7 +10268,7 @@
    "name": "LG UltraWide 34WN780P-B 34\" LED-Monitor WQHD IPS 75 Hz HDMI DisplayPort Schwarz | 8313708",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/lg-ultrawide-34wn780p-b-34-led-monitor-wqhd-ips-75-hz-hdmi-displayport-schwarz-8313708/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -9953,7 +10297,7 @@
    "name": "ASUS ROG Swift OLED PG27AQDM 26,5\" OLED Gaming Monitor 2560 x 1440 240 Hz Schwarz | 8274916",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-rog-swift-oled-pg27aqdm-26-5-oled-gaming-monitor-2560-x-1440-240-hz-schwarz-8274916/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -9982,7 +10326,7 @@
    "name": "GIGABYTE M32UP Gaming-Monitor 31,5\" UHD 160 Hz SS-IPS AdaptiveSync Schwarz | 100547776",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/gigabyte-m32up-gaming-monitor-31-5-uhd-160-hz-ss-ips-adaptivesync-schwarz-100547776/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -10011,7 +10355,7 @@
    "name": "ASUS ROG Swift OLED PG48UQ Gaming-Monitor 47.5\" 4K UHD 138 Hz Schwarz | 7981630",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-rog-swift-oled-pg48uq-gaming-monitor-47-5-4k-uhd-138-hz-schwarz-7981630/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -10040,7 +10384,7 @@
    "name": "HP P24H G4 23,8\" Full HD Office-Monitor | 100000580",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/hp-p24h-g4-23-8-full-hd-office-monitor-100000580/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -10069,7 +10413,7 @@
    "name": "Acer Vero B7 B247Y C3 23.8\" Full HD IPS Monitor Schwarz | 100505624",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/acer-vero-b7-b247y-c3-23-8-full-hd-ips-monitor-schwarz-100505624/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -10098,7 +10442,7 @@
    "name": "TERRA GREENLINE PLUS 2427W HA V2 23.8\" Full HD Monitor HDMI/DisplayPort/USB-C Schwarz | 100462700",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/terra-greenline-plus-2427w-ha-v2-23-8-full-hd-monitor-hdmi-displayport-usb-c-schwarz-100462700/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -10127,7 +10471,7 @@
    "name": "Dell E Series E2425H 24\" Monitor Full HD VA Schwarz | 100505652",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/dell-e-series-e2425h-24-monitor-full-hd-va-schwarz-100505652/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -10156,7 +10500,7 @@
    "name": "AOC G1 27G15N2 Gaming-Monitor 27\" Full HD Fast VA 180 Hz 1 ms HDR Schwarz | 100498031",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/aoc-g1-27g15n2-gaming-monitor-27-full-hd-fast-va-180-hz-1-ms-hdr-schwarz-100498031/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -11026,7 +11370,7 @@
    "name": "ViewSonic VX27G1-HD 27\" Gaming Monitor Full HD IPS 180 Hz 1 ms Schwarz | 100695867",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/viewsonic-vx27g1-hd-27-gaming-monitor-full-hd-ips-180-hz-1-ms-schwarz-100695867/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -11055,7 +11399,7 @@
    "name": "LG 27U41YA-B 27\" Full HD IPS-Monitor 120 Hz HDR10 Schwarz | 100696000",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/lg-27u41ya-b-27-full-hd-ips-monitor-120-hz-hdr10-schwarz-100696000/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -11084,7 +11428,7 @@
    "name": "MSI PRO H810M-B, Mainboard",
    "source": "crawler",
    "url": "https://www.alternate.de/MSI/PRO-H810M-B-Mainboard/html/product/100140528",
-   "stand": "2026-10-29T17:40",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -11099,6 +11443,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 100.9
+    },
+    {
+     "d": "2026-10-30",
      "p": 100.9
     }
    ],
@@ -11171,7 +11519,7 @@
    "name": "BenQ GW2790 27\" IPS-Monitor 1920 x 1080 100 Hz Schwarz | 100435875",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/benq-gw2790-27-ips-monitor-1920-x-1080-100-hz-schwarz-100435875/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -11200,7 +11548,7 @@
    "name": "LC-Power LC-M27F 27\" IPS 144 Hz Full HD Monitor Schwarz | 100604542",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/lc-power-lc-m27f-27-ips-144-hz-full-hd-monitor-schwarz-100604542/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -11287,7 +11635,7 @@
    "name": "Noctua NH-D15 CPU-Kühler - 140/140mm",
    "source": "crawler",
    "url": "https://www.caseking.de/en/noctua-nh-d15-cpu-kuehler-140-140mm/CPNA-033.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -11302,6 +11650,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 104.9
+    },
+    {
+     "d": "2026-10-30",
      "p": 104.9
     }
    ],
@@ -11374,7 +11726,7 @@
    "name": "GIGABYTE GS25F2 62,23cm 24,5Zoll SS IPS monitor 1920x1080 FHD 200Hz 300cd/m2 2xHDMI 1xDP [Energieklasse E] (GS25F2) | 100588831",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/gigabyte-gs25f2-62-23cm-24-5zoll-ss-ips-monitor-1920x1080-fhd-200hz-300cd-m2-2xhdmi-1xdp-energieklasse-e-gs25f2-100588831/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -11461,7 +11813,7 @@
    "name": "Philips 1000 Series 27E1N1200A 27\" IPS LED-Monitor Full HD 1920 x 1080 120 Hz Schwarz | 100589199",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/philips-1000-series-27e1n1200a-27-ips-led-monitor-full-hd-1920-x-1080-120-hz-schwarz-100589199/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -11490,7 +11842,7 @@
    "name": "Akasa Soho H7 Dual Tower CPU-Kühler, ARGB - 120 mm, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/akasa-soho-h7-dual-tower-cpu-kuehler-argb-120-mm-schwarz/CPAK-069.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -11506,6 +11858,10 @@
     {
      "d": "2026-10-29",
      "p": 109.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 109.9
     }
    ],
    "count": 1,
@@ -11519,7 +11875,7 @@
    "name": "Noctua NH-D15S chromax.black CPU-Kühler - 140mm",
    "source": "crawler",
    "url": "https://www.caseking.de/noctua-nh-d15s-chromax.black-cpu-kuehler-140mm/CPNA-065.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -11535,6 +11891,10 @@
     {
      "d": "2026-10-29",
      "p": 109.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 109.9
     }
    ],
    "count": 1,
@@ -11548,7 +11908,7 @@
    "name": "Noctua NH-D12L chromax.black CPU-Kühler - 120mm",
    "source": "crawler",
    "url": "https://www.caseking.de/noctua-nh-d12l-chromax.black-cpu-kuehler-120mm/CPNA-100.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -11563,6 +11923,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 109.9
+    },
+    {
+     "d": "2026-10-30",
      "p": 109.9
     }
    ],
@@ -11722,7 +12086,7 @@
    "name": "BenQ GW2791 27\" IPS 100 Hz 1920 x 1080 LED-Monitor Schwarz | 100547775",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/benq-gw2791-27-ips-100-hz-1920-x-1080-led-monitor-schwarz-100547775/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -11751,7 +12115,7 @@
    "name": "Xiaomi G27i 2026 Gaming Monitor 68,6 cm (27\") Full HD 200Hz 1ms FreeSync Premium Schwarz | 100697106",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/xiaomi-g27i-2026-gaming-monitor-68-6-cm-27-full-hd-200hz-1ms-freesync-premium-schwarz-100697106/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -11780,7 +12144,7 @@
    "name": "ASUS VA259HGA EyeCare, Gaming-Monitor - (62.2 cm (24.5 Zoll), schwarz, FullHD, IPS, Adaptive-Sync, 120Hz Panel) [Energieklasse E] (90LM0AS1-B01171) | 100547768",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-va259hga-eyecare-gaming-monitor-62-2-cm-24-5-zoll-schwarz-fullhd-ips-adaptive-sync-120hz-panel-energieklasse-e-90lm0as1-b01171-100547768/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -11954,7 +12318,7 @@
    "name": "HP Series 3 Pro 322ph Monitor 21,5\" FHD IPS 100 Hz HDMI DisplayPort VGA Schwarz | 100589651",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/hp-series-3-pro-322ph-monitor-21-5-fhd-ips-100-hz-hdmi-displayport-vga-schwarz-100589651/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -12012,7 +12376,7 @@
    "name": "Dell Monitor E2725H - 68,599cm (27\") - 16:09 DP+VGA VA black [Energieklasse D] (DELL-E2725H) | 100505653",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/dell-monitor-e2725h-68-599cm-27-16-09-dp-vga-va-black-energieklasse-d-dell-e2725h-100505653/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -12157,7 +12521,7 @@
    "name": "Noctua NH-U12A CPU-Kühler - 120mm",
    "source": "crawler",
    "url": "https://www.caseking.de/noctua-nh-u12a-cpu-kuehler-120mm/CPNA-059.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -12173,6 +12537,10 @@
     {
      "d": "2026-10-29",
      "p": 119.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 119.9
     }
    ],
    "count": 1,
@@ -12186,7 +12554,7 @@
    "name": "Noctua NH-D15 chromax.black CPU-Kühler - 140/140mm",
    "source": "crawler",
    "url": "https://www.caseking.de/noctua-nh-d15-chromax.black-cpu-kuehler-140-140mm/CPNA-061.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -12202,6 +12570,10 @@
     {
      "d": "2026-10-29",
      "p": 119.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 119.9
     }
    ],
    "count": 1,
@@ -12215,7 +12587,7 @@
    "name": "Noctua NH-P1 passiver CPU-Kühler",
    "source": "crawler",
    "url": "https://www.caseking.de/noctua-nh-p1-passiver-cpu-kuehler/CPNA-067.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -12230,6 +12602,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 119.9
+    },
+    {
+     "d": "2026-10-30",
      "p": 119.9
     }
    ],
@@ -12360,7 +12736,7 @@
    "name": "AOC 24G4HA, Gaming-Monitor - (60.5 cm (23.8 Zoll), schwarz (matt), FullHD, Fast-IPS, Adaptive-Sync, G-Sync kompatibel, 200Hz Panel)(TFT/LCD) [Energieklasse E] (24G4HA) | 100582935",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/aoc-24g4ha-gaming-monitor-60-5-cm-23-8-zoll-schwarz-matt-fullhd-fast-ips-adaptive-sync-g-sync-kompatibel-200hz-panel-tft-lcd-energieklasse-e-24g4ha-100582935/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -12476,7 +12852,7 @@
    "name": "Gigabyte G25F2 24,5\" Gaming-Monitor 1920 x 1080 Full HD 200 Hz SS-IPS Schwarz | 100588832",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/gigabyte-g25f2-24-5-gaming-monitor-1920-x-1080-full-hd-200-hz-ss-ips-schwarz-100588832/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -12534,7 +12910,7 @@
    "name": "Dell P2225H Monitor 21,5\" Full HD IPS 100 Hz HDMI DisplayPort USB-C Schwarz, Silber | 100470693",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/dell-p2225h-monitor-21-5-full-hd-ips-100-hz-hdmi-displayport-usb-c-schwarz-silber-100470693/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -12671,35 +13047,6 @@
    "count": 1,
    "tags": "netzteile 750 w seasonic focus plus gold netzteil modular 750 watt schwarz",
    "firstSeen": "2026-10-29"
-  },
-  {
-   "id": "c-hp-e22-g5-21-5-ips-full-hd-monitor-75-hz-schwarz-8151981",
-   "cat": "Monitore",
-   "sub": "21,5\"",
-   "name": "HP E22 G5 21.5\" IPS Full HD Monitor 75 Hz Schwarz | 8151981",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/hp-e22-g5-21-5-ips-full-hd-monitor-75-hz-schwarz-8151981/",
-   "stand": "2026-10-30T06:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 126.58,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/hp-e22-g5-21-5-ips-full-hd-monitor-75-hz-schwarz-8151981/"
-    }
-   ],
-   "price": 126.58,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 126.58
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 21,5\" e22 ips full monitor schwarz 8151981",
-   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-philips-3000-series-24b2n3200j-24-ips-monitor-1920-x-1080-12",
@@ -12882,7 +13229,7 @@
    "name": "Acer Vero B247YGbmiqprx 23.8\" IPS LED-Monitor Full HD 120 Hz Schwarz | 100589383",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/acer-vero-b247ygbmiqprx-23-8-ips-led-monitor-full-hd-120-hz-schwarz-100589383/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -12911,7 +13258,7 @@
    "name": "Noctua U12A chromax.black CPU-Kühler - 120mm",
    "source": "crawler",
    "url": "https://www.caseking.de/noctua-u12a-chromax.black-cpu-kuehler-120mm/CPNA-072.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -12926,6 +13273,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 129.9
+    },
+    {
+     "d": "2026-10-30",
      "p": 129.9
     }
    ],
@@ -13114,7 +13465,7 @@
    "name": "ASUS VZ279HG Eye Care Gaming Monitor 68.6 cm (27\") - IPS, Full HD, 99% sRGB, Rahmenlos, 120Hz, SmoothMotion (90LM0BU1-B01A71) | 100672872",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-vz279hg-eye-care-gaming-monitor-68-6-cm-27-ips-full-hd-99-srgb-rahmenlos-120hz-smoothmotion-90lm0bu1-b01a71-100672872/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -13195,6 +13546,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-hp-e22-g5-21-5-ips-full-hd-monitor-75-hz-schwarz-8151981",
+   "cat": "Monitore",
+   "sub": "21,5\"",
+   "name": "HP E22 G5 21.5\" IPS Full HD Monitor 75 Hz Schwarz | 8151981",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/hp-e22-g5-21-5-ips-full-hd-monitor-75-hz-schwarz-8151981/",
+   "stand": "2026-10-30T08:04",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 131.63,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/hp-e22-g5-21-5-ips-full-hd-monitor-75-hz-schwarz-8151981/"
+    }
+   ],
+   "price": 131.63,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 126.58
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 21,5\" e22 ips full monitor schwarz 8151981",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-aoc-q27b36x-b36-series-27-qhd-ips-gaming-monitor-144-hz-0-5-",
    "cat": "Monitore",
    "sub": "27\"",
@@ -13230,7 +13610,7 @@
    "name": "HP 324ph - Series 3 Pro - LED-Monitor - 60.5 cm (23.8\") - FHD 1920x1080@100Hz DP/HDMI/VGA 250cd 5ms [Energieklasse D] (B0BU9UT#ABB) | 100589652",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/hp-324ph-series-3-pro-led-monitor-60-5-cm-23-8-fhd-1920x1080at100hz-dp-hdmi-vga-250cd-5ms-energieklasse-d-b0bu9ut-abb-100589652/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -13317,7 +13697,7 @@
    "name": "HP 327pf - Series 3 Pro - LED-Monitor - 68.6 cm (27\") (B0CG3UT#ABB) | 100589653",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/hp-327pf-series-3-pro-led-monitor-68-6-cm-27-b0cg3ut-abb-100589653/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -13462,7 +13842,7 @@
    "name": "DELL 24 Plus Monitor S2425HSM 60,45cm (23,8\") IPS 1920x1080 16:9 300 cd/m2 144Hz 2xHDMI (DELL-S2425HSM) | 100673692",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/dell-24-plus-monitor-s2425hsm-60-45cm-23-8-ips-1920x1080-16-9-300-cd-m2-144hz-2xhdmi-dell-s2425hsm-100673692/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -14042,7 +14422,7 @@
    "name": "Philips Evnia 5000 27M2C5501 27\" Curved QHD Gaming-Monitor 180 Hz Fast VA Weiß | 100504396",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/philips-evnia-5000-27m2c5501-27-curved-qhd-gaming-monitor-180-hz-fast-va-weiss-100504396/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -14071,7 +14451,7 @@
    "name": "AOC 27G4HA, Gaming-Monitor - (68.6 cm (27 Zoll), schwarz (matt), FullHD, Fast-IPS, HDMI, DP, Lautsprecher, 200Hz Panel) [Energieklasse E] (27G4HA) | 100582936",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/aoc-27g4ha-gaming-monitor-68-6-cm-27-zoll-schwarz-matt-fullhd-fast-ips-hdmi-dp-lautsprecher-200hz-panel-energieklasse-e-27g4ha-100582936/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -14100,7 +14480,7 @@
    "name": "Noctua NH-D15 G2 HBC CPU-Kühler Intel optimiert - 140 / 140mm",
    "source": "crawler",
    "url": "https://www.caseking.de/noctua-nh-d15-g2-hbc-cpu-kuehler-intel-optimiert-140-140mm/CPNA-102.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -14115,6 +14495,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 144.9
+    },
+    {
+     "d": "2026-10-30",
      "p": 144.9
     }
    ],
@@ -14361,7 +14745,7 @@
    "name": "iiyama G-MASTER Red Eagle G2771HSU-B1 27\" Full HD 240 Hz Fast IPS Gaming Monitor Schwarz Matte | 100672292",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/iiyama-g-master-red-eagle-g2771hsu-b1-27-full-hd-240-hz-fast-ips-gaming-monitor-schwarz-matte-100672292/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -14448,7 +14832,7 @@
    "name": "Noctua NH-D15 G2 CPU-Kühler - 140/140mm",
    "source": "crawler",
    "url": "https://www.caseking.de/noctua-nh-d15-g2-cpu-kuehler-140-140mm/CPNA-101.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -14464,6 +14848,10 @@
     {
      "d": "2026-10-29",
      "p": 149.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 149.9
     }
    ],
    "count": 1,
@@ -14477,7 +14865,7 @@
    "name": "Noctua NH-D15 G2 LBC CPU-Kühler AMD optimiert - 140/140mm",
    "source": "crawler",
    "url": "https://www.caseking.de/noctua-nh-d15-g2-lbc-cpu-kuehler-amd-optimiert-140-140mm/CPNA-103.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -14492,6 +14880,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 149.9
+    },
+    {
+     "d": "2026-10-30",
      "p": 149.9
     }
    ],
@@ -14912,7 +15304,7 @@
    "name": "Gigabyte GS27QCA 27\" QHD VA Curved Gaming Monitor 180 Hz Schwarz | 100548302",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/gigabyte-gs27qca-27-qhd-va-curved-gaming-monitor-180-hz-schwarz-100548302/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -14970,7 +15362,7 @@
    "name": "AOC Q24G4RE, Gaming-Monitor - (60.5 cm (23.8 Zoll), schwarz (matt), QHD, Fast-IPS, HDMI, DP, HDR10, 180Hz Panel) [Energieklasse E] (Q24G4RE) | 100582933",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/aoc-q24g4re-gaming-monitor-60-5-cm-23-8-zoll-schwarz-matt-qhd-fast-ips-hdmi-dp-hdr10-180hz-panel-energieklasse-e-q24g4re-100582933/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -15086,7 +15478,7 @@
    "name": "Dell SE2726D 27\" IPS QHD Monitor 2560 x 1440 144 Hz Schwarz | 100865279",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/dell-se2726d-27-ips-qhd-monitor-2560-x-1440-144-hz-schwarz-100865279/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -15376,7 +15768,7 @@
    "name": "Noctua NH-D15 G2 chromax.black CPU-Kühler, Dual-Tower, PWM - schwarz, 140mm",
    "source": "crawler",
    "url": "https://www.caseking.de/noctua-nh-d15-g2-chromax.black-cpu-kuehler-dual-tower-pwm-schwarz-140mm/CPNA-104.html",
-   "stand": "2026-10-29T17:11",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "caseking.de",
@@ -15391,6 +15783,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 159.9
+    },
+    {
+     "d": "2026-10-30",
      "p": 159.9
     }
    ],
@@ -15637,7 +16033,7 @@
    "name": "MSI PRO B850M-P WIFI, Mainboard",
    "source": "crawler",
    "url": "https://www.alternate.de/MSI/PRO-B850M-P-WIFI-Mainboard/html/product/100140540",
-   "stand": "2026-10-29T17:40",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -15652,6 +16048,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 161.9
+    },
+    {
+     "d": "2026-10-30",
      "p": 161.9
     }
    ],
@@ -15695,10 +16095,10 @@
    "name": "MSI PRO B850-S WIFI6E, Mainboard",
    "source": "crawler",
    "url": "https://www.alternate.de/MSI/PRO-B850-S-WIFI6E-Mainboard/html/product/100140537",
-   "stand": "2026-10-29T17:40",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
-     "shop": "ALTERNATE GmbH",
+     "shop": "ALTERNATE",
      "price": 162.9,
      "ship": 7.99,
      "avail": "Auf Lager",
@@ -15706,10 +16106,14 @@
     }
    ],
    "price": 162.9,
-   "shop": "ALTERNATE GmbH",
+   "shop": "ALTERNATE",
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 162.9
+    },
+    {
+     "d": "2026-10-30",
      "p": 162.9
     }
    ],
@@ -15753,7 +16157,7 @@
    "name": "GIGABYTE G27Q20 27\" WQHD Gaming Monitor 200 Hz 0.5 ms Schwarz | 100695646",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/gigabyte-g27q20-27-wqhd-gaming-monitor-200-hz-0-5-ms-schwarz-100695646/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -15811,7 +16215,7 @@
    "name": "AOC 24E4CV - LED-Monitor - 61 cm (24\") (23.8\" sichtbar) - 1920 x 1080 Full HD (1080p) [Energieklasse G] (24E4CV) | 100604521",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/aoc-24e4cv-led-monitor-61-cm-24-23-8-sichtbar-1920-x-1080-full-hd-1080p-energieklasse-g-24e4cv-100604521/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -15956,7 +16360,7 @@
    "name": "Iiyama G-Master G2771QS-B1 Red Eagle Gaming-Monitor 68.6 cm (27\"), schwarz (matt), QHD, Fast-IPS, HDMI, DP, G-Sync komp., 200Hz Panel (G2771QS-B1) | 100672294",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/iiyama-g-master-g2771qs-b1-red-eagle-gaming-monitor-68-6-cm-27-schwarz-matt-qhd-fast-ips-hdmi-dp-g-sync-komp-200hz-panel-g2771qs-b1-100672294/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -15985,7 +16389,7 @@
    "name": "Samsung LS27FG510EUXEN Odyssey G5 S27FG510EU LED-Monitor 68,6 cm (27\") Schwarz (LS27FG510EUXEN) | 100671758",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/samsung-ls27fg510euxen-odyssey-g5-s27fg510eu-led-monitor-68-6-cm-27-schwarz-ls27fg510euxen-100671758/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -16304,7 +16708,7 @@
    "name": "HP OMEN by HP 27 27\" Full HD Gaming Monitor 165 Hz Schwarz | 9238474",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/hp-omen-by-hp-27-27-full-hd-gaming-monitor-165-hz-schwarz-9238474/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -16325,6 +16729,39 @@
    "count": 1,
    "tags": "monitore 27\" omen full gaming monitor 165 schwarz 9238474",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-msi-b850-gaming-plus-wifi6e-mainboard",
+   "cat": "Mainboards",
+   "sub": "AM5 B850",
+   "name": "MSI B850 GAMING PLUS WIFI6E, Mainboard",
+   "source": "crawler",
+   "url": "https://www.alternate.de/MSI/B850-GAMING-PLUS-WIFI6E-Mainboard/html/product/100140534",
+   "stand": "2026-10-30T08:04",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 172.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/MSI/B850-GAMING-PLUS-WIFI6E-Mainboard/html/product/100140534"
+    }
+   ],
+   "price": 172.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 172.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 172.9
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 b850 msi b850 gaming plus wifi6e mainboard",
+   "firstSeen": "2026-10-29"
   },
   {
    "id": "c-benq-bl2790tc-27-ips-office-monitor-1920-x-1080-144-hz-schwa",
@@ -16536,7 +16973,7 @@
    "name": "LG 27BA45U-B 27\" IPS 3840x2160 Monitor Schwarz | 100583064",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/lg-27ba45u-b-27-ips-3840x2160-monitor-schwarz-100583064/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -16710,7 +17147,7 @@
    "name": "AOC Q27G42ZE, Gaming-Monitor - (68.6 cm (27 Zoll), schwarz (matt), QHD, Fast-IPS, Adaptive-Sync, HDR, 240Hz Panel) [Energieklasse F] (Q27G42ZE) | 100582934",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/aoc-q27g42ze-gaming-monitor-68-6-cm-27-zoll-schwarz-matt-qhd-fast-ips-adaptive-sync-hdr-240hz-panel-energieklasse-f-q27g42ze-100582934/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -16739,7 +17176,7 @@
    "name": "Philips 24B2G5200 24\" Full HD IPS Monitor 100 Hz Anthrazit | 100549729",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/philips-24b2g5200-24-full-hd-ips-monitor-100-hz-anthrazit-100549729/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -17174,7 +17611,7 @@
    "name": "Lenovo ThinkVision P24q-30 23.8\" QHD IPS-Monitor Raven Black | 8043240",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/lenovo-thinkvision-p24q-30-23-8-qhd-ips-monitor-raven-black-8043240/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -17203,7 +17640,7 @@
    "name": "Samsung S27D396| Monitor Curved FHD Speaker - Flachbildschirm (TFT/LCD) - (27\") 68,6cm [Energieklasse D] (LS27D396GAUXEN) | 100589419",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/samsung-s27d396-monitor-curved-fhd-speaker-flachbildschirm-tft-lcd-27-68-6cm-energieklasse-d-ls27d396gauxen-100589419/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -17348,7 +17785,7 @@
    "name": "BenQ BL2786TC 27\" FHD IPS Monitor 100 Hz Schwarz | 100504151",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/benq-bl2786tc-27-fhd-ips-monitor-100-hz-schwarz-100504151/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -17667,7 +18104,7 @@
    "name": "ASUS VA279QGS-W 27\" IPS Monitor 1920 x 1080 Full HD Weiß | 100695580",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-va279qgs-w-27-ips-monitor-1920-x-1080-full-hd-weiss-100695580/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -17754,7 +18191,7 @@
    "name": "LC Power LC-M27-QHD-180 Gaming-Monitor 27\" QHD IPS 180 Hz Schwarz | 100355334",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/lc-power-lc-m27-qhd-180-gaming-monitor-27-qhd-ips-180-hz-schwarz-100355334/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -17783,7 +18220,7 @@
    "name": "HP OMEN 27q G2 27\" QHD IPS 180 Hz Gaming Monitor Schwarz | 100604483",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/hp-omen-27q-g2-27-qhd-ips-180-hz-gaming-monitor-schwarz-100604483/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -18682,7 +19119,7 @@
    "name": "MSI B850 GAMING PLUS WIFI PZ, Mainboard",
    "source": "crawler",
    "url": "https://www.alternate.de/MSI/B850-GAMING-PLUS-WIFI-PZ-Mainboard/html/product/100140531",
-   "stand": "2026-10-29T17:40",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -18697,6 +19134,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 230.9
+    },
+    {
+     "d": "2026-10-30",
      "p": 230.9
     }
    ],
@@ -18769,7 +19210,7 @@
    "name": "LG 27BP55U-B 27\" 4K UHD IPS Monitor Silber | 100503860",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/lg-27bp55u-b-27-4k-uhd-ips-monitor-silber-100503860/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -19349,7 +19790,7 @@
    "name": "Philips 3000 Series 27B2U3601 27\" QHD IPS-Monitor 120 Hz USB-C Hub Ethernet Schwarz | 100589416",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/philips-3000-series-27b2u3601-27-qhd-ips-monitor-120-hz-usb-c-hub-ethernet-schwarz-100589416/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -19610,7 +20051,7 @@
    "name": "ASUS TUF Gaming VG27AQM5A QHD Monitor (27 Zoll, 2560 x 1440, Fast IPS, 0,3 ms Reaktionszeit, 300 Hz, Lautsprecher, ELMB Sync, HDMi, DisplayPort, USB-C) (90LM0BG0-B01971) | 100582969",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-tuf-gaming-vg27aqm5a-qhd-monitor-27-zoll-2560-x-1440-fast-ips-0-3-ms-reaktionszeit-300-hz-lautsprecher-elmb-sync-hdmi-displayport-usb-c-90lm0bg0-b01971-100582969/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -19697,7 +20138,7 @@
    "name": "AOC E4 Series LED-Monitor 68,6 cm (27\") - 3840 x 2160 4K UHD 2160p @ 60 Hz - IPS 400 cd/m² - 1200:1 - 4 ms - 2xHDMI DisplayPort USB-C Lautsprecher Schwarz (U27E4CV) | 100673599",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/aoc-e4-series-led-monitor-68-6-cm-27-3840-x-2160-4k-uhd-2160p-at-60-hz-ips-400-cd-m2-1200-1-4-ms-2xhdmi-displayport-usb-c-lautsprecher-schwarz-u27e4cv-100673599/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -19726,7 +20167,7 @@
    "name": "Lenovo ThinkVision T24i-30 23.8\" Full HD LED-Monitor IPS Raven Black | 8313472",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/lenovo-thinkvision-t24i-30-23-8-full-hd-led-monitor-ips-raven-black-8313472/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -19784,7 +20225,7 @@
    "name": "Acer Vero B247WE5bemiqpruzx 24\" 1920 x 1200 IPS Office Monitor Schwarz | 100605706",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/acer-vero-b247we5bemiqpruzx-24-1920-x-1200-ips-office-monitor-schwarz-100605706/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -19871,7 +20312,7 @@
    "name": "GIGABYTE G34WQC2 Curved Gaming Monitor 34\" UWQHD VA 200 Hz Schwarz | 100605367",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/gigabyte-g34wqc2-curved-gaming-monitor-34-uwqhd-va-200-hz-schwarz-100605367/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -20132,7 +20573,7 @@
    "name": "Philips B Line 276B1 27\" Quad HD IPS LED-Monitor USB-C Black Texture | 6793215",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/philips-b-line-276b1-27-quad-hd-ips-led-monitor-usb-c-black-texture-6793215/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -20248,7 +20689,7 @@
    "name": "Iiyama ProLite XB2797QSNP-W1 27\" QHD IPS Monitor USB-C Docking KVM & LAN Weiß | 100859431",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/iiyama-prolite-xb2797qsnp-w1-27-qhd-ips-monitor-usb-c-docking-kvm-lan-weiss-100859431/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -20335,7 +20776,7 @@
    "name": "Acer Nitro XZ340CUJ0bmiiphx Gaming Monitor 34\" UWQHD 120 Hz VA Schwarz | 100606611",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/acer-nitro-xz340cuj0bmiiphx-gaming-monitor-34-uwqhd-120-hz-va-schwarz-100606611/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -20422,7 +20863,7 @@
    "name": "DELL 27 Plus QHD USB-C Monitor S2725DC - 68,6 cm (27\"), IPS, 2560x1440, 144Hz, USB-C, Weiß (DELL-S2725DC) | 100673693",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/dell-27-plus-qhd-usb-c-monitor-s2725dc-68-6-cm-27-ips-2560x1440-144hz-usb-c-weiss-dell-s2725dc-100673693/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -20480,7 +20921,7 @@
    "name": "Gigabyte GS27U 27\" 4K UHD Gaming Monitor Schwarz | 100583557",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/gigabyte-gs27u-27-4k-uhd-gaming-monitor-schwarz-100583557/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -20538,7 +20979,7 @@
    "name": "Acer Predator XB273K V5bmiiprx 27\" 4K IPS Gaming Monitor 160 Hz Schwarz | 100588467",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/acer-predator-xb273k-v5bmiiprx-27-4k-ips-gaming-monitor-160-hz-schwarz-100588467/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -20770,7 +21211,7 @@
    "name": "Acer Nitro XZ340CUR X0bmiiphx 34\" WQHD Gaming Monitor Schwarz | 100606613",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/acer-nitro-xz340cur-x0bmiiphx-34-wqhd-gaming-monitor-schwarz-100606613/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -21060,7 +21501,7 @@
    "name": "Acer Vero B327QK B1 31,5\" 4K UHD IPS Monitor Schwarz | 100671709",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/acer-vero-b327qk-b1-31-5-4k-uhd-ips-monitor-schwarz-100671709/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -21292,7 +21733,7 @@
    "name": "Samsung ViewFinity S6 S27D600EAU 27\" Quad HD IPS Monitor 100 Hz Schwarz | 100503579",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/samsung-viewfinity-s6-s27d600eau-27-quad-hd-ips-monitor-100-hz-schwarz-100503579/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -21350,7 +21791,7 @@
    "name": "Samsung Essential S3 S32D396GAU 32\" Curved Full HD Monitor 100 Hz Schwarz | 100589418",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/samsung-essential-s3-s32d396gau-32-curved-full-hd-monitor-100-hz-schwarz-100589418/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -21814,7 +22255,7 @@
    "name": "Samsung Odyssey G7 S27DG702EU 27\" 4K UHD 144Hz Fast IPS Gaming-Monitor Schwarz | 9385510",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/samsung-odyssey-g7-s27dg702eu-27-4k-uhd-144hz-fast-ips-gaming-monitor-schwarz-9385510/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -22191,7 +22632,7 @@
    "name": "ASUS ProArt PA24ACRV 23,8\" QHD IPS Monitor HDMI DisplayPort USB-C Schwarz | 100474245",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-proart-pa24acrv-23-8-qhd-ips-monitor-hdmi-displayport-usb-c-schwarz-100474245/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -22307,7 +22748,7 @@
    "name": "Dell 32 Plus Monitor - S3225QS, 4K UHD (3840x2160), 120Hz, VA, 4ms, AMD FreeSync Premium, 95% DCI-P3, HDR10, Höhenverstellbar, Eingebaute Lautsprecher, DisplayPort, 2 HDMI (210-BQWP) | 100583586",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/dell-32-plus-monitor-s3225qs-4k-uhd-3840x2160-120hz-va-4ms-amd-freesync-premium-95-dci-p3-hdr10-hoehenverstellbar-eingebaute-lautsprecher-displayport-2-hdmi-210-bqwp-100583586/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -22510,7 +22951,7 @@
    "name": "Iiyama ProLite T1731SR-B2S 17\" Touch-Monitor 1280 x 1024 Schwarz | 100865677",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/iiyama-prolite-t1731sr-b2s-17-touch-monitor-1280-x-1024-schwarz-100865677/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -22539,7 +22980,7 @@
    "name": "AOC CU34E4CW LED-Monitor 86.4 cm (34\") gebogen - USB (CU34E4CW) | 100672817",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/aoc-cu34e4cw-led-monitor-86-4-cm-34-gebogen-usb-cu34e4cw-100672817/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -22568,7 +23009,7 @@
    "name": "HP OMEN 27qs G2 27\" QHD 280 Hz IPS Gaming Monitor Schwarz | 100604484",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/hp-omen-27qs-g2-27-qhd-280-hz-ips-gaming-monitor-schwarz-100604484/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -22684,7 +23125,7 @@
    "name": "Acer Predator XB323QKV4 Gaming Monitor 80 cm (31,5\") - 4K UHD, Agile Splendor IPS Panel, HDMI, DisplayPort, Audio, Pivot [Energieklasse F] (UM.JX3EE.401) | 100604546",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/acer-predator-xb323qkv4-gaming-monitor-80-cm-31-5-4k-uhd-agile-splendor-ips-panel-hdmi-displayport-audio-pivot-energieklasse-f-um-jx3ee-401-100604546/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -22858,7 +23299,7 @@
    "name": "Philips 6000 Series 27B2U6903 27\" 4K UHD IPS Monitor 60 Hz Silber, holzkohlefarben | 100549721",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/philips-6000-series-27b2u6903-27-4k-uhd-ips-monitor-60-hz-silber-holzkohlefarben-100549721/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -22974,7 +23415,7 @@
    "name": "AOC AGON PRO AG276FK 27\" Gaming-Monitor 1920 x 1080 IPS 520 Hz Matte Gray | 100546954",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/aoc-agon-pro-ag276fk-27-gaming-monitor-1920-x-1080-ips-520-hz-matte-gray-100546954/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -23061,7 +23502,7 @@
    "name": "Dell S Series SE3223Q 31,5\" Monitor 4K Ultra HD 3840 x 2160 VA Schwarz | 7847712",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/dell-s-series-se3223q-31-5-monitor-4k-ultra-hd-3840-x-2160-va-schwarz-7847712/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -23206,7 +23647,7 @@
    "name": "Samsung Odyssey G7 S32DG702EU LED-Monitor 32\" 4K UHD 144 Hz Fast IPS Schwarz | 9385509",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/samsung-odyssey-g7-s32dg702eu-led-monitor-32-4k-uhd-144-hz-fast-ips-schwarz-9385509/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -23351,7 +23792,7 @@
    "name": "Gainward GeForce RTX 5050 Ghost 8GB, Grafikkarte",
    "source": "crawler",
    "url": "https://www.alternate.de/Gainward/GeForce-RTX-5050-Ghost-8GB-Grafikkarte/html/product/100140887",
-   "stand": "2026-10-29T17:40",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -23366,6 +23807,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 441
+    },
+    {
+     "d": "2026-10-30",
      "p": 441
     }
    ],
@@ -23461,6 +23906,35 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-asus-proart-pa279crv-led-monitor-27-4k-uhd-ips-hdr-usb-c-sch",
+   "cat": "Monitore",
+   "sub": "27\"",
+   "name": "ASUS ProArt PA279CRV LED-Monitor 27\" 4K UHD IPS HDR USB-C Schwarz, Silber | 8274915",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-proart-pa279crv-led-monitor-27-4k-uhd-ips-hdr-usb-c-schwarz-silber-8274915/",
+   "stand": "2026-10-30T08:04",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 460.98,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-proart-pa279crv-led-monitor-27-4k-uhd-ips-hdr-usb-c-schwarz-silber-8274915/"
+    }
+   ],
+   "price": 460.98,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 460.98
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 27\" asus proart pa279crv led monitor uhd ips hdr usb schwarz silber 8274915",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-iiyama-prolite-t2438msc-b2-23-8-full-hd-ips-touchscreen-moni",
    "cat": "Monitore",
    "sub": "23,8\"",
@@ -23487,35 +23961,6 @@
    ],
    "count": 1,
    "tags": "monitore 23,8\" iiyama prolite t2438msc full ips touchscreen monitor 120 schwarz 100698824",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-asus-proart-pa279crv-led-monitor-27-4k-uhd-ips-hdr-usb-c-sch",
-   "cat": "Monitore",
-   "sub": "27\"",
-   "name": "ASUS ProArt PA279CRV LED-Monitor 27\" 4K UHD IPS HDR USB-C Schwarz, Silber | 8274915",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/asus-proart-pa279crv-led-monitor-27-4k-uhd-ips-hdr-usb-c-schwarz-silber-8274915/",
-   "stand": "2026-10-30T06:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 462.37,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/asus-proart-pa279crv-led-monitor-27-4k-uhd-ips-hdr-usb-c-schwarz-silber-8274915/"
-    }
-   ],
-   "price": 462.37,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 462.37
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 27\" asus proart pa279crv led monitor uhd ips hdr usb schwarz silber 8274915",
    "firstSeen": "2026-10-30"
   },
   {
@@ -23641,7 +24086,7 @@
    "name": "Iiyama ProLite TF1734MC-B8X 17\" TN Touch Monitor 1280 x 1024 Schwarz | 100868787",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/iiyama-prolite-tf1734mc-b8x-17-tn-touch-monitor-1280-x-1024-schwarz-100868787/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -23757,7 +24202,7 @@
    "name": "Samsung Odyssey G7 S37FG750EU 37\" 3840 x 2160 165 Hz Gaming-Monitor Schwarz | 100673077",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/samsung-odyssey-g7-s37fg750eu-37-3840-x-2160-165-hz-gaming-monitor-schwarz-100673077/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -23786,7 +24231,7 @@
    "name": "MSI MAG 272QPDE X24 QD-OLED Gaming-Monitor 68,60cm (27\") WQHD 240 Hz 0,03 ms Schwarz | 100850237",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/msi-mag-272qpde-x24-qd-oled-gaming-monitor-68-60cm-27-wqhd-240-hz-0-03-ms-schwarz-100850237/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -23931,7 +24376,7 @@
    "name": "Philips Evnia 8000 27M2N8500 26.5\" QD-OLED Monitor 2560 x 1440 360 Hz Weiß | 100505243",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/philips-evnia-8000-27m2n8500-26-5-qd-oled-monitor-2560-x-1440-360-hz-weiss-100505243/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -24047,7 +24492,7 @@
    "name": "ASUS ProArt PA279CRV 27\" 4K UHD IPS Monitor Schwarz/Silber | 100606909",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-proart-pa279crv-27-4k-uhd-ips-monitor-schwarz-silber-100606909/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -24134,7 +24579,7 @@
    "name": "BenQ MA270U 27\" 4K UHD LED-Monitor Weiß | 100547594",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/benq-ma270u-27-4k-uhd-led-monitor-weiss-100547594/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -24946,7 +25391,7 @@
    "name": "Alienware AW2725Q 27\" 4K QD-OLED Gaming-Monitor 240 Hz Schwarz | 100583589",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/alienware-aw2725q-27-4k-qd-oled-gaming-monitor-240-hz-schwarz-100583589/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -25149,7 +25594,7 @@
    "name": "EIZO FlexScan EV2795-BK LED-Monitor 27\" WQHD IPS USB-C HDMI DisplayPort Schwarz | 6791491",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/eizo-flexscan-ev2795-bk-led-monitor-27-wqhd-ips-usb-c-hdmi-displayport-schwarz-6791491/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -25178,7 +25623,7 @@
    "name": "Samsung Odyssey OLED G8 S34DG850SU 34\" OLED Monitor 3440 x 1440 175 Hz Silber | 100583712",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/samsung-odyssey-oled-g8-s34dg850su-34-oled-monitor-3440-x-1440-175-hz-silber-100583712/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -25207,7 +25652,7 @@
    "name": "ASUS ROG Strix XG27JCG 27\" Gaming-Monitor 5120 x 2880 180 Hz Schwarz | 100695293",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-rog-strix-xg27jcg-27-gaming-monitor-5120-x-2880-180-hz-schwarz-100695293/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -25671,7 +26116,7 @@
    "name": "ALOGIC Edge 34\" WQHD Monitor 3440 x 1440 IPS 100 Hz Silber | 100697219",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/alogic-edge-34-wqhd-monitor-3440-x-1440-ips-100-hz-silber-100697219/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -25700,7 +26145,7 @@
    "name": "Alienware 34 Gaming Monitor - AW3425DW, WQHD (3440x1440), 21:9 1800R Curved, 240Hz, QD OLED, 0.03ms, NVIDIA G-SYNC Kompatibel, AMD FreeSync Premium Pro (GAME-AW3425DW) | 100587982",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/alienware-34-gaming-monitor-aw3425dw-wqhd-3440x1440-21-9-1800r-curved-240hz-qd-oled-0-03ms-nvidia-g-sync-kompatibel-amd-freesync-premium-pro-game-aw3425dw-100587982/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -25758,7 +26203,7 @@
    "name": "HP Series 7 Pro 732pk 31,5\" 4K Monitor Schwarz, Silber | 100469972",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/hp-series-7-pro-732pk-31-5-4k-monitor-schwarz-silber-100469972/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -25787,7 +26232,7 @@
    "name": "AG Neovo X-2402w 24\" LED-Monitor 1920 x 1080 Full HD Weiß | 100504140",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/ag-neovo-x-2402w-24-led-monitor-1920-x-1080-full-hd-weiss-100504140/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -25845,7 +26290,7 @@
    "name": "ASUS ProArt PA27UCGE 27\" 4K UHD IPS Monitor 160Hz HDR600 USB-C KVM Schwarz | 100588220",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-proart-pa27ucge-27-4k-uhd-ips-monitor-160hz-hdr600-usb-c-kvm-schwarz-100588220/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -25874,7 +26319,7 @@
    "name": "ASUS ROG Strix XG49VQ Gaming-Monitor 49\" Curved 3840 x 1080 144 Hz VA Schwarz | 4784146",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-rog-strix-xg49vq-gaming-monitor-49-curved-3840-x-1080-144-hz-va-schwarz-4784146/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -25903,7 +26348,7 @@
    "name": "Samsung Odyssey OLED G81SF Gaming-Monitor 68cm (27 Zoll) (LS27FG814SUXEN) | 100695631",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/samsung-odyssey-oled-g81sf-gaming-monitor-68cm-27-zoll-ls27fg814suxen-100695631/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -25990,7 +26435,7 @@
    "name": "Samsung ViewFinity S9 LS49F950UAUXEN 49\" Curved DQHD VA-Monitor 32:9 5120x1440 120Hz (LS49F950UAUXEN) | 100605749",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/samsung-viewfinity-s9-ls49f950uauxen-49-curved-dqhd-va-monitor-32-9-5120x1440-120hz-ls49f950uauxen-100605749/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -26077,7 +26522,7 @@
    "name": "Philips 49B2U5900C 49\" Curved Office-Monitor Dual QHD 5120x1440 VA 75Hz USB-C Silber, Holzkohlefarben | 100695650",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/philips-49b2u5900c-49-curved-office-monitor-dual-qhd-5120x1440-va-75hz-usb-c-silber-holzkohlefarben-100695650/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -26164,7 +26609,7 @@
    "name": "LC Power LC-M32UCO Curved Gaming-Monitor QD-OLED/AR-Display 80 cm (31,5\") 4K Ultra HD, QD-OLED / Antireflex (AR), 0,03 ms (LC-M32UCO) | 100606896",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/lc-power-lc-m32uco-curved-gaming-monitor-qd-oled-ar-display-80-cm-31-5-4k-ultra-hd-qd-oled-antireflex-ar-0-03-ms-lc-m32uco-100606896/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -26280,7 +26725,7 @@
    "name": "Samsung Odyssey OLED G80SH 32\" 4K UHD 240 Hz Monitor Weiß | 100868835",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/samsung-odyssey-oled-g80sh-32-4k-uhd-240-hz-monitor-weiss-100868835/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -26396,7 +26841,7 @@
    "name": "AORUS FO27Q5P QD-OLED Gaming-Monitor 27\" QHD 500 Hz Schwarz | 100606628",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/aorus-fo27q5p-qd-oled-gaming-monitor-27-qhd-500-hz-schwarz-100606628/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -26599,7 +27044,7 @@
    "name": "MSI MPG 272URXDE QD-OLED Gaming-Monitor 27\" 3840x2160 240Hz Schwarz | 100547589",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/msi-mpg-272urxde-qd-oled-gaming-monitor-27-3840x2160-240hz-schwarz-100547589/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -26715,7 +27160,7 @@
    "name": "DELL UltraSharp U3423WE 34,1\" Curved UWQHD Monitor Platinum Silver | 100588866",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/dell-ultrasharp-u3423we-34-1-curved-uwqhd-monitor-platinum-silver-100588866/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -27121,7 +27566,7 @@
    "name": "BenQ MA Series MA270S 27\" 5K IPS Thunderbolt 4 Monitor Silber | 100862779",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/benq-ma-series-ma270s-27-5k-ips-thunderbolt-4-monitor-silber-100862779/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -27237,7 +27682,7 @@
    "name": "LG UltraGear 39GX90SA-W - OLED-Monitor - Gaming - gebogen - 99.1 cm (39\") (39GX90SA-W.AEU) | 100583714",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/lg-ultragear-39gx90sa-w-oled-monitor-gaming-gebogen-99-1-cm-39-39gx90sa-w-aeu-100583714/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -27382,7 +27827,7 @@
    "name": "LG UltraWide 49U950A-W 49\" 5120 x 1440 Nano IPS Curved Office Monitor 144 Hz Schwarz | 100606905",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/lg-ultrawide-49u950a-w-49-5120-x-1440-nano-ips-curved-office-monitor-144-hz-schwarz-100606905/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -27469,7 +27914,7 @@
    "name": "DELL UltraSharp U3223QE 31.5\" 4K UHD IPS Monitor Silber | 100588862",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/dell-ultrasharp-u3223qe-31-5-4k-uhd-ips-monitor-silber-100588862/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -27556,7 +28001,7 @@
    "name": "ASUS ProArt PA32QCV 32\" 6K IPS Monitor Thunderbolt 4 Grau | 100606610",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-proart-pa32qcv-32-6k-ips-monitor-thunderbolt-4-grau-100606610/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -27962,17 +28407,17 @@
    "name": "Dell UltraSharp U5226KW 52\" 6K Thunderbolt Hub Monitor IPS Black Silber Schwarz | 100696278",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/dell-ultrasharp-u5226kw-52-6k-thunderbolt-hub-monitor-ips-black-silber-schwarz-100696278/",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T08:04",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
-     "price": 2586.67,
+     "price": 2620.11,
      "ship": null,
      "avail": null,
      "url": "https://www.jacob.de/produkt/dell-ultrasharp-u5226kw-52-6k-thunderbolt-hub-monitor-ips-black-silber-schwarz-100696278/"
     }
    ],
-   "price": 2586.67,
+   "price": 2620.11,
    "shop": "JACOB Elektronik GmbH",
    "hist": [
     {
