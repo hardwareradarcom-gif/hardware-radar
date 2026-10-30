@@ -348,7 +348,10 @@ function productKey(p) {
   if (p.mpn && p.brand) return "mpn:" + norm(p.brand) + ":" + norm(p.mpn).replace(/[^a-z0-9]/g, "");
   return "name:" + norm(p.name).replace(/\b(kit|gaming|edition|retail|boxed|tray|wof|schwarz|black|weiss|white)\b/g, "").replace(/[^a-z0-9]+/g, " ").trim();
 }
+// Shop-Zusätze wie " | 4604916" (Artikelnummern) aus Produktnamen entfernen
+function tidyName(n) { return String(n || "").replace(/\s*\|\s*\d{3,}.*$/, "").replace(/\s*\|\s*$/, "").replace(/\s{2,}/g, " ").trim(); }
 function record(dom, pageUrl, p) {
+  p.name = tidyName(p.name);
   const cat = classify(p.name, p.offer.price); if (!cat) return false;
   if (p.offer.price < (CFG.deals.minPrice || 0)) return false;
   const key = productKey(p);
@@ -659,6 +662,7 @@ function cleanup() {
   for (const d of Object.keys(state.discovered)) if (isBlocked(d)) delete state.discovered[d];
   for (const [u, v] of Object.entries(state.urls)) if (!v.d || isBlocked(v.d)) delete state.urls[u];
   for (const [k, p] of Object.entries(state.products)) {
+    p.name = tidyName(p.name);
     for (const d of Object.keys(p.offers)) if (isBlocked(d)) { delete p.offers[d]; offers++; }
     const anyPrice = Object.values(p.offers).map(o => o.price)[0];
     const cat = anyPrice != null ? classify(p.name, anyPrice) : null;

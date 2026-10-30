@@ -279,7 +279,11 @@
         "kompatibel mit",
         "speicher für",
         "mainboard",
-        "grafikkarte"
+        "grafikkarte",
+        "barebone",
+        "supermicro",
+        "xeon",
+        "server-"
       ],
       "min": 20,
       "max": 2500
@@ -336,7 +340,11 @@
         "laufwerksgehäuse",
         "wechselrahmen",
         "u.2",
-        "enclosure"
+        "enclosure",
+        "docking",
+        "dockingstation",
+        "docking station",
+        "usb-gehäuse"
       ],
       "min": 25,
       "max": 3000
@@ -467,7 +475,9 @@
         "konsole",
         "playstation",
         "xbox",
-        "receiver"
+        "receiver",
+        "touch",
+        "touchscreen"
       ],
       "min": 60,
       "max": 4000
