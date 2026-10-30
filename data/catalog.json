@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T20:28:51.786Z",
+ "updated": "2026-10-30T21:42:24.763Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -1582,13 +1582,13 @@
    "name": "WD_BLACK SN850X 2 TB",
    "url": "https://geizhals.de/2770177",
    "source": "Geizhals",
-   "stand": "2026-10-30T20:28",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "Notebooksbilliger",
      "price": 338.99,
      "ship": null,
-     "avail": "Auf Lager",
+     "avail": null,
      "url": "https://www.notebooksbilliger.de/wd_black+sn850x+ssd+2tb+m2+2280+pcie+gen4+nvme+b+ware+929894",
      "crawler": true
     },
@@ -1726,7 +1726,7 @@
    "name": "WD_BLACK SN7100 2 TB",
    "url": "https://www.mydealz.de/deals/my-mmsaturn-mwstaktion-wd-black-sn7100-ssd-2-tb-m2-2280-nvme-gen4-7250-mbs-lesen-6900-mbs-schreiben-fur-23529eur-1-tb-13865-2855044",
    "source": "mydealz",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "MediaMarkt / Saturn",
@@ -2181,7 +2181,7 @@
    "name": "GIGABYTE G27Q2",
    "url": "https://www.mydealz.de/deals/gigabyte-g27q2-gaming-monitor-mit-27-wqhd-200hz-350nits-freesync-premium-usb-c-mit-dp-pd-2858404",
    "source": "mydealz",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "Cyberport",
@@ -5181,7 +5181,7 @@
    "name": "ASUS Prime B650-Plus WIFI",
    "url": "https://geizhals.de/asus-prime-b650-plus-wifi-90mb1kp0-m0eay0-a3417025.html",
    "source": "Geizhals",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "Geizhals-Bestpreis",
@@ -9297,15 +9297,15 @@
    "sub": "AM4 A520",
    "name": "GIGABYTE A520M K V2 Mainboard, Sockel AM4, AMD A520, Micro-ATX, DDR4",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/gigabyte-a520m-k-v2-motherboard-socket-am4-amd-a520-micro-atx-ddr4/MBGB-572.html",
-   "stand": "2026-10-30T11:13",
+   "url": "https://www.caseking.de/gigabyte-a520m-k-v2-mainboard-sockel-am4-amd-a520-micro-atx-ddr4/MBGB-572.html",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 60.14,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/gigabyte-a520m-k-v2-motherboard-socket-am4-amd-a520-micro-atx-ddr4/MBGB-572.html"
+     "url": "https://www.caseking.de/gigabyte-a520m-k-v2-mainboard-sockel-am4-amd-a520-micro-atx-ddr4/MBGB-572.html"
     }
    ],
    "price": 60.14,
@@ -9385,7 +9385,7 @@
    "name": "ASUS Prime H610M-K ARGB, Intel H610 Mainboard - Sockel 1700, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-prime-h610m-k-argb-intel-h610-motherboard-socket-1700-ddr5/MBAS-739.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -9995,6 +9995,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-msi-spatium-s270-sata-ssd-240-gb-2-5-2jq0t",
+   "cat": "SSDs",
+   "sub": "SATA 240 GB",
+   "name": "MSI SPATIUM S270 SATA SSD 240 GB 2.5\"",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/msi-spatium-s270-sata-ssd-240-gb-2-5-9201746/",
+   "stand": "2026-10-30T21:42",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 70.91,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/msi-spatium-s270-sata-ssd-240-gb-2-5-9201746/"
+    }
+   ],
+   "price": 70.91,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 70.91
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 240 gb msi spatium s270 sata ssd 240",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-prime-h610m-r-d4-mainboard-lga-1700-h610-ddr4-micro-atx",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 H610",
@@ -10150,7 +10179,7 @@
    "name": "GIGABYTE B550M K Mainboard, Sockel AM4, AMD B550, Micro-ATX, DDR4",
    "source": "crawler",
    "url": "https://www.caseking.de/en/gigabyte-b550m-k-motherboard-socket-am4-amd-b550-micro-atx-ddr4/MBGB-571.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -10555,7 +10584,7 @@
    "name": "ASUS Prime A520M-A II/CSM, AMD A520 Mainboard, Sockel Socket AM4, DDR4",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-prime-a520m-a-ii-csm-amd-a520-motherboard-socket-socket-am4-ddr4/MBAS-762.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -10584,7 +10613,7 @@
    "name": "ASRock CL25FFB 24,5\" Monitor 1920x1080 144 Hz Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asrock-cl25ffb-24-5-monitor-1920x1080-144-hz-schwarz-100673168/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -11093,7 +11122,7 @@
    "name": "Dell SE2225HM - LED-Monitor - 55.9 cm (22\") (21.5\" sichtbar) (DELL-SE2225HM)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/dell-se2225hm-led-monitor-55-9-cm-22-21-5-sichtbar-dell-se2225hm-100583588/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -11377,35 +11406,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-asus-prime-h610m-r-d4-si-intel-h610-mainboard-sockel-1700-dd",
-   "cat": "Mainboards",
-   "sub": "Intel LGA1700 H610",
-   "name": "ASUS Prime H610M-R D4-SI, Intel H610 Mainboard, Sockel 1700, DDR4",
-   "source": "crawler",
-   "url": "https://www.caseking.de/en/asus-prime-h610m-r-d4-si-intel-h610-motherboard-socket-1700-ddr4/MBAS-729.html",
-   "stand": "2026-10-30T11:13",
-   "offers": [
-    {
-     "shop": "caseking.de",
-     "price": 84.1,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/asus-prime-h610m-r-d4-si-intel-h610-motherboard-socket-1700-ddr4/MBAS-729.html"
-    }
-   ],
-   "price": 84.1,
-   "shop": "caseking.de",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 84.1
-    }
-   ],
-   "count": 1,
-   "tags": "mainboards intel lga1700 h610 asus prime h610m intel h610 mainboard sockel 1700 ddr4",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-gigabyte-h810m-h-mainboard-sockel-lga-1851-intel-h810-micro-",
    "cat": "Mainboards",
    "sub": "Intel LGA1851 H810",
@@ -11532,7 +11532,7 @@
    "name": "ASUS VP227HF Gaming LED-Monitor 55.9 cm (22\") (21.5\" sichtbar) (90LM0880-B01O71)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-vp227hf-gaming-led-monitor-55-9-cm-22-21-5-sichtbar-90lm0880-b01o71-100672869/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -11913,7 +11913,7 @@
    "name": "HP Series 3 Pro 322pe 21.45\" 1920 x 1080 IPS LED-Monitor Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/hp-series-3-pro-322pe-21-45-1920-x-1080-ips-led-monitor-schwarz-100588735/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -12542,7 +12542,7 @@
    "name": "Philips 1000 Series 27E2N1110 27\" FHD Monitor IPS 120Hz 1ms HDMI VGA Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/philips-1000-series-27e2n1110-27-fhd-monitor-ips-120hz-1ms-hdmi-vga-schwarz-100589200/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -12600,7 +12600,7 @@
    "name": "BenQ GW2491 23.8\" IPS-Monitor 1920 x 1080 100 Hz Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/benq-gw2491-23-8-ips-monitor-1920-x-1080-100-hz-schwarz-100547774/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -13188,7 +13188,7 @@
    "name": "AOC 27B31H - 27\" Zoll Full HD Monitor - 120 Hz - Adaptive Bildsynchronisation - 1920x1080 - 16:9 IPS - 1x D-Sub, 1x HDMI 1.4 - schwarz [Energieklasse E] (27B31H)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/aoc-27b31h-27-zoll-full-hd-monitor-120-hz-adaptive-bildsynchronisation-1920x1080-16-9-ips-1x-d-sub-1x-hdmi-1-4-schwarz-energieklasse-e-27b31h-100589084/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -13363,35 +13363,6 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-vz249hg-eye-care-gaming-monitor-60-5-cm-24-ips-full-hd-99-srgb-rahmenlos-120hz-smoothmotion-90lm0bv1-b01a71-100672871/",
    "stand": "2026-10-30T08:04",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 98.87,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/asus-vz249hg-eye-care-gaming-monitor-60-5-cm-24-ips-full-hd-99-srgb-rahmenlos-120hz-smoothmotion-90lm0bv1-b01a71-100672871/"
-    }
-   ],
-   "price": 98.87,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 98.87
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 24\" asus vz249hg eye care gaming monitor ips full srgb rahmenlos 120hz smoothmotion 90lm0bv1 b01a71",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-asus-vz249hg-eye-care-gaming-monitor-60-5-cm-24-ips-full-hd--1tk1y",
-   "cat": "Monitore",
-   "sub": "24\"",
-   "name": "ASUS VZ249HG Eye Care Gaming Monitor 60.5 cm (24\") - IPS, Full HD, 99% sRGB, rahmenlos, 120Hz, SmoothMotion (90LM0BV1-B01A71)",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/asus-vz249hg-eye-care-gaming-monitor-60-5-cm-24-ips-full-hd-99-srgb-rahmenlos-120hz-smoothmotion-90lm0bv1-b01a71-100672871/",
-   "stand": "2026-10-30T14:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -13933,7 +13904,7 @@
    "name": "ViewSonic VX27G1-HD 27\" Gaming Monitor Full HD IPS 180 Hz 1 ms Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/viewsonic-vx27g1-hd-27-gaming-monitor-full-hd-ips-180-hz-1-ms-schwarz-100695867/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -13991,7 +13962,7 @@
    "name": "LG 27U41YA-B 27\" Full HD IPS-Monitor 120 Hz HDR10 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/lg-27u41ya-b-27-full-hd-ips-monitor-120-hz-hdr10-schwarz-100696000/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -14045,6 +14016,35 @@
    "count": 1,
    "tags": "mainboards intel lga1851 h810 msi pro h810m mainboard",
    "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asus-vz249hg-eye-care-gaming-monitor-60-5-cm-24-ips-full-hd--1tk1y",
+   "cat": "Monitore",
+   "sub": "24\"",
+   "name": "ASUS VZ249HG Eye Care Gaming Monitor 60.5 cm (24\") - IPS, Full HD, 99% sRGB, rahmenlos, 120Hz, SmoothMotion (90LM0BV1-B01A71)",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-vz249hg-eye-care-gaming-monitor-60-5-cm-24-ips-full-hd-99-srgb-rahmenlos-120hz-smoothmotion-90lm0bv1-b01a71-100672871/",
+   "stand": "2026-10-30T21:42",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 101.85,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-vz249hg-eye-care-gaming-monitor-60-5-cm-24-ips-full-hd-99-srgb-rahmenlos-120hz-smoothmotion-90lm0bv1-b01a71-100672871/"
+    }
+   ],
+   "price": 101.85,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 98.87
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 24\" asus vz249hg eye care gaming monitor ips full srgb rahmenlos 120hz smoothmotion 90lm0bv1 b01a71",
+   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-benq-bl2490c-23-8-ips-office-monitor-1920-x-1080-144-hz-schw",
@@ -14227,7 +14227,7 @@
    "name": "BenQ GW2790 27\" IPS-Monitor 1920 x 1080 100 Hz Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/benq-gw2790-27-ips-monitor-1920-x-1080-100-hz-schwarz-100435875/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -14286,6 +14286,35 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/msi-spatium-s270-480-gb-ssd-sata-2-5-9201747/",
    "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 102.29,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/msi-spatium-s270-480-gb-ssd-sata-2-5-9201747/"
+    }
+   ],
+   "price": 102.29,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 102.29
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 480 gb msi spatium s270 480 ssd sata",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-msi-spatium-s270-480-gb-ssd-sata-2-5-rvctb",
+   "cat": "SSDs",
+   "sub": "SATA 480 GB",
+   "name": "MSI SPATIUM S270 480 GB SSD SATA 2,5\"",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/msi-spatium-s270-480-gb-ssd-sata-2-5-9201747/",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -14372,7 +14401,7 @@
    "name": "LC-Power LC-M27F 27\" IPS 144 Hz Full HD Monitor Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/lc-power-lc-m27f-27-ips-144-hz-full-hd-monitor-schwarz-100604542/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -14521,7 +14550,7 @@
    "name": "ASUS Prime B650M-R Mainboard, B650-Chipsatz, Sockel AM5, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-prime-b650m-r-motherboard-b650-chipset-am5-socket-ddr5/MBAS-778.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -14608,7 +14637,7 @@
    "name": "ASUS Prime H610M-E-CSM, Intel H610 Mainboard - Sockel LGA1700, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-prime-h610m-e-csm-intel-h610-motherboard-lga1700-socket-ddr5/MBAS-758.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -14637,7 +14666,7 @@
    "name": "ASUS Pro A620M-DASH-CSM, AMD A620 motherboard, Socket AM5, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-pro-a620m-dash-csm-amd-a620-motherboard-socket-am5-ddr5/MBAS-761.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -15076,7 +15105,7 @@
    "name": "GIGABYTE GS25F2 62,23cm 24,5Zoll SS IPS monitor 1920x1080 FHD 200Hz 300cd/m2 2xHDMI 1xDP [Energieklasse E] (GS25F2)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/gigabyte-gs25f2-62-23cm-24-5zoll-ss-ips-monitor-1920x1080-fhd-200hz-300cd-m2-2xhdmi-1xdp-energieklasse-e-gs25f2-100588831/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -15366,7 +15395,7 @@
    "name": "ASUS PRO H610M-C-CSM, Intel H610 Mainboard, Sockel 1700, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-pro-h610m-c-csm-intel-h610-motherboard-socket-1700-ddr5/MBAS-713.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -15395,7 +15424,7 @@
    "name": "ASUS Prime B810M-A-CSM Mainboard, Sockel LGA 1851, Intel H810, mATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-prime-b810m-a-csm-motherboard-socket-lga-1851-intel-h810-matx-ddr5/MBAS-825.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -15453,7 +15482,7 @@
    "name": "GIGABYTE A620M Gaming X Mainboard, Sockel AM5, AMD A620, MIcro-ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/gigabyte-a620m-gaming-x-motherboard-am5-socket-amd-a620-micro-atx-ddr5/MBGB-569.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -15511,7 +15540,7 @@
    "name": "Philips 1000 Series 27E1N1200A 27\" IPS LED-Monitor Full HD 1920 x 1080 120 Hz Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/philips-1000-series-27e1n1200a-27-ips-led-monitor-full-hd-1920-x-1080-120-hz-schwarz-100589199/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -15771,7 +15800,7 @@
    "name": "ASUS Pro H610T-CSM, Intel H610 Mainboard, Sockel LGA1700, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-pro-h610t-csm-intel-h610-motherboard-lga1700-socket-ddr5/MBAS-759.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -15887,7 +15916,7 @@
    "name": "ASUS Prime H610M-A WIFI, Intel H610 Mainboard - Sockel 1700, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-prime-h610m-a-wifi-intel-h610-motherboard-socket-1700-ddr5/MBAS-744.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -16003,7 +16032,7 @@
    "name": "GIGABYTE B760 DS3H DDR4, Intel B760 motherboard - Socket 1700, DDR4",
    "source": "crawler",
    "url": "https://www.caseking.de/en/gigabyte-b760-ds3h-ddr4-intel-b760-motherboard-socket-1700-ddr4/MBGB-537.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -16032,7 +16061,7 @@
    "name": "BenQ GW2791 27\" IPS 100 Hz 1920 x 1080 LED-Monitor Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/benq-gw2791-27-ips-100-hz-1920-x-1080-led-monitor-schwarz-100547775/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -16293,7 +16322,7 @@
    "name": "ASUS VA259HGA EyeCare, Gaming-Monitor - (62.2 cm (24.5 Zoll), schwarz, FullHD, IPS, Adaptive-Sync, 120Hz Panel) [Energieklasse E] (90LM0AS1-B01171)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-va259hga-eyecare-gaming-monitor-62-2-cm-24-5-zoll-schwarz-fullhd-ips-adaptive-sync-120hz-panel-energieklasse-e-90lm0as1-b01171-100547768/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -16960,7 +16989,7 @@
    "name": "Dell Monitor E2725H - 68,599cm (27\") - 16:09 DP+VGA VA black [Energieklasse D] (DELL-E2725H)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/dell-monitor-e2725h-68-599cm-27-16-09-dp-vga-va-black-energieklasse-d-dell-e2725h-100505653/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -17709,7 +17738,7 @@
    "name": "AOC 24G4HA, Gaming-Monitor - (60.5 cm (23.8 Zoll), schwarz (matt), FullHD, Fast-IPS, Adaptive-Sync, G-Sync kompatibel, 200Hz Panel)(TFT/LCD) [Energieklasse E] (24G4HA)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/aoc-24g4ha-gaming-monitor-60-5-cm-23-8-zoll-schwarz-matt-fullhd-fast-ips-adaptive-sync-g-sync-kompatibel-200hz-panel-tft-lcd-energieklasse-e-24g4ha-100582935/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -17999,7 +18028,7 @@
    "name": "Gigabyte G25F2 24,5\" Gaming-Monitor 1920 x 1080 Full HD 200 Hz SS-IPS Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/gigabyte-g25f2-24-5-gaming-monitor-1920-x-1080-full-hd-200-hz-ss-ips-schwarz-100588832/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -18289,7 +18318,7 @@
    "name": "ASUS Pro B810M-C-CSM Mainboard, Sockel LGA 1851, Intel H810, mATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-pro-b810m-c-csm-motherboard-socket-lga-1851-intel-h810-matx-ddr5/MBAS-826.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -18740,7 +18769,7 @@
    "name": "ASUS Prime B810M-A WiFi Mainboard, Sockel LGA 1851, Intel H810, mATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-prime-b810m-a-wifi-motherboard-socket-lga-1851-intel-h810-matx-ddr5/MBAS-824.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -18856,7 +18885,7 @@
    "name": "ASUS PRO H610T D4-CSM, Intel H610 Mainboard, Sockel 1700, DDR4",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-pro-h610t-d4-csm-intel-h610-motherboard-socket-1700-ddr4/MBAS-716.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -19001,7 +19030,7 @@
    "name": "ASUS PRO B760M-C-CSM, Intel B760 Mainboard, Sockel 1700, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-pro-b760m-c-csm-intel-b760-motherboard-socket-1700-ddr5/MBAS-719.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -19585,7 +19614,7 @@
    "name": "Acer Vero B247YGbmiqprx 23.8\" IPS LED-Monitor Full HD 120 Hz Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/acer-vero-b247ygbmiqprx-23-8-ips-led-monitor-full-hd-120-hz-schwarz-100589383/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -19891,7 +19920,7 @@
    "name": "Alphacool Core 1 Aurora Silver, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/Alphacool/Core-1-Aurora-Silver-CPU-K%C3%BChler/html/product/100009635",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -20008,35 +20037,6 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-vz279hg-eye-care-gaming-monitor-68-6-cm-27-ips-full-hd-99-srgb-rahmenlos-120hz-smoothmotion-90lm0bu1-b01a71-100672872/",
    "stand": "2026-10-30T08:04",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 130.14,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/asus-vz279hg-eye-care-gaming-monitor-68-6-cm-27-ips-full-hd-99-srgb-rahmenlos-120hz-smoothmotion-90lm0bu1-b01a71-100672872/"
-    }
-   ],
-   "price": 130.14,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 130.14
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 27\" asus vz279hg eye care gaming monitor ips full srgb rahmenlos 120hz smoothmotion 90lm0bu1 b01a71",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-asus-vz279hg-eye-care-gaming-monitor-68-6-cm-27-ips-full-hd--tgkzi",
-   "cat": "Monitore",
-   "sub": "27\"",
-   "name": "ASUS VZ279HG Eye Care Gaming Monitor 68.6 cm (27\") - IPS, Full HD, 99% sRGB, Rahmenlos, 120Hz, SmoothMotion (90LM0BU1-B01A71)",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/asus-vz279hg-eye-care-gaming-monitor-68-6-cm-27-ips-full-hd-99-srgb-rahmenlos-120hz-smoothmotion-90lm0bu1-b01a71-100672872/",
-   "stand": "2026-10-30T14:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -20210,7 +20210,7 @@
    "name": "HP E22 G5 21.5\" IPS Full HD Monitor 75 Hz Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/hp-e22-g5-21-5-ips-full-hd-monitor-75-hz-schwarz-8151981/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -20230,6 +20230,35 @@
    ],
    "count": 1,
    "tags": "monitore 21,5\" e22 ips full monitor schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-vz279hg-eye-care-gaming-monitor-68-6-cm-27-ips-full-hd--tgkzi",
+   "cat": "Monitore",
+   "sub": "27\"",
+   "name": "ASUS VZ279HG Eye Care Gaming Monitor 68.6 cm (27\") - IPS, Full HD, 99% sRGB, Rahmenlos, 120Hz, SmoothMotion (90LM0BU1-B01A71)",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-vz279hg-eye-care-gaming-monitor-68-6-cm-27-ips-full-hd-99-srgb-rahmenlos-120hz-smoothmotion-90lm0bu1-b01a71-100672872/",
+   "stand": "2026-10-30T21:42",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 131.73,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-vz279hg-eye-care-gaming-monitor-68-6-cm-27-ips-full-hd-99-srgb-rahmenlos-120hz-smoothmotion-90lm0bu1-b01a71-100672872/"
+    }
+   ],
+   "price": 131.73,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 130.14
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 27\" asus vz279hg eye care gaming monitor ips full srgb rahmenlos 120hz smoothmotion 90lm0bu1 b01a71",
    "firstSeen": "2026-10-30"
   },
   {
@@ -20831,7 +20860,7 @@
    "name": "ASUS Prime B760M-Plus, Intel B760 Mainboard, Sockel 1700, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-prime-b760m-plus-intel-b760-motherboard-socket-1700-ddr5/MBAS-776.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -22077,7 +22106,7 @@
    "name": "ASUS Prime B860M-K Mainboard, Sockel LGA 1851, Intel B860, Micro-ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-prime-b860m-k-motherboard-socket-lga-1851-intel-b860-micro-atx-ddr5/MBAS-823.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -22541,7 +22570,7 @@
    "name": "Philips Evnia 5000 27M2C5501 27\" Curved QHD Gaming-Monitor 180 Hz Fast VA Weiß",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/philips-evnia-5000-27m2c5501-27-curved-qhd-gaming-monitor-180-hz-fast-va-weiss-100504396/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -22599,7 +22628,7 @@
    "name": "AOC 27G4HA, Gaming-Monitor - (68.6 cm (27 Zoll), schwarz (matt), FullHD, Fast-IPS, HDMI, DP, Lautsprecher, 200Hz Panel) [Energieklasse E] (27G4HA)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/aoc-27g4ha-gaming-monitor-68-6-cm-27-zoll-schwarz-matt-fullhd-fast-ips-hdmi-dp-lautsprecher-200hz-panel-energieklasse-e-27g4ha-100582936/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -23348,7 +23377,7 @@
    "name": "ASUS Prime B660M-A D4-CSM, Intel B660 Mainboard, Sockel LGA1700, DDR4",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-prime-b660m-a-d4-csm-intel-b660-motherboard-lga1700-socket-ddr4/MBAS-755.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -23435,7 +23464,7 @@
    "name": "iiyama G-MASTER Red Eagle G2771HSU-B1 27\" Full HD 240 Hz Fast IPS Gaming Monitor Schwarz Matte",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/iiyama-g-master-red-eagle-g2771hsu-b1-27-full-hd-240-hz-fast-ips-gaming-monitor-schwarz-matte-100672292/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -24602,7 +24631,7 @@
    "name": "Gigabyte GS27QCA 27\" QHD VA Curved Gaming Monitor 180 Hz Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/gigabyte-gs27qca-27-qhd-va-curved-gaming-monitor-180-hz-schwarz-100548302/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -24660,7 +24689,7 @@
    "name": "AOC Q24G4RE, Gaming-Monitor - (60.5 cm (23.8 Zoll), schwarz (matt), QHD, Fast-IPS, HDMI, DP, HDR10, 180Hz Panel) [Energieklasse E] (Q24G4RE)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/aoc-q24g4re-gaming-monitor-60-5-cm-23-8-zoll-schwarz-matt-qhd-fast-ips-hdmi-dp-hdr10-180hz-panel-energieklasse-e-q24g4re-100582933/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -24950,7 +24979,7 @@
    "name": "Dell SE2726D 27\" IPS QHD Monitor 2560 x 1440 144 Hz Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/dell-se2726d-27-ips-qhd-monitor-2560-x-1440-144-hz-schwarz-100865279/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -26283,7 +26312,7 @@
    "name": "ASUS PRO B650M-CT-CSM, AMD B650 Mainboard, Sockel AM5, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-pro-b650m-ct-csm-amd-b650-motherboard-socket-am5-ddr5/MBAS-721.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -26403,7 +26432,7 @@
    "name": "ASUS PRIME B840M-A Mainboard, Sockel AM5, AMD B840, Micro-ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-prime-b840m-a-motherboard-am5-socket-amd-b840-micro-atx-ddr5/MBAS-811.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -26575,6 +26604,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-lenovo-sk-hynix-ssd-256-gb-m-2-2280-pcie-4-0-x4-naqm4",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 256 GB",
+   "name": "Lenovo SK Hynix SSD 256 GB M.2 2280 PCIe 4.0 x4",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/lenovo-sk-hynix-ssd-256-gb-m-2-2280-pcie-4-0-x4-9084462/",
+   "stand": "2026-10-30T21:42",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 163.11,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/lenovo-sk-hynix-ssd-256-gb-m-2-2280-pcie-4-0-x4-9084462/"
+    }
+   ],
+   "price": 163.11,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 163.11
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 256 gb lenovo hynix ssd 256 2280 pcie",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-philips-evnia-5000-27m2c5201l-27-gaming-monitor-180-hz-weiss",
    "cat": "Monitore",
    "sub": "27\"",
@@ -26662,6 +26720,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-msi-spatium-s270-ssd-960-gb-2-5-sata-iii-f8ae4",
+   "cat": "SSDs",
+   "sub": "SATA 960 GB",
+   "name": "MSI SPATIUM S270 SSD 960 GB 2,5\" SATA III",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/msi-spatium-s270-ssd-960-gb-2-5-sata-iii-9201824/",
+   "stand": "2026-10-30T21:42",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 163.41,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/msi-spatium-s270-ssd-960-gb-2-5-sata-iii-9201824/"
+    }
+   ],
+   "price": 163.41,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 163.41
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 960 gb msi spatium s270 ssd 960 sata iii",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-sapphire-pure-b850m-wifi-mainboard-sockel-am5-amd-b850-matx-",
    "cat": "Mainboards",
    "sub": "AM5 B850",
@@ -26726,7 +26813,7 @@
    "name": "GIGABYTE G27Q20 27\" WQHD Gaming Monitor 200 Hz 0.5 ms Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/gigabyte-g27q20-27-wqhd-gaming-monitor-200-hz-0-5-ms-schwarz-100695646/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -26929,7 +27016,7 @@
    "name": "AOC 24E4CV - LED-Monitor - 61 cm (24\") (23.8\" sichtbar) - 1920 x 1080 Full HD (1080p) [Energieklasse G] (24E4CV)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/aoc-24e4cv-led-monitor-61-cm-24-23-8-sichtbar-1920-x-1080-full-hd-1080p-energieklasse-g-24e4cv-100604521/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -27231,7 +27318,7 @@
    "name": "Samsung LS27FG510EUXEN Odyssey G5 S27FG510EU LED-Monitor 68,6 cm (27\") Schwarz (LS27FG510EUXEN)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/samsung-ls27fg510euxen-odyssey-g5-s27fg510eu-led-monitor-68-6-cm-27-schwarz-ls27fg510euxen-100671758/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -27260,7 +27347,7 @@
    "name": "Iiyama G-Master G2771QS-B1 Red Eagle Gaming-Monitor 68.6 cm (27\"), schwarz (matt), QHD, Fast-IPS, HDMI, DP, G-Sync komp., 200Hz Panel (G2771QS-B1)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/iiyama-g-master-g2771qs-b1-red-eagle-gaming-monitor-68-6-cm-27-schwarz-matt-qhd-fast-ips-hdmi-dp-g-sync-komp-200hz-panel-g2771qs-b1-100672294/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -27463,7 +27550,7 @@
    "name": "ASUS Prime B650M-A II-CSM, AMD B650 motherboard, Socket AM5, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-prime-b650m-a-ii-csm-amd-b650-motherboard-socket-am5-ddr5/MBAS-760.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -28266,7 +28353,7 @@
    "name": "ASUS TUF Gaming B760M-Plus WIFI II, Intel B760 Mainboard, Sockel 1700, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-tuf-gaming-b760m-plus-wifi-ii-intel-b760-motherboard-socket-1700-ddr5/MBAS-775.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -28382,7 +28469,7 @@
    "name": "HP OMEN by HP 27 27\" Full HD Gaming Monitor 165 Hz Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/hp-omen-by-hp-27-27-full-hd-gaming-monitor-165-hz-schwarz-9238474/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -28411,7 +28498,7 @@
    "name": "MSI B850 GAMING PLUS WIFI6E, Mainboard",
    "source": "crawler",
    "url": "https://www.alternate.de/MSI/B850-GAMING-PLUS-WIFI6E-Mainboard/html/product/100140534",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -28858,7 +28945,7 @@
    "name": "ASUS TUF Gaming B760M-Plus II Mainboard, Intel B760, Sockel 1700, Micro-ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/asus-tuf-gaming-b760m-plus-ii-mainboard-intel-b760-sockel-1700-micro-atx-ddr5/MBAS-831.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -29032,7 +29119,7 @@
    "name": "LG 27BA45U-B 27\" IPS 3840x2160 Monitor Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/lg-27ba45u-b-27-ips-3840x2160-monitor-schwarz-100583064/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -29181,7 +29268,7 @@
    "name": "ASUS TUF Gaming B850-Plus WiFi Mainboard, Sockel AM5, AMD B850, ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-tuf-gaming-b850-plus-wifi-motherboard-socket-am5-amd-b850-atx-ddr5/MBAS-806.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -29413,7 +29500,7 @@
    "name": "AOC Q27G42ZE, Gaming-Monitor - (68.6 cm (27 Zoll), schwarz (matt), QHD, Fast-IPS, Adaptive-Sync, HDR, 240Hz Panel) [Energieklasse F] (Q27G42ZE)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/aoc-q27g42ze-gaming-monitor-68-6-cm-27-zoll-schwarz-matt-qhd-fast-ips-adaptive-sync-hdr-240hz-panel-energieklasse-f-q27g42ze-100582934/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -29471,7 +29558,7 @@
    "name": "Philips 24B2G5200 24\" Full HD IPS Monitor 100 Hz Anthrazit",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/philips-24b2g5200-24-full-hd-ips-monitor-100-hz-anthrazit-100549729/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -29794,7 +29881,7 @@
    "name": "ASUS Prime Z790M-Plus, Intel Z790 Mainboard, Sockel 1700, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-prime-z790m-plus-intel-z790-motherboard-socket-1700-ddr5/MBAS-735.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -30697,7 +30784,7 @@
    "name": "Lenovo ThinkVision P24q-30 23.8\" QHD IPS-Monitor Raven Black",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/lenovo-thinkvision-p24q-30-23-8-qhd-ips-monitor-raven-black-8043240/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -30755,7 +30842,7 @@
    "name": "Samsung S27D396| Monitor Curved FHD Speaker - Flachbildschirm (TFT/LCD) - (27\") 68,6cm [Energieklasse D] (LS27D396GAUXEN)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/samsung-s27d396-monitor-curved-fhd-speaker-flachbildschirm-tft-lcd-27-68-6cm-energieklasse-d-ls27d396gauxen-100589419/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -30871,7 +30958,7 @@
    "name": "ASUS TUF Gaming B760M-BTF WIFI, Intel B760 Mainboard, Sockel LGA1700, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-tuf-gaming-b760m-btf-wifi-intel-b760-motherboard-lga1700-socket-ddr5/MBAS-742.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -31484,7 +31571,7 @@
    "name": "BenQ BL2786TC 27\" FHD IPS Monitor 100 Hz Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/benq-bl2786tc-27-fhd-ips-monitor-100-hz-schwarz-100504151/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -31960,7 +32047,7 @@
    "name": "LC Power LC-M27-QHD-180 Gaming-Monitor 27\" QHD IPS 180 Hz Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/lc-power-lc-m27-qhd-180-gaming-monitor-27-qhd-ips-180-hz-schwarz-100355334/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -32171,7 +32258,7 @@
    "name": "ASUS TUF Gaming B850M-Plus Mainboard, Sockel AM5, AMD B850, Micro-ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-tuf-gaming-b850m-plus-motherboard-socket-am5-amd-b850-micro-atx-ddr5/MBAS-808.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -32229,7 +32316,7 @@
    "name": "ASUS VA279QGS-W 27\" IPS Monitor 1920 x 1080 Full HD Weiß",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-va279qgs-w-27-ips-monitor-1920-x-1080-full-hd-weiss-100695580/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -32490,7 +32577,7 @@
    "name": "HP OMEN 27q G2 27\" QHD IPS 180 Hz Gaming Monitor Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/hp-omen-27q-g2-27-qhd-ips-180-hz-gaming-monitor-schwarz-100604483/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -33339,7 +33426,7 @@
    "name": "ASUS TUF Gaming B860M-Plus Mainboard, Sockel LGA 1851, Intel B860, Micro-ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-tuf-gaming-b860m-plus-motherboard-socket-lga-1851-intel-b860-micro-atx-ddr5/MBAS-818.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -33455,7 +33542,7 @@
    "name": "ASUS ROG Strix B760-G Gaming WIFI, Intel B760 Mainboard, Sockel 1700, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-b760-g-gaming-wifi-intel-b760-motherboard-socket-1700-ddr5/MBAS-708.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -33484,7 +33571,7 @@
    "name": "ASUS TUF Gaming B850M-Plus WiFi Mainboard, Sockel AM5, AMD B850, Micro-ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-tuf-gaming-b850m-plus-wifi-motherboard-socket-am5-amd-b850-micro-atx-ddr5/MBAS-807.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -33630,6 +33717,35 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/gigabyte-aorus-gen4-7000e-1-tb-ssd-m-2-2280-pcie-4-0-x4-nvme-100677613/",
    "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 217.14,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/gigabyte-aorus-gen4-7000e-1-tb-ssd-m-2-2280-pcie-4-0-x4-nvme-100677613/"
+    }
+   ],
+   "price": 217.14,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 217.14
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 1 tb gigabyte aorus gen4 7000e ssd 2280 pcie nvme",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-gigabyte-aorus-gen4-7000e-1-tb-ssd-m-2-2280-pcie-4-0-x4-nvme-tb4sb",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 1 TB",
+   "name": "Gigabyte AORUS Gen4 7000E 1 TB SSD M.2 2280 PCIe 4.0 x4 NVMe",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/gigabyte-aorus-gen4-7000e-1-tb-ssd-m-2-2280-pcie-4-0-x4-nvme-100677613/",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -34271,7 +34387,7 @@
    "name": "ASUS ROG Strix B760-A Gaming WIFI Mainboard, Sockel 1700, Intel B760, ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-b760-a-gaming-wifi-motherboard-socket-1700-intel-b760-atx-ddr5/MBAS-709.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -34387,7 +34503,7 @@
    "name": "ASUS ProART B760-CREATOR WIFI, Intel B760 Mainboard, Sockel LGA1700, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-proart-b760-creator-wifi-intel-b760-motherboard-lga1700-socket-ddr5/MBAS-752.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -35207,7 +35323,7 @@
    "name": "ASUS ROG Strix B860-I Gaming WiFi Mainboard, Sockel LGA 1851, Intel B860, Mini-ITX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-b860-i-gaming-wifi-motherboard-socket-lga-1851-intel-b860-mini-itx-ddr5/MBAS-815.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -35236,7 +35352,7 @@
    "name": "MSI B850 GAMING PLUS WIFI PZ, Mainboard",
    "source": "crawler",
    "url": "https://www.alternate.de/MSI/B850-GAMING-PLUS-WIFI-PZ-Mainboard/html/product/100140531",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -35447,7 +35563,7 @@
    "name": "LG 27BP55U-B 27\" 4K UHD IPS Monitor Silber",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/lg-27bp55u-b-27-4k-uhd-ips-monitor-silber-100503860/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -35803,7 +35919,7 @@
    "name": "ASUS ROG Strix B860-G Gaming WiFi Mainboard, Sockel LGA 1851, Intel B860, Micro-ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-b860-g-gaming-wifi-motherboard-socket-lga-1851-intel-b860-micro-atx-ddr5/MBAS-814.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -36180,7 +36296,7 @@
    "name": "SanDisk WD_BLACK SN8100 SSD 1TB M.2 2280 PCIe Gen5 NVMe Internes Solid-State-Module",
    "source": "crawler",
    "url": "https://www.notebooksbilliger.de/wd_black+sn8100+ssd+1tb+m2+2280+pcie+gen5+nvme+892674",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "Notebooksbilliger",
@@ -36362,7 +36478,7 @@
    "name": "ASUS Prime X870-P WiFi Mainboard, AMD X870, Sockel AM5, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-prime-x870-p-wifi-motherboard-amd-x870-socket-am5-ddr5/MBAS-784.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -37277,7 +37393,7 @@
    "name": "Philips 3000 Series 27B2U3601 27\" QHD IPS-Monitor 120 Hz USB-C Hub Ethernet Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/philips-3000-series-27b2u3601-27-qhd-ips-monitor-120-hz-usb-c-hub-ethernet-schwarz-100589416/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -37484,7 +37600,7 @@
    "name": "ASUS ROG Strix B860-A Gaming WiFi Mainboard, Sockel LGA 1851, Intel B860, ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-b860-a-gaming-wifi-motherboard-socket-lga-1851-intel-b860-atx-ddr5/MBAS-813.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -37815,7 +37931,7 @@
    "name": "ASUS TUF Gaming VG27AQM5A QHD Monitor (27 Zoll, 2560 x 1440, Fast IPS, 0,3 ms Reaktionszeit, 300 Hz, Lautsprecher, ELMB Sync, HDMi, DisplayPort, USB-C) (90LM0BG0-B01971)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-tuf-gaming-vg27aqm5a-qhd-monitor-27-zoll-2560-x-1440-fast-ips-0-3-ms-reaktionszeit-300-hz-lautsprecher-elmb-sync-hdmi-displayport-usb-c-90lm0bg0-b01971-100582969/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -38138,7 +38254,7 @@
    "name": "Lenovo ThinkVision T24i-30 23.8\" Full HD LED-Monitor IPS Raven Black",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/lenovo-thinkvision-t24i-30-23-8-full-hd-led-monitor-ips-raven-black-8313472/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -38225,7 +38341,7 @@
    "name": "Acer Vero B247WE5bemiqpruzx 24\" 1920 x 1200 IPS Office Monitor Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/acer-vero-b247we5bemiqpruzx-24-1920-x-1200-ips-office-monitor-schwarz-100605706/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -38486,7 +38602,7 @@
    "name": "GIGABYTE G34WQC2 Curved Gaming Monitor 34\" UWQHD VA 200 Hz Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/gigabyte-g34wqc2-curved-gaming-monitor-34-uwqhd-va-200-hz-schwarz-100605367/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -39132,7 +39248,7 @@
    "name": "ASUS ROG STRIX B850-A Gaming WiFi Mainboard, Sockel AM5, AMD B850, ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-b850-a-gaming-wifi-motherboard-socket-am5-amd-b850-atx-ddr5/MBAS-804.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -39335,7 +39451,7 @@
    "name": "ASUS Prime Z890-P WiFi Mainboard, Sockel LGA 1851, Intel Z890, ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-prime-z890-p-wifi-motherboard-socket-lga-1851-intel-z890-atx-ddr5/MBAS-798.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -39364,7 +39480,7 @@
    "name": "ASUS ROG Strix B860-F Gaming WiFi Mainboard, Sockel LGA 1851, Intel B860, ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-b860-f-gaming-wifi-motherboard-socket-lga-1851-intel-b860-atx-ddr5/MBAS-812.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -39538,7 +39654,7 @@
    "name": "Acer Nitro XZ340CUJ0bmiiphx Gaming Monitor 34\" UWQHD 120 Hz VA Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/acer-nitro-xz340cuj0bmiiphx-gaming-monitor-34-uwqhd-120-hz-va-schwarz-100606611/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -39567,7 +39683,7 @@
    "name": "Iiyama ProLite XB2797QSNP-W1 27\" QHD IPS Monitor USB-C Docking KVM & LAN Weiß",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/iiyama-prolite-xb2797qsnp-w1-27-qhd-ips-monitor-usb-c-docking-kvm-lan-weiss-100859431/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -39915,7 +40031,7 @@
    "name": "Gigabyte GS27U 27\" 4K UHD Gaming Monitor Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/gigabyte-gs27u-27-4k-uhd-gaming-monitor-schwarz-100583557/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -40064,7 +40180,7 @@
    "name": "Acer Predator XB273K V5bmiiprx 27\" 4K IPS Gaming Monitor 160 Hz Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/acer-predator-xb273k-v5bmiiprx-27-4k-ips-gaming-monitor-160-hz-schwarz-100588467/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -40528,7 +40644,7 @@
    "name": "Acer Nitro XZ340CUR X0bmiiphx 34\" WQHD Gaming Monitor Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/acer-nitro-xz340cur-x0bmiiphx-34-wqhd-gaming-monitor-schwarz-100606613/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -40905,7 +41021,7 @@
    "name": "ASUS ROG STRIX B850-I Gaming WiFi Mainboard, Sockel AM5, AMD B850, Mini-ITX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-b850-i-gaming-wifi-motherboard-socket-am5-amd-b850-mini-itx-ddr5/MBAS-805.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -41222,6 +41338,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-samsung-990-pro-1-tb-ssd-m-2-nvme-pcie-4-0-mit-kuhlkorper-zeqzd",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 1 TB",
+   "name": "Samsung 990 PRO 1 TB SSD M.2 NVMe PCIe 4.0 mit Kühlkörper",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/samsung-990-pro-1-tb-ssd-m-2-nvme-pcie-4-0-mit-kuehlkoerper-9247569/",
+   "stand": "2026-10-30T21:42",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 300.23,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/samsung-990-pro-1-tb-ssd-m-2-nvme-pcie-4-0-mit-kuehlkoerper-9247569/"
+    }
+   ],
+   "price": 300.23,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 300.23
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 1 tb samsung 990 pro ssd nvme pcie mit kuhlkorper",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-acer-vero-b327qk-b1-31-5-4k-uhd-ips-monitor-schwarz",
    "cat": "Monitore",
    "sub": "31,5\"",
@@ -41315,7 +41460,7 @@
    "name": "Acer Vero B327QK B1 31,5\" 4K UHD IPS Monitor Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/acer-vero-b327qk-b1-31-5-4k-uhd-ips-monitor-schwarz-100671709/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -41431,7 +41576,7 @@
    "name": "ASUS ROG STRIX Z890-F Mainboard, Sockel LGA 1851, Intel Z890, ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-z890-f-motherboard-socket-lga-1851-intel-z890-atx-ddr5/MBAS-793.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -42255,7 +42400,7 @@
    "name": "Samsung ViewFinity S6 S27D600EAU 27\" Quad HD IPS Monitor 100 Hz Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/samsung-viewfinity-s6-s27d600eau-27-quad-hd-ips-monitor-100-hz-schwarz-100503579/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -42371,7 +42516,7 @@
    "name": "Samsung Essential S3 S32D396GAU 32\" Curved Full HD Monitor 100 Hz Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/samsung-essential-s3-s32d396gau-32-curved-full-hd-monitor-100-hz-schwarz-100589418/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -42545,7 +42690,7 @@
    "name": "ASUS TUF Gaming Z890-Pro WiFi Mainboard, Sockel 1851, Intel Z890, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-tuf-gaming-z890-pro-wifi-motherboard-socket-1851-intel-z890-ddr5/MBAS-796.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -42872,7 +43017,7 @@
    "name": "ASUS ROG STRIX B850-E Gaming WiFi Mainboard, Sockel AM5, AMD B850, ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-b850-e-gaming-wifi-motherboard-socket-am5-amd-b850-atx-ddr5/MBAS-802.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -43568,7 +43713,7 @@
    "name": "Samsung Odyssey G7 S27DG702EU 27\" 4K UHD 144Hz Fast IPS Gaming-Monitor Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/samsung-odyssey-g7-s27dg702eu-27-4k-uhd-144hz-fast-ips-gaming-monitor-schwarz-9385510/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -43597,7 +43742,7 @@
    "name": "ASUS ROG Strix Z890-E Gaming WiFi Mainboard, Sockel LGA 1851, Intel Z890, ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-z890-e-gaming-wifi-motherboard-socket-lga-1851-intel-z890-atx-ddr5/MBAS-792.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -43987,6 +44132,35 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/lenovo-sk-hynix-ssd-512-gb-m-2-2280-pcie-4-0-x4-nvme-9088676/",
    "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 354.13,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/lenovo-sk-hynix-ssd-512-gb-m-2-2280-pcie-4-0-x4-nvme-9088676/"
+    }
+   ],
+   "price": 354.13,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 354.13
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 512 gb lenovo hynix ssd 512 2280 pcie nvme",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-lenovo-sk-hynix-ssd-512-gb-m-2-2280-pcie-4-0-x4-nvme-5vis9",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 512 GB",
+   "name": "Lenovo SK Hynix SSD 512 GB M.2 2280 PCIe 4.0 x4 NVMe",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/lenovo-sk-hynix-ssd-512-gb-m-2-2280-pcie-4-0-x4-nvme-9088676/",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -44595,7 +44769,7 @@
    "name": "ASUS ROG STRIX Z890-H Gaming WiFi Mainboard, Sockel LGA 1851, Intel Z890, ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-z890-h-gaming-wifi-motherboard-socket-lga-1851-intel-z890-atx-ddr5/MBAS-828.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -44914,7 +45088,7 @@
    "name": "ASUS ProArt PA24ACRV 23,8\" QHD IPS Monitor HDMI DisplayPort USB-C Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-proart-pa24acrv-23-8-qhd-ips-monitor-hdmi-displayport-usb-c-schwarz-100474245/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -45262,7 +45436,7 @@
    "name": "Dell 32 Plus Monitor - S3225QS, 4K UHD (3840x2160), 120Hz, VA, 4ms, AMD FreeSync Premium, 95% DCI-P3, HDR10, Höhenverstellbar, Eingebaute Lautsprecher, DisplayPort, 2 HDMI (210-BQWP)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/dell-32-plus-monitor-s3225qs-4k-uhd-3840x2160-120hz-va-4ms-amd-freesync-premium-95-dci-p3-hdr10-hoehenverstellbar-eingebaute-lautsprecher-displayport-2-hdmi-210-bqwp-100583586/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -45726,7 +45900,7 @@
    "name": "AOC CU34E4CW LED-Monitor 86.4 cm (34\") gebogen - USB (CU34E4CW)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/aoc-cu34e4cw-led-monitor-86-4-cm-34-gebogen-usb-cu34e4cw-100672817/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -45784,7 +45958,7 @@
    "name": "HP OMEN 27qs G2 27\" QHD 280 Hz IPS Gaming Monitor Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/hp-omen-27qs-g2-27-qhd-280-hz-ips-gaming-monitor-schwarz-100604484/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -46103,7 +46277,7 @@
    "name": "Acer Predator XB323QKV4 Gaming Monitor 80 cm (31,5\") - 4K UHD, Agile Splendor IPS Panel, HDMI, DisplayPort, Audio, Pivot [Energieklasse F] (UM.JX3EE.401)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/acer-predator-xb323qkv4-gaming-monitor-80-cm-31-5-4k-uhd-agile-splendor-ips-panel-hdmi-displayport-audio-pivot-energieklasse-f-um-jx3ee-401-100604546/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -46335,7 +46509,7 @@
    "name": "ASUS ROG Strix X870-A Gaming WiFi Mainboard, AMD X870, Sockel AM5, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-x870-a-gaming-wifi-motherboard-amd-x870-socket-am5-ddr5/MBAS-782.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -46658,7 +46832,7 @@
    "name": "Philips 6000 Series 27B2U6903 27\" 4K UHD IPS Monitor 60 Hz Silber, holzkohlefarben",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/philips-6000-series-27b2u6903-27-4k-uhd-ips-monitor-60-hz-silber-holzkohlefarben-100549721/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -46865,7 +47039,7 @@
    "name": "ASUS ROG Strix X870-I Gaming WiFi Mainboard, AMD X870, Sockel AM5, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-x870-i-gaming-wifi-motherboard-amd-x870-socket-am5-ddr5/MBAS-788.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -46956,7 +47130,7 @@
    "name": "AOC AGON PRO AG276FK 27\" Gaming-Monitor 1920 x 1080 IPS 520 Hz Matte Gray",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/aoc-agon-pro-ag276fk-27-gaming-monitor-1920-x-1080-ips-520-hz-matte-gray-100546954/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -47362,7 +47536,7 @@
    "name": "Dell S Series SE3223Q 31,5\" Monitor 4K Ultra HD 3840 x 2160 VA Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/dell-s-series-se3223q-31-5-monitor-4k-ultra-hd-3840-x-2160-va-schwarz-7847712/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -47921,7 +48095,7 @@
    "name": "ASUS ROG Strix X870-F Gaming WiFi Mainboard, AMD X870, Sockel AM5, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-x870-f-gaming-wifi-motherboard-amd-x870-socket-am5-ddr5/MBAS-787.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -47979,7 +48153,7 @@
    "name": "Samsung Odyssey G7 S32DG702EU LED-Monitor 32\" 4K UHD 144 Hz Fast IPS Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/samsung-odyssey-g7-s32dg702eu-led-monitor-32-4k-uhd-144-hz-fast-ips-schwarz-9385509/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -48064,13 +48238,42 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-samsung-990-pro-mz-v9p2t0gw-ssd-2-tb-m-2-2280-nvme-pcie-4-0--1441d",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 2 TB",
+   "name": "Samsung 990 PRO MZ-V9P2T0GW SSD 2 TB M.2 2280 NVMe PCIe 4.0 mit Kühlkörper",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/samsung-990-pro-mz-v9p2t0gw-ssd-2-tb-m-2-2280-nvme-pcie-4-0-mit-kuehlkoerper-9247568/",
+   "stand": "2026-10-30T21:42",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 438.62,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/samsung-990-pro-mz-v9p2t0gw-ssd-2-tb-m-2-2280-nvme-pcie-4-0-mit-kuehlkoerper-9247568/"
+    }
+   ],
+   "price": 438.62,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 438.62
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 2 tb samsung 990 pro v9p2t0gw ssd 2280 nvme pcie mit kuhlkorper",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-sandisk-wd-black-sn8100-ssd-2tb-m-2-2280-pcie-gen5-nvme-inte",
    "cat": "SSDs",
    "sub": "PCIe 5.0 2 TB",
    "name": "SanDisk WD_BLACK SN8100 SSD 2TB M.2 2280 PCIe Gen5 NVMe Internes Solid-State-Module",
    "source": "crawler",
    "url": "https://www.notebooksbilliger.de/wd_black+sn8100+ssd+2tb+m2+2280+pcie+gen5+nvme+892673",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "Notebooksbilliger",
@@ -48368,7 +48571,7 @@
    "name": "ASUS ROG Strix X870E-E Gaming WiFi Mainboard, AMD X870E, Sockel AM5, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-x870e-e-gaming-wifi-motherboard-amd-x870e-socket-am5-ddr5/MBAS-771.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -48637,7 +48840,7 @@
    "name": "SanDisk WD_BLACK SN770M SSD 2TB M.2 2230 PCIe Gen4 NVMe B-Ware Internes Solid-State-Module",
    "source": "crawler",
    "url": "https://www.notebooksbilliger.de/wd_black+sn770m+ssd+2tb+m2+2230+pcie+gen4+nvme+b+ware+919699",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "Notebooksbilliger",
@@ -48695,7 +48898,7 @@
    "name": "ASUS ProArt PA279CRV LED-Monitor 27\" 4K UHD IPS HDR USB-C Schwarz, Silber",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-proart-pa279crv-led-monitor-27-4k-uhd-ips-hdr-usb-c-schwarz-silber-8274915/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -48811,7 +49014,7 @@
    "name": "ASUS PRO WS W680-ACE, Intel W680 Mainboard, Sockel 1700, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-pro-ws-w680-ace-intel-w680-motherboard-socket-1700-ddr5/MBAS-732.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -49277,6 +49480,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-lenovo-sk-hynix-ssd-1-tb-m-2-2280-pcie-4-0-x4-nvme-fru-nlill",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 1 TB",
+   "name": "Lenovo SK Hynix SSD 1 TB M.2 2280 PCIe 4.0 x4 NVMe FRU",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/lenovo-sk-hynix-ssd-1-tb-m-2-2280-pcie-4-0-x4-nvme-fru-9088677/",
+   "stand": "2026-10-30T21:42",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 482.22,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/lenovo-sk-hynix-ssd-1-tb-m-2-2280-pcie-4-0-x4-nvme-fru-9088677/"
+    }
+   ],
+   "price": 482.22,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 482.22
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 1 tb lenovo hynix ssd 2280 pcie nvme fru",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-samsung-odyssey-g7-s37fg750eu-37-3840-x-2160-165-hz-gaming-m",
    "cat": "Monitore",
    "sub": "37\"",
@@ -49312,7 +49544,7 @@
    "name": "Samsung Odyssey G7 S37FG750EU 37\" 3840 x 2160 165 Hz Gaming-Monitor Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/samsung-odyssey-g7-s37fg750eu-37-3840-x-2160-165-hz-gaming-monitor-schwarz-100673077/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -49602,7 +49834,7 @@
    "name": "MSI MAG 272QPDE X24 QD-OLED Gaming-Monitor 68,60cm (27\") WQHD 240 Hz 0,03 ms Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/msi-mag-272qpde-x24-qd-oled-gaming-monitor-68-60cm-27-wqhd-240-hz-0-03-ms-schwarz-100850237/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -49863,7 +50095,7 @@
    "name": "ASUS ProArt X870E-Creator WiFi Mainboard, AMD X870E, Sockel AM5, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-proart-x870e-creator-wifi-motherboard-amd-x870e-socket-am5-ddr5/MBAS-783.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -50211,7 +50443,7 @@
    "name": "Philips Evnia 8000 27M2N8500 26.5\" QD-OLED Monitor 2560 x 1440 360 Hz Weiß",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/philips-evnia-8000-27m2n8500-26-5-qd-oled-monitor-2560-x-1440-360-hz-weiss-100505243/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -50434,6 +50666,35 @@
    ],
    "count": 1,
    "tags": "grafikkarten geforce rtx 5060 inno3d geforce rtx 5060 twin 8192 gddr7",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-benq-ma270u-27-4k-uhd-led-monitor-weiss-9jq6q",
+   "cat": "Monitore",
+   "sub": "27\"",
+   "name": "BenQ MA270U 27\" 4K UHD LED-Monitor Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/benq-ma270u-27-4k-uhd-led-monitor-weiss-100547594/",
+   "stand": "2026-10-30T21:42",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 515.32,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/benq-ma270u-27-4k-uhd-led-monitor-weiss-100547594/"
+    }
+   ],
+   "price": 515.32,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 515.32
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 27\" benq ma270u uhd led monitor weiss",
    "firstSeen": "2026-10-30"
   },
   {
@@ -50905,35 +51166,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-benq-ma270u-27-4k-uhd-led-monitor-weiss-9jq6q",
-   "cat": "Monitore",
-   "sub": "27\"",
-   "name": "BenQ MA270U 27\" 4K UHD LED-Monitor Weiß",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/benq-ma270u-27-4k-uhd-led-monitor-weiss-100547594/",
-   "stand": "2026-10-30T14:03",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 530.95,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/benq-ma270u-27-4k-uhd-led-monitor-weiss-100547594/"
-    }
-   ],
-   "price": 530.95,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 530.95
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 27\" benq ma270u uhd led monitor weiss",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-dell-plus-s3225qc-31-6-4k-qd-oled-monitor-schwarz-silber",
    "cat": "Monitore",
    "sub": "31,6\"",
@@ -51267,7 +51499,7 @@
    "name": "ASUS Pro WS Z890-ACE SE Mainboard, Sockel LGA 1851, Intel Z890, ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-pro-ws-z890-ace-se-motherboard-lga-1851-socket-intel-z890-atx-ddr5/MBAS-829.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -53184,7 +53416,7 @@
    "name": "ASUS ROG Crosshair X870E Hero Mainboard, AMD X870E, Sockel AM5, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-crosshair-x870e-hero-motherboard-amd-x870e-socket-am5-ddr5/MBAS-781.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -53329,7 +53561,7 @@
    "name": "Alienware AW2725Q 27\" 4K QD-OLED Gaming-Monitor 240 Hz Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/alienware-aw2725q-27-4k-qd-oled-gaming-monitor-240-hz-schwarz-100583589/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -54476,7 +54708,7 @@
    "name": "Samsung Odyssey OLED G8 S34DG850SU 34\" OLED Monitor 3440 x 1440 175 Hz Silber",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/samsung-odyssey-oled-g8-s34dg850su-34-oled-monitor-3440-x-1440-175-hz-silber-100583712/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -54506,6 +54738,35 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-rog-strix-xg27jcg-27-gaming-monitor-5120-x-2880-180-hz-schwarz-100695293/",
    "stand": "2026-10-30T08:04",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 648.51,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-rog-strix-xg27jcg-27-gaming-monitor-5120-x-2880-180-hz-schwarz-100695293/"
+    }
+   ],
+   "price": 648.51,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 648.51
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 27\" asus rog strix xg27jcg gaming monitor 5120 2880 180 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-rog-strix-xg27jcg-27-gaming-monitor-5120-x-2880-180-hz--8u06a",
+   "cat": "Monitore",
+   "sub": "27\"",
+   "name": "ASUS ROG Strix XG27JCG 27\" Gaming-Monitor 5120 x 2880 180 Hz Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-rog-strix-xg27jcg-27-gaming-monitor-5120-x-2880-180-hz-schwarz-100695293/",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -54563,7 +54824,7 @@
    "name": "EIZO FlexScan EV2795-BK LED-Monitor 27\" WQHD IPS USB-C HDMI DisplayPort Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/eizo-flexscan-ev2795-bk-led-monitor-27-wqhd-ips-usb-c-hdmi-displayport-schwarz-6791491/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -55134,35 +55395,6 @@
    ],
    "count": 1,
    "tags": "monitore 27\" eizo flexscan ev2795 led monitor 2560 1440 ips hdmi displayport usb weiss",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-asus-rog-strix-xg27jcg-27-gaming-monitor-5120-x-2880-180-hz--8u06a",
-   "cat": "Monitore",
-   "sub": "27\"",
-   "name": "ASUS ROG Strix XG27JCG 27\" Gaming-Monitor 5120 x 2880 180 Hz Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/asus-rog-strix-xg27jcg-27-gaming-monitor-5120-x-2880-180-hz-schwarz-100695293/",
-   "stand": "2026-10-30T14:03",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 663.08,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/asus-rog-strix-xg27jcg-27-gaming-monitor-5120-x-2880-180-hz-schwarz-100695293/"
-    }
-   ],
-   "price": 663.08,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 663.08
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 27\" asus rog strix xg27jcg gaming monitor 5120 2880 180 schwarz",
    "firstSeen": "2026-10-30"
   },
   {
@@ -56228,7 +56460,7 @@
    "name": "Alienware 34 Gaming Monitor - AW3425DW, WQHD (3440x1440), 21:9 1800R Curved, 240Hz, QD OLED, 0.03ms, NVIDIA G-SYNC Kompatibel, AMD FreeSync Premium Pro (GAME-AW3425DW)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/alienware-34-gaming-monitor-aw3425dw-wqhd-3440x1440-21-9-1800r-curved-240hz-qd-oled-0-03ms-nvidia-g-sync-kompatibel-amd-freesync-premium-pro-game-aw3425dw-100587982/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -56373,7 +56605,7 @@
    "name": "HP Series 7 Pro 732pk 31,5\" 4K Monitor Schwarz, Silber",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/hp-series-7-pro-732pk-31-5-4k-monitor-schwarz-silber-100469972/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -56866,7 +57098,7 @@
    "name": "AG Neovo X-2402w 24\" LED-Monitor 1920 x 1080 Full HD Weiß",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/ag-neovo-x-2402w-24-led-monitor-1920-x-1080-full-hd-weiss-100504140/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -57040,7 +57272,7 @@
    "name": "ASUS ProArt PA27UCGE 27\" 4K UHD IPS Monitor 160Hz HDR600 USB-C KVM Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-proart-pa27ucge-27-4k-uhd-ips-monitor-160hz-hdr600-usb-c-kvm-schwarz-100588220/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -57272,7 +57504,7 @@
    "name": "Samsung Odyssey OLED G81SF Gaming-Monitor 68cm (27 Zoll) (LS27FG814SUXEN)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/samsung-odyssey-oled-g81sf-gaming-monitor-68cm-27-zoll-ls27fg814suxen-100695631/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -57469,35 +57701,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-samsung-viewfinity-s9-ls49f950uauxen-49-curved-dqhd-va-monit-4rjdu",
-   "cat": "Monitore",
-   "sub": "49\"",
-   "name": "Samsung ViewFinity S9 LS49F950UAUXEN 49\" Curved DQHD VA-Monitor 32:9 5120x1440 120Hz (LS49F950UAUXEN)",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/samsung-viewfinity-s9-ls49f950uauxen-49-curved-dqhd-va-monitor-32-9-5120x1440-120hz-ls49f950uauxen-100605749/",
-   "stand": "2026-10-30T14:03",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 761.47,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/samsung-viewfinity-s9-ls49f950uauxen-49-curved-dqhd-va-monitor-32-9-5120x1440-120hz-ls49f950uauxen-100605749/"
-    }
-   ],
-   "price": 761.47,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 761.47
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 49\" samsung viewfinity ls49f950uauxen curved dqhd monitor 5120x1440 120hz",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-kingston-fury-beast-rgb-32-gb-2-x-16-gb-ddr5-6000-mt-s-cl36-",
    "cat": "Arbeitsspeicher",
    "sub": "DDR5 32 GB",
@@ -57553,6 +57756,35 @@
    ],
    "count": 1,
    "tags": "arbeitsspeicher ddr5 32 gb kingston fury beast rgb ddr5 6000 cl36 dimm weiss",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-samsung-viewfinity-s9-ls49f950uauxen-49-curved-dqhd-va-monit-4rjdu",
+   "cat": "Monitore",
+   "sub": "49\"",
+   "name": "Samsung ViewFinity S9 LS49F950UAUXEN 49\" Curved DQHD VA-Monitor 32:9 5120x1440 120Hz (LS49F950UAUXEN)",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/samsung-viewfinity-s9-ls49f950uauxen-49-curved-dqhd-va-monitor-32-9-5120x1440-120hz-ls49f950uauxen-100605749/",
+   "stand": "2026-10-30T21:42",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 764.03,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/samsung-viewfinity-s9-ls49f950uauxen-49-curved-dqhd-va-monitor-32-9-5120x1440-120hz-ls49f950uauxen-100605749/"
+    }
+   ],
+   "price": 764.03,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 761.47
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 49\" samsung viewfinity ls49f950uauxen curved dqhd monitor 5120x1440 120hz",
    "firstSeen": "2026-10-30"
   },
   {
@@ -57910,7 +58142,7 @@
    "name": "Philips 49B2U5900C 49\" Curved Office-Monitor Dual QHD 5120x1440 VA 75Hz USB-C Silber, Holzkohlefarben",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/philips-49b2u5900c-49-curved-office-monitor-dual-qhd-5120x1440-va-75hz-usb-c-silber-holzkohlefarben-100695650/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -58142,7 +58374,7 @@
    "name": "ASUS Pro WS W790-ACE Mainboard, Sockel LGA 4677, Intel W790,DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-pro-ws-w790-ace-motherboard-socket-lga-4677-intel-w790-ddr5/MBAS-750.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -58461,7 +58693,7 @@
    "name": "ASUS Pro WS TRX50-Sage WiFi, AMD TRX50 Mainboard, Sockel sTR5, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-pro-ws-trx50-sage-wifi-amd-trx50-motherboard-socket-strx4-ddr4/MBAS-769.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -58665,6 +58897,35 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/lenovo-4xb1s30112-ssd-1-tb-m-2-2280-pci-express-5-0-x4-nvme-100591969/",
    "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 837.89,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/lenovo-4xb1s30112-ssd-1-tb-m-2-2280-pci-express-5-0-x4-nvme-100591969/"
+    }
+   ],
+   "price": 837.89,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 837.89
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 1 tb lenovo 4xb1s30112 ssd 2280 pci express nvme",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-lenovo-4xb1s30112-ssd-1-tb-m-2-2280-pci-express-5-0-x4-nvme-1r4y6",
+   "cat": "SSDs",
+   "sub": "NVMe 1 TB",
+   "name": "Lenovo 4XB1S30112 SSD 1 TB M.2 2280 PCI Express 5.0 x4 NVMe",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/lenovo-4xb1s30112-ssd-1-tb-m-2-2280-pci-express-5-0-x4-nvme-100591969/",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -59306,7 +59567,7 @@
    "name": "AORUS FO27Q5P QD-OLED Gaming-Monitor 27\" QHD 500 Hz Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/aorus-fo27q5p-qd-oled-gaming-monitor-27-qhd-500-hz-schwarz-100606628/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -60325,7 +60586,7 @@
    "name": "MSI MPG 272URXDE QD-OLED Gaming-Monitor 27\" 3840x2160 240Hz Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/msi-mpg-272urxde-qd-oled-gaming-monitor-27-3840x2160-240hz-schwarz-100547589/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -60826,7 +61087,7 @@
    "name": "DELL UltraSharp U3423WE 34,1\" Curved UWQHD Monitor Platinum Silver",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/dell-ultrasharp-u3423we-34-1-curved-uwqhd-monitor-platinum-silver-100588866/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -61867,35 +62128,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-benq-ma-series-ma270s-27-5k-ips-thunderbolt-4-monitor-silber-qxys0",
-   "cat": "Monitore",
-   "sub": "27\"",
-   "name": "BenQ MA Series MA270S 27\" 5K IPS Thunderbolt 4 Monitor Silber",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/benq-ma-series-ma270s-27-5k-ips-thunderbolt-4-monitor-silber-100862779/",
-   "stand": "2026-10-30T14:03",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 1028.92,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/benq-ma-series-ma270s-27-5k-ips-thunderbolt-4-monitor-silber-100862779/"
-    }
-   ],
-   "price": 1028.92,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 1028.92
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 27\" benq series ma270s ips thunderbolt monitor silber",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-asus-prime-geforce-rtx-5070-white-oc-grafikkarte-12288-mb-gd",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5070",
@@ -61984,6 +62216,35 @@
    ],
    "count": 1,
    "tags": "grafikkarten radeon rx 9070 xt xfx quicksilver radeon 9070 gaming edition grafikkarte 16384 gddr6",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-benq-ma-series-ma270s-27-5k-ips-thunderbolt-4-monitor-silber-qxys0",
+   "cat": "Monitore",
+   "sub": "27\"",
+   "name": "BenQ MA Series MA270S 27\" 5K IPS Thunderbolt 4 Monitor Silber",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/benq-ma-series-ma270s-27-5k-ips-thunderbolt-4-monitor-silber-100862779/",
+   "stand": "2026-10-30T21:42",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1034.92,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/benq-ma-series-ma270s-27-5k-ips-thunderbolt-4-monitor-silber-100862779/"
+    }
+   ],
+   "price": 1034.92,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 1028.92
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 27\" benq series ma270s ips thunderbolt monitor silber",
    "firstSeen": "2026-10-30"
   },
   {
@@ -62201,35 +62462,6 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/lg-ultragear-39gx90sa-w-oled-monitor-gaming-gebogen-99-1-cm-39-39gx90sa-w-aeu-100583714/",
    "stand": "2026-10-30T08:04",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 1079.62,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/lg-ultragear-39gx90sa-w-oled-monitor-gaming-gebogen-99-1-cm-39-39gx90sa-w-aeu-100583714/"
-    }
-   ],
-   "price": 1079.62,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 1079.62
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 39\" ultragear 39gx90sa oled monitor gaming gebogen aeu",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-lg-ultragear-39gx90sa-w-oled-monitor-gaming-gebogen-99-1-cm--mf2m8",
-   "cat": "Monitore",
-   "sub": "39\"",
-   "name": "LG UltraGear 39GX90SA-W - OLED-Monitor - Gaming - gebogen - 99.1 cm (39\") (39GX90SA-W.AEU)",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/lg-ultragear-39gx90sa-w-oled-monitor-gaming-gebogen-99-1-cm-39-39gx90sa-w-aeu-100583714/",
-   "stand": "2026-10-30T14:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -62519,7 +62751,7 @@
    "name": "ASUS ROG Crosshair X870E EXTREME Mainboard, Sockel AM5, AMD X870E, E-ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-crosshair-x870e-extreme-motherboard-socket-am5-amd-x870e-e-atx-ddr5/MBAS-835.html",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "caseking.de",
@@ -62974,6 +63206,35 @@
    ],
    "count": 1,
    "tags": "monitore 45\" ultragear 45gx900a oled curved gaming monitor 3440 1440 240 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-lg-ultragear-39gx90sa-w-oled-monitor-gaming-gebogen-99-1-cm--mf2m8",
+   "cat": "Monitore",
+   "sub": "39\"",
+   "name": "LG UltraGear 39GX90SA-W - OLED-Monitor - Gaming - gebogen - 99.1 cm (39\") (39GX90SA-W.AEU)",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/lg-ultragear-39gx90sa-w-oled-monitor-gaming-gebogen-99-1-cm-39-39gx90sa-w-aeu-100583714/",
+   "stand": "2026-10-30T21:42",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1156.36,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/lg-ultragear-39gx90sa-w-oled-monitor-gaming-gebogen-99-1-cm-39-39gx90sa-w-aeu-100583714/"
+    }
+   ],
+   "price": 1156.36,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 1079.62
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 39\" ultragear 39gx90sa oled monitor gaming gebogen aeu",
    "firstSeen": "2026-10-30"
   },
   {
@@ -63534,7 +63795,7 @@
    "name": "DELL UltraSharp U3223QE 31.5\" 4K UHD IPS Monitor Silber",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/dell-ultrasharp-u3223qe-31-5-4k-uhd-ips-monitor-silber-100588862/",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -63847,6 +64108,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asus-proart-pa32qcv-32-6k-ips-monitor-thunderbolt-4-grau-z8qpj",
+   "cat": "Monitore",
+   "sub": "32\"",
+   "name": "ASUS ProArt PA32QCV 32\" 6K IPS Monitor Thunderbolt 4 Grau",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-proart-pa32qcv-32-6k-ips-monitor-thunderbolt-4-grau-100606610/",
+   "stand": "2026-10-30T21:42",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1309.27,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-proart-pa32qcv-32-6k-ips-monitor-thunderbolt-4-grau-100606610/"
+    }
+   ],
+   "price": 1309.27,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 1309.27
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 32\" asus proart pa32qcv ips monitor thunderbolt grau",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-samsung-870-qvo-ssd-4-tb-2-5-sata-iii-2s498",
    "cat": "SSDs",
    "sub": "SATA 4 TB",
@@ -63912,35 +64202,6 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-proart-pa32qcv-32-6k-ips-monitor-thunderbolt-4-grau-100606610/",
    "stand": "2026-10-30T08:04",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 1319.25,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/asus-proart-pa32qcv-32-6k-ips-monitor-thunderbolt-4-grau-100606610/"
-    }
-   ],
-   "price": 1319.25,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 1319.25
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 32\" asus proart pa32qcv ips monitor thunderbolt grau",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-asus-proart-pa32qcv-32-6k-ips-monitor-thunderbolt-4-grau-z8qpj",
-   "cat": "Monitore",
-   "sub": "32\"",
-   "name": "ASUS ProArt PA32QCV 32\" 6K IPS Monitor Thunderbolt 4 Grau",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/asus-proart-pa32qcv-32-6k-ips-monitor-thunderbolt-4-grau-100606610/",
-   "stand": "2026-10-30T14:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -64847,7 +65108,7 @@
    "name": "Kingston FURY DIMM 64 GB DDR5-5600 (2x 32 GB) Dual-Kit, Arbeitsspeicher",
    "source": "crawler",
    "url": "https://www.alternate.de/Kingston-FURY/DIMM-64-GB-DDR5-5600-2x-32-GB-Dual-Kit-Arbeitsspeicher/html/product/100140702",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -65312,6 +65573,35 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/lenovo-4xb1s30114-interne-ssd-2-tb-m-2-2280-pcie-5-0-x4-nvme-100591971/",
    "stand": "2026-10-30T12:32",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1695.06,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/lenovo-4xb1s30114-interne-ssd-2-tb-m-2-2280-pcie-5-0-x4-nvme-100591971/"
+    }
+   ],
+   "price": 1695.06,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 1695.06
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 5.0 2 tb lenovo 4xb1s30114 interne ssd 2280 pcie nvme",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-lenovo-4xb1s30114-interne-ssd-2-tb-m-2-2280-pcie-5-0-x4-nvme-rwrzy",
+   "cat": "SSDs",
+   "sub": "PCIe 5.0 2 TB",
+   "name": "Lenovo 4XB1S30114 Interne SSD 2 TB M.2 2280 PCIe 5.0 x4 NVMe",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/lenovo-4xb1s30114-interne-ssd-2-tb-m-2-2280-pcie-5-0-x4-nvme-100591971/",
+   "stand": "2026-10-30T21:42",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -67434,35 +67724,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-dell-ultrasharp-u5226kw-52-6k-thunderbolt-hub-monitor-ips-bl-l60e2",
-   "cat": "Monitore",
-   "sub": "52\"",
-   "name": "Dell UltraSharp U5226KW 52\" 6K Thunderbolt Hub Monitor IPS Black Silber Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/dell-ultrasharp-u5226kw-52-6k-thunderbolt-hub-monitor-ips-black-silber-schwarz-100696278/",
-   "stand": "2026-10-30T14:03",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 2620.11,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/dell-ultrasharp-u5226kw-52-6k-thunderbolt-hub-monitor-ips-black-silber-schwarz-100696278/"
-    }
-   ],
-   "price": 2620.11,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 2620.11
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 52\" dell ultrasharp u5226kw thunderbolt hub monitor ips black silber schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-captiva-advanced-gaming-r93-162-amd-ryzen-7-9800x3d-32-gb-ra",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5060 Ti",
@@ -67518,6 +67779,35 @@
    ],
    "count": 1,
    "tags": "grafikkarten geforce rtx 5060 captiva advanced gaming r94 822 amd ryzen 7800x3d nvidia geforce rtx 5060 ram ssd schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-dell-ultrasharp-u5226kw-52-6k-thunderbolt-hub-monitor-ips-bl-l60e2",
+   "cat": "Monitore",
+   "sub": "52\"",
+   "name": "Dell UltraSharp U5226KW 52\" 6K Thunderbolt Hub Monitor IPS Black Silber Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/dell-ultrasharp-u5226kw-52-6k-thunderbolt-hub-monitor-ips-black-silber-schwarz-100696278/",
+   "stand": "2026-10-30T21:42",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 2710.07,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/dell-ultrasharp-u5226kw-52-6k-thunderbolt-hub-monitor-ips-black-silber-schwarz-100696278/"
+    }
+   ],
+   "price": 2710.07,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 2620.11
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 52\" dell ultrasharp u5226kw thunderbolt hub monitor ips black silber schwarz",
    "firstSeen": "2026-10-30"
   },
   {
