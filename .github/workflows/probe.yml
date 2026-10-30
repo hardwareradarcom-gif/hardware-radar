@@ -1,0 +1,20 @@
+name: Probe
+on: workflow_dispatch
+jobs:
+  p:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/setup-node@v4
+        with: { node-version: 22 }
+      - run: |
+          cat > p.mjs <<'JS'
+          const UA="HardwareRadarBot/1.0 (+https://hwradar.de/bot; hardwareradar.com@gmail.com)";
+          for (const u of ["https://www.jacob.de/produkt/kingston-fury-beast-32-gb-kit-ddr4-3200-mhz-cl16-dimm-schwarz-7291280/","https://www.jacob.de/produkt/dell-s2722dc-27-monitor-2560-x-1440-75-hz-usb-c-grau-7532216/"]) {
+            const h = await (await fetch(u,{headers:{"User-Agent":UA}})).text();
+            const ld = [...h.matchAll(/<script[^>]+ld\+json[^>]*>([\s\S]*?)<\/script>/gi)].map(m=>m[1]);
+            for (const b of ld) { if (/offer/i.test(b)) { const i=b.search(/"offers"/i); console.log("::warning::"+u.slice(25,60)+" "+b.slice(Math.max(0,i-100),i+900).replace(/\s+/g," ")); } }
+            const pm=[...h.matchAll(/price[^<]{0,80}/gi)].slice(0,6).map(m=>m[0]).join(" || ");
+            console.log("::warning::meta "+pm.replace(/[\r\n%]/g," "));
+          }
+          JS
+          node p.mjs
