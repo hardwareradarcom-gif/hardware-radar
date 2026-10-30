@@ -775,15 +775,6 @@
       "https://www.caseking.de/search?search=oled+monitor",
       "https://www.caseking.de/search?search=4k+monitor",
       "https://www.caseking.de/search?search=midi+tower+geh%C3%A4use"
-    ],
-    "it-versand.com": [
-      "https://it-versand.com/collections/monitor-refurbished",
-      "https://it-versand.com/collections/computer-pc-refurbished",
-      "https://it-versand.com/collections/gebrauchte-premium-computer-pcs",
-      "https://it-versand.com/collections/workstations",
-      "https://it-versand.com/collections/laptop-notebook-refurbished",
-      "https://it-versand.com/collections/gebrauchte-premium-notebooks",
-      "https://it-versand.com/collections/sale"
     ]
   },
   "refurb": {
@@ -868,6 +859,14 @@
       "festplatte",
       "halterung",
       "standfuss"
-    ]
+    ],
+    "collections": {
+      "monitor-refurbished": "Monitore",
+      "computer-pc-refurbished": "PCs & Workstations",
+      "gebrauchte-premium-computer-pcs": "PCs & Workstations",
+      "workstations": "PCs & Workstations",
+      "laptop-notebook-refurbished": "Laptops",
+      "gebrauchte-premium-notebooks": "Laptops"
+    }
   }
 }

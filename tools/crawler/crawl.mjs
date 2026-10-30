@@ -363,9 +363,45 @@ function classifyRefurb(name) {
   for (const c of RF.categories || []) if (c.any.some(w => hasWord(n, w)) && !(c.not || []).some(w => hasWord(n, w))) return c.cat;
   return null;
 }
+// nur Ausschluss- und Zubehör-Prüfung (Kategorie kommt aus der Shop-Kollektion)
+function refurbOk(name) {
+  const n = norm(name);
+  if ((RF.exclude || []).some(w => hasWord(n, w))) return false;
+  const spec = /\d+\s?(gb|tb)\b|\bi[3579]\b|ryzen|core|xeon|zoll|\d\d([.,]\d)?["”]|\d+\s?hz\b|\b(fhd|wqhd|uwqhd|uhd|qhd)\b|\d{3,4}\s?x\s?\d{3,4}/.test(n);
+  return spec || !(RF.accessory || []).some(w => hasWord(n, w));
+}
+/* Shopify-Shops: öffentliche Produktliste je Kollektion (/collections/<name>/products.json), robots.txt-konform */
+async function shopifyRefurb(dom) {
+  const D = state.domains[dom], origin = D.origin;
+  const rob = await robotsFor(new URL(origin));
+  if (!rob || rob.deny) { D.fails = (D.fails || 0) + 1; log(dom, "robots.txt nicht erreichbar"); return; }
+  const seen = new Set(); let hits = 0, pages = 0;
+  for (const [coll, cat] of Object.entries(RF.collections || {})) {
+    for (let pg = 1; pg <= 8; pg++) {
+      const r = await get(`${origin}/collections/${coll}/products.json?limit=250&page=${pg}`); pages++;
+      if (!r || r.status !== 200 || !r.text) { if (r && r.status) log(dom, coll + ": HTTP " + r.status); break; }
+      let j; try { j = JSON.parse(r.text); } catch { break; }
+      const list = j.products || []; if (!list.length) break;
+      for (const it of list) {
+        if (!it.handle || seen.has(it.handle)) continue; seen.add(it.handle);
+        const vs = (it.variants || []).filter(v => +v.price > 0), av = vs.filter(v => v.available);
+        const v = (av.length ? av : vs).sort((a, b) => +a.price - +b.price)[0]; if (!v) continue;
+        let name = tidyName(String(it.title || "").replace(/,\s*(norton|inkl\.?\s*garantie|mit\s*garantie)\b.*$/i, "").trim()); if (!name) continue;
+        const img = (it.images || [])[0]?.src;
+        const url = origin + "/products/" + it.handle;
+        if (recordRefurb(dom, url, { name, cat, brand: it.vendor || "", key: "r:" + dom + ":" + it.handle, img: img ? (img.startsWith("//") ? "https:" + img : img) : null,
+          offer: { price: +v.price, ship: null, avail: av.length ? "InStock" : "OutOfStock", url } })) hits++;
+      }
+      if (list.length < 250) break;
+    }
+  }
+  D.lastCrawl = NOW.toISOString(); D.fails = hits ? 0 : (D.fails || 0) + 1;
+  D.products = Object.values(state.refurb).filter(x => x.offer && fresh(x.offer) && x.offer.url.includes(dom)).length;
+  log(dom, `Generalüberholt: ${pages} Listen geprüft, ${hits} Angebote`);
+}
 function recordRefurb(dom, pageUrl, p) {
-  const cat = classifyRefurb(p.name); if (!cat) return false;
-  const key = "r:" + productKey(p);
+  const cat = p.cat ? (refurbOk(p.name) ? p.cat : null) : classifyRefurb(p.name); if (!cat) return false;
+  const key = p.key || ("r:" + productKey(p));
   const rec = state.refurb[key] ??= { name: p.name, cat, brand: p.brand, hist: [], firstSeen: TODAY };
   rec.name = p.name; rec.cat = cat;
   if (p.img && hostMatches(dom, CFG.imageDomains || [])) { const iu = safeUrl(typeof p.img === "string" ? p.img : "", pageUrl); if (iu && iu.protocol === "https:") rec.img = iu.toString(); }
@@ -515,6 +551,7 @@ function nextPageLinks(html, base, dom) {
 
 /* ---------------- Einen Shop durchsuchen ---------------- */
 async function crawlDomain(dom) {
+  if (isRefurb(dom)) return shopifyRefurb(dom);
   const D = state.domains[dom];
   const origin = D.origin;
   let hits = 0, tried = 0;
@@ -711,6 +748,7 @@ function cleanup() {
 /* Schnell-Prüfung (--refresh): nur bekannte Produktseiten erneut abrufen, ohne neue Seiten zu suchen.
    Läuft zwischen den großen Durchläufen, damit Preissenkungen schnell auf der Website landen. */
 async function refreshDomain(dom) {
+  if (isRefurb(dom)) return shopifyRefurb(dom);
   const D = state.domains[dom], cap = (CFG.refresh && CFG.refresh.perDomain) || 120, minAgeH = (CFG.refresh && CFG.refresh.minAgeHours) || 1.5;
   const rob = await robotsFor(new URL(D.origin)); if (!rob || rob.deny) return;
   const list = Object.entries(state.urls).filter(([, v]) => v.d === dom && v.kind === "product" && (!v.last || (NOW - new Date(v.last)) / 36e5 >= minAgeH))
