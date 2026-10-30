@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-30T15:39:27.905Z",
+ "updated": "2026-10-30T15:54:28.715Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -406,7 +406,7 @@
    "name": "Sapphire Pulse Radeon RX 9070 GRE 12GB",
    "url": "https://www.hardwaredealz.com/hardware/gpu/amd-radeon-rx-9070-gre-12gb/sapphire-pulse-radeon-rx-9070-gre/preisvergleich.33610",
    "source": "hardwaredealz",
-   "stand": "2026-10-30T14:51",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "alza.de",
@@ -469,7 +469,7 @@
    "name": "ASRock Radeon RX 9070 Challenger 16GB",
    "url": "https://www.hardwaredealz.com/hardware/gpu/amd-radeon-rx-9070-16gb/asrock-radeon-challenger-1-16gb-gddr6-hdmi-3x-dp/preisvergleich.25289",
    "source": "hardwaredealz",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "MobPicker",
@@ -1441,7 +1441,7 @@
    "name": "Kingston FURY Beast 32 GB Kit DDR4-3200 CL16",
    "url": "https://geizhals.de/2564435",
    "source": "Geizhals",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -1986,7 +1986,7 @@
    "name": "ASUS TUF Gaming B650-Plus WIFI",
    "url": "https://geizhals.de/2824311",
    "source": "Geizhals",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "alza.de",
@@ -2042,7 +2042,7 @@
    "name": "ASUS ROG Strix B650-A Gaming WIFI",
    "url": "https://geizhals.de/asus-rog-strix-b650-a-gaming-wifi-a2824309.html",
    "source": "Geizhals",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "Geizhals-Bestpreis",
@@ -2052,10 +2052,10 @@
     },
     {
      "shop": "caseking.de",
-     "price": 207,
+     "price": 239.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/asus-rog-strix-b650-a-gaming-wifi-motherboard-socket-am5-amd-b650-atx-ddr5/MBAS-659.html",
+     "url": "https://www.caseking.de/en/asus-rog-strix-b650e-i-gaming-wifi-motherboard-socket-am5-amd-b650-mini-itx-ddr5/MBAS-660.html",
      "crawler": true
     }
    ],
@@ -5143,7 +5143,7 @@
    "name": "ASUS TUF Gaming B650-Plus",
    "url": "https://geizhals.de/asus-tuf-gaming-b650-plus-a2824312.html",
    "source": "Geizhals",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "Geizhals-Bestpreis",
@@ -5153,10 +5153,10 @@
     },
     {
      "shop": "caseking.de",
-     "price": 162.9,
+     "price": 170.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/asus-tuf-gaming-b650-plus-motherboard-socket-am5-amd-b650-atx-ddr5/MBAS-662.html",
+     "url": "https://www.caseking.de/en/asus-tuf-gaming-b650m-plus-amd-b650-motherboard-socket-am5-ddr5/MBAS-664.html",
      "crawler": true
     }
    ],
@@ -10273,7 +10273,7 @@
    "name": "ASRock B760M-H2/M.2 Mainboard, Sockel 1700, Intel B760, mATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asrock-b760m-h2-m.2-motherboard-socket-1700-intel-b760-matx-ddr5/MBAR-505.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -10351,6 +10351,35 @@
    ],
    "count": 1,
    "tags": "monitore 24,5\" asrock cl25ffb monitor 1920x1080 144 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asrock-h810m-h-micro-atx-lga1851-intel-h810-ddr5-schwarz-5cnr9",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1851 H810",
+   "name": "ASRock H810M-H Micro ATX LGA1851 Intel H810 DDR5 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asrock-h810m-h-micro-atx-lga1851-intel-h810-ddr5-schwarz-100582126/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 77.49,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asrock-h810m-h-micro-atx-lga1851-intel-h810-ddr5-schwarz-100582126/"
+    }
+   ],
+   "price": 77.49,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 77.49
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1851 h810 asrock h810m micro atx lga1851 intel h810 ddr5 schwarz",
    "firstSeen": "2026-10-30"
   },
   {
@@ -10898,7 +10927,7 @@
    "name": "ASUS Prime A620M-K, AMD A620 Mainboard, Sockel AM5, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-prime-a620m-k-amd-a620-motherboard-socket-am5-ddr5/MBAS-690.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -11786,6 +11815,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-gigabyte-b840m-d2h-mainboard-amd-b840-sockel-am5-micro-atx-d-n8grs",
+   "cat": "Mainboards",
+   "sub": "AM5 B840",
+   "name": "Gigabyte B840M D2H Mainboard AMD B840 Sockel AM5 Micro-ATX DDR5",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/gigabyte-b840m-d2h-mainboard-amd-b840-sockel-am5-micro-atx-ddr5-100555873/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 91.89,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/gigabyte-b840m-d2h-mainboard-amd-b840-sockel-am5-micro-atx-ddr5-100555873/"
+    }
+   ],
+   "price": 91.89,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 91.89
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 b840 gigabyte b840m d2h mainboard amd b840 sockel am5 micro atx ddr5",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-samsung-essential-s3-s24f320gau-24-full-hd-monitor-schwarz",
    "cat": "Monitore",
    "sub": "24\"",
@@ -12378,6 +12436,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-sapphire-b650m-e-mainboard-micro-atx-sockel-am5-amd-b650-ddr-g39p7",
+   "cat": "Mainboards",
+   "sub": "AM5 B650",
+   "name": "Sapphire B650M-E Mainboard Micro-ATX Sockel AM5 AMD B650 DDR5 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/sapphire-b650m-e-mainboard-micro-atx-sockel-am5-amd-b650-ddr5-schwarz-100606847/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 96.49,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/sapphire-b650m-e-mainboard-micro-atx-sockel-am5-amd-b650-ddr5-schwarz-100606847/"
+    }
+   ],
+   "price": 96.49,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 96.49
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 b650 sapphire b650m mainboard micro atx sockel am5 amd b650 ddr5 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-aoc-27b31h-27-zoll-full-hd-monitor-120-hz-adaptive-bildsynch",
    "cat": "Monitore",
    "sub": "27\"",
@@ -12809,15 +12896,15 @@
    "sub": "Intel LGA1700 B760",
    "name": "ASUS Prime B760M-K, Intel B760 Mainboard, Sockel 1700, DDR5",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/asus-prime-b760m-k-intel-b760-motherboard-socket-1700-ddr5/MBAS-701.html",
-   "stand": "2026-10-30T11:13",
+   "url": "https://www.caseking.de/asus-prime-b760m-k-intel-b760-mainboard-sockel-1700-ddr5/MBAS-701.html",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 99.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/asus-prime-b760m-k-intel-b760-motherboard-socket-1700-ddr5/MBAS-701.html"
+     "url": "https://www.caseking.de/asus-prime-b760m-k-intel-b760-mainboard-sockel-1700-ddr5/MBAS-701.html"
     }
    ],
    "price": 99.9,
@@ -16284,6 +16371,586 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-lenovo-l27i-40-27-ips-monitor-1920-x-1080-100-hz-wolken-grau-5dx5c",
+   "cat": "Monitore",
+   "sub": "27\"",
+   "name": "Lenovo L27i-40 27\" IPS Monitor 1920 x 1080 100 Hz Wolken Grau",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/lenovo-l27i-40-27-ips-monitor-1920-x-1080-100-hz-wolken-grau-100511807/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 100,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/lenovo-l27i-40-27-ips-monitor-1920-x-1080-100-hz-wolken-grau-100511807/"
+    }
+   ],
+   "price": 100,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 100
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 27\" lenovo l27i ips monitor 1920 1080 100 wolken grau",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-lg-ultrawide-35wn75cp-b-led-monitor-35-uwqhd-3440-x-1440-100-g78jt",
+   "cat": "Monitore",
+   "sub": "35\"",
+   "name": "LG UltraWide 35WN75CP-B LED-Monitor 35\" UWQHD 3440 x 1440 100 Hz VA Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/lg-ultrawide-35wn75cp-b-led-monitor-35-uwqhd-3440-x-1440-100-hz-va-schwarz-8271391/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 100,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/lg-ultrawide-35wn75cp-b-led-monitor-35-uwqhd-3440-x-1440-100-hz-va-schwarz-8271391/"
+    }
+   ],
+   "price": 100,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 100
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 35\" ultrawide 35wn75cp led monitor uwqhd 3440 1440 100 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-gigabyte-ms73-hb0-mainboard-e-atx-sockel-lga4677-intel-c741--rtn0w",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "Gigabyte MS73-HB0 Mainboard E-ATX Sockel LGA4677 Intel C741 DDR5",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/gigabyte-ms73-hb0-mainboard-e-atx-sockel-lga4677-intel-c741-ddr5-100472243/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 100,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/gigabyte-ms73-hb0-mainboard-e-atx-sockel-lga4677-intel-c741-ddr5-100472243/"
+    }
+   ],
+   "price": 100,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 100
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards gigabyte ms73 hb0 mainboard atx sockel lga4677 intel c741 ddr5",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-supermicro-x11dpi-nt-mainboard-e-atx-sockel-p-intel-c622-ddr-vnnib",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "Supermicro X11DPI-NT Mainboard E-ATX Sockel P Intel C622 DDR4 2x 10 Gigabit LAN",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/supermicro-x11dpi-nt-mainboard-e-atx-sockel-p-intel-c622-ddr4-2x-10-gigabit-lan-3756998/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 100,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/supermicro-x11dpi-nt-mainboard-e-atx-sockel-p-intel-c622-ddr4-2x-10-gigabit-lan-3756998/"
+    }
+   ],
+   "price": 100,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 100
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards supermicro x11dpi mainboard atx sockel intel c622 ddr4 gigabit lan",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-supermicro-m12swa-tf-server-mainboard-e-atx-sockel-swrx8-amd-kl555",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "Supermicro M12SWA-TF Server-Mainboard E-ATX Sockel sWRX8 AMD WRX80 DDR4",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/supermicro-m12swa-tf-server-mainboard-e-atx-sockel-swrx8-amd-wrx80-ddr4-6967378/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 100,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/supermicro-m12swa-tf-server-mainboard-e-atx-sockel-swrx8-amd-wrx80-ddr4-6967378/"
+    }
+   ],
+   "price": 100,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 100
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards supermicro m12swa server mainboard atx sockel swrx8 amd wrx80 ddr4",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-supermicro-m12swa-tf-server-mainboard-e-atx-sockel-swrx8-amd-dnxi3",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "Supermicro M12SWA-TF Server-Mainboard E-ATX Sockel sWRX8 AMD WRX80 DDR4 Bulk",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/supermicro-m12swa-tf-server-mainboard-e-atx-sockel-swrx8-amd-wrx80-ddr4-bulk-6967379/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 100,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/supermicro-m12swa-tf-server-mainboard-e-atx-sockel-swrx8-amd-wrx80-ddr4-bulk-6967379/"
+    }
+   ],
+   "price": 100,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 100
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards supermicro m12swa server mainboard atx sockel swrx8 amd wrx80 ddr4 bulk",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-supermicro-x12dai-n6-server-mainboard-e-atx-lga4189-intel-c6-2ug4q",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "Supermicro X12DAi-N6 Server-Mainboard E-ATX LGA4189 Intel C621A DDR4 ECC",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/supermicro-x12dai-n6-server-mainboard-e-atx-lga4189-intel-c621a-ddr4-ecc-7101296/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 100,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/supermicro-x12dai-n6-server-mainboard-e-atx-lga4189-intel-c621a-ddr4-ecc-7101296/"
+    }
+   ],
+   "price": 100,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 100
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards supermicro x12dai server mainboard atx lga4189 intel c621a ddr4 ecc",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-supermicro-mainboard-x13swa-tf-e-atx-lga4677-w790-ddr5-ly2ic",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "Supermicro Mainboard X13SWA-TF E-ATX LGA4677 W790 DDR5",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/supermicro-mainboard-x13swa-tf-e-atx-lga4677-w790-ddr5-8059070/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 100,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/supermicro-mainboard-x13swa-tf-e-atx-lga4677-w790-ddr5-8059070/"
+    }
+   ],
+   "price": 100,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 100
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards supermicro mainboard x13swa atx lga4677 w790 ddr5",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asrock-wrx80-creator-r2-0-mainboard-e-atx-sockel-swrx8-ddr4--y25xk",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "ASRock WRX80 Creator R2.0 Mainboard E-ATX Sockel sWRX8 DDR4 8x DIMM 2x 10G LAN Wi-Fi 6E",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asrock-wrx80-creator-r2-0-mainboard-e-atx-sockel-swrx8-ddr4-8x-dimm-2x-10g-lan-wi-fi-6e-8065165/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 100,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asrock-wrx80-creator-r2-0-mainboard-e-atx-sockel-swrx8-ddr4-8x-dimm-2x-10g-lan-wi-fi-6e-8065165/"
+    }
+   ],
+   "price": 100,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 100
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards asrock wrx80 creator mainboard atx sockel swrx8 ddr4 dimm 10g lan",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-rog-strix-z790-h-gaming-wifi-mainboard-intel-z790-lga-1-33qta",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1700 Z790",
+   "name": "ASUS ROG STRIX Z790-H GAMING WIFI Mainboard (Intel Z790, LGA 1700, DDR5, ATX)",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-rog-strix-z790-h-gaming-wifi-mainboard-intel-z790-lga-1700-ddr5-atx-8135352/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 100,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-rog-strix-z790-h-gaming-wifi-mainboard-intel-z790-lga-1700-ddr5-atx-8135352/"
+    }
+   ],
+   "price": 100,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 100
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1700 z790 asus rog strix z790 gaming wifi mainboard intel lga 1700 ddr5 atx",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-p13r-m-10g-2t-server-mainboard-intel-c262-lga-1700-micr-hkqmp",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "ASUS P13R-M/10G-2T Server-Mainboard Intel C262 LGA 1700 Micro ATX DDR5",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-p13r-m-10g-2t-server-mainboard-intel-c262-lga-1700-micro-atx-ddr5-100484008/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 100,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-p13r-m-10g-2t-server-mainboard-intel-c262-lga-1700-micro-atx-ddr5-100484008/"
+    }
+   ],
+   "price": 100,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 100
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards asus p13r 10g server mainboard intel c262 lga 1700 micro atx ddr5",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-lenovo-truddr4-16-gb-ram-ddr4-sdram-2666-mhz-registriert-dim-sz6fa",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR4 16 GB",
+   "name": "Lenovo TruDDR4 16 GB RAM DDR4 SDRAM 2666 MHz Registriert DIMM 288-PIN",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/lenovo-truddr4-16-gb-ram-ddr4-sdram-2666-mhz-registriert-dimm-288-pin-4792752/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 100,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/lenovo-truddr4-16-gb-ram-ddr4-sdram-2666-mhz-registriert-dimm-288-pin-4792752/"
+    }
+   ],
+   "price": 100,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 100
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr4 16 gb lenovo truddr4 ram ddr4 sdram 2666 mhz registriert dimm 288 pin",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-supermicro-x12scz-qf-b-bulk-mainboard-micro-atx-lga-1200-int-owod9",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "Supermicro X12SCZ-QF-B (Bulk) Mainboard Micro ATX LGA 1200 Intel Q470 DDR4",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/supermicro-x12scz-qf-b-bulk-mainboard-micro-atx-lga-1200-intel-q470-ddr4-6504062/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 100,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/supermicro-x12scz-qf-b-bulk-mainboard-micro-atx-lga-1200-intel-q470-ddr4-6504062/"
+    }
+   ],
+   "price": 100,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 100
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards supermicro x12scz bulk mainboard micro atx lga 1200 intel q470 ddr4",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-supermicro-h12ssl-c-server-mainboard-atx-socket-sp3-ddr4-ecc-gr6p9",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "Supermicro H12SSL-C Server-Mainboard ATX Socket SP3 DDR4 ECC 2 TB",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/supermicro-h12ssl-c-server-mainboard-atx-socket-sp3-ddr4-ecc-2-tb-6484914/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 100,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/supermicro-h12ssl-c-server-mainboard-atx-socket-sp3-ddr4-ecc-2-tb-6484914/"
+    }
+   ],
+   "price": 100,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 100
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards supermicro h12ssl server mainboard atx socket sp3 ddr4 ecc",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-z13pe-d16-asmb11-server-mainboard-intel-c741-lga-4677-e-f7y2b",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "ASUS Z13PE-D16/ASMB11 Server-Mainboard, Intel C741, LGA 4677, Extended ATX, DDR5, PCIe Gen 5",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-z13pe-d16-asmb11-server-mainboard-intel-c741-lga-4677-extended-atx-ddr5-pcie-gen-5-100373681/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 100,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-z13pe-d16-asmb11-server-mainboard-intel-c741-lga-4677-extended-atx-ddr5-pcie-gen-5-100373681/"
+    }
+   ],
+   "price": 100,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 100
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards asus z13pe d16 asmb11 server mainboard intel c741 lga 4677 extended atx ddr5 pcie gen",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-pro-b660m-c-d4-csm-mainboard-intel-b660-lga-1700-micro--rx77a",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1700 B660",
+   "name": "ASUS PRO B660M-C D4-CSM Mainboard Intel B660 LGA 1700 micro ATX DDR4 Grün",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-pro-b660m-c-d4-csm-mainboard-intel-b660-lga-1700-micro-atx-ddr4-gruen-7533353/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 100,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-pro-b660m-c-d4-csm-mainboard-intel-b660-lga-1700-micro-atx-ddr4-gruen-7533353/"
+    }
+   ],
+   "price": 100,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 100
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1700 b660 asus pro b660m csm mainboard intel b660 lga 1700 micro atx ddr4 grun",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-prime-z790-a-wifi-mainboard-atx-intel-z790-lga-1700-ddr-kcldl",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1700 Z790",
+   "name": "ASUS PRIME Z790-A WIFI Mainboard ATX Intel Z790 LGA 1700 DDR5 Wi-Fi 6E Schwarz/Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-prime-z790-a-wifi-mainboard-atx-intel-z790-lga-1700-ddr5-wi-fi-6e-schwarz-weiss-8047178/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 100,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-prime-z790-a-wifi-mainboard-atx-intel-z790-lga-1700-ddr5-wi-fi-6e-schwarz-weiss-8047178/"
+    }
+   ],
+   "price": 100,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 100
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1700 z790 asus prime z790 wifi mainboard atx intel lga 1700 ddr5 schwarz weiss",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asrock-b850m-x-mainboard-micro-atx-sockel-am5-ddr5-schwarz-c2nqs",
+   "cat": "Mainboards",
+   "sub": "AM5 B850",
+   "name": "ASRock B850M-X Mainboard micro ATX Sockel AM5 DDR5 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asrock-b850m-x-mainboard-micro-atx-sockel-am5-ddr5-schwarz-100540327/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 100,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asrock-b850m-x-mainboard-micro-atx-sockel-am5-ddr5-schwarz-100540327/"
+    }
+   ],
+   "price": 100,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 100
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 b850 asrock b850m mainboard micro atx sockel am5 ddr5 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-gigabyte-z790-aorus-pro-x-mainboard-atx-lga-1700-ddr5-weiss-sxg2a",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1700 Z790",
+   "name": "Gigabyte Z790 AORUS PRO X Mainboard ATX LGA 1700 DDR5 Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/gigabyte-z790-aorus-pro-x-mainboard-atx-lga-1700-ddr5-weiss-100053297/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 100,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/gigabyte-z790-aorus-pro-x-mainboard-atx-lga-1700-ddr5-weiss-100053297/"
+    }
+   ],
+   "price": 100,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 100
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1700 z790 gigabyte z790 aorus pro mainboard atx lga 1700 ddr5 weiss",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-gigabyte-b760-ds3h-mainboard-intel-b760-atx-lga-1700-ddr5-br-ro55o",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1700 B760",
+   "name": "Gigabyte B760 DS3H Mainboard Intel B760 ATX LGA 1700 DDR5 Braun",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/gigabyte-b760-ds3h-mainboard-intel-b760-atx-lga-1700-ddr5-braun-8139076/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 100,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/gigabyte-b760-ds3h-mainboard-intel-b760-atx-lga-1700-ddr5-braun-8139076/"
+    }
+   ],
+   "price": 100,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 100
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1700 b760 gigabyte b760 ds3h mainboard intel atx lga 1700 ddr5 braun",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-viewsonic-vx27g1-hd-27-gaming-monitor-full-hd-ips-180-hz-1-m",
    "cat": "Monitore",
    "sub": "27\"",
@@ -16462,6 +17129,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-benq-bl2490c-23-8-ips-office-monitor-1920-x-1080-144-hz-schw-20z8q",
+   "cat": "Monitore",
+   "sub": "23,8\"",
+   "name": "BenQ BL2490C 23,8\" IPS Office Monitor 1920 x 1080 144 Hz Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/benq-bl2490c-23-8-ips-office-monitor-1920-x-1080-144-hz-schwarz-100678764/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 101.89,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/benq-bl2490c-23-8-ips-office-monitor-1920-x-1080-144-hz-schwarz-100678764/"
+    }
+   ],
+   "price": 101.89,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 101.89
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 23,8\" benq bl2490c ips office monitor 1920 1080 144 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-acer-vero-cb2-cb242yp6bmiprx-23-8-full-hd-office-monitor-60-",
    "cat": "Monitore",
    "sub": "23,8\"",
@@ -16604,6 +17300,35 @@
    ],
    "count": 1,
    "tags": "monitore 27\" benq gw2790 ips monitor 1920 1080 100 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asrock-a620am-pro-a-amd-a620-micro-atx-sockel-am5-ddr5-schwa-e9bae",
+   "cat": "Mainboards",
+   "sub": "AM5 A620",
+   "name": "ASRock A620AM PRO-A AMD A620 micro ATX Sockel AM5 DDR5 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asrock-a620am-pro-a-amd-a620-micro-atx-sockel-am5-ddr5-schwarz-100596073/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 101.98,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asrock-a620am-pro-a-amd-a620-micro-atx-sockel-am5-ddr5-schwarz-100596073/"
+    }
+   ],
+   "price": 101.98,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 101.98
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 a620 asrock a620am pro amd a620 micro atx sockel am5 ddr5 schwarz",
    "firstSeen": "2026-10-30"
   },
   {
@@ -17398,6 +18123,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-msi-pro-b760m-p-mainboard-lga1700-intel-b760-micro-atx-ddr5--qqm0z",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1700 B760",
+   "name": "MSI PRO B760M-P Mainboard LGA1700 Intel B760 Micro-ATX DDR5 Gold",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/msi-pro-b760m-p-mainboard-lga1700-intel-b760-micro-atx-ddr5-gold-8325537/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 107.84,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/msi-pro-b760m-p-mainboard-lga1700-intel-b760-micro-atx-ddr5-gold-8325537/"
+    }
+   ],
+   "price": 107.84,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 107.84
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1700 b760 msi pro b760m mainboard lga1700 intel b760 micro atx ddr5 gold",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-lenovo-thinkvision-e27-40-27-monitor-full-hd-ips-100-hz-rave",
    "cat": "Monitore",
    "sub": "27\"",
@@ -17520,7 +18274,7 @@
    "name": "ASUS TUF Gaming A620M-Plus, AMD A620 Mainboard - Sockel AM5, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-tuf-gaming-a620m-plus-amd-a620-motherboard-socket-am5-ddr5/MBAS-685.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -18151,6 +18905,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-gigabyte-b760-ds3h-gen5-atx-lga1700-ddr5-dark-brown-flpv7",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1700 B760",
+   "name": "GIGABYTE B760 DS3H GEN5 ATX LGA1700 DDR5 Dark brown",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/gigabyte-b760-ds3h-gen5-atx-lga1700-ddr5-dark-brown-100602061/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 114.84,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/gigabyte-b760-ds3h-gen5-atx-lga1700-ddr5-dark-brown-100602061/"
+    }
+   ],
+   "price": 114.84,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 114.84
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1700 b760 gigabyte b760 ds3h gen5 atx lga1700 ddr5 dark brown",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-antec-c5-pc-gehause-midi-tower-atx-rgb-tempered-glass-weiss",
    "cat": "Gehäuse",
    "sub": "Gehäuse",
@@ -18499,13 +19282,42 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asus-prime-h810m-k-intel-h810-lga-1851-micro-atx-ddr5-mainbo-nkseu",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1851 H810",
+   "name": "ASUS PRIME H810M-K Intel H810 LGA 1851 Micro-ATX DDR5 Mainboard",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-prime-h810m-k-intel-h810-lga-1851-micro-atx-ddr5-mainboard-100695294/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 116.11,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-prime-h810m-k-intel-h810-lga-1851-micro-atx-ddr5-mainboard-100695294/"
+    }
+   ],
+   "price": 116.11,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 116.11
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1851 h810 asus prime h810m intel h810 lga 1851 micro atx ddr5 mainboard",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asrock-b860m-x-mainboard-sockel-1851-intel-b860-matx-ddr5",
    "cat": "Mainboards",
    "sub": "Intel LGA1851 B860",
    "name": "ASROCK B860M-X Mainboard, Sockel 1851, Intel B860, mATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asrock-b860m-x-motherboard-socket-1851-intel-b860-matx-ddr5/MBAR-522.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -18644,6 +19456,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-aoc-24e4u-24-fhd-ips-monitor-120-hz-schwarz-dj05c",
+   "cat": "Monitore",
+   "sub": "24\"",
+   "name": "AOC 24E4U 24\" FHD IPS Monitor 120 Hz Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/aoc-24e4u-24-fhd-ips-monitor-120-hz-schwarz-100592617/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 117,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/aoc-24e4u-24-fhd-ips-monitor-120-hz-schwarz-100592617/"
+    }
+   ],
+   "price": 117,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 117
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 24\" aoc 24e4u fhd ips monitor 120 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-gigabyte-b840m-d2h-mainboard-sockel-am5-amd-b840-micro-atx-d",
    "cat": "Mainboards",
    "sub": "AM5 B840",
@@ -18702,6 +19543,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asus-tuf-gaming-a620m-plus-mainboard-sockel-am5-amd-a620-mic-ew3d4",
+   "cat": "Mainboards",
+   "sub": "AM5 A620",
+   "name": "ASUS TUF GAMING A620M-PLUS Mainboard Sockel AM5 AMD A620 Micro ATX DDR5 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-tuf-gaming-a620m-plus-mainboard-sockel-am5-amd-a620-micro-atx-ddr5-schwarz-8307323/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 117.37,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-tuf-gaming-a620m-plus-mainboard-sockel-am5-amd-a620-micro-atx-ddr5-schwarz-8307323/"
+    }
+   ],
+   "price": 117.37,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 117.37
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 a620 asus tuf gaming a620m plus mainboard sockel am5 amd a620 micro atx ddr5 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-prime-b760m-a-d4-csm-mainboard-lga1700-ddr4-micro-atx-g",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 B760",
@@ -18709,6 +19579,35 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-prime-b760m-a-d4-csm-mainboard-lga1700-ddr4-micro-atx-gold-8273539/",
    "stand": "2026-10-30T11:13",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 117.42,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-prime-b760m-a-d4-csm-mainboard-lga1700-ddr4-micro-atx-gold-8273539/"
+    }
+   ],
+   "price": 117.42,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 117.42
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1700 b760 asus prime b760m csm mainboard lga1700 ddr4 micro atx gold",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-prime-b760m-a-d4-csm-mainboard-lga1700-ddr4-micro-atx-g-699x5",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1700 B760",
+   "name": "ASUS Prime B760M-A D4-CSM Mainboard LGA1700 DDR4 Micro-ATX Gold",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-prime-b760m-a-d4-csm-mainboard-lga1700-ddr4-micro-atx-gold-8273539/",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -18795,7 +19694,7 @@
    "name": "ASUS Prime B650M-K, AMD B650 Mainboard, Sockel AM5, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-prime-b650m-k-amd-b650-motherboard-socket-am5-ddr5/MBAS-694.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -19486,7 +20385,7 @@
    "name": "ASUS Prime B760-Plus D4, Intel B760 Mainboard - Sockel 1700, DDR4",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-prime-b760-plus-d4-intel-b760-motherboard-socket-1700-ddr4/MBAS-676.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -19712,6 +20611,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asus-pro-h810m-c-csm-mainboard-intel-h810-lga-1851-ddr5-micr-qb63w",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1851 H810",
+   "name": "ASUS PRO H810M-C-CSM Mainboard Intel H810 LGA 1851 DDR5 Micro-ATX Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-pro-h810m-c-csm-mainboard-intel-h810-lga-1851-ddr5-micro-atx-schwarz-100542578/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 122.87,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-pro-h810m-c-csm-mainboard-intel-h810-lga-1851-ddr5-micro-atx-schwarz-100542578/"
+    }
+   ],
+   "price": 122.87,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 122.87
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1851 h810 asus pro h810m csm mainboard intel h810 lga 1851 ddr5 micro atx schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-prime-h610i-plus-csm-mainboard-mini-itx-intel-h610-lga-",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 H610",
@@ -19719,6 +20647,35 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-prime-h610i-plus-csm-mainboard-mini-itx-intel-h610-lga-1700-ddr5-gold-100352387/",
    "stand": "2026-10-30T11:13",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 122.88,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-prime-h610i-plus-csm-mainboard-mini-itx-intel-h610-lga-1700-ddr5-gold-100352387/"
+    }
+   ],
+   "price": 122.88,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 122.88
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1700 h610 asus prime h610i plus csm mainboard mini itx intel h610 lga 1700 ddr5 gold",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-prime-h610i-plus-csm-mainboard-mini-itx-intel-h610-lga--qyc3w",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1700 H610",
+   "name": "ASUS PRIME H610I-PLUS-CSM Mainboard Mini-ITX Intel H610 LGA 1700 DDR5 Gold",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-prime-h610i-plus-csm-mainboard-mini-itx-intel-h610-lga-1700-ddr5-gold-100352387/",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -20163,6 +21120,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-aoc-27e4u-27-fhd-ips-monitor-120-hz-schwarz-gah2u",
+   "cat": "Monitore",
+   "sub": "27\"",
+   "name": "AOC 27E4U 27\" FHD IPS Monitor 120 Hz Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/aoc-27e4u-27-fhd-ips-monitor-120-hz-schwarz-100592773/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 124.91,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/aoc-27e4u-27-fhd-ips-monitor-120-hz-schwarz-100592773/"
+    }
+   ],
+   "price": 124.91,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 124.91
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 27\" aoc 27e4u fhd ips monitor 120 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-gigabyte-b760m-gaming-x-ddr4-gen5-intel-b760-lga-1700-micro-",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 B760",
@@ -20189,6 +21175,64 @@
    ],
    "count": 1,
    "tags": "mainboards intel lga1700 b760 gigabyte b760m gaming ddr4 gen5 intel b760 lga 1700 micro atx dark brown",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-gigabyte-b760m-gaming-x-ddr4-gen5-intel-b760-lga-1700-micro--ko9uw",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1700 B760",
+   "name": "Gigabyte B760M GAMING X DDR4 GEN5 Intel B760 LGA 1700 micro ATX Dark brown",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/gigabyte-b760m-gaming-x-ddr4-gen5-intel-b760-lga-1700-micro-atx-dark-brown-100836490/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 124.96,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/gigabyte-b760m-gaming-x-ddr4-gen5-intel-b760-lga-1700-micro-atx-dark-brown-100836490/"
+    }
+   ],
+   "price": 124.96,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 124.96
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1700 b760 gigabyte b760m gaming ddr4 gen5 intel b760 lga 1700 micro atx dark brown",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-prime-b760m-a-wifi-mainboard-intel-b760-lga-1700-ddr5-m-ajk4m",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1700 B760",
+   "name": "ASUS PRIME B760M-A WIFI Mainboard Intel B760 LGA 1700 DDR5 micro ATX",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-prime-b760m-a-wifi-mainboard-intel-b760-lga-1700-ddr5-micro-atx-8273537/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 125.25,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-prime-b760m-a-wifi-mainboard-intel-b760-lga-1700-ddr5-micro-atx-8273537/"
+    }
+   ],
+   "price": 125.25,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 125.25
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1700 b760 asus prime b760m wifi mainboard intel b760 lga 1700 ddr5 micro atx",
    "firstSeen": "2026-10-30"
   },
   {
@@ -20366,6 +21410,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-philips-3000-series-24b2n3200j-24-ips-monitor-1920-x-1080-12-g1saq",
+   "cat": "Monitore",
+   "sub": "24\"",
+   "name": "Philips 3000 Series 24B2N3200J 24\" IPS Monitor 1920 x 1080 120 Hz Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/philips-3000-series-24b2n3200j-24-ips-monitor-1920-x-1080-120-hz-schwarz-100598666/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 126.6,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/philips-3000-series-24b2n3200j-24-ips-monitor-1920-x-1080-120-hz-schwarz-100598666/"
+    }
+   ],
+   "price": 126.6,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 126.6
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 24\" philips 3000 series 24b2n3200j ips monitor 1920 1080 120 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-pro-b760m-c-csm-intel-b760-mainboard-sockel-1700-ddr5",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 B760",
@@ -20482,6 +21555,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asrock-b860-pro-a-atx-mainboard-lga1851-ddr5-intel-b860-wwnnv",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1851 B860",
+   "name": "ASRock B860 Pro-A ATX-Mainboard LGA1851 DDR5 Intel B860",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asrock-b860-pro-a-atx-mainboard-lga1851-ddr5-intel-b860-100543609/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 127.32,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asrock-b860-pro-a-atx-mainboard-lga1851-ddr5-intel-b860-100543609/"
+    }
+   ],
+   "price": 127.32,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 127.32
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1851 b860 asrock b860 pro atx mainboard lga1851 ddr5 intel",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-kingston-fury-beast-rgb-8-gb-ddr4-3600-cl17-dimm-schwarz",
    "cat": "Arbeitsspeicher",
    "sub": "DDR4",
@@ -20540,13 +21642,42 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asus-prime-b760m-a-csm-mainboard-intel-b760-lga1700-ddr5-mat-ae6eu",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1700 B760",
+   "name": "ASUS Prime B760M-A-CSM Mainboard, Intel B760, LGA1700, DDR5, mATX, Gold",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-prime-b760m-a-csm-mainboard-intel-b760-lga1700-ddr5-matx-gold-8306979/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 127.73,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-prime-b760m-a-csm-mainboard-intel-b760-lga1700-ddr5-matx-gold-8306979/"
+    }
+   ],
+   "price": 127.73,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 127.73
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1700 b760 asus prime b760m csm mainboard intel b760 lga1700 ddr5 matx gold",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asrock-b850m-pro-a-mainboard-sockel-am5-amd-b850-micro-atx-d",
    "cat": "Mainboards",
    "sub": "AM5 B850",
    "name": "ASROCK B850M Pro-A Mainboard, Sockel AM5, AMD B850, Micro-ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asrock-b850m-pro-a-motherboard-socket-am5-amd-b850-micro-atx-ddr5/MBAR-516.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -20609,6 +21740,35 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/gigabyte-b860m-eagle-v2-mainboard-micro-atx-lga1851-intel-b860-ddr5-braun-100585710/",
    "stand": "2026-10-30T11:13",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 128,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/gigabyte-b860m-eagle-v2-mainboard-micro-atx-lga1851-intel-b860-ddr5-braun-100585710/"
+    }
+   ],
+   "price": 128,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 128
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1851 b860 gigabyte b860m eagle mainboard micro atx lga1851 intel b860 ddr5 braun",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-gigabyte-b860m-eagle-v2-mainboard-micro-atx-lga1851-intel-b8-m414y",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1851 B860",
+   "name": "Gigabyte B860M EAGLE V2 Mainboard Micro ATX LGA1851 Intel B860 DDR5 Braun",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/gigabyte-b860m-eagle-v2-mainboard-micro-atx-lga1851-intel-b860-ddr5-braun-100585710/",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -21060,6 +22220,35 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asrock-b850m-pro-a-wifi-mainboard-micro-atx-socket-am5-ddr5-schwarz-100543611/",
    "stand": "2026-10-30T11:13",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 129.97,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asrock-b850m-pro-a-wifi-mainboard-micro-atx-socket-am5-ddr5-schwarz-100543611/"
+    }
+   ],
+   "price": 129.97,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 129.97
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 b850 asrock b850m pro wifi mainboard micro atx socket am5 ddr5 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asrock-b850m-pro-a-wifi-mainboard-micro-atx-socket-am5-ddr5--b74ss",
+   "cat": "Mainboards",
+   "sub": "AM5 B850",
+   "name": "ASRock B850M Pro-A WiFi Mainboard micro ATX Socket AM5 DDR5 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asrock-b850m-pro-a-wifi-mainboard-micro-atx-socket-am5-ddr5-schwarz-100543611/",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -22200,6 +23389,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-gigabyte-b760-gaming-x-ddr4-gen5-mainboard-atx-lga-1700-k7txo",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1700 B760",
+   "name": "Gigabyte B760 GAMING X DDR4 GEN5 Mainboard ATX LGA 1700",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/gigabyte-b760-gaming-x-ddr4-gen5-mainboard-atx-lga-1700-100695583/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 138.9,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/gigabyte-b760-gaming-x-ddr4-gen5-mainboard-atx-lga-1700-100695583/"
+    }
+   ],
+   "price": 138.9,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 138.9
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1700 b760 gigabyte b760 gaming ddr4 gen5 mainboard atx lga 1700",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-gigabyte-gs27qa-27-zoll-gaming-monitor-180hz-ips-freesync",
    "cat": "Monitore",
    "sub": "27\"",
@@ -22746,6 +23964,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asrock-b860-pro-rs-atx-lga1851-intel-b860-ddr5-weiss-d22mh",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1851 B860",
+   "name": "ASRock B860 PRO RS ATX LGA1851 Intel B860 DDR5 Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asrock-b860-pro-rs-atx-lga1851-intel-b860-ddr5-weiss-100543607/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 140.25,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asrock-b860-pro-rs-atx-lga1851-intel-b860-ddr5-weiss-100543607/"
+    }
+   ],
+   "price": 140.25,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 140.25
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1851 b860 asrock b860 pro atx lga1851 intel ddr5 weiss",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-lenovo-thinkvision-t22i-30-21-5-full-hd-ips-monitor-raven-bl",
    "cat": "Monitore",
    "sub": "21,5\"",
@@ -23071,7 +24318,7 @@
    "name": "ASROCK B850 Pro-A Mainboard, Sockel AM5, AMD B850, ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asrock-b850-pro-a-motherboard-socket-am5-amd-b850-atx-ddr5/MBAR-509.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -23294,6 +24541,35 @@
    ],
    "count": 1,
    "tags": "monitore 27\" aoc 27g4ha gaming monitor zoll schwarz matt fullhd fast ips hdmi lautsprecher 200hz panel energieklasse",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-msi-b760-gaming-plus-wifi-mainboard-atx-lga-1700-ddr5-schwar-mdt3c",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1700 B760",
+   "name": "MSI B760 GAMING PLUS WIFI Mainboard ATX LGA 1700 DDR5 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/msi-b760-gaming-plus-wifi-mainboard-atx-lga-1700-ddr5-schwarz-8325534/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 144.67,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/msi-b760-gaming-plus-wifi-mainboard-atx-lga-1700-ddr5-schwarz-8325534/"
+    }
+   ],
+   "price": 144.67,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 144.67
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1700 b760 msi b760 gaming plus wifi mainboard atx lga 1700 ddr5 schwarz",
    "firstSeen": "2026-10-30"
   },
   {
@@ -23930,6 +25206,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-gigabyte-b650e-eagle-wf6e-amd-b650-atx-ddr5-mainboard-braun-n31lr",
+   "cat": "Mainboards",
+   "sub": "AM5 B650",
+   "name": "Gigabyte B650E EAGLE WF6E AMD B650 ATX DDR5 Mainboard Braun",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/gigabyte-b650e-eagle-wf6e-amd-b650-atx-ddr5-mainboard-braun-100674450/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 148.29,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/gigabyte-b650e-eagle-wf6e-amd-b650-atx-ddr5-mainboard-braun-100674450/"
+    }
+   ],
+   "price": 148.29,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 148.29
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 b650 gigabyte b650e eagle wf6e amd b650 atx ddr5 mainboard braun",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-prime-b660m-a-d4-csm-intel-b660-mainboard-sockel-lga170",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 B660",
@@ -24494,7 +25799,7 @@
    "name": "ASUS Prime B650M-A, AMD B650 Mainboard - Sockel AM5, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-prime-b650m-a-amd-b650-motherboard-socket-am5-ddr5/MBAS-668.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -24523,7 +25828,7 @@
    "name": "ASUS Prime B760M-A WiFi D4, Intel B760 Mainboard - Sockel 1700, DDR4",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-prime-b760m-a-wifi-d4-intel-b760-motherboard-socket-1700-ddr4/MBAS-680.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -24749,13 +26054,71 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-benq-bl2490tc-23-8-ips-monitor-1920-x-1080-144-hz-schwarz-tydfd",
+   "cat": "Monitore",
+   "sub": "23,8\"",
+   "name": "BenQ BL2490TC 23,8\" IPS Monitor 1920 x 1080 144 Hz Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/benq-bl2490tc-23-8-ips-monitor-1920-x-1080-144-hz-schwarz-100678760/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 150.63,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/benq-bl2490tc-23-8-ips-monitor-1920-x-1080-144-hz-schwarz-100678760/"
+    }
+   ],
+   "price": 150.63,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 150.63
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 23,8\" benq bl2490tc ips monitor 1920 1080 144 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-gigabyte-b760m-gaming-x-wifi6e-gen5-micro-atx-mainboard-lga1-27o5e",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1700 B760",
+   "name": "GIGABYTE B760M GAMING X WIFI6E GEN5 Micro ATX Mainboard LGA1700 DDR5 Dark brown",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/gigabyte-b760m-gaming-x-wifi6e-gen5-micro-atx-mainboard-lga1700-ddr5-dark-brown-100602532/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 151.43,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/gigabyte-b760m-gaming-x-wifi6e-gen5-micro-atx-mainboard-lga1700-ddr5-dark-brown-100602532/"
+    }
+   ],
+   "price": 151.43,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 151.43
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1700 b760 gigabyte b760m gaming wifi6e gen5 micro atx mainboard lga1700 ddr5 dark brown",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asrock-b850-pro-a-wifi-mainboard-sockel-am5-amd-b850-atx-ddr",
    "cat": "Mainboards",
    "sub": "AM5 B850",
    "name": "ASROCK B850 Pro-A WiFi Mainboard, Sockel AM5, AMD B850, ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asrock-b850-pro-a-wifi-motherboard-socket-am5-amd-b850-atx-ddr5/MBAR-510.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -24872,6 +26235,35 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/gigabyte-b550-aorus-elite-ax-v2-mainboard-atx-sockel-am4-ddr4-schwarz-6922680/",
    "stand": "2026-10-30T11:13",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 152.5,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/gigabyte-b550-aorus-elite-ax-v2-mainboard-atx-sockel-am4-ddr4-schwarz-6922680/"
+    }
+   ],
+   "price": 152.5,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 152.5
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am4 b550 gigabyte b550 aorus elite mainboard atx sockel am4 ddr4 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-gigabyte-b550-aorus-elite-ax-v2-mainboard-atx-sockel-am4-ddr-6d380",
+   "cat": "Mainboards",
+   "sub": "AM4 B550",
+   "name": "Gigabyte B550 AORUS ELITE AX V2 Mainboard ATX Sockel AM4 DDR4 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/gigabyte-b550-aorus-elite-ax-v2-mainboard-atx-sockel-am4-ddr4-schwarz-6922680/",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -25132,7 +26524,7 @@
    "name": "ASUS Prime B650M-A WIFI II Mainboard, Sockel AM5, AMD B650, Micro-ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-prime-b650m-a-wifi-ii-motherboard-socket-am5-amd-b650-micro-atx-ddr5/MBAS-696.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -25190,7 +26582,7 @@
    "name": "ASROCK B850M Steel Legend Wifi Mainboard, Sockel AM5, AMD B850, Micro-ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asrock-b850m-steel-legend-wifi-motherboard-socket-am5-amd-b850-micro-atx-ddr5/MBAR-519.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -25678,6 +27070,35 @@
    ],
    "count": 1,
    "tags": "monitore 27\" iiyama prolite xu2793hs ips monitor 1920 1080 100 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asrock-b850-pro-a-wifi-ddr5-socket-am5-atx-schwarz-vxyos",
+   "cat": "Mainboards",
+   "sub": "AM5 B850",
+   "name": "ASRock B850 Pro-A WiFi DDR5 Socket AM5 ATX Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asrock-b850-pro-a-wifi-ddr5-socket-am5-atx-schwarz-100543606/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 158.27,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asrock-b850-pro-a-wifi-ddr5-socket-am5-atx-schwarz-100543606/"
+    }
+   ],
+   "price": 158.27,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 158.27
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 b850 asrock b850 pro wifi ddr5 socket am5 atx schwarz",
    "firstSeen": "2026-10-30"
   },
   {
@@ -26786,6 +28207,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asrock-b850m-steel-legend-wifi-mainboard-am5-amd-b850-matx-d-steji",
+   "cat": "Mainboards",
+   "sub": "AM5 B850",
+   "name": "ASRock B850M Steel Legend WiFi Mainboard AM5 AMD B850 mATX DDR5 WiFi 7 Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asrock-b850m-steel-legend-wifi-mainboard-am5-amd-b850-matx-ddr5-wifi-7-weiss-100547773/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 164.14,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asrock-b850m-steel-legend-wifi-mainboard-am5-amd-b850-matx-ddr5-wifi-7-weiss-100547773/"
+    }
+   ],
+   "price": 164.14,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 164.14
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 b850 asrock b850m steel legend wifi mainboard am5 amd b850 matx ddr5 weiss",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-aoc-24e4cv-led-monitor-61-cm-24-23-8-sichtbar-1920-x-1080-fu",
    "cat": "Monitore",
    "sub": "24\"",
@@ -27152,7 +28602,7 @@
    "name": "ASUS TUF Gaming A620-PRO WIFI, AMD A620 Mainboard, Sockel AM5, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-tuf-gaming-a620-pro-wifi-amd-a620-motherboard-socket-am5-ddr5/MBAS-691.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -27407,6 +28857,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asus-pro-b650m-ct-csm-mainboard-amd-b650-sockel-am5-ddr5-mic-9ny86",
+   "cat": "Mainboards",
+   "sub": "AM5 B650",
+   "name": "ASUS PRO B650M-CT-CSM Mainboard AMD B650, Sockel AM5, DDR5, Micro ATX",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-pro-b650m-ct-csm-mainboard-amd-b650-sockel-am5-ddr5-micro-atx-8306980/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 168.31,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-pro-b650m-ct-csm-mainboard-amd-b650-sockel-am5-ddr5-micro-atx-8306980/"
+    }
+   ],
+   "price": 168.31,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 168.31
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 b650 asus pro b650m csm mainboard amd b650 sockel am5 ddr5 micro atx",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-prime-b660m-a-wifi-d4-mainboard-intel-b660-lga-1700-mic",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 B660",
@@ -27443,6 +28922,35 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asrock-phantom-gaming-b650i-lightning-wifi-mainboard-mini-itx-socket-am5-amd-b650-ddr5-schwarz-100164939/",
    "stand": "2026-10-30T11:13",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 169.59,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asrock-phantom-gaming-b650i-lightning-wifi-mainboard-mini-itx-socket-am5-amd-b650-ddr5-schwarz-100164939/"
+    }
+   ],
+   "price": 169.59,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 169.59
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 b650 asrock phantom gaming b650i lightning wifi mainboard mini itx socket am5 amd b650 ddr5 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asrock-phantom-gaming-b650i-lightning-wifi-mainboard-mini-it-je6gn",
+   "cat": "Mainboards",
+   "sub": "AM5 B650",
+   "name": "ASRock Phantom Gaming B650I Lightning WiFi Mainboard Mini-ITX Socket AM5 AMD B650 DDR5 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asrock-phantom-gaming-b650i-lightning-wifi-mainboard-mini-itx-socket-am5-amd-b650-ddr5-schwarz-100164939/",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -27636,7 +29144,7 @@
    "name": "ASUS TUF Gaming VG27VQM1B, 27 Zoll Curved-Monitor, 280 Hz, VA, FreeSync Premium",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-tuf-gaming-vg27vqm1b-27-inch-curved-monitor-280-hz-va-freesync-premium/TFAS-284.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -27746,6 +29254,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-lenovo-thinkvision-t24d-30-24-ips-monitor-1920-x-1200-raven--pa8ks",
+   "cat": "Monitore",
+   "sub": "24\"",
+   "name": "Lenovo ThinkVision T24d-30 24\" IPS-Monitor 1920 x 1200 Raven Black",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/lenovo-thinkvision-t24d-30-24-ips-monitor-1920-x-1200-raven-black-100507155/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 170.99,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/lenovo-thinkvision-t24d-30-24-ips-monitor-1920-x-1200-raven-black-100507155/"
+    }
+   ],
+   "price": 170.99,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 170.99
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 24\" lenovo thinkvision t24d ips monitor 1920 1200 raven black",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-philips-3000-series-27b2n3500j-27-qhd-ips-monitor-2560-x-144",
    "cat": "Monitore",
    "sub": "27\"",
@@ -27753,6 +29290,35 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/philips-3000-series-27b2n3500j-27-qhd-ips-monitor-2560-x-1440-120-hz-schwarz-100598667/",
    "stand": "2026-10-30T09:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 171.66,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/philips-3000-series-27b2n3500j-27-qhd-ips-monitor-2560-x-1440-120-hz-schwarz-100598667/"
+    }
+   ],
+   "price": 171.66,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 171.66
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 27\" philips 3000 series 27b2n3500j qhd ips monitor 2560 1440 120 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-philips-3000-series-27b2n3500j-27-qhd-ips-monitor-2560-x-144-ct76b",
+   "cat": "Monitore",
+   "sub": "27\"",
+   "name": "Philips 3000 Series 27B2N3500J 27\" QHD IPS Monitor 2560 x 1440 120 Hz Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/philips-3000-series-27b2n3500j-27-qhd-ips-monitor-2560-x-1440-120-hz-schwarz-100598667/",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -27989,6 +29555,35 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/benq-bl2790tc-27-ips-office-monitor-1920-x-1080-144-hz-schwarz-100678763/",
    "stand": "2026-10-30T09:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 173.09,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/benq-bl2790tc-27-ips-office-monitor-1920-x-1080-144-hz-schwarz-100678763/"
+    }
+   ],
+   "price": 173.09,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 173.09
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 27\" benq bl2790tc ips office monitor 1920 1080 144 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-benq-bl2790tc-27-ips-office-monitor-1920-x-1080-144-hz-schwa-gks9l",
+   "cat": "Monitore",
+   "sub": "27\"",
+   "name": "BenQ BL2790TC 27\" IPS Office Monitor 1920 x 1080 144 Hz Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/benq-bl2790tc-27-ips-office-monitor-1920-x-1080-144-hz-schwarz-100678763/",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -28667,7 +30262,7 @@
    "name": "ASUS TUF Gaming B660M-Plus WiFi, Intel B660 Mainboard - Sockel 1700, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-tuf-gaming-b660m-plus-wifi-intel-b660-motherboard-socket-1700-ddr5/MBAS-602.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -28696,7 +30291,7 @@
    "name": "ASUS TUF Gaming VG27WQ3B, 27 Zoll Gaming Monitor, 180Hz, VA, FreeSync Premium",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-tuf-gaming-vg27wq3b-27-inch-gaming-monitor-180hz-va-freesync-premium/TFAS-297.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -29197,7 +30792,7 @@
    "name": "ASUS TUF Gaming VG27AQL5A, 27 Zoll Gaming Monitor, 210Hz, IPS, FreeSync",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-tuf-gaming-vg27aql5a-27-inch-gaming-monitor-210-hz-ips-freesync/TFAS-311.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -29284,7 +30879,7 @@
    "name": "ASROCK B850 LiveMixer WiFi Mainboard, Sockel AM5, AMD B850, ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asrock-b850-livemixer-wifi-motherboard-socket-am5-amd-b850-atx-ddr5/MBAR-506.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -29429,7 +31024,7 @@
    "name": "ASUS TUF Gaming VG328QA1A, 31,5 Zoll Gaming Monitor, 170 Hz, VA, FreeSync",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-tuf-gaming-vg328qa1a-31.5-inch-gaming-monitor-170-hz-va-freesync/TFAS-246.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -29661,7 +31256,7 @@
    "name": "ASUS Prime Z790-P, Intel Z790 Mainboard - Sockel 1700, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-prime-z790-p-intel-z790-motherboard-socket-1700-ddr5/MBAS-649.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -29864,7 +31459,7 @@
    "name": "ASRock Z890 Pro-A WiFi, Intel Z890 Mainboard, Sockel LGA 1851, Intel Z890, ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asrock-z890-pro-a-wifi-intel-z890-motherboard-socket-lga-1851-intel-z890-atx-ddr5/MBAR-501.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -30094,6 +31689,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-gigabyte-b850m-aorus-elite-wifi6e-ice-mainboard-micro-atx-so-d5cv1",
+   "cat": "Mainboards",
+   "sub": "AM5 B850",
+   "name": "Gigabyte B850M AORUS ELITE WIFI6E ICE Mainboard Micro ATX Sockel AM5 DDR5 Silber, Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/gigabyte-b850m-aorus-elite-wifi6e-ice-mainboard-micro-atx-sockel-am5-ddr5-silber-weiss-100540180/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 195.79,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/gigabyte-b850m-aorus-elite-wifi6e-ice-mainboard-micro-atx-sockel-am5-ddr5-silber-weiss-100540180/"
+    }
+   ],
+   "price": 195.79,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 195.79
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 b850 gigabyte b850m aorus elite wifi6e ice mainboard micro atx sockel am5 ddr5 silber weiss",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-kingston-fury-beast-16-gb-kit-2-x-8-gb-ddr4-3600-mt-s-cl17-d",
    "cat": "Arbeitsspeicher",
    "sub": "DDR4 16 GB",
@@ -30187,7 +31811,7 @@
    "name": "ASRock Z890 Pro RS, Intel Z890 Mainboard, Sockel LGA 1851, Intel Z890, ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asrock-z890-pro-rs-intel-z890-motherboard-socket-lga-1851-intel-z890-atx-ddr5/MBAR-500.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -30413,6 +32037,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asrock-z890-pro-a-wifi-mainboard-atx-lga-1851-ddr5-schwarz-potwh",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1851 Z890",
+   "name": "ASRock Z890 PRO-A WiFi Mainboard ATX LGA 1851 DDR5 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asrock-z890-pro-a-wifi-mainboard-atx-lga-1851-ddr5-schwarz-100515993/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 199.48,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asrock-z890-pro-a-wifi-mainboard-atx-lga-1851-ddr5-schwarz-100515993/"
+    }
+   ],
+   "price": 199.48,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 199.48
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1851 z890 asrock z890 pro wifi mainboard atx lga 1851 ddr5 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asrock-z890-pro-a-wifi-mainboard-atx-lga-1851-ddr5-schwarz",
    "cat": "Mainboards",
    "sub": "Intel LGA1851 Z890",
@@ -30448,7 +32101,7 @@
    "name": "ASROCK B850 Riptide WiFi Mainboard, Sockel AM5, AMD B850, ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asrock-b850-riptide-wifi-motherboard-socket-am5-amd-b850-atx-ddr5/MBAR-511.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -30576,7 +32229,7 @@
    "name": "ASUS Prime B650M-A WiFi, AMD B650 Mainboard - Sockel AM5, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-prime-b650m-a-wifi-amd-b650-motherboard-socket-am5-ddr5/MBAS-667.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -30750,7 +32403,7 @@
    "name": "ASUS Prime Z790-P WiFi, Intel Z790 Mainboard - Sockel 1700, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-prime-z790-p-wifi-intel-z790-motherboard-socket-1700-ddr5/MBAS-648.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -31048,7 +32701,7 @@
    "name": "ASUS TUF Gaming VG27VQM, 27 Zoll Gaming Monitor, 240 Hz, VA, FreeSync",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-tuf-gaming-vg27vqm-27-inch-gaming-monitor-240-hz-va-freesync/TFAS-215.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -31361,6 +33014,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asus-rog-strix-b760-i-gaming-wifi-mainboard-mini-itx-lga-170-hiv1o",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1700 B760",
+   "name": "ASUS ROG Strix B760-I Gaming WIFI Mainboard Mini-ITX LGA 1700 B760 DDR5 Wi-Fi 6E Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-rog-strix-b760-i-gaming-wifi-mainboard-mini-itx-lga-1700-b760-ddr5-wi-fi-6e-schwarz-8134299/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 208.51,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-rog-strix-b760-i-gaming-wifi-mainboard-mini-itx-lga-1700-b760-ddr5-wi-fi-6e-schwarz-8134299/"
+    }
+   ],
+   "price": 208.51,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 208.51
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1700 b760 asus rog strix b760 gaming wifi mainboard mini itx lga 1700 ddr5 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-philips-b-line-243b1-led-monitor-23-8-full-hd-ips-hdmi-displ",
    "cat": "Monitore",
    "sub": "23,8\"",
@@ -31425,7 +33107,7 @@
    "name": "ASUS TUF Gaming H770-Pro WiFi, Intel H770 Mainboard - Sockel 1700, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-tuf-gaming-h770-pro-wifi-intel-h770-motherboard-socket-1700-ddr5/MBAS-671.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -31455,6 +33137,35 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/benq-gw2786tc-27-ips-monitor-1920-x-1080-100-hz-weiss-100506904/",
    "stand": "2026-10-30T09:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 209.59,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/benq-gw2786tc-27-ips-monitor-1920-x-1080-100-hz-weiss-100506904/"
+    }
+   ],
+   "price": 209.59,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 209.59
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 27\" benq gw2786tc ips monitor 1920 1080 100 weiss",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-benq-gw2786tc-27-ips-monitor-1920-x-1080-100-hz-weiss-e7yzk",
+   "cat": "Monitore",
+   "sub": "27\"",
+   "name": "BenQ GW2786TC 27\" IPS Monitor 1920 x 1080 100 Hz Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/benq-gw2786tc-27-ips-monitor-1920-x-1080-100-hz-weiss-100506904/",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -31854,6 +33565,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asus-prime-z890-p-mainboard-atx-lga-1851-ddr5-z890-chipsatz--ldr9k",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1851 Z890",
+   "name": "ASUS PRIME Z890-P Mainboard ATX LGA 1851 DDR5 Z890 Chipsatz Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-prime-z890-p-mainboard-atx-lga-1851-ddr5-z890-chipsatz-schwarz-100514202/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 213.91,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-prime-z890-p-mainboard-atx-lga-1851-ddr5-z890-chipsatz-schwarz-100514202/"
+    }
+   ],
+   "price": 213.91,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 213.91
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1851 z890 asus prime z890 mainboard atx lga 1851 ddr5 chipsatz schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asrock-challenger-itx-intel-arc-a380-6gb-gddr6-oc-grafikkart",
    "cat": "Grafikkarten",
    "sub": "Intel Arc A380",
@@ -32123,6 +33863,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-msi-mpg-b760i-edge-wifi-mini-itx-mainboard-lga1700-ddr5-schw-pqlmi",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1700 B760",
+   "name": "MSI MPG B760I EDGE WIFI Mini-ITX Mainboard LGA1700 DDR5 Schwarz/Silber",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/msi-mpg-b760i-edge-wifi-mini-itx-mainboard-lga1700-ddr5-schwarz-silber-8325538/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 215.84,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/msi-mpg-b760i-edge-wifi-mini-itx-mainboard-lga1700-ddr5-schwarz-silber-8325538/"
+    }
+   ],
+   "price": 215.84,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 215.84
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1700 b760 msi mpg b760i edge wifi mini itx mainboard lga1700 ddr5 schwarz silber",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-msi-mpg-b760i-edge-wifi-mini-itx-mainboard-lga1700-ddr5-schw",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 B760",
@@ -32239,13 +34008,42 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asus-pro-q870m-c-csm-mainboard-lga1851-intel-q870-ddr5-micro-y595w",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "ASUS Pro Q870M-C-CSM Mainboard LGA1851 Intel Q870 DDR5 Micro-ATX",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-pro-q870m-c-csm-mainboard-lga1851-intel-q870-ddr5-micro-atx-100568093/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 217.53,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-pro-q870m-c-csm-mainboard-lga1851-intel-q870-ddr5-micro-atx-100568093/"
+    }
+   ],
+   "price": 217.53,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 217.53
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards asus pro q870m csm mainboard lga1851 intel q870 ddr5 micro atx",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asrock-z890-pro-rs-wifi-white-mainboard-sockel-lga-1851-inte",
    "cat": "Mainboards",
    "sub": "Intel LGA1851 Z890",
    "name": "ASRock Z890 Pro RS WiFi White Mainboard, Sockel LGA 1851, Intel Z890, ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asrock-z890-pro-rs-wifi-white-motherboard-socket-lga-1851-intel-z890-atx-ddr5/MBAR-499.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -33032,7 +34830,7 @@
    "name": "ASUS ROG Strix B760-F Gaming WiFi, Intel B760 Mainboard - Sockel 1700, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-b760-f-gaming-wifi-intel-b760-motherboard-socket-1700-ddr5/MBAS-673.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -33124,6 +34922,35 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/gigabyte-m27q2-qd-ice-27-qhd-200-hz-ss-ips-monitor-weiss-100679131/",
    "stand": "2026-10-30T09:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 225.27,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/gigabyte-m27q2-qd-ice-27-qhd-200-hz-ss-ips-monitor-weiss-100679131/"
+    }
+   ],
+   "price": 225.27,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 225.27
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 27\" gigabyte m27q2 ice qhd 200 ips monitor weiss",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-gigabyte-m27q2-qd-ice-27-qhd-200-hz-ss-ips-monitor-weiss-shi9i",
+   "cat": "Monitore",
+   "sub": "27\"",
+   "name": "Gigabyte M27Q2 QD ICE 27\" QHD 200 Hz SS-IPS Monitor weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/gigabyte-m27q2-qd-ice-27-qhd-200-hz-ss-ips-monitor-weiss-100679131/",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -33355,7 +35182,7 @@
    "name": "ASRock Z890 LiveMixer WiFi, Intel Z890 Mainboard, Sockel LGA 1851, Intel Z890, ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asrock-z890-livemixer-wifi-intel-z890-motherboard-socket-lga-1851-intel-z890-atx-ddr5/MBAR-498.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -34181,6 +36008,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-msi-mag-b850-tomahawk-wifi-atx-mainboard-sockel-am5-ddr5-wif-sj7jw",
+   "cat": "Mainboards",
+   "sub": "AM5 B850",
+   "name": "MSI MAG B850 TOMAHAWK WIFI ATX Mainboard Sockel AM5 DDR5 WiFi 7 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/msi-mag-b850-tomahawk-wifi-atx-mainboard-sockel-am5-ddr5-wifi-7-schwarz-100675865/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 238.25,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/msi-mag-b850-tomahawk-wifi-atx-mainboard-sockel-am5-ddr5-wifi-7-schwarz-100675865/"
+    }
+   ],
+   "price": 238.25,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 238.25
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 b850 msi mag b850 tomahawk wifi atx mainboard sockel am5 ddr5 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-samsung-9100-pro-mz-vap1t0bw-1-tb-ssd-pcie-5-0-x4-schwarz",
    "cat": "SSDs",
    "sub": "PCIe 5.0 1 TB",
@@ -34397,15 +36253,15 @@
    "sub": "AM5 X870",
    "name": "ASRock X870 Steel Legend WiFi Mainboard, Sockel AM5, AMD X870, ATX, DDR5",
    "source": "crawler",
-   "url": "https://www.caseking.de/asrock-x870-steel-legend-wifi-mainboard-sockel-am5-amd-x870-atx-ddr5/MBAR-488.html",
-   "stand": "2026-10-30T15:39",
+   "url": "https://www.caseking.de/en/asrock-x870-steel-legend-wifi-motherboard-socket-am5-amd-x870-atx-ddr5/MBAR-488.html",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 240.15,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/asrock-x870-steel-legend-wifi-mainboard-sockel-am5-amd-x870-atx-ddr5/MBAR-488.html"
+     "url": "https://www.caseking.de/en/asrock-x870-steel-legend-wifi-motherboard-socket-am5-amd-x870-atx-ddr5/MBAR-488.html"
     }
    ],
    "price": 240.15,
@@ -34537,6 +36393,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asus-rog-strix-b760-f-gaming-wifi-mainboard-atx-lga-1700-int-j1dbn",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1700 B760",
+   "name": "ASUS ROG STRIX B760-F GAMING WIFI Mainboard ATX LGA 1700 Intel B760 DDR5 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-rog-strix-b760-f-gaming-wifi-mainboard-atx-lga-1700-intel-b760-ddr5-schwarz-8134289/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 242.21,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-rog-strix-b760-f-gaming-wifi-mainboard-atx-lga-1700-intel-b760-ddr5-schwarz-8134289/"
+    }
+   ],
+   "price": 242.21,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 242.21
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1700 b760 asus rog strix b760 gaming wifi mainboard atx lga 1700 intel ddr5 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-samsung-990-pro-1-tb-ssd-m-2-nvme-pcie-4-0-x4",
    "cat": "SSDs",
    "sub": "PCIe 4.0 1 TB",
@@ -34573,6 +36458,35 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/msi-pro-z890-s-wifi-mainboard-atx-lga-1851-intel-z890-ddr5-schwarz-silber-100512479/",
    "stand": "2026-10-30T11:13",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 242.66,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/msi-pro-z890-s-wifi-mainboard-atx-lga-1851-intel-z890-ddr5-schwarz-silber-100512479/"
+    }
+   ],
+   "price": 242.66,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 242.66
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1851 z890 msi pro z890 wifi mainboard atx lga 1851 intel ddr5 schwarz silber",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-msi-pro-z890-s-wifi-mainboard-atx-lga-1851-intel-z890-ddr5-s-k3k8z",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1851 Z890",
+   "name": "MSI PRO Z890-S WIFI Mainboard ATX LGA 1851 Intel Z890 DDR5 Schwarz/Silber",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/msi-pro-z890-s-wifi-mainboard-atx-lga-1851-intel-z890-ddr5-schwarz-silber-100512479/",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -34634,7 +36548,7 @@
    "name": "ASRock Z890 Steel Legend WiFi Mainboard, Sockel LGA 1851, Intel Z890, ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asrock-z890-steel-legend-wifi-motherboard-socket-lga-1851-intel-z890-atx-ddr5/MBAR-497.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -35854,15 +37768,15 @@
    "sub": "Intel LGA1851 Z890",
    "name": "ASRock Z890 Lightning WiFi Mainboard, Sockel LGA 1851, Intel Z890, ATX, DDR5",
    "source": "crawler",
-   "url": "https://www.caseking.de/asrock-z890-lightning-wifi-mainboard-sockel-lga-1851-intel-z890-atx-ddr5/MBAR-496.html",
-   "stand": "2026-10-30T15:39",
+   "url": "https://www.caseking.de/en/asrock-z890-lightning-wifi-motherboard-socket-lga-1851-intel-z890-atx-ddr5/MBAR-496.html",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 252.94,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/asrock-z890-lightning-wifi-mainboard-sockel-lga-1851-intel-z890-atx-ddr5/MBAR-496.html"
+     "url": "https://www.caseking.de/en/asrock-z890-lightning-wifi-motherboard-socket-lga-1851-intel-z890-atx-ddr5/MBAR-496.html"
     }
    ],
    "price": 252.94,
@@ -35965,6 +37879,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asus-b850-max-gaming-wifi-w-mainboard-atx-sockel-am5-amd-b85-zdfzq",
+   "cat": "Mainboards",
+   "sub": "AM5 B850",
+   "name": "ASUS B850 MAX GAMING WIFI W Mainboard ATX Sockel AM5 AMD B850 DDR5 Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-b850-max-gaming-wifi-w-mainboard-atx-sockel-am5-amd-b850-ddr5-weiss-100568096/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 254.16,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-b850-max-gaming-wifi-w-mainboard-atx-sockel-am5-amd-b850-ddr5-weiss-100568096/"
+    }
+   ],
+   "price": 254.16,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 254.16
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 b850 asus b850 max gaming wifi mainboard atx sockel am5 amd ddr5 weiss",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-philips-e-line-346e2cuae-34-curved-wqhd-va-monitor-usb-c-100",
    "cat": "Monitore",
    "sub": "34\"",
@@ -36029,7 +37972,7 @@
    "name": "ASUS TUF Gaming Z790 Plus WiFi, Sockel LGA 1700, Intel Z790, ATX - DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-tuf-gaming-z790-plus-wifi-intel-z790-motherboard-socket-1700-ddr5/MBAS-655.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -36174,7 +38117,7 @@
    "name": "ASUS TUF Gaming VG32AQA1A, 31,5 Zoll Gaming Monitor, 170 Hz, VA, FreeSync",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-tuf-gaming-vg32aqa1a-31.5-inch-gaming-monitor-170-hz-va-freesync/TFAS-250.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -36203,7 +38146,7 @@
    "name": "ASUS TUF Gaming VG27AQM5A, 27 Zoll Gaming Monitor, 300 Hz, IPS, G-SYNC Compatible",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-tuf-gaming-vg27aqm5a-27-inch-gaming-monitor-300-hz-ips-g-sync-compatible/TFAS-310.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -36617,7 +38560,7 @@
    "name": "ASRock Z890I NOVA WiFi Mainboard, Sockel LGA 1851, Intel Z890, Mini-ITX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asrock-z890i-nova-wifi-motherboard-lga-1851-socket-intel-z890-mini-itx-ddr5/MBAR-504.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -37491,7 +39434,7 @@
    "name": "ASUS TUF Gaming VG34VQL3A, 34 Zoll Curved Gaming Monitor, 180 Hz, VA, FreeSync Premium Pro",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-tuf-gaming-vg34vql3a-34-inch-curved-gaming-monitor-180-hz-va-freesync-premium-pro/TFAS-258.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -37572,6 +39515,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-acer-pd163qsmiuux-15-6-full-hd-monitor-silber-svg4j",
+   "cat": "Monitore",
+   "sub": "15,6\"",
+   "name": "Acer PD163Qsmiuux 15,6\" Full HD Monitor Silber",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/acer-pd163qsmiuux-15-6-full-hd-monitor-silber-100592695/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 281.07,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/acer-pd163qsmiuux-15-6-full-hd-monitor-silber-100592695/"
+    }
+   ],
+   "price": 281.07,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 281.07
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 15,6\" acer pd163qsmiuux full monitor silber",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asrock-z790m-itx-wifi-mainboard-mini-itx-lga1700-intel-z790-",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 Z790",
@@ -37607,7 +39579,7 @@
    "name": "ASUS ROG Strix XG27ACMEG, 27 Zoll WQHD Gaming-Monitor, 260Hz, Fast IPS-Panel, Adaptive Sync",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-xg27acmeg-27-inch-wqhd-gaming-monitor-260hz-fast-ips-panel-adaptive-sync/TFAS-314.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -37694,7 +39666,7 @@
    "name": "ASUS ROG Strix XG32WCS, 31,5 Zoll Curved Gaming Monitor, 180Hz, Fast VA, FreeSync",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-xg32wcs-31.5-inch-curved-gaming-monitor-180hz-fast-va-freesync/TFAS-291.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -38162,7 +40134,7 @@
    "name": "ASUS ROG Strix B650E-E Gaming WiFi Mainboard, Sockel AM5, AMD B650E, ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-b650e-e-gaming-wifi-motherboard-socket-am5-amd-b650e-atx-ddr5/MBAS-657.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -38359,6 +40331,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asus-rog-strix-b850-f-gaming-wifi7-neo-mainboard-amd-am5-atx-6xm7m",
+   "cat": "Mainboards",
+   "sub": "AM5 B850",
+   "name": "ASUS ROG STRIX B850-F GAMING WIFI7 NEO Mainboard AMD AM5 ATX DDR5",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-rog-strix-b850-f-gaming-wifi7-neo-mainboard-amd-am5-atx-ddr5-100703392/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 303.01,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-rog-strix-b850-f-gaming-wifi7-neo-mainboard-amd-am5-atx-ddr5-100703392/"
+    }
+   ],
+   "price": 303.01,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 303.01
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 b850 asus rog strix b850 gaming wifi7 neo mainboard amd am5 atx ddr5",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-rog-strix-z890-f-mainboard-sockel-lga-1851-intel-z890-a",
    "cat": "Mainboards",
    "sub": "Intel LGA1851 Z890",
@@ -38533,6 +40534,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-gigabyte-aorus-b850-stealth-atx-amd-b850-lga1851-ddr5-schwar-45cc8",
+   "cat": "Mainboards",
+   "sub": "AM5 B850",
+   "name": "Gigabyte AORUS B850 STEALTH ATX AMD B850 LGA1851 DDR5 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/gigabyte-aorus-b850-stealth-atx-amd-b850-lga1851-ddr5-schwarz-100683311/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 307.86,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/gigabyte-aorus-b850-stealth-atx-amd-b850-lga1851-ddr5-schwarz-100683311/"
+    }
+   ],
+   "price": 307.86,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 307.86
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 b850 gigabyte aorus b850 stealth atx amd lga1851 ddr5 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-geforce-rtx-3050-dual-o6g-6144-mb-gddr6",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 3050",
@@ -38631,6 +40661,35 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/terramaster-f2-425-nas-intel-celeron-n5095-quad-core-2-ghz-ddr4-usb-3-0-100662639/",
    "stand": "2026-10-30T11:13",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 312.3,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/terramaster-f2-425-nas-intel-celeron-n5095-quad-core-2-ghz-ddr4-usb-3-0-100662639/"
+    }
+   ],
+   "price": 312.3,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 312.3
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr4 terramaster 425 nas intel celeron n5095 quad core ghz usb",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-terramaster-f2-425-nas-intel-celeron-n5095-quad-core-2-ghz-d-wlj0f",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR4",
+   "name": "TerraMaster F2-425 NAS Intel Celeron N5095 Quad-Core 2 GHz DDR4 USB 3.0",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/terramaster-f2-425-nas-intel-celeron-n5095-quad-core-2-ghz-ddr4-usb-3-0-100662639/",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -39458,7 +41517,7 @@
    "name": "ASUS ProArt PA278CGV, 27 Zoll Gaming Monitor, 144 Hz, IPS, FreeSync Premium",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-proart-pa278cgv-27-inch-gaming-monitor-144-hz-ips-freesync-premium/TFAS-261.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -39568,6 +41627,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asrock-x870-taichi-creator-atx-mainboard-sockel-am5-ddr5-sch-mg7l2",
+   "cat": "Mainboards",
+   "sub": "AM5 X870",
+   "name": "ASRock X870 Taichi Creator ATX Mainboard Sockel AM5 DDR5 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asrock-x870-taichi-creator-atx-mainboard-sockel-am5-ddr5-schwarz-100666376/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 333.65,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asrock-x870-taichi-creator-atx-mainboard-sockel-am5-ddr5-schwarz-100666376/"
+    }
+   ],
+   "price": 333.65,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 333.65
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 x870 asrock x870 taichi creator atx mainboard sockel am5 ddr5 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-msi-mag-z890-tomahawk-wifi-mainboard-atx-lga1851-intel-z890-",
    "cat": "Mainboards",
    "sub": "Intel LGA1851 Z890",
@@ -39575,6 +41663,35 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/msi-mag-z890-tomahawk-wifi-mainboard-atx-lga1851-intel-z890-ddr5-schwarz-gelb-100513075/",
    "stand": "2026-10-30T11:13",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 333.71,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/msi-mag-z890-tomahawk-wifi-mainboard-atx-lga1851-intel-z890-ddr5-schwarz-gelb-100513075/"
+    }
+   ],
+   "price": 333.71,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 333.71
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1851 z890 msi mag z890 tomahawk wifi mainboard atx lga1851 intel ddr5 schwarz gelb",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-msi-mag-z890-tomahawk-wifi-mainboard-atx-lga1851-intel-z890--uqjmu",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1851 Z890",
+   "name": "MSI MAG Z890 TOMAHAWK WIFI Mainboard ATX LGA1851 Intel Z890 DDR5 Schwarz Gelb",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/msi-mag-z890-tomahawk-wifi-mainboard-atx-lga1851-intel-z890-ddr5-schwarz-gelb-100513075/",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -39748,7 +41865,7 @@
    "name": "ASUS TUF Gaming VG27UQ1A, 27 Zoll 4K Gaming Monitor, 160Hz, IPS, FreeSync Premium",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-tuf-gaming-vg27uq1a-27-inch-4k-gaming-monitor-160hz-ips-freesync-premium/TFAS-296.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -40421,6 +42538,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-supermicro-x12stl-f-b-bulk-server-mainboard-micro-atx-lga120-ctm95",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "Supermicro X12STL-F-B Bulk Server-Mainboard, Micro ATX, LGA1200, Intel C252, DDR4",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/supermicro-x12stl-f-b-bulk-server-mainboard-micro-atx-lga1200-intel-c252-ddr4-7385950/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 355.74,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/supermicro-x12stl-f-b-bulk-server-mainboard-micro-atx-lga1200-intel-c252-ddr4-7385950/"
+    }
+   ],
+   "price": 355.74,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 355.74
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards supermicro x12stl bulk server mainboard micro atx lga1200 intel c252 ddr4",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-gigabyte-m27up-ice-27-zoll-uhd-fhd-gaming-monitor-160-320hz-",
    "cat": "Monitore",
    "sub": "27\"",
@@ -40573,6 +42719,35 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-p13r-i-mini-itx-mainboard-lga-1700-intel-c262-ddr5-64-gb-schwarz-100486876/",
    "stand": "2026-10-30T11:13",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 360.36,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-p13r-i-mini-itx-mainboard-lga-1700-intel-c262-ddr5-64-gb-schwarz-100486876/"
+    }
+   ],
+   "price": 360.36,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 360.36
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards asus p13r mini itx mainboard lga 1700 intel c262 ddr5 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-p13r-i-mini-itx-mainboard-lga-1700-intel-c262-ddr5-64-g-y4vpj",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "ASUS P13R-I Mini-ITX Mainboard LGA 1700 Intel C262 DDR5 64 GB Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-p13r-i-mini-itx-mainboard-lga-1700-intel-c262-ddr5-64-gb-schwarz-100486876/",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -40798,13 +42973,42 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-dell-pro-p2726dev-27-qhd-ips-led-monitor-schwarz-duiju",
+   "cat": "Monitore",
+   "sub": "27\"",
+   "name": "Dell Pro P2726DEV 27\" QHD IPS LED-Monitor Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/dell-pro-p2726dev-27-qhd-ips-led-monitor-schwarz-100707194/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 368.6,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/dell-pro-p2726dev-27-qhd-ips-led-monitor-schwarz-100707194/"
+    }
+   ],
+   "price": 368.6,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 368.6
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 27\" dell pro p2726dev qhd ips led monitor schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-rog-strix-xg27acms-27-zoll-gaming-monitor-320-hz-ips-g-",
    "cat": "Monitore",
    "sub": "27\"",
    "name": "ASUS ROG Strix XG27ACMS, 27 Zoll Gaming Monitor, 320 Hz, IPS, G-SYNC Compatible",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-xg27acms-27-inch-gaming-monitor-320-hz-ips-g-sync-compatible/TFAS-306.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -41355,7 +43559,7 @@
    "name": "ASUS ROG Strix XG279CNS, 27 Zoll Gaming Monitor, 380Hz, Fast IPS, G-SYNC",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-xg279cns-27-inch-gaming-monitor-380hz-fast-ips-g-sync/TFAS-300.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -41404,6 +43608,35 @@
    ],
    "count": 1,
    "tags": "monitore 27\" gigabyte go27q24a zoll gaming monitor 240hz oled sync compatible",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asrock-taichi-x870e-taichi-lite-mainboard-e-atx-sockel-am5-d-uo7tk",
+   "cat": "Mainboards",
+   "sub": "AM5 X870",
+   "name": "ASRock Taichi X870E Taichi Lite Mainboard E-ATX Sockel AM5 DDR5 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asrock-taichi-x870e-taichi-lite-mainboard-e-atx-sockel-am5-ddr5-schwarz-100508666/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 379.71,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asrock-taichi-x870e-taichi-lite-mainboard-e-atx-sockel-am5-ddr5-schwarz-100508666/"
+    }
+   ],
+   "price": 379.71,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 379.71
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 x870 asrock taichi x870e lite mainboard atx sockel am5 ddr5 schwarz",
    "firstSeen": "2026-10-30"
   },
   {
@@ -41784,6 +44017,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asus-p12r-e-server-mainboard-atx-lga-1200-intel-c256-ddr4-xn2ol",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "ASUS P12R-E Server-Mainboard ATX LGA 1200 Intel C256 DDR4",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-p12r-e-server-mainboard-atx-lga-1200-intel-c256-ddr4-7510159/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 384.69,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-p12r-e-server-mainboard-atx-lga-1200-intel-c256-ddr4-7510159/"
+    }
+   ],
+   "price": 384.69,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 384.69
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards asus p12r server mainboard atx lga 1200 intel c256 ddr4",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-aoc-gaming-q27g4zd-27-oled-monitor-2560-x-1440-240-hz-schwar",
    "cat": "Monitore",
    "sub": "27\"",
@@ -41820,6 +44082,35 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/supermicro-x13dei-server-mainboard-intel-c741-lga-4677-ddr5-4-tb-e-atx-8229855/",
    "stand": "2026-10-30T11:13",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 387.99,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/supermicro-x13dei-server-mainboard-intel-c741-lga-4677-ddr5-4-tb-e-atx-8229855/"
+    }
+   ],
+   "price": 387.99,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 387.99
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards supermicro x13dei server mainboard intel c741 lga 4677 ddr5 atx",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-supermicro-x13dei-server-mainboard-intel-c741-lga-4677-ddr5--2vb3k",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "Supermicro X13DEI Server-Mainboard Intel C741 LGA 4677 DDR5 4 TB E-ATX",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/supermicro-x13dei-server-mainboard-intel-c741-lga-4677-ddr5-4-tb-e-atx-8229855/",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -41906,7 +44197,7 @@
    "name": "ASUS ROG Strix XG32WCMS, 31.5 inch Curved Gaming Monitor, 280Hz, VA, AdaptiveSync",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-xg32wcms-31.5-inch-curved-gaming-monitor-280hz-va-adaptivesync/TFAS-278.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -41965,6 +44256,35 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/gigabyte-aorus-gaming-x870e-a-pro-x-ice-atx-mainboard-amd-x870e-sockel-am5-ddr5-weiss-100664148/",
    "stand": "2026-10-30T11:13",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 390.25,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/gigabyte-aorus-gaming-x870e-a-pro-x-ice-atx-mainboard-amd-x870e-sockel-am5-ddr5-weiss-100664148/"
+    }
+   ],
+   "price": 390.25,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 390.25
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 x870 gigabyte aorus gaming x870e pro ice atx mainboard amd sockel am5 ddr5 weiss",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-gigabyte-aorus-gaming-x870e-a-pro-x-ice-atx-mainboard-amd-x8-3o23d",
+   "cat": "Mainboards",
+   "sub": "AM5 X870",
+   "name": "Gigabyte Aorus Gaming X870E A PRO X ICE ATX Mainboard AMD X870E Sockel AM5 DDR5 Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/gigabyte-aorus-gaming-x870e-a-pro-x-ice-atx-mainboard-amd-x870e-sockel-am5-ddr5-weiss-100664148/",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -42345,7 +44665,7 @@
    "name": "ASUS ROG Strix XG27UCG, 27 Zoll Gaming Monitor, 160Hz (320 Hz), IPS, FreeSync Premium, G-SYNC Compatible",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-xg27ucg-27-inch-gaming-monitor-160hz-320-hz-ips-freesync-premium-g-sync-compatible/TFAS-280.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -42634,6 +44954,64 @@
    ],
    "count": 1,
    "tags": "mainboards asus p12r server motherboard microatx lga1200 c252 ddr4 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-p12r-m-server-motherboard-microatx-lga1200-c252-ddr4-sc-xwy41",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "ASUS P12R-M Server-Motherboard microATX LGA1200 C252 DDR4 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-p12r-m-server-motherboard-microatx-lga1200-c252-ddr4-schwarz-7483830/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 414.01,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-p12r-m-server-motherboard-microatx-lga1200-c252-ddr4-schwarz-7483830/"
+    }
+   ],
+   "price": 414.01,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 414.01
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards asus p12r server motherboard microatx lga1200 c252 ddr4 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-kingston-fury-beast-ddr5-16-gb-2x8-gb-6000-mhz-cl30-dimm-sch-uw0u4",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 16 GB",
+   "name": "Kingston FURY Beast DDR5 16 GB (2x8 GB) 6000 MHz CL30 DIMM Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/kingston-fury-beast-ddr5-16-gb-2x8-gb-6000-mhz-cl30-dimm-schwarz-100492205/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 414.68,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/kingston-fury-beast-ddr5-16-gb-2x8-gb-6000-mhz-cl30-dimm-schwarz-100492205/"
+    }
+   ],
+   "price": 414.68,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 414.68
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 16 gb kingston fury beast ddr5 2x8 6000 mhz cl30 dimm schwarz",
    "firstSeen": "2026-10-30"
   },
   {
@@ -44024,6 +46402,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asrock-z890-taichi-mainboard-lga-1851-atx-ddr5-wi-fi-7-schwa-mqhzb",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1851 Z890",
+   "name": "ASRock Z890 TAICHI Mainboard LGA 1851 ATX DDR5 Wi-Fi 7 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asrock-z890-taichi-mainboard-lga-1851-atx-ddr5-wi-fi-7-schwarz-100515994/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 464.39,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asrock-z890-taichi-mainboard-lga-1851-atx-ddr5-wi-fi-7-schwarz-100515994/"
+    }
+   ],
+   "price": 464.39,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 464.39
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1851 z890 asrock z890 taichi mainboard lga 1851 atx ddr5 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-vp32uq-31-5-3840-x-2160-ips-monitor-schwarz",
    "cat": "Monitore",
    "sub": "31,5\"",
@@ -44409,6 +46816,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asus-p13r-e-server-mainboard-atx-intel-c266-lga1700-4x-ddr5--o8zxm",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "ASUS P13R-E Server Mainboard ATX Intel C266 LGA1700 4x DDR5 2x M.2 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-p13r-e-server-mainboard-atx-intel-c266-lga1700-4x-ddr5-2x-m-2-schwarz-100499296/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 482.84,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-p13r-e-server-mainboard-atx-intel-c266-lga1700-4x-ddr5-2x-m-2-schwarz-100499296/"
+    }
+   ],
+   "price": 482.84,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 482.84
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards asus p13r server mainboard atx intel c266 lga1700 ddr5 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-rog-strix-x870e-e-gaming-wifi-mainboard-atx-sockel-am5-",
    "cat": "Mainboards",
    "sub": "AM5 X870",
@@ -44583,6 +47019,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asrock-taichi-x870e-taichi-ocf-atx-mainboard-socket-am5-ddr5-yndkn",
+   "cat": "Mainboards",
+   "sub": "AM5 X870",
+   "name": "ASRock Taichi X870E Taichi OCF ATX Mainboard Socket AM5 DDR5 Schwarz/Gelb",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asrock-taichi-x870e-taichi-ocf-atx-mainboard-socket-am5-ddr5-schwarz-gelb-100684837/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 488.19,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asrock-taichi-x870e-taichi-ocf-atx-mainboard-socket-am5-ddr5-schwarz-gelb-100684837/"
+    }
+   ],
+   "price": 488.19,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 488.19
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 x870 asrock taichi x870e ocf atx mainboard socket am5 ddr5 schwarz gelb",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-philips-b-line-346b1c-34-curved-uwqhd-monitor-3440-x-1440-bl",
    "cat": "Monitore",
    "sub": "34\"",
@@ -44735,6 +47200,35 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/patriot-viper-venom-pvv532g620c40k-32-gb-ram-2-x-16-gb-ddr5-6200-mhz-dimm-288-pin-cl40-schwarz-7847665/",
    "stand": "2026-10-30T11:13",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 498.59,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/patriot-viper-venom-pvv532g620c40k-32-gb-ram-2-x-16-gb-ddr5-6200-mhz-dimm-288-pin-cl40-schwarz-7847665/"
+    }
+   ],
+   "price": 498.59,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 498.59
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 32 gb patriot viper venom pvv532g620c40k ram ddr5 6200 mhz dimm 288 pin cl40 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-patriot-viper-venom-pvv532g620c40k-32-gb-ram-2-x-16-gb-ddr5--yrlrj",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 32 GB",
+   "name": "Patriot Viper Venom PVV532G620C40K 32 GB RAM 2 x 16 GB DDR5 6200 MHz DIMM 288-Pin CL40 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/patriot-viper-venom-pvv532g620c40k-32-gb-ram-2-x-16-gb-ddr5-6200-mhz-dimm-288-pin-cl40-schwarz-7847665/",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -45024,7 +47518,7 @@
    "name": "ASUS ROG Strix OLED XG27ACDMS, 27 Zoll Gaming Monitor, 280 Hz, QD-OLED, G-SYNC Compatible",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-oled-xg27acdms-27-inch-gaming-monitor-280-hz-qd-oled-g-sync-compatible/TFAS-307.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -45054,6 +47548,35 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/philips-5000-series-40b1u5600-ultrawide-office-monitor-40-ips-3440-x-1440-120-hz-usb-c-lautsprecher-schwarz-8058921/",
    "stand": "2026-10-30T09:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 504.23,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/philips-5000-series-40b1u5600-ultrawide-office-monitor-40-ips-3440-x-1440-120-hz-usb-c-lautsprecher-schwarz-8058921/"
+    }
+   ],
+   "price": 504.23,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 504.23
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 40\" philips 5000 series 40b1u5600 ultrawide office monitor ips 3440 1440 120 usb lautsprecher schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-philips-5000-series-40b1u5600-ultrawide-office-monitor-40-ip-vc60a",
+   "cat": "Monitore",
+   "sub": "40\"",
+   "name": "Philips 5000 Series 40B1U5600 UltraWide Office Monitor 40\" IPS 3440 x 1440 120 Hz USB-C Lautsprecher Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/philips-5000-series-40b1u5600-ultrawide-office-monitor-40-ips-3440-x-1440-120-hz-usb-c-lautsprecher-schwarz-8058921/",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -46265,15 +48788,15 @@
    "sub": "26,5\"",
    "name": "ASUS ROG Strix OLED XG27AQWMG, 26,5 Zoll WQHD Gaming-Monitor, 280Hz, Tandem-OLED-Panel, Adaptive Sync",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/asus-rog-strix-oled-xg27aqwmg-26.5-inch-wqhd-gaming-monitor-280hz-tandem-oled-panel-adaptive-sync/TFAS-317.html",
-   "stand": "2026-10-30T06:15",
+   "url": "https://www.caseking.de/asus-rog-strix-oled-xg27aqwmg-26-5-zoll-wqhd-gaming-monitor-280hz-tandem-oled-panel-adaptive-sync/TFAS-317.html",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 559,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/asus-rog-strix-oled-xg27aqwmg-26.5-inch-wqhd-gaming-monitor-280hz-tandem-oled-panel-adaptive-sync/TFAS-317.html"
+     "url": "https://www.caseking.de/asus-rog-strix-oled-xg27aqwmg-26-5-zoll-wqhd-gaming-monitor-280hz-tandem-oled-panel-adaptive-sync/TFAS-317.html"
     }
    ],
    "price": 559,
@@ -46347,6 +48870,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-patriot-viper-venom-rgb-ddr5-32-gb-2-x-16-gb-6000-mt-s-dimm--v8e9v",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 32 GB",
+   "name": "Patriot Viper Venom RGB DDR5 32 GB (2 x 16 GB) 6000 MT/s DIMM Kit",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/patriot-viper-venom-rgb-ddr5-32-gb-2-x-16-gb-6000-mt-s-dimm-kit-100505633/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 566.2,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/patriot-viper-venom-rgb-ddr5-32-gb-2-x-16-gb-6000-mt-s-dimm-kit-100505633/"
+    }
+   ],
+   "price": 566.2,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 566.2
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 32 gb patriot viper venom rgb ddr5 6000 dimm kit",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-kingston-fury-beast-ddr5-5600-ram-cl40-xmp-32-gb-dual-kit-bl",
    "cat": "Arbeitsspeicher",
    "sub": "DDR5 32 GB",
@@ -46383,6 +48935,35 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-p13r-e-10g-2t-mainboard-atx-lga1700-intel-c266-10gb-lan-ddr5-schwarz-100513628/",
    "stand": "2026-10-30T11:13",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 568.18,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-p13r-e-10g-2t-mainboard-atx-lga1700-intel-c266-10gb-lan-ddr5-schwarz-100513628/"
+    }
+   ],
+   "price": 568.18,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 568.18
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards asus p13r 10g mainboard atx lga1700 intel c266 10gb lan ddr5 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-p13r-e-10g-2t-mainboard-atx-lga1700-intel-c266-10gb-lan-5fhxa",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "ASUS P13R-E/10G-2T Mainboard ATX LGA1700 Intel C266 10Gb LAN DDR5 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-p13r-e-10g-2t-mainboard-atx-lga1700-intel-c266-10gb-lan-ddr5-schwarz-100513628/",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -47055,6 +49636,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-benq-pd3205u-31-5-4k-uhd-ips-monitor-schwarz-6a0c2",
+   "cat": "Monitore",
+   "sub": "31,5\"",
+   "name": "BenQ PD3205U 31.5\" 4K UHD IPS Monitor Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/benq-pd3205u-31-5-4k-uhd-ips-monitor-schwarz-7540752/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 596.05,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/benq-pd3205u-31-5-4k-uhd-ips-monitor-schwarz-7540752/"
+    }
+   ],
+   "price": 596.05,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 596.05
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 31,5\" benq pd3205u uhd ips monitor schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-samsung-870-evo-mz-77e2t0b-2-tb-ssd-2-5-sata-iii-schwarz",
    "cat": "SSDs",
    "sub": "SATA 2 TB",
@@ -47214,7 +49824,7 @@
    "name": "ASUS ROG Strix OLED XG27AQDNG, 26.5 Zoll WQHD Gaming-Monitor, 360Hz, QD-OLED-Panel, Adaptive Sync",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-oled-xg27aqdng-26.5-inch-wqhd-gaming-monitor-360hz-qd-oled-panel-adaptive-sync/TFAS-316.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -47563,6 +50173,35 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-pro-ws-w880-ace-se-atx-lga1851-w880-ddr5-256-gb-ram-grau-100589144/",
    "stand": "2026-10-30T11:13",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 614.36,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-pro-ws-w880-ace-se-atx-lga1851-w880-ddr5-256-gb-ram-grau-100589144/"
+    }
+   ],
+   "price": 614.36,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 614.36
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 256 gb asus pro w880 ace atx lga1851 ddr5 256 ram grau",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-pro-ws-w880-ace-se-atx-lga1851-w880-ddr5-256-gb-ram-gra-qyh03",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 256 GB",
+   "name": "ASUS Pro WS W880-ACE SE ATX LGA1851 W880 DDR5 256 GB RAM Grau",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-pro-ws-w880-ace-se-atx-lga1851-w880-ddr5-256-gb-ram-grau-100589144/",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -48239,6 +50878,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asrock-z890-taichi-aqua-mainboard-e-atx-lga-1851-intel-z890--x03wp",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1851 Z890",
+   "name": "ASRock Z890 TAICHI AQUA Mainboard E-ATX LGA 1851 Intel Z890 DDR5 White",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asrock-z890-taichi-aqua-mainboard-e-atx-lga-1851-intel-z890-ddr5-white-100511718/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 641.39,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asrock-z890-taichi-aqua-mainboard-e-atx-lga-1851-intel-z890-ddr5-white-100511718/"
+    }
+   ],
+   "price": 641.39,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 641.39
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1851 z890 asrock z890 taichi aqua mainboard atx lga 1851 intel ddr5 white",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-rog-maximus-z890-hero-btf-mainboard-atx-lga1851-intel-z",
    "cat": "Mainboards",
    "sub": "Intel LGA1851 Z890",
@@ -48819,6 +51487,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-supermicro-x13saz-f-server-mainboard-micro-atx-lga-1700-inte-y2by5",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "Supermicro X13SAZ-F Server-Mainboard Micro ATX LGA 1700 Intel R680E DDR5",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/supermicro-x13saz-f-server-mainboard-micro-atx-lga-1700-intel-r680e-ddr5-7646307/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 660.94,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/supermicro-x13saz-f-server-mainboard-micro-atx-lga-1700-intel-r680e-ddr5-7646307/"
+    }
+   ],
+   "price": 660.94,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 660.94
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards supermicro x13saz server mainboard micro atx lga 1700 intel r680e ddr5",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-rog-strix-xg27jcg-27-gaming-monitor-5120-x-2880-180-hz--8u06a",
    "cat": "Monitore",
    "sub": "27\"",
@@ -48974,7 +51671,7 @@
    "name": "ASUS ROG Strix OLED XG32UCDS, 32 Zoll 4K Gaming Monitor, 165Hz, QD-OLED, G-SYNC Compatible",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-oled-xg32ucds-32-inch-4k-gaming-monitor-165hz-qd-oled-g-sync-compatible/TFAS-304.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -49004,6 +51701,35 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-s14na-u12-server-mainboard-ssi-ceb-socket-sp6-amd-epyc-8004-ddr5-schwarz-100486875/",
    "stand": "2026-10-30T11:13",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 671.84,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-s14na-u12-server-mainboard-ssi-ceb-socket-sp6-amd-epyc-8004-ddr5-schwarz-100486875/"
+    }
+   ],
+   "price": 671.84,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 671.84
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards asus s14na u12 server mainboard ssi ceb socket sp6 amd epyc 8004 ddr5 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-s14na-u12-server-mainboard-ssi-ceb-socket-sp6-amd-epyc--iq7rc",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "ASUS S14NA-U12 Server-Mainboard SSI CEB Socket SP6 AMD EPYC 8004 DDR5 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-s14na-u12-server-mainboard-ssi-ceb-socket-sp6-amd-epyc-8004-ddr5-schwarz-100486875/",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -49436,6 +52162,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asus-rog-crosshair-x870e-dark-hero-atx-mainboard-am5-ddr5-sc-vfy3p",
+   "cat": "Mainboards",
+   "sub": "AM5 X870",
+   "name": "ASUS ROG CROSSHAIR X870E DARK HERO ATX Mainboard AM5 DDR5 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-rog-crosshair-x870e-dark-hero-atx-mainboard-am5-ddr5-schwarz-100695296/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 706.16,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-rog-crosshair-x870e-dark-hero-atx-mainboard-am5-ddr5-schwarz-100695296/"
+    }
+   ],
+   "price": 706.16,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 706.16
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 x870 asus rog crosshair x870e dark hero atx mainboard am5 ddr5 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-intel-core-i9-14900ks-3-2-ghz-raptor-lake-refresh-sockel-170",
    "cat": "Prozessoren",
    "sub": "Intel LGA1700",
@@ -49476,6 +52231,35 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-server-mainboard-k14pa-u12-socket-sp5-amd-epyc-9004-ddr5-ssi-ceb-100459778/",
    "stand": "2026-10-30T11:13",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 708.03,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-server-mainboard-k14pa-u12-socket-sp5-amd-epyc-9004-ddr5-ssi-ceb-100459778/"
+    }
+   ],
+   "price": 708.03,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 708.03
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards asus server mainboard k14pa u12 socket sp5 amd epyc 9004 ddr5 ssi ceb",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-server-mainboard-k14pa-u12-socket-sp5-amd-epyc-9004-ddr-3i0j0",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "ASUS Server-Mainboard K14PA-U12, Socket SP5, AMD EPYC 9004, DDR5, SSI CEB",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-server-mainboard-k14pa-u12-socket-sp5-amd-epyc-9004-ddr5-ssi-ceb-100459778/",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -50687,6 +53471,64 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-supermicro-h12ssl-i-server-mainboard-atx-socket-sp3-amd-epyc-qja6t",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "Supermicro H12SSL-i Server-Mainboard ATX Socket SP3 AMD EPYC DDR4 bis 2 TB Bulk",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/supermicro-h12ssl-i-server-mainboard-atx-socket-sp3-amd-epyc-ddr4-bis-2-tb-bulk-6484917/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 791.11,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/supermicro-h12ssl-i-server-mainboard-atx-socket-sp3-amd-epyc-ddr4-bis-2-tb-bulk-6484917/"
+    }
+   ],
+   "price": 791.11,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 791.11
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards supermicro h12ssl server mainboard atx socket sp3 amd epyc ddr4 bis bulk",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-supermicro-h12ssl-nt-o-server-mainboard-atx-sockel-sp3-ddr4-t6260",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "Supermicro H12SSL-NT-O Server-Mainboard ATX Sockel SP3 DDR4",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/supermicro-h12ssl-nt-o-server-mainboard-atx-sockel-sp3-ddr4-6504057/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 791.11,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/supermicro-h12ssl-nt-o-server-mainboard-atx-sockel-sp3-ddr4-6504057/"
+    }
+   ],
+   "price": 791.11,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 791.11
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards supermicro h12ssl server mainboard atx sockel sp3 ddr4",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-philips-49b2u5900c-49-curved-office-monitor-dual-qhd-5120x14",
    "cat": "Monitore",
    "sub": "49\"",
@@ -50751,7 +53593,7 @@
    "name": "ASUS ROG Strix OLED XG32UCWMG, 32 Zoll 4K Gaming Monitor, 240Hz, WOLED, G-SYNC Compatible",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-oled-xg32ucwmg-32-inch-4k-gaming-monitor-240hz-woled-g-sync-compatible/TFAS-301.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -51093,6 +53935,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-supermicro-h12ssl-ct-server-mainboard-atx-sockel-sp3-ddr4-ec-r84sk",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "Supermicro H12SSL-CT Server-Mainboard ATX Sockel SP3 DDR4 ECC 2x 10 Gigabit Ethernet",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/supermicro-h12ssl-ct-server-mainboard-atx-sockel-sp3-ddr4-ecc-2x-10-gigabit-ethernet-6484916/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 828.18,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/supermicro-h12ssl-ct-server-mainboard-atx-sockel-sp3-ddr4-ecc-2x-10-gigabit-ethernet-6484916/"
+    }
+   ],
+   "price": 828.18,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 828.18
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards supermicro h12ssl server mainboard atx sockel sp3 ddr4 ecc gigabit ethernet",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-benq-photovue-sw272q-27-2560-x-1440-ips-monitor-schwarz",
    "cat": "Monitore",
    "sub": "27\"",
@@ -51187,6 +54058,35 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/gigabyte-z890-aero-d-e-atx-mainboard-lga-1851-intel-z890-ddr5-wi-fi-7-weiss-100531276/",
    "stand": "2026-10-30T11:13",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 833.76,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/gigabyte-z890-aero-d-e-atx-mainboard-lga-1851-intel-z890-ddr5-wi-fi-7-weiss-100531276/"
+    }
+   ],
+   "price": 833.76,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 833.76
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1851 z890 gigabyte z890 aero atx mainboard lga 1851 intel ddr5 weiss",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-gigabyte-z890-aero-d-e-atx-mainboard-lga-1851-intel-z890-ddr-qnbpe",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1851 Z890",
+   "name": "Gigabyte Z890 AERO D E-ATX Mainboard LGA 1851 Intel Z890 DDR5 Wi-Fi 7 Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/gigabyte-z890-aero-d-e-atx-mainboard-lga-1851-intel-z890-ddr5-wi-fi-7-weiss-100531276/",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -51851,6 +54751,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-supermicro-mbd-h13sra-tf-o-mainboard-amd-trx50-socket-str5-a-jxhlg",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "Supermicro MBD-H13SRA-TF-O Mainboard AMD TRX50 Socket sTR5 ATX DDR5",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/supermicro-mbd-h13sra-tf-o-mainboard-amd-trx50-socket-str5-atx-ddr5-100692397/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 856.88,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/supermicro-mbd-h13sra-tf-o-mainboard-amd-trx50-socket-str5-atx-ddr5-100692397/"
+    }
+   ],
+   "price": 856.88,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 856.88
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards supermicro mbd h13sra mainboard amd trx50 socket str5 atx ddr5",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-prime-geforce-rtx-5060-ti-oc-edition-16384-mb-gddr7",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5060 Ti",
@@ -52087,6 +55016,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-kingston-fury-beast-32-gb-ram-6800-mhz-ddr5-cl34-dimm-kit-2--1wsgw",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 32 GB",
+   "name": "Kingston FURY Beast 32 GB RAM 6800 MHz DDR5 CL34 DIMM Kit (2 x 16 GB) Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/kingston-fury-beast-32-gb-ram-6800-mhz-ddr5-cl34-dimm-kit-2-x-16-gb-schwarz-100530297/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 871.78,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/kingston-fury-beast-32-gb-ram-6800-mhz-ddr5-cl34-dimm-kit-2-x-16-gb-schwarz-100530297/"
+    }
+   ],
+   "price": 871.78,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 871.78
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 32 gb kingston fury beast ram 6800 mhz ddr5 cl34 dimm kit schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-supermicro-h12ssl-c-server-mainboard-atx-socket-sp3-amd-epyc",
    "cat": "Mainboards",
    "sub": "Mainboards",
@@ -52232,6 +55190,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-supermicro-mbd-h13ssl-n-b-server-mainboard-atx-sockel-sp5-am-7dzpo",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "Supermicro MBD-H13SSL-N-B Server-Mainboard ATX, Sockel SP5, AMD EPYC 9004, DDR5",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/supermicro-mbd-h13ssl-n-b-server-mainboard-atx-sockel-sp5-amd-epyc-9004-ddr5-8114749/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 881.56,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/supermicro-mbd-h13ssl-n-b-server-mainboard-atx-sockel-sp5-amd-epyc-9004-ddr5-8114749/"
+    }
+   ],
+   "price": 881.56,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 881.56
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards supermicro mbd h13ssl server mainboard atx sockel sp5 amd epyc 9004 ddr5",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asrock-wrx90-ws-evo-server-mainboard-socket-str5-amd-wrx90-e",
    "cat": "Mainboards",
    "sub": "Mainboards",
@@ -52239,6 +55226,35 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asrock-wrx90-ws-evo-server-mainboard-socket-str5-amd-wrx90-e-atx-ddr5-bis-2-tb-100459456/",
    "stand": "2026-10-30T11:13",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 884.09,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asrock-wrx90-ws-evo-server-mainboard-socket-str5-amd-wrx90-e-atx-ddr5-bis-2-tb-100459456/"
+    }
+   ],
+   "price": 884.09,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 884.09
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards asrock wrx90 evo server mainboard socket str5 amd atx ddr5 bis",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asrock-wrx90-ws-evo-server-mainboard-socket-str5-amd-wrx90-e-a8m0e",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "ASRock WRX90 WS EVO Server-Mainboard Socket sTR5 AMD WRX90 E-ATX DDR5 bis 2 TB",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asrock-wrx90-ws-evo-server-mainboard-socket-str5-amd-wrx90-e-atx-ddr5-bis-2-tb-100459456/",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -52354,7 +55370,7 @@
    "name": "ASUS ROG Strix XG248QSG Ace, 24 Zoll Full-HD Gaming-Monitor, 610Hz, TN-Panel, Adaptive Sync",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-xg248qsg-ace-24-inch-full-hd-gaming-monitor-610hz-tn-panel-adaptive-sync/TFAS-313.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -52725,6 +55741,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-supermicro-h12ssl-c-server-mainboard-atx-socket-sp3-amd-epyc-1i3vp",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "Supermicro H12SSL-C Server-Mainboard ATX, Socket SP3, AMD EPYC, DDR4 ECC bis 2 TB",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/supermicro-h12ssl-c-server-mainboard-atx-socket-sp3-amd-epyc-ddr4-ecc-bis-2-tb-6484913/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 919.72,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/supermicro-h12ssl-c-server-mainboard-atx-socket-sp3-amd-epyc-ddr4-ecc-bis-2-tb-6484913/"
+    }
+   ],
+   "price": 919.72,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 919.72
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards supermicro h12ssl server mainboard atx socket sp3 amd epyc ddr4 ecc bis",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-g-skill-ripjaws-s5-ddr5-32-gb-ram-2x16-gb-6000-mt-s-cl30-sch",
    "cat": "Arbeitsspeicher",
    "sub": "DDR5 32 GB",
@@ -53001,6 +56046,35 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/supermicro-h12ssl-ct-server-mainboard-atx-socket-sp3-amd-epyc-7002-ddr4-bulk-6484915/",
    "stand": "2026-10-30T11:13",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 941.79,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/supermicro-h12ssl-ct-server-mainboard-atx-socket-sp3-amd-epyc-7002-ddr4-bulk-6484915/"
+    }
+   ],
+   "price": 941.79,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 941.79
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards supermicro h12ssl server mainboard atx socket sp3 amd epyc 7002 ddr4 bulk",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-supermicro-h12ssl-ct-server-mainboard-atx-socket-sp3-amd-epy-1txt0",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "Supermicro H12SSL-CT Server-Mainboard ATX Socket SP3 AMD EPYC 7002 DDR4 Bulk",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/supermicro-h12ssl-ct-server-mainboard-atx-socket-sp3-amd-epyc-7002-ddr4-bulk-6484915/",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -53504,6 +56578,35 @@
    ],
    "count": 1,
    "tags": "ssds pcie 5.0 4 tb samsung 9100 pro series nvme ssd pcie typ 2280 4tb",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-gigabyte-trx50-ai-top-mainboard-e-atx-sockel-str5-ddr5-schwa-a7sfu",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "Gigabyte TRX50 AI TOP Mainboard E-ATX Sockel sTR5 DDR5 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/gigabyte-trx50-ai-top-mainboard-e-atx-sockel-str5-ddr5-schwarz-100497218/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 972.92,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/gigabyte-trx50-ai-top-mainboard-e-atx-sockel-str5-ddr5-schwarz-100497218/"
+    }
+   ],
+   "price": 972.92,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 972.92
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards gigabyte trx50 top mainboard atx sockel str5 ddr5 schwarz",
    "firstSeen": "2026-10-30"
   },
   {
@@ -54252,6 +57355,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-gigabyte-mz33-ar1-rev-3-mainboard-e-atx-sockel-lga6096-amd-e-2qamw",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "Gigabyte MZ33-AR1 Rev. 3 Mainboard E-ATX Sockel LGA6096 AMD EPYC DDR5",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/gigabyte-mz33-ar1-rev-3-mainboard-e-atx-sockel-lga6096-amd-epyc-ddr5-100560297/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1081.39,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/gigabyte-mz33-ar1-rev-3-mainboard-e-atx-sockel-lga6096-amd-epyc-ddr5-100560297/"
+    }
+   ],
+   "price": 1081.39,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 1081.39
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards gigabyte mz33 ar1 rev mainboard atx sockel lga6096 amd epyc ddr5",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-kingston-fury-renegade-ddr5-48-gb-ram-2x-24-gb-288-pin-dimm-",
    "cat": "Arbeitsspeicher",
    "sub": "DDR5 48 GB",
@@ -54281,13 +57413,42 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-kingston-fury-renegade-ddr5-48-gb-ram-2x-24-gb-288-pin-dimm--lywlk",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 48 GB",
+   "name": "Kingston FURY Renegade DDR5 48 GB RAM 2x 24 GB 288-pin DIMM 4200 MHz PC5-67200 CL40 Schwarz, Silber",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/kingston-fury-renegade-ddr5-48-gb-ram-2x-24-gb-288-pin-dimm-4200-mhz-pc5-67200-cl40-schwarz-silber-100531001/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1086.41,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/kingston-fury-renegade-ddr5-48-gb-ram-2x-24-gb-288-pin-dimm-4200-mhz-pc5-67200-cl40-schwarz-silber-100531001/"
+    }
+   ],
+   "price": 1086.41,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 1086.41
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 48 gb kingston fury renegade ddr5 ram 288 pin dimm 4200 mhz pc5 67200 cl40 schwarz silber",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-rog-swift-oled-pg27aqwp-w-26-5-zoll-wqhd-gaming-monitor",
    "cat": "Monitore",
    "sub": "26,5\"",
    "name": "ASUS ROG Swift OLED PG27AQWP-W, 26,5 Zoll WQHD Gaming-Monitor, 540/720Hz, Tandem-OLED-Panel, Adaptive Sync",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-swift-oled-pg27aqwp-w-26.5-inch-wqhd-gaming-monitor-540-720hz-tandem-oled-panel-adaptive-sync/TFAS-312.html",
-   "stand": "2026-10-30T06:15",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "caseking.de",
@@ -54513,6 +57674,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-kingston-fury-renegade-rgb-48-gb-ram-2-x-24-gb-ddr5-8400-mt--yobem",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 48 GB",
+   "name": "Kingston FURY Renegade RGB 48 GB RAM (2 x 24 GB) DDR5 8400 MT/s CL40 Schwarz, Silber",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/kingston-fury-renegade-rgb-48-gb-ram-2-x-24-gb-ddr5-8400-mt-s-cl40-schwarz-silber-100531005/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1113.39,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/kingston-fury-renegade-rgb-48-gb-ram-2-x-24-gb-ddr5-8400-mt-s-cl40-schwarz-silber-100531005/"
+    }
+   ],
+   "price": 1113.39,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 1113.39
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 48 gb kingston fury renegade rgb ram ddr5 8400 cl40 schwarz silber",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-gigabyte-ms33-ar1-server-mainboard-e-atx-lga-4677-intel-c741",
    "cat": "Mainboards",
    "sub": "Mainboards",
@@ -54520,6 +57710,35 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/gigabyte-ms33-ar1-server-mainboard-e-atx-lga-4677-intel-c741-ddr5-256-gb-100454579/",
    "stand": "2026-10-30T11:13",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1119.25,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/gigabyte-ms33-ar1-server-mainboard-e-atx-lga-4677-intel-c741-ddr5-256-gb-100454579/"
+    }
+   ],
+   "price": 1119.25,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 1119.25
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards gigabyte ms33 ar1 server mainboard atx lga 4677 intel c741 ddr5 256",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-gigabyte-ms33-ar1-server-mainboard-e-atx-lga-4677-intel-c741-aie1o",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "Gigabyte MS33-AR1 Server-Mainboard E-ATX LGA 4677 Intel C741 DDR5 256 GB",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/gigabyte-ms33-ar1-server-mainboard-e-atx-lga-4677-intel-c741-ddr5-256-gb-100454579/",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -54774,6 +57993,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asus-rog-crosshair-x870e-glacial-gaming-mainboard-e-atx-sock-7epxh",
+   "cat": "Mainboards",
+   "sub": "AM5 X870",
+   "name": "ASUS ROG CROSSHAIR X870E GLACIAL Gaming-Mainboard E-ATX Sockel AM5 AMD X870E DDR5 Wi-Fi 7 Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-rog-crosshair-x870e-glacial-gaming-mainboard-e-atx-sockel-am5-amd-x870e-ddr5-wi-fi-7-weiss-100695295/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1185.72,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-rog-crosshair-x870e-glacial-gaming-mainboard-e-atx-sockel-am5-amd-x870e-ddr5-wi-fi-7-weiss-100695295/"
+    }
+   ],
+   "price": 1185.72,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 1185.72
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 x870 asus rog crosshair x870e glacial gaming mainboard atx sockel am5 amd ddr5 weiss",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-supermicro-x13dai-t-b-server-mainboard-e-atx-intel-c741-dual",
    "cat": "Mainboards",
    "sub": "Mainboards",
@@ -54781,6 +58029,35 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/supermicro-x13dai-t-b-server-mainboard-e-atx-intel-c741-dual-lga-4677-ddr5-bulk-8227119/",
    "stand": "2026-10-30T11:13",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1206.03,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/supermicro-x13dai-t-b-server-mainboard-e-atx-intel-c741-dual-lga-4677-ddr5-bulk-8227119/"
+    }
+   ],
+   "price": 1206.03,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 1206.03
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards supermicro x13dai server mainboard atx intel c741 dual lga 4677 ddr5 bulk",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-supermicro-x13dai-t-b-server-mainboard-e-atx-intel-c741-dual-47c5t",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "Supermicro X13DAI-T-B Server-Mainboard E-ATX Intel C741 Dual LGA 4677 DDR5 Bulk",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/supermicro-x13dai-t-b-server-mainboard-e-atx-intel-c741-dual-lga-4677-ddr5-bulk-8227119/",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -54861,6 +58138,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-supermicro-x13dai-t-mainboard-e-atx-dual-sockel-lga4677-inte-3en9t",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "Supermicro X13DAI-T Mainboard E-ATX Dual Sockel LGA4677 Intel C741 DDR5",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/supermicro-x13dai-t-mainboard-e-atx-dual-sockel-lga4677-intel-c741-ddr5-8220934/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1216.31,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/supermicro-x13dai-t-mainboard-e-atx-dual-sockel-lga4677-intel-c741-ddr5-8220934/"
+    }
+   ],
+   "price": 1216.31,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 1216.31
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards supermicro x13dai mainboard atx dual sockel lga4677 intel c741 ddr5",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-patriot-viper-gaming-xtreme-5-ddr5-7600-ram-cl-36-intel-xmp-",
    "cat": "Arbeitsspeicher",
    "sub": "DDR5 48 GB",
@@ -54919,6 +58225,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asrock-rack-turin2d16-2t-server-mainboard-ssi-eeb-sp5-ddr5-2-b0do0",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "ASRock Rack TURIN2D16-2T Server-Mainboard SSI EEB SP5 DDR5 2x 10GbE",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asrock-rack-turin2d16-2t-server-mainboard-ssi-eeb-sp5-ddr5-2x-10gbe-100555451/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1236.66,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asrock-rack-turin2d16-2t-server-mainboard-ssi-eeb-sp5-ddr5-2x-10gbe-100555451/"
+    }
+   ],
+   "price": 1236.66,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 1236.66
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards asrock rack turin2d16 server mainboard ssi eeb sp5 ddr5 10gbe",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-samsung-870-evo-2-5-zoll-ssd-sata-6g-4-tb",
    "cat": "SSDs",
    "sub": "SATA 4 TB",
@@ -54955,6 +58290,35 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/msi-meg-x870e-godlike-mainboard-e-atx-sockel-am5-ddr5-wi-fi-7-10g-lan-schwarz-100532698/",
    "stand": "2026-10-30T11:13",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1244.29,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/msi-meg-x870e-godlike-mainboard-e-atx-sockel-am5-ddr5-wi-fi-7-10g-lan-schwarz-100532698/"
+    }
+   ],
+   "price": 1244.29,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 1244.29
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 x870 msi meg x870e godlike mainboard atx sockel am5 ddr5 10g lan schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-msi-meg-x870e-godlike-mainboard-e-atx-sockel-am5-ddr5-wi-fi--qbxfn",
+   "cat": "Mainboards",
+   "sub": "AM5 X870",
+   "name": "MSI MEG X870E GODLIKE Mainboard E-ATX Sockel AM5 DDR5 Wi-Fi 7 10G LAN Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/msi-meg-x870e-godlike-mainboard-e-atx-sockel-am5-ddr5-wi-fi-7-10g-lan-schwarz-100532698/",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -55905,6 +59269,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asus-rog-maximus-z890-extreme-mainboard-e-atx-lga1851-ddr5-w-adnex",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1851 Z890",
+   "name": "ASUS ROG MAXIMUS Z890 EXTREME Mainboard E-ATX LGA1851 DDR5 Wi-Fi 7 10GbE Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-rog-maximus-z890-extreme-mainboard-e-atx-lga1851-ddr5-wi-fi-7-10gbe-schwarz-100514370/",
+   "stand": "2026-10-30T15:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1465,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-rog-maximus-z890-extreme-mainboard-e-atx-lga1851-ddr5-wi-fi-7-10gbe-schwarz-100514370/"
+    }
+   ],
+   "price": 1465,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 1465
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1851 z890 asus rog maximus z890 extreme mainboard atx lga1851 ddr5 10gbe schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-captiva-entry-gaming-r10-2373-amd-ryzen-7-8700f-amd-radeon-r",
    "cat": "Grafikkarten",
    "sub": "Radeon RX 9060 XT",
@@ -56209,7 +59602,7 @@
    "name": "Kingston FURY DIMM 64 GB DDR5-5600 (2x 32 GB) Dual-Kit, Arbeitsspeicher",
    "source": "crawler",
    "url": "https://www.alternate.de/Kingston-FURY/DIMM-64-GB-DDR5-5600-2x-32-GB-Dual-Kit-Arbeitsspeicher/html/product/100140702",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-30T15:54",
    "offers": [
     {
      "shop": "ALTERNATE",
