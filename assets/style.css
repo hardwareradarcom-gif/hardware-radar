@@ -483,3 +483,4 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
 .head-nav a{white-space:nowrap}
 @media (max-width:1100px){.head-nav{gap:12px;font-size:13px}}
 @media (max-width:900px){.head-nav a.nav-rf{display:none}}
+.rf-band{font-size:15px;margin:18px 0 10px}.rf-band .n{font-family:var(--font-mono);font-size:12px;color:var(--muted);font-weight:500}

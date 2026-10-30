@@ -364,8 +364,16 @@ function refurbRow(r) {
   const l = L.shopLink(r.url, r.shop, r.name);
   const h = (r.hist || []).filter(x => typeof x.p === "number"), low = h.length > 1 && r.price <= Math.min(...h.map(x => x.p)) && r.price < Math.max(...h.map(x => x.p));
   if (!l) return "";
-  return `<li class="mini rf"><a class="mini-main" href="${esc(l.href)}" target="_blank" rel="${relOf(l)}">${thumb(r)}<span class="mini-t"><span class="mini-n">${esc(r.name)}</span><span class="rf-tags"><span class="rf-badge">Generalüberholt</span>${low ? '<span class="rf-low">Tiefstpreis</span>' : ""}</span></span><span class="mini-p">${eur(r.price)}<small>${r.ship === 0 ? "versandfrei" : "bei " + esc(shopNm(r.shop))}</small></span></a>${btn(l, "ghost mini-go")}</li>`;
+  return `<li class="mini rf"><a class="mini-main" href="${esc(l.href)}" target="_blank" rel="${relOf(l)}">${thumb({ ...r, img: rfImg(r.img) })}<span class="mini-t"><span class="mini-n">${esc(rfName(r.name))}</span><span class="rf-tags"><span class="rf-badge">Generalüberholt</span>${low ? '<span class="rf-low">Tiefstpreis</span>' : ""}</span></span><span class="mini-p">${eur(r.price)}<small>${r.ship === 0 ? "versandfrei" : "bei " + esc(shopNm(r.shop))}</small></span></a>${btn(l, "ghost mini-go")}</li>`;
 }
+const RF_BANDS = [[0, 300, "bis 300 €"], [300, 500, "300 bis 500 €"], [500, 800, "500 bis 800 €"], [800, 1e9, "über 800 €"]];
+function rfBands(l) {
+  if (l.length <= 24) return `<ul class="minis rf-list">${l.map(refurbRow).join("")}</ul>`;
+  return RF_BANDS.map(([a, b, t]) => { const x = l.filter(r => r.price >= a && r.price < b); if (!x.length) return "";
+    return `<h3 class="rf-band">${t} <span class="n">${x.length}</span></h3><ul class="minis rf-list">${x.slice(0, 18).map(refurbRow).join("")}</ul>${x.length > 18 ? `<p class="rf-note">Hier die 18 günstigsten, insgesamt ${x.length} Angebote in dieser Preisklasse.</p>` : ""}`; }).join("");
+}
+const rfImg = u => { const x = u && L.safeUrl(u); if (!x) return null; if (x.hostname === "cdn.shopify.com") x.searchParams.set("width", "160"); return x.toString(); };
+const rfName = n => String(n).replace(/,?\s*(ESET|Norton|Kaspersky|McAfee)\b[^,]*$/i, "").trim();
 function refurbPage() {
   const rel = "generalueberholt/index.html", B = "../";
   const list = (refurbData.products || []).filter(r => r && r.name && typeof r.price === "number" && r.price > 0 && L.safeUrl(r.url) && RF_CATS.some(c => c[0] === r.cat));
@@ -374,7 +382,7 @@ function refurbPage() {
   const body = `<div class="wrap pp"><section class="pp-head cat-head"><div class="pp-title"><span class="p-sub">${list.length ? list.length + " Angebote" : "Neuer Bereich"} · gebraucht und geprüft</span><h1>Generalüberholte Monitore, PCs und Laptops</h1>
   <p class="pp-lede">Generalüberholt (englisch „refurbished“) heißt: Das Gerät war schon in Benutzung, meist als Leasing-Rückläufer in Firmen, und wurde vom Händler geprüft, gereinigt und neu aufgesetzt. Du sparst gegenüber Neuware oft die Hälfte. Diese Angebote stehen bewusst getrennt vom Preisvergleich, damit gebrauchte Ware nie mit neuer verwechselt wird.${from ? ` Günstigstes Angebot gerade: <b>${eur(from)}</b>.` : ""}</p></div></section>
   ${groups.length ? `<div class="guide-chips">${groups.map(([c, l]) => `<a class="chip" href="#${catSlug(c[0])}">${esc(c[1])} (${l.length})</a>`).join("")}</div>` : ""}
-  ${groups.length ? groups.map(([c, l]) => `<section class="pp-card wide" id="${catSlug(c[0])}"><h2>${esc(c[1])} <span class="n">${l.length}</span></h2><p class="rf-note">${esc(c[2])}</p><ul class="minis rf-list">${l.slice(0, 60).map(refurbRow).join("")}</ul>${l.length > 60 ? `<p class="rf-note">Und ${l.length - 60} weitere im Shop.</p>` : ""}</section>`).join("")
+  ${groups.length ? groups.map(([c, l]) => `<section class="pp-card wide" id="${catSlug(c[0])}"><h2>${esc(c[1])} <span class="n">${l.length}</span></h2><p class="rf-note">${esc(c[2])}</p>${rfBands(l)}</section>`).join("")
     : `<section class="pp-card wide"><p>Die ersten Angebote werden gerade eingelesen und erscheinen nach der nächsten Preisprüfung hier.</p></section>`}
   <section class="pp-card wide g-text"><h2>Lohnt sich generalüberholte Hardware?</h2>
   <p><b>Ja, für Monitore, Büro-PCs und Laptops oft sehr.</b> Business-Geräte von Dell, HP und Lenovo sind auf lange Laufzeit gebaut und nach drei bis vier Jahren Leasing selten verbraucht. Ein gebrauchter 24-Zoll-Monitor oder ein ThinkPad kostet oft nur einen Bruchteil des Neupreises.</p>
@@ -390,7 +398,7 @@ function refurbPage() {
   write(rel, page({ rel, noindex: !list.length, title: `Generalüberholt: gebrauchte Monitore, PCs und Laptops${from ? " ab " + eur0(from) : ""} | Hardware-Radar`,
     desc: "Generalüberholte (refurbished) Monitore, Business-PCs, Workstations und Laptops mit aktuellen Preisen. Geprüfte Gebrauchtware, getrennt von Neuware, mit Tipps zum Kauf.",
     body, crumbs: [["Startseite", ""], ["Generalüberholt", "generalueberholt/"]],
-    jsonld: list.length ? [{ "@context": "https://schema.org", "@type": "ItemList", name: "Generalüberholte Hardware", numberOfItems: list.length, itemListElement: list.slice(0, 30).map((r, i) => ({ "@type": "ListItem", position: i + 1, item: { "@type": "Product", name: r.name, ...(r.brand ? { brand: { "@type": "Brand", name: r.brand } } : {}), offers: { "@type": "Offer", price: r.price.toFixed(2), priceCurrency: "EUR", itemCondition: "https://schema.org/RefurbishedCondition", url: r.url } } })) }] : null }));
+    jsonld: list.length ? [{ "@context": "https://schema.org", "@type": "ItemList", name: "Generalüberholte Hardware", numberOfItems: list.length, itemListElement: list.slice(0, 30).map((r, i) => ({ "@type": "ListItem", position: i + 1, item: { "@type": "Product", name: rfName(r.name), ...(r.brand ? { brand: { "@type": "Brand", name: r.brand } } : {}), offers: { "@type": "Offer", price: r.price.toFixed(2), priceCurrency: "EUR", itemCondition: "https://schema.org/RefurbishedCondition", url: r.url } } })) }] : null }));
   return list.length ? "generalueberholt/" : null;
 }
 
