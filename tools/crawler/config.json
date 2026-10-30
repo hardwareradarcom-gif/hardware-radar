@@ -49,7 +49,8 @@
     "https://www.bora-computer.de",
     "https://www.voelkner.de",
     "https://www.digitalo.de",
-    "https://www.coolblue.de"
+    "https://www.coolblue.de",
+    "https://it-versand.com"
   ],
   "blockedDomains": [
     "amazon.com",
@@ -708,7 +709,9 @@
     "digitalo.de": "https://www.digitalo.de/search/search.html?keywords={q}",
     "coolblue.de": "https://www.coolblue.de/suche?query={q}"
   },
-  "imageDomains": [],
+  "imageDomains": [
+    "it-versand.com"
+  ],
   "_imageInfo": "Produktbilder werden nur von Shops in imageDomains übernommen. Trage hier nur Shops ein, deren Bilder du nutzen darfst, z. B. weil du bei ihnen Affiliate-Partner bist und das Partnerprogramm die Nutzung der Produktbilder erlaubt.",
   "refresh": {
     "_info": "Schnell-Prüfung zwischen den großen Läufen: nur bekannte Produktseiten, höchstens so viele pro Shop.",
@@ -772,6 +775,99 @@
       "https://www.caseking.de/search?search=oled+monitor",
       "https://www.caseking.de/search?search=4k+monitor",
       "https://www.caseking.de/search?search=midi+tower+geh%C3%A4use"
+    ],
+    "it-versand.com": [
+      "https://it-versand.com/collections/monitor-refurbished",
+      "https://it-versand.com/collections/computer-pc-refurbished",
+      "https://it-versand.com/collections/gebrauchte-premium-computer-pcs",
+      "https://it-versand.com/collections/workstations",
+      "https://it-versand.com/collections/laptop-notebook-refurbished",
+      "https://it-versand.com/collections/gebrauchte-premium-notebooks",
+      "https://it-versand.com/collections/sale"
+    ]
+  },
+  "refurb": {
+    "_info": "Generalüberholte Ware: eigener Bereich auf der Website (data/refurb.json), wird nie mit Neuware im Preisvergleich gemischt.",
+    "domains": [
+      "it-versand.com"
+    ],
+    "exclude": [
+      "iphone",
+      "ipad",
+      "tablet",
+      "smartphone",
+      "handy",
+      "toner",
+      "drucker",
+      "garantieverlangerung",
+      "garantie",
+      "ersatzteil",
+      "dockingstation",
+      "docking"
+    ],
+    "categories": [
+      {
+        "cat": "Monitore",
+        "any": [
+          "monitor",
+          "bildschirm",
+          "display"
+        ],
+        "not": [
+          "tiny-in-one",
+          "all-in-one",
+          "aio",
+          "notebook",
+          "laptop"
+        ]
+      },
+      {
+        "cat": "Laptops",
+        "any": [
+          "notebook",
+          "laptop",
+          "thinkpad",
+          "latitude",
+          "elitebook",
+          "probook",
+          "macbook",
+          "zbook",
+          "precision"
+        ],
+        "not": []
+      },
+      {
+        "cat": "PCs & Workstations",
+        "any": [
+          "computer",
+          "pc",
+          "workstation",
+          "desktop",
+          "tiny",
+          "sff",
+          "thinkcentre",
+          "optiplex",
+          "elitedesk",
+          "prodesk",
+          "mini-pc",
+          "tower"
+        ],
+        "not": []
+      }
+    ],
+    "accessory": [
+      "tasche",
+      "maus",
+      "tastatur",
+      "headset",
+      "kabel",
+      "adapter",
+      "netzteil",
+      "akku",
+      "ladegerat",
+      "festplatte",
+      "halterung",
+      "standfuss"
     ]
   }
 }

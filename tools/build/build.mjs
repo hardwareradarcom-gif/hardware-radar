@@ -26,6 +26,7 @@ const CFG = sandbox.window.HR_CONFIG || {};
 const L = require(path.join(ROOT, "assets/links.js"))(CFG);
 const catalog = JSON.parse(read("data/catalog.json"));
 const dealsData = JSON.parse(read("data/deals.json"));
+let refurbData = { products: [] }; try { refurbData = JSON.parse(read("data/refurb.json")); } catch (e) { /* noch keine Daten */ }
 const CATS = ["Grafikkarten", "Prozessoren", "Arbeitsspeicher", "SSDs", "Mainboards", "Monitore", "Netzteile", "Gehäuse", "Kühlung"];
 const products = (catalog.products || []).filter(p => p && p.id && /^[a-z0-9-]+$/.test(p.id) && p.name && typeof p.price === "number" && CATS.includes(p.cat));
 const byId = new Map(products.map(p => [p.id, p]));
@@ -56,6 +57,8 @@ const ICON = {
   "Monitore": '<rect x="2" y="4" width="20" height="13" rx="1.5"/><path d="M12 17v3M8 20h8"/>',
   "Netzteile": '<rect x="2" y="5" width="20" height="14" rx="1.5"/><circle cx="9" cy="12" r="4"/><path d="M9 8v8M5 12h8M16 9h3M16 12h3M16 15h3"/>',
   "Gehäuse": '<rect x="6" y="2" width="12" height="20" rx="1.5"/><circle cx="12" cy="7" r="2"/><circle cx="12" cy="13" r="2"/><path d="M9 18h6"/>',
+  "Laptops": '<rect x="4" y="5" width="16" height="11" rx="1.5"/><path d="M2 19h20"/>',
+  "PCs & Workstations": '<rect x="3" y="4" width="11" height="16" rx="1.5"/><path d="M6 8h5M6 11h5"/><rect x="16" y="9" width="6" height="7" rx="1"/>',
   "Kühlung": '<circle cx="12" cy="12" r="9"/><circle cx="12" cy="12" r="1.5"/><path d="M12 10.5C11 7 12.5 4.5 15 4.5M13.5 12c3.5-1 6 .5 6 3M12 13.5c1 3.5-.5 6-3 6M10.5 12c-3.5 1-6-.5-6-3"/>'
 };
 function thumb(p, big) {
@@ -120,6 +123,7 @@ ${CFG.adsenseClient ? `<script async src="https://pagead2.googlesyndication.com/
     <a href="${B}#preisvergleich">Preisvergleich</a>
     <a href="${B}ratgeber/">Kaufberatung</a>
     <a href="${B}konfigurator.html">PC-Konfigurator</a>
+    <a class="nav-rf" href="${B}generalueberholt/">Generalüberholt</a>
   </nav>
 </div></header>
 <main id="main">
@@ -135,6 +139,7 @@ ${body}
     <a href="${B}./">Startseite</a>
     <a href="${B}ratgeber/">Kaufberatung</a>
     <a href="${B}konfigurator.html">PC-Konfigurator</a>
+    <a href="${B}generalueberholt/">Generalüberholt</a>
     <a href="${B}impressum.html">Impressum</a>
     <a href="${B}datenschutz.html">Datenschutz</a>
   </div>
@@ -351,14 +356,53 @@ function pcPage(core, [budget, use, useTxt]) {
   return rel;
 }
 
+/* ---------- Generalüberholt (eigener Bereich, nie mit Neuware gemischt) ---------- */
+const RF_CATS = [["Monitore", "Gebrauchte Monitore", "Büro- und Zweitmonitore, oft mit höhenverstellbarem Fuß. Für Gaming auf die Bildwiederholrate achten: die meisten Geräte haben 60 Hz."],
+  ["PCs & Workstations", "PCs und Workstations", "Leise Business-PCs und starke Workstations aus Leasing-Rückläufern. Als Gaming-PC taugen sie meist erst mit eigener Grafikkarte, dafür passt nicht jedes Netzteil und Gehäuse."],
+  ["Laptops", "Laptops und Notebooks", "Robuste Business-Laptops (ThinkPad, Latitude, EliteBook) für Schule, Studium und Büro. Zum Spielen fehlt meist die Grafikkarte."]];
+function refurbRow(r) {
+  const l = L.shopLink(r.url, r.shop, r.name);
+  const h = (r.hist || []).filter(x => typeof x.p === "number"), low = h.length > 1 && r.price <= Math.min(...h.map(x => x.p)) && r.price < Math.max(...h.map(x => x.p));
+  if (!l) return "";
+  return `<li class="mini rf"><a class="mini-main" href="${esc(l.href)}" target="_blank" rel="${relOf(l)}">${thumb(r)}<span class="mini-t"><span class="mini-n">${esc(r.name)}</span><span class="rf-tags"><span class="rf-badge">Generalüberholt</span>${low ? '<span class="rf-low">Tiefstpreis</span>' : ""}</span></span><span class="mini-p">${eur(r.price)}<small>${r.ship === 0 ? "versandfrei" : "bei " + esc(shopNm(r.shop))}</small></span></a>${btn(l, "ghost mini-go")}</li>`;
+}
+function refurbPage() {
+  const rel = "generalueberholt/index.html", B = "../";
+  const list = (refurbData.products || []).filter(r => r && r.name && typeof r.price === "number" && r.price > 0 && L.safeUrl(r.url) && RF_CATS.some(c => c[0] === r.cat));
+  const groups = RF_CATS.map(c => [c, list.filter(r => r.cat === c[0]).sort((a, b) => a.price - b.price)]).filter(g => g[1].length);
+  const from = list.length ? Math.min(...list.map(r => r.price)) : null;
+  const body = `<div class="wrap pp"><section class="pp-head cat-head"><div class="pp-title"><span class="p-sub">${list.length ? list.length + " Angebote" : "Neuer Bereich"} · gebraucht und geprüft</span><h1>Generalüberholte Monitore, PCs und Laptops</h1>
+  <p class="pp-lede">Generalüberholt (englisch „refurbished“) heißt: Das Gerät war schon in Benutzung, meist als Leasing-Rückläufer in Firmen, und wurde vom Händler geprüft, gereinigt und neu aufgesetzt. Du sparst gegenüber Neuware oft die Hälfte. Diese Angebote stehen bewusst getrennt vom Preisvergleich, damit gebrauchte Ware nie mit neuer verwechselt wird.${from ? ` Günstigstes Angebot gerade: <b>${eur(from)}</b>.` : ""}</p></div></section>
+  ${groups.length ? `<div class="guide-chips">${groups.map(([c, l]) => `<a class="chip" href="#${catSlug(c[0])}">${esc(c[1])} (${l.length})</a>`).join("")}</div>` : ""}
+  ${groups.length ? groups.map(([c, l]) => `<section class="pp-card wide" id="${catSlug(c[0])}"><h2>${esc(c[1])} <span class="n">${l.length}</span></h2><p class="rf-note">${esc(c[2])}</p><ul class="minis rf-list">${l.slice(0, 60).map(refurbRow).join("")}</ul>${l.length > 60 ? `<p class="rf-note">Und ${l.length - 60} weitere im Shop.</p>` : ""}</section>`).join("")
+    : `<section class="pp-card wide"><p>Die ersten Angebote werden gerade eingelesen und erscheinen nach der nächsten Preisprüfung hier.</p></section>`}
+  <section class="pp-card wide g-text"><h2>Lohnt sich generalüberholte Hardware?</h2>
+  <p><b>Ja, für Monitore, Büro-PCs und Laptops oft sehr.</b> Business-Geräte von Dell, HP und Lenovo sind auf lange Laufzeit gebaut und nach drei bis vier Jahren Leasing selten verbraucht. Ein gebrauchter 24-Zoll-Monitor oder ein ThinkPad kostet oft nur einen Bruchteil des Neupreises.</p>
+  <p><b>Für Gaming mit Einschränkungen.</b> Fertige Business-PCs haben meist keine starke Grafikkarte und oft ein kleines Netzteil oder ein schmales Gehäuse. Eine Grafikkarte nachzurüsten geht nur, wenn Platz und Stromanschlüsse passen. Für einen echten Gaming-PC ist der <a href="${B}konfigurator.html">PC-Konfigurator</a> mit Neuteilen meist die bessere Wahl. Wer schon einen PC hat, findet im <a href="${B}konfigurator.html#aufruesten">Aufrüst-Modus</a> passende Upgrades.</p>
+  <h3>Darauf solltest du achten</h3>
+  <ul><li><b>Gewährleistung:</b> Auch bei gebrauchter Ware von Händlern gilt in Deutschland mindestens ein Jahr Gewährleistung. Viele Händler geben zusätzlich eigene Garantie.</li>
+  <li><b>Zustand:</b> Lies die Zustandsbeschreibung (z. B. „wie neu“, „leichte Gebrauchsspuren“). Kleine Kratzer am Gehäuse sind normal.</li>
+  <li><b>Akku bei Laptops:</b> Die Akkuleistung lässt mit dem Alter nach. Gute Händler geben die Restkapazität an.</li>
+  <li><b>Monitore:</b> Auf Panel (IPS ist meist besser als TN), Auflösung und Anschlüsse (DisplayPort, HDMI) achten.</li>
+  <li><b>Widerruf:</b> Beim Online-Kauf hast du 14 Tage Widerrufsrecht, auch bei gebrauchter Ware.</li></ul>
+  <p class="rf-note">Preise werden mehrmals täglich direkt beim Händler geprüft. Maßgeblich sind Preis, Zustand und Verfügbarkeit im Shop.</p></section>
+</div>`;
+  write(rel, page({ rel, noindex: !list.length, title: `Generalüberholt: gebrauchte Monitore, PCs und Laptops${from ? " ab " + eur0(from) : ""} | Hardware-Radar`,
+    desc: "Generalüberholte (refurbished) Monitore, Business-PCs, Workstations und Laptops mit aktuellen Preisen. Geprüfte Gebrauchtware, getrennt von Neuware, mit Tipps zum Kauf.",
+    body, crumbs: [["Startseite", ""], ["Generalüberholt", "generalueberholt/"]],
+    jsonld: list.length ? [{ "@context": "https://schema.org", "@type": "ItemList", name: "Generalüberholte Hardware", numberOfItems: list.length, itemListElement: list.slice(0, 30).map((r, i) => ({ "@type": "ListItem", position: i + 1, item: { "@type": "Product", name: r.name, ...(r.brand ? { brand: { "@type": "Brand", name: r.brand } } : {}), offers: { "@type": "Offer", price: r.price.toFixed(2), priceCurrency: "EUR", itemCondition: "https://schema.org/RefurbishedCondition", url: r.url } } })) }] : null }));
+  return list.length ? "generalueberholt/" : null;
+}
+
 /* ---------- Ablauf ---------- */
 fs.mkdirSync(OUT, { recursive: true });
-for (const d of ["p", "k", "ratgeber"]) fs.rmSync(path.join(OUT, d), { recursive: true, force: true });
+for (const d of ["p", "k", "ratgeber", "generalueberholt"]) fs.rmSync(path.join(OUT, d), { recursive: true, force: true });
 const urls = [["", "daily", "1.0"], ["konfigurator.html", "daily", "0.8"]];
 urls.push([guideIndex(), "daily", "0.8"]);
 for (const g of GUIDES) urls.push([guidePage(g), "daily", "0.8"]);
 fs.rmSync(path.join(OUT, "pc"), { recursive: true, force: true });
 { const getCore = loadCfgCore(); await new Promise(r => setTimeout(r, 30)); const core = getCore(); if (core && core.ready()) for (const pc of PCS) urls.push([pcPage(core, pc), "daily", "0.8"]); else console.warn("PC-Vorschläge übersprungen: Rechenkern nicht bereit"); }
+{ const r = refurbPage(); if (r) urls.push([r, "daily", "0.7"]); }
 for (const c of CATS) { const r = catPage(c); if (r) urls.push([r, "daily", "0.7"]); }
 for (const p of products) urls.push([productPage(p), "daily", "0.5"]);
 urls.push(["impressum.html", "yearly", "0.1"], ["datenschutz.html", "yearly", "0.1"]);
@@ -373,7 +417,7 @@ fs.writeFileSync(path.join(OUT, "404.html"), page({ rel: "404.html", base: "/", 
 // Startseite: Kaufberatungen als Links einfügen (gut für Besucher und Suchmaschinen)
 const home = path.join(OUT, "index.html");
 if (fs.existsSync(home)) {
-  const sec = `<section class="home-guides"><div class="wrap"><h2>Kaufberatung</h2><p class="pp-lede">Kurze Ratgeber mit den aktuell besten Angeboten, bei jeder Preisprüfung neu berechnet.</p><ul class="g-list">${GUIDES.map(g => `<li><a href="ratgeber/${g.slug}.html"><span class="p-sub">${esc(g.cat || "PC")}</span><b>${esc(g.title)}</b><span>${esc(g.teaser)}</span></a></li>`).join("")}</ul><h3 class="home-h3">Fertige Gaming-PCs</h3><div class="g-budgets">${PCS.map(p => `<a class="g-budget" href="${pcSlug(p[0])}"><b>${eur0(p[0])}</b><span>${esc(p[2])}</span></a>`).join("")}</div><div class="guide-chips">${CATS.filter(c => products.some(p => p.cat === c)).map(c => `<a class="chip" href="k/${catSlug(c)}.html">${esc(c)} im Preisvergleich</a>`).join("")}</div></div></section>`;
+  const sec = `<section class="home-guides"><div class="wrap"><h2>Kaufberatung</h2><p class="pp-lede">Kurze Ratgeber mit den aktuell besten Angeboten, bei jeder Preisprüfung neu berechnet.</p><ul class="g-list">${GUIDES.map(g => `<li><a href="ratgeber/${g.slug}.html"><span class="p-sub">${esc(g.cat || "PC")}</span><b>${esc(g.title)}</b><span>${esc(g.teaser)}</span></a></li>`).join("")}</ul><h3 class="home-h3">Fertige Gaming-PCs</h3><div class="g-budgets">${PCS.map(p => `<a class="g-budget" href="${pcSlug(p[0])}"><b>${eur0(p[0])}</b><span>${esc(p[2])}</span></a>`).join("")}</div><div class="guide-chips">${CATS.filter(c => products.some(p => p.cat === c)).map(c => `<a class="chip" href="k/${catSlug(c)}.html">${esc(c)} im Preisvergleich</a>`).join("")}<a class="chip" href="generalueberholt/">Generalüberholt: gebrauchte Monitore, PCs, Laptops</a></div></div></section>`;
   fs.writeFileSync(home, fs.readFileSync(home, "utf8").replace("<!--HR:GUIDES-->", sec));
 }
 console.log(`Seiten erzeugt: ${products.length} Produkte, ${GUIDES.length} Kaufberatungen, ${urls.length} Einträge in der Sitemap → ${OUT}`);

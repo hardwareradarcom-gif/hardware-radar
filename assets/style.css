@@ -471,3 +471,15 @@ body::before{content:"";position:fixed;inset:0 0 auto;height:env(safe-area-inset
 
 .cmp-all{margin-left:auto;font-family:var(--font-body);font-size:13px;font-weight:700;color:var(--signal);text-decoration:none}
 .cmp-group h3{display:flex;align-items:baseline;gap:8px}
+
+/* Generalüberholt */
+.rf-badge{display:inline-block;font-size:10.5px;font-weight:700;letter-spacing:.04em;text-transform:uppercase;padding:2px 7px;border-radius:999px;background:var(--bg-2);border:1px solid var(--line-strong);color:var(--ink)}
+.rf-low{display:inline-block;font-size:10.5px;font-weight:700;padding:2px 7px;border-radius:999px;background:var(--down-soft);color:var(--down)}
+.rf-note{color:var(--muted);font-size:13.5px;margin:4px 0 12px}
+.minis.rf-list{grid-template-columns:repeat(auto-fill,minmax(480px,1fr))}
+.rf-tags{display:flex;gap:6px;flex-wrap:wrap;margin-top:5px}
+@media (max-width:560px){.minis.rf-list{grid-template-columns:1fr}}
+.g-text ul{padding-left:20px}.g-text li{margin:6px 0}
+.head-nav a{white-space:nowrap}
+@media (max-width:1100px){.head-nav{gap:12px;font-size:13px}}
+@media (max-width:900px){.head-nav a.nav-rf{display:none}}

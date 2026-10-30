@@ -50,7 +50,7 @@ jobs:
         run: |
           git config user.name "hardware-radar-bot"
           git config user.email "hardwareradar.com@gmail.com"
-          git add data/catalog.json data/deals.json tools/crawler/state.json
+          git add data tools/crawler/state.json
           if git diff --cached --quiet; then
             echo "Keine Änderungen."
           else

@@ -47,7 +47,8 @@ function loadJSON(f, fallback) { try { return JSON.parse(fs.readFileSync(f, "utf
 const state = loadJSON(STATE_FILE, {});
 state.domains ??= {};      // domain -> { status: active|candidate|rejected, origin, sitemaps, fails, products, lastCrawl, name }
 state.urls ??= {};         // url -> { last, key, kind }
-state.products ??= {};     // key -> { name, cat, sub, gtin, mpn, brand, offers: {domain: {...}}, hist: [{d,p}] }
+state.products ??= {};
+state.refurb ??= {};      // generalüberholte Angebote (eigener Bereich, nie im Neuware-Preisvergleich)     // key -> { name, cat, sub, gtin, mpn, brand, offers: {domain: {...}}, hist: [{d,p}] }
 state.discovered ??= {};   // domain -> { origin, firstSeen, seenOn }
 state.runs ??= [];
 state.learned ??= {};      // Kategorie -> gelernte Suchbegriffe aus gefundenen Produktnamen
@@ -350,8 +351,36 @@ function productKey(p) {
 }
 // Shop-Zusätze wie " | 4604916" (Artikelnummern) aus Produktnamen entfernen
 function tidyName(n) { return String(n || "").replace(/\s*\|\s*\d{3,}.*$/, "").replace(/\s*\|\s*$/, "").replace(/\s{2,}/g, " ").trim(); }
+/* ---------- Generalüberholt (config.json -> refurb) ---------- */
+const RF = CFG.refurb || { domains: [] };
+const isRefurb = dom => hostMatches(dom, RF.domains || []);
+function classifyRefurb(name) {
+  const n = norm(name);
+  if ((RF.exclude || []).some(w => hasWord(n, w))) return null;
+  // Zubehör (Netzteil, Maus, Tasche …) nur aussortieren, wenn keine Geräte-Daten im Namen stehen
+  const spec = /\d+\s?(gb|tb)\b|\bi[3579]\b|ryzen|core|xeon|zoll|\d\d([.,]\d)?"|\d+\s?hz\b|\b(fhd|wqhd|uhd|qhd)\b|\d{3,4}\s?x\s?\d{3,4}/.test(n);
+  if (!spec && (RF.accessory || []).some(w => hasWord(n, w))) return null;
+  for (const c of RF.categories || []) if (c.any.some(w => hasWord(n, w)) && !(c.not || []).some(w => hasWord(n, w))) return c.cat;
+  return null;
+}
+function recordRefurb(dom, pageUrl, p) {
+  const cat = classifyRefurb(p.name); if (!cat) return false;
+  const key = "r:" + productKey(p);
+  const rec = state.refurb[key] ??= { name: p.name, cat, brand: p.brand, hist: [], firstSeen: TODAY };
+  rec.name = p.name; rec.cat = cat;
+  if (p.img && hostMatches(dom, CFG.imageDomains || [])) { const iu = safeUrl(typeof p.img === "string" ? p.img : "", pageUrl); if (iu && iu.protocol === "https:") rec.img = iu.toString(); }
+  const shopName = state.domains[dom]?.name || p.siteName || dom;
+  if (!rec.offer) newOffersThisRun++;
+  rec.offer = { shop: shopName, price: round(p.offer.price), ship: p.offer.ship == null ? null : round(p.offer.ship), avail: availText(p.offer.avail), url: cleanUrl(new URL(p.offer.url || pageUrl, pageUrl)), seen: NOW.toISOString() };
+  const h = rec.hist[rec.hist.length - 1];
+  if (h && h.d === TODAY) h.p = Math.min(h.p, rec.offer.price); else rec.hist.push({ d: TODAY, p: rec.offer.price });
+  if (rec.hist.length > 120) rec.hist = rec.hist.slice(-120);
+  state.urls[pageUrl] = { last: NOW.toISOString(), key, kind: "product", d: dom };
+  return true;
+}
 function record(dom, pageUrl, p) {
   p.name = tidyName(p.name);
+  if (isRefurb(dom)) return recordRefurb(dom, pageUrl, p);
   const cat = classify(p.name, p.offer.price); if (!cat) return false;
   if (p.offer.price < (CFG.deals.minPrice || 0)) return false;
   const key = productKey(p);
@@ -541,6 +570,7 @@ async function crawlDomain(dom) {
       const own = [...new Set(links.filter(l => domainOf(l) === dom).map(cleanUrl))];
       let picked;
       if (prevKind === "search" && want) picked = own.filter(l => similarity(want, pathWords(new URL(l))) >= 0.6).slice(0, 3);
+      else if (isRefurb(dom)) picked = own.filter(l => /\/products\/[^/]+$/.test(new URL(l).pathname) && !/^\/(da|no|pt|nl|sv|it|fr|es|en)\//.test(new URL(l).pathname)).slice(0, 400);
       else picked = own.filter(l => urlLooksRelevant(new URL(l))).slice(0, 400);
       for (const l of picked) if (!state.urls[l]) { state.urls[l] = { last: null, key: null, kind: "candidate", d: dom, from: prevKind === "search" ? "search" : "listing" }; newFound++; }
       const isListing = prevKind === "search" || picked.length >= 8;
@@ -554,6 +584,7 @@ async function crawlDomain(dom) {
   }
   D.lastCrawl = NOW.toISOString();
   D.products = Object.values(state.products).filter(p => p.offers[dom] && fresh(p.offers[dom])).length;
+  if (isRefurb(dom)) D.products = Object.values(state.refurb).filter(r => r.offer && fresh(r.offer) && hostMatches(domainOf(new URL(r.offer.url)), [dom])).length;
   if (hits === 0 && tried > 0) D.fails = (D.fails || 0) + 1; else if (hits > 0) D.fails = 0;
   if (D.status === "candidate") D.status = hits > 0 ? "active" : (D.fails >= 2 ? "rejected" : "candidate");
   if (D.status === "active" && !D.seed && D.fails >= 4) D.status = "rejected";
@@ -650,7 +681,12 @@ function buildOutputs() {
   const keep = (deals.deals || []).filter(d => d.source !== "crawler");
   deals.deals = keep.concat(newDeals.slice(0, Math.max(0, L.maxDeals - keep.length)).map(({ score, ...d }) => d));
   deals.updated = NOW.toISOString();
-  return { catalog, deals, catalogFile, dealsFile, crawled: out.length, found: newDeals.length };
+  // Generalüberholt: eigene Datei, nur frische Angebote
+  for (const [k, r] of Object.entries(state.refurb)) if (!r.offer || (NOW - new Date(r.offer.seen)) / 864e5 > 14) delete state.refurb[k];
+  const refurb = { updated: NOW.toISOString(), products: Object.entries(state.refurb).filter(([, r]) => r.offer && fresh(r.offer) && r.offer.avail !== "Nicht lieferbar")
+    .map(([k, r]) => ({ id: "r-" + slug(r.name).slice(0, 70), cat: r.cat, name: r.name, brand: r.brand || "", price: r.offer.price, ship: r.offer.ship, shop: r.offer.shop, url: r.offer.url, avail: r.offer.avail, img: r.img || null, hist: r.hist.slice(-60), firstSeen: r.firstSeen }))
+    .sort((a, b) => a.price - b.price) };
+  return { catalog, deals, refurb, catalogFile, dealsFile, refurbFile: path.join(DATA_DIR, "refurb.json"), crawled: out.length, found: newDeals.length };
 }
 
 /* ---------------- Ablauf ---------------- */
@@ -704,10 +740,10 @@ async function main() {
     if (DRY) return;
     fs.writeFileSync(STATE_FILE, JSON.stringify(state));
     fs.writeFileSync(res.catalogFile, JSON.stringify(res.catalog, null, 1));
-    fs.writeFileSync(res.dealsFile, JSON.stringify(res.deals, null, 1));
+    fs.writeFileSync(res.dealsFile, JSON.stringify(res.deals, null, 1)); fs.writeFileSync(res.refurbFile, JSON.stringify(res.refurb, null, 1));
     return;
   }
-  if (args.rebuild) { const res = buildOutputs(); if (!DRY) { fs.writeFileSync(STATE_FILE, JSON.stringify(state)); fs.writeFileSync(res.catalogFile, JSON.stringify(res.catalog, null, 1)); fs.writeFileSync(res.dealsFile, JSON.stringify(res.deals, null, 1)); } log("Nur neu aufgebaut:", res.crawled, "Crawler-Produkte"); return; }
+  if (args.rebuild) { const res = buildOutputs(); if (!DRY) { fs.writeFileSync(STATE_FILE, JSON.stringify(state)); fs.writeFileSync(res.catalogFile, JSON.stringify(res.catalog, null, 1)); fs.writeFileSync(res.dealsFile, JSON.stringify(res.deals, null, 1)); fs.writeFileSync(res.refurbFile, JSON.stringify(res.refurb, null, 1)); } log("Nur neu aufgebaut:", res.crawled, "Crawler-Produkte"); return; }
   log(`Start: ${Object.keys(state.domains).length} bekannte Shops, ${Object.keys(state.products).length} Produkte im Gedächtnis`);
   const active = Object.entries(state.domains).filter(([d, v]) => (v.status === "active" || v.status === "candidate") && !isBlocked(d))
     .sort((a, b) => (a[1].lastCrawl ? Date.parse(a[1].lastCrawl) : 0) - (b[1].lastCrawl ? Date.parse(b[1].lastCrawl) : 0)).map(([d]) => d);
@@ -737,6 +773,6 @@ async function main() {
   fs.mkdirSync(path.dirname(STATE_FILE), { recursive: true });
   fs.writeFileSync(STATE_FILE, JSON.stringify(state));
   fs.writeFileSync(res.catalogFile, JSON.stringify(res.catalog, null, 1));
-  fs.writeFileSync(res.dealsFile, JSON.stringify(res.deals, null, 1));
+  fs.writeFileSync(res.dealsFile, JSON.stringify(res.deals, null, 1)); fs.writeFileSync(res.refurbFile, JSON.stringify(res.refurb, null, 1));
 }
 main().catch(e => { console.error(e); process.exit(1); });
