@@ -145,3 +145,4 @@
 .ug-notes,.ug-tips ul{margin:10px 0 0;padding-left:20px;font-size:13.5px;color:var(--muted);line-height:1.55}
 .ug-tips ul{color:var(--ink);font-size:14px}.ug-tips li{margin-bottom:8px}.ug-tips b{color:var(--ink)}
 @media (max-width:560px){.ug-parts li{grid-template-columns:minmax(0,1fr) auto;grid-template-areas:"role price" "name name" "why why" "go go"}.ug-parts .btn{justify-self:stretch;margin-top:6px}.ug-ana dl div{grid-template-columns:1fr}.ug-two{grid-template-columns:1fr 1fr}}
+@media (max-width:420px){.seg.seg-wrap span{font-size:12.5px;padding:9px 3px;white-space:nowrap}}

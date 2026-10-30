@@ -308,7 +308,7 @@
     if (/stream|arbeit|render|video|schnitt|blender|programmier|homeoffice|office/.test(t)) { o.use = "work"; changed = true; }
     if (/nvidia|geforce|\brtx\b/.test(t)) { o.gpu = "nvidia"; changed = true; }
     else if (/radeon|amd grafik|\brx\b/.test(t)) { o.gpu = "amd"; changed = true; }
-    else if (/grafik(karte)? egal|egal welche/.test(t)) { o.gpu = "any"; changed = true; }
+    else if (/grafik(karte)? egal|egal welche|stärkste fürs geld|starkste furs geld|beste fürs geld|marke egal|beste leistung/.test(t)) { o.gpu = "any"; changed = true; }
     if (/ohne (wlan|wifi)|kein (wlan|wifi)|lan reicht/.test(t)) { o.wifi = false; changed = true; } else if (/wlan|wifi/.test(t)) { o.wifi = true; changed = true; }
     if (/ohne monitor|kein monitor/.test(t)) { o.monitor = false; changed = true; } else if (/monitor|bildschirm/.test(t)) { o.monitor = true; changed = true; }
     if (/starker|mehr leistung|bessere grafik|schneller|mehr fps/.test(t) && !num) { o.budget = Math.round(o.budget * 1.15 / 50) * 50; changed = true; notes.push("Ich habe das Budget um 15 % auf " + eur0(o.budget) + " erhöht."); }
