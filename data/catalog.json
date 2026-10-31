@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T11:40:04.590Z",
+ "updated": "2026-10-31T13:48:35.023Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -1356,7 +1356,7 @@
    "name": "Corsair Vengeance 32 GB Kit DDR5-6000 CL30",
    "url": "https://geizhals.de/2951609",
    "source": "Geizhals",
-   "stand": "2026-10-31T09:43",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "Proshop",
@@ -1509,7 +1509,7 @@
    "name": "Kingston FURY Beast 32 GB Kit DDR4-3200 CL16",
    "url": "https://geizhals.de/2564435",
    "source": "Geizhals",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "MobPicker",
@@ -1654,7 +1654,7 @@
    "name": "WD_BLACK SN850X 2 TB",
    "url": "https://geizhals.de/2770177",
    "source": "Geizhals",
-   "stand": "2026-10-31T11:40",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "Notebooksbilliger",
@@ -1806,7 +1806,7 @@
    "name": "WD_BLACK SN7100 2 TB",
    "url": "https://www.mydealz.de/deals/my-mmsaturn-mwstaktion-wd-black-sn7100-ssd-2-tb-m2-2280-nvme-gen4-7250-mbs-lesen-6900-mbs-schreiben-fur-23529eur-1-tb-13865-2855044",
    "source": "mydealz",
-   "stand": "2026-10-31T11:40",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "MediaMarkt / Saturn",
@@ -7070,7 +7070,7 @@
    "name": "FSP NP5-WA, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/FSP/NP5-WA-CPU-K%C3%BChler/html/product/100143921",
-   "stand": "2026-10-31T07:54",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -9084,7 +9084,7 @@
    "name": "Dynatron Xeon CPU-Kühler R-27",
    "source": "crawler",
    "url": "https://www.alternate.de/Dynatron/Xeon-CPU-K%C3%BChler-R-27/html/product/1180332",
-   "stand": "2026-10-31T07:54",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -9286,7 +9286,7 @@
    "name": "FSP MP7-WA, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/FSP/MP7-WA-CPU-K%C3%BChler/html/product/100143924",
-   "stand": "2026-10-31T07:54",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -9761,7 +9761,7 @@
    "name": "MSI PRO H610M-G Mainboard micro ATX Intel H610 LGA 1700 DDR5 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/msi-pro-h610m-g-mainboard-micro-atx-intel-h610-lga-1700-ddr5-schwarz-100270968/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -9777,6 +9777,10 @@
     {
      "d": "2026-10-30",
      "p": 57.98
+    },
+    {
+     "d": "2026-10-31",
+     "p": 57.98
     }
    ],
    "count": 1,
@@ -9790,7 +9794,7 @@
    "name": "Patriot P300 NVMe SSD, PCIe 3.0, M.2 Typ 2280 - 256GB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/patriot-p300-nvme-ssd-pcie-3.0-m.2-type-2280-256gb/SSPM-033.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -9805,6 +9809,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 58.48
+    },
+    {
+     "d": "2026-10-31",
      "p": 58.48
     }
    ],
@@ -10298,7 +10306,7 @@
    "name": "Patriot P300 NVMe SSD, PCIe 3.0 M.2 Typ 2280 - 128 GB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/patriot-p300-nvme-ssd-pcie-3.0-m.2-type-2280-128-gb/SSPM-025.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -10313,6 +10321,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 62.63
+    },
+    {
+     "d": "2026-10-31",
      "p": 62.63
     }
    ],
@@ -11137,7 +11149,7 @@
    "name": "Kingston SSDNow A400 Series 2,5 Zoll SSD, SATA 6G - 240 GB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/kingston-ssdnow-a400-series-2.5-inch-ssd-sata-6g-240-gb/SSKT-045.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -11152,6 +11164,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 71.95
+    },
+    {
+     "d": "2026-10-31",
      "p": 71.95
     }
    ],
@@ -12919,7 +12935,7 @@
    "name": "Biostar B650MT Mainboard, AMD B650, Socket AM5, Micro ATX, DDR5",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/biostar-b650mt-mainboard-amd-b650-socket-am5-micro-atx-ddr5-100294107/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -12934,6 +12950,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 85.66
+    },
+    {
+     "d": "2026-10-31",
      "p": 85.66
     }
    ],
@@ -13246,7 +13266,7 @@
    "name": "Gigabyte H810M K Mainboard Micro ATX LGA1851 Intel H810 DDR5",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/gigabyte-h810m-k-mainboard-micro-atx-lga1851-intel-h810-ddr5-100594117/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -13261,6 +13281,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 89.4
+    },
+    {
+     "d": "2026-10-31",
      "p": 89.4
     }
    ],
@@ -13527,7 +13551,7 @@
    "name": "ASRock Phantom Gaming B550M Phantom Gaming 4 Mainboard Micro-ATX Sockel AM4 DDR4 HDMI/DP Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asrock-phantom-gaming-b550m-phantom-gaming-4-mainboard-micro-atx-sockel-am4-ddr4-hdmi-dp-schwarz-6792402/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -13542,6 +13566,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 90.01
+    },
+    {
+     "d": "2026-10-31",
      "p": 90.01
     }
    ],
@@ -13585,7 +13613,7 @@
    "name": "ASUS Prime A620M-E-CSM Mainboard AMD A620 Socket AM5 DDR5 Micro ATX",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-prime-a620m-e-csm-mainboard-amd-a620-socket-am5-ddr5-micro-atx-8851935/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -13600,6 +13628,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 90.63
+    },
+    {
+     "d": "2026-10-31",
      "p": 90.63
     }
    ],
@@ -14193,7 +14225,7 @@
    "name": "Fractal Design Epoch White TG Clear tint PC-Gehäuse, Midi-Tower, ATX, Tempered Glass - weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/fractal-design-epoch-white-tg-clear-tint-pc-gehaeuse-midi-tower-atx-tempered-glass-weiss/GEFD-208.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -14208,6 +14240,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 94.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 94.9
     }
    ],
@@ -14400,7 +14436,7 @@
    "name": "Gigabyte H810M S2H Mainboard LGA1851 Intel H810 Micro ATX DDR5 Dark Brown",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/gigabyte-h810m-s2h-mainboard-lga1851-intel-h810-micro-atx-ddr5-dark-brown-100553842/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -14415,6 +14451,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 96.13
+    },
+    {
+     "d": "2026-10-31",
      "p": 96.13
     }
    ],
@@ -14756,7 +14796,7 @@
    "name": "Lexar NM610 Pro NVMe SSD, PCIe 3.0 M.2 Typ 2280 - 500 GB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/lexar-nm610-pro-nvme-ssd-pcie-3.0-m.2-type-2280-500-gb/SSLX-021.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -14771,6 +14811,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 98.76
+    },
+    {
+     "d": "2026-10-31",
      "p": 98.76
     }
    ],
@@ -15256,7 +15300,7 @@
    "name": "Fractal Design Epoch Black Solid PC-Gehäuse, Midi-Tower, ATX - schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/fractal-design-epoch-black-solid-pc-gehaeuse-midi-tower-atx-schwarz/GEFD-206.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -15271,6 +15315,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 99.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 99.9
     }
    ],
@@ -15914,7 +15962,7 @@
    "name": "ASUS Prime H610M-E D4-CSM Mainboard micro ATX LGA 1700 Intel H610 DDR4 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-prime-h610m-e-d4-csm-mainboard-micro-atx-lga-1700-intel-h610-ddr4-schwarz-7533355/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -15929,6 +15977,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 102.78
+    },
+    {
+     "d": "2026-10-31",
      "p": 102.78
     }
    ],
@@ -16038,7 +16090,7 @@
    "name": "Fractal Design Epoch Black TG Light tint PC-Gehäuse, Midi-Tower, ATX, Tempered Glass - schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/fractal-design-epoch-black-tg-light-tint-pc-gehaeuse-midi-tower-atx-tempered-glass-schwarz/GEFD-207.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -16053,6 +16105,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 103.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 103.9
     }
    ],
@@ -16605,7 +16661,7 @@
    "name": "MSI B550M PRO-VDH Mainboard Socket AM4 AMD B550 DDR4 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/msi-b550m-pro-vdh-mainboard-socket-am4-amd-b550-ddr4-schwarz-6795563/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -16620,6 +16676,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 106.4
+    },
+    {
+     "d": "2026-10-31",
      "p": 106.4
     }
    ],
@@ -16663,7 +16723,7 @@
    "name": "ASUS TUF GAMING B450-PLUS II Mainboard ATX, AMD B450, Socket AM4, DDR4",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-tuf-gaming-b450-plus-ii-mainboard-atx-amd-b450-socket-am4-ddr4-6794275/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -16678,6 +16738,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 106.46
+    },
+    {
+     "d": "2026-10-31",
      "p": 106.46
     }
    ],
@@ -17509,6 +17573,39 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-gigabyte-b760m-ds3h-ddr4-mainboard-lga-1700-micro-atx-schwar-l3vcy",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1700 B760",
+   "name": "Gigabyte B760M DS3H DDR4 Mainboard LGA 1700 Micro ATX Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/gigabyte-b760m-ds3h-ddr4-mainboard-lga-1700-micro-atx-schwarz-8117347/",
+   "stand": "2026-10-31T13:48",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 112.61,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/gigabyte-b760m-ds3h-ddr4-mainboard-lga-1700-micro-atx-schwarz-8117347/"
+    }
+   ],
+   "price": 112.61,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 115.17
+    },
+    {
+     "d": "2026-10-31",
+     "p": 112.61
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1700 b760 gigabyte b760m ds3h ddr4 mainboard lga 1700 micro atx schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-gigabyte-b760-ds3h-ddr4-intel-b760-motherboard-socket-1700-d",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 B760",
@@ -17756,35 +17853,6 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/gigabyte-b760m-ds3h-ddr4-mainboard-lga-1700-micro-atx-schwarz-8117347/",
    "stand": "2026-10-30T11:13",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 115.17,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/gigabyte-b760m-ds3h-ddr4-mainboard-lga-1700-micro-atx-schwarz-8117347/"
-    }
-   ],
-   "price": 115.17,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 115.17
-    }
-   ],
-   "count": 1,
-   "tags": "mainboards intel lga1700 b760 gigabyte b760m ds3h ddr4 mainboard lga 1700 micro atx schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-gigabyte-b760m-ds3h-ddr4-mainboard-lga-1700-micro-atx-schwar-l3vcy",
-   "cat": "Mainboards",
-   "sub": "Intel LGA1700 B760",
-   "name": "Gigabyte B760M DS3H DDR4 Mainboard LGA 1700 Micro ATX Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/gigabyte-b760m-ds3h-ddr4-mainboard-lga-1700-micro-atx-schwarz-8117347/",
-   "stand": "2026-10-30T17:50",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -18082,7 +18150,7 @@
    "name": "Samsung 870 EVO 2,5 Zoll SSD, SATA 6G - 250 GB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/samsung-870-evo-2.5-inch-ssd-sata-6g-250-gb/SSSS-177.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -18097,6 +18165,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 116.05
+    },
+    {
+     "d": "2026-10-31",
      "p": 116.05
     }
    ],
@@ -19136,7 +19208,7 @@
    "name": "Fractal Design Epoch Black RGB TG Light tint PC-Gehäuse, Midi-Tower, ATX, Tempered Glass - schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/fractal-design-epoch-black-rgb-tg-light-tint-pc-gehaeuse-midi-tower-atx-tempered-glass-schwarz/GEFD-209.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -19151,6 +19223,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 119.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 119.9
     }
    ],
@@ -19459,7 +19535,7 @@
    "name": "Fractal Design Epoch XL Black TG Light Tint PC-Gehäuse, Midi-Tower, E-ATX, Tempered Glass – schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/fractal-design-epoch-xl-black-tg-light-tint-pc-gehaeuse-midi-tower-e-atx-tempered-glass-schwarz/GEFD-212.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -19474,6 +19550,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 120.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 120.9
     }
    ],
@@ -19856,7 +19936,7 @@
    "name": "ASUS PRIME H810M-E-CSM Mainboard Intel H810 LGA 1851 DDR5 Micro ATX Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-prime-h810m-e-csm-mainboard-intel-h810-lga-1851-ddr5-micro-atx-schwarz-100692238/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -19872,6 +19952,10 @@
     {
      "d": "2026-10-30",
      "p": 123.81
+    },
+    {
+     "d": "2026-10-31",
+     "p": 123.81
     }
    ],
    "count": 1,
@@ -19885,7 +19969,7 @@
    "name": "Fractal Design Epoch White RGB TG Clear tint PC-Gehäuse, Midi-Tower, ATX, Tempered Glass - weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/fractal-design-epoch-white-rgb-tg-clear-tint-pc-gehaeuse-midi-tower-atx-tempered-glass-weiss/GEFD-210.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -19900,6 +19984,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 123.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 123.9
     }
    ],
@@ -20315,7 +20403,7 @@
    "name": "HYTE X50 Midi Tower - Wild Cherry",
    "source": "crawler",
    "url": "https://www.caseking.de/hyte-x50-midi-tower-wild-cherry/GEHY-055.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -20330,6 +20418,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 124.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 124.9
     }
    ],
@@ -20497,7 +20589,7 @@
    "name": "ASUS PRIME B760M-F WIFI Mainboard Micro ATX LGA1700 Intel B760 DDR5",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-prime-b760m-f-wifi-mainboard-micro-atx-lga1700-intel-b760-ddr5-100678832/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -20513,6 +20605,10 @@
     {
      "d": "2026-10-30",
      "p": 125.77
+    },
+    {
+     "d": "2026-10-31",
+     "p": 125.77
     }
    ],
    "count": 1,
@@ -20526,7 +20622,7 @@
    "name": "Fractal Design Epoch XL White TG Clear Tint PC-Gehäuse, Midi-Tower, E-ATX, Tempered Glass – weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/fractal-design-epoch-xl-white-tg-clear-tint-pc-gehaeuse-midi-tower-e-atx-tempered-glass-weiss/GEFD-213.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -20541,6 +20637,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 125.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 125.9
     }
    ],
@@ -20613,7 +20713,7 @@
    "name": "ASUS PRO A620AT-CSM Mainboard Mini-ITX, AMD A620A Chipsatz, Socket AM5, DDR5, Grün",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-pro-a620at-csm-mainboard-mini-itx-amd-a620a-chipsatz-socket-am5-ddr5-gruen-100591720/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -20628,6 +20728,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 126.43
+    },
+    {
+     "d": "2026-10-31",
      "p": 126.43
     }
    ],
@@ -20733,7 +20837,7 @@
    "name": "Fractal Design Epoch XL Black Solid PC-Gehäuse, Midi-Tower, E-ATX – schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/fractal-design-epoch-xl-black-solid-pc-gehaeuse-midi-tower-e-atx-schwarz/GEFD-211.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -20748,6 +20852,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 126.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 126.9
     }
    ],
@@ -20944,7 +21052,7 @@
    "name": "Kingston FURY Beast RGB 8 GB DDR4-3600 CL17 DIMM Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-beast-rgb-8-gb-ddr4-3600-cl17-dimm-schwarz-100049099/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -20959,6 +21067,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 127.58
+    },
+    {
+     "d": "2026-10-31",
      "p": 127.58
     }
    ],
@@ -21647,7 +21759,7 @@
    "name": "Alphacool Core 1 Aurora Silver, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/Alphacool/Core-1-Aurora-Silver-CPU-K%C3%BChler/html/product/100009635",
-   "stand": "2026-10-31T09:43",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -22183,35 +22295,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-gigabyte-b850m-d3hp-mainboard-amd-b850-sockel-am5-micro-atx--xidjf",
-   "cat": "Mainboards",
-   "sub": "AM5 B850",
-   "name": "Gigabyte B850M D3HP Mainboard AMD B850 Sockel AM5 Micro ATX DDR5",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/gigabyte-b850m-d3hp-mainboard-amd-b850-sockel-am5-micro-atx-ddr5-100539227/",
-   "stand": "2026-10-30T17:50",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 132.79,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/gigabyte-b850m-d3hp-mainboard-amd-b850-sockel-am5-micro-atx-ddr5-100539227/"
-    }
-   ],
-   "price": 132.79,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 132.79
-    }
-   ],
-   "count": 1,
-   "tags": "mainboards am5 b850 gigabyte b850m d3hp mainboard amd b850 sockel am5 micro atx ddr5",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-viewsonic-va2708-2k-hd-2-27-ips-qhd-monitor-2560x1440-75-hz-",
    "cat": "Monitore",
    "sub": "27\"",
@@ -22305,6 +22388,39 @@
    "count": 1,
    "tags": "ssds pcie 4.0 500 gb patriot p400 ssd pcie 2280 500",
    "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-gigabyte-b850m-d3hp-mainboard-amd-b850-sockel-am5-micro-atx--xidjf",
+   "cat": "Mainboards",
+   "sub": "AM5 B850",
+   "name": "Gigabyte B850M D3HP Mainboard AMD B850 Sockel AM5 Micro ATX DDR5",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/gigabyte-b850m-d3hp-mainboard-amd-b850-sockel-am5-micro-atx-ddr5-100539227/",
+   "stand": "2026-10-31T13:48",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 133.95,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/gigabyte-b850m-d3hp-mainboard-amd-b850-sockel-am5-micro-atx-ddr5-100539227/"
+    }
+   ],
+   "price": 133.95,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 132.79
+    },
+    {
+     "d": "2026-10-31",
+     "p": 133.95
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 b850 gigabyte b850m d3hp mainboard amd b850 sockel am5 micro atx ddr5",
+   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-hp-327pf-series-3-pro-led-monitor-68-6-cm-27-b0cg3ut-abb",
@@ -22710,7 +22826,7 @@
    "name": "ASUS Prime B760-Plus Mainboard ATX, Intel B760, LGA 1700, DDR5",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-prime-b760-plus-mainboard-atx-intel-b760-lga-1700-ddr5-8273536/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -22725,6 +22841,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 135.15
+    },
+    {
+     "d": "2026-10-31",
      "p": 135.15
     }
    ],
@@ -22888,7 +23008,7 @@
    "name": "Fractal Design Epoch XL Black RGB TG Light Tint PC-Gehäuse, Midi-Tower, E-ATX, ARGB, Tempered Glass – schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/fractal-design-epoch-xl-black-rgb-tg-light-tint-pc-gehaeuse-midi-tower-e-atx-argb-tempered-glass-schwarz/GEFD-214.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -22904,6 +23024,10 @@
     {
      "d": "2026-10-30",
      "p": 135.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 135.9
     }
    ],
    "count": 1,
@@ -22917,7 +23041,7 @@
    "name": "Fractal Design Epoch XL White RGB TG Clear Tint PC-Gehäuse, Midi-Tower, E-ATX, ARGB, Tempered Glass – weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/fractal-design-epoch-xl-white-rgb-tg-clear-tint-pc-gehaeuse-midi-tower-e-atx-argb-tempered-glass-weiss/GEFD-215.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -22932,6 +23056,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 135.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 135.9
     }
    ],
@@ -23727,7 +23855,7 @@
    "name": "HYTE X50 Midi Tower - Snow White",
    "source": "crawler",
    "url": "https://www.caseking.de/en/hyte-x50-midi-tower-snow-white/GEHY-053.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -23743,6 +23871,10 @@
     {
      "d": "2026-10-30",
      "p": 139.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 139.9
     }
    ],
    "count": 1,
@@ -23756,7 +23888,7 @@
    "name": "HYTE X50 Midi Tower - Pitch Black",
    "source": "crawler",
    "url": "https://www.caseking.de/en/hyte-x50-midi-tower-pitch-black/GEHY-054.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -23771,6 +23903,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 139.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 139.9
     }
    ],
@@ -24331,7 +24467,7 @@
    "name": "ASUS ROG STRIX B550-A GAMING Mainboard ATX AMD B550 AM4 DDR4 128 GB Schwarz/Silber",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-rog-strix-b550-a-gaming-mainboard-atx-amd-b550-am4-ddr4-128-gb-schwarz-silber-6795389/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -24346,6 +24482,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 143.04
+    },
+    {
+     "d": "2026-10-31",
      "p": 143.04
     }
    ],
@@ -25567,7 +25707,7 @@
    "name": "Kingston SSDNow A400 Series 2,5 Zoll SSD, SATA 6G - 960 GB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/kingston-ssdnow-a400-series-2.5-inch-ssd-sata-6g-960-gb/SSKT-058.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -25582,6 +25722,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 149.45
+    },
+    {
+     "d": "2026-10-31",
      "p": 149.45
     }
    ],
@@ -25980,7 +26124,7 @@
    "name": "Western Digital Blue SA510 2,5 Zoll SSD, SATA 6G - 500 GB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/western-digital-blue-sa510-2.5-inch-ssd-sata-6g-500-gb/SSWD-071.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -25995,6 +26139,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 149.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 149.9
     }
    ],
@@ -26100,7 +26248,7 @@
    "name": "Team Group MP33 Pro NVMe SSD, PCIe 3.0 M.2 Typ 2280 - 1 TB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/team-group-mp33-pro-nvme-ssd-pcie-3.0-m.2-typ-2280-1-tb/SSTG-067.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -26116,6 +26264,10 @@
     {
      "d": "2026-10-30",
      "p": 150.33
+    },
+    {
+     "d": "2026-10-31",
+     "p": 150.33
     }
    ],
    "count": 1,
@@ -26129,7 +26281,7 @@
    "name": "Patriot P300 NVMe SSD, PCIe 3.0. M.2 Typ 2280 - 1TB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/patriot-p300-nvme-ssd-pcie-3.0.-m.2-type-2280-1tb/SSPM-031.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -26144,6 +26296,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 150.39
+    },
+    {
+     "d": "2026-10-31",
      "p": 150.39
     }
    ],
@@ -26725,7 +26881,7 @@
    "name": "ASUS TUF Gaming B760-Plus WIFI Mainboard ATX LGA 1700 Intel B760 DDR5 128 GB Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-tuf-gaming-b760-plus-wifi-mainboard-atx-lga-1700-intel-b760-ddr5-128-gb-schwarz-8233379/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -26740,6 +26896,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 154.15
+    },
+    {
+     "d": "2026-10-31",
      "p": 154.15
     }
    ],
@@ -26990,7 +27150,7 @@
    "name": "ASUS PRIME B760-PLUS D4 Mainboard LGA 1700 Intel B760 ATX DDR4",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-prime-b760-plus-d4-mainboard-lga-1700-intel-b760-atx-ddr4-100684420/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -27005,6 +27165,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 156.2
+    },
+    {
+     "d": "2026-10-31",
      "p": 156.2
     }
    ],
@@ -28032,7 +28196,7 @@
    "name": "Lexar NM620 NVMe SSD, PCIe 3.0 M.2 Typ 2280 - 1 TB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/lexar-nm620-nvme-ssd-pcie-3.0-m.2-type-2280-1-tb/SSLX-008.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -28048,6 +28212,10 @@
     {
      "d": "2026-10-30",
      "p": 159.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 159.9
     }
    ],
    "count": 1,
@@ -28061,7 +28229,7 @@
    "name": "HAVN BF 360 PC Case, Midi Tower, E-ATX, Tempered Glass - White",
    "source": "crawler",
    "url": "https://www.caseking.de/en/havn-bf-360-pc-case-midi-tower-e-atx-tempered-glass-white/GEHV-018.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -28077,6 +28245,10 @@
     {
      "d": "2026-10-30",
      "p": 159.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 159.9
     }
    ],
    "count": 1,
@@ -28090,7 +28262,7 @@
    "name": "HAVN BF 360 PC Case, Midi Tower, E-ATX, Tempered Glass - Black",
    "source": "crawler",
    "url": "https://www.caseking.de/en/havn-bf-360-pc-case-midi-tower-e-atx-tempered-glass-black/GEHV-019.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -28105,6 +28277,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 159.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 159.9
     }
    ],
@@ -28206,7 +28382,7 @@
    "name": "ASUS PRIME B660M-A D4-CSM Mainboard Micro ATX Sockel LGA 1700 Intel B660 DDR4 Gold",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-prime-b660m-a-d4-csm-mainboard-micro-atx-sockel-lga-1700-intel-b660-ddr4-gold-8233381/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -28221,6 +28397,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 160.69
+    },
+    {
+     "d": "2026-10-31",
      "p": 160.69
     }
    ],
@@ -28380,7 +28560,7 @@
    "name": "MSI PRO B850M-P WIFI, Mainboard",
    "source": "crawler",
    "url": "https://www.alternate.de/MSI/PRO-B850M-P-WIFI-Mainboard/html/product/100140540",
-   "stand": "2026-10-31T07:54",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -28504,7 +28684,7 @@
    "name": "MSI PRO B850-S WIFI6E, Mainboard",
    "source": "crawler",
    "url": "https://www.alternate.de/MSI/PRO-B850-S-WIFI6E-Mainboard/html/product/100140537",
-   "stand": "2026-10-31T07:54",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -28864,7 +29044,7 @@
    "name": "Patriot P400 Lite SSD, PCIe 4.0 M.2 Typ 2280 - 1TB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/patriot-p400-lite-ssd-pcie-4.0-m.2-type-2280-1tb/SSPM-027.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -28879,6 +29059,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 163.61
+    },
+    {
+     "d": "2026-10-31",
      "p": 163.61
     }
    ],
@@ -29468,7 +29652,7 @@
    "name": "ASUS PRIME B760M-A WIFI II Mainboard micro ATX Intel B760 LGA 1700 DDR5 Wi-Fi 6E",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-prime-b760m-a-wifi-ii-mainboard-micro-atx-intel-b760-lga-1700-ddr5-wi-fi-6e-100692239/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -29483,6 +29667,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 166.28
+    },
+    {
+     "d": "2026-10-31",
      "p": 166.28
     }
    ],
@@ -30096,7 +30284,7 @@
    "name": "Lexar NQ780 NVMe SSD, PCIe 4.0 M.2 Type 2280 - 1 TB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/lexar-nq780-nvme-ssd-pcie-4.0-m.2-type-2280-1-tb/SSLX-020.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -30111,6 +30299,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 169.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 169.9
     }
    ],
@@ -30481,7 +30673,7 @@
    "name": "Kingston FURY Beast RGB 8 GB RAM DDR5 6000 MHz CL30 DIMM 288-PIN Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-beast-rgb-8-gb-ram-ddr5-6000-mhz-cl30-dimm-288-pin-schwarz-100594484/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -30496,6 +30688,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 172.42
+    },
+    {
+     "d": "2026-10-31",
      "p": 172.42
     }
    ],
@@ -31345,7 +31541,7 @@
    "name": "Western Digital Blue SA510 2,5 Zoll SSD, SATA 6G - 1 TB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/western-digital-blue-sa510-2.5-inch-ssd-sata-6g-1-tb/SSWD-072.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -31360,6 +31556,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 176.92
+    },
+    {
+     "d": "2026-10-31",
      "p": 176.92
     }
    ],
@@ -31730,7 +31930,7 @@
    "name": "MSI Spatium M450 V1 SSD, PCIe 4.0, M.2 Typ 2280 - 1TB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/msi-spatium-m450-v1-ssd-pcie-4.0-m.2-type-2280-1tb/SSMS-004.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -31745,6 +31945,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 179.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 179.9
     }
    ],
@@ -32280,7 +32484,7 @@
    "name": "Samsung 870 EVO 2,5 Zoll SSD, SATA 6G - 500 GB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/samsung-870-evo-2.5-inch-ssd-sata-6g-500-gb/SSSS-178.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -32295,6 +32499,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 185.74
+    },
+    {
+     "d": "2026-10-31",
      "p": 185.74
     }
    ],
@@ -32433,7 +32641,7 @@
    "name": "Fractal Design Meshify 3 XL RGB TG PC Gehäuse - Big-Tower, E-ATX, Tempered Glass - weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/fractal-design-meshify-3-xl-rgb-tg-pc-gehaeuse-big-tower-e-atx-tempered-glass-weiss/GEFD-203.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -32448,6 +32656,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 186.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 186.9
     }
    ],
@@ -32549,7 +32761,7 @@
    "name": "Fractal Design North XL RC Chalk TG Clear PC-Gehäuse, Midi-Tower, ATX, Tempered Glass - weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/fractal-design-north-xl-rc-chalk-tg-clear-pc-gehaeuse-midi-tower-atx-tempered-glass-weiss/GEFD-205.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -32564,6 +32776,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 188.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 188.9
     }
    ],
@@ -32669,7 +32885,7 @@
    "name": "HAVN BF 360 Flow PC Case, Midi Tower, E-ATX, Tempered Glass - White",
    "source": "crawler",
    "url": "https://www.caseking.de/en/havn-bf-360-flow-pc-case-midi-tower-e-atx-tempered-glass-white/GEHV-020.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -32685,6 +32901,10 @@
     {
      "d": "2026-10-30",
      "p": 189.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 189.9
     }
    ],
    "count": 1,
@@ -32698,7 +32918,7 @@
    "name": "HAVN BF 360 Flow PC Case, Midi Tower, E-ATX, Tempered Glass - Black",
    "source": "crawler",
    "url": "https://www.caseking.de/en/havn-bf-360-flow-pc-case-midi-tower-e-atx-tempered-glass-black/GEHV-021.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -32713,6 +32933,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 189.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 189.9
     }
    ],
@@ -32785,7 +33009,7 @@
    "name": "Kingston FURY Beast DDR4 16 GB RAM 3200 MHz DIMM CL16 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-beast-ddr4-16-gb-ram-3200-mhz-dimm-cl16-schwarz-7287400/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -32800,6 +33024,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 190.82
+    },
+    {
+     "d": "2026-10-31",
      "p": 190.82
     }
    ],
@@ -33075,7 +33303,7 @@
    "name": "Kingston FURY Beast 8 GB RAM 5200 MHz DDR5 CL40 DIMM Black",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-beast-8-gb-ram-5200-mhz-ddr5-cl40-dimm-black-7639412/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -33090,6 +33318,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 193.57
+    },
+    {
+     "d": "2026-10-31",
      "p": 193.57
     }
    ],
@@ -33464,7 +33696,7 @@
    "name": "Samsung 980 NVMe SSD, PCIe 3.0 M.2 Typ 2280 - 500 GB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/samsung-980-nvme-ssd-pcie-3.0-m.2-type-2280-500-gb/SSSS-187.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -33479,6 +33711,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 196.85
+    },
+    {
+     "d": "2026-10-31",
      "p": 196.85
     }
    ],
@@ -34080,7 +34316,7 @@
    "name": "Fractal Design North XL RC Charcoal TG Dark PC-Gehäuse, Midi-Tower, ATX, Tempered Glass - schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/fractal-design-north-xl-rc-charcoal-tg-dark-pc-gehaeuse-midi-tower-atx-tempered-glass-schwarz/GEFD-204.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -34096,6 +34332,10 @@
     {
      "d": "2026-10-30",
      "p": 199.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 199.9
     }
    ],
    "count": 1,
@@ -34109,7 +34349,7 @@
    "name": "Hyte Y70 Midi-Tower, Tempered Glass - Taro Milk",
    "source": "crawler",
    "url": "https://www.caseking.de/hyte-y70-midi-tower-tempered-glass-taro-milk/GEHY-039.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -34125,6 +34365,10 @@
     {
      "d": "2026-10-30",
      "p": 199.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 199.9
     }
    ],
    "count": 1,
@@ -34138,7 +34382,7 @@
    "name": "Western Digital Blue SA510 M.2 SSD, SATA 6G - 1 TB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/western-digital-blue-sa510-m.2-ssd-sata-6g-1-tb/SSWD-068.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -34153,6 +34397,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 199.91
+    },
+    {
+     "d": "2026-10-31",
      "p": 199.91
     }
    ],
@@ -34531,7 +34779,7 @@
    "name": "Hyte Y70 Midi Tower Standard - schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/hyte-y70-midi-tower-standard-schwarz/GEHY-030.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -34546,6 +34794,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 204.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 204.9
     }
    ],
@@ -35102,7 +35354,7 @@
    "name": "Hyte Y70 PC-Gehäuse, Midi Tower, ATX, Tempered Glass - schwarz / weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/hyte-y70-pc-gehaeuse-midi-tower-atx-tempered-glass-schwarz-weiss/GEHY-032.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -35118,6 +35370,10 @@
     {
      "d": "2026-10-30",
      "p": 209.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 209.9
     }
    ],
    "count": 1,
@@ -35131,7 +35387,7 @@
    "name": "Hyte Y70 Midi-Tower, Tempered Glass - Strawberry Milk",
    "source": "crawler",
    "url": "https://www.caseking.de/hyte-y70-midi-tower-tempered-glass-strawberry-milk/GEHY-038.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -35146,6 +35402,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 209.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 209.9
     }
    ],
@@ -36157,7 +36417,7 @@
    "name": "ASRock X870 Pro RS WiFi AM5 ATX DDR5 White",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asrock-x870-pro-rs-wifi-am5-atx-ddr5-white-100508668/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -36172,6 +36432,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 218.34
+    },
+    {
+     "d": "2026-10-31",
      "p": 218.34
     }
    ],
@@ -36215,7 +36479,7 @@
    "name": "Kingston FURY Beast KF560C30BBE-8 8 GB RAM 6000 MHz DDR5 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-beast-kf560c30bbe-8-8-gb-ram-6000-mhz-ddr5-schwarz-100502469/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -36230,6 +36494,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 218.37
+    },
+    {
+     "d": "2026-10-31",
      "p": 218.37
     }
    ],
@@ -36335,7 +36603,7 @@
    "name": "Samsung 990 Evo Plus NVMe 2.0 SSD, PCIe 4.0 x4 / 5.0 x2, Typ 2280 - 1 TB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/samsung-990-evo-plus-nvme-2.0-ssd-pcie-4.0-x4-5.0-x2-type-2280-1-tb/SSSS-204.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -36350,6 +36618,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 218.65
+    },
+    {
+     "d": "2026-10-31",
      "p": 218.65
     }
    ],
@@ -37063,7 +37335,7 @@
    "name": "Kingston FURY Beast KF436C18BB/16 16 GB RAM DDR4 3600 MHz CL18 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-beast-kf436c18bb-16-16-gb-ram-ddr4-3600-mhz-cl18-schwarz-7287561/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -37078,6 +37350,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 225.2
+    },
+    {
+     "d": "2026-10-31",
      "p": 225.2
     }
    ],
@@ -37464,7 +37740,7 @@
    "name": "HAVN HS 420 PC-Gehäuse, Midi-Tower, E-ATX, Tempered Glass - weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/havn-hs-420-pc-gehaeuse-midi-tower-e-atx-tempered-glass-weiss/GEHV-001.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -37480,6 +37756,10 @@
     {
      "d": "2026-10-30",
      "p": 229.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 229.9
     }
    ],
    "count": 1,
@@ -37493,7 +37773,7 @@
    "name": "HAVN HS 420 PC-Gehäuse, Midi-Tower, E-ATX, Tempered Glass - schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/havn-hs-420-pc-gehaeuse-midi-tower-e-atx-tempered-glass-schwarz/GEHV-002.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -37508,6 +37788,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 229.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 229.9
     }
    ],
@@ -38606,7 +38890,7 @@
    "name": "SanDisk WD_BLACK SN8100 SSD 1TB M.2 2280 PCIe Gen5 NVMe Internes Solid-State-Module",
    "source": "crawler",
    "url": "https://www.notebooksbilliger.de/wd_black+sn8100+ssd+1tb+m2+2280+pcie+gen5+nvme+892674",
-   "stand": "2026-10-31T11:40",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "Notebooksbilliger",
@@ -39131,7 +39415,7 @@
    "name": "MSI X870E GAMING PLUS WIFI ATX Mainboard Socket AM5 AMD X870E DDR5 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/msi-x870e-gaming-plus-wifi-atx-mainboard-socket-am5-amd-x870e-ddr5-schwarz-100584066/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -39146,6 +39430,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 243.33
+    },
+    {
+     "d": "2026-10-31",
      "p": 243.33
     }
    ],
@@ -39247,7 +39535,7 @@
    "name": "Kingston FURY Beast 16 GB RAM 3200 MHz DDR4 DIMM Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-beast-16-gb-ram-3200-mhz-ddr4-dimm-schwarz-7287426/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -39262,6 +39550,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 243.99
+    },
+    {
+     "d": "2026-10-31",
      "p": 243.99
     }
    ],
@@ -39837,15 +40129,15 @@
    "sub": "PCIe 4.0 1 TB",
    "name": "Samsung 990 PRO Series NVMe SSD, PCIe 4.0 M.2 Typ 2280, mit Kühlkörper - 1 TB",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/samsung-990-pro-series-nvme-ssd-pcie-4.0-m.2-type-2280-with-heatsink-1-tb/SSSS-195.html",
-   "stand": "2026-10-30T12:32",
+   "url": "https://www.caseking.de/samsung-990-pro-series-nvme-ssd-pcie-4.0-m.2-typ-2280-mit-kuehlkoerper-1-tb/SSSS-195.html",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 247.45,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/samsung-990-pro-series-nvme-ssd-pcie-4.0-m.2-type-2280-with-heatsink-1-tb/SSSS-195.html"
+     "url": "https://www.caseking.de/samsung-990-pro-series-nvme-ssd-pcie-4.0-m.2-typ-2280-mit-kuehlkoerper-1-tb/SSSS-195.html"
     }
    ],
    "price": 247.45,
@@ -39853,6 +40145,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 247.45
+    },
+    {
+     "d": "2026-10-31",
      "p": 247.45
     }
    ],
@@ -40074,7 +40370,7 @@
    "name": "ASUS PRIME Z890M-PLUS WIFI Mainboard Z890 LGA1851 DDR5 Micro-ATX Aluminium, Black",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-prime-z890m-plus-wifi-mainboard-z890-lga1851-ddr5-micro-atx-aluminium-black-100512760/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -40089,6 +40385,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 249.84
+    },
+    {
+     "d": "2026-10-31",
      "p": 249.84
     }
    ],
@@ -40202,7 +40502,7 @@
    "name": "Western Digital Black SN850X NVMe M.2 SSD, PCIe 4.0 M.2 Type 2280 - 1 TB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/western-digital-black-sn850x-nvme-m.2-ssd-pcie-4.0-m.2-type-2280-1-tb/SSWD-050.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -40217,6 +40517,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 249.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 249.9
     }
    ],
@@ -40318,7 +40622,7 @@
    "name": "Patriot P400 Lite SSD, PCIe 4.0 M.2 Typ 2280 - 2 TB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/patriot-p400-lite-ssd-pcie-4.0-m.2-type-2280-2-tb/SSPM-026.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -40333,6 +40637,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 251.05
+    },
+    {
+     "d": "2026-10-31",
      "p": 251.05
     }
    ],
@@ -40499,15 +40807,15 @@
    "sub": "PCIe 5.0 1 TB",
    "name": "Samsung 9100 PRO Series NVMe SSD, PCIe 5.0 M.2 Typ 2280, mit Kühlkörper - 1TB",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/samsung-9100-pro-series-nvme-ssd-pcie-5.0-m.2-type-2280-with-heatsink-1tb/SSSS-210.html",
-   "stand": "2026-10-30T12:32",
+   "url": "https://www.caseking.de/samsung-9100-pro-series-nvme-ssd-pcie-5.0-m.2-typ-2280-mit-kuehlkoerper-1tb/SSSS-210.html",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 252.38,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/samsung-9100-pro-series-nvme-ssd-pcie-5.0-m.2-type-2280-with-heatsink-1tb/SSSS-210.html"
+     "url": "https://www.caseking.de/samsung-9100-pro-series-nvme-ssd-pcie-5.0-m.2-typ-2280-mit-kuehlkoerper-1tb/SSSS-210.html"
     }
    ],
    "price": 252.38,
@@ -40515,6 +40823,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 252.38
+    },
+    {
+     "d": "2026-10-31",
      "p": 252.38
     }
    ],
@@ -40850,28 +41162,32 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-kingston-fury-beast-rgb-16-gb-ddr4-3600-mhz-cl18-dimm-schwar",
+   "id": "c-kingston-fury-beast-rgb-16-gb-ddr4-3600-mhz-cl18-dimm-schwar-kgwfz",
    "cat": "Arbeitsspeicher",
    "sub": "DDR4 16 GB",
    "name": "Kingston FURY Beast RGB 16 GB DDR4 3600 MHz CL18 DIMM Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-beast-rgb-16-gb-ddr4-3600-mhz-cl18-dimm-schwarz-100049100/",
-   "stand": "2026-10-30T11:13",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
-     "price": 255.68,
+     "price": 255.66,
      "ship": null,
      "avail": null,
      "url": "https://www.jacob.de/produkt/kingston-fury-beast-rgb-16-gb-ddr4-3600-mhz-cl18-dimm-schwarz-100049100/"
     }
    ],
-   "price": 255.68,
+   "price": 255.66,
    "shop": "JACOB Elektronik GmbH",
    "hist": [
     {
      "d": "2026-10-30",
      "p": 255.68
+    },
+    {
+     "d": "2026-10-31",
+     "p": 255.66
     }
    ],
    "count": 1,
@@ -40879,13 +41195,13 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-kingston-fury-beast-rgb-16-gb-ddr4-3600-mhz-cl18-dimm-schwar-kgwfz",
+   "id": "c-kingston-fury-beast-rgb-16-gb-ddr4-3600-mhz-cl18-dimm-schwar",
    "cat": "Arbeitsspeicher",
    "sub": "DDR4 16 GB",
    "name": "Kingston FURY Beast RGB 16 GB DDR4 3600 MHz CL18 DIMM Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-beast-rgb-16-gb-ddr4-3600-mhz-cl18-dimm-schwarz-100049100/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-30T11:13",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -41237,7 +41553,7 @@
    "name": "Kingston FURY Beast RGB 16 GB DDR4 3200 MT/s CL16 DIMM Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-beast-rgb-16-gb-ddr4-3200-mt-s-cl16-dimm-schwarz-100049092/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -41252,6 +41568,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 235.26
+    },
+    {
+     "d": "2026-10-31",
      "p": 235.26
     }
    ],
@@ -41328,7 +41648,7 @@
    "name": "Kingston FURY Renegade DDR4 16 GB RAM 2 x 8 GB 3600 MHz CL16 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-renegade-ddr4-16-gb-ram-2-x-8-gb-3600-mhz-cl16-schwarz-100351890/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -41343,6 +41663,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 260.03
+    },
+    {
+     "d": "2026-10-31",
      "p": 260.03
     }
    ],
@@ -42909,7 +43233,7 @@
    "name": "Kingston NV3 NVMe-SSD, PCIe 4.0, M.2 Typ 2280 - 2 TB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/kingston-nv3-nvme-ssd-pcie-4.0-m.2-type-2280-2-tb/SSKT-079.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -42924,6 +43248,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 279.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 279.9
     }
    ],
@@ -43058,7 +43386,7 @@
    "name": "ASRock Z790M-ITX WiFi Mainboard Mini-ITX LGA1700 Intel Z790 DDR4 Wi-Fi 6E Schwarz/Grau",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asrock-z790m-itx-wifi-mainboard-mini-itx-lga1700-intel-z790-ddr4-wi-fi-6e-schwarz-grau-8045203/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -43073,6 +43401,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 282.01
+    },
+    {
+     "d": "2026-10-31",
      "p": 282.01
     }
    ],
@@ -43290,7 +43622,7 @@
    "name": "HAVN HS 420 VGPU PC-Gehäuse, Midi-Tower, E-ATX, Tempered Glass, PCIe 5.0 Riser Kabel - weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/havn-hs-420-vgpu-pc-gehaeuse-midi-tower-e-atx-tempered-glass-pcie-5.0-riser-kabel-weiss/GEHV-003.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -43306,6 +43638,10 @@
     {
      "d": "2026-10-30",
      "p": 289.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 289.9
     }
    ],
    "count": 1,
@@ -43319,7 +43655,7 @@
    "name": "HAVN HS 420 VGPU PC-Gehäuse, Midi-Tower, E-ATX, Tempered Glass, PCIe 5.0 Riser Kabel - schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/havn-hs-420-vgpu-pc-gehaeuse-midi-tower-e-atx-tempered-glass-pcie-5.0-riser-kabel-schwarz/GEHV-004.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -43334,6 +43670,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 289.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 289.9
     }
    ],
@@ -43617,7 +43957,7 @@
    "name": "ASUS ROG STRIX Z890-A GAMING WIFI Mainboard ATX LGA1851 Sockel Intel Z890 DDR5 Wi-Fi 7",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-rog-strix-z890-a-gaming-wifi-mainboard-atx-lga1851-sockel-intel-z890-ddr5-wi-fi-7-100512729/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -43632,6 +43972,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 295.32
+    },
+    {
+     "d": "2026-10-31",
      "p": 295.32
     }
    ],
@@ -43704,7 +44048,7 @@
    "name": "Samsung 870 EVO 2,5 Zoll SSD, SATA 6G - 1 TB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/samsung-870-evo-2.5-inch-ssd-sata-6g-1-tb/SSSS-179.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -43719,6 +44063,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 297.05
+    },
+    {
+     "d": "2026-10-31",
      "p": 297.05
     }
    ],
@@ -44242,7 +44590,7 @@
    "name": "MSI MAG X870 Tomahawk Wifi Mainboard ATX Sockel AM5 DDR5 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/msi-mag-x870-tomahawk-wifi-mainboard-atx-sockel-am5-ddr5-schwarz-100509461/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -44258,10 +44606,47 @@
     {
      "d": "2026-10-30",
      "p": 306.91
+    },
+    {
+     "d": "2026-10-31",
+     "p": 306.91
     }
    ],
    "count": 1,
    "tags": "mainboards am5 x870 msi mag x870 tomahawk wifi mainboard atx sockel am5 ddr5 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-crucial-pro-16-gb-ddr5-ram-5600-mhz-cl46-schwarz-p0uz6",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 16 GB",
+   "name": "Crucial Pro 16 GB DDR5 RAM 5600 MHz CL46 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/crucial-pro-16-gb-ddr5-ram-5600-mhz-cl46-schwarz-100364773/",
+   "stand": "2026-10-31T13:48",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 306.92,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/crucial-pro-16-gb-ddr5-ram-5600-mhz-cl46-schwarz-100364773/"
+    }
+   ],
+   "price": 306.92,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 306.94
+    },
+    {
+     "d": "2026-10-31",
+     "p": 306.92
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 16 gb crucial pro ddr5 ram 5600 mhz cl46 schwarz",
    "firstSeen": "2026-10-30"
   },
   {
@@ -44272,35 +44657,6 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/crucial-pro-16-gb-ddr5-ram-5600-mhz-cl46-schwarz-100364773/",
    "stand": "2026-10-30T11:13",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 306.94,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/crucial-pro-16-gb-ddr5-ram-5600-mhz-cl46-schwarz-100364773/"
-    }
-   ],
-   "price": 306.94,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 306.94
-    }
-   ],
-   "count": 1,
-   "tags": "arbeitsspeicher ddr5 16 gb crucial pro ddr5 ram 5600 mhz cl46 schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-crucial-pro-16-gb-ddr5-ram-5600-mhz-cl46-schwarz-p0uz6",
-   "cat": "Arbeitsspeicher",
-   "sub": "DDR5 16 GB",
-   "name": "Crucial Pro 16 GB DDR5 RAM 5600 MHz CL46 Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/crucial-pro-16-gb-ddr5-ram-5600-mhz-cl46-schwarz-100364773/",
-   "stand": "2026-10-30T17:50",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -44420,7 +44776,7 @@
    "name": "ASUS TUF GAMING X870-PLUS WIFI Mainboard ATX Sockel AM5 AMD X870 DDR5 Wi-Fi 7 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-tuf-gaming-x870-plus-wifi-mainboard-atx-sockel-am5-amd-x870-ddr5-wi-fi-7-schwarz-100510007/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -44435,6 +44791,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 308.28
+    },
+    {
+     "d": "2026-10-31",
      "p": 308.28
     }
    ],
@@ -44749,35 +45109,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-asus-tuf-gaming-z890-pro-wifi-mainboard-lga-1851-intel-z890--q7r9f",
-   "cat": "Mainboards",
-   "sub": "Intel LGA1851 Z890",
-   "name": "ASUS TUF Gaming Z890-PRO WIFI Mainboard LGA 1851 Intel Z890 ATX DDR5",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/asus-tuf-gaming-z890-pro-wifi-mainboard-lga-1851-intel-z890-atx-ddr5-100512730/",
-   "stand": "2026-10-30T17:50",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 316.02,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/asus-tuf-gaming-z890-pro-wifi-mainboard-lga-1851-intel-z890-atx-ddr5-100512730/"
-    }
-   ],
-   "price": 316.02,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 316.02
-    }
-   ],
-   "count": 1,
-   "tags": "mainboards intel lga1851 z890 asus tuf gaming z890 pro wifi mainboard lga 1851 intel atx ddr5",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-samsung-viewfinity-s6-s32d600eau-32-qhd-ips-monitor-100-hz-h",
    "cat": "Monitore",
    "sub": "32\"",
@@ -44945,7 +45276,7 @@
    "name": "Gigabyte AORUS B850 STEALTH ICE Mainboard AMD AM5 DDR5 ATX White",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/gigabyte-aorus-b850-stealth-ice-mainboard-amd-am5-ddr5-atx-white-100594119/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -44960,6 +45291,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 319.69
+    },
+    {
+     "d": "2026-10-31",
      "p": 319.69
     }
    ],
@@ -45388,7 +45723,7 @@
    "name": "Kingston FURY Beast RGB 16 GB RAM DDR5 6400 MHz DIMM Weiß",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-beast-rgb-16-gb-ram-ddr5-6400-mhz-dimm-weiss-100492464/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -45403,6 +45738,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 327.3
+    },
+    {
+     "d": "2026-10-31",
      "p": 327.3
     }
    ],
@@ -45653,6 +45992,39 @@
    "count": 1,
    "tags": "netzteile 1000 w+ silverstone sst ha1300r platinum netzteil modular 1300 watt",
    "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asus-tuf-gaming-z890-pro-wifi-mainboard-lga-1851-intel-z890--q7r9f",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1851 Z890",
+   "name": "ASUS TUF Gaming Z890-PRO WIFI Mainboard LGA 1851 Intel Z890 ATX DDR5",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-tuf-gaming-z890-pro-wifi-mainboard-lga-1851-intel-z890-atx-ddr5-100512730/",
+   "stand": "2026-10-31T13:48",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 330.89,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-tuf-gaming-z890-pro-wifi-mainboard-lga-1851-intel-z890-atx-ddr5-100512730/"
+    }
+   ],
+   "price": 330.89,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 316.02
+    },
+    {
+     "d": "2026-10-31",
+     "p": 330.89
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1851 z890 asus tuf gaming z890 pro wifi mainboard lga 1851 intel atx ddr5",
+   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-intel-core-i9-12900kf-3-2-ghz-16-kerne-30-mb-cache-lga1700",
@@ -46493,22 +46865,26 @@
    "name": "Kingston FURY Renegade 32 GB RAM (2 x 16 GB) 3600 MT/s DDR4 CL16 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-renegade-32-gb-ram-2-x-16-gb-3600-mt-s-ddr4-cl16-schwarz-100318874/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
-     "price": 346.14,
+     "price": 346.67,
      "ship": null,
      "avail": null,
      "url": "https://www.jacob.de/produkt/kingston-fury-renegade-32-gb-ram-2-x-16-gb-3600-mt-s-ddr4-cl16-schwarz-100318874/"
     }
    ],
-   "price": 346.14,
+   "price": 346.67,
    "shop": "JACOB Elektronik GmbH",
    "hist": [
     {
      "d": "2026-10-30",
      "p": 346.14
+    },
+    {
+     "d": "2026-10-31",
+     "p": 346.67
     }
    ],
    "count": 1,
@@ -47051,7 +47427,7 @@
    "name": "ASUS ROG STRIX X870-A GAMING WIFI Mainboard AMD X870 AM5 DDR5 ATX Weiß",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-rog-strix-x870-a-gaming-wifi-mainboard-amd-x870-am5-ddr5-atx-weiss-100509199/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -47066,6 +47442,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 357.82
+    },
+    {
+     "d": "2026-10-31",
      "p": 357.82
     }
    ],
@@ -47494,7 +47874,7 @@
    "name": "ASUS ROG STRIX Z890-E GAMING WIFI Mainboard ATX LGA1851 DDR5 Wi-Fi 7 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-rog-strix-z890-e-gaming-wifi-mainboard-atx-lga1851-ddr5-wi-fi-7-schwarz-100512728/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -47509,6 +47889,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 367.79
+    },
+    {
+     "d": "2026-10-31",
      "p": 367.79
     }
    ],
@@ -47581,7 +47965,7 @@
    "name": "MSI MPG Z890 Carbon WiFi Mainboard ATX LGA1851 DDR5 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/msi-mpg-z890-carbon-wifi-mainboard-atx-lga1851-ddr5-schwarz-100511953/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -47596,6 +47980,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 368.04
+    },
+    {
+     "d": "2026-10-31",
      "p": 368.04
     }
    ],
@@ -47792,7 +48180,7 @@
    "name": "Samsung 980 NVMe SSD, PCIe 3.0 M.2 Typ 2280 - 1 TB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/samsung-980-nvme-ssd-pcie-3.0-m.2-type-2280-1-tb/SSSS-188.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -47807,6 +48195,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 371.1
+    },
+    {
+     "d": "2026-10-31",
      "p": 371.1
     }
    ],
@@ -48140,7 +48532,7 @@
    "name": "MSI MAG X870E TOMAHAWK MAX WIFI PZ Mainboard ATX Sockel AM5 AMD X870E DDR5 Weiß",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/msi-mag-x870e-tomahawk-max-wifi-pz-mainboard-atx-sockel-am5-amd-x870e-ddr5-weiss-100673406/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -48155,6 +48547,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 373.91
+    },
+    {
+     "d": "2026-10-31",
      "p": 373.91
     }
    ],
@@ -48562,7 +48958,7 @@
    "name": "MSI Spatium M461 SSD, PCIe 4.0 M.2 Typ 2280 - 2 TB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/msi-spatium-m461-ssd-pcie-4.0-m.2-type-2280-2-tb/SSMS-003.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -48577,6 +48973,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 380.77
+    },
+    {
+     "d": "2026-10-31",
      "p": 380.77
     }
    ],
@@ -49336,7 +49736,7 @@
    "name": "Kingston FURY Renegade 16 GB RAM DDR4 4000 MHz CL19 Kit (2 x 8 GB) Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-renegade-16-gb-ram-ddr4-4000-mhz-cl19-kit-2-x-8-gb-schwarz-100364777/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -49351,6 +49751,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 392.35
+    },
+    {
+     "d": "2026-10-31",
      "p": 392.35
     }
    ],
@@ -49617,7 +50021,7 @@
    "name": "Hyte Y70 Touch Infinite PC-Gehäuse, Midi-Tower, ATX, Tempered Glass - Panda",
    "source": "crawler",
    "url": "https://www.caseking.de/hyte-y70-touch-infinite-pc-gehaeuse-midi-tower-atx-tempered-glass-panda/GEHY-035.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -49632,6 +50036,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 399.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 399.9
     }
    ],
@@ -49675,7 +50083,7 @@
    "name": "Kingston FURY Beast RGB 16 GB DDR5-6000 CL36 DIMM Weiß",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-beast-rgb-16-gb-ddr5-6000-cl36-dimm-weiss-100499638/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -49690,6 +50098,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 401.58
+    },
+    {
+     "d": "2026-10-31",
      "p": 401.58
     }
    ],
@@ -49882,7 +50294,7 @@
    "name": "Hyte Y70 Touch Infinite PC-Gehäuse, Midi Tower, Tempered Glass - schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/hyte-y70-touch-infinite-pc-gehaeuse-midi-tower-tempered-glass-schwarz/GEHY-037.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -49898,39 +50310,14 @@
     {
      "d": "2026-10-30",
      "p": 409.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 409.9
     }
    ],
    "count": 1,
    "tags": "gehause hyte y70 touch infinite midi tower tempered glass schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-samsung-990-pro-series-nvme-ssd-pcie-4-0-m-2-typ-2280-mit-ku-6zcyo",
-   "cat": "SSDs",
-   "sub": "PCIe 4.0 2 TB",
-   "name": "Samsung 990 PRO Series NVMe SSD, PCIe 4.0 M.2 Typ 2280, mit Kühlkörper - 2 TB",
-   "source": "crawler",
-   "url": "https://www.caseking.de/en/samsung-990-pro-series-nvme-ssd-pcie-4.0-m.2-type-2280-with-heatsink-2-tb/SSSS-196.html",
-   "stand": "2026-10-30T12:32",
-   "offers": [
-    {
-     "shop": "caseking.de",
-     "price": 410.29,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/samsung-990-pro-series-nvme-ssd-pcie-4.0-m.2-type-2280-with-heatsink-2-tb/SSSS-196.html"
-    }
-   ],
-   "price": 410.29,
-   "shop": "caseking.de",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 410.29
-    }
-   ],
-   "count": 1,
-   "tags": "ssds pcie 4.0 2 tb samsung 990 pro series nvme ssd pcie typ 2280 mit kuhlkorper",
    "firstSeen": "2026-10-30"
   },
   {
@@ -50271,7 +50658,7 @@
    "name": "ASUS ROG MAXIMUS Z890 HERO Mainboard ATX LGA1851 Intel Z890 DDR5 Wi-Fi 7 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-rog-maximus-z890-hero-mainboard-atx-lga1851-intel-z890-ddr5-wi-fi-7-schwarz-100510010/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -50286,6 +50673,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 415
+    },
+    {
+     "d": "2026-10-31",
      "p": 415
     }
    ],
@@ -50391,7 +50782,7 @@
    "name": "Western Digital Blue SA510 2,5 Zoll SSD, SATA 6G - 2 TB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/western-digital-blue-sa510-2.5-inch-ssd-sata-6g-2-tb/SSWD-073.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -50406,6 +50797,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 417.24
+    },
+    {
+     "d": "2026-10-31",
      "p": 417.24
     }
    ],
@@ -50536,22 +50931,26 @@
    "name": "Kingston FURY Beast RGB DDR5 16 GB RAM 6000 MHz CL30 DIMM Weiß",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-beast-rgb-ddr5-16-gb-ram-6000-mhz-cl30-dimm-weiss-100514596/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
-     "price": 420.82,
+     "price": 421.13,
      "ship": null,
      "avail": null,
      "url": "https://www.jacob.de/produkt/kingston-fury-beast-rgb-ddr5-16-gb-ram-6000-mhz-cl30-dimm-weiss-100514596/"
     }
    ],
-   "price": 420.82,
+   "price": 421.13,
    "shop": "JACOB Elektronik GmbH",
    "hist": [
     {
      "d": "2026-10-30",
      "p": 420.82
+    },
+    {
+     "d": "2026-10-31",
+     "p": 421.13
     }
    ],
    "count": 1,
@@ -50768,22 +51167,26 @@
    "name": "Kingston FURY Beast 32 GB DDR4 3600 MHz CL18 DIMM Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-beast-32-gb-ddr4-3600-mhz-cl18-dimm-schwarz-7287442/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
-     "price": 428.38,
+     "price": 429.54,
      "ship": null,
      "avail": null,
      "url": "https://www.jacob.de/produkt/kingston-fury-beast-32-gb-ddr4-3600-mhz-cl18-dimm-schwarz-7287442/"
     }
    ],
-   "price": 428.38,
+   "price": 429.54,
    "shop": "JACOB Elektronik GmbH",
    "hist": [
     {
      "d": "2026-10-30",
      "p": 428.38
+    },
+    {
+     "d": "2026-10-31",
+     "p": 429.54
     }
    ],
    "count": 1,
@@ -50826,7 +51229,7 @@
    "name": "Kingston FURY Beast DDR5 16 GB RAM 6400 MHz DIMM Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-beast-ddr5-16-gb-ram-6400-mhz-dimm-schwarz-100545272/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -50841,6 +51244,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 429.64
+    },
+    {
+     "d": "2026-10-31",
      "p": 429.64
     }
    ],
@@ -51128,7 +51535,7 @@
    "name": "SanDisk WD_BLACK SN8100 SSD 2TB M.2 2280 PCIe Gen5 NVMe Internes Solid-State-Module",
    "source": "crawler",
    "url": "https://www.notebooksbilliger.de/wd_black+sn8100+ssd+2tb+m2+2280+pcie+gen5+nvme+892673",
-   "stand": "2026-10-31T11:40",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "Notebooksbilliger",
@@ -51347,7 +51754,7 @@
    "name": "Gainward GeForce RTX 5050 Ghost 8GB, Grafikkarte",
    "source": "crawler",
    "url": "https://www.alternate.de/Gainward/GeForce-RTX-5050-Ghost-8GB-Grafikkarte/html/product/100140887",
-   "stand": "2026-10-31T07:54",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -51413,7 +51820,7 @@
    "name": "ASUS ROG STRIX X870-I GAMING WIFI Mainboard Mini-ITX AM5 DDR5 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-rog-strix-x870-i-gaming-wifi-mainboard-mini-itx-am5-ddr5-schwarz-100510009/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -51428,6 +51835,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 441.41
+    },
+    {
+     "d": "2026-10-31",
      "p": 441.41
     }
    ],
@@ -51694,7 +52105,7 @@
    "name": "MSI MPG X870E Carbon WiFi Mainboard AMD X870E AM5 ATX DDR5 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/msi-mpg-x870e-carbon-wifi-mainboard-amd-x870e-am5-atx-ddr5-schwarz-100509460/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -51710,6 +52121,10 @@
     {
      "d": "2026-10-30",
      "p": 458.03
+    },
+    {
+     "d": "2026-10-31",
+     "p": 458.03
     }
    ],
    "count": 1,
@@ -51723,7 +52138,7 @@
    "name": "SanDisk WD_BLACK SN770M SSD 2TB M.2 2230 PCIe Gen4 NVMe B-Ware Internes Solid-State-Module",
    "source": "crawler",
    "url": "https://www.notebooksbilliger.de/wd_black+sn770m+ssd+2tb+m2+2230+pcie+gen4+nvme+b+ware+919699",
-   "stand": "2026-10-31T11:40",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "Notebooksbilliger",
@@ -52178,7 +52593,7 @@
    "name": "Samsung 9100 PRO Series NVMe SSD, PCIe 5.0 M.2 Typ 2280 - 2TB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/samsung-9100-pro-series-nvme-ssd-pcie-5.0-m.2-type-2280-2tb/SSSS-208.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -52193,6 +52608,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 469.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 469.9
     }
    ],
@@ -52563,7 +52982,7 @@
    "name": "ASUS ROG Strix X870E-E Gaming WIFI Mainboard ATX Sockel AM5 AMD X870E DDR5 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-rog-strix-x870e-e-gaming-wifi-mainboard-atx-sockel-am5-amd-x870e-ddr5-schwarz-100510008/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -52578,6 +52997,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 483.21
+    },
+    {
+     "d": "2026-10-31",
      "p": 483.21
     }
    ],
@@ -53965,15 +54388,15 @@
    "sub": "PCIe 5.0 2 TB",
    "name": "Samsung 9100 PRO Series NVMe SSD, PCIe 5.0 M.2 Typ 2280, mit Kühlkörper - 2TB",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/samsung-9100-pro-series-nvme-ssd-pcie-5.0-m.2-type-2280-with-heatsink-2tb/SSSS-211.html",
-   "stand": "2026-10-30T12:32",
+   "url": "https://www.caseking.de/samsung-9100-pro-series-nvme-ssd-pcie-5.0-m.2-typ-2280-mit-kuehlkoerper-2tb/SSSS-211.html",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 529.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/samsung-9100-pro-series-nvme-ssd-pcie-5.0-m.2-type-2280-with-heatsink-2tb/SSSS-211.html"
+     "url": "https://www.caseking.de/samsung-9100-pro-series-nvme-ssd-pcie-5.0-m.2-typ-2280-mit-kuehlkoerper-2tb/SSSS-211.html"
     }
    ],
    "price": 529.9,
@@ -53981,6 +54404,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 529.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 529.9
     }
    ],
@@ -54417,7 +54844,7 @@
    "name": "Corsair Vengeance CMK32GX5M2B5200C40 32 GB RAM 2 x 16 GB DDR5 5200 MHz CL40 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/corsair-vengeance-cmk32gx5m2b5200c40-32-gb-ram-2-x-16-gb-ddr5-5200-mhz-cl40-schwarz-7519471/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -54432,6 +54859,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 539.24
+    },
+    {
+     "d": "2026-10-31",
      "p": 539.24
     }
    ],
@@ -55145,7 +55576,7 @@
    "name": "Gigabyte MC13-LE1 Micro-ATX Mainboard Socket AM5 AMD B650E DDR5 128 GB RAM 10GbE (Packung mit 10)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/gigabyte-mc13-le1-micro-atx-mainboard-socket-am5-amd-b650e-ddr5-128-gb-ram-10gbe-packung-mit-10-8064894/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -55160,6 +55591,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 568.92
+    },
+    {
+     "d": "2026-10-31",
      "p": 568.92
     }
    ],
@@ -55352,7 +55787,7 @@
    "name": "Kingston FURY Beast RGB 32 GB DDR4 3600 MT/s CL18 DIMM Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-beast-rgb-32-gb-ddr4-3600-mt-s-cl18-dimm-schwarz-100049102/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -55367,6 +55802,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 575.29
+    },
+    {
+     "d": "2026-10-31",
      "p": 575.29
     }
    ],
@@ -55571,22 +56010,26 @@
    "name": "Kingston FURY Beast RGB 32 GB (2 x 16 GB) DDR4-3600 CL18 DIMM Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-beast-rgb-32-gb-2-x-16-gb-ddr4-3600-cl18-dimm-schwarz-100049101/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
-     "price": 579.51,
+     "price": 579.52,
      "ship": null,
      "avail": null,
      "url": "https://www.jacob.de/produkt/kingston-fury-beast-rgb-32-gb-2-x-16-gb-ddr4-3600-cl18-dimm-schwarz-100049101/"
     }
    ],
-   "price": 579.51,
+   "price": 579.52,
    "shop": "JACOB Elektronik GmbH",
    "hist": [
     {
      "d": "2026-10-30",
      "p": 579.51
+    },
+    {
+     "d": "2026-10-31",
+     "p": 579.52
     }
    ],
    "count": 1,
@@ -56293,6 +56736,39 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-crucial-pro-ddr5-5600-32-gb-ram-cl46-schwarz-1gi5d",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 32 GB",
+   "name": "Crucial Pro DDR5-5600 32 GB RAM CL46 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/crucial-pro-ddr5-5600-32-gb-ram-cl46-schwarz-100368750/",
+   "stand": "2026-10-31T13:48",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 600.87,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/crucial-pro-ddr5-5600-32-gb-ram-cl46-schwarz-100368750/"
+    }
+   ],
+   "price": 600.87,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 601.91
+    },
+    {
+     "d": "2026-10-31",
+     "p": 600.87
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 32 gb crucial pro ddr5 5600 ram cl46 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-crucial-pro-ddr5-5600-32-gb-ram-cl46-schwarz",
    "cat": "Arbeitsspeicher",
    "sub": "DDR5 32 GB",
@@ -56322,42 +56798,13 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-crucial-pro-ddr5-5600-32-gb-ram-cl46-schwarz-1gi5d",
-   "cat": "Arbeitsspeicher",
-   "sub": "DDR5 32 GB",
-   "name": "Crucial Pro DDR5-5600 32 GB RAM CL46 Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/crucial-pro-ddr5-5600-32-gb-ram-cl46-schwarz-100368750/",
-   "stand": "2026-10-30T17:50",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 601.91,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/crucial-pro-ddr5-5600-32-gb-ram-cl46-schwarz-100368750/"
-    }
-   ],
-   "price": 601.91,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 601.91
-    }
-   ],
-   "count": 1,
-   "tags": "arbeitsspeicher ddr5 32 gb crucial pro ddr5 5600 ram cl46 schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-samsung-870-evo-2-5-zoll-ssd-sata-6g-2-tb",
    "cat": "SSDs",
    "sub": "SATA 2 TB",
    "name": "Samsung 870 EVO 2,5 Zoll SSD, SATA 6G - 2 TB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/samsung-870-evo-2.5-inch-ssd-sata-6g-2-tb/SSSS-180.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -56372,6 +56819,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 605.66
+    },
+    {
+     "d": "2026-10-31",
      "p": 605.66
     }
    ],
@@ -56738,6 +57189,39 @@
    "count": 1,
    "tags": "prozessoren intel lga1700 intel core 14900t ghz raptor lake refresh sockel 1700 tray",
    "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-patriot-viper-venom-ddr5-series-pvv532g560c36k-32-gb-ram-560-tskzv",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 32 GB",
+   "name": "Patriot Viper Venom DDR5 series PVV532G560C36K 32 GB RAM 5600 MT/s CL36 Silber, mattschwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/patriot-viper-venom-ddr5-series-pvv532g560c36k-32-gb-ram-5600-mt-s-cl36-silber-mattschwarz-7951193/",
+   "stand": "2026-10-31T13:48",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 617.63,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/patriot-viper-venom-ddr5-series-pvv532g560c36k-32-gb-ram-5600-mt-s-cl36-silber-mattschwarz-7951193/"
+    }
+   ],
+   "price": 617.63,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 726.44
+    },
+    {
+     "d": "2026-10-31",
+     "p": 617.63
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 32 gb patriot viper venom ddr5 series pvv532g560c36k ram 5600 cl36 silber mattschwarz",
+   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-western-digital-wd-black-sn8100-nvme-ssd-2-tb-m-2-pcie-5-0",
@@ -57112,35 +57596,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-t-force-vulcan-ddr5-32-gb-ram-2x16-gb-6000-mhz-cl38-schwarz-5voma",
-   "cat": "Arbeitsspeicher",
-   "sub": "DDR5 32 GB",
-   "name": "T-FORCE Vulcan DDR5 32 GB RAM 2x16 GB 6000 MHz CL38 Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/t-force-vulcan-ddr5-32-gb-ram-2x16-gb-6000-mhz-cl38-schwarz-8125287/",
-   "stand": "2026-10-30T17:50",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 627.2,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/t-force-vulcan-ddr5-32-gb-ram-2x16-gb-6000-mhz-cl38-schwarz-8125287/"
-    }
-   ],
-   "price": 627.2,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 627.2
-    }
-   ],
-   "count": 1,
-   "tags": "arbeitsspeicher ddr5 32 gb force vulcan ddr5 ram 2x16 6000 mhz cl38 schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-gigabyte-geforce-rtx-5060-ti-aero-oc-8192-mb-gddr7",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5060 Ti",
@@ -57271,7 +57726,7 @@
    "name": "Samsung 990 Evo Plus NVMe 2.0 SSD, PCIe 4.0 x4 / 5.0 x2, Typ 2280 - 4 TB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/samsung-990-evo-plus-nvme-2.0-ssd-pcie-4.0-x4-5.0-x2-type-2280-4-tb/SSSS-206.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -57287,6 +57742,10 @@
     {
      "d": "2026-10-30",
      "p": 629.07
+    },
+    {
+     "d": "2026-10-31",
+     "p": 629.07
     }
    ],
    "count": 1,
@@ -57300,7 +57759,7 @@
    "name": "Western Digital Blue SA510 2,5 Zoll SSD, SATA 6G - 4 TB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/western-digital-blue-sa510-2.5-inch-ssd-sata-6g-4-tb/SSWD-074.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -57315,6 +57774,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 629.34
+    },
+    {
+     "d": "2026-10-31",
      "p": 629.34
     }
    ],
@@ -57350,6 +57813,39 @@
    "count": 1,
    "tags": "prozessoren intel xeon 2356g prozessor ghz kerne lga 1200",
    "firstSeen": "2026-10-31"
+  },
+  {
+   "id": "c-t-force-vulcan-ddr5-32-gb-ram-2x16-gb-6000-mhz-cl38-schwarz-5voma",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 32 GB",
+   "name": "T-FORCE Vulcan DDR5 32 GB RAM 2x16 GB 6000 MHz CL38 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/t-force-vulcan-ddr5-32-gb-ram-2x16-gb-6000-mhz-cl38-schwarz-8125287/",
+   "stand": "2026-10-31T13:48",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 631.13,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/t-force-vulcan-ddr5-32-gb-ram-2x16-gb-6000-mhz-cl38-schwarz-8125287/"
+    }
+   ],
+   "price": 631.13,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 627.2
+    },
+    {
+     "d": "2026-10-31",
+     "p": 631.13
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 32 gb force vulcan ddr5 ram 2x16 6000 mhz cl38 schwarz",
+   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-samsung-980-pro-nvme-m-2-ssd-2-tb",
@@ -57503,7 +57999,7 @@
    "name": "G.Skill Ripjaws S5 DDR5 32 GB RAM 2x16 GB 5600 MT/s CL40 DIMM 288-Pin Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/g-skill-ripjaws-s5-ddr5-32-gb-ram-2x16-gb-5600-mt-s-cl40-dimm-288-pin-schwarz-7540745/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -57518,6 +58014,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 639.61
+    },
+    {
+     "d": "2026-10-31",
      "p": 639.61
     }
    ],
@@ -57710,7 +58210,7 @@
    "name": "Kingston FURY Renegade RGB 32 GB RAM 6400 MT/s DDR5 CL32 Schwarz, Silber",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-renegade-rgb-32-gb-ram-6400-mt-s-ddr5-cl32-schwarz-silber-100282411/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -57725,6 +58225,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 647.55
+    },
+    {
+     "d": "2026-10-31",
      "p": 647.55
     }
    ],
@@ -58033,7 +58537,7 @@
    "name": "Crucial DDR5 Kit 48 GB (2 x 24 GB) 5600 MHz CL46 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/crucial-ddr5-kit-48-gb-2-x-24-gb-5600-mhz-cl46-schwarz-100278414/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -58048,6 +58552,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 650.74
+    },
+    {
+     "d": "2026-10-31",
      "p": 650.74
     }
    ],
@@ -58091,7 +58599,7 @@
    "name": "Crucial Pro Overclocking Edition DDR5 Kit 32 GB (2 x 16 GB) 6400 MT/s CL38 Weiß",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/crucial-pro-overclocking-edition-ddr5-kit-32-gb-2-x-16-gb-6400-mt-s-cl38-weiss-100517932/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -58106,6 +58614,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 653.99
+    },
+    {
+     "d": "2026-10-31",
      "p": 653.99
     }
    ],
@@ -58389,7 +58901,7 @@
    "name": "G.Skill Trident Z5 RGB DDR5 32 GB RAM 6000 MT/s CL36 Kit (2x16 GB) Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/g-skill-trident-z5-rgb-ddr5-32-gb-ram-6000-mt-s-cl36-kit-2x16-gb-schwarz-7540740/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -58404,6 +58916,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 658.56
+    },
+    {
+     "d": "2026-10-31",
      "p": 658.56
     }
    ],
@@ -58567,7 +59083,7 @@
    "name": "Kingston FURY Beast DDR5 32 GB RAM 5600 MT/s CL40 DIMM Kit Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-beast-ddr5-32-gb-ram-5600-mt-s-cl40-dimm-kit-schwarz-7517723/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -58582,6 +59098,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 665.61
+    },
+    {
+     "d": "2026-10-31",
      "p": 665.61
     }
    ],
@@ -58749,7 +59269,7 @@
    "name": "Corsair Vengeance DDR5 Kit 32 GB (2 x 16 GB) 6400 MT/s CL32 Grau",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/corsair-vengeance-ddr5-kit-32-gb-2-x-16-gb-6400-mt-s-cl32-grau-100531009/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -58764,6 +59284,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 673.14
+    },
+    {
+     "d": "2026-10-31",
      "p": 673.14
     }
    ],
@@ -58840,7 +59364,7 @@
    "name": "Supermicro X13SCH-F Mainboard Micro-ATX LGA 1700 DDR5",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/supermicro-x13sch-f-mainboard-micro-atx-lga-1700-ddr5-100402844/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -58855,6 +59379,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 674.14
+    },
+    {
+     "d": "2026-10-31",
      "p": 674.14
     }
    ],
@@ -58956,7 +59484,7 @@
    "name": "MSI MEG Z890 ACE Mainboard ATX LGA1851 DDR5 Wi-Fi 7 10G LAN Schwarz, Gelb",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/msi-meg-z890-ace-mainboard-atx-lga1851-ddr5-wi-fi-7-10g-lan-schwarz-gelb-100511952/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -58971,6 +59499,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 677.59
+    },
+    {
+     "d": "2026-10-31",
      "p": 677.59
     }
    ],
@@ -59014,7 +59546,7 @@
    "name": "Kingston FURY Beast 32 GB (2 x 16 GB) DDR5 5200 MT/s CL40 DIMM Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-beast-32-gb-2-x-16-gb-ddr5-5200-mt-s-cl40-dimm-schwarz-7456884/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -59029,6 +59561,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 678.44
+    },
+    {
+     "d": "2026-10-31",
      "p": 678.44
     }
    ],
@@ -59254,7 +59790,7 @@
    "name": "Kingston FURY Beast RGB DDR5 32 GB RAM 2 x 16 GB 6000 MT/s CL36 DIMM Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-beast-rgb-ddr5-32-gb-ram-2-x-16-gb-6000-mt-s-cl36-dimm-schwarz-100500493/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -59269,6 +59805,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 693.1
+    },
+    {
+     "d": "2026-10-31",
      "p": 693.1
     }
    ],
@@ -59699,6 +60239,39 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-g-skill-trident-z5-rgb-ddr5-32-gb-ram-2x16-gb-6400-mhz-cl32--kgcgf",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 32 GB",
+   "name": "G.Skill Trident Z5 RGB DDR5 32 GB RAM 2x16 GB 6400 MHz CL32 Schwarz/Silber",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/g-skill-trident-z5-rgb-ddr5-32-gb-ram-2x16-gb-6400-mhz-cl32-schwarz-silber-7545473/",
+   "stand": "2026-10-31T13:48",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 716.17,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/g-skill-trident-z5-rgb-ddr5-32-gb-ram-2x16-gb-6400-mhz-cl32-schwarz-silber-7545473/"
+    }
+   ],
+   "price": 716.17,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 718.75
+    },
+    {
+     "d": "2026-10-31",
+     "p": 716.17
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 32 gb skill trident rgb ddr5 ram 2x16 6400 mhz cl32 schwarz silber",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-samsung-odyssey-neo-g7-s43cg700nu-43-4k-uhd-qled-monitor-sch",
    "cat": "Monitore",
    "sub": "43\"",
@@ -59879,7 +60452,7 @@
    "name": "XPG Lancer Blade DDR5 32 GB RAM 2 x 16 GB 6000 MHz CL30 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/xpg-lancer-blade-ddr5-32-gb-ram-2-x-16-gb-6000-mhz-cl30-schwarz-100371930/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -59895,39 +60468,14 @@
     {
      "d": "2026-10-30",
      "p": 718.47
+    },
+    {
+     "d": "2026-10-31",
+     "p": 718.47
     }
    ],
    "count": 1,
    "tags": "arbeitsspeicher ddr5 32 gb xpg lancer blade ddr5 ram 6000 mhz cl30 schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-g-skill-trident-z5-rgb-ddr5-32-gb-ram-2x16-gb-6400-mhz-cl32--kgcgf",
-   "cat": "Arbeitsspeicher",
-   "sub": "DDR5 32 GB",
-   "name": "G.Skill Trident Z5 RGB DDR5 32 GB RAM 2x16 GB 6400 MHz CL32 Schwarz/Silber",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/g-skill-trident-z5-rgb-ddr5-32-gb-ram-2x16-gb-6400-mhz-cl32-schwarz-silber-7545473/",
-   "stand": "2026-10-30T17:50",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 718.75,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/g-skill-trident-z5-rgb-ddr5-32-gb-ram-2x16-gb-6400-mhz-cl32-schwarz-silber-7545473/"
-    }
-   ],
-   "price": 718.75,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 718.75
-    }
-   ],
-   "count": 1,
-   "tags": "arbeitsspeicher ddr5 32 gb skill trident rgb ddr5 ram 2x16 6400 mhz cl32 schwarz silber",
    "firstSeen": "2026-10-30"
   },
   {
@@ -59957,35 +60505,6 @@
    ],
    "count": 1,
    "tags": "grafikkarten radeon rx 9060 xt sapphire pure radeon 9060 gaming grafikkarte 16384 gddr6",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-patriot-viper-venom-ddr5-series-pvv532g560c36k-32-gb-ram-560-tskzv",
-   "cat": "Arbeitsspeicher",
-   "sub": "DDR5 32 GB",
-   "name": "Patriot Viper Venom DDR5 series PVV532G560C36K 32 GB RAM 5600 MT/s CL36 Silber, mattschwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/patriot-viper-venom-ddr5-series-pvv532g560c36k-32-gb-ram-5600-mt-s-cl36-silber-mattschwarz-7951193/",
-   "stand": "2026-10-30T17:50",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 726.44,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/patriot-viper-venom-ddr5-series-pvv532g560c36k-32-gb-ram-5600-mt-s-cl36-silber-mattschwarz-7951193/"
-    }
-   ],
-   "price": 726.44,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 726.44
-    }
-   ],
-   "count": 1,
-   "tags": "arbeitsspeicher ddr5 32 gb patriot viper venom ddr5 series pvv532g560c36k ram 5600 cl36 silber mattschwarz",
    "firstSeen": "2026-10-30"
   },
   {
@@ -60053,7 +60572,7 @@
    "name": "Kingston FURY Renegade RGB DDR5 24 GB DIMM 4200 MHz CL40 Weiß & Silber",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-renegade-rgb-ddr5-24-gb-dimm-4200-mhz-cl40-weiss-silber-100531003/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -60068,6 +60587,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 730.78
+    },
+    {
+     "d": "2026-10-31",
      "p": 730.78
     }
    ],
@@ -60140,7 +60663,7 @@
    "name": "Corsair Vengeance RGB DDR5 32 GB (2x16 GB) RAM 6400 MHz CL32 DIMM Grau",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/corsair-vengeance-rgb-ddr5-32-gb-2x16-gb-ram-6400-mhz-cl32-dimm-grau-100536011/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -60155,6 +60678,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 731.66
+    },
+    {
+     "d": "2026-10-31",
      "p": 731.66
     }
    ],
@@ -60198,7 +60725,7 @@
    "name": "Kingston FURY Beast 32 GB RAM DDR5-6000 CL36 Kit Weiß",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-beast-32-gb-ram-ddr5-6000-cl36-kit-weiss-100518937/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -60214,6 +60741,10 @@
     {
      "d": "2026-10-30",
      "p": 731.99
+    },
+    {
+     "d": "2026-10-31",
+     "p": 731.99
     }
    ],
    "count": 1,
@@ -60226,15 +60757,15 @@
    "sub": "PCIe 4.0 4 TB",
    "name": "Samsung 990 PRO Series NVMe SSD, PCIe 4.0 M.2 Typ 2280, mit Kühlkörper - 4 TB",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/samsung-990-pro-series-nvme-ssd-pcie-4.0-m.2-type-2280-with-heatsink-4-tb/SSSS-201.html",
-   "stand": "2026-10-30T12:32",
+   "url": "https://www.caseking.de/samsung-990-pro-series-nvme-ssd-pcie-4.0-m.2-typ-2280-mit-kuehlkoerper-4-tb/SSSS-201.html",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 732.35,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/samsung-990-pro-series-nvme-ssd-pcie-4.0-m.2-type-2280-with-heatsink-4-tb/SSSS-201.html"
+     "url": "https://www.caseking.de/samsung-990-pro-series-nvme-ssd-pcie-4.0-m.2-typ-2280-mit-kuehlkoerper-4-tb/SSSS-201.html"
     }
    ],
    "price": 732.35,
@@ -60242,6 +60773,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 732.35
+    },
+    {
+     "d": "2026-10-31",
      "p": 732.35
     }
    ],
@@ -60343,7 +60878,7 @@
    "name": "AOC AGON PRO AG246FK 24.1\" 540 Hz Full HD TN Gaming-Monitor Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/aoc-agon-pro-ag246fk-24-1-540-hz-full-hd-tn-gaming-monitor-schwarz-100507557/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -60358,6 +60893,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 738.05
+    },
+    {
+     "d": "2026-10-31",
      "p": 738.05
     }
    ],
@@ -60430,7 +60969,7 @@
    "name": "Kingston FURY Beast KF560C36BBE2K2-32 32 GB RAM (2x16 GB) DDR5 6000 MT/s CL36 DIMM Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-beast-kf560c36bbe2k2-32-32-gb-ram-2x16-gb-ddr5-6000-mt-s-cl36-dimm-schwarz-100500492/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -60445,6 +60984,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 741.04
+    },
+    {
+     "d": "2026-10-31",
      "p": 741.04
     }
    ],
@@ -60869,7 +61412,7 @@
    "name": "Crucial Pro DDR5-5600 48 GB RAM CL46 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/crucial-pro-ddr5-5600-48-gb-ram-cl46-schwarz-100044322/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -60884,6 +61427,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 752.26
+    },
+    {
+     "d": "2026-10-31",
      "p": 752.26
     }
    ],
@@ -60985,7 +61532,7 @@
    "name": "Kingston FURY Beast RGB 32 GB (2 x 16 GB) DDR5 6000 MT/s CL36 DIMM Weiß",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-beast-rgb-32-gb-2-x-16-gb-ddr5-6000-mt-s-cl36-dimm-weiss-100514024/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -61000,6 +61547,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 762.87
+    },
+    {
+     "d": "2026-10-31",
      "p": 762.87
     }
    ],
@@ -61072,7 +61623,7 @@
    "name": "Corsair Dominator Titanium RGB 32 GB RAM 6000 MHz CL30 DDR5 Weiß",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/corsair-dominator-titanium-rgb-32-gb-ram-6000-mhz-cl30-ddr5-weiss-100053219/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -61087,6 +61638,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 770.17
+    },
+    {
+     "d": "2026-10-31",
      "p": 770.17
     }
    ],
@@ -61163,7 +61718,7 @@
    "name": "AOC AGON PRO PD34 Porsche Design OLED-Gaming-Monitor 34\" WQHD 240 Hz Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/aoc-agon-pro-pd34-porsche-design-oled-gaming-monitor-34-wqhd-240-hz-schwarz-100535064/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -61179,6 +61734,10 @@
     {
      "d": "2026-10-30",
      "p": 783.76
+    },
+    {
+     "d": "2026-10-31",
+     "p": 783.76
     }
    ],
    "count": 1,
@@ -61192,7 +61751,7 @@
    "name": "Kingston FURY Beast 32 GB DDR5 DIMM 6000 MHz CL30 Weiß",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-beast-32-gb-ddr5-dimm-6000-mhz-cl30-weiss-100514595/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -61207,6 +61766,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 788.76
+    },
+    {
+     "d": "2026-10-31",
      "p": 788.76
     }
    ],
@@ -61688,6 +62251,39 @@
    ],
    "count": 1,
    "tags": "monitore 31,5\" power m32uco curved gaming monitor oled display ultra antireflex",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-g-skill-ripjaws-s5-ddr5-32-gb-ram-2x16-gb-5600-mt-s-cl36-dim-1i8xi",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 32 GB",
+   "name": "G.Skill Ripjaws S5 DDR5 32 GB RAM 2x16 GB 5600 MT/s CL36 DIMM 288-Pin Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/g-skill-ripjaws-s5-ddr5-32-gb-ram-2x16-gb-5600-mt-s-cl36-dimm-288-pin-weiss-7540749/",
+   "stand": "2026-10-31T13:48",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 812.27,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/g-skill-ripjaws-s5-ddr5-32-gb-ram-2x16-gb-5600-mt-s-cl36-dimm-288-pin-weiss-7540749/"
+    }
+   ],
+   "price": 812.27,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 839.44
+    },
+    {
+     "d": "2026-10-31",
+     "p": 812.27
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 32 gb skill ripjaws ddr5 ram 2x16 5600 cl36 dimm 288 pin weiss",
    "firstSeen": "2026-10-30"
   },
   {
@@ -62295,35 +62891,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-g-skill-ripjaws-s5-ddr5-32-gb-ram-2x16-gb-5600-mt-s-cl36-dim-1i8xi",
-   "cat": "Arbeitsspeicher",
-   "sub": "DDR5 32 GB",
-   "name": "G.Skill Ripjaws S5 DDR5 32 GB RAM 2x16 GB 5600 MT/s CL36 DIMM 288-Pin Weiß",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/g-skill-ripjaws-s5-ddr5-32-gb-ram-2x16-gb-5600-mt-s-cl36-dimm-288-pin-weiss-7540749/",
-   "stand": "2026-10-30T17:50",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 839.44,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/g-skill-ripjaws-s5-ddr5-32-gb-ram-2x16-gb-5600-mt-s-cl36-dimm-288-pin-weiss-7540749/"
-    }
-   ],
-   "price": 839.44,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 839.44
-    }
-   ],
-   "count": 1,
-   "tags": "arbeitsspeicher ddr5 32 gb skill ripjaws ddr5 ram 2x16 5600 cl36 dimm 288 pin weiss",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-benq-photovue-sw272q-27-2560-x-1440-ips-monitor-schwarz-70y3v",
    "cat": "Monitore",
    "sub": "27\"",
@@ -62752,7 +63319,7 @@
    "name": "ASRock Rack ROMED4ID-2T Server-Mainboard Mini-ITX Socket SP3 AMD EPYC 2x 10GbE DDR4",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asrock-rack-romed4id-2t-server-mainboard-mini-itx-socket-sp3-amd-epyc-2x-10gbe-ddr4-6998852/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -62767,6 +63334,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 852.21
+    },
+    {
+     "d": "2026-10-31",
      "p": 852.21
     }
    ],
@@ -63137,7 +63708,7 @@
    "name": "Supermicro X13SEI-TF Server Mainboard ATX LGA4677 Intel C741 DDR5",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/supermicro-x13sei-tf-server-mainboard-atx-lga4677-intel-c741-ddr5-8152595/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -63152,6 +63723,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 864.26
+    },
+    {
+     "d": "2026-10-31",
      "p": 864.26
     }
    ],
@@ -63396,6 +63971,39 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-g-skill-trident-z5-32-gb-ram-2x16-gb-ddr5-6400-mt-s-cl32-sch-ntjzi",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 32 GB",
+   "name": "G.Skill Trident Z5 32 GB RAM 2x16 GB DDR5 6400 MT/s CL32 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/g-skill-trident-z5-32-gb-ram-2x16-gb-ddr5-6400-mt-s-cl32-schwarz-7545472/",
+   "stand": "2026-10-31T13:48",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 879.74,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/g-skill-trident-z5-32-gb-ram-2x16-gb-ddr5-6400-mt-s-cl32-schwarz-7545472/"
+    }
+   ],
+   "price": 879.74,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 879.91
+    },
+    {
+     "d": "2026-10-31",
+     "p": 879.74
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 32 gb skill trident ram 2x16 ddr5 6400 cl32 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-g-skill-trident-z5-32-gb-ram-2x16-gb-ddr5-6400-mt-s-cl32-sch",
    "cat": "Arbeitsspeicher",
    "sub": "DDR5 32 GB",
@@ -63418,35 +64026,6 @@
     {
      "d": "2026-10-30",
      "p": 879.86
-    }
-   ],
-   "count": 1,
-   "tags": "arbeitsspeicher ddr5 32 gb skill trident ram 2x16 ddr5 6400 cl32 schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-g-skill-trident-z5-32-gb-ram-2x16-gb-ddr5-6400-mt-s-cl32-sch-ntjzi",
-   "cat": "Arbeitsspeicher",
-   "sub": "DDR5 32 GB",
-   "name": "G.Skill Trident Z5 32 GB RAM 2x16 GB DDR5 6400 MT/s CL32 Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/g-skill-trident-z5-32-gb-ram-2x16-gb-ddr5-6400-mt-s-cl32-schwarz-7545472/",
-   "stand": "2026-10-30T17:50",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 879.91,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/g-skill-trident-z5-32-gb-ram-2x16-gb-ddr5-6400-mt-s-cl32-schwarz-7545472/"
-    }
-   ],
-   "price": 879.91,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 879.91
     }
    ],
    "count": 1,
@@ -63791,7 +64370,7 @@
    "name": "G.Skill Flare X5 32 GB RAM 2x 16 GB DDR5-6000 CL28 DIMM Low Profile Weiß",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/g-skill-flare-x5-32-gb-ram-2x-16-gb-ddr5-6000-cl28-dimm-low-profile-weiss-100545665/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -63806,6 +64385,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 902.53
+    },
+    {
+     "d": "2026-10-31",
      "p": 902.53
     }
    ],
@@ -64143,7 +64726,7 @@
    "name": "G.Skill Ripjaws S5 DDR5 32 GB RAM (2x16 GB) 6000 MT/s CL30 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/g-skill-ripjaws-s5-ddr5-32-gb-ram-2x16-gb-6000-mt-s-cl30-schwarz-100532465/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -64158,6 +64741,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 927.62
+    },
+    {
+     "d": "2026-10-31",
      "p": 927.62
     }
    ],
@@ -65003,7 +65590,7 @@
    "name": "Samsung 9100 PRO Series NVMe SSD, PCIe 5.0 M.2 Typ 2280 - 4TB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/samsung-9100-pro-series-nvme-ssd-pcie-5.0-m.2-type-2280-4tb/SSSS-209.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -65018,6 +65605,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 971.61
+    },
+    {
+     "d": "2026-10-31",
      "p": 971.61
     }
    ],
@@ -65640,7 +66231,7 @@
    "name": "Kingston FURY Beast KF436C18BBK2/64 64 GB DDR4 3600 MHz CL18 DIMM Kit Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-beast-kf436c18bbk2-64-64-gb-ddr4-3600-mhz-cl18-dimm-kit-schwarz-7287443/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -65655,6 +66246,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 1036.47
+    },
+    {
+     "d": "2026-10-31",
      "p": 1036.47
     }
    ],
@@ -65797,7 +66392,7 @@
    "name": "Corsair Vengeance RGB 64 GB (2x32 GB) DDR5 5600 MHz CL40 DIMM Kit Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/corsair-vengeance-rgb-64-gb-2x32-gb-ddr5-5600-mhz-cl40-dimm-kit-schwarz-100068518/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -65812,6 +66407,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 1071.46
+    },
+    {
+     "d": "2026-10-31",
      "p": 1071.46
     }
    ],
@@ -66405,7 +67004,7 @@
    "name": "Corsair Dominator Titanium RGB DDR5 48 GB RAM (2x 24 GB) 7200 MHz CL36 Weiß",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/corsair-dominator-titanium-rgb-ddr5-48-gb-ram-2x-24-gb-7200-mhz-cl36-weiss-100357685/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -66420,6 +67019,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 1130.01
+    },
+    {
+     "d": "2026-10-31",
      "p": 1130.01
     }
    ],
@@ -66558,7 +67161,7 @@
    "name": "Kingston FURY Beast RGB DDR4 64 GB RAM 3600 MHz CL18 DIMM Kit Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-beast-rgb-ddr4-64-gb-ram-3600-mhz-cl18-dimm-kit-schwarz-100049103/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -66573,6 +67176,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 1138.19
+    },
+    {
+     "d": "2026-10-31",
      "p": 1138.19
     }
    ],
@@ -66992,7 +67599,7 @@
    "name": "Samsung 870 EVO 2,5 Zoll SSD, SATA 6G - 4 TB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/samsung-870-evo-2.5-inch-ssd-sata-6g-4-tb/SSSS-181.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -67007,6 +67614,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 1239.11
+    },
+    {
+     "d": "2026-10-31",
      "p": 1239.11
     }
    ],
@@ -67203,7 +67814,7 @@
    "name": "Kingston FURY Renegade RGB DDR5 64 GB RAM 2 x 32 GB 6400 MT/s CL32 DIMM Silber, Weiß",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-renegade-rgb-ddr5-64-gb-ram-2-x-32-gb-6400-mt-s-cl32-dimm-silber-weiss-100540091/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -67218,6 +67829,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 1278.81
+    },
+    {
+     "d": "2026-10-31",
      "p": 1278.81
     }
    ],
@@ -67319,7 +67934,7 @@
    "name": "G.Skill Flare X5 DDR5 64 GB RAM 2 x 32 GB 6000 MHz CL36 DIMM Mattes Weiß",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/g-skill-flare-x5-ddr5-64-gb-ram-2-x-32-gb-6000-mhz-cl36-dimm-mattes-weiss-100545667/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -67334,6 +67949,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 1282.12
+    },
+    {
+     "d": "2026-10-31",
      "p": 1282.12
     }
    ],
@@ -67377,7 +67996,7 @@
    "name": "CORSAIR Vengeance DDR5 48 GB RAM 2x24 GB CUDIMM PC5-64000 CL38 Silber",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/corsair-vengeance-ddr5-48-gb-ram-2x24-gb-cudimm-pc5-64000-cl38-silber-100542528/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -67392,6 +68011,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 1286.89
+    },
+    {
+     "d": "2026-10-31",
      "p": 1286.89
     }
    ],
@@ -68051,7 +68674,7 @@
    "name": "Kingston FURY Beast KF560C36BBE2K2-64 DDR5 64 GB RAM 3000 MHz Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-beast-kf560c36bbe2k2-64-ddr5-64-gb-ram-3000-mhz-schwarz-100590187/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -68066,6 +68689,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 1422.3
+    },
+    {
+     "d": "2026-10-31",
      "p": 1422.3
     }
    ],
@@ -68142,7 +68769,7 @@
    "name": "G.Skill DIMM 64 GB DDR5-6000 (2x 32 GB) Dual-Kit, Arbeitsspeicher",
    "source": "crawler",
    "url": "https://www.alternate.de/G-Skill/DIMM-64-GB-DDR5-6000-2x-32-GB-Dual-Kit-Arbeitsspeicher/html/product/100009719",
-   "stand": "2026-10-31T07:54",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -68666,7 +69293,7 @@
    "name": "Kingston FURY DIMM 64 GB DDR5-5600 (2x 32 GB) Dual-Kit, Arbeitsspeicher",
    "source": "crawler",
    "url": "https://www.alternate.de/Kingston-FURY/DIMM-64-GB-DDR5-5600-2x-32-GB-Dual-Kit-Arbeitsspeicher/html/product/100140702",
-   "stand": "2026-10-31T09:43",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -68918,7 +69545,7 @@
    "name": "Kingston FURY DIMM 64 GB DDR5-6000 (2x 32 GB) Dual-Kit, Arbeitsspeicher",
    "source": "crawler",
    "url": "https://www.alternate.de/Kingston-FURY/DIMM-64-GB-DDR5-6000-2x-32-GB-Dual-Kit-Arbeitsspeicher/html/product/100140717",
-   "stand": "2026-10-31T07:54",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -69104,7 +69731,7 @@
    "name": "Corsair Vengeance RGB 96 GB RAM (2x 48 GB) DDR5 7200 MHz CL40 DIMM Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/corsair-vengeance-rgb-96-gb-ram-2x-48-gb-ddr5-7200-mhz-cl40-dimm-schwarz-100533554/",
-   "stand": "2026-10-30T17:50",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -69119,6 +69746,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 1689.97
+    },
+    {
+     "d": "2026-10-31",
      "p": 1689.97
     }
    ],
@@ -70327,7 +70958,7 @@
    "name": "Samsung 9100 PRO Series NVMe SSD, PCIe 5.0 M.2 Typ 2280 - 8 TB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/samsung-9100-pro-series-nvme-ssd-pcie-5.0-m.2-type-2280-8-tb/SSSS-214.html",
-   "stand": "2026-10-30T12:32",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
@@ -70343,6 +70974,10 @@
     {
      "d": "2026-10-30",
      "p": 2126.79
+    },
+    {
+     "d": "2026-10-31",
+     "p": 2126.79
     }
    ],
    "count": 1,
@@ -70355,15 +70990,15 @@
    "sub": "PCIe 5.0 8 TB",
    "name": "Samsung 9100 PRO Series NVMe SSD, PCIe 5.0 M.2 Typ 2280, mit Kühlkörper - 8TB",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/samsung-9100-pro-series-nvme-ssd-pcie-5.0-m.2-type-2280-with-heatsink-8tb/SSSS-215.html",
-   "stand": "2026-10-30T12:32",
+   "url": "https://www.caseking.de/samsung-9100-pro-series-nvme-ssd-pcie-5.0-m.2-typ-2280-mit-kuehlkoerper-8tb/SSSS-215.html",
+   "stand": "2026-10-31T13:48",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 2139.94,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/samsung-9100-pro-series-nvme-ssd-pcie-5.0-m.2-type-2280-with-heatsink-8tb/SSSS-215.html"
+     "url": "https://www.caseking.de/samsung-9100-pro-series-nvme-ssd-pcie-5.0-m.2-typ-2280-mit-kuehlkoerper-8tb/SSSS-215.html"
     }
    ],
    "price": 2139.94,
@@ -70371,6 +71006,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 2139.94
+    },
+    {
+     "d": "2026-10-31",
      "p": 2139.94
     }
    ],
