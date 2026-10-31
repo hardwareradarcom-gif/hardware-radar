@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T09:43:39.527Z",
+ "updated": "2026-10-31T11:06:30.329Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -4361,13 +4361,21 @@
    "name": "AMD Ryzen 7 7700 (tray)",
    "url": "https://www.hardwaredealz.com/hardware/cpu/amd-ryzen-7-7700-tray/preisvergleich.1877",
    "source": "hardwaredealz",
-   "stand": "2026-10-29T16:00",
+   "stand": "2026-10-31T11:06",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
      "price": 173,
      "ship": null,
      "avail": null
+    },
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 302.51,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/amd-ryzen-7-7700-prozessor-3-8-ghz-8-kerne-32-mb-cache-8122832/",
+     "crawler": true
     }
    ],
    "price": 173,
@@ -4375,6 +4383,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 173
+    },
+    {
+     "d": "2026-10-31",
      "p": 173
     }
    ]
@@ -4386,7 +4398,7 @@
    "name": "AMD Ryzen 7 7700X (boxed)",
    "url": "https://www.hardwaredealz.com/hardware/cpu/amd-ryzen-7-7700x-boxed/preisvergleich.1878",
    "source": "hardwaredealz",
-   "stand": "2026-10-31T09:43",
+   "stand": "2026-10-31T11:06",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
@@ -4400,6 +4412,14 @@
      "ship": null,
      "avail": "Auf Lager",
      "url": "https://www.caseking.de/en/amd-ryzen-7-7700x-4.5-ghz-raphael-am5-boxed/HPAM-249.html",
+     "crawler": true
+    },
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 253.59,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/amd-ryzen-7-7700x-4-5-ghz-8-kerne-32-mb-cache-7987605/",
      "crawler": true
     }
    ],
@@ -4704,13 +4724,21 @@
    "name": "AMD Ryzen 7 5700G (boxed)",
    "url": "https://www.hardwaredealz.com/hardware/cpu/amd-ryzen-7-5700g-boxed-fan/preisvergleich.1868",
    "source": "hardwaredealz",
-   "stand": "2026-10-29T16:00",
+   "stand": "2026-10-31T11:06",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
      "price": 199.9,
      "ship": null,
      "avail": null
+    },
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 228.46,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/amd-ryzen-7-5700g-prozessor-3-8-ghz-8-kerne-16-mb-cache-socket-am4-4684037/",
+     "crawler": true
     }
    ],
    "price": 199.9,
@@ -4718,6 +4746,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 199.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 199.9
     }
    ]
@@ -6603,6 +6635,35 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-xilence-m704-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Xilence M704, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Xilence/M704-CPU-K%C3%BChler/html/product/1459051",
+   "stand": "2026-10-31T11:06",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 21.99,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Xilence/M704-CPU-K%C3%BChler/html/product/1459051"
+    }
+   ],
+   "price": 21.99,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 21.99
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler xilence m704 cpu kuhler",
+   "firstSeen": "2026-10-31"
+  },
+  {
    "id": "c-akasa-low-profile-cpu-kuhler-intel-lga1700-kupfer-und-alumin",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -7465,6 +7526,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-scythe-shuriken-3-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Scythe Shuriken 3, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Scythe/Shuriken-3-CPU-K%C3%BChler/html/product/100156885",
+   "stand": "2026-10-31T11:06",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 29.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Scythe/Shuriken-3-CPU-K%C3%BChler/html/product/100156885"
+    }
+   ],
+   "price": 29.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 29.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler scythe shuriken cpu kuhler",
+   "firstSeen": "2026-10-31"
+  },
+  {
    "id": "c-silverstone-sst-ar09-115xp-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -7779,6 +7869,64 @@
    "firstSeen": "2026-10-31"
   },
   {
+   "id": "c-scythe-kotetsu-mark-4-argb-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Scythe Kotetsu Mark 4 ARGB, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Scythe/Kotetsu-Mark-4-ARGB-CPU-K%C3%BChler/html/product/100156891",
+   "stand": "2026-10-31T11:06",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 34.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Scythe/Kotetsu-Mark-4-ARGB-CPU-K%C3%BChler/html/product/100156891"
+    }
+   ],
+   "price": 34.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 34.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler scythe kotetsu mark argb cpu kuhler",
+   "firstSeen": "2026-10-31"
+  },
+  {
+   "id": "c-scythe-big-shuriken-4-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Scythe Big Shuriken 4, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Scythe/Big-Shuriken-4-CPU-K%C3%BChler/html/product/100156883",
+   "stand": "2026-10-31T11:06",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 34.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Scythe/Big-Shuriken-4-CPU-K%C3%BChler/html/product/100156883"
+    }
+   ],
+   "price": 34.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 34.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler scythe big shuriken cpu kuhler",
+   "firstSeen": "2026-10-31"
+  },
+  {
    "id": "c-silverstone-sst-xe01-1700a-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -8074,6 +8222,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler montech nx600 argb cpu kuhler dual tower 120mm schwarz",
    "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-scythe-magoroku-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Scythe Magoroku, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Scythe/Magoroku-CPU-K%C3%BChler/html/product/100156896",
+   "stand": "2026-10-31T11:06",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 39.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Scythe/Magoroku-CPU-K%C3%BChler/html/product/100156896"
+    }
+   ],
+   "price": 39.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 39.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler scythe magoroku cpu kuhler",
+   "firstSeen": "2026-10-31"
   },
   {
    "id": "c-silentware-titan-performance-cpu-kuhler",
@@ -9132,6 +9309,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-scythe-mugen-6-dual-fan-white-argb-edition-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Scythe Mugen 6 Dual Fan White ARGB Edition, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Scythe/Mugen-6-Dual-Fan-White-ARGB-Edition-CPU-K%C3%BChler/html/product/100156897",
+   "stand": "2026-10-31T11:06",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 49.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Scythe/Mugen-6-Dual-Fan-White-ARGB-Edition-CPU-K%C3%BChler/html/product/100156897"
+    }
+   ],
+   "price": 49.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 49.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler scythe mugen dual fan white argb edition cpu kuhler",
+   "firstSeen": "2026-10-31"
+  },
+  {
    "id": "c-alpenfohn-brocken-4-max-argb-cpu-kuhler-2x-120mm-schwarz",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -9929,6 +10135,93 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-noctua-nh-l9x65-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Noctua NH-L9x65, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Noctua/NH-L9x65-CPU-K%C3%BChler/html/product/1194370",
+   "stand": "2026-10-31T11:06",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 59.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Noctua/NH-L9x65-CPU-K%C3%BChler/html/product/1194370"
+    }
+   ],
+   "price": 59.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 59.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler noctua l9x65 cpu kuhler",
+   "firstSeen": "2026-10-31"
+  },
+  {
+   "id": "c-scythe-mugen-6-tuf-white-edition-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Scythe Mugen 6 TUF White Edition, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Scythe/Mugen-6-TUF-White-Edition-CPU-K%C3%BChler/html/product/100155751",
+   "stand": "2026-10-31T11:06",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 59.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Scythe/Mugen-6-TUF-White-Edition-CPU-K%C3%BChler/html/product/100155751"
+    }
+   ],
+   "price": 59.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 59.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler scythe mugen tuf white edition cpu kuhler",
+   "firstSeen": "2026-10-31"
+  },
+  {
+   "id": "c-scythe-mugen-6-tuf-black-edition-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Scythe Mugen 6 TUF Black Edition, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Scythe/Mugen-6-TUF-Black-Edition-CPU-K%C3%BChler/html/product/100155738",
+   "stand": "2026-10-31T11:06",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 59.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Scythe/Mugen-6-TUF-Black-Edition-CPU-K%C3%BChler/html/product/100155738"
+    }
+   ],
+   "price": 59.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 59.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler scythe mugen tuf black edition cpu kuhler",
+   "firstSeen": "2026-10-31"
+  },
+  {
    "id": "c-gigabyte-a520m-k-v2-mainboard-sockel-am4-amd-a520-micro-atx-",
    "cat": "Mainboards",
    "sub": "AM4 A520",
@@ -10619,6 +10912,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-noctua-nh-l9x65-chromax-black-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Noctua NH-L9x65 chromax.black, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Noctua/NH-L9x65-chromax-black-CPU-K%C3%BChler/html/product/100024041",
+   "stand": "2026-10-31T11:06",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 69.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Noctua/NH-L9x65-chromax-black-CPU-K%C3%BChler/html/product/100024041"
+    }
+   ],
+   "price": 69.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 69.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler noctua l9x65 chromax black cpu kuhler",
+   "firstSeen": "2026-10-31"
+  },
+  {
    "id": "c-msi-spatium-s270-sata-ssd-240-gb-2-5",
    "cat": "SSDs",
    "sub": "SATA 240 GB",
@@ -10886,6 +11208,35 @@
    "count": 1,
    "tags": "mainboards am4 b550 gigabyte b550m mainboard sockel am4 amd b550 micro atx ddr4",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-arctic-liquid-freezer-iii-pro-280-aio-cpu-wasserkuhler-280-m",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Arctic Liquid Freezer III Pro 280 AIO CPU-Wasserkühler 280 mm Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/arctic-liquid-freezer-iii-pro-280-aio-cpu-wasserkuehler-280-mm-schwarz-100593628/",
+   "stand": "2026-10-31T11:06",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 72.74,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/arctic-liquid-freezer-iii-pro-280-aio-cpu-wasserkuehler-280-mm-schwarz-100593628/"
+    }
+   ],
+   "price": 72.74,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 72.74
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung arctic liquid freezer iii pro 280 aio cpu wasserkuhler schwarz",
+   "firstSeen": "2026-10-31"
   },
   {
    "id": "c-akasa-soho-h6l-m2-low-profile-cpu-kuhler-argb-120mm-weiss",
@@ -11174,6 +11525,35 @@
    ],
    "count": 1,
    "tags": "kuhlung luftkuhler quiet dark rock elite cpu kuhler",
+   "firstSeen": "2026-10-31"
+  },
+  {
+   "id": "c-noctua-nh-d9l-chromax-black-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Noctua NH-D9L chromax.black, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Noctua/NH-D9L-chromax-black-CPU-K%C3%BChler/html/product/100024032",
+   "stand": "2026-10-31T11:06",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 74.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Noctua/NH-D9L-chromax-black-CPU-K%C3%BChler/html/product/100024032"
+    }
+   ],
+   "price": 74.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 74.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler noctua d9l chromax black cpu kuhler",
    "firstSeen": "2026-10-31"
   },
   {
@@ -13047,6 +13427,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-noctua-nh-u12s-chromax-black-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Noctua NH-U12S chromax.black, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Noctua/NH-U12S-chromax-black-CPU-K%C3%BChler/html/product/1585516",
+   "stand": "2026-10-31T11:06",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 89.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Noctua/NH-U12S-chromax-black-CPU-K%C3%BChler/html/product/1585516"
+    }
+   ],
+   "price": 89.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 89.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler noctua u12s chromax black cpu kuhler",
+   "firstSeen": "2026-10-31"
+  },
+  {
    "id": "c-asrock-phantom-gaming-b550m-phantom-gaming-4-mainboard-micro",
    "cat": "Mainboards",
    "sub": "AM4 B550",
@@ -13789,6 +14198,35 @@
    ],
    "count": 1,
    "tags": "kuhlung luftkuhler deepcool assassin elite cpu kuhler",
+   "firstSeen": "2026-10-31"
+  },
+  {
+   "id": "c-arctic-liquid-freezer-iii-pro-420-a-rgb-cpu-wasserkuhlung-42",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "ARCTIC Liquid Freezer III Pro 420 A-RGB CPU-Wasserkühlung 420 mm 3x 140 mm Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/arctic-liquid-freezer-iii-pro-420-a-rgb-cpu-wasserkuehlung-420-mm-3x-140-mm-schwarz-100597789/",
+   "stand": "2026-10-31T11:06",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 95.2,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/arctic-liquid-freezer-iii-pro-420-a-rgb-cpu-wasserkuehlung-420-mm-3x-140-mm-schwarz-100597789/"
+    }
+   ],
+   "price": 95.2,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 95.2
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung arctic liquid freezer iii pro 420 rgb cpu wasserkuhlung 140 schwarz",
    "firstSeen": "2026-10-31"
   },
   {
@@ -18047,6 +18485,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-intel-core-i3-10105-3-7-ghz-prozessor-4-kerne-8-threads-lga1",
+   "cat": "Prozessoren",
+   "sub": "Prozessoren",
+   "name": "Intel Core i3-10105 3,7 GHz Prozessor 4 Kerne 8 Threads LGA1200",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/intel-core-i3-10105-3-7-ghz-prozessor-4-kerne-8-threads-lga1200-7034482/",
+   "stand": "2026-10-31T11:06",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 118.2,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/intel-core-i3-10105-3-7-ghz-prozessor-4-kerne-8-threads-lga1200-7034482/"
+    }
+   ],
+   "price": 118.2,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 118.2
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren intel core 10105 ghz prozessor kerne threads lga1200",
+   "firstSeen": "2026-10-31"
+  },
+  {
    "id": "c-hp-series-3-pro-324pe-led-monitor-60-5-cm-23-8-full-hd-100hz",
    "cat": "Monitore",
    "sub": "23,8\"",
@@ -18107,6 +18574,35 @@
    "count": 1,
    "tags": "monitore 23,8\" series pro 324pe led monitor full 100hz ips schwarz b1gm5aa abb",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-noctua-nh-d15-chromax-black-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Noctua NH-D15 chromax.black, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Noctua/NH-D15-chromax-black-CPU-K%C3%BChler/html/product/1585511",
+   "stand": "2026-10-31T11:06",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 118.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Noctua/NH-D15-chromax-black-CPU-K%C3%BChler/html/product/1585511"
+    }
+   ],
+   "price": 118.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 118.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler noctua d15 chromax black cpu kuhler",
+   "firstSeen": "2026-10-31"
   },
   {
    "id": "c-msi-pro-mp165de-e6-16-full-hd-ips-monitor-schwarz",
@@ -27416,6 +27912,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler alphacool apex cpu cooler am5 socket argb black",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-amd-ryzen-5-8500g-3-5-ghz-6-kerne-16-mb-cache-sockel-am5",
+   "cat": "Prozessoren",
+   "sub": "AM5",
+   "name": "AMD Ryzen 5 8500G 3,5 GHz 6 Kerne 16 MB Cache Sockel AM5",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/amd-ryzen-5-8500g-3-5-ghz-6-kerne-16-mb-cache-sockel-am5-100396811/",
+   "stand": "2026-10-31T11:06",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 160.42,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/amd-ryzen-5-8500g-3-5-ghz-6-kerne-16-mb-cache-sockel-am5-100396811/"
+    }
+   ],
+   "price": 160.42,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 160.42
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren am5 amd ryzen 8500g ghz kerne cache sockel",
+   "firstSeen": "2026-10-31"
   },
   {
    "id": "c-asus-prime-b660m-a-d4-csm-mainboard-micro-atx-sockel-lga-170",
@@ -38334,6 +38859,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-intel-core-i7-12700kf-3-6-ghz-prozessor-12-kerne-lga-1700",
+   "cat": "Prozessoren",
+   "sub": "Intel LGA1700",
+   "name": "Intel Core i7-12700KF 3.6 GHz Prozessor 12 Kerne LGA 1700",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/intel-core-i7-12700kf-3-6-ghz-prozessor-12-kerne-lga-1700-7383915/",
+   "stand": "2026-10-31T11:06",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 243.34,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/intel-core-i7-12700kf-3-6-ghz-prozessor-12-kerne-lga-1700-7383915/"
+    }
+   ],
+   "price": 243.34,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 243.34
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren intel lga1700 intel core 12700kf ghz prozessor kerne lga 1700",
+   "firstSeen": "2026-10-31"
+  },
+  {
    "id": "c-asrock-z890-steel-legend-wifi-mainboard-sockel-lga-1851-inte",
    "cat": "Mainboards",
    "sub": "Intel LGA1851 Z890",
@@ -39664,6 +40218,35 @@
    "count": 1,
    "tags": "ssds pcie 5.0 1 tb samsung 9100 pro series nvme ssd pcie typ 2280 mit kuhlkorper 1tb",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-intel-core-i5-12600-3-3-ghz-prozessor-6-kerne-lga-1700",
+   "cat": "Prozessoren",
+   "sub": "Intel LGA1700",
+   "name": "Intel Core i5-12600 3.3 GHz Prozessor 6 Kerne LGA 1700",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/intel-core-i5-12600-3-3-ghz-prozessor-6-kerne-lga-1700-7533270/",
+   "stand": "2026-10-31T11:06",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 252.46,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/intel-core-i5-12600-3-3-ghz-prozessor-6-kerne-lga-1700-7533270/"
+    }
+   ],
+   "price": 252.46,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 252.46
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren intel lga1700 intel core 12600 ghz prozessor kerne lga 1700",
+   "firstSeen": "2026-10-31"
   },
   {
    "id": "c-aoc-e4-series-led-monitor-68-6-cm-27-3840-x-2160-4k-uhd-2160",
@@ -41740,6 +42323,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-intel-core-i5-13500-2-5-ghz-14-kerne-lga-1700",
+   "cat": "Prozessoren",
+   "sub": "Intel LGA1700",
+   "name": "Intel Core i5-13500 2,5 GHz 14 Kerne LGA 1700",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/intel-core-i5-13500-2-5-ghz-14-kerne-lga-1700-8134456/",
+   "stand": "2026-10-31T11:06",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 276.77,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/intel-core-i5-13500-2-5-ghz-14-kerne-lga-1700-8134456/"
+    }
+   ],
+   "price": 276.77,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 276.77
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren intel lga1700 intel core 13500 ghz kerne lga 1700",
+   "firstSeen": "2026-10-31"
+  },
+  {
    "id": "c-asus-proart-b850-creator-wifi-neo-mainboard-amd-am5-ddr5-atx",
    "cat": "Mainboards",
    "sub": "AM5 B850",
@@ -42790,6 +43402,35 @@
    "count": 1,
    "tags": "ssds sata 1 tb samsung 870 evo zoll ssd sata",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-intel-core-ultra-5-235-3-4-ghz-prozessor-14-kerne-24-mb-cach",
+   "cat": "Prozessoren",
+   "sub": "Intel LGA1851",
+   "name": "Intel Core Ultra 5 235 3.4 GHz Prozessor 14 Kerne 24 MB Cache",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/intel-core-ultra-5-235-3-4-ghz-prozessor-14-kerne-24-mb-cache-100678511/",
+   "stand": "2026-10-31T11:06",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 297.15,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/intel-core-ultra-5-235-3-4-ghz-prozessor-14-kerne-24-mb-cache-100678511/"
+    }
+   ],
+   "price": 297.15,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 297.15
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren intel lga1851 intel core ultra 235 ghz prozessor kerne cache",
+   "firstSeen": "2026-10-31"
   },
   {
    "id": "c-gigabyte-g34wqc2-34-zoll-wqhd-gaming-monitor-200hz-va-panel-",
@@ -44348,6 +44989,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-intel-core-i9-12900kf-prozessor-3-2-ghz-16-kerne-30-mb-cache",
+   "cat": "Prozessoren",
+   "sub": "Intel LGA1700",
+   "name": "Intel Core i9-12900KF Prozessor 3.2 GHz 16 Kerne 30 MB Cache LGA 1700",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/intel-core-i9-12900kf-prozessor-3-2-ghz-16-kerne-30-mb-cache-lga-1700-7383913/",
+   "stand": "2026-10-31T11:06",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 327.04,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/intel-core-i9-12900kf-prozessor-3-2-ghz-16-kerne-30-mb-cache-lga-1700-7383913/"
+    }
+   ],
+   "price": 327.04,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 327.04
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren intel lga1700 intel core 12900kf prozessor ghz kerne cache lga 1700",
+   "firstSeen": "2026-10-31"
+  },
+  {
    "id": "c-kingston-fury-beast-rgb-16-gb-ram-ddr5-6400-mhz-dimm-weiss",
    "cat": "Arbeitsspeicher",
    "sub": "DDR5 16 GB",
@@ -44644,6 +45314,35 @@
    "count": 1,
    "tags": "netzteile 1000 w+ silverstone sst ha1300r platinum netzteil modular 1300 watt",
    "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-intel-core-i9-12900kf-3-2-ghz-16-kerne-30-mb-cache-lga1700",
+   "cat": "Prozessoren",
+   "sub": "Intel LGA1700",
+   "name": "Intel Core i9-12900KF 3.2 GHz 16 Kerne 30 MB Cache LGA1700",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/intel-core-i9-12900kf-3-2-ghz-16-kerne-30-mb-cache-lga1700-7383919/",
+   "stand": "2026-10-31T11:06",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 331.78,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/intel-core-i9-12900kf-3-2-ghz-16-kerne-30-mb-cache-lga1700-7383919/"
+    }
+   ],
+   "price": 331.78,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 331.78
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren intel lga1700 intel core 12900kf ghz kerne cache lga1700",
+   "firstSeen": "2026-10-31"
   },
   {
    "id": "c-asus-rog-strix-b850-e-gaming-wifi-mainboard-sockel-am5-amd-b",
@@ -47186,6 +47885,35 @@
    "count": 1,
    "tags": "monitore dell plus monitor s3225qs uhd 3840x2160 120hz 4ms amd freesync premium dci hdr10 hohenverstellbar eingebaute lautsprecher displayport",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-intel-core-i5-13500-prozessor-2-5-ghz-14-kerne-lga-1700",
+   "cat": "Prozessoren",
+   "sub": "Intel LGA1700",
+   "name": "Intel Core i5-13500 Prozessor 2,5 GHz 14 Kerne LGA 1700",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/intel-core-i5-13500-prozessor-2-5-ghz-14-kerne-lga-1700-8134455/",
+   "stand": "2026-10-31T11:06",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 375.45,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/intel-core-i5-13500-prozessor-2-5-ghz-14-kerne-lga-1700-8134455/"
+    }
+   ],
+   "price": 375.45,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 375.45
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren intel lga1700 intel core 13500 prozessor ghz kerne lga 1700",
+   "firstSeen": "2026-10-31"
   },
   {
    "id": "c-lg-ultrawide-34u650a-b-34-wqhd-ips-curved-office-monitor-100",
@@ -55379,6 +56107,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-intel-core-i9-13900k-3-ghz-24-kerne-lga-1700",
+   "cat": "Prozessoren",
+   "sub": "Intel LGA1700",
+   "name": "Intel Core i9-13900K 3 GHz 24 Kerne LGA 1700",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/intel-core-i9-13900k-3-ghz-24-kerne-lga-1700-8028178/",
+   "stand": "2026-10-31T11:06",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 610.04,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/intel-core-i9-13900k-3-ghz-24-kerne-lga-1700-8028178/"
+    }
+   ],
+   "price": 610.04,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 610.04
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren intel lga1700 intel core 13900k ghz kerne lga 1700",
+   "firstSeen": "2026-10-31"
+  },
+  {
    "id": "c-alienware-aw2725q-27-4k-qd-oled-gaming-monitor-240-hz-schwar",
    "cat": "Monitore",
    "sub": "27\"",
@@ -56445,6 +57202,35 @@
    "count": 1,
    "tags": "mainboards intel lga1851 z890 asus rog maximus z890 hero btf mainboard atx lga1851 intel ddr5 schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-intel-core-i9-13900-2-ghz-24-kerne-36-mb-cache",
+   "cat": "Prozessoren",
+   "sub": "Intel LGA1700",
+   "name": "Intel Core i9 13900 2 GHz 24 Kerne 36 MB Cache",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/intel-core-i9-13900-2-ghz-24-kerne-36-mb-cache-8134241/",
+   "stand": "2026-10-31T11:06",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 647.12,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/intel-core-i9-13900-2-ghz-24-kerne-36-mb-cache-8134241/"
+    }
+   ],
+   "price": 647.12,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 647.12
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren intel lga1700 intel core 13900 ghz kerne cache",
+   "firstSeen": "2026-10-31"
   },
   {
    "id": "c-kingston-fury-renegade-rgb-32-gb-ram-6400-mt-s-ddr5-cl32-sch",
@@ -57834,6 +58620,35 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-intel-core-i9-13900-2-ghz-24-kerne-lga-1700",
+   "cat": "Prozessoren",
+   "sub": "Intel LGA1700",
+   "name": "Intel Core i9-13900 2 GHz 24 Kerne LGA 1700",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/intel-core-i9-13900-2-ghz-24-kerne-lga-1700-8046551/",
+   "stand": "2026-10-31T11:06",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 684.06,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/intel-core-i9-13900-2-ghz-24-kerne-lga-1700-8046551/"
+    }
+   ],
+   "price": 684.06,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 684.06
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren intel lga1700 intel core 13900 ghz kerne lga 1700",
+   "firstSeen": "2026-10-31"
+  },
+  {
    "id": "c-hp-e24i-g4-24-wuxga-ips-monitor-schwarz",
    "cat": "Monitore",
    "sub": "24\"",
@@ -58126,6 +58941,35 @@
    "count": 1,
    "tags": "grafikkarten intel arc pro b50 grafikkarte 16384 gddr6",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-intel-xeon-e-2478-2-8-ghz-prozessor-8-kerne-24-mb-cache",
+   "cat": "Prozessoren",
+   "sub": "Prozessoren",
+   "name": "Intel Xeon E-2478 2,8 GHz Prozessor 8 Kerne 24 MB Cache",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/intel-xeon-e-2478-2-8-ghz-prozessor-8-kerne-24-mb-cache-100437567/",
+   "stand": "2026-10-31T11:06",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 703.53,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/intel-xeon-e-2478-2-8-ghz-prozessor-8-kerne-24-mb-cache-100437567/"
+    }
+   ],
+   "price": 703.53,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 703.53
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren intel xeon 2478 ghz prozessor kerne cache",
+   "firstSeen": "2026-10-31"
   },
   {
    "id": "c-asus-rog-crosshair-x870e-dark-hero-atx-mainboard-am5-ddr5-sc",
@@ -59153,6 +59997,35 @@
    "count": 1,
    "tags": "arbeitsspeicher ddr5 32 gb kingston fury beast kf560c36bbe2k2 ram 2x16 ddr5 6000 cl36 dimm schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-intel-xeon-e-2374g-prozessor-3-7-ghz-4-kerne-8-threads-lga-1",
+   "cat": "Prozessoren",
+   "sub": "Prozessoren",
+   "name": "Intel Xeon E-2374G Prozessor 3,7 GHz 4 Kerne 8 Threads LGA 1200",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/intel-xeon-e-2374g-prozessor-3-7-ghz-4-kerne-8-threads-lga-1200-7373400/",
+   "stand": "2026-10-31T11:06",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 743.05,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/intel-xeon-e-2374g-prozessor-3-7-ghz-4-kerne-8-threads-lga-1200-7373400/"
+    }
+   ],
+   "price": 743.05,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 743.05
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren intel xeon 2374g prozessor ghz kerne threads lga 1200",
+   "firstSeen": "2026-10-31"
   },
   {
    "id": "c-asus-proart-pa27ucge-27-4k-uhd-ips-monitor-160hz-hdr600-usb-",
@@ -61724,6 +62597,35 @@
    "count": 1,
    "tags": "ssds nvme 4 tb crucial t700 ssd pci express nvme",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-intel-xeon-w-w3-2435-prozessor-3-1-ghz-8-kerne-22-5-mb-cache",
+   "cat": "Prozessoren",
+   "sub": "Prozessoren",
+   "name": "Intel Xeon W W3-2435 Prozessor 3,1 GHz 8 Kerne 22,5 MB Cache",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/intel-xeon-w-w3-2435-prozessor-3-1-ghz-8-kerne-22-5-mb-cache-8279957/",
+   "stand": "2026-10-31T11:06",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 863.84,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/intel-xeon-w-w3-2435-prozessor-3-1-ghz-8-kerne-22-5-mb-cache-8279957/"
+    }
+   ],
+   "price": 863.84,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 863.84
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren intel xeon 2435 prozessor ghz kerne cache",
+   "firstSeen": "2026-10-31"
   },
   {
    "id": "c-supermicro-x13sei-tf-server-mainboard-atx-lga4677-intel-c741",
