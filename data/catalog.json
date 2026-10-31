@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-31T13:48:35.023Z",
+ "updated": "2026-10-31T15:39:05.075Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -1207,7 +1207,7 @@
    "name": "Intel Core Ultra 7 270K Plus",
    "url": "https://www.hardwaredealz.com/hardware/cpu/intel-core-ultra-7-270k-plus/preisvergleich.33575",
    "source": "hardwaredealz",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "MobPicker",
@@ -1654,7 +1654,7 @@
    "name": "WD_BLACK SN850X 2 TB",
    "url": "https://geizhals.de/2770177",
    "source": "Geizhals",
-   "stand": "2026-10-31T13:48",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "Notebooksbilliger",
@@ -1806,7 +1806,7 @@
    "name": "WD_BLACK SN7100 2 TB",
    "url": "https://www.mydealz.de/deals/my-mmsaturn-mwstaktion-wd-black-sn7100-ssd-2-tb-m2-2280-nvme-gen4-7250-mbs-lesen-6900-mbs-schreiben-fur-23529eur-1-tb-13865-2855044",
    "source": "mydealz",
-   "stand": "2026-10-31T13:48",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "MediaMarkt / Saturn",
@@ -2215,7 +2215,7 @@
    "name": "ASUS TUF Gaming X870-PRO WIFI7 W Neo",
    "url": "https://www.mydealz.de/deals/asus-tuf-gaming-x870-pro-wifi7-w-neo-mainboard-amd-am5-x870-atx-ddr5-pcie-50-4xm2-usb4-wi-fi-7-5g-lan-alza-lieferung-paketshop-2859516",
    "source": "mydealz",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "Alza",
@@ -5098,7 +5098,7 @@
    "name": "Intel Core i5-14500 (boxed)",
    "url": "https://www.hardwaredealz.com/hardware/cpu/intel-core-i5-14500-boxed-fan/preisvergleich.2217",
    "source": "hardwaredealz",
-   "stand": "2026-10-31T11:40",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
@@ -5205,7 +5205,7 @@
    "name": "Intel Core Ultra 5 250K Plus",
    "url": "https://www.hardwaredealz.com/hardware/cpu/intel-core-ulta-5-250k-plus/preisvergleich.33576",
    "source": "hardwaredealz",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
@@ -5529,7 +5529,7 @@
    "name": "ASUS Prime B650-Plus WIFI",
    "url": "https://geizhals.de/asus-prime-b650-plus-wifi-90mb1kp0-m0eay0-a3417025.html",
    "source": "Geizhals",
-   "stand": "2026-10-30T21:42",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "Geizhals-Bestpreis",
@@ -7879,7 +7879,7 @@
    "name": "Scythe Kotetsu Mark 4 ARGB, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/Scythe/Kotetsu-Mark-4-ARGB-CPU-K%C3%BChler/html/product/100156891",
-   "stand": "2026-10-31T11:06",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -7928,6 +7928,64 @@
    ],
    "count": 1,
    "tags": "kuhlung luftkuhler scythe big shuriken cpu kuhler",
+   "firstSeen": "2026-10-31"
+  },
+  {
+   "id": "c-alphacool-hdx-apex-m-2-2280-ssd-cooler-argb-acrylic",
+   "cat": "SSDs",
+   "sub": "NVMe",
+   "name": "Alphacool HDX Apex M.2 2280 SSD Cooler, ARGB - Acrylic",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/alphacool-hdx-apex-m.2-2280-ssd-cooler-argb-acrylic/ZUWE-495.html",
+   "stand": "2026-10-31T15:39",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 34.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/alphacool-hdx-apex-m.2-2280-ssd-cooler-argb-acrylic/ZUWE-495.html"
+    }
+   ],
+   "price": 34.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 34.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme alphacool hdx apex 2280 ssd cooler argb acrylic",
+   "firstSeen": "2026-10-31"
+  },
+  {
+   "id": "c-alphacool-hdx-apex-m-2-2280-ssd-cooler-acetal",
+   "cat": "SSDs",
+   "sub": "NVMe",
+   "name": "Alphacool HDX Apex M.2 2280 SSD Cooler - Acetal",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/alphacool-hdx-apex-m.2-2280-ssd-cooler-acetal/ZUWE-496.html",
+   "stand": "2026-10-31T15:39",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 34.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/alphacool-hdx-apex-m.2-2280-ssd-cooler-acetal/ZUWE-496.html"
+    }
+   ],
+   "price": 34.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 34.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme alphacool hdx apex 2280 ssd cooler acetal",
    "firstSeen": "2026-10-31"
   },
   {
@@ -8234,7 +8292,7 @@
    "name": "Scythe Magoroku, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/Scythe/Magoroku-CPU-K%C3%BChler/html/product/100156896",
-   "stand": "2026-10-31T11:06",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -8362,7 +8420,7 @@
    "name": "ADATA XPG PROBE 80 PLUS Bronze Netzteil, ATX 2.4 - 600 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/adata-xpg-probe-80-plus-bronze-power-supply-atx-2.4-600-watt-black/NEAD-015.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -8381,6 +8439,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 42.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 42.9
     }
    ],
@@ -9220,7 +9282,7 @@
    "name": "be quiet! System Power 11 80 PLUS Bronze Netzteil, ATX 3.1, PCIe 5.1 - 450 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-system-power-11-80-plus-bronze-power-supply-atx-3.1-pcie-5.1-450-watts-black/NEBE-255.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -9239,6 +9301,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 49.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 49.9
     }
    ],
@@ -9319,7 +9385,7 @@
    "name": "Scythe Mugen 6 Dual Fan White ARGB Edition, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/Scythe/Mugen-6-Dual-Fan-White-ARGB-Edition-CPU-K%C3%BChler/html/product/100156897",
-   "stand": "2026-10-31T11:06",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -9699,7 +9765,7 @@
    "name": "Corsair CX Series CX550 Netzteil 80 PLUS Bronze - 550 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/corsair-cx-series-cx550-power-supply-80-plus-bronze-550-watt/NECS-171.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -9718,6 +9784,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 56.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 56.9
     }
    ],
@@ -10087,7 +10157,7 @@
    "name": "be quiet! System Power 11 80 PLUS Bronze Netzteil, ATX 3.1, PCIe 5.1 - 550 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-system-power-11-80-plus-bronze-power-supply-atx-3.1-pcie-5.1-550-watts-black/NEBE-256.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -10106,6 +10176,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 59.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 59.9
     }
    ],
@@ -10153,7 +10227,7 @@
    "name": "Noctua NH-L9x65, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/Noctua/NH-L9x65-CPU-K%C3%BChler/html/product/1194370",
-   "stand": "2026-10-31T11:06",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -10368,7 +10442,7 @@
    "name": "be quiet! Pure Power 12 Netzteil, 80 PLUS Gold, ATX 3.1, PCIe 5.1 - 550 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-pure-power-12-power-supply-80-plus-gold-atx-3.1-pcie-5.1-550-watts/NEBE-247.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -10387,6 +10461,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 64.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 64.9
     }
    ],
@@ -10558,7 +10636,7 @@
    "name": "ADATA XPG PROBE 80 PLUS Bronze Netzteil, ATX 2.4 - 700 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/adata-xpg-probe-80-plus-bronze-power-supply-atx-2.4-700-watts-black/NEAD-017.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -10577,6 +10655,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 66.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 66.9
     }
    ],
@@ -10876,7 +10958,7 @@
    "name": "be quiet! System Power 11 80 PLUS Bronze Netzteil, ATX 3.1, PCIe 5.1 - 650 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-system-power-11-80-plus-bronze-power-supply-atx-3.1-pcie-5.1-650-watts-black/NEBE-257.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -10895,6 +10977,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 69.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 69.9
     }
    ],
@@ -10942,7 +11028,7 @@
    "name": "Noctua NH-L9x65 chromax.black, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/Noctua/NH-L9x65-chromax-black-CPU-K%C3%BChler/html/product/100024041",
-   "stand": "2026-10-31T11:06",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -11058,7 +11144,7 @@
    "name": "ASUS PRIME H610M-R D4 Mainboard LGA 1700 H610 DDR4 Micro ATX",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-prime-h610m-r-d4-mainboard-lga-1700-h610-ddr4-micro-atx-7774590/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -11073,6 +11159,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 71
+    },
+    {
+     "d": "2026-10-31",
      "p": 71
     }
    ],
@@ -11306,7 +11396,7 @@
    "name": "be quiet! Pure Power 12 Netzteil, 80 PLUS Gold, ATX 3.1, PCIe 5.1 - 650 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-pure-power-12-power-supply-80-plus-gold-atx-3.1-pcie-5.1-650-watts/NEBE-248.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -11326,6 +11416,10 @@
     {
      "d": "2026-10-30",
      "p": 72.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 72.9
     }
    ],
    "count": 1,
@@ -11339,7 +11433,7 @@
    "name": "be quiet! System Power 11 80 PLUS Bronze Netzteil, ATX 3.1, PCIe 5.1 - 750 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-system-power-11-80-plus-bronze-power-supply-atx-3.1-pcie-5.1-750-watts-black/NEBE-258.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -11358,6 +11452,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 72.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 72.9
     }
    ],
@@ -11562,7 +11660,7 @@
    "name": "Noctua NH-D9L chromax.black, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/Noctua/NH-D9L-chromax-black-CPU-K%C3%BChler/html/product/100024032",
-   "stand": "2026-10-31T11:06",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -12050,7 +12148,7 @@
    "name": "ADATA XPG KYBER 80 PLUS Gold Netzteil, ATX 3.0 - 850 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/adata-xpg-kyber-80-plus-gold-power-supply-atx-3.0-850-watts-black/NEAD-014.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -12069,6 +12167,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 79.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 79.9
     }
    ],
@@ -12447,7 +12549,7 @@
    "name": "ASUS PRIME B450M-A II Mainboard Micro ATX Socket AM4 AMD B450 DDR4 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-prime-b450m-a-ii-mainboard-micro-atx-socket-am4-amd-b450-ddr4-schwarz-6789780/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -12462,6 +12564,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 82.36
+    },
+    {
+     "d": "2026-10-31",
      "p": 82.36
     }
    ],
@@ -12724,7 +12830,7 @@
    "name": "be quiet! Pure Power 12 Netzteil, 80 PLUS Gold, ATX 3.1, PCIe 5.1 - 750 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-pure-power-12-power-supply-80-plus-gold-atx-3.1-pcie-5.1-750-watts/NEBE-249.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -12743,6 +12849,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 84.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 84.9
     }
    ],
@@ -12997,7 +13107,7 @@
    "name": "Acer KA2 KA272P0BI 27\" Full-HD Gaming Monitor 144 Hz VA-Panel 99% sRGB",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/acer-ka2-ka272p0bi-27-full-hd-gaming-monitor-144-hz-va-panel-99-srgb-100747431/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -13012,6 +13122,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 86.31
+    },
+    {
+     "d": "2026-10-31",
      "p": 86.31
     }
    ],
@@ -13113,7 +13227,7 @@
    "name": "AFOX DDR4 8 GB RAM 2400 MHz UDIMM Speichermodul CL17 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/afox-ddr4-8-gb-ram-2400-mhz-udimm-speichermodul-cl17-schwarz-100491192/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -13128,6 +13242,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 87.82
+    },
+    {
+     "d": "2026-10-31",
      "p": 87.82
     }
    ],
@@ -13361,7 +13479,7 @@
    "name": "ADATA XPG CORE REACTOR II VE 80 PLUS Gold Netzteil, ATX 3.1 - 850 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/adata-xpg-core-reactor-ii-ve-80-plus-gold-power-supply-atx-3.1-850-watts-black/NEAD-011.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -13381,6 +13499,10 @@
     {
      "d": "2026-10-30",
      "p": 89.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 89.9
     }
    ],
    "count": 1,
@@ -13394,7 +13516,7 @@
    "name": "ASUS TUF Gaming 650B 80 PLUS Bronze Netzteil - 650 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-tuf-gaming-650b-80-plus-bronze-power-supply-650-watt/NEAS-011.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -13413,6 +13535,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 89.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 89.9
     }
    ],
@@ -13493,7 +13619,7 @@
    "name": "Noctua NH-U12S chromax.black, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/Noctua/NH-U12S-chromax-black-CPU-K%C3%BChler/html/product/1585516",
-   "stand": "2026-10-31T11:06",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -14010,7 +14136,7 @@
    "name": "Viewsonic VA2432-H-2 24\" IPS Monitor Full HD 100 Hz 1 ms Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/viewsonic-va2432-h-2-24-ips-monitor-full-hd-100-hz-1-ms-schwarz-100747601/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -14026,6 +14152,10 @@
     {
      "d": "2026-10-30",
      "p": 93.59
+    },
+    {
+     "d": "2026-10-31",
+     "p": 93.59
     }
    ],
    "count": 1,
@@ -14040,35 +14170,6 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/koorui-e2711k-27-zoll-ips-monitor-full-hd-144-hz-5-ms-amd-freesync-schwarz-100699817/",
    "stand": "2026-10-30T11:44",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 93.93,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/koorui-e2711k-27-zoll-ips-monitor-full-hd-144-hz-5-ms-amd-freesync-schwarz-100699817/"
-    }
-   ],
-   "price": 93.93,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 93.93
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 27\" koorui e2711k zoll ips monitor full 144 amd freesync schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-koorui-e2711k-27-zoll-ips-monitor-full-hd-144-hz-5-ms-amd-fr-hwsds",
-   "cat": "Monitore",
-   "sub": "27\"",
-   "name": "KOORUI E2711K 27 Zoll IPS-Monitor Full HD 144 Hz 5 ms AMD FreeSync Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/koorui-e2711k-27-zoll-ips-monitor-full-hd-144-hz-5-ms-amd-freesync-schwarz-100699817/",
-   "stand": "2026-10-30T19:50",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -14126,7 +14227,7 @@
    "name": "be quiet! Pure Power 12 Netzteil, 80 PLUS Gold, ATX 3.1, PCIe 5.1 - 850 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-pure-power-12-power-supply-80-plus-gold-atx-3.1-pcie-5.1-850-watts/NEBE-250.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -14145,6 +14246,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 94.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 94.9
     }
    ],
@@ -14378,7 +14483,7 @@
    "name": "ASUS PRIME A620AM-K Mainboard Micro ATX Sockel AM5 AMD A620A DDR5",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-prime-a620am-k-mainboard-micro-atx-sockel-am5-amd-a620a-ddr5-100663647/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -14393,6 +14498,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 96.07
+    },
+    {
+     "d": "2026-10-31",
      "p": 96.07
     }
    ],
@@ -14709,7 +14818,7 @@
    "name": "HP V24v G5 23.8\" Full HD Monitor Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/hp-v24v-g5-23-8-full-hd-monitor-schwarz-8098597/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -14724,6 +14833,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 96.72
+    },
+    {
+     "d": "2026-10-31",
      "p": 96.72
     }
    ],
@@ -14767,7 +14880,7 @@
    "name": "Lenovo L24-4C 23,8\" Full HD Monitor – 144 Hz, IPS-Panel, AMD FreeSync, Cloud Grey (67DDKAC6EU)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/lenovo-l24-4c-23-8-full-hd-monitor-144-hz-ips-panel-amd-freesync-cloud-grey-67ddkac6eu-100680346/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -14782,6 +14895,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 98.22
+    },
+    {
+     "d": "2026-10-31",
      "p": 98.22
     }
    ],
@@ -14918,6 +15035,39 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-koorui-e2711k-27-zoll-ips-monitor-full-hd-144-hz-5-ms-amd-fr-hwsds",
+   "cat": "Monitore",
+   "sub": "27\"",
+   "name": "KOORUI E2711K 27 Zoll IPS-Monitor Full HD 144 Hz 5 ms AMD FreeSync Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/koorui-e2711k-27-zoll-ips-monitor-full-hd-144-hz-5-ms-amd-freesync-schwarz-100699817/",
+   "stand": "2026-10-31T15:39",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 99.4,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/koorui-e2711k-27-zoll-ips-monitor-full-hd-144-hz-5-ms-amd-freesync-schwarz-100699817/"
+    }
+   ],
+   "price": 99.4,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 93.93
+    },
+    {
+     "d": "2026-10-31",
+     "p": 99.4
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 27\" koorui e2711k zoll ips monitor full 144 amd freesync schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-msi-pro-h810m-b-mainboard-intel-h810-lga1851-matx-ddr5",
    "cat": "Mainboards",
    "sub": "Intel LGA1851 H810",
@@ -14986,7 +15136,7 @@
    "name": "Kolink Regulator 80 PLUS Gold PSU, ATX 3.0, PCIe 5.0, modular - 750 Watts",
    "source": "crawler",
    "url": "https://www.caseking.de/en/kolink-regulator-80-plus-gold-psu-atx-3.0-pcie-5.0-modular-750-watts/NEKL-047.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -15005,6 +15155,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 99.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 99.9
     }
    ],
@@ -15333,7 +15487,7 @@
    "name": "MSI PRO H810M-B Mainboard Intel H810 LGA1851 mATX DDR5",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/msi-pro-h810m-b-mainboard-intel-h810-lga1851-matx-ddr5-100593845/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -15348,6 +15502,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 99.92
+    },
+    {
+     "d": "2026-10-31",
      "p": 99.92
     }
    ],
@@ -15478,7 +15636,7 @@
    "name": "MSI PRO H810M-B, Mainboard",
    "source": "crawler",
    "url": "https://www.alternate.de/MSI/PRO-H810M-B-Mainboard/html/product/100140528",
-   "stand": "2026-10-31T09:43",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -16756,7 +16914,7 @@
    "name": "MSI PRO B760M-P DDR4 Mainboard Intel B760 LGA 1700 Micro-ATX DDR4 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/msi-pro-b760m-p-ddr4-mainboard-intel-b760-lga-1700-micro-atx-ddr4-schwarz-8134210/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -16771,6 +16929,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 106.92
+    },
+    {
+     "d": "2026-10-31",
      "p": 106.92
     }
    ],
@@ -17210,15 +17372,15 @@
    "sub": "850 W",
    "name": "Lian Li EDGE GOLD 850 80 PLUS Gold Netzteil, PCIe 5.1, ATX 3.1 - 850 Watt, schwarz",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/lian-li-edge-gold-850-80-plus-gold-power-supply-pcie-5.1-atx-3.1-850-watts-black/NELI-023.html",
-   "stand": "2026-10-30T14:03",
+   "url": "https://www.caseking.de/lian-li-edge-gold-850-80-plus-gold-netzteil-pcie-5.1-atx-3.1-850-watt-schwarz/NELI-023.html",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 109.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/lian-li-edge-gold-850-80-plus-gold-power-supply-pcie-5.1-atx-3.1-850-watts-black/NELI-023.html"
+     "url": "https://www.caseking.de/lian-li-edge-gold-850-80-plus-gold-netzteil-pcie-5.1-atx-3.1-850-watt-schwarz/NELI-023.html"
     }
    ],
    "price": 109.9,
@@ -17230,6 +17392,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 109.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 109.9
     }
    ],
@@ -17434,7 +17600,7 @@
    "name": "Gigabyte GS25F2A 24,5\" Gaming-Monitor 1920 x 1080 240 Hz Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/gigabyte-gs25f2a-24-5-gaming-monitor-1920-x-1080-240-hz-schwarz-100675592/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -17449,6 +17615,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 110.36
+    },
+    {
+     "d": "2026-10-31",
      "p": 110.36
     }
    ],
@@ -17521,7 +17691,7 @@
    "name": "ASUS PRIME A620AM-A-CSM Mainboard, mATX, Sockel AM5, AMD A620A, DDR5",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-prime-a620am-a-csm-mainboard-matx-sockel-am5-amd-a620a-ddr5-100663244/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -17536,6 +17706,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 112.59
+    },
+    {
+     "d": "2026-10-31",
      "p": 112.59
     }
    ],
@@ -18092,7 +18266,7 @@
    "name": "Krom Kertz 23,8\" Gaming Monitor Full HD 200 Hz VA Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/krom-kertz-23-8-gaming-monitor-full-hd-200-hz-va-schwarz-100709353/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -18107,6 +18281,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 115.85
+    },
+    {
+     "d": "2026-10-31",
      "p": 115.85
     }
    ],
@@ -18762,7 +18940,7 @@
    "name": "Noctua NH-D15 chromax.black, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/Noctua/NH-D15-chromax-black-CPU-K%C3%BChler/html/product/1585511",
-   "stand": "2026-10-31T11:06",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -19076,7 +19254,7 @@
    "name": "Kolink Regulator 80 PLUS Gold PSU, ATX 3.0, PCIe 5.0, modular - 850 Watts",
    "source": "crawler",
    "url": "https://www.caseking.de/en/kolink-regulator-80-plus-gold-psu-atx-3.0-pcie-5.0-modular-850-watts/NEKL-048.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -19095,6 +19273,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 119.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 119.9
     }
    ],
@@ -19597,7 +19779,7 @@
    "name": "Viewsonic VA2732-H-2 27\" IPS Monitor 100 Hz Full HD Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/viewsonic-va2732-h-2-27-ips-monitor-100-hz-full-hd-schwarz-100701351/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -19612,6 +19794,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 121.42
+    },
+    {
+     "d": "2026-10-31",
      "p": 121.42
     }
    ],
@@ -20031,7 +20217,7 @@
    "name": "ASUS PRIME B760M-R D4 Mainboard Intel B760 LGA 1700 DDR4 Micro ATX Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-prime-b760m-r-d4-mainboard-intel-b760-lga-1700-ddr4-micro-atx-schwarz-100359021/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -20046,6 +20232,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 124.27
+    },
+    {
+     "d": "2026-10-31",
      "p": 124.27
     }
    ],
@@ -20229,35 +20419,6 @@
     {
      "d": "2026-10-30",
      "p": 123.95
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 23,8\" p24 fhd 1920x1080 office monitor schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-hp-p24-g4-23-8-fhd-1920x1080-office-monitor-schwarz-9rq5r",
-   "cat": "Monitore",
-   "sub": "23,8\"",
-   "name": "HP P24 G4 23.8\" FHD 1920x1080 Office Monitor Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/hp-p24-g4-23-8-fhd-1920x1080-office-monitor-schwarz-6911405/",
-   "stand": "2026-10-30T19:50",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 124.85,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/hp-p24-g4-23-8-fhd-1920x1080-office-monitor-schwarz-6911405/"
-    }
-   ],
-   "price": 124.85,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 124.85
     }
    ],
    "count": 1,
@@ -20928,7 +21089,7 @@
    "name": "Lenovo Legion R27s 27\" Full HD IPS Gaming-Monitor 144 Hz Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/lenovo-legion-r27s-27-full-hd-ips-gaming-monitor-144-hz-schwarz-100701343/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -20943,6 +21104,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 127.27
+    },
+    {
+     "d": "2026-10-31",
      "p": 127.27
     }
    ],
@@ -21176,7 +21341,7 @@
    "name": "Patriot P410 SSD, PCIe 4.0 M.2 2280 - 500 GB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/patriot-p410-ssd-pcie-4.0-m.2-2280-500-gb/MEPA-011.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -21195,6 +21360,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 127.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 127.9
     }
    ],
@@ -21333,22 +21502,26 @@
    "name": "ASUS Prime B760-PLUS D4 Mainboard ATX | Intel B760, LGA 1700, DDR4 | Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-prime-b760-plus-d4-mainboard-atx-intel-b760-lga-1700-ddr4-schwarz-8134292/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
-     "price": 128.48,
+     "price": 128.56,
      "ship": null,
      "avail": null,
      "url": "https://www.jacob.de/produkt/asus-prime-b760-plus-d4-mainboard-atx-intel-b760-lga-1700-ddr4-schwarz-8134292/"
     }
    ],
-   "price": 128.48,
+   "price": 128.56,
    "shop": "JACOB Elektronik GmbH",
    "hist": [
     {
      "d": "2026-10-30",
      "p": 128.48
+    },
+    {
+     "d": "2026-10-31",
+     "p": 128.56
     }
    ],
    "count": 1,
@@ -21411,6 +21584,39 @@
    ],
    "count": 1,
    "tags": "monitore 27\" gigabyte gs27fca zoll full curved monitor 200hz panel adaptive sync",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-hp-p24-g4-23-8-fhd-1920x1080-office-monitor-schwarz-9rq5r",
+   "cat": "Monitore",
+   "sub": "23,8\"",
+   "name": "HP P24 G4 23.8\" FHD 1920x1080 Office Monitor Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/hp-p24-g4-23-8-fhd-1920x1080-office-monitor-schwarz-6911405/",
+   "stand": "2026-10-31T15:39",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 129.32,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/hp-p24-g4-23-8-fhd-1920x1080-office-monitor-schwarz-6911405/"
+    }
+   ],
+   "price": 129.32,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 124.85
+    },
+    {
+     "d": "2026-10-31",
+     "p": 129.32
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 23,8\" p24 fhd 1920x1080 office monitor schwarz",
    "firstSeen": "2026-10-30"
   },
   {
@@ -21507,7 +21713,7 @@
    "name": "ASUS PRO B760M-C-CSM Mainboard micro ATX LGA 1700 Intel B760 DDR5 128 GB",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-pro-b760m-c-csm-mainboard-micro-atx-lga-1700-intel-b760-ddr5-128-gb-8135359/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -21522,6 +21728,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 129.54
+    },
+    {
+     "d": "2026-10-31",
      "p": 129.54
     }
    ],
@@ -21569,7 +21779,7 @@
    "name": "be quiet! Pure Power 13M 80 PLUS Gold Netzteil, ATX 3.1, PCIe 5.1 - 1.000 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-pure-power-13m-80-plus-gold-power-supply-atx-3.1-pcie-5.1-1-000-watts-black/NEBE-263.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -21589,6 +21799,10 @@
     {
      "d": "2026-10-30",
      "p": 129.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 129.9
     }
    ],
    "count": 1,
@@ -21602,7 +21816,7 @@
    "name": "Corsair RMx Series RM750x Netzteil 80 PLUS Gold, ATX 3.0, PCIe 5.1 - 750 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/corsair-rmx-series-rm750x-power-supply-80-plus-gold-atx-3.0-pcie-5.1-750-watts/NECS-176.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -21621,6 +21835,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 129.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 129.9
     }
    ],
@@ -22363,7 +22581,7 @@
    "name": "Patriot P400 V4 SSD, PCIe 4.0 M.2 2280 - 500 GB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/patriot-p400-v4-ssd-pcie-4.0-m.2-2280-500-gb/MEPA-007.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -22382,6 +22600,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 133.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 133.9
     }
    ],
@@ -22582,7 +22804,7 @@
    "name": "MSI PRO MP273DE E14A 27\" IPS Monitor 1920x1080 144 Hz Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/msi-pro-mp273de-e14a-27-ips-monitor-1920x1080-144-hz-schwarz-100845169/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -22597,6 +22819,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 134.66
+    },
+    {
+     "d": "2026-10-31",
      "p": 134.66
     }
    ],
@@ -22640,7 +22866,7 @@
    "name": "ASUS Prime B850M-K Mainboard, AMD B850, Sockel AM5, DDR5, micro-ATX, Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-prime-b850m-k-mainboard-amd-b850-sockel-am5-ddr5-micro-atx-schwarz-100568105/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -22656,6 +22882,10 @@
     {
      "d": "2026-10-30",
      "p": 134.7
+    },
+    {
+     "d": "2026-10-31",
+     "p": 134.7
     }
    ],
    "count": 1,
@@ -22669,7 +22899,7 @@
    "name": "Corsair RMe Series RM1000e 80 PLUS Gold Netzteil, modular, ATX 3.1, PCIe 5.1 - 1.000 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/corsair-rme-series-rm1000e-80-plus-gold-power-supply-modular-atx-3.1-pcie-5.1-1-000-watts-black/NECS-186.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -22688,6 +22918,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 134.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 134.9
     }
    ],
@@ -22950,7 +23184,7 @@
    "name": "Lenovo L24D-4C 23,8\" Full HD IPS Monitor 144 Hz Grau",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/lenovo-l24d-4c-23-8-full-hd-ips-monitor-144-hz-grau-100680007/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -22965,6 +23199,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 135.58
+    },
+    {
+     "d": "2026-10-31",
      "p": 135.58
     }
    ],
@@ -23289,7 +23527,7 @@
    "name": "GIGABYTE GS27FCA 27\" Curved VA Gaming Monitor 200 Hz Full HD 1500R (GS27FCA)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/gigabyte-gs27fca-27-curved-va-gaming-monitor-200-hz-full-hd-1500r-gs27fca-100701402/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -23304,6 +23542,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 138.21
+    },
+    {
+     "d": "2026-10-31",
      "p": 138.21
     }
    ],
@@ -23657,7 +23899,7 @@
    "name": "Corsair RMx Series RM850x Netzteil 80 PLUS Gold, ATX 3.0, PCIe 5.1 - 850 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/corsair-rmx-series-rm850x-power-supply-80-plus-gold-atx-3.0-pcie-5.1-850-watts/NECS-177.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -23677,6 +23919,10 @@
     {
      "d": "2026-10-30",
      "p": 139.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 139.9
     }
    ],
    "count": 1,
@@ -23690,7 +23936,7 @@
    "name": "Kolink Regulator 80 PLUS Gold PSU, ATX 3.0, PCIe 5.0, modular - 1000 Watts",
    "source": "crawler",
    "url": "https://www.caseking.de/en/kolink-regulator-80-plus-gold-psu-atx-3.0-pcie-5.0-modular-1000-watts/NEKL-049.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -23709,6 +23955,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 139.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 139.9
     }
    ],
@@ -23921,7 +24171,7 @@
    "name": "ASUS PRIME B760M-A WIFI D4 Mainboard Micro ATX LGA 1700 DDR4",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-prime-b760m-a-wifi-d4-mainboard-micro-atx-lga-1700-ddr4-8134296/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -23936,6 +24186,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 140.13
+    },
+    {
+     "d": "2026-10-31",
      "p": 140.13
     }
    ],
@@ -25289,7 +25543,7 @@
    "name": "ASUS Prime B660-Plus D4 Mainboard Intel B660 LGA 1700 ATX DDR4",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-prime-b660-plus-d4-mainboard-intel-b660-lga-1700-atx-ddr4-7533337/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -25304,6 +25558,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 147.02
+    },
+    {
+     "d": "2026-10-31",
      "p": 147.02
     }
    ],
@@ -25806,7 +26064,7 @@
    "name": "ASUS TUF Gaming 1000W Gold 80 PLUS Gold Netzteil, modular - 1000 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-tuf-gaming-1000w-gold-80-plus-gold-power-supply-modular-1000-watt/NEAS-028.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -25826,6 +26084,10 @@
     {
      "d": "2026-10-30",
      "p": 149.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 149.9
     }
    ],
    "count": 1,
@@ -25839,7 +26101,7 @@
    "name": "be quiet! Power Zone 2 80 PLUS Platinum Netzteil, vollmodular, ATX 3.1, PCIe 5.1 - 850 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-power-zone-2-80-plus-platinum-power-supply-fully-modular-atx-3.1-pcie-5.1-850-watts-black/NEBE-253.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -25858,6 +26120,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 149.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 149.9
     }
    ],
@@ -26525,7 +26791,7 @@
    "name": "Dell E2720H - LED-Monitor - 68,6 cm (27\") (27\" sichtbar) - 1920 x 1080 Full HD (1080p) - IPS - 300 cd/m² - 1000:1 - 5 ms - VGA, DisplayPort - mit 3 Jahre Advanced Exchange-Service (DELL-E2720H)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/dell-e2720h-led-monitor-68-6-cm-27-27-sichtbar-1920-x-1080-full-hd-1080p-ips-300-cd-m2-1000-1-5-ms-vga-displayport-mit-3-jahre-advanced-exchange-service-dell-e2720h-6162218/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -26540,6 +26806,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 152.34
+    },
+    {
+     "d": "2026-10-31",
      "p": 152.34
     }
    ],
@@ -27005,7 +27275,7 @@
    "name": "ASUS TUF Gaming B760-Plus WIFI Mainboard Intel B760 LGA 1700 ATX DDR5 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-tuf-gaming-b760-plus-wifi-mainboard-intel-b760-lga-1700-atx-ddr5-schwarz-100472459/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -27020,6 +27290,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 155.4
+    },
+    {
+     "d": "2026-10-31",
      "p": 155.4
     }
    ],
@@ -27216,7 +27490,7 @@
    "name": "ASUS Pro B760M-CT-CSM Mainboard Micro ATX, Intel B760, LGA 1700, DDR5",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-pro-b760m-ct-csm-mainboard-micro-atx-intel-b760-lga-1700-ddr5-8135358/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -27231,6 +27505,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 157.14
+    },
+    {
+     "d": "2026-10-31",
      "p": 157.14
     }
    ],
@@ -28002,7 +28280,7 @@
    "name": "Patriot P410 SSD, PCIe 4.0 M.2 2280 - 1 TB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/patriot-p410-ssd-pcie-4.0-m.2-2280-1-tb/MEPA-010.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -28021,6 +28299,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 159.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 159.9
     }
    ],
@@ -28597,7 +28879,7 @@
    "name": "LG UltraGear 27G610A-B 27 Zoll WQHD IPS LED 16:9 200 Hz Gaming Monitor [Energieklasse E] (27G610A-B.AEUQ)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/lg-ultragear-27g610a-b-27-zoll-wqhd-ips-led-16-9-200-hz-gaming-monitor-energieklasse-e-27g610a-b-aeuq-100679673/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -28612,6 +28894,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 161.98
+    },
+    {
+     "d": "2026-10-31",
      "p": 161.98
     }
    ],
@@ -28750,7 +29036,7 @@
    "name": "MSI B850M Gaming Plus Wifi6E Mainboard AMD B850 AM5 Micro ATX DDR5 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/msi-b850m-gaming-plus-wifi6e-mainboard-amd-b850-am5-micro-atx-ddr5-schwarz-100593849/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -28765,6 +29051,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 163.01
+    },
+    {
+     "d": "2026-10-31",
      "p": 163.01
     }
    ],
@@ -28866,7 +29156,7 @@
    "name": "Philips Evnia 5000 27M2C5201L 27\" Gaming Monitor 180 Hz Weiß",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/philips-evnia-5000-27m2c5201l-27-gaming-monitor-180-hz-weiss-100508103/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -28881,6 +29171,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 163.34
+    },
+    {
+     "d": "2026-10-31",
      "p": 163.34
     }
    ],
@@ -29412,7 +29706,7 @@
    "name": "ASUS ROG Loki SFX-L 80 PLUS Platinum netzteil, modular - 750 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-loki-sfx-l-80-plus-platinum-power-supply-modular-750-watt/NEAS-018.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -29431,6 +29725,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 165.31
+    },
+    {
+     "d": "2026-10-31",
      "p": 165.31
     }
    ],
@@ -29966,7 +30264,7 @@
    "name": "ASUS PRIME B660M-A WIFI D4 Mainboard (Intel B660, LGA 1700, micro ATX, DDR4, Wi-Fi 6)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-prime-b660m-a-wifi-d4-mainboard-intel-b660-lga-1700-micro-atx-ddr4-wi-fi-6-7533347/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -29981,6 +30279,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 168.58
+    },
+    {
+     "d": "2026-10-31",
      "p": 168.58
     }
    ],
@@ -30090,7 +30392,7 @@
    "name": "Patriot P400 V4 SSD, PCIe 4.0 M.2 2280 - 1 TB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/patriot-p400-v4-ssd-pcie-4.0-m.2-2280-1-tb/MEPA-006.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -30110,6 +30412,10 @@
     {
      "d": "2026-10-30",
      "p": 169.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 169.9
     }
    ],
    "count": 1,
@@ -30123,7 +30429,7 @@
    "name": "be quiet! Power Zone 2 80 PLUS Platinum Netzteil, vollmodular, ATX 3.1, PCIe 5.1 - 1.000 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-power-zone-2-80-plus-platinum-power-supply-fully-modular-atx-3.1-pcie-5.1-1-000-watts-black/NEBE-252.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -30143,6 +30449,10 @@
     {
      "d": "2026-10-30",
      "p": 169.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 169.9
     }
    ],
    "count": 1,
@@ -30156,7 +30466,7 @@
    "name": "Corsair RMx Series RM1000x Netzteil 80 PLUS Gold, ATX 3.1, PCIe 5.1 - 1000 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/corsair-rmx-series-rm1000x-power-supply-80-plus-gold-atx-3.1-pcie-5.1-1000-watt/NECS-178.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -30175,6 +30485,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 169.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 169.9
     }
    ],
@@ -30317,7 +30631,7 @@
    "name": "MSI Pro B850M-P WIFI Mainboard, AMD B850, Sockel AM5, mATX, DDR5, Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/msi-pro-b850m-p-wifi-mainboard-amd-b850-sockel-am5-matx-ddr5-schwarz-100593846/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -30332,6 +30646,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 170
+    },
+    {
+     "d": "2026-10-31",
      "p": 170
     }
    ],
@@ -30375,7 +30693,7 @@
    "name": "ASUS B850M MAX GAMING WIFI Mainboard AMD B850 Sockel AM5 Micro ATX DDR5 Wi-Fi 6 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-b850m-max-gaming-wifi-mainboard-amd-b850-sockel-am5-micro-atx-ddr5-wi-fi-6-schwarz-100582127/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -30390,6 +30708,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 170.02
+    },
+    {
+     "d": "2026-10-31",
      "p": 170.02
     }
    ],
@@ -30586,7 +30908,7 @@
    "name": "Integral INSSD960GS625V2 SSD 2.5\" 960 GB SATA III 530 MB/s",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/integral-inssd960gs625v2-ssd-2-5-960-gb-sata-iii-530-mb-s-100874460/",
-   "stand": "2026-10-30T20:28",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -30601,6 +30923,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 172.18
+    },
+    {
+     "d": "2026-10-31",
      "p": 172.18
     }
    ],
@@ -30764,7 +31090,7 @@
    "name": "MSI B850 GAMING PLUS WIFI6E, Mainboard",
    "source": "crawler",
    "url": "https://www.alternate.de/MSI/B850-GAMING-PLUS-WIFI6E-Mainboard/html/product/100140534",
-   "stand": "2026-10-31T09:43",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -30892,7 +31218,7 @@
    "name": "AOC Q27G4XF, Gaming-Monitor - (68.5 cm (27 Zoll), schwarz, QHD, IPS, HDR, Adaptive-Sync, Pivot, 180Hz Panel) [Energieklasse E] (Q27G4XF)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/aoc-q27g4xf-gaming-monitor-68-5-cm-27-zoll-schwarz-qhd-ips-hdr-adaptive-sync-pivot-180hz-panel-energieklasse-e-q27g4xf-100507558/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -30907,6 +31233,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 173.41
+    },
+    {
+     "d": "2026-10-31",
      "p": 173.41
     }
    ],
@@ -31041,7 +31371,7 @@
    "name": "ASUS B650E MAX GAMING WIFI Mainboard ATX Sockel AM5 AMD B650 DDR5 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-b650e-max-gaming-wifi-mainboard-atx-sockel-am5-amd-b650-ddr5-schwarz-100552895/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -31056,6 +31386,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 174.29
+    },
+    {
+     "d": "2026-10-31",
      "p": 174.29
     }
    ],
@@ -31632,7 +31966,7 @@
    "name": "ViewSonic VG Series VG2448a-2 24\" Full HD IPS LED-Monitor Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/viewsonic-vg-series-vg2448a-2-24-full-hd-ips-led-monitor-schwarz-7642199/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -31647,6 +31981,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 178.49
+    },
+    {
+     "d": "2026-10-31",
      "p": 178.49
     }
    ],
@@ -31897,7 +32235,7 @@
    "name": "ASUS ROG Strix 850 Platinum Netzteil, 80 PLUS Platinum, modular, PCIe 5.1 - 850 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-850-platinum-power-supply-80-plus-platinum-modular-pcie-5.1-850-watts/NEAS-037.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -31916,6 +32254,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 179.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 179.9
     }
    ],
@@ -32091,7 +32433,7 @@
    "name": "MSI B850 GAMING PLUS WIFI6E Mainboard, AMD B850, Socket AM5, ATX, DDR5, Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/msi-b850-gaming-plus-wifi6e-mainboard-amd-b850-socket-am5-atx-ddr5-schwarz-100593848/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -32106,6 +32448,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 180.05
+    },
+    {
+     "d": "2026-10-31",
      "p": 180.05
     }
    ],
@@ -32277,7 +32623,7 @@
    "name": "ASUS Eye Care VU249CFE-G 23,8\" IPS Full HD Monitor 100 Hz Grün, Grau",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-eye-care-vu249cfe-g-23-8-ips-full-hd-monitor-100-hz-gruen-grau-100508322/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -32292,6 +32638,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 184.78
+    },
+    {
+     "d": "2026-10-31",
      "p": 184.78
     }
    ],
@@ -32335,7 +32685,7 @@
    "name": "AOC Q27B3MA B3 Series LED-Monitor 27 Zoll QHD 75Hz VA-Panel Lautsprecher Schwarz (Q27B3MA)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/aoc-q27b3ma-b3-series-led-monitor-27-zoll-qhd-75hz-va-panel-lautsprecher-schwarz-q27b3ma-7893680/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -32350,6 +32700,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 184.89
+    },
+    {
+     "d": "2026-10-31",
      "p": 184.89
     }
    ],
@@ -33042,7 +33396,7 @@
    "name": "Kingston FURY Beast 16 GB Kit 2 x 8 GB DDR4 3600 MT/s CL17 DIMM 288-PIN Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-beast-16-gb-kit-2-x-8-gb-ddr4-3600-mt-s-cl17-dimm-288-pin-schwarz-7287406/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -33057,6 +33411,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 191.94
+    },
+    {
+     "d": "2026-10-31",
      "p": 191.94
     }
    ],
@@ -33394,7 +33752,7 @@
    "name": "ASUS PRIME Z790M-PLUS Mainboard Intel Z790 LGA 1700 Micro ATX DDR5 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-prime-z790m-plus-mainboard-intel-z790-lga-1700-micro-atx-ddr5-schwarz-8135353/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -33410,6 +33768,10 @@
     {
      "d": "2026-10-30",
      "p": 193.83
+    },
+    {
+     "d": "2026-10-31",
+     "p": 193.83
     }
    ],
    "count": 1,
@@ -33423,7 +33785,7 @@
    "name": "be quiet! Dark Power 14 80 PLUS Titanium Netzteil, ATX 3.1, PCIe 5.1 - 850 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-dark-power-14-80-plus-titanium-power-supply-atx-3.1-pcie-5.1-850-watts/NEBE-266.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -33442,6 +33804,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 193.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 193.9
     }
    ],
@@ -33485,7 +33851,7 @@
    "name": "ASUS TUF GAMING B850M-PLUS II Mainboard Micro ATX Sockel AM5 AMD B850 DDR5",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-tuf-gaming-b850m-plus-ii-mainboard-micro-atx-sockel-am5-amd-b850-ddr5-100603650/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -33500,6 +33866,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 194.2
+    },
+    {
+     "d": "2026-10-31",
      "p": 194.2
     }
    ],
@@ -34506,7 +34876,7 @@
    "name": "Intel Core Ultra 5 250KF Plus CPU, 18 Core, 5,3 GHz, Socket 1851 (Arrow Lake) - boxed",
    "source": "crawler",
    "url": "https://www.caseking.de/en/intel-core-ultra-5-250kf-plus-cpu-18-core-5-3-ghz-socket-1851-arrow-lake-boxed/HPIT-855.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -34525,6 +34895,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 202.43
+    },
+    {
+     "d": "2026-10-31",
      "p": 202.43
     }
    ],
@@ -34568,7 +34942,7 @@
    "name": "ASUS ZenScreen MB14AC Tragbarer Monitor 14\" Full HD IPS USB-C Dunkelgrau",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-zenscreen-mb14ac-tragbarer-monitor-14-full-hd-ips-usb-c-dunkelgrau-6492054/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -34584,6 +34958,10 @@
     {
      "d": "2026-10-30",
      "p": 202.85
+    },
+    {
+     "d": "2026-10-31",
+     "p": 202.85
     }
    ],
    "count": 1,
@@ -34597,7 +34975,7 @@
    "name": "Intel Core Ultra 5 250KF Plus CPU, 18 Core, 5,3 GHz, Socket 1851 (Arrow Lake) - tray",
    "source": "crawler",
    "url": "https://www.caseking.de/en/intel-core-ultra-5-250kf-plus-cpu-18-core-5-3-ghz-socket-1851-arrow-lake-tray/HPIT-858.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -34616,6 +34994,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 203.34
+    },
+    {
+     "d": "2026-10-31",
      "p": 203.34
     }
    ],
@@ -35110,7 +35492,7 @@
    "name": "Philips B Line 243B1 LED-Monitor 23,8\" Full HD IPS HDMI DisplayPort USB-C Lautsprecher Black Texture",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/philips-b-line-243b1-led-monitor-23-8-full-hd-ips-hdmi-displayport-usb-c-lautsprecher-black-texture-6118941/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -35125,6 +35507,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 208.69
+    },
+    {
+     "d": "2026-10-31",
      "p": 208.69
     }
    ],
@@ -35660,7 +36046,7 @@
    "name": "Lenovo ThinkVision T24v-30 60,5 cm (23.8\" ) LED-Monitor 1920 x 1080 Pixel Full HD LED Schwarz [Energieklasse E] (63D8MAT3EU)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/lenovo-thinkvision-t24v-30-60-5-cm-23-8-led-monitor-1920-x-1080-pixel-full-hd-led-schwarz-energieklasse-e-63d8mat3eu-8286197/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -35675,6 +36061,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 213.8
+    },
+    {
+     "d": "2026-10-31",
      "p": 213.8
     }
    ],
@@ -35784,7 +36174,7 @@
    "name": "ASUS ROG Loki 850P SFX-L Platinum, 80 PLUS Platinum Netzteil, modular, PCIe 5.0 - 850 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-loki-850p-sfx-l-platinum-80-plus-platinum-power-supply-modular-pcie-5.0-850-watt/NEAS-017.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -35803,6 +36193,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 214.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 214.9
     }
    ],
@@ -36388,7 +36782,7 @@
    "name": "Philips S-line 272S1MH LED-Monitor 27\" 1920 x 1080 IPS 75 Hz Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/philips-s-line-272s1mh-led-monitor-27-1920-x-1080-ips-75-hz-schwarz-7848280/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -36403,6 +36797,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 218.2
+    },
+    {
+     "d": "2026-10-31",
      "p": 218.2
     }
    ],
@@ -37215,7 +37613,7 @@
    "name": "ASUS Prime B850-PLUS WIFI Mainboard ATX Sockel AM5 DDR5 Wi-Fi 6E Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-prime-b850-plus-wifi-mainboard-atx-sockel-am5-ddr5-wi-fi-6e-schwarz-100553583/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -37230,6 +37628,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 222.32
+    },
+    {
+     "d": "2026-10-31",
      "p": 222.32
     }
    ],
@@ -37273,7 +37675,7 @@
    "name": "ASUS ROG Loki SFX-L 80 PLUS Platinum netzteil, modular - 850 Watt - weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-loki-sfx-l-80-plus-platinum-power-supply-modular-850-watt-white/NEAS-020.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -37292,6 +37694,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 224.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 224.9
     }
    ],
@@ -37674,7 +38080,7 @@
    "name": "be quiet! Dark Power 14 80 PLUS Titanium Netzteil, ATX 3.1, PCIe 5.1 - 1.000 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-dark-power-14-80-plus-titanium-power-supply-atx-3.1-pcie-5.1-1-000-watts/NEBE-265.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -37693,6 +38099,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 229.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 229.9
     }
    ],
@@ -37926,7 +38336,7 @@
    "name": "MSI B850 GAMING PLUS WIFI PZ, Mainboard",
    "source": "crawler",
    "url": "https://www.alternate.de/MSI/B850-GAMING-PLUS-WIFI-PZ-Mainboard/html/product/100140531",
-   "stand": "2026-10-31T09:43",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -38164,6 +38574,39 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asus-prime-x870-p-wifi-mainboard-amd-x870-sockel-am5-atx-ddr-4sjst",
+   "cat": "Mainboards",
+   "sub": "AM5 X870",
+   "name": "ASUS PRIME X870-P WIFI Mainboard AMD X870 Sockel AM5 ATX DDR5 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-prime-x870-p-wifi-mainboard-amd-x870-sockel-am5-atx-ddr5-schwarz-100509195/",
+   "stand": "2026-10-31T15:39",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 233.55,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-prime-x870-p-wifi-mainboard-amd-x870-sockel-am5-atx-ddr5-schwarz-100509195/"
+    }
+   ],
+   "price": 233.55,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 237.1
+    },
+    {
+     "d": "2026-10-31",
+     "p": 233.55
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 x870 asus prime x870 wifi mainboard amd sockel am5 atx ddr5 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-lenovo-thinkvision-t27q-40-27-qhd-ips-120-hz-led-monitor-fin-w583u",
    "cat": "Monitore",
    "sub": "27\"",
@@ -38352,7 +38795,7 @@
    "name": "ASUS TUF GAMING B850M-PLUS WIFI7 AMD B850 Mainboard Micro ATX Sockel AM5 DDR5 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-tuf-gaming-b850m-plus-wifi7-amd-b850-mainboard-micro-atx-sockel-am5-ddr5-schwarz-100603649/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -38367,6 +38810,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 234.58
+    },
+    {
+     "d": "2026-10-31",
      "p": 234.58
     }
    ],
@@ -38414,7 +38861,7 @@
    "name": "Patriot Viper PV593 SSD PCIe 5.0 M.2 2280 - 1 TB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/patriot-viper-pv593-ssd-pcie-5.0-m.2-2280-1-tb/MEPA-003.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -38433,6 +38880,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 234.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 234.9
     }
    ],
@@ -38619,35 +39070,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-asus-prime-x870-p-wifi-mainboard-amd-x870-sockel-am5-atx-ddr-4sjst",
-   "cat": "Mainboards",
-   "sub": "AM5 X870",
-   "name": "ASUS PRIME X870-P WIFI Mainboard AMD X870 Sockel AM5 ATX DDR5 Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/asus-prime-x870-p-wifi-mainboard-amd-x870-sockel-am5-atx-ddr5-schwarz-100509195/",
-   "stand": "2026-10-30T19:50",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 237.1,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/asus-prime-x870-p-wifi-mainboard-amd-x870-sockel-am5-atx-ddr5-schwarz-100509195/"
-    }
-   ],
-   "price": 237.1,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 237.1
-    }
-   ],
-   "count": 1,
-   "tags": "mainboards am5 x870 asus prime x870 wifi mainboard amd sockel am5 atx ddr5 schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-asus-prime-x870-p-mainboard-amd-x870-sockel-am5-atx-ddr5-sch",
    "cat": "Mainboards",
    "sub": "AM5 X870",
@@ -38683,7 +39105,7 @@
    "name": "ASUS PRIME X870-P Mainboard, AMD X870, Sockel AM5, ATX, DDR5, Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-prime-x870-p-mainboard-amd-x870-sockel-am5-atx-ddr5-schwarz-100509196/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -38698,6 +39120,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 237.89
+    },
+    {
+     "d": "2026-10-31",
      "p": 237.89
     }
    ],
@@ -38741,7 +39167,7 @@
    "name": "ASUS TUF GAMING B850M-PLUS WIFI7 W Mainboard Sockel AM5 DDR5 Micro-ATX Weiß",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-tuf-gaming-b850m-plus-wifi7-w-mainboard-sockel-am5-ddr5-micro-atx-weiss-100603648/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -38756,6 +39182,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 238.15
+    },
+    {
+     "d": "2026-10-31",
      "p": 238.15
     }
    ],
@@ -38890,7 +39320,7 @@
    "name": "SanDisk WD_BLACK SN8100 SSD 1TB M.2 2280 PCIe Gen5 NVMe Internes Solid-State-Module",
    "source": "crawler",
    "url": "https://www.notebooksbilliger.de/wd_black+sn8100+ssd+1tb+m2+2280+pcie+gen5+nvme+892674",
-   "stand": "2026-10-31T13:48",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "Notebooksbilliger",
@@ -38981,7 +39411,7 @@
    "name": "ASUS ROG Loki 1000P SFX-L Platinum, 80 PLUS Platinum Netzteil, modular, PCIe 5.0 - 1.000 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-loki-1000p-sfx-l-platinum-80-plus-platinum-power-supply-modular-pcie-5.0-1-000-watts/NEAS-016.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -39001,6 +39431,10 @@
     {
      "d": "2026-10-30",
      "p": 239.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 239.9
     }
    ],
    "count": 1,
@@ -39014,7 +39448,7 @@
    "name": "ASUS ROG Strix 1000 Platinum Netzteil, 80 PLUS Platinum, modular, PCIe 5.1 - 1.000 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-1000-platinum-power-supply-80-plus-platinum-modular-pcie-5.1-1-000-watts/NEAS-036.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -39033,6 +39467,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 239.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 239.9
     }
    ],
@@ -39853,7 +40291,7 @@
    "name": "MSI B850 Gaming Plus Wifi PZ Mainboard AM5 ATX DDR5 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/msi-b850-gaming-plus-wifi-pz-mainboard-am5-atx-ddr5-schwarz-100593847/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -39868,6 +40306,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 245.08
+    },
+    {
+     "d": "2026-10-31",
      "p": 245.08
     }
    ],
@@ -40312,7 +40754,7 @@
    "name": "ASUS TUF Gaming VG27AQML1A, Gaming-Monitor - (68.6 cm(27\" ), AMD Free-Sync, HDMI, DisplayPort, 240Hz Panel) [Energieklasse F] (90LM05Z0-B07370)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-tuf-gaming-vg27aqml1a-gaming-monitor-68-6-cm-27-amd-free-sync-hdmi-displayport-240hz-panel-energieklasse-f-90lm05z0-b07370-9232058/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -40327,6 +40769,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 249.83
+    },
+    {
+     "d": "2026-10-31",
      "p": 249.83
     }
    ],
@@ -40403,7 +40849,7 @@
    "name": "ASUS ROG Strix 1000W Platinum, 80 PLUS Platinum Netzteil, modular, PCIe 5.1 - 1.000 Watt, weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-1000w-platinum-80-plus-platinum-power-supply-modular-pcie-5.1-1-000-watts-white/NEAS-041.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -40423,6 +40869,10 @@
     {
      "d": "2026-10-30",
      "p": 249.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 249.9
     }
    ],
    "count": 1,
@@ -40436,7 +40886,7 @@
    "name": "be quiet! Dark Power 14 80 PLUS Titanium Netzteil, ATX 3.1, PCIe 5.1 - 1.200 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-dark-power-14-80-plus-titanium-power-supply-atx-3.1-pcie-5.1-1-200-watts/NEBE-264.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -40455,6 +40905,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 249.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 249.9
     }
    ],
@@ -41379,7 +41833,7 @@
    "name": "ASUS TUF Gaming B850-PRO WIFI7 W NEO Mainboard ATX Sockel AM5 AMD B850 DDR5 Weiß",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-tuf-gaming-b850-pro-wifi7-w-neo-mainboard-atx-sockel-am5-amd-b850-ddr5-weiss-100703393/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -41394,6 +41848,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 257.47
+    },
+    {
+     "d": "2026-10-31",
      "p": 257.47
     }
    ],
@@ -42351,7 +42809,7 @@
    "name": "AOC Pro-line Q27P4CV 27\" QHD IPS LED-Monitor Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/aoc-pro-line-q27p4cv-27-qhd-ips-led-monitor-schwarz-100701373/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -42366,6 +42824,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 270.64
+    },
+    {
+     "d": "2026-10-31",
      "p": 270.64
     }
    ],
@@ -42525,7 +42987,7 @@
    "name": "HP OMEN 27s Gaming Monitor – 27 Zoll Full HD IPS, 240Hz, G-SYNC & FreeSync (780G5E9#ABB)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/hp-omen-27s-gaming-monitor-27-zoll-full-hd-ips-240hz-g-sync-freesync-780g5e9-abb-9227451/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -42541,6 +43003,10 @@
     {
      "d": "2026-10-30",
      "p": 272.63
+    },
+    {
+     "d": "2026-10-31",
+     "p": 272.63
     }
    ],
    "count": 1,
@@ -42555,35 +43021,6 @@
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/lg-34u601sa-w-34-curved-dual-wqhd-monitor-webos-100-hz-5-ms-weiss-100700947/",
    "stand": "2026-10-30T11:44",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 272.87,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/lg-34u601sa-w-34-curved-dual-wqhd-monitor-webos-100-hz-5-ms-weiss-100700947/"
-    }
-   ],
-   "price": 272.87,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 272.87
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 34\" 34u601sa curved dual wqhd monitor webos 100 weiss",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-lg-34u601sa-w-34-curved-dual-wqhd-monitor-webos-100-hz-5-ms--cfsbm",
-   "cat": "Monitore",
-   "sub": "34\"",
-   "name": "LG 34U601SA-W 34\" Curved Dual WQHD Monitor webOS 100 Hz 5 ms Weiß",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/lg-34u601sa-w-34-curved-dual-wqhd-monitor-webos-100-hz-5-ms-weiss-100700947/",
-   "stand": "2026-10-30T19:50",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -42732,7 +43169,7 @@
    "name": "AOC CU34V5C - 34 Zoll WQHD Curved Monitor, Lautsprecher, höhenverstellbar (3440x1440, 100 Hz, HDMI, DisplayPort, USB-C, USB Hub) schwarz [Energieklasse G] (CU34V5C/BK)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/aoc-cu34v5c-34-zoll-wqhd-curved-monitor-lautsprecher-hoehenverstellbar-3440x1440-100-hz-hdmi-displayport-usb-c-usb-hub-schwarz-energieklasse-g-cu34v5c-bk-7893676/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -42747,6 +43184,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 274.58
+    },
+    {
+     "d": "2026-10-31",
      "p": 274.58
     }
    ],
@@ -42819,22 +43260,26 @@
    "name": "MSI PRO Z890-S WIFI PZ Mainboard ATX Intel Z890 LGA 1851 DDR5 Wi-Fi 7 Silber, Weiß",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/msi-pro-z890-s-wifi-pz-mainboard-atx-intel-z890-lga-1851-ddr5-wi-fi-7-silber-weiss-100554146/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
-     "price": 275.89,
+     "price": 275.87,
      "ship": null,
      "avail": null,
      "url": "https://www.jacob.de/produkt/msi-pro-z890-s-wifi-pz-mainboard-atx-intel-z890-lga-1851-ddr5-wi-fi-7-silber-weiss-100554146/"
     }
    ],
-   "price": 275.89,
+   "price": 275.87,
    "shop": "JACOB Elektronik GmbH",
    "hist": [
     {
      "d": "2026-10-30",
      "p": 275.89
+    },
+    {
+     "d": "2026-10-31",
+     "p": 275.87
     }
    ],
    "count": 1,
@@ -43030,7 +43475,7 @@
    "name": "ASUS ProArt B850-Creator WiFi Neo Mainboard AMD AM5 DDR5 ATX WiFi 7 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-proart-b850-creator-wifi-neo-mainboard-amd-am5-ddr5-atx-wifi-7-schwarz-100706805/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -43045,6 +43490,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 278.51
+    },
+    {
+     "d": "2026-10-31",
      "p": 278.51
     }
    ],
@@ -43410,6 +43859,39 @@
    ],
    "count": 1,
    "tags": "mainboards intel lga1700 z790 asrock z790m itx wifi mainboard mini lga1700 intel z790 ddr4 schwarz grau",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-lg-34u601sa-w-34-curved-dual-wqhd-monitor-webos-100-hz-5-ms--cfsbm",
+   "cat": "Monitore",
+   "sub": "34\"",
+   "name": "LG 34U601SA-W 34\" Curved Dual WQHD Monitor webOS 100 Hz 5 ms Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/lg-34u601sa-w-34-curved-dual-wqhd-monitor-webos-100-hz-5-ms-weiss-100700947/",
+   "stand": "2026-10-31T15:39",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 285.92,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/lg-34u601sa-w-34-curved-dual-wqhd-monitor-webos-100-hz-5-ms-weiss-100700947/"
+    }
+   ],
+   "price": 285.92,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 272.87
+    },
+    {
+     "d": "2026-10-31",
+     "p": 285.92
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 34\" 34u601sa curved dual wqhd monitor webos 100 weiss",
    "firstSeen": "2026-10-30"
   },
   {
@@ -44019,7 +44501,7 @@
    "name": "T-FORCE Vulcan DDR5 16 GB 6000 MHz CL30 DIMM 288-Pin Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/t-force-vulcan-ddr5-16-gb-6000-mhz-cl30-dimm-288-pin-schwarz-100482813/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -44034,6 +44516,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 296.8
+    },
+    {
+     "d": "2026-10-31",
      "p": 296.8
     }
    ],
@@ -44139,7 +44625,7 @@
    "name": "be quiet! Dark Power Pro 13 Netzteil 80 PLUS Titanium, ATX 3.1, PCIe 5.1 - 1300 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-dark-power-pro-13-power-supply-80-plus-titanium-atx-3.1-pcie-5.1-1300-watt/NEBE-234.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -44158,6 +44644,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 299.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 299.9
     }
    ],
@@ -44321,7 +44811,7 @@
    "name": "Fujitsu P27-8 TS UHD - LED-Monitor - 68.5 cm (27\") - 3840 x 2160 4K UHD (2160p) - IPS - 350 cd/m² - 1300:1 - 5 ms - 2xHDMI, DisplayPort, Mini DisplayPort - Lautsprecher - Matt Black [Energieklasse G]",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/fujitsu-p27-8-ts-uhd-led-monitor-68-5-cm-27-3840-x-2160-4k-uhd-2160p-ips-350-cd-m2-1300-1-5-ms-2xhdmi-displayport-mini-displayport-lautsprecher-matt-black-energieklasse-g-3644356/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -44336,6 +44826,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 300.97
+    },
+    {
+     "d": "2026-10-31",
      "p": 300.97
     }
    ],
@@ -45028,7 +45522,7 @@
    "name": "Philips B Line 275B1H 27\" LED-Monitor 2560 x 1440 IPS 75 Hz Black Texture",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/philips-b-line-275b1h-27-led-monitor-2560-x-1440-ips-75-hz-black-texture-6610249/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -45043,6 +45537,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 313.78
+    },
+    {
+     "d": "2026-10-31",
      "p": 313.78
     }
    ],
@@ -45545,7 +46043,7 @@
    "name": "iiyama ProLite XUB2797UHSNP-B1 27\" 4K IPS Monitor Schwarz, Matte",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/iiyama-prolite-xub2797uhsnp-b1-27-4k-ips-monitor-schwarz-matte-100507992/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -45560,6 +46058,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 325.04
+    },
+    {
+     "d": "2026-10-31",
      "p": 325.04
     }
    ],
@@ -45822,7 +46324,7 @@
    "name": "Integral V-Series V2 2,5\" Interne SSD 2 TB SATA III",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/integral-v-series-v2-2-5-interne-ssd-2-tb-sata-iii-100874475/",
-   "stand": "2026-10-30T20:28",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -45837,6 +46339,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 328.13
+    },
+    {
+     "d": "2026-10-31",
      "p": 328.13
     }
    ],
@@ -46720,7 +47226,7 @@
    "name": "Samsung Odyssey G6 S27BG650EU 27\" Curved QHD 240 Hz LCD-Monitor Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/samsung-odyssey-g6-s27bg650eu-27-curved-qhd-240-hz-lcd-monitor-schwarz-7998961/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -46735,6 +47241,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 341.49
+    },
+    {
+     "d": "2026-10-31",
      "p": 341.49
     }
    ],
@@ -46997,7 +47507,7 @@
    "name": "ASUS ROG Loki SFX-L 1200W, 80 PLUS Titanium Netzteil, modular, PCIe 5.0 - 1200 Watt, weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-loki-sfx-l-1200w-80-plus-titanium-power-supply-modular-pcie-5.0-1200-watt-white/NEAS-031.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -47017,6 +47527,10 @@
     {
      "d": "2026-10-30",
      "p": 349.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 349.9
     }
    ],
    "count": 1,
@@ -47030,7 +47544,7 @@
    "name": "be quiet! Dark Power Pro 13 80 PLUS Titanium Netzteil, ATX 3.1, PCIe 5.1 - 1.600 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/-be-quiet-dark-power-pro-13-80-plus-titanium-power-supply-atx-3.1-pcie-5.1-1-600-watts-/NEBE-233.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -47049,6 +47563,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 349.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 349.9
     }
    ],
@@ -47547,7 +48065,7 @@
    "name": "ASUS BE24ECSBT, LED-Monitor - (60.5 cm(23.8\" ), schwarz) [Energieklasse E] (90LM05M1-B0B370)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-be24ecsbt-led-monitor-60-5-cm-23-8-schwarz-energieklasse-e-90lm05m1-b0b370-8114074/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -47562,6 +48080,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 359.38
+    },
+    {
+     "d": "2026-10-31",
      "p": 359.38
     }
    ],
@@ -47725,7 +48247,7 @@
    "name": "ASUS ROG Strix X870-F Gaming WIFI Mainboard AMD X870 AM5 ATX DDR5 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-rog-strix-x870-f-gaming-wifi-mainboard-amd-x870-am5-atx-ddr5-schwarz-100509198/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -47740,6 +48262,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 361.24
+    },
+    {
+     "d": "2026-10-31",
      "p": 361.24
     }
    ],
@@ -47816,7 +48342,7 @@
    "name": "CORSAIR Vengeance RGB RT 32 GB RAM 2x16 GB DDR4 3200 MHz CL16 Schwarz, Grau",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/corsair-vengeance-rgb-rt-32-gb-ram-2x16-gb-ddr4-3200-mhz-cl16-schwarz-grau-7342994/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -47831,6 +48357,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 367.1
+    },
+    {
+     "d": "2026-10-31",
      "p": 367.1
     }
    ],
@@ -48387,7 +48917,7 @@
    "name": "Kingston FURY Beast 16 GB DDR5 6000 MT/s CL36 DIMM 288-PIN Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-beast-16-gb-ddr5-6000-mt-s-cl36-dimm-288-pin-schwarz-100499637/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -48402,6 +48932,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 373.11
+    },
+    {
+     "d": "2026-10-31",
      "p": 373.11
     }
    ],
@@ -48503,7 +49037,7 @@
    "name": "ASUS ROG STRIX X870E-H GAMING WIFI7 Mainboard ATX Sockel AM5 AMD X870E DDR5 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-rog-strix-x870e-h-gaming-wifi7-mainboard-atx-sockel-am5-amd-x870e-ddr5-schwarz-100598053/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -48518,6 +49052,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 373.58
+    },
+    {
+     "d": "2026-10-31",
      "p": 373.58
     }
    ],
@@ -49256,7 +49794,7 @@
    "name": "Philips P-line 279P1 LED-Monitor 27\" 4K UHD IPS USB-C HDMI DisplayPort Black Texture",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/philips-p-line-279p1-led-monitor-27-4k-uhd-ips-usb-c-hdmi-displayport-black-texture-6793214/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -49271,6 +49809,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 383.89
+    },
+    {
+     "d": "2026-10-31",
      "p": 383.89
     }
    ],
@@ -49930,7 +50472,7 @@
    "name": "Dell P2419H - LED-Monitor - 61 cm (24\") (23.8\" sichtbar) - 1920 x 1080 Full HD (1080p) - IPS - 250 cd/m² - 1000:1 - 5 ms - HDMI, VGA, DisplayPort - (Energieklasse D) (DELL-P2419H)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/dell-p2419h-led-monitor-61-cm-24-23-8-sichtbar-1920-x-1080-full-hd-1080p-ips-250-cd-m2-1000-1-5-ms-hdmi-vga-displayport-energieklasse-d-dell-p2419h-4590006/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -49945,6 +50487,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 397.77
+    },
+    {
+     "d": "2026-10-31",
      "p": 397.77
     }
    ],
@@ -50261,7 +50807,7 @@
    "name": "ASUS ROG Thor Platinum III, 80 PLUS Platinum Netzteil, modular, ATX 3.1, PCIe 5.1 - 1.000 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-thor-platinum-iii-80-plus-platinum-power-supply-modular-atx-3.1-pcie-5.1-1-000-watts/NEAS-040.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -50280,6 +50826,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 409.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 409.9
     }
    ],
@@ -50993,7 +51543,7 @@
    "name": "MSI MPG Z890I EDGE TI WIFI Mainboard Mini-ITX Intel Z890 LGA 1851 DDR5 Wi-Fi 7 Silber/Weiß",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/msi-mpg-z890i-edge-ti-wifi-mainboard-mini-itx-intel-z890-lga-1851-ddr5-wi-fi-7-silber-weiss-100532472/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -51008,6 +51558,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 421.22
+    },
+    {
+     "d": "2026-10-31",
      "p": 421.22
     }
    ],
@@ -51051,7 +51605,7 @@
    "name": "ASUS ROG STRIX X870E-A GAMING WIFI7 NEO Mainboard Sockel AM5 DDR5 ATX Weiß",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-rog-strix-x870e-a-gaming-wifi7-neo-mainboard-sockel-am5-ddr5-atx-weiss-100705292/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -51066,6 +51620,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 422.72
+    },
+    {
+     "d": "2026-10-31",
      "p": 422.72
     }
    ],
@@ -51535,7 +52093,7 @@
    "name": "SanDisk WD_BLACK SN8100 SSD 2TB M.2 2280 PCIe Gen5 NVMe Internes Solid-State-Module",
    "source": "crawler",
    "url": "https://www.notebooksbilliger.de/wd_black+sn8100+ssd+2tb+m2+2280+pcie+gen5+nvme+892673",
-   "stand": "2026-10-31T13:48",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "Notebooksbilliger",
@@ -51721,7 +52279,7 @@
    "name": "ASUS ROG Thor Platinum III, 80 PLUS Platinum Netzteil, modular, ATX 3.1, PCIe 5.1 - 1.200 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-thor-platinum-iii-80-plus-platinum-power-supply-modular-atx-3.1-pcie-5.1-1-200-watts/NEAS-039.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -51740,6 +52298,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 439.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 439.9
     }
    ],
@@ -52138,7 +52700,7 @@
    "name": "SanDisk WD_BLACK SN770M SSD 2TB M.2 2230 PCIe Gen4 NVMe B-Ware Internes Solid-State-Module",
    "source": "crawler",
    "url": "https://www.notebooksbilliger.de/wd_black+sn770m+ssd+2tb+m2+2230+pcie+gen4+nvme+b+ware+919699",
-   "stand": "2026-10-31T13:48",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "Notebooksbilliger",
@@ -52713,7 +53275,7 @@
    "name": "ASUS ZenScreen MB16QHG 16\" WQXGA IPS Mobiler Monitor 120 Hz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-zenscreen-mb16qhg-16-wqxga-ips-mobiler-monitor-120-hz-9201943/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -52729,6 +53291,10 @@
     {
      "d": "2026-10-30",
      "p": 474.86
+    },
+    {
+     "d": "2026-10-31",
+     "p": 474.86
     }
    ],
    "count": 1,
@@ -52742,7 +53308,7 @@
    "name": "Patriot P400 V4 SSD, PCIe 4.0 M.2 2280 - 4 TB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/patriot-p400-v4-ssd-pcie-4.0-m.2-2280-4-tb/MEPA-004.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -52761,6 +53327,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 474.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 474.9
     }
    ],
@@ -53404,7 +53974,7 @@
    "name": "ASUS ProArt X870E-CREATOR WIFI Mainboard ATX Sockel AM5 AMD X870E DDR5 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-proart-x870e-creator-wifi-mainboard-atx-sockel-am5-amd-x870e-ddr5-schwarz-100509197/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -53419,6 +53989,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 493.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 493.9
     }
    ],
@@ -53731,7 +54305,7 @@
    "name": "ASUS Pro WS W680-ACE Mainboard Intel W680 LGA 1700 DDR5 128 GB RAM ATX Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-pro-ws-w680-ace-mainboard-intel-w680-lga-1700-ddr5-128-gb-ram-atx-schwarz-8114079/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -53746,6 +54320,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 499.68
+    },
+    {
+     "d": "2026-10-31",
      "p": 499.68
     }
    ],
@@ -54054,7 +54632,7 @@
    "name": "ASUS ProArt Z890-CREATOR WIFI (Intel Z890, LGA 1851, DDR5, ATX) Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-proart-z890-creator-wifi-intel-z890-lga-1851-ddr5-atx-schwarz-100532394/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -54069,6 +54647,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 516.34
+    },
+    {
+     "d": "2026-10-31",
      "p": 516.34
     }
    ],
@@ -54480,7 +55062,7 @@
    "name": "BenQ Mobiuz EX271U - LED-Monitor - Gaming - 68.6 cm (27\") - 3840 x 2160 4K @ 165 Hz - IPS - 400 cd/m² - 1200:1 - DisplayHDR 400 - 1 ms - 3xHDMI, DisplayPort, USB-C (9H.LN2LB.QBE)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/benq-mobiuz-ex271u-led-monitor-gaming-68-6-cm-27-3840-x-2160-4k-at-165-hz-ips-400-cd-m2-1200-1-displayhdr-400-1-ms-3xhdmi-displayport-usb-c-9h-ln2lb-qbe-100581273/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -54495,6 +55077,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 530.89
+    },
+    {
+     "d": "2026-10-31",
      "p": 530.89
     }
    ],
@@ -54600,7 +55186,7 @@
    "name": "Patriot P410 SSD, PCIe 4.0 M.2 2280 - 4 TB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/patriot-p410-ssd-pcie-4.0-m.2-2280-4-tb/MEPA-008.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -54619,6 +55205,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 534.9
+    },
+    {
+     "d": "2026-10-31",
      "p": 534.9
     }
    ],
@@ -55183,7 +55773,7 @@
    "name": "ASUS PRO WS W680M-ACE SE Mainboard LGA 1700 Intel W680 DDR5 micro-ATX",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-pro-ws-w680m-ace-se-mainboard-lga-1700-intel-w680-ddr5-micro-atx-9385772/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -55198,6 +55788,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 550.57
+    },
+    {
+     "d": "2026-10-31",
      "p": 550.57
     }
    ],
@@ -55671,7 +56265,7 @@
    "name": "Philips P Line 439P1/00 42,5\" 4K UHD VA Monitor HDMI DisplayPort USB-C RJ-45 60 Hz AdaptiveSync Black Texture",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/philips-p-line-439p1-00-42-5-4k-uhd-va-monitor-hdmi-displayport-usb-c-rj-45-60-hz-adaptivesync-black-texture-7264024/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -55686,6 +56280,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 574.46
+    },
+    {
+     "d": "2026-10-31",
      "p": 574.46
     }
    ],
@@ -56072,7 +56670,7 @@
    "name": "ASUS Pro WS W680-ACE IPMI Mainboard ATX LGA 1700 Intel W680 DDR5 Gold",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-pro-ws-w680-ace-ipmi-mainboard-atx-lga-1700-intel-w680-ddr5-gold-100469971/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -56087,6 +56685,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 582.84
+    },
+    {
+     "d": "2026-10-31",
      "p": 582.84
     }
    ],
@@ -56130,7 +56732,7 @@
    "name": "GOODRAM IRDM DDR5 32 GB RAM 2 x 16 GB 6400 MHz CL32 DIMM Schwarz, Silber",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/goodram-irdm-ddr5-32-gb-ram-2-x-16-gb-6400-mhz-cl32-dimm-schwarz-silber-100473502/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -56145,6 +56747,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 584.03
+    },
+    {
+     "d": "2026-10-31",
      "p": 584.03
     }
    ],
@@ -56957,7 +57563,7 @@
    "name": "ASUS ROG CROSSHAIR X870E HERO Mainboard ATX Sockel AM5 AMD X870E DDR5 Wi-Fi 7 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-rog-crosshair-x870e-hero-mainboard-atx-sockel-am5-amd-x870e-ddr5-wi-fi-7-schwarz-100509194/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -56972,6 +57578,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 608.65
+    },
+    {
+     "d": "2026-10-31",
      "p": 608.65
     }
    ],
@@ -57164,7 +57774,7 @@
    "name": "Intel Core i9-14900T 1,1 GHz (Raptor Lake Refresh) Sockel 1700 - tray",
    "source": "crawler",
    "url": "https://www.caseking.de/en/intel-core-i9-14900t-1.1-ghz-raptor-lake-refresh-socket-1700-tray/HPIT-832.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -57183,6 +57793,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 615.6
+    },
+    {
+     "d": "2026-10-31",
      "p": 615.6
     }
    ],
@@ -57480,35 +58094,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-asus-rog-strix-oled-xg27aqng-led-monitor-67-3-cm-27-wqhd-hdm-frpxh",
-   "cat": "Monitore",
-   "sub": "27\"",
-   "name": "ASUS ROG Strix OLED XG27AQNG LED-Monitor 67,3 cm (27\") WQHD – HDMI/DP – Schwarz (90LM0CH0-B01971)",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/asus-rog-strix-oled-xg27aqng-led-monitor-67-3-cm-27-wqhd-hdmi-dp-schwarz-90lm0ch0-b01971-100688795/",
-   "stand": "2026-10-30T19:50",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 622.32,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/asus-rog-strix-oled-xg27aqng-led-monitor-67-3-cm-27-wqhd-hdmi-dp-schwarz-90lm0ch0-b01971-100688795/"
-    }
-   ],
-   "price": 622.32,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 622.32
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 27\" asus rog strix oled xg27aqng led monitor wqhd hdmi schwarz 90lm0ch0 b01971",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-wd-red-sn700-wds100t1r0c-1-tb-ssd-m-2-2280-pcie-3-0-x4-nvme",
    "cat": "SSDs",
    "sub": "NVMe 1 TB",
@@ -57593,6 +58178,39 @@
    ],
    "count": 1,
    "tags": "arbeitsspeicher ddr5 32 gb force vulcan ddr5 ram 2x16 6000 mhz cl38 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-rog-strix-oled-xg27aqng-led-monitor-67-3-cm-27-wqhd-hdm-frpxh",
+   "cat": "Monitore",
+   "sub": "27\"",
+   "name": "ASUS ROG Strix OLED XG27AQNG LED-Monitor 67,3 cm (27\") WQHD – HDMI/DP – Schwarz (90LM0CH0-B01971)",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-rog-strix-oled-xg27aqng-led-monitor-67-3-cm-27-wqhd-hdmi-dp-schwarz-90lm0ch0-b01971-100688795/",
+   "stand": "2026-10-31T15:39",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 627.48,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-rog-strix-oled-xg27aqng-led-monitor-67-3-cm-27-wqhd-hdmi-dp-schwarz-90lm0ch0-b01971-100688795/"
+    }
+   ],
+   "price": 627.48,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 622.32
+    },
+    {
+     "d": "2026-10-31",
+     "p": 627.48
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 27\" asus rog strix oled xg27aqng led monitor wqhd hdmi schwarz 90lm0ch0 b01971",
    "firstSeen": "2026-10-30"
   },
   {
@@ -57912,22 +58530,26 @@
    "name": "ASUS ROG CROSSHAIR X870E HERO BTF Mainboard ATX AM5 X870E DDR5 WiFi 7 5GbE",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-rog-crosshair-x870e-hero-btf-mainboard-atx-am5-x870e-ddr5-wifi-7-5gbe-100663241/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
-     "price": 639.11,
+     "price": 639.01,
      "ship": null,
      "avail": null,
      "url": "https://www.jacob.de/produkt/asus-rog-crosshair-x870e-hero-btf-mainboard-atx-am5-x870e-ddr5-wifi-7-5gbe-100663241/"
     }
    ],
-   "price": 639.11,
+   "price": 639.01,
    "shop": "JACOB Elektronik GmbH",
    "hist": [
     {
      "d": "2026-10-30",
      "p": 639.11
+    },
+    {
+     "d": "2026-10-31",
+     "p": 639.01
     }
    ],
    "count": 1,
@@ -58123,7 +58745,7 @@
    "name": "ASUS ROG MAXIMUS Z890 HERO BTF Mainboard ATX LGA1851 Intel Z890 DDR5 Wi-Fi 7 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-rog-maximus-z890-hero-btf-mainboard-atx-lga1851-intel-z890-ddr5-wi-fi-7-schwarz-100551759/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -58138,6 +58760,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 645.09
+    },
+    {
+     "d": "2026-10-31",
      "p": 645.09
     }
    ],
@@ -58785,7 +59411,7 @@
    "name": "AG Neovo Neovo X-22E - LED-Monitor - 54,6 cm (21.5\") - 1920 x 1080 Full HD (1080p) - TN - 250 cd/m² - 3 ms - HDMI, DVI-D, VGA, DisplayPort - Lautsprecher - weiß [Energieklasse E] (X22E00A1E0100)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/ag-neovo-neovo-x-22e-led-monitor-54-6-cm-21-5-1920-x-1080-full-hd-1080p-tn-250-cd-m2-3-ms-hdmi-dvi-d-vga-displayport-lautsprecher-weiss-energieklasse-e-x22e00a1e0100-3660376/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -58800,6 +59426,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 657.89
+    },
+    {
+     "d": "2026-10-31",
      "p": 657.89
     }
    ],
@@ -58872,7 +59502,7 @@
    "name": "HP Monitor E24i G4 WUXGA Monitor 61cm 24Zoll HDMI VGA USB hub DisplayPort [Energieklasse D] (9VJ40AA)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/hp-monitor-e24i-g4-wuxga-monitor-61cm-24zoll-hdmi-vga-usb-hub-displayport-energieklasse-d-9vj40aa-6982838/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -58887,6 +59517,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 658.32
+    },
+    {
+     "d": "2026-10-31",
      "p": 658.32
     }
    ],
@@ -59670,7 +60304,7 @@
    "name": "HP E24i G4 24\" WUXGA IPS Monitor Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/hp-e24i-g4-24-wuxga-ips-monitor-schwarz-7374479/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -59685,6 +60319,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 689.31
+    },
+    {
+     "d": "2026-10-31",
      "p": 689.31
     }
    ],
@@ -60030,7 +60668,7 @@
    "name": "Intel Core i9-14900KS 3,2 GHz (Raptor Lake Refresh) Sockel 1700 - boxed",
    "source": "crawler",
    "url": "https://www.caseking.de/en/intel-core-i9-14900ks-3.2-ghz-raptor-lake-refresh-socket-1700-boxed/HPIT-833.html",
-   "stand": "2026-10-30T14:03",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "caseking.de",
@@ -60049,6 +60687,10 @@
     },
     {
      "d": "2026-10-30",
+     "p": 707.21
+    },
+    {
+     "d": "2026-10-31",
      "p": 707.21
     }
    ],
@@ -62105,35 +62747,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-kingston-fury-beast-rgb-ddr5-32-gb-2-x-16-gb-6000-mhz-cl30-d-17zph",
-   "cat": "Arbeitsspeicher",
-   "sub": "DDR5 32 GB",
-   "name": "Kingston FURY Beast RGB DDR5 32 GB (2 x 16 GB) 6000 MHz CL30 DIMM Weiß",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/kingston-fury-beast-rgb-ddr5-32-gb-2-x-16-gb-6000-mhz-cl30-dimm-weiss-100475074/",
-   "stand": "2026-10-30T19:50",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 804.27,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/kingston-fury-beast-rgb-ddr5-32-gb-2-x-16-gb-6000-mhz-cl30-dimm-weiss-100475074/"
-    }
-   ],
-   "price": 804.27,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 804.27
-    }
-   ],
-   "count": 1,
-   "tags": "arbeitsspeicher ddr5 32 gb kingston fury beast rgb ddr5 6000 mhz cl30 dimm weiss",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-msi-spatium-m571-4-tb-m-2-pcie-gen5-x4-nvme-ssd",
    "cat": "SSDs",
    "sub": "PCIe 5.0 4 TB",
@@ -62322,7 +62935,7 @@
    "name": "Kingston FURY Beast 32 GB DDR5 6400 MHz DIMM Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-beast-32-gb-ddr5-6400-mhz-dimm-schwarz-100495404/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -62337,6 +62950,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 822.43
+    },
+    {
+     "d": "2026-10-31",
      "p": 822.43
     }
    ],
@@ -62375,6 +62992,39 @@
    ],
    "count": 1,
    "tags": "monitore 27\" samsung viewfinity s27c902pau s90pc series led monitor smart 5120 2880 ips 600 1000 mini displayport thunderbolt",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-kingston-fury-beast-rgb-ddr5-32-gb-2-x-16-gb-6000-mhz-cl30-d-17zph",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 32 GB",
+   "name": "Kingston FURY Beast RGB DDR5 32 GB (2 x 16 GB) 6000 MHz CL30 DIMM Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/kingston-fury-beast-rgb-ddr5-32-gb-2-x-16-gb-6000-mhz-cl30-dimm-weiss-100475074/",
+   "stand": "2026-10-31T15:39",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 824.71,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/kingston-fury-beast-rgb-ddr5-32-gb-2-x-16-gb-6000-mhz-cl30-dimm-weiss-100475074/"
+    }
+   ],
+   "price": 824.71,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 804.27
+    },
+    {
+     "d": "2026-10-31",
+     "p": 824.71
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 32 gb kingston fury beast rgb ddr5 6000 mhz cl30 dimm weiss",
    "firstSeen": "2026-10-30"
   },
   {
@@ -62657,7 +63307,7 @@
    "name": "G.Skill Trident Z5 Neo RGB DDR5 32 GB RAM 2 x 16 GB 6000 MHz CL30 Weiß",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/g-skill-trident-z5-neo-rgb-ddr5-32-gb-ram-2-x-16-gb-6000-mhz-cl30-weiss-100472529/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -62672,6 +63322,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 832.61
+    },
+    {
+     "d": "2026-10-31",
      "p": 832.61
     }
    ],
@@ -63021,7 +63675,7 @@
    "name": "Kingston FURY Beast DDR4 64 GB RAM 2x32 GB 3200 MT/s CL16 DIMM Kit Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-beast-ddr4-64-gb-ram-2x32-gb-3200-mt-s-cl16-dimm-kit-schwarz-7291286/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -63036,6 +63690,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 844.88
+    },
+    {
+     "d": "2026-10-31",
      "p": 844.88
     }
    ],
@@ -63381,7 +64039,7 @@
    "name": "ASUS PRO WS TRX50-SAGE WIFI A Mainboard SSI CEB Socket sTR5 WiFi 7 DDR5 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-pro-ws-trx50-sage-wifi-a-mainboard-ssi-ceb-socket-str5-wifi-7-ddr5-schwarz-100598052/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -63396,6 +64054,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 852.84
+    },
+    {
+     "d": "2026-10-31",
      "p": 852.84
     }
    ],
@@ -64912,7 +65574,7 @@
    "name": "ASUS ProArt PA16USV 15,6\" 4K UHD IPS Monitor 3840x2160 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-proart-pa16usv-15-6-4k-uhd-ips-monitor-3840x2160-schwarz-100600304/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -64927,6 +65589,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 932.78
+    },
+    {
+     "d": "2026-10-31",
      "p": 932.78
     }
    ],
@@ -65123,7 +65789,7 @@
    "name": "ASUS Pro WS W890-SAGE Mainboard Intel W890 LGA4710-2 DDR5 SSI CEB Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-pro-ws-w890-sage-mainboard-intel-w890-lga4710-2-ddr5-ssi-ceb-schwarz-100705290/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -65138,6 +65804,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 944.54
+    },
+    {
+     "d": "2026-10-31",
      "p": 944.54
     }
    ],
@@ -66636,7 +67306,7 @@
    "name": "ViewSonic ColorPro VP2788-5K 27\" Monitor 5120 x 2880 IPS 75 Hz Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/viewsonic-colorpro-vp2788-5k-27-monitor-5120-x-2880-ips-75-hz-schwarz-100585576/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -66651,6 +67321,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 1093.74
+    },
+    {
+     "d": "2026-10-31",
      "p": 1093.74
     }
    ],
@@ -67756,7 +68430,7 @@
    "name": "EIZO FlexScan EV3895-BK - Mit FlexStand - LED-Monitor - gebogen - 95.3 cm (37.5\") - 3840 x 1600 UWQHD+ @ 61 Hz - IPS - 300 cd/m² - 1000:1 - 5 ms - 2xHDMI, DisplayPort, USB-C - Lautsprecher - Schwarz [Energieklasse E]",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/eizo-flexscan-ev3895-bk-mit-flexstand-led-monitor-gebogen-95-3-cm-37-5-3840-x-1600-uwqhd-at-61-hz-ips-300-cd-m2-1000-1-5-ms-2xhdmi-displayport-usb-c-lautsprecher-schwarz-energieklasse-e-6917772/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -67771,6 +68445,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 1276.28
+    },
+    {
+     "d": "2026-10-31",
      "p": 1276.28
     }
    ],
@@ -69388,7 +70066,7 @@
    "name": "HP E45c G5 DQHD Curved Monitor, 113 cm (44.5\"), 5120 x 1440 Pixel, Dual QHD, LED, 3 ms, Schwarz (6N4C1AA#ABB)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/hp-e45c-g5-dqhd-curved-monitor-113-cm-44-5-5120-x-1440-pixel-dual-qhd-led-3-ms-schwarz-6n4c1aa-abb-8153248/",
-   "stand": "2026-10-30T19:50",
+   "stand": "2026-10-31T15:39",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -69403,6 +70081,10 @@
    "hist": [
     {
      "d": "2026-10-30",
+     "p": 1572.12
+    },
+    {
+     "d": "2026-10-31",
      "p": 1572.12
     }
    ],
