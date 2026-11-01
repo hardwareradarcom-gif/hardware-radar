@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-01T09:47:36.589Z",
+ "updated": "2026-11-01T11:10:02.153Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -6159,6 +6159,126 @@
    "note": "Aktuell im Angebot, vorher 189,59 €."
   },
   {
+   "id": "c-asus-tuf-gaming-vg328qa1a-gaming-monitor-170hz",
+   "cat": "Monitore",
+   "sub": "Monitore",
+   "name": "ASUS TUF Gaming VG328QA1A Gaming Monitor 170Hz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-tuf-gaming-vg328qa1a-31.5-inch-gaming-monitor-170-hz-va-freesync/TFAS-246.html",
+   "stand": "2026-11-01T11:10",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 187.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-tuf-gaming-vg328qa1a-31.5-inch-gaming-monitor-170-hz-va-freesync/TFAS-246.html"
+    },
+    {
+     "shop": "sim-verse.com",
+     "price": 229.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.sim-verse.com/en-de/asus-tuf-gaming-vg328qa1a-gaming-monitor-170hz/TFAS-246.html"
+    }
+   ],
+   "price": 187.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 187.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 187.9
+    }
+   ],
+   "count": 2,
+   "tags": "monitore asus tuf gaming vg328qa1a monitor 170hz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-gigabyte-gs32qca-32-inch-curved-monitor-180hz",
+   "cat": "Monitore",
+   "sub": "Monitore",
+   "name": "Gigabyte GS32QCA 32-inch Curved Monitor 180Hz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/gigabyte-gs32qca-32-inch-curved-gaming-monitor-180hz-wqhd-va-adaptivesync/TFGB-064.html",
+   "stand": "2026-11-01T11:10",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 209,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/gigabyte-gs32qca-32-inch-curved-gaming-monitor-180hz-wqhd-va-adaptivesync/TFGB-064.html"
+    },
+    {
+     "shop": "sim-verse.com",
+     "price": 209,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.sim-verse.com/en-de/gigabyte-gs32qca-32-inch-curved-monitor-180hz/TFGB-064.html"
+    }
+   ],
+   "price": 209,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 209
+    },
+    {
+     "d": "2026-11-01",
+     "p": 209
+    }
+   ],
+   "count": 2,
+   "tags": "monitore gigabyte gs32qca inch curved monitor 180hz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-rog-strix-xg32wcms-gaming-monitor-31-5-inch-280-hz",
+   "cat": "Monitore",
+   "sub": "Monitore",
+   "name": "ASUS ROG Strix XG32WCMS Gaming Monitor 31.5-inch 280 Hz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-rog-strix-xg32wcms-31.5-inch-curved-gaming-monitor-280hz-va-adaptivesync/TFAS-278.html",
+   "stand": "2026-11-01T11:10",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 389,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-rog-strix-xg32wcms-31.5-inch-curved-gaming-monitor-280hz-va-adaptivesync/TFAS-278.html"
+    },
+    {
+     "shop": "sim-verse.com",
+     "price": 459,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.sim-verse.com/en-de/asus-rog-strix-xg32wcms-gaming-monitor-31.5-inch-280-hz/TFAS-278.html"
+    }
+   ],
+   "price": 389,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 389
+    },
+    {
+     "d": "2026-11-01",
+     "p": 389
+    }
+   ],
+   "count": 2,
+   "tags": "monitore asus rog strix xg32wcms gaming monitor inch 280",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-dual-geforce-rtx-5060-ti-oc-edition-8192-mb-gddr7",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5060 Ti",
@@ -6203,6 +6323,46 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-samsung-odyssey-g9-49-inch-gaming-monitor-144-hz",
+   "cat": "Monitore",
+   "sub": "Monitore",
+   "name": "Samsung Odyssey G9 49-inch Gaming Monitor 144 Hz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/samsung-odyssey-g9-g91f-49-inch-gaming-monitor-144-hz-va-g-sync-compatible/TFSS-210.html",
+   "stand": "2026-11-01T11:10",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 629,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/samsung-odyssey-g9-g91f-49-inch-gaming-monitor-144-hz-va-g-sync-compatible/TFSS-210.html"
+    },
+    {
+     "shop": "sim-verse.com",
+     "price": 769,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.sim-verse.com/en-de/samsung-odyssey-g9-49-inch-gaming-monitor-144-hz/TFSS-210.html"
+    }
+   ],
+   "price": 629,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 629
+    },
+    {
+     "d": "2026-11-01",
+     "p": 629
+    }
+   ],
+   "count": 2,
+   "tags": "monitore samsung odyssey inch gaming monitor 144",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-dual-radeon-rx-9060-xt-white-edition-16384-mb-gddr6",
    "cat": "Grafikkarten",
    "sub": "Radeon RX 9060 XT",
@@ -6245,6 +6405,46 @@
    "count": 2,
    "tags": "grafikkarten radeon rx 9060 xt asus dual radeon 9060 white edition 16384 gddr6",
    "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-nitro-concepts-sm1-curved-monitor-49-zoll-simracing",
+   "cat": "Monitore",
+   "sub": "49\"",
+   "name": "Nitro Concepts SM1 Curved Monitor – 49 Zoll SimRacing",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/nitro-concepts-sm1-simracing-monitor-124-5-cm-49-zoll-curved-144hz-freesync-g-sync-hdmi-dp-usb/TFNI-001.html",
+   "stand": "2026-11-01T11:10",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 799.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/nitro-concepts-sm1-simracing-monitor-124-5-cm-49-zoll-curved-144hz-freesync-g-sync-hdmi-dp-usb/TFNI-001.html"
+    },
+    {
+     "shop": "sim-verse.com",
+     "price": 799.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.sim-verse.com/de-de/nitro-concepts-sm1-curved-monitor-49-zoll-simracing/TFNI-001.html"
+    }
+   ],
+   "price": 799.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 799.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 799.9
+    }
+   ],
+   "count": 2,
+   "tags": "monitore 49\" nitro concepts sm1 curved monitor zoll simracing",
+   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-xfx-radeon-rx-9070-xt-gaming-16gb-gddr6-ram-grafikkarte",
@@ -11323,6 +11523,35 @@
    "firstSeen": "2026-11-01"
   },
   {
+   "id": "c-noctua-nh-l9x65-se-am4-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Noctua NH-L9x65 SE-AM4, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Noctua/NH-L9x65-SE-AM4-CPU-K%C3%BChler/html/product/1332962",
+   "stand": "2026-11-01T11:10",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 59.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Noctua/NH-L9x65-SE-AM4-CPU-K%C3%BChler/html/product/1332962"
+    }
+   ],
+   "price": 59.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-01",
+     "p": 59.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler noctua l9x65 am4 cpu kuhler",
+   "firstSeen": "2026-11-01"
+  },
+  {
    "id": "c-gigabyte-a520m-k-v2-mainboard-sockel-am4-amd-a520-micro-atx-",
    "cat": "Mainboards",
    "sub": "AM4 A520",
@@ -15569,6 +15798,35 @@
    ],
    "count": 1,
    "tags": "gehause phanteks evolv case midi tower atx rgb tempered glass black",
+   "firstSeen": "2026-11-01"
+  },
+  {
+   "id": "c-noctua-nh-d15-se-am4-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Noctua NH-D15 SE-AM4, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Noctua/NH-D15-SE-AM4-CPU-K%C3%BChler/html/product/1332968",
+   "stand": "2026-11-01T11:10",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 89.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Noctua/NH-D15-SE-AM4-CPU-K%C3%BChler/html/product/1332968"
+    }
+   ],
+   "price": 89.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-01",
+     "p": 89.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler noctua d15 am4 cpu kuhler",
    "firstSeen": "2026-11-01"
   },
   {
@@ -36908,39 +37166,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-asus-tuf-gaming-vg328qa1a-31-5-zoll-gaming-monitor-170-hz-va",
-   "cat": "Monitore",
-   "sub": "31,5\"",
-   "name": "ASUS TUF Gaming VG328QA1A, 31,5 Zoll Gaming Monitor, 170 Hz, VA, FreeSync",
-   "source": "crawler",
-   "url": "https://www.caseking.de/en/asus-tuf-gaming-vg328qa1a-31.5-inch-gaming-monitor-170-hz-va-freesync/TFAS-246.html",
-   "stand": "2026-11-01T08:00",
-   "offers": [
-    {
-     "shop": "caseking.de",
-     "price": 187.9,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/asus-tuf-gaming-vg328qa1a-31.5-inch-gaming-monitor-170-hz-va-freesync/TFAS-246.html"
-    }
-   ],
-   "price": 187.9,
-   "shop": "caseking.de",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 187.9
-    },
-    {
-     "d": "2026-11-01",
-     "p": 187.9
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 31,5\" asus tuf gaming vg328qa1a zoll monitor 170 freesync",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-western-digital-wd-blue-sn5100-1-tb-ssd-m-2-2280-pcie-4-0-nv",
    "cat": "SSDs",
    "sub": "PCIe 4.0 1 TB",
@@ -39593,39 +39818,6 @@
    ],
    "count": 1,
    "tags": "monitore 23,8\" philips line 243b1 led monitor full ips hdmi displayport usb lautsprecher black texture",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-gigabyte-gs32qca-32-zoll-curved-gaming-monitor-180hz-wqhd-va",
-   "cat": "Monitore",
-   "sub": "32\"",
-   "name": "GIGABYTE GS32QCA, 32 Zoll Curved Gaming Monitor, 180Hz, WQHD, VA, AdaptiveSync",
-   "source": "crawler",
-   "url": "https://www.caseking.de/en/gigabyte-gs32qca-32-inch-curved-gaming-monitor-180hz-wqhd-va-adaptivesync/TFGB-064.html",
-   "stand": "2026-11-01T09:47",
-   "offers": [
-    {
-     "shop": "caseking.de",
-     "price": 209,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/gigabyte-gs32qca-32-inch-curved-gaming-monitor-180hz-wqhd-va-adaptivesync/TFGB-064.html"
-    }
-   ],
-   "price": 209,
-   "shop": "caseking.de",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 209
-    },
-    {
-     "d": "2026-11-01",
-     "p": 209
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 32\" gigabyte gs32qca zoll curved gaming monitor 180hz wqhd adaptivesync",
    "firstSeen": "2026-10-30"
   },
   {
@@ -55088,39 +55280,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-asus-rog-strix-xg32wcms-31-5-inch-curved-gaming-monitor-280h",
-   "cat": "Monitore",
-   "sub": "Monitore",
-   "name": "ASUS ROG Strix XG32WCMS, 31.5 inch Curved Gaming Monitor, 280Hz, VA, AdaptiveSync",
-   "source": "crawler",
-   "url": "https://www.caseking.de/en/asus-rog-strix-xg32wcms-31.5-inch-curved-gaming-monitor-280hz-va-adaptivesync/TFAS-278.html",
-   "stand": "2026-11-01T08:00",
-   "offers": [
-    {
-     "shop": "caseking.de",
-     "price": 389,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/asus-rog-strix-xg32wcms-31.5-inch-curved-gaming-monitor-280hz-va-adaptivesync/TFAS-278.html"
-    }
-   ],
-   "price": 389,
-   "shop": "caseking.de",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 389
-    },
-    {
-     "d": "2026-11-01",
-     "p": 389
-    }
-   ],
-   "count": 1,
-   "tags": "monitore asus rog strix xg32wcms inch curved gaming monitor 280hz adaptivesync",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-asus-zenscreen-mb17ahg-17-3-ips-monitor-1920-x-1080-144-hz-s",
    "cat": "Monitore",
    "sub": "17,3\"",
@@ -63530,35 +63689,6 @@
    "firstSeen": "2026-10-29"
   },
   {
-   "id": "c-samsung-odyssey-g9-g91f-49-zoll-gaming-monitor-144-hz-va-g-s",
-   "cat": "Monitore",
-   "sub": "49\"",
-   "name": "Samsung Odyssey G9 G91F, 49 Zoll Gaming Monitor, 144 Hz, VA, G-SYNC Compatible",
-   "source": "crawler",
-   "url": "https://www.caseking.de/en/samsung-odyssey-g9-g91f-49-inch-gaming-monitor-144-hz-va-g-sync-compatible/TFSS-210.html",
-   "stand": "2026-10-30T17:50",
-   "offers": [
-    {
-     "shop": "caseking.de",
-     "price": 629,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/samsung-odyssey-g9-g91f-49-inch-gaming-monitor-144-hz-va-g-sync-compatible/TFSS-210.html"
-    }
-   ],
-   "price": 629,
-   "shop": "caseking.de",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 629
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 49\" samsung odyssey g91f zoll gaming monitor 144 sync compatible",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-msi-geforce-rtx-5060-ti-8g-ventus-2x-oc-plus-8192-mb-gddr7",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5060 Ti",
@@ -68116,35 +68246,6 @@
    ],
    "count": 1,
    "tags": "monitore 32\" asus rog strix oled xg32ucwmg zoll gaming monitor 240hz woled sync compatible",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-nitro-concepts-sm1-simracing-monitor-124-5-cm-49-zoll-curved",
-   "cat": "Monitore",
-   "sub": "49\"",
-   "name": "Nitro Concepts SM1 Simracing Monitor, 124,5 cm (49 Zoll) Curved, 144Hz, FreeSync, G-Sync, HDMI, DP, USB",
-   "source": "crawler",
-   "url": "https://www.caseking.de/en/nitro-concepts-sm1-simracing-monitor-124-5-cm-49-zoll-curved-144hz-freesync-g-sync-hdmi-dp-usb/TFNI-001.html",
-   "stand": "2026-10-30T17:50",
-   "offers": [
-    {
-     "shop": "caseking.de",
-     "price": 799.9,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/nitro-concepts-sm1-simracing-monitor-124-5-cm-49-zoll-curved-144hz-freesync-g-sync-hdmi-dp-usb/TFNI-001.html"
-    }
-   ],
-   "price": 799.9,
-   "shop": "caseking.de",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 799.9
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 49\" nitro concepts sm1 simracing monitor 124 zoll curved 144hz freesync sync hdmi usb",
    "firstSeen": "2026-10-30"
   },
   {
