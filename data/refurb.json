@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T11:56:59.155Z",
+ "updated": "2026-11-02T14:21:11.153Z",
  "products": [
   {
    "id": "r-acer-b246hylbymiprx-23-8-full-hd-1920x1080-display-hdmi-disp",
@@ -18751,6 +18751,25 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "r-fujitsu-lifebook-u7412-14-touch-display-intel-core-i7-1270p-",
+   "cat": "Laptops",
+   "name": "Fujitsu Lifebook U7412, 14” Touch Display, Intel Core i7 1270P, 16GB RAM, 512GB SSD, Fingerprint Reader, Windows 11 Pro",
+   "brand": "Fujitsu",
+   "price": 599,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/fujitsu-lifebook-u7412-14-touch-display-intel-core-i7-1270p-16gb-ram-512gb-ssd-fingerprint-reader-lte-4g-windows-11-pro-norton-internet-security",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Fujitsu-Lifebook-U7412-1.jpg?v=1771560437",
+   "hist": [
+    {
+     "d": "2026-11-02",
+     "p": 599
+    }
+   ],
+   "firstSeen": "2026-11-02"
+  },
+  {
    "id": "r-fujitsu-esprimo-p9010-intel-core-i5-10600-512gb-ssd-16gb-win",
    "cat": "PCs & Workstations",
    "name": "Fujitsu Esprimo P9010 Intel Core i5-10600 512GB SSD 16GB Windows 11 Pro DVD Brenner",
@@ -19613,6 +19632,44 @@
     }
    ],
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "r-lenovo-thinkpad-x13-yoga-gen-2-14-touch-display-intel-core-i",
+   "cat": "Laptops",
+   "name": "Lenovo ThinkPad X13 Yoga Gen 2, 14” Touch Display, Intel Core i7 1185G7, 16GB RAM, 1TB SSD, Fingerprint Reader, Stift, LTE 4G,Windows 11 Pro",
+   "brand": "Lenovo",
+   "price": 619,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkpad-x13-yoga-gen-2-13-3-zoll-touch-display-intel-core-i7-1tb-ssd-16gb-windows-11-pro-lte-fingerprinter-kopie",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-X13-Yoga-G2-2.png?v=1770990557",
+   "hist": [
+    {
+     "d": "2026-11-02",
+     "p": 619
+    }
+   ],
+   "firstSeen": "2026-11-02"
+  },
+  {
+   "id": "r-fujitsu-lifebook-u7412-14-touch-display-intel-core-i7-1270p-",
+   "cat": "Laptops",
+   "name": "Fujitsu Lifebook U7412, 14” Touch Display, Intel Core i7 1270P, 16GB RAM, 512GB SSD, Fingerprint Reader, LTE 4G, Windows 11 Pro",
+   "brand": "Fujitsu",
+   "price": 619,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/fujitsu-lifebook-u7412-14-fhd-display-intel-core-i7-1255u-16gb-ram-512gb-ssd-docking-fingerprint-reader-windows-11-pro-norton-internet-security-kopie",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Fujitsu-Lifebook-U7412-1.jpg?v=1771560437",
+   "hist": [
+    {
+     "d": "2026-11-02",
+     "p": 619
+    }
+   ],
+   "firstSeen": "2026-11-02"
   },
   {
    "id": "r-hp-elitebook-840-g7-14-zoll-1920x1080-full-hd-intel-core-i7-",

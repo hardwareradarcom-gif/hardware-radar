@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T11:56:59.155Z",
+ "updated": "2026-11-02T14:21:11.153Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1022,14 +1022,48 @@
    "id": "xiaomi-g24i"
   },
   {
+   "id": "c-lenovo-00up450-interne-ssd-m-2-512-gb-sata-iii",
+   "name": "Lenovo 00UP450 Interne SSD M.2 512 GB SATA III",
+   "cat": "SSDs",
+   "price": 188.38,
+   "ref": 234.54,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/lenovo-00up450-interne-ssd-m-2-512-gb-sata-iii-5836482/",
+   "url": "https://www.jacob.de/produkt/lenovo-00up450-interne-ssd-m-2-512-gb-sata-iii-5836482/",
+   "note": "20 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 234.54
+    },
+    {
+     "d": "2026-10-31",
+     "p": 234.54
+    },
+    {
+     "d": "2026-11-01",
+     "p": 234.54
+    },
+    {
+     "d": "2026-11-02",
+     "p": 188.38
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-02",
+   "updated": "2026-11-02",
+   "tags": "ssds sata 512 gb lenovo 00up450 interne ssd 512 sata iii",
+   "source": "crawler"
+  },
+  {
    "id": "c-lian-li-edge-gold-850-80-plus-gold-netzteil-pcie-5-1-atx-3-1",
    "name": "Lian Li EDGE GOLD 850 80 PLUS Gold Netzteil, PCIe 5.1, ATX 3.1 - 850 Watt, schwarz",
    "cat": "Netzteile",
    "price": 94.9,
    "ref": 109.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/lian-li-edge-gold-850-80-plus-gold-netzteil-pcie-5.1-atx-3.1-850-watt-schwarz/NELI-023.html",
-   "url": "https://www.caseking.de/lian-li-edge-gold-850-80-plus-gold-netzteil-pcie-5.1-atx-3.1-850-watt-schwarz/NELI-023.html",
+   "shopUrl": "https://www.caseking.de/en/lian-li-edge-gold-850-80-plus-gold-power-supply-pcie-5.1-atx-3.1-850-watts-black/NELI-023.html",
+   "url": "https://www.caseking.de/en/lian-li-edge-gold-850-80-plus-gold-power-supply-pcie-5.1-atx-3.1-850-watts-black/NELI-023.html",
    "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
