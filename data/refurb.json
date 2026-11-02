@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T14:21:11.153Z",
+ "updated": "2026-11-02T17:26:44.284Z",
  "products": [
   {
    "id": "r-acer-b246hylbymiprx-23-8-full-hd-1920x1080-display-hdmi-disp",
@@ -4456,37 +4456,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "r-hp-prodesk-400-g6-desktop-mini-intel-core-i5-10500t-8gb-ram-",
-   "cat": "PCs & Workstations",
-   "name": "HP ProDesk 400 G6 Desktop Mini, Intel Core i5 10500T, 8GB RAM, 256GB SSD, Wi-Fi, Bluetooth, Windows 11 Pro, ESET Internet Security",
-   "brand": "HP",
-   "price": 359,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/hp-prodesk-400-g6-desktop-mini-intel-core-i5-10500t-8gb-ram-256gb-ssd-wi-fi-bluetooth-windows-11-pro-eset-internet-security",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-ProDesk-400-G6-DM-1.png?v=1770990555",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 359
-    },
-    {
-     "d": "2026-10-31",
-     "p": 359
-    },
-    {
-     "d": "2026-11-01",
-     "p": 359
-    },
-    {
-     "d": "2026-11-02",
-     "p": 359
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "r-dell-optiplex-7060-micro-intel-core-i5-8400t-8gb-ram-256gb-s",
    "cat": "PCs & Workstations",
    "name": "Dell OptiPlex 7060 Micro, Intel Core i5 8400T, 8GB RAM, 256GB SSD, Windows 11 Pro",
@@ -4714,37 +4683,6 @@
    "url": "https://it-versand.com/products/microsoft-surface-laptop-3-13-5-touch-display-intel-core-i5-1035g7-8gb-ram-256gb-ssd-webcam-windows-11-pro-platin-1",
    "avail": "Auf Lager",
    "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Microsoft-Surface-Laptop-3-Platin-1_9ac6fcbb-ec95-4f22-a726-d657fbc327fa.png?v=1770990733",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 359
-    },
-    {
-     "d": "2026-10-31",
-     "p": 359
-    },
-    {
-     "d": "2026-11-01",
-     "p": 359
-    },
-    {
-     "d": "2026-11-02",
-     "p": 359
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-lenovo-thinkpad-t490-14-fhd-display-intel-core-i7-8565u-16gb",
-   "cat": "Laptops",
-   "name": "Lenovo ThinkPad T490, 14\" FHD Display, Intel Core i7 8565U, 16GB RAM, 512GB SSD, Webcam, Windows 11 Pro, ESET Internet Security",
-   "brand": "Lenovo",
-   "price": 359,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/lenovo-thinkpad-t490-14-zoll-1920x1080-full-hd-intel-core-i7-512gb-ssd-16gb-windows-11-pro-webcam-1",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-T490-0_9a6e0ab0-6ba6-4f54-8941-38607f63a76a.jpg?v=1770990612",
    "hist": [
     {
      "d": "2026-10-30",
@@ -7826,37 +7764,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "r-dell-latitude-7410-14-fhd-display-intel-core-i5-10310u-16gb-",
-   "cat": "Laptops",
-   "name": "Dell Latitude 7410, 14” FHD Display, Intel Core i5 10310U, 16GB RAM, 256GB SSD, Fingerprint Reader, LTE 4G, Windows 11 Pro, ESET Internet Security",
-   "brand": "Dell",
-   "price": 399,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/dell-latitude-7410-14-fhd-display-intel-core-i5-10310u-16gb-ram-256gb-ssd-fingerprint-reader-lte-4g-windows-11-pro-eset-internet-security",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Latitude-7410-1.jpg?v=1792538288",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 399
-    },
-    {
-     "d": "2026-10-31",
-     "p": 399
-    },
-    {
-     "d": "2026-11-01",
-     "p": 399
-    },
-    {
-     "d": "2026-11-02",
-     "p": 399
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "r-dell-latitude-5310-13-3-zoll-1920x1080-full-hd-intel-core-i5",
    "cat": "Laptops",
    "name": "Dell Latitude 5310 13,3 Zoll 1920x1080 Full HD, Intel Core i5 10310U, 8GB RAM, 256GB SSD, Windows 10 Pro inkl. Windows 11 Upgrade",
@@ -8167,6 +8074,37 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "r-hp-prodesk-400-g6-desktop-mini-intel-core-i5-10500t-8gb-ram-",
+   "cat": "PCs & Workstations",
+   "name": "HP ProDesk 400 G6 Desktop Mini, Intel Core i5 10500T, 8GB RAM, 256GB SSD, Wi-Fi, Bluetooth, Windows 11 Pro, ESET Internet Security",
+   "brand": "HP",
+   "price": 419,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/hp-prodesk-400-g6-desktop-mini-intel-core-i5-10500t-8gb-ram-256gb-ssd-wi-fi-bluetooth-windows-11-pro-eset-internet-security",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-ProDesk-400-G6-DM-1.png?v=1770990555",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 359
+    },
+    {
+     "d": "2026-10-31",
+     "p": 359
+    },
+    {
+     "d": "2026-11-01",
+     "p": 359
+    },
+    {
+     "d": "2026-11-02",
+     "p": 359
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "r-fujitsu-esprimo-d958-intel-core-i5-8500-8gb-ram-256gb-ssd-dv",
    "cat": "PCs & Workstations",
    "name": "Fujitsu Esprimo D958, Intel Core i5 8500, 8GB RAM, 256GB SSD, DVD-RW, Windows 11 Pro, ESET Internet Security",
@@ -8255,6 +8193,37 @@
     {
      "d": "2026-11-02",
      "p": 419
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "r-lenovo-thinkpad-t490-14-fhd-display-intel-core-i7-8565u-16gb",
+   "cat": "Laptops",
+   "name": "Lenovo ThinkPad T490, 14\" FHD Display, Intel Core i7 8565U, 16GB RAM, 512GB SSD, Webcam, Windows 11 Pro, ESET Internet Security",
+   "brand": "Lenovo",
+   "price": 419,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkpad-t490-14-zoll-1920x1080-full-hd-intel-core-i7-512gb-ssd-16gb-windows-11-pro-webcam-1",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-T490-0_9a6e0ab0-6ba6-4f54-8941-38607f63a76a.jpg?v=1770990612",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 359
+    },
+    {
+     "d": "2026-10-31",
+     "p": 359
+    },
+    {
+     "d": "2026-11-01",
+     "p": 359
+    },
+    {
+     "d": "2026-11-02",
+     "p": 359
     }
    ],
    "firstSeen": "2026-10-30"
@@ -8766,37 +8735,6 @@
    "url": "https://it-versand.com/products/lenovo-thinkcentre-m720q-tiny-intel-core-i5-8400t-256gb-ssd-8gb-windows-11-pro",
    "avail": "Auf Lager",
    "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkCentre-M720q-Tiny-4_108bf917-3980-4e73-a9bc-2bca59c35312.jpg?v=1741622416",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 429
-    },
-    {
-     "d": "2026-10-31",
-     "p": 429
-    },
-    {
-     "d": "2026-11-01",
-     "p": 429
-    },
-    {
-     "d": "2026-11-02",
-     "p": 429
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-dell-latitude-5520-15-6-zoll-1920x1080-full-hd-intel-core-i5",
-   "cat": "Laptops",
-   "name": "Dell Latitude 5520 15,6 Zoll 1920x1080 Full HD Intel Core i5 256GB SSD 16GB Windows 11 Pro LTE",
-   "brand": "Dell",
-   "price": 429,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/dell-latitude-5520-15-6-zoll-1920x1080-full-hd-intel-core-i5-256gb-ssd-16gb-windows-11-pro-lte",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Latitude-5520-1_684e122d-bf64-4ec6-80ff-dba6d23816f9.png?v=1770992113",
    "hist": [
     {
      "d": "2026-10-30",
@@ -9376,6 +9314,37 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "r-dell-latitude-7410-14-fhd-display-intel-core-i5-10310u-16gb-",
+   "cat": "Laptops",
+   "name": "Dell Latitude 7410, 14” FHD Display, Intel Core i5 10310U, 16GB RAM, 256GB SSD, Fingerprint Reader, LTE 4G, Windows 11 Pro, ESET Internet Security",
+   "brand": "Dell",
+   "price": 439,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/dell-latitude-7410-14-fhd-display-intel-core-i5-10310u-16gb-ram-256gb-ssd-fingerprint-reader-lte-4g-windows-11-pro-eset-internet-security",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Latitude-7410-1.jpg?v=1792538288",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 399
+    },
+    {
+     "d": "2026-10-31",
+     "p": 399
+    },
+    {
+     "d": "2026-11-01",
+     "p": 399
+    },
+    {
+     "d": "2026-11-02",
+     "p": 399
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "r-lenovo-thinkpad-t14-gen-1-14-zoll-1920x1080-full-hd-intel-co",
    "cat": "Laptops",
    "name": "Lenovo ThinkPad T14 Gen 1 14 Zoll 1920x1080 Full HD Intel Core i5 256GB SSD 16GB Windows 11 Pro Webcam",
@@ -9557,6 +9526,37 @@
     {
      "d": "2026-11-02",
      "p": 448.99
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "r-dell-latitude-5520-15-6-zoll-1920x1080-full-hd-intel-core-i5",
+   "cat": "Laptops",
+   "name": "Dell Latitude 5520 15,6 Zoll 1920x1080 Full HD Intel Core i5 256GB SSD 16GB Windows 11 Pro LTE",
+   "brand": "Dell",
+   "price": 449,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/dell-latitude-5520-15-6-zoll-1920x1080-full-hd-intel-core-i5-256gb-ssd-16gb-windows-11-pro-lte",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Latitude-5520-1_684e122d-bf64-4ec6-80ff-dba6d23816f9.png?v=1770992113",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 429
+    },
+    {
+     "d": "2026-10-31",
+     "p": 429
+    },
+    {
+     "d": "2026-11-01",
+     "p": 429
+    },
+    {
+     "d": "2026-11-02",
+     "p": 429
     }
    ],
    "firstSeen": "2026-10-30"
@@ -12386,37 +12386,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "r-lenovo-thinkpad-x13-gen-1-13-3-touch-display-intel-core-i7-1",
-   "cat": "Laptops",
-   "name": "Lenovo ThinkPad X13 Gen 1, 13,3\" Touch Display, Intel Core i7 10610U, 16GB RAM, 256GB SSD, Fingerprint Reader, Windows 11 Pro, ESET Internet Security",
-   "brand": "Lenovo",
-   "price": 488.99,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/lenovo-thinkpad-x13-gen-1-13-3-touch-display-intel-core-i7-10610u-16gb-ram-256gb-ssd-fingerprint-reader-windows-11-pro-eset-internet-security",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-X13-G1-0_60ec7aef-853e-451e-9794-5f810e7789f9.jpg?v=1770991872",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 488.99
-    },
-    {
-     "d": "2026-10-31",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-01",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-02",
-     "p": 488.99
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "r-lenovo-thinkpad-t490-14-fhd-display-intel-core-i7-8565u-16gb",
    "cat": "Laptops",
    "name": "Lenovo ThinkPad T490, 14\" FHD Display, Intel Core i7 8565U, 16GB RAM, 512GB SSD, Webcam, Windows 11 Pro, ESET Internet Security",
@@ -12775,25 +12744,6 @@
     },
     {
      "d": "2026-11-02",
-     "p": 499
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-hp-probook-650-g8-15-6-fhd-display-intel-core-i5-1145g7-16gb",
-   "cat": "Laptops",
-   "name": "HP ProBook 650 G8, 15,6” FHD Display, Intel Core i5 1145G7, 16GB RAM, 512GB SSD, Webcam, Windows 11 Pro",
-   "brand": "HP",
-   "price": 499,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/hp-probook-650-g8-15-6-fhd-display-intel-core-i5-1145g7-16gb-ram-512gb-ssd-webcam-windows-11-pro-1",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-ProBook-650-G8-1_0367d6e4-d2a9-428f-a898-6acbc1d2ea13.png?v=1770990553",
-   "hist": [
-    {
-     "d": "2026-10-30",
      "p": 499
     }
    ],
@@ -13442,6 +13392,37 @@
     {
      "d": "2026-11-02",
      "p": 499
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "r-lenovo-thinkpad-x13-gen-1-13-3-touch-display-intel-core-i7-1",
+   "cat": "Laptops",
+   "name": "Lenovo ThinkPad X13 Gen 1, 13,3\" Touch Display, Intel Core i7 10610U, 16GB RAM, 256GB SSD, Fingerprint Reader, Windows 11 Pro, ESET Internet Security",
+   "brand": "Lenovo",
+   "price": 499,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkpad-x13-gen-1-13-3-touch-display-intel-core-i7-10610u-16gb-ram-256gb-ssd-fingerprint-reader-windows-11-pro-eset-internet-security",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-X13-G1-0_60ec7aef-853e-451e-9794-5f810e7789f9.jpg?v=1770991872",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 488.99
+    },
+    {
+     "d": "2026-10-31",
+     "p": 488.99
+    },
+    {
+     "d": "2026-11-01",
+     "p": 488.99
+    },
+    {
+     "d": "2026-11-02",
+     "p": 488.99
     }
    ],
    "firstSeen": "2026-10-30"
@@ -16097,37 +16078,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "r-lenovo-thinkpad-e14-gen-4-14-fhd-display-intel-core-i5-1235u",
-   "cat": "Laptops",
-   "name": "Lenovo ThinkPad E14 Gen 4, 14\" FHD Display, Intel Core i5 1235U, 16GB RAM, 512GB SSD, Fingerprint Reader, Windows 11 Pro, ESET Internet Security",
-   "brand": "Lenovo",
-   "price": 548.99,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/lenovo-thinkpad-e14-gen-4-14-fhd-display-intel-core-i5-1235u-16gb-ram-512gb-ssd-fingerprint-reader-windows-11-pro-eset-internet-security-1",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-E14-G4-1.jpg?v=1791999789",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 548.99
-    },
-    {
-     "d": "2026-10-31",
-     "p": 548.99
-    },
-    {
-     "d": "2026-11-01",
-     "p": 548.99
-    },
-    {
-     "d": "2026-11-02",
-     "p": 548.99
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "r-hp-probook-450-g7-15-6-zoll-1920x1080-full-hd-intel-core-i5-",
    "cat": "Laptops",
    "name": "HP ProBook 450 G7 15,6 Zoll 1920x1080 Full HD Intel Core i5 256GB SSD 16GB Windows 11 Pro LTE Webcam",
@@ -16500,9 +16450,9 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "r-dell-optiplex-5090-micro-intel-core-i7-11700t-16gb-ram-1tb-s",
+   "id": "r-dell-optiplex-5090-micro-intel-core-i7-11700t-16gb-ram-256-g",
    "cat": "PCs & Workstations",
-   "name": "Dell OptiPlex 5090 Micro, Intel Core i7 11700T, 16GB RAM, 1TB SSD, Windows 11 Pro",
+   "name": "Dell OptiPlex 5090 Micro, Intel Core i7 11700T, 16GB RAM, 256 GB SSD, Windows 11 Pro",
    "brand": "Dell",
    "price": 559,
    "ship": null,
@@ -19355,6 +19305,37 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "r-lenovo-thinkpad-e14-gen-4-14-fhd-display-intel-core-i5-1235u",
+   "cat": "Laptops",
+   "name": "Lenovo ThinkPad E14 Gen 4, 14\" FHD Display, Intel Core i5 1235U, 16GB RAM, 512GB SSD, Fingerprint Reader, Windows 11 Pro, ESET Internet Security",
+   "brand": "Lenovo",
+   "price": 619,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkpad-e14-gen-4-14-fhd-display-intel-core-i5-1235u-16gb-ram-512gb-ssd-fingerprint-reader-windows-11-pro-eset-internet-security-1",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-E14-G4-1.jpg?v=1791999789",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 548.99
+    },
+    {
+     "d": "2026-10-31",
+     "p": 548.99
+    },
+    {
+     "d": "2026-11-01",
+     "p": 548.99
+    },
+    {
+     "d": "2026-11-02",
+     "p": 548.99
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "r-hp-zbook-fury-15-g7-15-6-fhd-display-intel-core-i7-10850h-16",
    "cat": "Laptops",
    "name": "HP ZBook Fury 15 G7, 15,6” FHD Display, Intel Core i7 10850H, 16GB RAM, 512GB SSD, Fingerprint Reader, Nvidia Quadro T1000, Windows 11 Pro, ESET Internet Security",
@@ -22035,37 +22016,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "r-hp-elitebook-845-g8-14-fhd-display-amd-ryzen-5-pro-5650u-16g",
-   "cat": "Laptops",
-   "name": "HP EliteBook 845 G8, 14” FHD Display, AMD Ryzen 5 PRO 5650U, 16GB RAM, 512GB SSD, Fingerprint Reader, Windows 11 Pro, ESET Internet Security",
-   "brand": "HP",
-   "price": 729.01,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/hp-elitebook-845-g8-14-fhd-display-amd-ryzen-5-pro-5650u-16gb-ram-512gb-ssd-fingerprint-reader-windows-11-pro-eset-internet-security",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-845-G8-0_d04c6399-3b62-4ae9-be22-64db6bf52027.jpg?v=1770990670",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 729.01
-    },
-    {
-     "d": "2026-10-31",
-     "p": 729.01
-    },
-    {
-     "d": "2026-11-01",
-     "p": 729.01
-    },
-    {
-     "d": "2026-11-02",
-     "p": 729.01
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "r-lenovo-thinkpad-t15-gen-1-15-6-zoll-1920x1080-full-hd-intel-",
    "cat": "Laptops",
    "name": "Lenovo ThinkPad T15 Gen 1 15,6 Zoll 1920x1080 Full HD Intel Core i5 256GB SSD 16GB Windows 11 Pro Webcam",
@@ -22620,6 +22570,37 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "r-hp-elitebook-845-g8-14-fhd-display-amd-ryzen-5-pro-5650u-16g",
+   "cat": "Laptops",
+   "name": "HP EliteBook 845 G8, 14” FHD Display, AMD Ryzen 5 PRO 5650U, 16GB RAM, 512GB SSD, Fingerprint Reader, Windows 11 Pro, ESET Internet Security",
+   "brand": "HP",
+   "price": 789.01,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/hp-elitebook-845-g8-14-fhd-display-amd-ryzen-5-pro-5650u-16gb-ram-512gb-ssd-fingerprint-reader-windows-11-pro-eset-internet-security",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-845-G8-0_d04c6399-3b62-4ae9-be22-64db6bf52027.jpg?v=1770990670",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 729.01
+    },
+    {
+     "d": "2026-10-31",
+     "p": 729.01
+    },
+    {
+     "d": "2026-11-01",
+     "p": 729.01
+    },
+    {
+     "d": "2026-11-02",
+     "p": 729.01
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "r-lenovo-thinkpad-x1-carbon-gen-10-14-wuxga-display-intel-core",
    "cat": "Laptops",
    "name": "Lenovo ThinkPad X1 Carbon Gen 10, 14\" WUXGA Display, Intel Core i7 1265U, 16GB RAM, 1TB SSD, Fingerprint Reader, Windows 11 Pro",
@@ -22775,9 +22756,9 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "r-lenovo-thinkpad-t14-gen-3-14-fhd-display-intel-core-i5-1245u",
+   "id": "r-lenovo-thinkpad-t14-gen-3-14-wuxga-display-intel-core-i5-124",
    "cat": "Laptops",
-   "name": "Lenovo ThinkPad T14 Gen 3, 14” FHD Display, Intel Core i5 1245U, 16GB RAM, 256GB SSD, Webcam, Windows 11 Pro, ESET Internet Security",
+   "name": "Lenovo ThinkPad T14 Gen 3, 14” WUXGA Display, Intel Core i5 1245U, 16GB RAM, 256GB SSD, Webcam, Windows 11 Pro, ESET Internet Security",
    "brand": "Lenovo",
    "price": 819.01,
    "ship": null,
