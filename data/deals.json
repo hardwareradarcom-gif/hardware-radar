@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T17:26:44.284Z",
+ "updated": "2026-11-02T17:58:36.217Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1087,6 +1087,40 @@
    "seen": "2026-11-02",
    "updated": "2026-11-02",
    "tags": "netzteile 850 w lian edge gold 850 plus netzteil pcie atx watt schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-afox-ddr4-8-gb-ram-2400-mhz-udimm-speichermodul-cl17-schwarz",
+   "name": "AFOX DDR4 8 GB RAM 2400 MHz UDIMM Speichermodul CL17 Schwarz",
+   "cat": "Arbeitsspeicher",
+   "price": 77.15,
+   "ref": 87.82,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/afox-ddr4-8-gb-ram-2400-mhz-udimm-speichermodul-cl17-schwarz-100491192/",
+   "url": "https://www.jacob.de/produkt/afox-ddr4-8-gb-ram-2400-mhz-udimm-speichermodul-cl17-schwarz-100491192/",
+   "note": "12 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 87.82
+    },
+    {
+     "d": "2026-10-31",
+     "p": 87.82
+    },
+    {
+     "d": "2026-11-01",
+     "p": 87.82
+    },
+    {
+     "d": "2026-11-02",
+     "p": 77.15
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-02",
+   "updated": "2026-11-02",
+   "tags": "arbeitsspeicher ddr4 afox ram 2400 mhz udimm speichermodul cl17 schwarz",
    "source": "crawler"
   },
   {
