@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T19:55:43.137Z",
+ "updated": "2026-11-02T21:44:41.427Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1121,6 +1121,40 @@
    "seen": "2026-11-02",
    "updated": "2026-11-02",
    "tags": "netzteile 850 w lian edge gold 850 plus netzteil pcie atx watt schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-lenovo-thinkvision-t27-40-27-full-hd-ips-led-monitor-finster",
+   "name": "Lenovo ThinkVision T27-40 27\" Full HD IPS LED-Monitor Finsternis schwarz",
+   "cat": "Monitore",
+   "price": 132.9,
+   "ref": 152.92,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/lenovo-thinkvision-t27-40-27-full-hd-ips-led-monitor-finsternis-schwarz-100592575/",
+   "url": "https://www.jacob.de/produkt/lenovo-thinkvision-t27-40-27-full-hd-ips-led-monitor-finsternis-schwarz-100592575/",
+   "note": "13 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 152.92
+    },
+    {
+     "d": "2026-10-31",
+     "p": 152.92
+    },
+    {
+     "d": "2026-11-01",
+     "p": 152.92
+    },
+    {
+     "d": "2026-11-02",
+     "p": 132.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-02",
+   "updated": "2026-11-02",
+   "tags": "monitore 27\" lenovo thinkvision t27 full ips led monitor finsternis schwarz",
    "source": "crawler"
   },
   {
