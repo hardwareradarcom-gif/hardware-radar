@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T17:58:36.217Z",
+ "updated": "2026-11-02T19:55:43.137Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1053,6 +1053,40 @@
    "seen": "2026-11-02",
    "updated": "2026-11-02",
    "tags": "ssds sata 512 gb lenovo 00up450 interne ssd 512 sata iii",
+   "source": "crawler"
+  },
+  {
+   "id": "c-gigabyte-geforce-rtx-5080-gaming-oc-16g-16-gb-gddr7-schwarz",
+   "name": "Gigabyte GeForce RTX 5080 GAMING OC 16G 16 GB GDDR7 Schwarz",
+   "cat": "Grafikkarten",
+   "price": 2077.89,
+   "ref": 2421.94,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/gigabyte-geforce-rtx-5080-gaming-oc-16g-16-gb-gddr7-schwarz-100548301/",
+   "url": "https://www.jacob.de/produkt/gigabyte-geforce-rtx-5080-gaming-oc-16g-16-gb-gddr7-schwarz-100548301/",
+   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 2905.39
+    },
+    {
+     "d": "2026-10-31",
+     "p": 2421.94
+    },
+    {
+     "d": "2026-11-01",
+     "p": 2421.94
+    },
+    {
+     "d": "2026-11-02",
+     "p": 2077.89
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-02",
+   "updated": "2026-11-02",
+   "tags": "grafikkarten geforce rtx 5080 gigabyte geforce rtx 5080 gaming 16g gddr7 schwarz",
    "source": "crawler"
   },
   {
