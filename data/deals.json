@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-02T11:24:35.144Z",
+ "updated": "2026-11-02T11:56:59.155Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1020,6 +1020,74 @@
    "updated": "2026-10-29",
    "url": "https://www.mydealz.de/deals/xiaomi-g24i-gaming-monitor-24-ips-full-hd-19201080-180-hz-1-ms-freesync-hdr-alza-lieferung-paketshop-2824837",
    "id": "xiaomi-g24i"
+  },
+  {
+   "id": "c-lian-li-edge-gold-850-80-plus-gold-netzteil-pcie-5-1-atx-3-1",
+   "name": "Lian Li EDGE GOLD 850 80 PLUS Gold Netzteil, PCIe 5.1, ATX 3.1 - 850 Watt, schwarz",
+   "cat": "Netzteile",
+   "price": 94.9,
+   "ref": 109.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/lian-li-edge-gold-850-80-plus-gold-netzteil-pcie-5.1-atx-3.1-850-watt-schwarz/NELI-023.html",
+   "url": "https://www.caseking.de/lian-li-edge-gold-850-80-plus-gold-netzteil-pcie-5.1-atx-3.1-850-watt-schwarz/NELI-023.html",
+   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 109.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 109.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 109.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 94.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-02",
+   "updated": "2026-11-02",
+   "tags": "netzteile 850 w lian edge gold 850 plus netzteil pcie atx watt schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-dell-pro-p2726dev-27-qhd-ips-led-monitor-schwarz",
+   "name": "Dell Pro P2726DEV 27\" QHD IPS LED-Monitor Schwarz",
+   "cat": "Monitore",
+   "price": 329.65,
+   "ref": 368.6,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/dell-pro-p2726dev-27-qhd-ips-led-monitor-schwarz-100707194/",
+   "url": "https://www.jacob.de/produkt/dell-pro-p2726dev-27-qhd-ips-led-monitor-schwarz-100707194/",
+   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 368.6
+    },
+    {
+     "d": "2026-10-31",
+     "p": 368.6
+    },
+    {
+     "d": "2026-11-01",
+     "p": 368.6
+    },
+    {
+     "d": "2026-11-02",
+     "p": 329.65
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-02",
+   "updated": "2026-11-02",
+   "tags": "monitore 27\" dell pro p2726dev qhd ips led monitor schwarz",
+   "source": "crawler"
   }
  ],
  "pulse": [
