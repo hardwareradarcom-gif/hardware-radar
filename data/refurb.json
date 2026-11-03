@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T14:18:02.249Z",
+ "updated": "2026-11-03T15:55:39.295Z",
  "products": [
   {
    "id": "r-acer-b246hylbymiprx-23-8-full-hd-1920x1080-display-hdmi-disp",
@@ -4175,6 +4175,10 @@
    "hist": [
     {
      "d": "2026-11-02",
+     "p": 339
+    },
+    {
+     "d": "2026-11-03",
      "p": 339
     }
    ],
@@ -11004,6 +11008,10 @@
     {
      "d": "2026-11-02",
      "p": 449
+    },
+    {
+     "d": "2026-11-03",
+     "p": 449
     }
    ],
    "firstSeen": "2026-10-30"
@@ -12271,6 +12279,25 @@
    "url": "https://it-versand.com/products/hp-elite-mini-805-g8-amd-ryzen-5-pro-5650g-16gb-ram-512gb-ssd-wi-fi-bluetooth-windows-11-home",
    "avail": "Auf Lager",
    "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-Elite-Mini-805-G8-1.jpg?v=1784628425",
+   "hist": [
+    {
+     "d": "2026-11-03",
+     "p": 459.01
+    }
+   ],
+   "firstSeen": "2026-11-03"
+  },
+  {
+   "id": "r-dell-optiplex-3000-sff-intel-core-i5-12500-16gb-ram-256gb-ss",
+   "cat": "PCs & Workstations",
+   "name": "Dell OptiPlex 3000 SFF, Intel Core i5 12500, 16GB RAM, 256GB SSD, Windows 11 Pro, Office & Media Software Suite",
+   "brand": "Dell",
+   "price": 459.01,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/dell-optiplex-3000-sff-intel-core-i5-256gb-ssd-16gb-windows-11-pro",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-OptiPlex-3000-SFF-1.jpg?v=1769521098",
    "hist": [
     {
      "d": "2026-11-03",
@@ -15295,6 +15322,25 @@
    "firstSeen": "2026-11-03"
   },
   {
+   "id": "r-dell-optiplex-3000-sff-intel-core-i5-12500-16gb-ram-512gb-ss",
+   "cat": "PCs & Workstations",
+   "name": "Dell OptiPlex 3000 SFF, Intel Core i5 12500, 16GB RAM, 512GB SSD, Windows 11 Pro, Office & Media Software Suite",
+   "brand": "Dell",
+   "price": 499,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/dell-optiplex-3000-sff-intel-core-i5-12500-512gb-ssd-16gb-windows-11-pro",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-OptiPlex-3000-SFF-1.jpg?v=1769521098",
+   "hist": [
+    {
+     "d": "2026-11-03",
+     "p": 499
+    }
+   ],
+   "firstSeen": "2026-11-03"
+  },
+  {
    "id": "r-hp-elitedesk-800-g6-desktop-mini-intel-six-core-i5-256gb-ssd",
    "cat": "PCs & Workstations",
    "name": "HP EliteDesk 800 G6 Desktop Mini Intel Six Core i5 256GB SSD 16GB Windows 11 Pro inkl. W-Lan",
@@ -17089,25 +17135,6 @@
     }
    ],
    "firstSeen": "2026-10-31"
-  },
-  {
-   "id": "r-lenovo-thinkpad-t14-gen-3-14-wuxga-display-intel-core-i5-124",
-   "cat": "Laptops",
-   "name": "Lenovo ThinkPad T14 Gen 3, 14” WUXGA Display, Intel Core i5 1245U, 16GB RAM, 256GB SSD, Webcam, Windows 11 Pro",
-   "brand": "Lenovo",
-   "price": 529,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/lenovo-thinkpad-t14-gen-3-14-fhd-display-intel-core-i5-1245u-16gb-ram-256gb-ssd-webcam-windows-11-pro",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-T14-Gen-3-1.png?v=1770990672",
-   "hist": [
-    {
-     "d": "2026-11-03",
-     "p": 529
-    }
-   ],
-   "firstSeen": "2026-11-03"
   },
   {
    "id": "r-lenovo-thinkpad-l14-gen-4-14-fhd-display-amd-ryzen-5-pro-753",
@@ -20099,6 +20126,25 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "r-lenovo-thinkpad-t14-gen-3-14-wuxga-display-intel-core-i5-124",
+   "cat": "Laptops",
+   "name": "Lenovo ThinkPad T14 Gen 3, 14” WUXGA Display, Intel Core i5 1245U, 16GB RAM, 256GB SSD, Webcam, Windows 11 Pro",
+   "brand": "Lenovo",
+   "price": 578.99,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkpad-t14-gen-3-14-fhd-display-intel-core-i5-1245u-16gb-ram-256gb-ssd-webcam-windows-11-pro",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-T14-Gen-3-1.png?v=1770990672",
+   "hist": [
+    {
+     "d": "2026-11-03",
+     "p": 529
+    }
+   ],
+   "firstSeen": "2026-11-03"
+  },
+  {
    "id": "r-lenovo-thinkpad-x12-detachable-gen-1-12-3-touch-display-inte",
    "cat": "Laptops",
    "name": "Lenovo ThinkPad X12 Detachable Gen 1, 12,3” Touch Display, Intel Core i7 1160G7, 16GB RAM, 256GB SSD, Webcam, Stift, Windows 11 Pro, Office & Media Software Suite",
@@ -22285,6 +22331,25 @@
     }
    ],
    "firstSeen": "2026-11-02"
+  },
+  {
+   "id": "r-lenovo-thinkstation-p520-intel-xeon-w-2135-32gb-ram-1tb-ssd-",
+   "cat": "PCs & Workstations",
+   "name": "Lenovo ThinkStation P520, Intel Xeon W-2135, 32GB RAM, 1TB SSD, Nvidia Geforce RTX 2080, Windows 11 Pro, Office & Media Software Suite",
+   "brand": "Lenovo",
+   "price": 619,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkstation-p520-intel-xeon-w-2135-32gb-ram-1tb-ssd-nvidia-geforce-rtx-2080-windows-11-pro-office-media-software-suite",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkStation-P520c-4_3e754241-f259-4b49-b9eb-5823648f0464.png?v=1770990973",
+   "hist": [
+    {
+     "d": "2026-11-03",
+     "p": 619
+    }
+   ],
+   "firstSeen": "2026-11-03"
   },
   {
    "id": "r-hp-elitebook-840-g7-14-zoll-1920x1080-full-hd-intel-core-i7-",
@@ -26301,6 +26366,25 @@
     }
    ],
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "r-lenovo-thinkstation-p620-amd-ryzen-threadripper-pro-3975wx-1",
+   "cat": "PCs & Workstations",
+   "name": "Lenovo ThinkStation P620 AMD Ryzen Threadripper PRO 3975WX 1TB SSD 32GB Windows 11 Pro Nvidia GeForce RTX 3080 inkl. W-Lan",
+   "brand": "Lenovo",
+   "price": 1229,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkstation-p620-amd-ryzen-threadripper-pro-3975wx-1tb-ssd-32gb-windows-11-pro-nvidia-geforce-rtx-3080-inkl-w-lan",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkStation-P620-1.png?v=1770990618",
+   "hist": [
+    {
+     "d": "2026-11-03",
+     "p": 1229
+    }
+   ],
+   "firstSeen": "2026-11-03"
   },
   {
    "id": "r-lenovo-thinkpad-x1-yoga-gen-6-14-zoll-touch-display-intel-co",

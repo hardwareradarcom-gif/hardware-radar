@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T14:18:02.249Z",
+ "updated": "2026-11-03T15:55:39.295Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1193,6 +1193,44 @@
    "seen": "2026-11-03",
    "updated": "2026-11-03",
    "tags": "ssds sata 512 gb lenovo 00up450 interne ssd 512 sata iii",
+   "source": "crawler"
+  },
+  {
+   "id": "c-hp-p24-g4-23-8-fhd-1920x1080-office-monitor-schwarz",
+   "name": "HP P24 G4 23.8\" FHD 1920x1080 Office Monitor Schwarz",
+   "cat": "Monitore",
+   "price": 104.22,
+   "ref": 129.32,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/hp-p24-g4-23-8-fhd-1920x1080-office-monitor-schwarz-6911405/",
+   "url": "https://www.jacob.de/produkt/hp-p24-g4-23-8-fhd-1920x1080-office-monitor-schwarz-6911405/",
+   "note": "19 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 124.85
+    },
+    {
+     "d": "2026-10-31",
+     "p": 129.32
+    },
+    {
+     "d": "2026-11-01",
+     "p": 129.32
+    },
+    {
+     "d": "2026-11-02",
+     "p": 129.32
+    },
+    {
+     "d": "2026-11-03",
+     "p": 104.22
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-03",
+   "updated": "2026-11-03",
+   "tags": "monitore 23,8\" p24 fhd 1920x1080 office monitor schwarz",
    "source": "crawler"
   },
   {
