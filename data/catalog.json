@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T15:55:39.295Z",
+ "updated": "2026-11-03T17:26:18.791Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -3076,7 +3076,7 @@
    "name": "ARCTIC Freezer 36",
    "url": "https://geizhals.de/3144218",
    "source": "Geizhals",
-   "stand": "2026-11-03T09:57",
+   "stand": "2026-11-03T17:26",
    "offers": [
     {
      "shop": "Mindfactory",
@@ -3108,6 +3108,14 @@
      "ship": null,
      "avail": "Auf Lager",
      "url": "https://www.caseking.de/arctic-freezer-36-co-cpu-kuehler-120mm/CPAR-101.html",
+     "crawler": true
+    },
+    {
+     "shop": "ALTERNATE",
+     "price": 22.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/ARCTIC/Freezer-36-CO-CPU-K%C3%BChler/html/product/100060190",
      "crawler": true
     },
     {
@@ -7966,6 +7974,64 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-chieftec-cac-s92pwm-lp45-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Chieftec CAC-S92PWM-LP45, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Chieftec/CAC-S92PWM-LP45-CPU-K%C3%BChler/html/product/100188799",
+   "stand": "2026-11-03T17:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 21.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Chieftec/CAC-S92PWM-LP45-CPU-K%C3%BChler/html/product/100188799"
+    }
+   ],
+   "price": 21.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-03",
+     "p": 21.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler chieftec cac s92pwm lp45 cpu kuhler",
+   "firstSeen": "2026-11-03"
+  },
+  {
+   "id": "c-silverstone-sst-ar12-rgb-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "SilverStone SST-AR12-RGB, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/SilverStone/SST-AR12-RGB-CPU-K%C3%BChler/html/product/1758447",
+   "stand": "2026-11-03T17:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 21.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/SilverStone/SST-AR12-RGB-CPU-K%C3%BChler/html/product/1758447"
+    }
+   ],
+   "price": 21.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-03",
+     "p": 21.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler silverstone sst ar12 rgb cpu kuhler",
+   "firstSeen": "2026-11-03"
+  },
+  {
    "id": "c-xilence-m704-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -9075,6 +9141,35 @@
    "firstSeen": "2026-11-02"
   },
   {
+   "id": "c-silverstone-sst-nt07-1700-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "SilverStone SST-NT07-1700, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/SilverStone/SST-NT07-1700-CPU-K%C3%BChler/html/product/1886647",
+   "stand": "2026-11-03T17:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 28.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/SilverStone/SST-NT07-1700-CPU-K%C3%BChler/html/product/1886647"
+    }
+   ],
+   "price": 28.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-03",
+     "p": 28.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler silverstone sst nt07 1700 cpu kuhler",
+   "firstSeen": "2026-11-03"
+  },
+  {
    "id": "c-cooler-master-hyper-212-3dhp-cpu-cooler-intel-and-amd-argb-b",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -9851,6 +9946,35 @@
    "firstSeen": "2026-10-31"
   },
   {
+   "id": "c-deepcool-ak500-digital-pro-wh-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "DeepCool AK500 Digital Pro WH, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/DeepCool/AK500-Digital-Pro-WH-CPU-K%C3%BChler/html/product/100197637",
+   "stand": "2026-11-03T17:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 32.99,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/DeepCool/AK500-Digital-Pro-WH-CPU-K%C3%BChler/html/product/100197637"
+    }
+   ],
+   "price": 32.99,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-03",
+     "p": 32.99
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler deepcool ak500 digital pro cpu kuhler",
+   "firstSeen": "2026-11-03"
+  },
+  {
    "id": "c-msi-mag-corefrozr-aa13-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -10250,6 +10374,35 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-thermaltake-astria-200-argb-lighting-cpu-cooler-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Thermaltake ASTRIA 200 ARGB Lighting CPU Cooler, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Thermaltake/ASTRIA-200-ARGB-Lighting-CPU-Cooler-CPU-K%C3%BChler/html/product/100055887",
+   "stand": "2026-11-03T17:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 35.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Thermaltake/ASTRIA-200-ARGB-Lighting-CPU-Cooler-CPU-K%C3%BChler/html/product/100055887"
+    }
+   ],
+   "price": 35.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-03",
+     "p": 35.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler thermaltake astria 200 argb lighting cpu cooler kuhler",
+   "firstSeen": "2026-11-03"
+  },
+  {
    "id": "c-alpenfohn-brocken-4-argb-cpu-kuhler-120mm-weiss",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -10371,6 +10524,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler silverstone ar12 tuf cpu kuhler argb 120mm",
    "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-be-quiet-pure-rock-lp-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "be quiet! Pure Rock LP, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/be-quiet/Pure-Rock-LP-CPU-K%C3%BChler/html/product/1884912",
+   "stand": "2026-11-03T17:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 36.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/be-quiet/Pure-Rock-LP-CPU-K%C3%BChler/html/product/1884912"
+    }
+   ],
+   "price": 36.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-03",
+     "p": 36.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler quiet pure rock cpu kuhler",
+   "firstSeen": "2026-11-03"
   },
   {
    "id": "c-endorfy-fortis-5-cpu-kuhler",
@@ -10836,6 +11018,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler thermalright peerless assassin 120 mini cpu kuhler schwarz",
    "firstSeen": "2026-11-02"
+  },
+  {
+   "id": "c-thermaltake-astria-400-argb-lighting-cpu-cooler-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Thermaltake ASTRIA 400 ARGB Lighting CPU Cooler, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Thermaltake/ASTRIA-400-ARGB-Lighting-CPU-Cooler-CPU-K%C3%BChler/html/product/100055889",
+   "stand": "2026-11-03T17:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 39.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Thermaltake/ASTRIA-400-ARGB-Lighting-CPU-Cooler-CPU-K%C3%BChler/html/product/100055889"
+    }
+   ],
+   "price": 39.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-03",
+     "p": 39.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler thermaltake astria 400 argb lighting cpu cooler kuhler",
+   "firstSeen": "2026-11-03"
   },
   {
    "id": "c-silentware-titan-performance-cpu-kuhler",
@@ -12402,6 +12613,35 @@
    "firstSeen": "2026-11-03"
   },
   {
+   "id": "c-arctic-freezer-4u-m-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "ARCTIC Freezer 4U-M, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/ARCTIC/Freezer-4U-M-CPU-K%C3%BChler/html/product/100059510",
+   "stand": "2026-11-03T17:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 49.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/ARCTIC/Freezer-4U-M-CPU-K%C3%BChler/html/product/100059510"
+    }
+   ],
+   "price": 49.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-03",
+     "p": 49.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler arctic freezer cpu kuhler",
+   "firstSeen": "2026-11-03"
+  },
+  {
    "id": "c-alpenfohn-brocken-4-max-argb-cpu-kuhler-2x-120mm-schwarz",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -13127,6 +13367,35 @@
    "count": 1,
    "tags": "gehause montech wood midi tower atx argb tempered glass weiss",
    "firstSeen": "2026-11-01"
+  },
+  {
+   "id": "c-noctua-nh-u12s-redux-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Noctua NH-U12S REDUX, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Noctua/NH-U12S-REDUX-CPU-K%C3%BChler/html/product/1758847",
+   "stand": "2026-11-03T17:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 54.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Noctua/NH-U12S-REDUX-CPU-K%C3%BChler/html/product/1758847"
+    }
+   ],
+   "price": 54.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-03",
+     "p": 54.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler noctua u12s redux cpu kuhler",
+   "firstSeen": "2026-11-03"
   },
   {
    "id": "c-silverstone-fara-r1-v2-midi-tower-tempered-glas-schwarz",
@@ -24753,6 +25022,35 @@
    "firstSeen": "2026-11-02"
   },
   {
+   "id": "c-noctua-nh-p1-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Noctua NH-P1, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Noctua/NH-P1-CPU-K%C3%BChler/html/product/1759408",
+   "stand": "2026-11-03T17:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 119.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Noctua/NH-P1-CPU-K%C3%BChler/html/product/1759408"
+    }
+   ],
+   "price": 119.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-03",
+     "p": 119.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler noctua cpu kuhler",
+   "firstSeen": "2026-11-03"
+  },
+  {
    "id": "c-philips-e-line-241e1sca-curved-led-monitor-24-full-hd-va-tex",
    "cat": "Monitore",
    "sub": "24\"",
@@ -29423,6 +29721,35 @@
    "firstSeen": "2026-11-02"
   },
   {
+   "id": "c-thermal-grizzly-mycro-pro-amd-am5-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Thermal Grizzly Mycro Pro AMD AM5, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Thermal-Grizzly/Mycro-Pro-AMD-AM5-CPU-K%C3%BChler/html/product/100195251",
+   "stand": "2026-11-03T17:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 139.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Thermal-Grizzly/Mycro-Pro-AMD-AM5-CPU-K%C3%BChler/html/product/100195251"
+    }
+   ],
+   "price": 139.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-03",
+     "p": 139.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler thermal grizzly mycro pro amd am5 cpu kuhler",
+   "firstSeen": "2026-11-03"
+  },
+  {
    "id": "c-gigabyte-b650-eagle-ax-mainboard-sockel-am5-amd-b650-atx-ddr",
    "cat": "Mainboards",
    "sub": "AM5 B650",
@@ -30582,6 +30909,35 @@
    "count": 1,
    "tags": "gehause phanteks evolv matrix midi tower atx tempered glass led schwarz",
    "firstSeen": "2026-11-01"
+  },
+  {
+   "id": "c-thermal-grizzly-mycro-pro-intel-1851-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Thermal Grizzly Mycro Pro Intel 1851, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Thermal-Grizzly/Mycro-Pro-Intel-1851-CPU-K%C3%BChler/html/product/100195253",
+   "stand": "2026-11-03T17:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 144.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Thermal-Grizzly/Mycro-Pro-Intel-1851-CPU-K%C3%BChler/html/product/100195253"
+    }
+   ],
+   "price": 144.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-03",
+     "p": 144.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler thermal grizzly mycro pro intel 1851 cpu kuhler",
+   "firstSeen": "2026-11-03"
   },
   {
    "id": "c-hp-series-3-pro-327ph-27-fhd-ips-monitor-100-hz-schwarz",
@@ -31781,6 +32137,35 @@
    "count": 1,
    "tags": "netzteile 1000 w+ quiet power zone plus platinum netzteil vollmodular atx pcie 200 watt schwarz",
    "firstSeen": "2026-11-02"
+  },
+  {
+   "id": "c-noctua-nh-d15-g2-lbc-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Noctua NH-D15 G2 LBC, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Noctua/NH-D15-G2-LBC-CPU-K%C3%BChler/html/product/100067141",
+   "stand": "2026-11-03T17:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 149.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Noctua/NH-D15-G2-LBC-CPU-K%C3%BChler/html/product/100067141"
+    }
+   ],
+   "price": 149.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-03",
+     "p": 149.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler noctua d15 lbc cpu kuhler",
+   "firstSeen": "2026-11-03"
   },
   {
    "id": "c-asus-va27ehf-27-ips-100-hz-full-hd-monitor-schwarz",
@@ -39624,6 +40009,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-corsair-icue-link-h170i-lcd-liquid-cpu-cooler-generaluberhol",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Corsair iCUE LINK H170i LCD Liquid CPU Cooler Generalüberholt, Wasserkühlung",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Corsair/iCUE-LINK-H170i-LCD-Liquid-CPU-Cooler-General%C3%BCberholt-Wasserk%C3%BChlung/html/product/100190717",
+   "stand": "2026-11-03T17:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 199.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Corsair/iCUE-LINK-H170i-LCD-Liquid-CPU-Cooler-General%C3%BCberholt-Wasserk%C3%BChlung/html/product/100190717"
+    }
+   ],
+   "price": 199.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-03",
+     "p": 199.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung corsair icue link h170i lcd liquid cpu cooler generaluberholt wasserkuhlung",
+   "firstSeen": "2026-11-03"
+  },
+  {
    "id": "c-western-digital-blue-sa510-m-2-ssd-sata-6g-1-tb",
    "cat": "SSDs",
    "sub": "SATA 1 TB",
@@ -43544,6 +43958,35 @@
    "count": 1,
    "tags": "mainboards intel lga1851 z890 gigabyte z890m aorus elite wifi7 ice mainboard sockel lga 1851 intel z890 matx ddr5",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-alphacool-eisbaer-pro-hpe-aurora-360-cpu-aio-360mm-wasserkuh",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Alphacool Eisbaer Pro HPE Aurora 360 CPU AIO 360mm, Wasserkühlung",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Alphacool/Eisbaer-Pro-HPE-Aurora-360-CPU-AIO-360mm-Wasserk%C3%BChlung/html/product/1888838",
+   "stand": "2026-11-03T17:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 236.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Alphacool/Eisbaer-Pro-HPE-Aurora-360-CPU-AIO-360mm-Wasserk%C3%BChlung/html/product/1888838"
+    }
+   ],
+   "price": 236.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-03",
+     "p": 236.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung alphacool eisbaer pro hpe aurora 360 cpu aio 360mm wasserkuhlung",
+   "firstSeen": "2026-11-03"
   },
   {
    "id": "c-asus-tuf-gaming-b850m-plus-wifi7-w-mainboard-sockel-am5-ddr5",

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T15:55:39.295Z",
+ "updated": "2026-11-03T17:26:18.791Z",
  "products": [
   {
    "id": "r-acer-b246hylbymiprx-23-8-full-hd-1920x1080-display-hdmi-disp",
@@ -1345,6 +1345,25 @@
     }
    ],
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "r-dell-optiplex-5060-micro-intel-core-i5-8600t-8gb-ram-256gb-s",
+   "cat": "PCs & Workstations",
+   "name": "Dell OptiPlex 5060 Micro, Intel Core i5 8600T, 8GB RAM, 256GB SSD, Windows 11 Pro, ESET Internet Security",
+   "brand": "Dell",
+   "price": 279,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/dell-optiplex-5060-micro-intel-core-i5-8600t-256gb-ssd-8gb-windows-11-pro",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Optiplex-5060-Micro-0_cf77c56e-256b-4350-bf2c-f22f6b657fdf.jpg?v=1770991452",
+   "hist": [
+    {
+     "d": "2026-11-03",
+     "p": 279
+    }
+   ],
+   "firstSeen": "2026-11-03"
   },
   {
    "id": "r-dell-optiplex-7090-micro-intel-core-i3-10105-16gb-ram-128gb-",
@@ -9652,6 +9671,25 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "r-fujitsu-esprimo-p5010n-intel-core-i5-10400-16gb-ram-256gb-ss",
+   "cat": "PCs & Workstations",
+   "name": "Fujitsu Esprimo P5010n, Intel Core i5 10400, 16GB RAM, 256GB SSD, Windows 11 Pro",
+   "brand": "Fujitsu",
+   "price": 419,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/fujitsu-esprimo-p5010n-intel-core-i5-10400-256gb-ssd-16gb-windows-11-pro-1",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Fujitsu-Esprimo-P5010n-1_1db15d90-ebb3-4fec-9777-6f8ecf858466.png?v=1770991097",
+   "hist": [
+    {
+     "d": "2026-11-03",
+     "p": 419
+    }
+   ],
+   "firstSeen": "2026-11-03"
+  },
+  {
    "id": "r-dell-ultrasharp-u3421we-34-uwqhd-3440x1440-display-hdmi-disp",
    "cat": "Monitore",
    "name": "Dell UltraSharp U3421WE, 34” UWQHD 3440x1440 Display, HDMI, DisplayPort, USB-C",
@@ -13724,6 +13762,29 @@
     {
      "d": "2026-11-03",
      "p": 479.01
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "r-lenovo-thinkpad-t14-gen-2-14-fhd-display-intel-core-i5-1145g",
+   "cat": "Laptops",
+   "name": "Lenovo ThinkPad T14 Gen 2, 14” FHD Display, Intel Core i5 1145G7, 16GB, 512GB SSD, Fingerprint Reader, LTE 4G, Windows 11 Pro, ESET Internet Security",
+   "brand": "Lenovo",
+   "price": 488.99,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkpad-t14-gen-2-14-fhd-display-intel-core-i5-1145g7-16gb-512gb-ssd-fingerprint-reader-lte-4g-windows-11-pro-eset-internet-security",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-T14-G2-0_82fe748f-404b-4d97-b17c-0c31c2fc523c.jpg?v=1770990677",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 488.99
+    },
+    {
+     "d": "2026-11-03",
+     "p": 488.99
     }
    ],
    "firstSeen": "2026-10-30"
@@ -18616,6 +18677,25 @@
     }
    ],
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "r-lenovo-thinkpad-p15s-gen-1-15-6-fhd-display-intel-core-i5-10",
+   "cat": "Laptops",
+   "name": "Lenovo ThinkPad P15s Gen 1, 15,6” FHD Display, Intel Core i5 10310U, 16GB RAM, 512GB SSD, Fingerprint Reader, Nvidia Quadro P520, Windows 11 Pro, Office & Media Software Suite",
+   "brand": "Lenovo",
+   "price": 548.99,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkpad-p15s-gen-1-15-6-zoll-1920x1080-full-hd-intel-core-i5-512gb-ssd-16gb-windows-11-pro-nvidia-quadro-p520-2",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-P15s-G1-1_9cde9837-8d3b-4db9-8c6e-155ccf2a7aa4.png?v=1770990555",
+   "hist": [
+    {
+     "d": "2026-11-03",
+     "p": 548.99
+    }
+   ],
+   "firstSeen": "2026-11-03"
   },
   {
    "id": "r-lenovo-thinkcentre-m70q-gen-2-tiny-intel-core-i5-11400t-32gb",
@@ -25382,6 +25462,10 @@
     },
     {
      "d": "2026-11-01",
+     "p": 769
+    },
+    {
+     "d": "2026-11-03",
      "p": 769
     }
    ],
