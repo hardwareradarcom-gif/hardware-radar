@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T17:53:59.470Z",
+ "updated": "2026-11-03T19:55:58.195Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1056,6 +1056,44 @@
    "source": "crawler"
   },
   {
+   "id": "c-lenovo-toshiba-ssd-512-gb-m-2-2280-pcie-3-0-x4",
+   "name": "Lenovo Toshiba SSD 512 GB M.2 2280 PCIe 3.0 x4",
+   "cat": "SSDs",
+   "price": 188.38,
+   "ref": 265.07,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/lenovo-toshiba-ssd-512-gb-m-2-2280-pcie-3-0-x4-5834143/",
+   "url": "https://www.jacob.de/produkt/lenovo-toshiba-ssd-512-gb-m-2-2280-pcie-3-0-x4-5834143/",
+   "note": "29 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 265.07
+    },
+    {
+     "d": "2026-10-31",
+     "p": 265.07
+    },
+    {
+     "d": "2026-11-01",
+     "p": 265.07
+    },
+    {
+     "d": "2026-11-02",
+     "p": 265.07
+    },
+    {
+     "d": "2026-11-03",
+     "p": 188.38
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-03",
+   "updated": "2026-11-03",
+   "tags": "ssds nvme 512 gb lenovo toshiba ssd 512 2280 pcie",
+   "source": "crawler"
+  },
+  {
    "id": "c-tryx-turris-t620-cpu-luftkuhler-dual-tower-mit-5-zoll-displa",
    "name": "TRYX TURRIS T620 CPU-Luftkühler, Dual-Tower, mit 5-Zoll-Display - 120mm, schwarz",
    "cat": "Kühlung",
@@ -1162,40 +1200,6 @@
    "source": "crawler"
   },
   {
-   "id": "c-lenovo-00up450-interne-ssd-m-2-512-gb-sata-iii",
-   "name": "Lenovo 00UP450 Interne SSD M.2 512 GB SATA III",
-   "cat": "SSDs",
-   "price": 188.38,
-   "ref": 234.54,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/lenovo-00up450-interne-ssd-m-2-512-gb-sata-iii-5836482/",
-   "url": "https://www.jacob.de/produkt/lenovo-00up450-interne-ssd-m-2-512-gb-sata-iii-5836482/",
-   "note": "20 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 234.54
-    },
-    {
-     "d": "2026-10-31",
-     "p": 234.54
-    },
-    {
-     "d": "2026-11-01",
-     "p": 234.54
-    },
-    {
-     "d": "2026-11-02",
-     "p": 188.38
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-03",
-   "updated": "2026-11-03",
-   "tags": "ssds sata 512 gb lenovo 00up450 interne ssd 512 sata iii",
-   "source": "crawler"
-  },
-  {
    "id": "c-hp-p24-g4-23-8-fhd-1920x1080-office-monitor-schwarz",
    "name": "HP P24 G4 23.8\" FHD 1920x1080 Office Monitor Schwarz",
    "cat": "Monitore",
@@ -1299,6 +1303,44 @@
    "seen": "2026-11-03",
    "updated": "2026-11-03",
    "tags": "netzteile 850 w lian edge gold 850 plus netzteil pcie atx watt schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-lenovo-00up642-ssd-m-2-2280-512-gb-pcie-3-0-x4-nvme",
+   "name": "Lenovo 00UP642 SSD M.2 2280 512 GB PCIe 3.0 x4 NVMe",
+   "cat": "SSDs",
+   "price": 200.62,
+   "ref": 231.59,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/lenovo-00up642-ssd-m-2-2280-512-gb-pcie-3-0-x4-nvme-5836562/",
+   "url": "https://www.jacob.de/produkt/lenovo-00up642-ssd-m-2-2280-512-gb-pcie-3-0-x4-nvme-5836562/",
+   "note": "13 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 231.59
+    },
+    {
+     "d": "2026-10-31",
+     "p": 231.59
+    },
+    {
+     "d": "2026-11-01",
+     "p": 231.59
+    },
+    {
+     "d": "2026-11-02",
+     "p": 231.59
+    },
+    {
+     "d": "2026-11-03",
+     "p": 200.62
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-03",
+   "updated": "2026-11-03",
+   "tags": "ssds nvme 512 gb lenovo 00up642 ssd 2280 512 pcie nvme",
    "source": "crawler"
   },
   {
