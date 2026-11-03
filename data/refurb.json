@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T08:20:06.236Z",
+ "updated": "2026-11-03T09:57:39.361Z",
  "products": [
   {
    "id": "r-acer-b246hylbymiprx-23-8-full-hd-1920x1080-display-hdmi-disp",
@@ -4195,6 +4195,10 @@
     {
      "d": "2026-11-02",
      "p": 339
+    },
+    {
+     "d": "2026-11-03",
+     "p": 339
     }
    ],
    "firstSeen": "2026-11-02"
@@ -5504,6 +5508,44 @@
     }
    ],
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "r-dell-latitude-5420-14-zoll-1920x1080-full-hd-intel-core-i5-2",
+   "cat": "Laptops",
+   "name": "Dell Latitude 5420 14 Zoll 1920x1080 Full HD Intel Core i5 256GB SSD 16GB Windows 11 Pro Webcam",
+   "brand": "Dell",
+   "price": 359,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/dell-latitude-5420-14-zoll-1920x1080-full-hd-intel-core-i5-256gb-ssd-16gb-windows-11-pro-webcam-1",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Latitude-5420-0_0d5a9261-2310-4b2d-8dd6-edfa1a938131.jpg?v=1770990732",
+   "hist": [
+    {
+     "d": "2026-11-03",
+     "p": 359
+    }
+   ],
+   "firstSeen": "2026-11-03"
+  },
+  {
+   "id": "r-hp-elitebook-840-g5-14-zoll-1920x1080-full-hd-intel-core-i5-",
+   "cat": "Laptops",
+   "name": "HP EliteBook 840 G5 14 Zoll 1920x1080 Full HD Intel Core i5 256GB SSD 8GB Windows 11 Pro Webcam",
+   "brand": "HP",
+   "price": 359,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/hp-elitebook-840-g5-14-zoll-1920x1080-full-hd-intel-core-i5-256gb-ssd-8gb-windows-11-pro-webcam-10",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-840-G5-0_8b273e76-cbf8-466c-849c-6450451c5745.png?v=1770990674",
+   "hist": [
+    {
+     "d": "2026-11-03",
+     "p": 359
+    }
+   ],
+   "firstSeen": "2026-11-03"
   },
   {
    "id": "r-hp-elitedesk-800-g5-desktop-mini-intel-core-i5-9500t-16gb-ra",
@@ -6954,6 +6996,25 @@
     }
    ],
    "firstSeen": "2026-11-02"
+  },
+  {
+   "id": "r-hp-elitebook-850-g6-15-6-zoll-1920x1080-full-hd-intel-core-i",
+   "cat": "Laptops",
+   "name": "HP EliteBook 850 G6 15,6 Zoll 1920x1080 Full HD Intel Core i5 256GB SSD 8GB Windows 11 Pro Webcam",
+   "brand": "HP",
+   "price": 379,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/hp-elitebook-850-g6-15-6-zoll-1920x1080-full-hd-intel-core-i5-256gb-ssd-8gb-windows-11-pro-webcam-2",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-850-G6-0_67bb6eda-1aaa-4c22-943d-ee40e0b56264.jpg?v=1770992712",
+   "hist": [
+    {
+     "d": "2026-11-03",
+     "p": 379
+    }
+   ],
+   "firstSeen": "2026-11-03"
   },
   {
    "id": "r-hp-elitedesk-800-g4-desktop-mini-intel-core-i5-9500t-512gb-s",
@@ -14207,29 +14268,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "r-dell-latitude-5420-14-zoll-touch-display-intel-core-i5-512gb",
-   "cat": "Laptops",
-   "name": "Dell Latitude 5420 14 Zoll Touch Display Intel Core i5 512GB SSD 32GB Windows 11 Pro LTE Webcam",
-   "brand": "Dell",
-   "price": 499,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/dell-latitude-5420-14-zoll-touch-display-intel-core-i5-512gb-ssd-32gb-windows-11-pro-lte-webcam-1",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Latitude-5420-0_ff95f560-bbd9-40cc-8b6a-08a58733e75f.jpg?v=1770990674",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 499
-    },
-    {
-     "d": "2026-10-31",
-     "p": 499
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "r-hp-elitebook-x360-1040-g8-14-touch-display-intel-core-i5-114",
    "cat": "Laptops",
    "name": "HP EliteBook x360 1040 G8, 14\" Touch Display, Intel Core i5 1145G7, 16GB RAM, 512GB SSD, Fingerprint Reader, Windows 11 Pro, Office & Media Software Suite",
@@ -15114,6 +15152,25 @@
     }
    ],
    "firstSeen": "2026-11-02"
+  },
+  {
+   "id": "r-hp-elitebook-850-g7-15-6-fhd-display-intel-core-i5-10310u-8g",
+   "cat": "Laptops",
+   "name": "HP EliteBook 850 G7, 15,6” FHD Display, Intel Core i5 10310U, 8GB RAM, 256GB SSD, Webcam, Windows 11 Pro, ESET Internet Security",
+   "brand": "HP",
+   "price": 499,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/hp-elitebook-850-g7-15-6-fhd-display-intel-core-i5-10310u-8gb-ram-256gb-ssd-webcam-windows-11-pro-eset-internet-security",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-850-G7-0_84b56df9-eab5-46e0-ad5a-7884d24f70ba.jpg?v=1770991092",
+   "hist": [
+    {
+     "d": "2026-11-03",
+     "p": 499
+    }
+   ],
+   "firstSeen": "2026-11-03"
   },
   {
    "id": "r-hp-elitedesk-800-g6-desktop-mini-intel-six-core-i5-256gb-ssd",
@@ -16903,6 +16960,25 @@
    "url": "https://it-versand.com/products/lenovo-thinkpad-t14-gen-3-14-fhd-display-intel-core-i5-1245u-16gb-ram-256gb-ssd-webcam-windows-11-pro",
    "avail": "Auf Lager",
    "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-T14-Gen-3-1.png?v=1770990672",
+   "hist": [
+    {
+     "d": "2026-11-03",
+     "p": 529
+    }
+   ],
+   "firstSeen": "2026-11-03"
+  },
+  {
+   "id": "r-lenovo-thinkpad-l14-gen-4-14-fhd-display-amd-ryzen-5-pro-753",
+   "cat": "Laptops",
+   "name": "Lenovo ThinkPad L14 Gen 4, 14\" FHD Display, AMD Ryzen 5 PRO 7530U, 16GB RAM, 512 GB SSD, Webcam, Windows 11 Pro, Office & Media Software Suite",
+   "brand": "Lenovo",
+   "price": 529,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkpad-l14-gen-4-14-fhd-display-amd-ryzen-5-pro-7530u-16gb-ram-512-gb-ssd-webcam-windows-11-pro",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-L14-G4-1.png?v=1770990732",
    "hist": [
     {
      "d": "2026-11-03",

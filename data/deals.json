@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T08:20:06.236Z",
+ "updated": "2026-11-03T09:57:39.361Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1020,6 +1020,78 @@
    "updated": "2026-10-29",
    "url": "https://www.mydealz.de/deals/xiaomi-g24i-gaming-monitor-24-ips-full-hd-19201080-180-hz-1-ms-freesync-hdr-alza-lieferung-paketshop-2824837",
    "id": "xiaomi-g24i"
+  },
+  {
+   "id": "c-kolink-umbra-ex180-argb-cpu-kuhler-120mm",
+   "name": "Kolink Umbra EX180 ARGB CPU-Kühler - 120mm",
+   "cat": "Kühlung",
+   "price": 17.9,
+   "ref": 34.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/kolink-umbra-ex180-argb-cpu-kuehler-120mm/CPKL-001.html",
+   "url": "https://www.caseking.de/kolink-umbra-ex180-argb-cpu-kuehler-120mm/CPKL-001.html",
+   "note": "49 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 34.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 34.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 34.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 17.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-03",
+   "updated": "2026-11-03",
+   "tags": "kuhlung luftkuhler kolink umbra ex180 argb cpu kuhler 120mm",
+   "source": "crawler"
+  },
+  {
+   "id": "c-kingston-fury-renegade-ddr4-16-gb-ram-2-x-8-gb-3600-mhz-cl16",
+   "name": "Kingston FURY Renegade DDR4 16 GB RAM 2 x 8 GB 3600 MHz CL16 Schwarz",
+   "cat": "Arbeitsspeicher",
+   "price": 203.17,
+   "ref": 260.03,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/kingston-fury-renegade-ddr4-16-gb-ram-2-x-8-gb-3600-mhz-cl16-schwarz-100351890/",
+   "url": "https://www.jacob.de/produkt/kingston-fury-renegade-ddr4-16-gb-ram-2-x-8-gb-3600-mhz-cl16-schwarz-100351890/",
+   "note": "22 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 260.03
+    },
+    {
+     "d": "2026-10-31",
+     "p": 260.03
+    },
+    {
+     "d": "2026-11-01",
+     "p": 260.03
+    },
+    {
+     "d": "2026-11-02",
+     "p": 260.03
+    },
+    {
+     "d": "2026-11-03",
+     "p": 203.17
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-03",
+   "updated": "2026-11-03",
+   "tags": "arbeitsspeicher ddr4 16 gb kingston fury renegade ddr4 ram 3600 mhz cl16 schwarz",
+   "source": "crawler"
   },
   {
    "id": "c-lenovo-00up450-interne-ssd-m-2-512-gb-sata-iii",
