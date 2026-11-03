@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T17:26:18.791Z",
+ "updated": "2026-11-03T17:53:59.470Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1438,40 +1438,6 @@
    "source": "crawler"
   },
   {
-   "id": "c-dell-pro-p2726dev-27-qhd-ips-led-monitor-schwarz",
-   "name": "Dell Pro P2726DEV 27\" QHD IPS LED-Monitor Schwarz",
-   "cat": "Monitore",
-   "price": 329.65,
-   "ref": 368.6,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/dell-pro-p2726dev-27-qhd-ips-led-monitor-schwarz-100707194/",
-   "url": "https://www.jacob.de/produkt/dell-pro-p2726dev-27-qhd-ips-led-monitor-schwarz-100707194/",
-   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 368.6
-    },
-    {
-     "d": "2026-10-31",
-     "p": 368.6
-    },
-    {
-     "d": "2026-11-01",
-     "p": 368.6
-    },
-    {
-     "d": "2026-11-02",
-     "p": 329.65
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-03",
-   "updated": "2026-11-03",
-   "tags": "monitore 27\" dell pro p2726dev qhd ips led monitor schwarz",
-   "source": "crawler"
-  },
-  {
    "id": "c-lg-34u601sa-w-34-curved-dual-wqhd-monitor-webos-100-hz-5-ms-",
    "name": "LG 34U601SA-W 34\" Curved Dual WQHD Monitor webOS 100 Hz 5 ms Weiß",
    "cat": "Monitore",
@@ -1507,6 +1473,44 @@
    "seen": "2026-11-03",
    "updated": "2026-11-03",
    "tags": "monitore 34\" 34u601sa curved dual wqhd monitor webos 100 weiss",
+   "source": "crawler"
+  },
+  {
+   "id": "c-dell-pro-p2726dev-27-qhd-ips-led-monitor-schwarz",
+   "name": "Dell Pro P2726DEV 27\" QHD IPS LED-Monitor Schwarz",
+   "cat": "Monitore",
+   "price": 329.93,
+   "ref": 368.6,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/dell-pro-p2726dev-27-qhd-ips-led-monitor-schwarz-100707194/",
+   "url": "https://www.jacob.de/produkt/dell-pro-p2726dev-27-qhd-ips-led-monitor-schwarz-100707194/",
+   "note": "10 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 368.6
+    },
+    {
+     "d": "2026-10-31",
+     "p": 368.6
+    },
+    {
+     "d": "2026-11-01",
+     "p": 368.6
+    },
+    {
+     "d": "2026-11-02",
+     "p": 329.65
+    },
+    {
+     "d": "2026-11-03",
+     "p": 329.93
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-03",
+   "updated": "2026-11-03",
+   "tags": "monitore 27\" dell pro p2726dev qhd ips led monitor schwarz",
    "source": "crawler"
   }
  ],
