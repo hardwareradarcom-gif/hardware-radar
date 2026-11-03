@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T11:52:36.130Z",
+ "updated": "2026-11-03T14:18:02.249Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1431,6 +1431,44 @@
    "seen": "2026-11-03",
    "updated": "2026-11-03",
    "tags": "monitore 27\" dell pro p2726dev qhd ips led monitor schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-lg-34u601sa-w-34-curved-dual-wqhd-monitor-webos-100-hz-5-ms-",
+   "name": "LG 34U601SA-W 34\" Curved Dual WQHD Monitor webOS 100 Hz 5 ms Weiß",
+   "cat": "Monitore",
+   "price": 259.96,
+   "ref": 290.6,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/lg-34u601sa-w-34-curved-dual-wqhd-monitor-webos-100-hz-5-ms-weiss-100700947/",
+   "url": "https://www.jacob.de/produkt/lg-34u601sa-w-34-curved-dual-wqhd-monitor-webos-100-hz-5-ms-weiss-100700947/",
+   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 272.87
+    },
+    {
+     "d": "2026-10-31",
+     "p": 285.92
+    },
+    {
+     "d": "2026-11-01",
+     "p": 295.27
+    },
+    {
+     "d": "2026-11-02",
+     "p": 295.27
+    },
+    {
+     "d": "2026-11-03",
+     "p": 259.96
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-03",
+   "updated": "2026-11-03",
+   "tags": "monitore 34\" 34u601sa curved dual wqhd monitor webos 100 weiss",
    "source": "crawler"
   }
  ],
