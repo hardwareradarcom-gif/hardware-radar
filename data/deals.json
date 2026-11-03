@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-03T11:25:47.586Z",
+ "updated": "2026-11-03T11:52:36.130Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1056,6 +1056,74 @@
    "source": "crawler"
   },
   {
+   "id": "c-tryx-turris-t620-cpu-luftkuhler-dual-tower-mit-5-zoll-displa",
+   "name": "TRYX TURRIS T620 CPU-Luftkühler, Dual-Tower, mit 5-Zoll-Display - 120mm, schwarz",
+   "cat": "Kühlung",
+   "price": 99.9,
+   "ref": 139.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/tryx-turris-t620-cpu-luftkuehler-dual-tower-mit-5-zoll-display-120mm-schwarz/CPTX-001.html",
+   "url": "https://www.caseking.de/tryx-turris-t620-cpu-luftkuehler-dual-tower-mit-5-zoll-display-120mm-schwarz/CPTX-001.html",
+   "note": "29 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 139.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 139.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 139.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 99.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-03",
+   "updated": "2026-11-03",
+   "tags": "kuhlung luftkuhler tryx turris t620 cpu dual tower mit zoll display 120mm schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-tryx-turris-t620-cpu-luftkuhler-dual-tower-mit-5-zoll-displa-ld9kc",
+   "name": "TRYX TURRIS T620 CPU-Luftkühler, Dual-Tower, mit 5-Zoll-Display - 120mm, weiß",
+   "cat": "Kühlung",
+   "price": 99.9,
+   "ref": 139.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/tryx-turris-t620-cpu-luftkuehler-dual-tower-mit-5-zoll-display-120mm-weiss/CPTX-002.html",
+   "url": "https://www.caseking.de/tryx-turris-t620-cpu-luftkuehler-dual-tower-mit-5-zoll-display-120mm-weiss/CPTX-002.html",
+   "note": "29 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 139.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 139.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 139.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 99.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-03",
+   "updated": "2026-11-03",
+   "tags": "kuhlung luftkuhler tryx turris t620 cpu dual tower mit zoll display 120mm weiss",
+   "source": "crawler"
+  },
+  {
    "id": "c-kingston-fury-renegade-ddr4-16-gb-ram-2-x-8-gb-3600-mhz-cl16",
    "name": "Kingston FURY Renegade DDR4 16 GB RAM 2 x 8 GB 3600 MHz CL16 Schwarz",
    "cat": "Arbeitsspeicher",
@@ -1291,6 +1359,44 @@
    "seen": "2026-11-03",
    "updated": "2026-11-03",
    "tags": "arbeitsspeicher ddr4 afox ram 2400 mhz udimm speichermodul cl17 schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-hp-series-3-pro-322ph-monitor-21-5-fhd-ips-100-hz-hdmi-displ",
+   "name": "HP Series 3 Pro 322ph Monitor 21,5\" FHD IPS 100 Hz HDMI DisplayPort VGA Schwarz",
+   "cat": "Monitore",
+   "price": 116.97,
+   "ref": 131.22,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/hp-series-3-pro-322ph-monitor-21-5-fhd-ips-100-hz-hdmi-displayport-vga-schwarz-100589651/",
+   "url": "https://www.jacob.de/produkt/hp-series-3-pro-322ph-monitor-21-5-fhd-ips-100-hz-hdmi-displayport-vga-schwarz-100589651/",
+   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 116.98
+    },
+    {
+     "d": "2026-10-31",
+     "p": 116.98
+    },
+    {
+     "d": "2026-11-01",
+     "p": 145.45
+    },
+    {
+     "d": "2026-11-02",
+     "p": 145.45
+    },
+    {
+     "d": "2026-11-03",
+     "p": 116.97
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-03",
+   "updated": "2026-11-03",
+   "tags": "monitore 21,5\" series pro 322ph monitor fhd ips 100 hdmi displayport vga schwarz",
    "source": "crawler"
   },
   {
