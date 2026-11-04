@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T14:20:50.100Z",
+ "updated": "2026-11-04T15:57:41.452Z",
  "products": [
   {
    "id": "r-acer-b246hylbymiprx-23-8-full-hd-1920x1080-display-hdmi-disp",
@@ -1323,6 +1323,45 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "r-lenovo-thinkcentre-m720s-sff-intel-core-i5-8400-256gb-ssd-8g",
+   "cat": "PCs & Workstations",
+   "name": "Lenovo ThinkCentre M720s SFF Intel Core i5-8400 256GB SSD 8GB Windows 11 Pro DVD Brenner",
+   "brand": "Lenovo",
+   "price": 279,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkcentre-m720s-sff-intel-core-i5-8400-256gb-ssd-8gb-windows-11-pro-dvd-brenner",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkCentre-M720s-SFF-0_3a493a13-4d78-401c-9ea3-8a96fc89d780.jpg?v=1756911461",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 289
+    },
+    {
+     "d": "2026-10-31",
+     "p": 289
+    },
+    {
+     "d": "2026-11-01",
+     "p": 289
+    },
+    {
+     "d": "2026-11-02",
+     "p": 289
+    },
+    {
+     "d": "2026-11-03",
+     "p": 289
+    },
+    {
+     "d": "2026-11-04",
+     "p": 279
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "r-hp-elitedesk-800-g4-desktop-mini-intel-core-i5-8500-8gb-ram-",
    "cat": "PCs & Workstations",
    "name": "HP EliteDesk 800 G4 Desktop Mini, Intel Core i5 8500, 8GB RAM, 256GB SSD, Windows 11 Pro, ESET Internet Security",
@@ -1504,41 +1543,6 @@
    "url": "https://it-versand.com/products/dell-optiplex-7090-micro-intel-core-i3-10105-16gb-ram-128gb-ssd-w-lan-bluetooth-windows-11-pro",
    "avail": "Auf Lager",
    "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-OptiPlex-7090-Micro-1.jpg?v=1782762810",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 289
-    },
-    {
-     "d": "2026-10-31",
-     "p": 289
-    },
-    {
-     "d": "2026-11-01",
-     "p": 289
-    },
-    {
-     "d": "2026-11-02",
-     "p": 289
-    },
-    {
-     "d": "2026-11-03",
-     "p": 289
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-lenovo-thinkcentre-m720s-sff-intel-core-i5-8400-256gb-ssd-8g",
-   "cat": "PCs & Workstations",
-   "name": "Lenovo ThinkCentre M720s SFF Intel Core i5-8400 256GB SSD 8GB Windows 11 Pro DVD Brenner",
-   "brand": "Lenovo",
-   "price": 289,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/lenovo-thinkcentre-m720s-sff-intel-core-i5-8400-256gb-ssd-8gb-windows-11-pro-dvd-brenner",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkCentre-M720s-SFF-0_3a493a13-4d78-401c-9ea3-8a96fc89d780.jpg?v=1756911461",
    "hist": [
     {
      "d": "2026-10-30",
