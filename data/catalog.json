@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T15:57:41.452Z",
+ "updated": "2026-11-04T17:26:03.981Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -7495,6 +7495,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-xilence-a404t-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Xilence A404T, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Xilence/A404T-CPU-K%C3%BChler/html/product/1374987",
+   "stand": "2026-11-04T17:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 15.99,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Xilence/A404T-CPU-K%C3%BChler/html/product/1374987"
+    }
+   ],
+   "price": 15.99,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 15.99
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler xilence a404t cpu kuhler",
+   "firstSeen": "2026-11-04"
+  },
+  {
    "id": "c-endorfy-spartan-5-argb-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -7596,6 +7625,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler silverstone sst nt09 115x cpu kuhler",
    "firstSeen": "2026-11-03"
+  },
+  {
+   "id": "c-xilence-i404t-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Xilence I404T, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Xilence/I404T-CPU-K%C3%BChler/html/product/1374999",
+   "stand": "2026-11-04T17:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 16.99,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Xilence/I404T-CPU-K%C3%BChler/html/product/1374999"
+    }
+   ],
+   "price": 16.99,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 16.99
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler xilence i404t cpu kuhler",
+   "firstSeen": "2026-11-04"
   },
   {
    "id": "c-akasa-ak-959cu-cpu-kuhler-92mm",
@@ -7842,6 +7900,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler silverstone sst nt09 1700 nitrogon cpu kuhler 92mm",
    "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-silverstone-sst-nt09-am5-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "SilverStone SST-NT09-AM5, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/SilverStone/SST-NT09-AM5-CPU-K%C3%BChler/html/product/100205648",
+   "stand": "2026-11-04T17:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 17.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/SilverStone/SST-NT09-AM5-CPU-K%C3%BChler/html/product/100205648"
+    }
+   ],
+   "price": 17.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 17.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler silverstone sst nt09 am5 cpu kuhler",
+   "firstSeen": "2026-11-04"
   },
   {
    "id": "c-silverstone-sst-nt09-1700-cpu-kuhler",
@@ -9145,6 +9232,35 @@
    "firstSeen": "2026-11-04"
   },
   {
+   "id": "c-xilence-m504d-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Xilence M504D, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Xilence/M504D-CPU-K%C3%BChler/html/product/1375006",
+   "stand": "2026-11-04T17:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 24.99,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Xilence/M504D-CPU-K%C3%BChler/html/product/1375006"
+    }
+   ],
+   "price": 24.99,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 24.99
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler xilence m504d cpu kuhler",
+   "firstSeen": "2026-11-04"
+  },
+  {
    "id": "c-endorfy-fera-5-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -10082,6 +10198,35 @@
    ],
    "count": 1,
    "tags": "kuhlung luftkuhler alpenfohn matterhorn aurora black cpu kuhler",
+   "firstSeen": "2026-11-04"
+  },
+  {
+   "id": "c-silverstone-sst-nt07-am5-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "SilverStone SST-NT07-AM5, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/SilverStone/SST-NT07-AM5-CPU-K%C3%BChler/html/product/100205647",
+   "stand": "2026-11-04T17:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 29.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/SilverStone/SST-NT07-AM5-CPU-K%C3%BChler/html/product/100205647"
+    }
+   ],
+   "price": 29.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 29.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler silverstone sst nt07 am5 cpu kuhler",
    "firstSeen": "2026-11-04"
   },
   {
