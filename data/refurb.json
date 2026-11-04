@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T11:58:18.043Z",
+ "updated": "2026-11-04T14:20:50.100Z",
  "products": [
   {
    "id": "r-acer-b246hylbymiprx-23-8-full-hd-1920x1080-display-hdmi-disp",
@@ -6127,6 +6127,25 @@
    "firstSeen": "2026-11-04"
   },
   {
+   "id": "r-hp-elitebook-840-g8-14-fhd-display-intel-core-i5-1135g7-8gb-",
+   "cat": "Laptops",
+   "name": "HP EliteBook 840 G8, 14\" FHD Display, Intel Core i5 1135G7, 8GB RAM, 256GB SSD, Webcam, Windows 11 Pro, ESET Internet Security",
+   "brand": "HP",
+   "price": 359,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/hp-elitebook-840-g8-14-fhd-display-intel-core-i5-1135g7-8gb-ram-256gb-ssd-webcam-windows-11-pro-eset-internet-security",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-840-G8-0_df823264-3411-47c0-b3b1-6aeca79298d7.jpg?v=1770990672",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 359
+    }
+   ],
+   "firstSeen": "2026-11-04"
+  },
+  {
    "id": "r-hp-elitedesk-800-g5-desktop-mini-intel-core-i5-9500t-16gb-ra",
    "cat": "PCs & Workstations",
    "name": "HP EliteDesk 800 G5 Desktop Mini, Intel Core i5 9500T, 16GB RAM, 256GB SSD, Windows 11 Pro",
@@ -11424,6 +11443,25 @@
     }
    ],
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "r-lenovo-thinkpad-l14-gen-1-14-fhd-display-amd-ryzen-5-4500u-1",
+   "cat": "Laptops",
+   "name": "Lenovo ThinkPad L14 Gen 1, 14\" FHD Display, AMD Ryzen 5 4500U, 16GB RAM, 512GB SSD, Fingerprint Reader, Windows 11 Pro, ESET Internet Security",
+   "brand": "Lenovo",
+   "price": 429,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkpad-l14-gen-1-14-fhd-display-amd-ryzen-5-4500u-16gb-ram-512gb-ssd-fingerprint-reader-windows-11-pro-eset-internet-security",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-L14-G1-0_7b4d7cbe-a918-40df-86db-54fe2804fe42.png?v=1770991094",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 429
+    }
+   ],
+   "firstSeen": "2026-11-04"
   },
   {
    "id": "r-lenovo-thinkcentre-m70s-gen-3-intel-core-i5-12400-16gb-ram-2",
@@ -17829,7 +17867,7 @@
   {
    "id": "r-dell-latitude-7200-2-in-1-12-3-touch-display-intel-core-i7-8",
    "cat": "Laptops",
-   "name": "Dell Latitude 7200 2-in-1, 12,3” Touch Display, Intel Core i7 8665U, 16GB RAM, 256GB SSD, Tastatur, Stift, Windows 11 Pro, ESET Internet Security",
+   "name": "Dell Latitude 7200 2-in-1, 12,3” Touch Display, Intel Core i7 8665U, 16GB RAM, 256GB SSD, Tastatu,r Windows 11 Pro, ESET Internet Security",
    "brand": "Dell",
    "price": 518.99,
    "ship": null,

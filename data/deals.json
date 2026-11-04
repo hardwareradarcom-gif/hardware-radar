@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T11:58:18.043Z",
+ "updated": "2026-11-04T14:20:50.100Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1848,78 +1848,14 @@
    "source": "crawler"
   },
   {
-   "id": "c-alpenfohn-dolomit-premium-cpu-kuhler",
-   "name": "Alpenföhn Dolomit Premium, CPU-Kühler",
-   "cat": "Kühlung",
-   "price": 29.89,
-   "ref": 34.9,
-   "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/Alpenf%C3%B6hn/Dolomit-Premium-CPU-K%C3%BChler/html/product/100182528",
-   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Dolomit-Premium-CPU-K%C3%BChler/html/product/100182528",
-   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-01",
-     "p": 34.9
-    },
-    {
-     "d": "2026-11-02",
-     "p": 34.9
-    },
-    {
-     "d": "2026-11-03",
-     "p": 29.89
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-04",
-   "updated": "2026-11-04",
-   "tags": "kuhlung luftkuhler alpenfohn dolomit premium cpu kuhler",
-   "source": "crawler"
-  },
-  {
-   "id": "c-gigabyte-geforce-rtx-5080-gaming-oc-16g-16-gb-gddr7-schwarz",
-   "name": "Gigabyte GeForce RTX 5080 GAMING OC 16G 16 GB GDDR7 Schwarz",
-   "cat": "Grafikkarten",
-   "price": 2077.89,
-   "ref": 2421.94,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/gigabyte-geforce-rtx-5080-gaming-oc-16g-16-gb-gddr7-schwarz-100548301/",
-   "url": "https://www.jacob.de/produkt/gigabyte-geforce-rtx-5080-gaming-oc-16g-16-gb-gddr7-schwarz-100548301/",
-   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 2905.39
-    },
-    {
-     "d": "2026-10-31",
-     "p": 2421.94
-    },
-    {
-     "d": "2026-11-01",
-     "p": 2421.94
-    },
-    {
-     "d": "2026-11-02",
-     "p": 2077.89
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-04",
-   "updated": "2026-11-04",
-   "tags": "grafikkarten geforce rtx 5080 gigabyte geforce rtx 5080 gaming 16g gddr7 schwarz",
-   "source": "crawler"
-  },
-  {
    "id": "c-lian-li-edge-gold-850-80-plus-gold-netzteil-pcie-5-1-atx-3-1",
    "name": "Lian Li EDGE GOLD 850 80 PLUS Gold Netzteil, PCIe 5.1, ATX 3.1 - 850 Watt, schwarz",
    "cat": "Netzteile",
    "price": 94.9,
    "ref": 109.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/lian-li-edge-gold-850-80-plus-gold-netzteil-pcie-5.1-atx-3.1-850-watt-schwarz/NELI-023.html",
-   "url": "https://www.caseking.de/lian-li-edge-gold-850-80-plus-gold-netzteil-pcie-5.1-atx-3.1-850-watt-schwarz/NELI-023.html",
+   "shopUrl": "https://www.caseking.de/en/lian-li-edge-gold-850-80-plus-gold-power-supply-pcie-5.1-atx-3.1-850-watts-black/NELI-023.html",
+   "url": "https://www.caseking.de/en/lian-li-edge-gold-850-80-plus-gold-power-supply-pcie-5.1-atx-3.1-850-watts-black/NELI-023.html",
    "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
