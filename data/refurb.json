@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T11:32:29.819Z",
+ "updated": "2026-11-04T11:58:18.043Z",
  "products": [
   {
    "id": "r-acer-b246hylbymiprx-23-8-full-hd-1920x1080-display-hdmi-disp",
@@ -4795,33 +4795,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "r-lenovo-thinkpad-t14-gen-1-14-fhd-display-intel-core-i5-10310",
-   "cat": "Laptops",
-   "name": "Lenovo ThinkPad T14 Gen 1, 14\" FHD Display, Intel Core i5 10310U, 16GB RAM, 256GB SSD, Webcam, Windows 11 Pro",
-   "brand": "Lenovo",
-   "price": 349,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/lenovo-thinkpad-t14-gen-1-14-fhd-display-intel-core-i5-10310u-16gb-ram-256gb-ssd-webcam-windows-11-pro",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-T14-G1-2_e51bed74-3e51-474d-aaa8-00242a1d7a71.jpg?v=1770990552",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 349
-    },
-    {
-     "d": "2026-10-31",
-     "p": 349
-    },
-    {
-     "d": "2026-11-01",
-     "p": 349
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "r-dell-latitude-5310-13-3-zoll-1920x1080-full-hd-intel-core-i5",
    "cat": "Laptops",
    "name": "Dell Latitude 5310 13,3 Zoll 1920x1080 Full HD Intel Core i5 256GB SSD 16GB Windows 11 Pro Webcam",
@@ -7831,6 +7804,25 @@
     }
    ],
    "firstSeen": "2026-11-03"
+  },
+  {
+   "id": "r-hp-elitebook-840-g8-14-fhd-display-intel-core-i5-1135g7-16gb",
+   "cat": "Laptops",
+   "name": "HP EliteBook 840 G8, 14\" FHD Display, Intel Core i5 1135G7, 16GB RAM, 256GB SSD, Webcam, LTE 5G, Windows 11 Pro",
+   "brand": "HP",
+   "price": 379,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/hp-elitebook-840-g8-14-fhd-display-intel-core-i5-1135g7-16gb-ram-256gb-ssd-webcam-lte-5g-windows-11-pro-1",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-840-G8-0_df823264-3411-47c0-b3b1-6aeca79298d7.jpg?v=1770990672",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 379
+    }
+   ],
+   "firstSeen": "2026-11-04"
   },
   {
    "id": "r-hp-elitedesk-800-g4-desktop-mini-intel-core-i5-9500t-512gb-s",
@@ -25681,33 +25673,6 @@
     },
     {
      "d": "2026-11-04",
-     "p": 649
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-dell-precision-7560-15-6-fhd-display-intel-core-i7-11850h-32",
-   "cat": "Laptops",
-   "name": "Dell Precision 7560, 15,6” FHD Display, Intel Core i7 11850H, 32GB RAM, 1TB SSD, Fingerprint Reader, Nvidia Quadro T1200, Windows 11 Pro, ESET Internet Security",
-   "brand": "Dell",
-   "price": 649,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/dell-precision-7560-15-6-fhd-display-intel-core-i7-11850h-32gb-ram-1tb-ssd-fingerprint-reader-nvidia-quadro-t1200-windows-11-pro-eset-internet-security-1",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Precision-7560-1.png?v=1770990853",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 649
-    },
-    {
-     "d": "2026-10-31",
-     "p": 649
-    },
-    {
-     "d": "2026-11-01",
      "p": 649
     }
    ],

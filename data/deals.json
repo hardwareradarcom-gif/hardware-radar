@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T11:32:29.819Z",
+ "updated": "2026-11-04T11:58:18.043Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1918,8 +1918,8 @@
    "price": 94.9,
    "ref": 109.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/lian-li-edge-gold-850-80-plus-gold-power-supply-pcie-5.1-atx-3.1-850-watts-black/NELI-023.html",
-   "url": "https://www.caseking.de/en/lian-li-edge-gold-850-80-plus-gold-power-supply-pcie-5.1-atx-3.1-850-watts-black/NELI-023.html",
+   "shopUrl": "https://www.caseking.de/lian-li-edge-gold-850-80-plus-gold-netzteil-pcie-5.1-atx-3.1-850-watt-schwarz/NELI-023.html",
+   "url": "https://www.caseking.de/lian-li-edge-gold-850-80-plus-gold-netzteil-pcie-5.1-atx-3.1-850-watt-schwarz/NELI-023.html",
    "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -1936,6 +1936,10 @@
     },
     {
      "d": "2026-11-02",
+     "p": 94.9
+    },
+    {
+     "d": "2026-11-04",
      "p": 94.9
     }
    ],
@@ -2087,40 +2091,6 @@
    "seen": "2026-11-04",
    "updated": "2026-11-04",
    "tags": "monitore 27\" lenovo thinkvision t27 full ips led monitor finsternis schwarz",
-   "source": "crawler"
-  },
-  {
-   "id": "c-afox-ddr4-8-gb-ram-2400-mhz-udimm-speichermodul-cl17-schwarz",
-   "name": "AFOX DDR4 8 GB RAM 2400 MHz UDIMM Speichermodul CL17 Schwarz",
-   "cat": "Arbeitsspeicher",
-   "price": 77.15,
-   "ref": 87.82,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/afox-ddr4-8-gb-ram-2400-mhz-udimm-speichermodul-cl17-schwarz-100491192/",
-   "url": "https://www.jacob.de/produkt/afox-ddr4-8-gb-ram-2400-mhz-udimm-speichermodul-cl17-schwarz-100491192/",
-   "note": "12 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 87.82
-    },
-    {
-     "d": "2026-10-31",
-     "p": 87.82
-    },
-    {
-     "d": "2026-11-01",
-     "p": 87.82
-    },
-    {
-     "d": "2026-11-02",
-     "p": 77.15
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-04",
-   "updated": "2026-11-04",
-   "tags": "arbeitsspeicher ddr4 afox ram 2400 mhz udimm speichermodul cl17 schwarz",
    "source": "crawler"
   },
   {
