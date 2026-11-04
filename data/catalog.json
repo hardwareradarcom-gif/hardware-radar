@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T10:05:47.533Z",
+ "updated": "2026-11-04T11:32:29.819Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -7499,6 +7499,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-endorfy-spartan-5-argb-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "ENDORFY Spartan 5 ARGB, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/ENDORFY/Spartan-5-ARGB-CPU-K%C3%BChler/html/product/1899051",
+   "stand": "2026-11-04T11:32",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 16,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/ENDORFY/Spartan-5-ARGB-CPU-K%C3%BChler/html/product/1899051"
+    }
+   ],
+   "price": 16,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 16
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler endorfy spartan argb cpu kuhler",
+   "firstSeen": "2026-11-04"
+  },
+  {
    "id": "c-xilence-m403pro-w-argb-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -7862,6 +7891,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler silverstone sst nt09 1700 cpu kuhler",
    "firstSeen": "2026-10-31"
+  },
+  {
+   "id": "c-endorfy-spartan-5-max-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "ENDORFY Spartan 5 MAX, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/ENDORFY/Spartan-5-MAX-CPU-K%C3%BChler/html/product/1899048",
+   "stand": "2026-11-04T11:32",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 18.4,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/ENDORFY/Spartan-5-MAX-CPU-K%C3%BChler/html/product/1899048"
+    }
+   ],
+   "price": 18.4,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 18.4
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler endorfy spartan max cpu kuhler",
+   "firstSeen": "2026-11-04"
   },
   {
    "id": "c-silverstone-nitrogon-nt08-115x-v2-cpu-kuhler-pwm-92mm",
@@ -8541,6 +8599,35 @@
    "firstSeen": "2026-11-01"
   },
   {
+   "id": "c-endorfy-spartan-5-max-argb-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "ENDORFY Spartan 5 MAX ARGB, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/ENDORFY/Spartan-5-MAX-ARGB-CPU-K%C3%BChler/html/product/1899041",
+   "stand": "2026-11-04T11:32",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 23,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/ENDORFY/Spartan-5-MAX-ARGB-CPU-K%C3%BChler/html/product/1899041"
+    }
+   ],
+   "price": 23,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 23
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler endorfy spartan max argb cpu kuhler",
+   "firstSeen": "2026-11-04"
+  },
+  {
    "id": "c-akasa-ak-cc6610ep01-low-profile-cpu-kuhler-sockel-lga-1700",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -8986,6 +9073,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler thermalright assassin spirit 120 evo dark cpu kuhler",
    "firstSeen": "2026-11-02"
+  },
+  {
+   "id": "c-alpenfohn-matterhorn-2-black-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Alpenföhn Matterhorn 2 black, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Matterhorn-2-black-CPU-K%C3%BChler/html/product/100201703",
+   "stand": "2026-11-04T11:32",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 24.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Alpenf%C3%B6hn/Matterhorn-2-black-CPU-K%C3%BChler/html/product/100201703"
+    }
+   ],
+   "price": 24.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 24.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler alpenfohn matterhorn black cpu kuhler",
+   "firstSeen": "2026-11-04"
   },
   {
    "id": "c-sharkoon-a40-cpu-kuhler",
@@ -9935,6 +10051,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler scythe mugen cpu kuhler",
    "firstSeen": "2026-11-02"
+  },
+  {
+   "id": "c-alpenfohn-matterhorn-2-aurora-black-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Alpenföhn Matterhorn 2 AURORA black, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Matterhorn-2-AURORA-black-CPU-K%C3%BChler/html/product/100201704",
+   "stand": "2026-11-04T11:32",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 29.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Alpenf%C3%B6hn/Matterhorn-2-AURORA-black-CPU-K%C3%BChler/html/product/100201704"
+    }
+   ],
+   "price": 29.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 29.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler alpenfohn matterhorn aurora black cpu kuhler",
+   "firstSeen": "2026-11-04"
   },
   {
    "id": "c-silverstone-sst-ar09-115xp-cpu-kuhler",
@@ -11041,6 +11186,64 @@
    "count": 1,
    "tags": "kuhlung luftkuhler quiet pure rock cpu kuhler",
    "firstSeen": "2026-11-03"
+  },
+  {
+   "id": "c-alpenfohn-brocken-4-argb-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Alpenföhn Brocken 4 ARGB, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-ARGB-CPU-K%C3%BChler/html/product/100070215",
+   "stand": "2026-11-04T11:32",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 36.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-ARGB-CPU-K%C3%BChler/html/product/100070215"
+    }
+   ],
+   "price": 36.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 36.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler alpenfohn brocken argb cpu kuhler",
+   "firstSeen": "2026-11-04"
+  },
+  {
+   "id": "c-alpenfohn-brocken-4-argb-cpu-kuhler-c5sli",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Alpenföhn Brocken 4 ARGB, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-ARGB-CPU-K%C3%BChler/html/product/100070218",
+   "stand": "2026-11-04T11:32",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 36.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-ARGB-CPU-K%C3%BChler/html/product/100070218"
+    }
+   ],
+   "price": 36.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 36.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler alpenfohn brocken argb cpu kuhler",
+   "firstSeen": "2026-11-04"
   },
   {
    "id": "c-endorfy-fortis-5-cpu-kuhler",
@@ -13277,6 +13480,35 @@
    "firstSeen": "2026-11-03"
   },
   {
+   "id": "c-noctua-nh-l9a-am5-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Noctua NH-L9a-AM5, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Noctua/NH-L9a-AM5-CPU-K%C3%BChler/html/product/1896386",
+   "stand": "2026-11-04T11:32",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 49.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Noctua/NH-L9a-AM5-CPU-K%C3%BChler/html/product/1896386"
+    }
+   ],
+   "price": 49.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 49.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler noctua l9a am5 cpu kuhler",
+   "firstSeen": "2026-11-04"
+  },
+  {
    "id": "c-sharkoon-a60-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -13472,6 +13704,64 @@
    "count": 1,
    "tags": "kuhlung luftkuhler silentware titan white cpu kuhler",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-alpenfohn-brocken-4-max-argb-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Alpenföhn Brocken 4 Max ARGB, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-Max-ARGB-CPU-K%C3%BChler/html/product/100070214",
+   "stand": "2026-11-04T11:32",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 50.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-Max-ARGB-CPU-K%C3%BChler/html/product/100070214"
+    }
+   ],
+   "price": 50.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 50.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler alpenfohn brocken max argb cpu kuhler",
+   "firstSeen": "2026-11-04"
+  },
+  {
+   "id": "c-alpenfohn-brocken-4-max-argb-cpu-kuhler-c5sli",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Alpenföhn Brocken 4 Max ARGB, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-Max-ARGB-CPU-K%C3%BChler/html/product/100070211",
+   "stand": "2026-11-04T11:32",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 50.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-Max-ARGB-CPU-K%C3%BChler/html/product/100070211"
+    }
+   ],
+   "price": 50.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 50.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler alpenfohn brocken max argb cpu kuhler",
+   "firstSeen": "2026-11-04"
   },
   {
    "id": "c-seasonic-core-bc-650-atx3-1-pc-netzteil",
@@ -14072,6 +14362,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler noctua u12s redux cpu kuhler",
    "firstSeen": "2026-11-03"
+  },
+  {
+   "id": "c-alpenfohn-matterhorn-2-aurora-max-black-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Alpenföhn Matterhorn 2 Aurora Max black, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Matterhorn-2-Aurora-Max-black-CPU-K%C3%BChler/html/product/100201706",
+   "stand": "2026-11-04T11:32",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 54.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Alpenf%C3%B6hn/Matterhorn-2-Aurora-Max-black-CPU-K%C3%BChler/html/product/100201706"
+    }
+   ],
+   "price": 54.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 54.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler alpenfohn matterhorn aurora max black cpu kuhler",
+   "firstSeen": "2026-11-04"
   },
   {
    "id": "c-silverstone-fara-r1-v2-midi-tower-tempered-glas-schwarz",
@@ -15677,6 +15996,35 @@
    "count": 1,
    "tags": "gehause jonsbo d400 midi tower atx tempered glass weiss",
    "firstSeen": "2026-11-01"
+  },
+  {
+   "id": "c-be-quiet-dark-rock-6-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "be quiet! Dark Rock 6, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/be-quiet/Dark-Rock-6-CPU-K%C3%BChler/html/product/100201143",
+   "stand": "2026-11-04T11:32",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 66.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/be-quiet/Dark-Rock-6-CPU-K%C3%BChler/html/product/100201143"
+    }
+   ],
+   "price": 66.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 66.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler quiet dark rock cpu kuhler",
+   "firstSeen": "2026-11-04"
   },
   {
    "id": "c-seasonic-core-bc-850-atx3-1-pc-netzteil",
@@ -18379,6 +18727,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-silverstone-sst-xe02-am5b-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "SilverStone SST-XE02-AM5B, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/SilverStone/SST-XE02-AM5B-CPU-K%C3%BChler/html/product/100200588",
+   "stand": "2026-11-04T11:32",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 82.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/SilverStone/SST-XE02-AM5B-CPU-K%C3%BChler/html/product/100200588"
+    }
+   ],
+   "price": 82.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 82.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler silverstone sst xe02 am5b cpu kuhler",
+   "firstSeen": "2026-11-04"
+  },
+  {
    "id": "c-asus-prime-a620m-k-amd-a620-mainboard-sockel-am5-ddr5",
    "cat": "Mainboards",
    "sub": "AM5 A620",
@@ -19933,6 +20310,64 @@
    "count": 1,
    "tags": "kuhlung luftkuhler noctua u14s cpu kuhler",
    "firstSeen": "2026-11-01"
+  },
+  {
+   "id": "c-silverstone-sst-xe02-tr5b-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "SilverStone SST-XE02-TR5B, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/SilverStone/SST-XE02-TR5B-CPU-K%C3%BChler/html/product/100200587",
+   "stand": "2026-11-04T11:32",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 89.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/SilverStone/SST-XE02-TR5B-CPU-K%C3%BChler/html/product/100200587"
+    }
+   ],
+   "price": 89.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 89.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler silverstone sst xe02 tr5b cpu kuhler",
+   "firstSeen": "2026-11-04"
+  },
+  {
+   "id": "c-be-quiet-dark-rock-pro-6-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "be quiet! Dark Rock Pro 6, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/be-quiet/Dark-Rock-Pro-6-CPU-K%C3%BChler/html/product/100201148",
+   "stand": "2026-11-04T11:32",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 89.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/be-quiet/Dark-Rock-Pro-6-CPU-K%C3%BChler/html/product/100201148"
+    }
+   ],
+   "price": 89.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 89.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler quiet dark rock pro cpu kuhler",
+   "firstSeen": "2026-11-04"
   },
   {
    "id": "c-asus-prime-a620m-e-csm-mainboard-amd-a620-socket-am5-ddr5-mi",
@@ -28804,6 +29239,35 @@
    "count": 1,
    "tags": "netzteile 750 w quiet power zone plus platinum netzteil vollmodular atx pcie 750 watt schwarz",
    "firstSeen": "2026-11-02"
+  },
+  {
+   "id": "c-silverstone-sst-xed120s-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "SilverStone SST-XED120S, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/SilverStone/SST-XED120S-CPU-K%C3%BChler/html/product/100200592",
+   "stand": "2026-11-04T11:32",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 129.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/SilverStone/SST-XED120S-CPU-K%C3%BChler/html/product/100200592"
+    }
+   ],
+   "price": 129.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 129.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler silverstone sst xed120s cpu kuhler",
+   "firstSeen": "2026-11-04"
   },
   {
    "id": "c-msi-pro-mp272pmg-68-6-cm-27-led-monitor-ips-fhd-pivot-9s6-3p",
