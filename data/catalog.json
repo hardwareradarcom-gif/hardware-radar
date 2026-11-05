@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T14:24:55.933Z",
+ "updated": "2026-11-05T17:33:42.713Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -12395,6 +12395,35 @@
    "firstSeen": "2026-11-05"
   },
   {
+   "id": "c-scythe-kotetsu-mark-4-dbe-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Scythe Kotetsu Mark 4 DBE, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Scythe/Kotetsu-Mark-4-DBE-CPU-K%C3%BChler/html/product/100210733",
+   "stand": "2026-11-05T17:33",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 34.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Scythe/Kotetsu-Mark-4-DBE-CPU-K%C3%BChler/html/product/100210733"
+    }
+   ],
+   "price": 34.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 34.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler scythe kotetsu mark dbe cpu kuhler",
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "c-sharkoon-a50-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -18479,6 +18508,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-dynatron-s-6-4710-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Dynatron S-6-4710, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Dynatron/S-6-4710-CPU-K%C3%BChler/html/product/100211794",
+   "stand": "2026-11-05T17:33",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 65.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Dynatron/S-6-4710-CPU-K%C3%BChler/html/product/100211794"
+    }
+   ],
+   "price": 65.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 65.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler dynatron 4710 cpu kuhler",
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "c-gigabyte-v2-256-gb-ssd-m-2-2280-pcie-3-0-x4-nvme",
    "cat": "SSDs",
    "sub": "NVMe 256 GB",
@@ -19387,6 +19445,35 @@
    ],
    "count": 1,
    "tags": "gehause lian o11 vision micro atx tempered glass schwarz",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-dynatron-a-49-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Dynatron A-49, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Dynatron/A-49-CPU-K%C3%BChler/html/product/100211792",
+   "stand": "2026-11-05T17:33",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 69.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Dynatron/A-49-CPU-K%C3%BChler/html/product/100211792"
+    }
+   ],
+   "price": 69.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 69.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler dynatron cpu kuhler",
    "firstSeen": "2026-11-05"
   },
   {

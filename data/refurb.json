@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T14:24:55.933Z",
+ "updated": "2026-11-05T17:33:42.713Z",
  "products": [
   {
    "id": "r-acer-b246hylbymiprx-23-8-full-hd-1920x1080-display-hdmi-disp",
@@ -5687,6 +5687,10 @@
     {
      "d": "2026-11-02",
      "p": 359
+    },
+    {
+     "d": "2026-11-05",
+     "p": 359
     }
    ],
    "firstSeen": "2026-10-30"
@@ -6714,6 +6718,25 @@
    "firstSeen": "2026-11-04"
   },
   {
+   "id": "r-lenovo-thinkcentre-m920q-tiny-intel-core-i5-9500t-8gb-ram-25",
+   "cat": "PCs & Workstations",
+   "name": "Lenovo ThinkCentre M920q Tiny, Intel Core i5 9500T, 8GB RAM, 256GB SSD, Windows 11 Pro",
+   "brand": "Lenovo",
+   "price": 359,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkcentre-m920q-tiny-intel-core-i5-9500t-256gb-ssd-8gb-windows-11-pro-kopie",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-M920q-Tiny-11_7305b4be-d855-4761-a5c0-5bca6658529c.jpg?v=1754158667",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 359
+    }
+   ],
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "r-hp-elitedesk-800-g5-desktop-mini-intel-core-i5-9500t-16gb-ra",
    "cat": "PCs & Workstations",
    "name": "HP EliteDesk 800 G5 Desktop Mini, Intel Core i5 9500T, 16GB RAM, 256GB SSD, Windows 11 Pro",
@@ -7556,6 +7579,25 @@
     }
    ],
    "firstSeen": "2026-11-03"
+  },
+  {
+   "id": "r-dell-latitude-5310-13-3-zoll-1920x1080-full-hd-intel-core-i5",
+   "cat": "Laptops",
+   "name": "Dell Latitude 5310 13,3 Zoll 1920x1080 Full HD Intel Core i5 256GB SSD 16GB Windows 11 Pro Webcam",
+   "brand": "Dell",
+   "price": 369,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/dell-latitude-5310-13-3-zoll-1920x1080-full-hd-intel-core-i5-256gb-ssd-16gb-windows-11-pro-webcam-5",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Latitude-5310-0_b5097bab-f85e-4807-83c1-61d091a51d21.jpg?v=1772817317",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 369
+    }
+   ],
+   "firstSeen": "2026-11-05"
   },
   {
    "id": "r-fujitsu-esprimo-d958-intel-core-i5-8500-8gb-ram-256gb-ssd-dv",
@@ -19992,6 +20034,25 @@
    "firstSeen": "2026-11-05"
   },
   {
+   "id": "r-lenovo-thinkcentre-m920q-tiny-intel-core-i5-9500t-16gb-ram-1",
+   "cat": "PCs & Workstations",
+   "name": "Lenovo ThinkCentre M920q Tiny, Intel Core i5 9500T, 16GB RAM, 1TB SSD, Windows 11 Pro",
+   "brand": "Lenovo",
+   "price": 518.99,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkcentre-m920q-tiny-intel-core-i5-9500t-8gb-ram-256gb-ssd-windows-11-pro-kopie",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-M920q-Tiny-11_7305b4be-d855-4761-a5c0-5bca6658529c.jpg?v=1754158667",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 518.99
+    }
+   ],
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "r-dell-latitude-5520-15-6-touch-display-intel-core-i5-1145g7-3",
    "cat": "Laptops",
    "name": "Dell Latitude 5520, 15,6\" Touch Display, Intel Core i5 1145G7, 32GB RAM, 512GB SSD, Webcam, Windows 11 Pro",
@@ -23693,6 +23754,25 @@
    "url": "https://it-versand.com/products/hp-elitebook-840-g7-14-zoll-1920x1080-full-hd-intel-core-i5-512gb-ssd-16gb-windows-11-pro-lte-3",
    "avail": "Auf Lager",
    "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-840-G7-10_fc85a346-0d5d-4d59-9888-80ef6501e3e7.jpg?v=1770994091",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 559
+    }
+   ],
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "r-lenovo-thinkcentre-m920s-sff-intel-core-i5-9500-24gb-ram-1tb",
+   "cat": "PCs & Workstations",
+   "name": "Lenovo ThinkCentre M920s SFF, Intel Core i5 9500, 24GB RAM, 1TB SSD, DVD-RW, Windows 11 Pro",
+   "brand": "Lenovo",
+   "price": 559,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkcentre-m920s-sff-intel-core-i5-9400-256gb-ssd-8gb-windows-11-pro-kopie",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkCentre-M920s-SFF-0_68dba61b-4a90-48a6-bd59-d114ecbe8b33.jpg?v=1741637260",
    "hist": [
     {
      "d": "2026-11-05",
@@ -31999,6 +32079,25 @@
     }
    ],
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "r-hp-elitebook-850-g8-15-6-fhd-display-intel-core-i5-1145g7-32",
+   "cat": "Laptops",
+   "name": "HP EliteBook 850 G8, 15,6\" FHD Display, Intel Core i5 1145G7, 32GB RAM, 1TB SSD, Webcam, Windows 11 Pro",
+   "brand": "HP",
+   "price": 879.01,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/hp-elitebook-850-g8-15-6-fhd-display-intel-core-i5-1145g7-16gb-ram-256gb-ssd-webcam-windows-11-pro-kopie",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-850-G8-0_1df41914-43eb-4b7a-ba31-4a384d320d28.jpg?v=1770990678",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 879.01
+    }
+   ],
+   "firstSeen": "2026-11-05"
   },
   {
    "id": "r-lenovo-thinkpad-p15-gen-1-15-6-zoll-full-hd-intel-core-i7-51",
