@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-04T21:52:21.676Z",
+ "updated": "2026-11-05T06:32:02.082Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1050,8 +1050,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-04",
-   "updated": "2026-11-04",
+   "seen": "2026-11-05",
+   "updated": "2026-11-05",
    "tags": "kuhlung luftkuhler kolink umbra ex180 argb cpu kuhler 120mm",
    "source": "crawler"
   },
@@ -1080,8 +1080,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-04",
-   "updated": "2026-11-04",
+   "seen": "2026-11-05",
+   "updated": "2026-11-05",
    "tags": "monitore 27\" msi mpg 272urxde oled zoll gaming monitor 240hz adaptive sync",
    "source": "crawler"
   },
@@ -1114,8 +1114,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-04",
-   "updated": "2026-11-04",
+   "seen": "2026-11-05",
+   "updated": "2026-11-05",
    "tags": "gehause hyte x50 midi tower snow white",
    "source": "crawler"
   },
@@ -1148,8 +1148,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-04",
-   "updated": "2026-11-04",
+   "seen": "2026-11-05",
+   "updated": "2026-11-05",
    "tags": "gehause hyte x50 midi tower pitch black",
    "source": "crawler"
   },
@@ -1178,8 +1178,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-04",
-   "updated": "2026-11-04",
+   "seen": "2026-11-05",
+   "updated": "2026-11-05",
    "tags": "monitore 27\" msi mag 274qfde x24 zoll qhd gaming monitor 240hz ips panel adaptive sync",
    "source": "crawler"
   },
@@ -1216,8 +1216,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-04",
-   "updated": "2026-11-04",
+   "seen": "2026-11-05",
+   "updated": "2026-11-05",
    "tags": "ssds nvme 512 gb lenovo toshiba ssd 512 2280 pcie",
    "source": "crawler"
   },
@@ -1250,8 +1250,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-04",
-   "updated": "2026-11-04",
+   "seen": "2026-11-05",
+   "updated": "2026-11-05",
    "tags": "kuhlung luftkuhler tryx turris t620 cpu dual tower mit zoll display 120mm schwarz",
    "source": "crawler"
   },
@@ -1284,8 +1284,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-04",
-   "updated": "2026-11-04",
+   "seen": "2026-11-05",
+   "updated": "2026-11-05",
    "tags": "kuhlung luftkuhler tryx turris t620 cpu dual tower mit zoll display 120mm weiss",
    "source": "crawler"
   },
@@ -1314,9 +1314,69 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-04",
-   "updated": "2026-11-04",
+   "seen": "2026-11-05",
+   "updated": "2026-11-05",
    "tags": "monitore 27\" msi mpg 271qrde oled x50 zoll qhd gaming monitor 500hz panel adaptive sync",
+   "source": "crawler"
+  },
+  {
+   "id": "c-hyte-x50-air-midi-tower-snow-white",
+   "name": "HYTE X50 Air Midi Tower - Snow White",
+   "cat": "Gehäuse",
+   "price": 59.9,
+   "ref": 79.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/hyte-x50-air-midi-tower-snow-white/GEHY-059.html",
+   "url": "https://www.caseking.de/en/hyte-x50-air-midi-tower-snow-white/GEHY-059.html",
+   "note": "25 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-01",
+     "p": 119.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 79.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 59.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-05",
+   "updated": "2026-11-05",
+   "tags": "gehause hyte x50 air midi tower snow white",
+   "source": "crawler"
+  },
+  {
+   "id": "c-hyte-x50-air-midi-tower-pitch-black",
+   "name": "HYTE X50 Air Midi Tower - Pitch Black",
+   "cat": "Gehäuse",
+   "price": 59.9,
+   "ref": 79.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/hyte-x50-air-midi-tower-pitch-black/GEHY-060.html",
+   "url": "https://www.caseking.de/en/hyte-x50-air-midi-tower-pitch-black/GEHY-060.html",
+   "note": "25 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-01",
+     "p": 119.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 79.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 59.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-05",
+   "updated": "2026-11-05",
+   "tags": "gehause hyte x50 air midi tower pitch black",
    "source": "crawler"
   },
   {
@@ -1344,8 +1404,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-04",
-   "updated": "2026-11-04",
+   "seen": "2026-11-05",
+   "updated": "2026-11-05",
    "tags": "monitore 39,7\" ultrafine 40wt95uf zoll curved wuhd gaming monitor 120hz ips amd freesync premium",
    "source": "crawler"
   },
@@ -1374,8 +1434,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-04",
-   "updated": "2026-11-04",
+   "seen": "2026-11-05",
+   "updated": "2026-11-05",
    "tags": "monitore 32\" ultragear 32g600a zoll curved wqhd gaming monitor 180hz amd freesync",
    "source": "crawler"
   },
@@ -1404,8 +1464,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-04",
-   "updated": "2026-11-04",
+   "seen": "2026-11-05",
+   "updated": "2026-11-05",
    "tags": "monitore 27\" msi mag 272qpwde oled x28 zoll qhd gaming monitor 280hz panel sync compatible",
    "source": "crawler"
   },
@@ -1442,8 +1502,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-04",
-   "updated": "2026-11-04",
+   "seen": "2026-11-05",
+   "updated": "2026-11-05",
    "tags": "arbeitsspeicher ddr4 16 gb kingston fury renegade ddr4 ram 3600 mhz cl16 schwarz",
    "source": "crawler"
   },
@@ -1472,8 +1532,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-04",
-   "updated": "2026-11-04",
+   "seen": "2026-11-05",
+   "updated": "2026-11-05",
    "tags": "monitore 37\" 37g800a zoll uhd gaming monitor 165hz panel freesync premium pro",
    "source": "crawler"
   },
@@ -1510,8 +1570,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-04",
-   "updated": "2026-11-04",
+   "seen": "2026-11-05",
+   "updated": "2026-11-05",
    "tags": "monitore 23,8\" p24 fhd 1920x1080 office monitor schwarz",
    "source": "crawler"
   },
@@ -1540,8 +1600,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-04",
-   "updated": "2026-11-04",
+   "seen": "2026-11-05",
+   "updated": "2026-11-05",
    "tags": "monitore 52\" ultragear evo 52g930b zoll wuhd curved gaming monitor 240hz panel freesync premium",
    "source": "crawler"
   },
@@ -1570,8 +1630,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-04",
-   "updated": "2026-11-04",
+   "seen": "2026-11-05",
+   "updated": "2026-11-05",
    "tags": "monitore 49\" msi mpg 491cqpde oled zoll curved gaming monitor 144",
    "source": "crawler"
   },
@@ -1604,8 +1664,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-04",
-   "updated": "2026-11-04",
+   "seen": "2026-11-05",
+   "updated": "2026-11-05",
    "tags": "gehause havn 360 flow case midi tower atx tempered glass white",
    "source": "crawler"
   },
@@ -1638,8 +1698,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-04",
-   "updated": "2026-11-04",
+   "seen": "2026-11-05",
+   "updated": "2026-11-05",
    "tags": "gehause havn 360 flow case midi tower atx tempered glass black",
    "source": "crawler"
   },
@@ -1672,8 +1732,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-04",
-   "updated": "2026-11-04",
+   "seen": "2026-11-05",
+   "updated": "2026-11-05",
    "tags": "gehause havn 360 case midi tower atx tempered glass white",
    "source": "crawler"
   },
@@ -1706,8 +1766,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-04",
-   "updated": "2026-11-04",
+   "seen": "2026-11-05",
+   "updated": "2026-11-05",
    "tags": "gehause havn 360 case midi tower atx tempered glass black",
    "source": "crawler"
   },
@@ -1740,8 +1800,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-04",
-   "updated": "2026-11-04",
+   "seen": "2026-11-05",
+   "updated": "2026-11-05",
    "tags": "gehause havn 420 vgpu midi tower atx tempered glass pcie riser kabel weiss",
    "source": "crawler"
   },
@@ -1774,8 +1834,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-04",
-   "updated": "2026-11-04",
+   "seen": "2026-11-05",
+   "updated": "2026-11-05",
    "tags": "gehause havn 420 vgpu midi tower atx tempered glass pcie riser kabel schwarz",
    "source": "crawler"
   },
@@ -1808,8 +1868,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-04",
-   "updated": "2026-11-04",
+   "seen": "2026-11-05",
+   "updated": "2026-11-05",
    "tags": "gehause havn 420 midi tower atx tempered glass weiss",
    "source": "crawler"
   },
@@ -1842,43 +1902,9 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-04",
-   "updated": "2026-11-04",
+   "seen": "2026-11-05",
+   "updated": "2026-11-05",
    "tags": "gehause havn 420 midi tower atx tempered glass schwarz",
-   "source": "crawler"
-  },
-  {
-   "id": "c-alpenfohn-dolomit-premium-cpu-kuhler",
-   "name": "Alpenföhn Dolomit Premium, CPU-Kühler",
-   "cat": "Kühlung",
-   "price": 29.89,
-   "ref": 34.9,
-   "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/Alpenf%C3%B6hn/Dolomit-Premium-CPU-K%C3%BChler/html/product/100182528",
-   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Dolomit-Premium-CPU-K%C3%BChler/html/product/100182528",
-   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-01",
-     "p": 34.9
-    },
-    {
-     "d": "2026-11-02",
-     "p": 34.9
-    },
-    {
-     "d": "2026-11-03",
-     "p": 29.89
-    },
-    {
-     "d": "2026-11-04",
-     "p": 29.89
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-04",
-   "updated": "2026-11-04",
-   "tags": "kuhlung luftkuhler alpenfohn dolomit premium cpu kuhler",
    "source": "crawler"
   },
   {
@@ -1914,8 +1940,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-04",
-   "updated": "2026-11-04",
+   "seen": "2026-11-05",
+   "updated": "2026-11-05",
    "tags": "monitore 45\" lenovo legion r45w gebogener led monitor 5120 1440 165 usb schwarz",
    "source": "crawler"
   },
@@ -1952,8 +1978,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-04",
-   "updated": "2026-11-04",
+   "seen": "2026-11-05",
+   "updated": "2026-11-05",
    "tags": "netzteile 850 w lian edge gold 850 plus netzteil pcie atx watt schwarz",
    "source": "crawler"
   },
@@ -1990,8 +2016,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-04",
-   "updated": "2026-11-04",
+   "seen": "2026-11-05",
+   "updated": "2026-11-05",
    "tags": "grafikkarten geforce rtx 5060 gigabyte geforce rtx 5060 windforce 8192 gddr7",
    "source": "crawler"
   },
@@ -2028,43 +2054,9 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-04",
-   "updated": "2026-11-04",
+   "seen": "2026-11-05",
+   "updated": "2026-11-05",
    "tags": "ssds nvme 512 gb lenovo 00up642 ssd 2280 512 pcie nvme",
-   "source": "crawler"
-  },
-  {
-   "id": "c-gainward-geforce-rtx-5060-ghost-8192-mb-gddr7",
-   "name": "Gainward GeForce RTX 5060 Ghost, 8192 MB GDDR7",
-   "cat": "Grafikkarten",
-   "price": 459,
-   "ref": 529,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/gainward-geforce-rtx-5060-ghost-8192-mb-gddr7/GCGW-154.html",
-   "url": "https://www.caseking.de/en/gainward-geforce-rtx-5060-ghost-8192-mb-gddr7/GCGW-154.html",
-   "note": "13 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 529
-    },
-    {
-     "d": "2026-10-31",
-     "p": 529
-    },
-    {
-     "d": "2026-11-02",
-     "p": 459
-    },
-    {
-     "d": "2026-11-04",
-     "p": 459
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-04",
-   "updated": "2026-11-04",
-   "tags": "grafikkarten geforce rtx 5060 gainward geforce rtx 5060 ghost 8192 gddr7",
    "source": "crawler"
   },
   {
@@ -2100,8 +2092,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-04",
-   "updated": "2026-11-04",
+   "seen": "2026-11-05",
+   "updated": "2026-11-05",
    "tags": "monitore 27\" dell pro p2726dev qhd ips led monitor schwarz",
    "source": "crawler"
   }
