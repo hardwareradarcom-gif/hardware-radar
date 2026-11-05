@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T17:33:42.713Z",
+ "updated": "2026-11-05T17:56:56.419Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1923,6 +1923,48 @@
    "seen": "2026-11-05",
    "updated": "2026-11-05",
    "tags": "gehause havn 420 midi tower atx tempered glass schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-asus-prime-b760-plus-d4-mainboard-lga-1700-intel-b760-atx-dd",
+   "name": "ASUS PRIME B760-PLUS D4 Mainboard LGA 1700 Intel B760 ATX DDR4",
+   "cat": "Mainboards",
+   "price": 133.74,
+   "ref": 156.2,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/asus-prime-b760-plus-d4-mainboard-lga-1700-intel-b760-atx-ddr4-100684420/",
+   "url": "https://www.jacob.de/produkt/asus-prime-b760-plus-d4-mainboard-lga-1700-intel-b760-atx-ddr4-100684420/",
+   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 156.2
+    },
+    {
+     "d": "2026-10-31",
+     "p": 156.2
+    },
+    {
+     "d": "2026-11-01",
+     "p": 156.2
+    },
+    {
+     "d": "2026-11-02",
+     "p": 156.2
+    },
+    {
+     "d": "2026-11-03",
+     "p": 156.2
+    },
+    {
+     "d": "2026-11-05",
+     "p": 133.74
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-05",
+   "updated": "2026-11-05",
+   "tags": "mainboards intel lga1700 b760 asus prime b760 plus mainboard lga 1700 intel atx ddr4",
    "source": "crawler"
   },
   {
