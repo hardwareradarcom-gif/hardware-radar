@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-05T10:07:05.154Z",
+ "updated": "2026-11-05T11:27:54.911Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -3437,13 +3437,21 @@
    "name": "ASUS Prime GeForce RTX 5070 Ti OC",
    "url": "https://www.hardwaredealz.com/hardware/gpu/nvidia-geforce-rtx-5070-ti-16gb/asus-prime-oc-16gb-gddr7-hdmi-3x-dp/preisvergleich.25223",
    "source": "hardwaredealz",
-   "stand": "2026-10-29T15:40",
+   "stand": "2026-11-05T11:27",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
      "price": 1375.99,
      "ship": null,
      "avail": null
+    },
+    {
+     "shop": "caseking.de",
+     "price": 1399.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-prime-geforce-rtx-5070-ti-oc-edition-16384-mb-gddr7/GCAS-656.html",
+     "crawler": true
     }
    ],
    "price": 1375.99,
@@ -3451,6 +3459,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 1375.99
+    },
+    {
+     "d": "2026-11-05",
      "p": 1375.99
     }
    ]
@@ -3683,13 +3695,21 @@
    "name": "ASUS ROG Astral GeForce RTX 5080 OC",
    "url": "https://www.hardwaredealz.com/hardware/gpu/nvidia-geforce-rtx-5080-16gb/asus-rog-astral-oc-16gb-gddr7-2x-hdmi-3x-dp/preisvergleich.25495",
    "source": "hardwaredealz",
-   "stand": "2026-10-29T15:40",
+   "stand": "2026-11-05T11:27",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
      "price": 2277,
      "ship": null,
      "avail": null
+    },
+    {
+     "shop": "caseking.de",
+     "price": 2299,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-rog-astral-geforce-rtx-5080-oc-edition-16384-mb-gddr7/GCAS-645.html",
+     "crawler": true
     }
    ],
    "price": 2277,
@@ -3697,6 +3717,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 2277
+    },
+    {
+     "d": "2026-11-05",
      "p": 2277
     }
    ]
@@ -4495,13 +4519,21 @@
    "name": "ASUS Prime GeForce RTX 5080 OC",
    "url": "https://www.hardwaredealz.com/hardware/gpu/nvidia-geforce-rtx-5080-16gb/asus-prime-oc-16gb-gddr7-hdmi-3x-dp/preisvergleich.25130",
    "source": "hardwaredealz",
-   "stand": "2026-10-29T15:40",
+   "stand": "2026-11-05T11:27",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
      "price": 1929,
      "ship": null,
      "avail": null
+    },
+    {
+     "shop": "caseking.de",
+     "price": 2249,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-prime-geforce-rtx-5080-oc-edition-16384-mb-gddr7/GCAS-641.html",
+     "crawler": true
     }
    ],
    "price": 1929,
@@ -4509,6 +4541,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 1929
+    },
+    {
+     "d": "2026-11-05",
      "p": 1929
     }
    ]
@@ -8304,6 +8340,35 @@
    "firstSeen": "2026-11-04"
   },
   {
+   "id": "c-jonsbo-cr-1400-evo-color-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Jonsbo CR-1400 EVO Color CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.caseking.de/jonsbo-cr-1400-evo-color-cpu-kuehler/CPJB-036.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 17.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/jonsbo-cr-1400-evo-color-cpu-kuehler/CPJB-036.html"
+    }
+   ],
+   "price": 17.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 17.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler jonsbo 1400 evo color cpu kuhler",
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "c-silverstone-sst-nt09-1700-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -8695,6 +8760,296 @@
    "count": 1,
    "tags": "kuhlung luftkuhler xilence m704 cpu kuhler",
    "firstSeen": "2026-10-31"
+  },
+  {
+   "id": "c-ocypus-gamma-a40-argb-digital-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Ocypus Gamma A40 ARGB Digital, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Ocypus/Gamma-A40-ARGB-Digital-CPU-K%C3%BChler/html/product/100208267",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 19.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Ocypus/Gamma-A40-ARGB-Digital-CPU-K%C3%BChler/html/product/100208267"
+    }
+   ],
+   "price": 19.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 19.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler ocypus gamma a40 argb digital cpu kuhler",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-ocypus-gamma-a40-argb-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Ocypus Gamma A40 ARGB, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Ocypus/Gamma-A40-ARGB-CPU-K%C3%BChler/html/product/100208269",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 19.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Ocypus/Gamma-A40-ARGB-CPU-K%C3%BChler/html/product/100208269"
+    }
+   ],
+   "price": 19.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 19.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler ocypus gamma a40 argb cpu kuhler",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-ocypus-gamma-a40-argb-digital-cpu-kuhler-bt8ky",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Ocypus Gamma A40 ARGB Digital, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Ocypus/Gamma-A40-ARGB-Digital-CPU-K%C3%BChler/html/product/100208268",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 19.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Ocypus/Gamma-A40-ARGB-Digital-CPU-K%C3%BChler/html/product/100208268"
+    }
+   ],
+   "price": 19.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 19.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler ocypus gamma a40 argb digital cpu kuhler",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-ocypus-gamma-a40-argb-cpu-kuhler-l1j8p",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Ocypus Gamma A40 ARGB, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Ocypus/Gamma-A40-ARGB-CPU-K%C3%BChler/html/product/100208270",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 19.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Ocypus/Gamma-A40-ARGB-CPU-K%C3%BChler/html/product/100208270"
+    }
+   ],
+   "price": 19.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 19.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler ocypus gamma a40 argb cpu kuhler",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-jonsbo-cr-1400-evo-argb-cpu-kuhler-92mm-schwarz",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Jonsbo CR-1400 EVO ARGB CPU-Kühler, 92mm - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/jonsbo-cr-1400-evo-argb-cpu-kuehler-92mm-schwarz/CPJB-038.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 19.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/jonsbo-cr-1400-evo-argb-cpu-kuehler-92mm-schwarz/CPJB-038.html"
+    }
+   ],
+   "price": 19.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 19.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler jonsbo 1400 evo argb cpu kuhler 92mm schwarz",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-ocypus-delta-a40-ex-argb-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Ocypus Delta A40 EX ARGB, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Ocypus/Delta-A40-EX-ARGB-CPU-K%C3%BChler/html/product/100208179",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 19.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Ocypus/Delta-A40-EX-ARGB-CPU-K%C3%BChler/html/product/100208179"
+    }
+   ],
+   "price": 19.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 19.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler ocypus delta a40 argb cpu kuhler",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-ocypus-delta-a40-ex-argb-cpu-kuhler-k50ht",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Ocypus Delta A40 EX ARGB, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Ocypus/Delta-A40-EX-ARGB-CPU-K%C3%BChler/html/product/100208178",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 19.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Ocypus/Delta-A40-EX-ARGB-CPU-K%C3%BChler/html/product/100208178"
+    }
+   ],
+   "price": 19.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 19.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler ocypus delta a40 argb cpu kuhler",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-jonsbo-cr-1400-v2-argb-cpu-kuhler-92mm-weiss",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Jonsbo CR-1400 V2 ARGB CPU-Kühler, 92mm - weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/jonsbo-cr-1400-v2-argb-cpu-kuehler-92mm-weiss/CPJB-054.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 19.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/jonsbo-cr-1400-v2-argb-cpu-kuehler-92mm-weiss/CPJB-054.html"
+    }
+   ],
+   "price": 19.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 19.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler jonsbo 1400 argb cpu kuhler 92mm weiss",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-jonsbo-ca40-cpu-kuhler-pwm-rgb-schwarz",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Jonsbo CA40 CPU-Kühler PWM, RGB- schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/jonsbo-ca40-cpu-kuehler-pwm-rgb-schwarz/CPJB-084.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 19.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/jonsbo-ca40-cpu-kuehler-pwm-rgb-schwarz/CPJB-084.html"
+    }
+   ],
+   "price": 19.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 19.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler jonsbo ca40 cpu kuhler pwm rgb schwarz",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-jonsbo-cb40-cpu-kuhler-pwm-argb-schwarz",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Jonsbo CB40 CPU-Kühler, PWM, ARGB - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/jonsbo-cb40-cpu-kuehler-pwm-argb-schwarz/CPJB-087.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 19.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/jonsbo-cb40-cpu-kuehler-pwm-argb-schwarz/CPJB-087.html"
+    }
+   ],
+   "price": 19.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 19.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler jonsbo cb40 cpu kuhler pwm argb schwarz",
+   "firstSeen": "2026-11-05"
   },
   {
    "id": "c-silentware-bora-performance-cpu-kuhler",
@@ -9910,6 +10265,93 @@
    "firstSeen": "2026-11-02"
   },
   {
+   "id": "c-jonsbo-cr-1000-v3-pro-cpu-kuhler-pwm-argb-schwarz",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Jonsbo CR-1000 V3 PRO CPU-Kühler, PWM, ARGB - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/jonsbo-cr-1000-v3-pro-cpu-kuehler-pwm-argb-schwarz/CPJB-077.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 25.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/jonsbo-cr-1000-v3-pro-cpu-kuehler-pwm-argb-schwarz/CPJB-077.html"
+    }
+   ],
+   "price": 25.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 25.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler jonsbo 1000 pro cpu kuhler pwm argb schwarz",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-ocypus-delta-a40-elite-dual-fan-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Ocypus Delta A40 Elite Dual Fan, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Ocypus/Delta-A40-Elite-Dual-Fan-CPU-K%C3%BChler/html/product/100208141",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 26.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Ocypus/Delta-A40-Elite-Dual-Fan-CPU-K%C3%BChler/html/product/100208141"
+    }
+   ],
+   "price": 26.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 26.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler ocypus delta a40 elite dual fan cpu kuhler",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-ocypus-delta-a40-elite-dual-fan-cpu-kuhler-sctwu",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Ocypus Delta A40 Elite Dual Fan, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Ocypus/Delta-A40-Elite-Dual-Fan-CPU-K%C3%BChler/html/product/100208143",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 26.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Ocypus/Delta-A40-Elite-Dual-Fan-CPU-K%C3%BChler/html/product/100208143"
+    }
+   ],
+   "price": 26.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 26.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler ocypus delta a40 elite dual fan cpu kuhler",
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "c-endorfy-fera-5-black-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -10779,6 +11221,64 @@
    "firstSeen": "2026-11-04"
   },
   {
+   "id": "c-ocypus-iota-a40-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Ocypus Iota A40, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Ocypus/Iota-A40-CPU-K%C3%BChler/html/product/100208136",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 29.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Ocypus/Iota-A40-CPU-K%C3%BChler/html/product/100208136"
+    }
+   ],
+   "price": 29.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 29.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler ocypus iota a40 cpu kuhler",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-ocypus-iota-a40-cpu-kuhler-lz6it",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Ocypus Iota A40, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Ocypus/Iota-A40-CPU-K%C3%BChler/html/product/100208133",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 29.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Ocypus/Iota-A40-CPU-K%C3%BChler/html/product/100208133"
+    }
+   ],
+   "price": 29.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 29.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler ocypus iota a40 cpu kuhler",
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "c-silverstone-sst-ar09-115xp-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -10822,6 +11322,43 @@
    "count": 1,
    "tags": "kuhlung luftkuhler silverstone sst ar09 115xp cpu kuhler",
    "firstSeen": "2026-10-31"
+  },
+  {
+   "id": "c-xilence-performance-x-m906-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Xilence Performance X M906, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Xilence/Performance-X-M906-CPU-K%C3%BChler/html/product/100210475",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 29.99,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Xilence/Performance-X-M906-CPU-K%C3%BChler/html/product/100210475"
+    }
+   ],
+   "price": 29.99,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-03",
+     "p": 34.99
+    },
+    {
+     "d": "2026-11-04",
+     "p": 34.99
+    },
+    {
+     "d": "2026-11-05",
+     "p": 29.99
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler xilence performance m906 cpu kuhler",
+   "firstSeen": "2026-11-03"
   },
   {
    "id": "c-sharkoon-a40-rgb-cpu-kuhler",
@@ -10974,6 +11511,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler montech nx600 argb cpu kuhler",
    "firstSeen": "2026-11-01"
+  },
+  {
+   "id": "c-ocypus-delta-a62-argb-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Ocypus Delta A62 ARGB, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Ocypus/Delta-A62-ARGB-CPU-K%C3%BChler/html/product/100208138",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 31.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Ocypus/Delta-A62-ARGB-CPU-K%C3%BChler/html/product/100208138"
+    }
+   ],
+   "price": 31.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 31.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler ocypus delta a62 argb cpu kuhler",
+   "firstSeen": "2026-11-05"
   },
   {
    "id": "c-endorfy-fera-5-argb-cpu-kuhler",
@@ -11653,37 +12219,120 @@
    "firstSeen": "2026-11-02"
   },
   {
-   "id": "c-xilence-performance-x-m906-cpu-kuhler",
+   "id": "c-alpenfohn-brocken-4-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
-   "name": "Xilence Performance X M906, CPU-Kühler",
+   "name": "Alpenföhn Brocken 4, CPU-Kühler",
    "source": "crawler",
-   "url": "https://www.alternate.de/Xilence/Performance-X-M906-CPU-K%C3%BChler/html/product/1883019",
-   "stand": "2026-11-04T17:55",
+   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-CPU-K%C3%BChler/html/product/1902703",
+   "stand": "2026-11-05T11:27",
    "offers": [
     {
      "shop": "ALTERNATE",
-     "price": 34.99,
+     "price": 34.9,
      "ship": 7.99,
      "avail": "Auf Lager",
-     "url": "https://www.alternate.de/Xilence/Performance-X-M906-CPU-K%C3%BChler/html/product/1883019"
+     "url": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-CPU-K%C3%BChler/html/product/1902703"
     }
    ],
-   "price": 34.99,
+   "price": 34.9,
    "shop": "ALTERNATE",
    "hist": [
     {
-     "d": "2026-11-03",
-     "p": 34.99
-    },
-    {
-     "d": "2026-11-04",
-     "p": 34.99
+     "d": "2026-11-05",
+     "p": 34.9
     }
    ],
    "count": 1,
-   "tags": "kuhlung luftkuhler xilence performance m906 cpu kuhler",
-   "firstSeen": "2026-11-03"
+   "tags": "kuhlung luftkuhler alpenfohn brocken cpu kuhler",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-jonsbo-cr-3000e-cpu-kuhler-dual-tower-260w-tdp-schwarz-120mm",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Jonsbo CR-3000E CPU-Kühler, Dual-Tower, 260W TDP - schwarz, 120mm",
+   "source": "crawler",
+   "url": "https://www.caseking.de/jonsbo-cr-3000e-cpu-kuehler-dual-tower-260w-tdp-schwarz-120mm/CPJB-063.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 34.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/jonsbo-cr-3000e-cpu-kuehler-dual-tower-260w-tdp-schwarz-120mm/CPJB-063.html"
+    }
+   ],
+   "price": 34.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 34.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler jonsbo 3000e cpu kuhler dual tower 260w tdp schwarz 120mm",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-ocypus-delta-a62-argb-cpu-kuhler-hm30j",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Ocypus Delta A62 ARGB, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Ocypus/Delta-A62-ARGB-CPU-K%C3%BChler/html/product/100208140",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 34.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Ocypus/Delta-A62-ARGB-CPU-K%C3%BChler/html/product/100208140"
+    }
+   ],
+   "price": 34.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 34.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler ocypus delta a62 argb cpu kuhler",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-enermax-ets-t50-axe-silent-edition-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Enermax ETS-T50 AXE Silent Edition, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Enermax/ETS-T50-AXE-Silent-Edition-CPU-K%C3%BChler/html/product/1511594",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 34.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Enermax/ETS-T50-AXE-Silent-Edition-CPU-K%C3%BChler/html/product/1511594"
+    }
+   ],
+   "price": 34.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 34.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler enermax ets t50 axe silent edition cpu kuhler",
+   "firstSeen": "2026-11-05"
   },
   {
    "id": "c-sharkoon-a50-cpu-kuhler",
@@ -12033,6 +12682,64 @@
    "count": 1,
    "tags": "kuhlung luftkuhler alpenfohn brocken argb cpu kuhler",
    "firstSeen": "2026-11-04"
+  },
+  {
+   "id": "c-ocypus-iota-a40-dual-fan-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Ocypus Iota A40 Dual Fan, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Ocypus/Iota-A40-Dual-Fan-CPU-K%C3%BChler/html/product/100208129",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 36.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Ocypus/Iota-A40-Dual-Fan-CPU-K%C3%BChler/html/product/100208129"
+    }
+   ],
+   "price": 36.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 36.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler ocypus iota a40 dual fan cpu kuhler",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-ocypus-iota-a40-dual-fan-cpu-kuhler-anfnu",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Ocypus Iota A40 Dual Fan, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Ocypus/Iota-A40-Dual-Fan-CPU-K%C3%BChler/html/product/100208132",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 36.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Ocypus/Iota-A40-Dual-Fan-CPU-K%C3%BChler/html/product/100208132"
+    }
+   ],
+   "price": 36.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 36.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler ocypus iota a40 dual fan cpu kuhler",
+   "firstSeen": "2026-11-05"
   },
   {
    "id": "c-endorfy-fortis-5-cpu-kuhler",
@@ -12619,6 +13326,122 @@
    ],
    "count": 1,
    "tags": "kuhlung luftkuhler deepcool ag620 cpu kuhler",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-ocypus-iota-a62-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Ocypus Iota A62, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Ocypus/Iota-A62-CPU-K%C3%BChler/html/product/100208123",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 39.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Ocypus/Iota-A62-CPU-K%C3%BChler/html/product/100208123"
+    }
+   ],
+   "price": 39.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 39.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler ocypus iota a62 cpu kuhler",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-ocypus-iota-a62-cpu-kuhler-frxdm",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Ocypus Iota A62, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Ocypus/Iota-A62-CPU-K%C3%BChler/html/product/100208126",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 39.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Ocypus/Iota-A62-CPU-K%C3%BChler/html/product/100208126"
+    }
+   ],
+   "price": 39.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 39.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler ocypus iota a62 cpu kuhler",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-ocypus-delta-a62-ex-digital-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Ocypus Delta A62 EX Digital, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Ocypus/DeltaA62EX-Digital-CPU-K%C3%BChler/html/product/100208147",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 39.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Ocypus/DeltaA62EX-Digital-CPU-K%C3%BChler/html/product/100208147"
+    }
+   ],
+   "price": 39.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 39.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler ocypus delta a62 digital cpu kuhler",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-ocypus-delta-a62-ex-digital-cpu-kuhler-59r5i",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Ocypus Delta A62 EX Digital, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Ocypus/DeltaA62EX-Digital-CPU-K%C3%BChler/html/product/100208146",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 39.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Ocypus/DeltaA62EX-Digital-CPU-K%C3%BChler/html/product/100208146"
+    }
+   ],
+   "price": 39.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 39.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler ocypus delta a62 digital cpu kuhler",
    "firstSeen": "2026-11-05"
   },
   {
@@ -13617,6 +14440,64 @@
    "count": 1,
    "tags": "kuhlung luftkuhler thermalright peerless assassin cpu kuhler dual tower 140 weiss",
    "firstSeen": "2026-11-02"
+  },
+  {
+   "id": "c-jonsbo-c6-pc-gehause-mini-tower-micro-atx-schwarz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Jonsbo C6 PC-Gehäuse, Mini-Tower, Micro-ATX - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/jonsbo-c6-pc-gehaeuse-mini-tower-micro-atx-schwarz/GEJB-124.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 44.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/jonsbo-c6-pc-gehaeuse-mini-tower-micro-atx-schwarz/GEJB-124.html"
+    }
+   ],
+   "price": 44.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 44.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause jonsbo mini tower micro atx schwarz",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-jonsbo-c6-pc-gehause-mini-tower-micro-atx-weiss",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Jonsbo C6 PC-Gehäuse, Mini-Tower, Micro-ATX - weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/jonsbo-c6-pc-gehaeuse-mini-tower-micro-atx-weiss/GEJB-125.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 44.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/jonsbo-c6-pc-gehaeuse-mini-tower-micro-atx-weiss/GEJB-125.html"
+    }
+   ],
+   "price": 44.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 44.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause jonsbo mini tower micro atx weiss",
+   "firstSeen": "2026-11-05"
   },
   {
    "id": "c-silentware-titan-cpu-kuhler",
@@ -14651,6 +15532,64 @@
    "firstSeen": "2026-11-04"
   },
   {
+   "id": "c-alpenfohn-brocken-4-max-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Alpenföhn Brocken 4 Max, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-Max-CPU-K%C3%BChler/html/product/1902711",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 49.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-Max-CPU-K%C3%BChler/html/product/1902711"
+    }
+   ],
+   "price": 49.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 49.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler alpenfohn brocken max cpu kuhler",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-jonsbo-c6-pc-gehause-mini-tower-micro-atx-mit-tragegriff-sch",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Jonsbo C6 PC-Gehäuse, Mini-Tower, Micro-ATX, mit Tragegriff - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/jonsbo-c6-pc-gehaeuse-mini-tower-micro-atx-mit-tragegriff-schwarz/GEJB-133.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 49.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/jonsbo-c6-pc-gehaeuse-mini-tower-micro-atx-mit-tragegriff-schwarz/GEJB-133.html"
+    }
+   ],
+   "price": 49.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 49.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause jonsbo mini tower micro atx mit tragegriff schwarz",
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "c-sharkoon-a60-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -15584,6 +16523,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler alpenfohn matterhorn aurora max black cpu kuhler",
    "firstSeen": "2026-11-04"
+  },
+  {
+   "id": "c-jonsbo-c6-itx-pc-gehause-mini-tower-itx-mit-tragegriff-weiss",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Jonsbo C6-ITX PC-Gehäuse, Mini-Tower, ITX, mit Tragegriff - weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/jonsbo-c6-itx-pc-gehaeuse-mini-tower-itx-mit-tragegriff-weiss/GEJB-152.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 54.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/jonsbo-c6-itx-pc-gehaeuse-mini-tower-itx-mit-tragegriff-weiss/GEJB-152.html"
+    }
+   ],
+   "price": 54.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 54.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause jonsbo itx mini tower mit tragegriff weiss",
+   "firstSeen": "2026-11-05"
   },
   {
    "id": "c-silverstone-fara-r1-v2-midi-tower-tempered-glas-schwarz",
@@ -17271,6 +18239,122 @@
    "firstSeen": "2026-11-01"
   },
   {
+   "id": "c-jonsbo-n10-pc-gehause-mini-tower-mini-itx-silber",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Jonsbo N10 PC-Gehäuse, Mini-Tower, Mini-ITX - silber",
+   "source": "crawler",
+   "url": "https://www.caseking.de/jonsbo-n10-pc-gehaeuse-mini-tower-mini-itx-silber/GEJB-162.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 64.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/jonsbo-n10-pc-gehaeuse-mini-tower-mini-itx-silber/GEJB-162.html"
+    }
+   ],
+   "price": 64.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 64.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause jonsbo n10 mini tower itx silber",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-jonsbo-n10-pc-case-mini-tower-mini-itx-black",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Jonsbo N10 PC case, mini-tower, mini-ITX - black",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/jonsbo-n10-pc-case-mini-tower-mini-itx-black/GEJB-163.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 64.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/jonsbo-n10-pc-case-mini-tower-mini-itx-black/GEJB-163.html"
+    }
+   ],
+   "price": 64.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 64.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause jonsbo n10 case mini tower itx black",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-jonsbo-d200-pc-gehause-mini-tower-matx-tempered-glass-schwar",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Jonsbo D200 PC-Gehäuse, Mini-Tower, mATX, Tempered Glass - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/jonsbo-d200-pc-gehaeuse-mini-tower-matx-tempered-glass-schwarz/GEJB-180.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 64.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/jonsbo-d200-pc-gehaeuse-mini-tower-matx-tempered-glass-schwarz/GEJB-180.html"
+    }
+   ],
+   "price": 64.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 64.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause jonsbo d200 mini tower matx tempered glass schwarz",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-jonsbo-d200-pc-gehause-mini-tower-matx-tempered-glass-weiss",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Jonsbo D200 PC-Gehäuse, Mini-Tower, mATX, Tempered Glass - weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/jonsbo-d200-pc-gehaeuse-mini-tower-matx-tempered-glass-weiss/GEJB-181.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 64.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/jonsbo-d200-pc-gehaeuse-mini-tower-matx-tempered-glass-weiss/GEJB-181.html"
+    }
+   ],
+   "price": 64.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 64.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause jonsbo d200 mini tower matx tempered glass weiss",
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "c-verbatim-vi3000-256-gb-m-2-pcie-3-0-nvme-ssd",
    "cat": "SSDs",
    "sub": "NVMe 256 GB",
@@ -17519,6 +18603,35 @@
    "count": 1,
    "tags": "netzteile seasonic core 850 atx3 netzteil",
    "firstSeen": "2026-10-31"
+  },
+  {
+   "id": "c-gigabyte-h610m-k-ddr4-motherboard-socket-1700-intel-h610-mic",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1700 H610",
+   "name": "GIGABYTE H610M K DDR4 motherboard, Socket 1700, Intel H610, Micro-ATX, DDR4",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/gigabyte-h610m-k-ddr4-motherboard-socket-1700-intel-h610-micro-atx-ddr4/MBGB-560.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 67.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/gigabyte-h610m-k-ddr4-motherboard-socket-1700-intel-h610-micro-atx-ddr4/MBGB-560.html"
+    }
+   ],
+   "price": 67.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 67.9
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1700 h610 gigabyte h610m ddr4 motherboard socket 1700 intel h610 micro atx",
+   "firstSeen": "2026-11-05"
   },
   {
    "id": "c-koorui-e2212f-21-45-monitor-full-hd-100-hz-schwarz",
@@ -18103,6 +19216,93 @@
    "firstSeen": "2026-11-04"
   },
   {
+   "id": "c-jonsbo-cc90-cpu-kuhler-dual-tower-130mm-pwm-lufter-segmentan",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Jonsbo CC90 CPU-Kühler, Dual-Tower, 130mm PWM-Lüfter, Segmentanzeige - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/jonsbo-cc90-cpu-kuehler-dual-tower-130mm-pwm-luefter-segmentanzeige-schwarz/CPJB-091.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 69.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/jonsbo-cc90-cpu-kuehler-dual-tower-130mm-pwm-luefter-segmentanzeige-schwarz/CPJB-091.html"
+    }
+   ],
+   "price": 69.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 69.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler jonsbo cc90 cpu kuhler dual tower 130mm pwm lufter segmentanzeige schwarz",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-jonsbo-cc90-cpu-kuhler-dual-tower-130mm-pwm-lufter-segmentan-gbid8",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Jonsbo CC90 CPU-Kühler, Dual-Tower, 130mm PWM-Lüfter, Segmentanzeige - weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/jonsbo-cc90-cpu-kuehler-dual-tower-130mm-pwm-luefter-segmentanzeige-weiss/CPJB-092.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 69.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/jonsbo-cc90-cpu-kuehler-dual-tower-130mm-pwm-luefter-segmentanzeige-weiss/CPJB-092.html"
+    }
+   ],
+   "price": 69.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 69.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler jonsbo cc90 cpu kuhler dual tower 130mm pwm lufter segmentanzeige weiss",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-lian-li-o11-vision-m-pc-gehause-micro-atx-tempered-glass-sch",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Lian Li O11 Vision-M PC-Gehäuse, Micro-ATX, Tempered Glass - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/lian-li-o11-vision-m-pc-gehaeuse-micro-atx-tempered-glass-schwarz/GELI-995.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 69.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/lian-li-o11-vision-m-pc-gehaeuse-micro-atx-tempered-glass-schwarz/GELI-995.html"
+    }
+   ],
+   "price": 69.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 69.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause lian o11 vision micro atx tempered glass schwarz",
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "c-msi-spatium-s270-sata-ssd-240-gb-2-5",
    "cat": "SSDs",
    "sub": "SATA 240 GB",
@@ -18191,6 +19391,35 @@
    "count": 1,
    "tags": "mainboards intel lga1700 h610 asus prime h610m mainboard lga 1700 h610 ddr4 micro atx",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-prime-h610m-k-d4-intel-h610-motherboard-socket-1700-ddr",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1700 H610",
+   "name": "ASUS Prime H610M-K D4, Intel H610 motherboard - Socket 1700, DDR4",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-prime-h610m-k-d4-intel-h610-motherboard-socket-1700-ddr4/MBAS-613.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 71.44,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-prime-h610m-k-d4-intel-h610-motherboard-socket-1700-ddr4/MBAS-613.html"
+    }
+   ],
+   "price": 71.44,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 71.44
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1700 h610 asus prime h610m intel h610 motherboard socket 1700 ddr4",
+   "firstSeen": "2026-11-05"
   },
   {
    "id": "c-gigabyte-aorus-waterforce-ii-240-aio-flussigkeits-cpu-kuhler",
@@ -18963,6 +20192,122 @@
    "firstSeen": "2026-11-01"
   },
   {
+   "id": "c-lian-li-o11-dynamic-mini-v2-pc-gehause-mini-gehause-atx-temp",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Lian Li O11 Dynamic Mini V2 PC-Gehäuse, Mini-Gehäuse, ATX, Tempered Glass - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/lian-li-o11-dynamic-mini-v2-pc-gehaeuse-mini-gehaeuse-atx-tempered-glass-schwarz/GELI-977.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 74.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/lian-li-o11-dynamic-mini-v2-pc-gehaeuse-mini-gehaeuse-atx-tempered-glass-schwarz/GELI-977.html"
+    }
+   ],
+   "price": 74.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 74.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause lian o11 dynamic mini atx tempered glass schwarz",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-lian-li-o11-dynamic-mini-v2-pc-gehause-mini-gehause-atx-temp-8leo9",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Lian Li O11 Dynamic Mini V2 PC-Gehäuse, Mini-Gehäuse, ATX, Tempered Glass - weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/lian-li-o11-dynamic-mini-v2-pc-gehaeuse-mini-gehaeuse-atx-tempered-glass-weiss/GELI-978.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 74.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/lian-li-o11-dynamic-mini-v2-pc-gehaeuse-mini-gehaeuse-atx-tempered-glass-weiss/GELI-978.html"
+    }
+   ],
+   "price": 74.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 74.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause lian o11 dynamic mini atx tempered glass weiss",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-lian-li-o11-vision-m-pc-gehause-micro-atx-tempered-glass-wei",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Lian Li O11 Vision-M PC-Gehäuse, Micro-ATX, Tempered Glass - weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/lian-li-o11-vision-m-pc-gehaeuse-micro-atx-tempered-glass-weiss/GELI-996.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 74.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/lian-li-o11-vision-m-pc-gehaeuse-micro-atx-tempered-glass-weiss/GELI-996.html"
+    }
+   ],
+   "price": 74.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 74.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause lian o11 vision micro atx tempered glass weiss",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-zalman-p10-pc-gehause-mini-tower-matx-rgb-tempered-glass-sch",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Zalman P10 PC-Gehäuse, Mini-Tower, mATX, RGB, Tempered Glass - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/zalman-p10-pc-gehaeuse-mini-tower-matx-rgb-tempered-glass-schwarz/GEZA-116.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 74.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/zalman-p10-pc-gehaeuse-mini-tower-matx-rgb-tempered-glass-schwarz/GEZA-116.html"
+    }
+   ],
+   "price": 74.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 74.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause zalman p10 mini tower matx rgb tempered glass schwarz",
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "c-alphacool-core-ocean-t38-360mm-cpu-digital-aio-wasserkuhlung",
    "cat": "Kühlung",
    "sub": "AiO-Wasserkühlung",
@@ -19260,6 +20605,35 @@
    "count": 1,
    "tags": "mainboards am4 a520 asus prime a520m csm amd a520 mainboard sockel socket am4 ddr4",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asrock-b760m-hdv-m-2-d4-intel-b760-motherboard-socket-1700-d",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1700 B760",
+   "name": "ASRock B760M-HDV/M.2 D4, Intel B760 Motherboard - Socket 1700, DDR4",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asrock-b760m-hdv-m.2-d4-intel-b760-motherboard-socket-1700-ddr4/MBAR-450.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 77.03,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asrock-b760m-hdv-m.2-d4-intel-b760-motherboard-socket-1700-ddr4/MBAR-450.html"
+    }
+   ],
+   "price": 77.03,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 77.03
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1700 b760 asrock b760m hdv intel b760 motherboard socket 1700 ddr4",
+   "firstSeen": "2026-11-05"
   },
   {
    "id": "c-gigabyte-a620m-h-mainboard-sockel-am5-amd-a620-matx-ddr5",
@@ -20033,6 +21407,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asus-prime-a620m-e-csm-amd-a620-motherboard-socket-am5-ddr5",
+   "cat": "Mainboards",
+   "sub": "AM5 A620",
+   "name": "ASUS Prime A620M-E-CSM, AMD A620 motherboard, socket AM5, DDR5",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-prime-a620m-e-csm-amd-a620-motherboard-socket-am5-ddr5/MBAS-712.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 80.75,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-prime-a620m-e-csm-amd-a620-motherboard-socket-am5-ddr5/MBAS-712.html"
+    }
+   ],
+   "price": 80.75,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 80.75
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 a620 asus prime a620m csm amd a620 motherboard socket am5 ddr5",
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "c-enermax-liqmaxflo-420-mm-aio-cpu-wasserkuhlung-argb-schwarz",
    "cat": "Kühlung",
    "sub": "AiO-Wasserkühlung",
@@ -20776,6 +22179,151 @@
    "firstSeen": "2026-11-03"
   },
   {
+   "id": "c-asus-a21-plus-case-mini-tower-micro-atx-rgb-tempered-glass-w",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "ASUS A21 PLUS case, Mini-Tower, Micro-ATX, RGB, Tempered Glass - white",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-a21-plus-case-mini-tower-micro-atx-rgb-tempered-glass-white/GEAS-046.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 84.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-a21-plus-case-mini-tower-micro-atx-rgb-tempered-glass-white/GEAS-046.html"
+    }
+   ],
+   "price": 84.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 84.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause asus a21 plus case mini tower micro atx rgb tempered glass white",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-jonsplus-z20-mesh-pc-gehause-mini-tower-micro-atx-mit-trageg",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Jonsplus Z20 Mesh PC-Gehäuse, Mini Tower, Micro-ATX, mit Tragegriff - weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/jonsplus-z20-mesh-pc-gehaeuse-mini-tower-micro-atx-mit-tragegriff-weiss/GEJP-023.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 84.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/jonsplus-z20-mesh-pc-gehaeuse-mini-tower-micro-atx-mit-tragegriff-weiss/GEJP-023.html"
+    }
+   ],
+   "price": 84.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 84.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause jonsplus z20 mesh mini tower micro atx mit tragegriff weiss",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-jonsplus-z20-mesh-pc-gehause-mini-tower-micro-atx-mit-trageg-gbhtx",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Jonsplus Z20 Mesh PC-Gehäuse, Mini Tower, Micro-ATX, mit Tragegriff - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/jonsplus-z20-mesh-pc-gehaeuse-mini-tower-micro-atx-mit-tragegriff-schwarz/GEJP-024.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 84.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/jonsplus-z20-mesh-pc-gehaeuse-mini-tower-micro-atx-mit-tragegriff-schwarz/GEJP-024.html"
+    }
+   ],
+   "price": 84.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 84.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause jonsplus z20 mesh mini tower micro atx mit tragegriff schwarz",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-lian-li-vector-v150-inf-pc-gehause-mini-tower-matx-tempered-",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Lian Li Vector V150 INF PC-Gehäuse, Mini-Tower, mATX, Tempered Glass, Unendlichkeitsspiegel - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/lian-li-vector-v150-inf-pc-gehaeuse-mini-tower-matx-tempered-glass-unendlichkeitsspiegel-schwarz/GELI-994.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 84.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/lian-li-vector-v150-inf-pc-gehaeuse-mini-tower-matx-tempered-glass-unendlichkeitsspiegel-schwarz/GELI-994.html"
+    }
+   ],
+   "price": 84.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 84.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause lian vector v150 inf mini tower matx tempered glass unendlichkeitsspiegel schwarz",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-zalman-p10-namu-pc-case-mini-tower-matx-tempered-glass-white",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Zalman P10 Namu PC Case, Mini-Tower, mATX, Tempered Glass - White, Wood",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/zalman-p10-namu-pc-case-mini-tower-matx-tempered-glass-white-wood/GEZA-124.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 84.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/zalman-p10-namu-pc-case-mini-tower-matx-tempered-glass-white-wood/GEZA-124.html"
+    }
+   ],
+   "price": 84.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 84.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause zalman p10 namu case mini tower matx tempered glass white wood",
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "c-asus-vp227hf-gaming-led-monitor-55-9-cm-22-21-5-sichtbar-90l",
    "cat": "Monitore",
    "sub": "22\"",
@@ -20999,6 +22547,35 @@
    "count": 1,
    "tags": "netzteile sfx silverstone sst st45sf plus bronze netzteil 450 watt",
    "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asus-a21-plus-case-mini-tower-micro-atx-rgb-tempered-glass-b",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "ASUS A21 PLUS case, Mini-Tower, Micro-ATX, RGB, Tempered Glass - black",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-a21-plus-case-mini-tower-micro-atx-rgb-tempered-glass-black/GEAS-047.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 87.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-a21-plus-case-mini-tower-micro-atx-rgb-tempered-glass-black/GEAS-047.html"
+    }
+   ],
+   "price": 87.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 87.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause asus a21 plus case mini tower micro atx rgb tempered glass black",
+   "firstSeen": "2026-11-05"
   },
   {
    "id": "c-asus-prime-b550m-k-argb-amd-b550-mainboard-sockel-am4",
@@ -22743,6 +24320,64 @@
    "firstSeen": "2026-10-31"
   },
   {
+   "id": "c-gigabyte-h610m-s2h-motherboard-socket-1700-intel-h610-micro-",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1700 H610",
+   "name": "GIGABYTE H610M S2H motherboard, socket 1700, Intel H610, Micro-ATX, DDR5",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/gigabyte-h610m-s2h-motherboard-socket-1700-intel-h610-micro-atx-ddr5/MBGB-556.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 94.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/gigabyte-h610m-s2h-motherboard-socket-1700-intel-h610-micro-atx-ddr5/MBGB-556.html"
+    }
+   ],
+   "price": 94.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 94.9
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1700 h610 gigabyte h610m s2h motherboard socket 1700 intel h610 micro atx ddr5",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-asus-a23-plus-case-mini-tower-micro-atx-rgb-tempered-glass-w",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "ASUS A23 PLUS case, Mini-Tower, Micro-ATX, RGB, Tempered Glass - white",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-a23-plus-case-mini-tower-micro-atx-rgb-tempered-glass-white/GEAS-044.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 94.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-a23-plus-case-mini-tower-micro-atx-rgb-tempered-glass-white/GEAS-044.html"
+    }
+   ],
+   "price": 94.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 94.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause asus a23 plus case mini tower micro atx rgb tempered glass white",
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "c-arctic-liquid-freezer-iii-pro-420-a-rgb-cpu-wasserkuhlung-42",
    "cat": "Kühlung",
    "sub": "AiO-Wasserkühlung",
@@ -24403,6 +26038,93 @@
    "firstSeen": "2026-11-01"
   },
   {
+   "id": "c-asus-a23-plus-case-mini-tower-micro-atx-rgb-tempered-glass-b",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "ASUS A23 PLUS case, Mini-Tower, Micro-ATX, RGB, Tempered Glass - black",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-a23-plus-case-mini-tower-micro-atx-rgb-tempered-glass-black/GEAS-045.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 99.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-a23-plus-case-mini-tower-micro-atx-rgb-tempered-glass-black/GEAS-045.html"
+    }
+   ],
+   "price": 99.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 99.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause asus a23 plus case mini tower micro atx rgb tempered glass black",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-jonsbo-v12-pc-gehause-mini-tower-micro-atx-schwarz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Jonsbo V12 PC-Gehäuse, Mini-Tower, Micro-ATX - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/jonsbo-v12-pc-gehaeuse-mini-tower-micro-atx-schwarz/GEJB-164.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 99.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/jonsbo-v12-pc-gehaeuse-mini-tower-micro-atx-schwarz/GEJB-164.html"
+    }
+   ],
+   "price": 99.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 99.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause jonsbo v12 mini tower micro atx schwarz",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-jonsbo-v12-pc-gehause-mini-tower-micro-atx-weiss",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Jonsbo V12 PC-Gehäuse, Mini-Tower, Micro-ATX - weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/jonsbo-v12-pc-gehaeuse-mini-tower-micro-atx-weiss/GEJB-165.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 99.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/jonsbo-v12-pc-gehaeuse-mini-tower-micro-atx-weiss/GEJB-165.html"
+    }
+   ],
+   "price": 99.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 99.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause jonsbo v12 mini tower micro atx weiss",
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "c-viewsonic-vx27g1-hd-27-gaming-monitor-full-hd-ips-180-hz-1-m",
    "cat": "Monitore",
    "sub": "27\"",
@@ -24863,6 +26585,35 @@
    "count": 1,
    "tags": "monitore 27\" lenovo thinkvision e27 monitor full ips 100 raven black",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-prime-b550-plus-motherboard-socket-am4-amd-b550-atx-ddr",
+   "cat": "Mainboards",
+   "sub": "AM4 B550",
+   "name": "ASUS Prime B550-Plus Motherboard, Socket AM4, AMD B550, ATX, DDR4",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-prime-b550-plus-motherboard-socket-am4-amd-b550-atx-ddr4/MBAS-513.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 102.21,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-prime-b550-plus-motherboard-socket-am4-amd-b550-atx-ddr4/MBAS-513.html"
+    }
+   ],
+   "price": 102.21,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 102.21
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am4 b550 asus prime b550 plus motherboard socket am4 amd atx ddr4",
+   "firstSeen": "2026-11-05"
   },
   {
    "id": "c-msi-spatium-s270-480-gb-ssd-sata-2-5",
@@ -26606,6 +28357,35 @@
    "firstSeen": "2026-11-03"
   },
   {
+   "id": "c-zalman-p30-pc-gehause-mini-tower-matx-tempered-glass-schwarz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Zalman P30 PC-Gehäuse, Mini-Tower, mATX, Tempered Glass - schwarz / weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/zalman-p30-pc-gehaeuse-mini-tower-matx-tempered-glass-schwarz-weiss/GEZA-118.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 109.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/zalman-p30-pc-gehaeuse-mini-tower-matx-tempered-glass-schwarz-weiss/GEZA-118.html"
+    }
+   ],
+   "price": 109.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 109.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause zalman p30 mini tower matx tempered glass schwarz weiss",
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "c-asus-prime-h610m-a-wifi-intel-h610-mainboard-sockel-1700-ddr",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 H610",
@@ -26989,6 +28769,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler corsair icue link xc7 rgb elite cpu kuhler",
    "firstSeen": "2026-10-31"
+  },
+  {
+   "id": "c-silverstone-sst-tx500-g-tfx-netzteil-80-plus-gold-500-watt",
+   "cat": "Netzteile",
+   "sub": "bis 600 W",
+   "name": "SilverStone SST-TX500-G TFX Netzteil, 80 PLUS Gold - 500 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/silverstone-sst-tx500-g-tfx-power-supply-80-plus-gold-500-watt/NEST-165.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 114.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/silverstone-sst-tx500-g-tfx-power-supply-80-plus-gold-500-watt/NEST-165.html"
+    }
+   ],
+   "price": 114.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 114.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile bis 600 w silverstone sst tx500 tfx netzteil plus gold 500 watt",
+   "firstSeen": "2026-11-05"
   },
   {
    "id": "c-asus-va259hga-eyecare-gaming-monitor-62-2-cm-24-5-zoll-schwa",
@@ -30432,6 +32241,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-sapphire-pulse-b850m-wifi-motherboard-socket-am5-amd-b850-ma",
+   "cat": "Mainboards",
+   "sub": "AM5 B850",
+   "name": "Sapphire Pulse B850M WiFi motherboard, Socket AM5, AMD B850, mATX, DDR5",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/sapphire-pulse-b850m-wifi-motherboard-socket-am5-amd-b850-matx-ddr5/MBSP-016.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 126.98,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/sapphire-pulse-b850m-wifi-motherboard-socket-am5-amd-b850-matx-ddr5/MBSP-016.html"
+    }
+   ],
+   "price": 126.98,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 126.98
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 b850 sapphire pulse b850m wifi motherboard socket am5 amd b850 matx ddr5",
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "c-lenovo-legion-r27s-27-full-hd-ips-gaming-monitor-144-hz-schw",
    "cat": "Monitore",
    "sub": "27\"",
@@ -31481,6 +33319,35 @@
    "firstSeen": "2026-11-04"
   },
   {
+   "id": "c-jonsbo-tk-0-pc-case-mini-tower-mini-itx-tempered-glass-wood-",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Jonsbo TK-0 PC Case, Mini-Tower, Mini-ITX, Tempered Glass, Wood – Black",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/jonsbo-tk-0-pc-case-mini-tower-mini-itx-tempered-glass-wood-black/GEJB-155.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 129.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/jonsbo-tk-0-pc-case-mini-tower-mini-itx-tempered-glass-wood-black/GEJB-155.html"
+    }
+   ],
+   "price": 129.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 129.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause jonsbo case mini tower itx tempered glass wood black",
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "c-msi-pro-mp272pmg-68-6-cm-27-led-monitor-ips-fhd-pivot-9s6-3p",
    "cat": "Monitore",
    "sub": "27\"",
@@ -31835,6 +33702,35 @@
    "count": 1,
    "tags": "monitore 23,8\" msi pro mp245pg full ips 100 monitor schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-be-quiet-light-loop-all-in-one-wasserkuhlung-argb-360-mm-sch",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "be quiet! Light Loop All-in-One-Wasserkühlung, ARGB - 360 mm, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/be-quiet-light-loop-all-in-one-wasserkuehlung-argb-360-mm-schwarz/WASE-894.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 132.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/be-quiet-light-loop-all-in-one-wasserkuehlung-argb-360-mm-schwarz/WASE-894.html"
+    }
+   ],
+   "price": 132.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 132.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung quiet light loop all one wasserkuhlung argb 360 schwarz",
+   "firstSeen": "2026-11-05"
   },
   {
    "id": "c-viewsonic-va2708-2k-hd-2-27-ips-qhd-monitor-2560x1440-75-hz-",
@@ -32855,6 +34751,35 @@
    "count": 1,
    "tags": "prozessoren intel lga1700 intel core 14100 ghz raptor lake refresh sockel 1700 boxed",
    "firstSeen": "2026-11-02"
+  },
+  {
+   "id": "c-be-quiet-light-loop-all-in-one-wasserkuhlung-argb-360-mm-wei",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "be quiet! Light Loop All-in-One-Wasserkühlung, ARGB - 360 mm, weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/be-quiet-light-loop-all-in-one-wasserkuehlung-argb-360-mm-weiss/WASE-895.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 137.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/be-quiet-light-loop-all-in-one-wasserkuehlung-argb-360-mm-weiss/WASE-895.html"
+    }
+   ],
+   "price": 137.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 137.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung quiet light loop all one wasserkuhlung argb 360 weiss",
+   "firstSeen": "2026-11-05"
   },
   {
    "id": "c-viewsonic-vg2708a-27-ips-monitor-1920-x-1080-100-hz-schwarz",
@@ -34942,6 +36867,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-msi-b760-gaming-plus-wifi-intel-b760-motherboard-socket-1700",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1700 B760",
+   "name": "MSI B760 Gaming Plus WiFi, Intel B760 motherboard - Socket 1700, DDR4",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/msi-b760-gaming-plus-wifi-intel-b760-motherboard-socket-1700-ddr4/MBMC-580.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 147.15,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/msi-b760-gaming-plus-wifi-intel-b760-motherboard-socket-1700-ddr4/MBMC-580.html"
+    }
+   ],
+   "price": 147.15,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 147.15
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1700 b760 msi b760 gaming plus wifi intel motherboard socket 1700 ddr4",
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "c-asrock-b760m-steel-legend-wifi-intel-b760-mainboard-sockel-1",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 B760",
@@ -35969,6 +37923,64 @@
    "count": 1,
    "tags": "kuhlung luftkuhler noctua d15 cpu kuhler",
    "firstSeen": "2026-11-04"
+  },
+  {
+   "id": "c-jonsbo-t6-pc-case-mini-tower-mini-itx-tempered-glass-wood-bl",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Jonsbo T6 PC Case, Mini-Tower, Mini-ITX, Tempered Glass, Wood – Black",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/jonsbo-t6-pc-case-mini-tower-mini-itx-tempered-glass-wood-black/GEJB-153.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 149.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/jonsbo-t6-pc-case-mini-tower-mini-itx-tempered-glass-wood-black/GEJB-153.html"
+    }
+   ],
+   "price": 149.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 149.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause jonsbo case mini tower itx tempered glass wood black",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-jonsbo-t6-pc-case-mini-tower-mini-itx-tempered-glass-wood-si",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Jonsbo T6 PC Case, Mini-Tower, Mini-ITX, Tempered Glass, Wood – Silver",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/jonsbo-t6-pc-case-mini-tower-mini-itx-tempered-glass-wood-silver/GEJB-154.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 149.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/jonsbo-t6-pc-case-mini-tower-mini-itx-tempered-glass-wood-silver/GEJB-154.html"
+    }
+   ],
+   "price": 149.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 149.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause jonsbo case mini tower itx tempered glass wood silver",
+   "firstSeen": "2026-11-05"
   },
   {
    "id": "c-asus-va27ehf-27-ips-100-hz-full-hd-monitor-schwarz",
@@ -38379,6 +40391,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asrock-b850-pro-rs-wifi-motherboard-socket-am5-amd-b850-atx-",
+   "cat": "Mainboards",
+   "sub": "AM5 B850",
+   "name": "ASROCK B850 Pro RS WiFi motherboard, socket AM5, AMD B850, ATX, DDR5",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asrock-b850-pro-rs-wifi-motherboard-socket-am5-amd-b850-atx-ddr5/MBAR-508.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 160.77,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asrock-b850-pro-rs-wifi-motherboard-socket-am5-amd-b850-atx-ddr5/MBAR-508.html"
+    }
+   ],
+   "price": 160.77,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 160.77
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 b850 asrock b850 pro wifi motherboard socket am5 amd atx ddr5",
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "c-asus-be24eqk-led-monitor-60-5-cm-23-8-1920-x-1080-full-hd-10",
    "cat": "Monitore",
    "sub": "23,8\"",
@@ -39750,6 +41791,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asus-prime-b860-plus-wifi-motherboard-socket-lga-1851-intel-",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1851 B860",
+   "name": "ASUS Prime B860-Plus WiFi Motherboard, Socket LGA 1851, Intel B860, ATX, DDR5",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-prime-b860-plus-wifi-motherboard-socket-lga-1851-intel-b860-atx-ddr5/MBAS-819.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 167.66,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-prime-b860-plus-wifi-motherboard-socket-lga-1851-intel-b860-atx-ddr5/MBAS-819.html"
+    }
+   ],
+   "price": 167.66,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 167.66
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1851 b860 asus prime b860 plus wifi motherboard socket lga 1851 intel atx ddr5",
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "c-fractal-design-meshify-3-rgb-tg-light-pc-gehause-midi-tower-",
    "cat": "Gehäuse",
    "sub": "Gehäuse",
@@ -40432,6 +42502,64 @@
    "count": 1,
    "tags": "gehause jonsbo midi tower matx tempered glass silber",
    "firstSeen": "2026-11-01"
+  },
+  {
+   "id": "c-asus-rog-strix-b550-f-gaming-motherboard-socket-am4-amd-b550",
+   "cat": "Mainboards",
+   "sub": "AM4 B550",
+   "name": "ASUS ROG STRIX B550-F Gaming Motherboard, Socket AM4, AMD B550, ATX, DDR4",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-rog-strix-b550-f-gaming-motherboard-socket-am4-amd-b550-atx-ddr4/MBAS-508.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 169.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-rog-strix-b550-f-gaming-motherboard-socket-am4-amd-b550-atx-ddr4/MBAS-508.html"
+    }
+   ],
+   "price": 169.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 169.9
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am4 b550 asus rog strix b550 gaming motherboard socket am4 amd atx ddr4",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-msi-pro-b760-p-wifi-sockel-lga-1700-intel-b760-atx-ddr4",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1700 B760",
+   "name": "MSI Pro B760-P WiFi, Sockel LGA 1700, Intel B760, ATX -DDR4",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/msi-pro-b760-p-wifi-socket-lga-1700-intel-b760-atx-ddr4/MBMC-529.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 169.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/msi-pro-b760-p-wifi-socket-lga-1700-intel-b760-atx-ddr4/MBMC-529.html"
+    }
+   ],
+   "price": 169.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 169.9
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1700 b760 msi pro b760 wifi sockel lga 1700 intel atx ddr4",
+   "firstSeen": "2026-11-05"
   },
   {
    "id": "c-msi-pro-b850m-p-wifi-mainboard-amd-b850-sockel-am5-matx-ddr5",
@@ -44030,6 +46158,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asrock-z790-livemixer-intel-z790-motherboard-socket-1700-ddr",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1700 Z790",
+   "name": "ASRock Z790 LiveMixer, Intel Z790 motherboard - Socket 1700, DDR5",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asrock-z790-livemixer-intel-z790-motherboard-socket-1700-ddr5/MBAR-418.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 197.72,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asrock-z790-livemixer-intel-z790-motherboard-socket-1700-ddr5/MBAR-418.html"
+    }
+   ],
+   "price": 197.72,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 197.72
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1700 z790 asrock z790 livemixer intel motherboard socket 1700 ddr5",
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "c-kingston-fury-beast-16-gb-kit-2-x-8-gb-ddr4-3600-mt-s-cl17-d",
    "cat": "Arbeitsspeicher",
    "sub": "DDR4 16 GB",
@@ -44581,6 +46738,35 @@
    "count": 1,
    "tags": "kuhlung aio-wasserkuhlung corsair icue link h170i lcd liquid cpu cooler generaluberholt wasserkuhlung",
    "firstSeen": "2026-11-03"
+  },
+  {
+   "id": "c-corsair-icue-5000d-rgb-airflow-midi-tower-tempered-glass-sch",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Corsair iCUE 5000D RGB Airflow Midi-Tower, Tempered Glass - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/corsair-icue-5000d-rgb-airflow-midi-tower-tempered-glass-schwarz/GECS-148.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 199.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/corsair-icue-5000d-rgb-airflow-midi-tower-tempered-glass-schwarz/GECS-148.html"
+    }
+   ],
+   "price": 199.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 199.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause corsair icue 5000d rgb airflow midi tower tempered glass schwarz",
+   "firstSeen": "2026-11-05"
   },
   {
    "id": "c-western-digital-blue-sa510-m-2-ssd-sata-6g-1-tb",
@@ -45904,6 +48090,35 @@
    "count": 1,
    "tags": "ssds sata 512 gb lenovo 00up450 interne ssd 512 sata iii",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-gigabyte-z790-aorus-elite-ax-sockel-lga-1700-intel-z790-atx-",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1700 Z790",
+   "name": "GIGABYTE Z790 Aorus Elite AX, Sockel LGA 1700, Intel Z790, ATX - DDR5",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/gigabyte-z790-aorus-elite-ax-socket-lga-1700-intel-z790-atx-ddr5/MBGB-518.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 212.75,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/gigabyte-z790-aorus-elite-ax-socket-lga-1700-intel-z790-atx-ddr5/MBGB-518.html"
+    }
+   ],
+   "price": 212.75,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 212.75
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1700 z790 gigabyte z790 aorus elite sockel lga 1700 intel atx ddr5",
+   "firstSeen": "2026-11-05"
   },
   {
    "id": "c-intel-core-ultra-5-250kf-plus-prozessor-18-kerne-5-3-ghz-lga",
@@ -47786,6 +50001,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asrock-z890m-riptide-wifi-motherboard-socket-lga-1851-intel-",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1851 Z890",
+   "name": "ASRock Z890M RIPTIDE WiFi motherboard, socket LGA 1851, Intel Z890, Micro-ATX, DDR5",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asrock-z890m-riptide-wifi-motherboard-socket-lga-1851-intel-z890-micro-atx-ddr5/MBAR-503.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 226.11,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asrock-z890m-riptide-wifi-motherboard-socket-lga-1851-intel-z890-micro-atx-ddr5/MBAR-503.html"
+    }
+   ],
+   "price": 226.11,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 226.11
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1851 z890 asrock z890m riptide wifi motherboard socket lga 1851 intel z890 micro atx ddr5",
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "c-kingston-fury-beast-kf436c18bb-16-16-gb-ram-ddr4-3600-mhz-cl",
    "cat": "Arbeitsspeicher",
    "sub": "DDR4 16 GB",
@@ -48762,6 +51006,35 @@
    "count": 1,
    "tags": "ssds pcie 5.0 1 tb patriot viper pv593 ssd pcie 2280",
    "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asus-prime-z890-p-motherboard-socket-lga-1851-intel-z890-atx",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1851 Z890",
+   "name": "ASUS Prime Z890-P motherboard, socket LGA 1851, Intel Z890, ATX, DDR5",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-prime-z890-p-motherboard-socket-lga-1851-intel-z890-atx-ddr5/MBAS-799.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 234.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-prime-z890-p-motherboard-socket-lga-1851-intel-z890-atx-ddr5/MBAS-799.html"
+    }
+   ],
+   "price": 234.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 234.9
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1851 z890 asus prime z890 motherboard socket lga 1851 intel atx ddr5",
+   "firstSeen": "2026-11-05"
   },
   {
    "id": "c-asus-proart-pa278qv-led-monitor-68-47-cm-27-2560-x-1440-wqhd",
@@ -54420,6 +56693,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asus-tuf-gaming-x870-plus-wifi-motherboard-amd-x870-socket-a",
+   "cat": "Mainboards",
+   "sub": "AM5 X870",
+   "name": "ASUS TUF Gaming X870-Plus WiFi Motherboard, AMD X870, Socket AM5, DDR5",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-tuf-gaming-x870-plus-wifi-motherboard-amd-x870-socket-am5-ddr5/MBAS-786.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 299.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-tuf-gaming-x870-plus-wifi-motherboard-amd-x870-socket-am5-ddr5/MBAS-786.html"
+    }
+   ],
+   "price": 299.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 299.9
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 x870 asus tuf gaming x870 plus wifi motherboard amd socket am5 ddr5",
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "c-hp-serie-7-pro-724pn-24-wuxga-ips-monitor-100-hz-schwarz-sil",
    "cat": "Monitore",
    "sub": "24\"",
@@ -54999,6 +57301,35 @@
    "count": 1,
    "tags": "grafikkarten geforce rtx 3050 asus geforce rtx 3050 dual o6g 6144 gddr6",
    "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asrock-x870-riptide-wifi-motherboard-socket-am5-amd-x870-atx",
+   "cat": "Mainboards",
+   "sub": "AM5 X870",
+   "name": "ASRock X870 Riptide WiFi motherboard, Socket AM5, AMD X870, ATX, DDR5",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asrock-x870-riptide-wifi-motherboard-socket-am5-amd-x870-atx-ddr5/MBAR-487.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 309.8,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asrock-x870-riptide-wifi-motherboard-socket-am5-amd-x870-atx-ddr5/MBAR-487.html"
+    }
+   ],
+   "price": 309.8,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 309.8
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 x870 asrock x870 riptide wifi motherboard socket am5 amd atx ddr5",
+   "firstSeen": "2026-11-05"
   },
   {
    "id": "c-inno3d-geforce-rtx-3050-twin-x2-v2-special-6144-mb-gddr6",
@@ -55617,6 +57948,35 @@
    "count": 1,
    "tags": "monitore 27\" iiyama prolite xub2797uhsnp ips monitor schwarz matte",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-gigabyte-x870e-aorus-pro-ice-motherboard-socket-am5-amd-x870",
+   "cat": "Mainboards",
+   "sub": "AM5 X870",
+   "name": "Gigabyte X870E AORUS PRO ICE Motherboard, Socket AM5, AMD X870E, ATX, DDR5",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/gigabyte-x870e-aorus-pro-ice-motherboard-socket-am5-amd-x870e-atx-ddr5/MBGB-618.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 326.45,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/gigabyte-x870e-aorus-pro-ice-motherboard-socket-am5-amd-x870e-atx-ddr5/MBGB-618.html"
+    }
+   ],
+   "price": 326.45,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 326.45
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 x870 gigabyte x870e aorus pro ice motherboard socket am5 amd atx ddr5",
+   "firstSeen": "2026-11-05"
   },
   {
    "id": "c-asus-tuf-gaming-z890-pro-wifi-mainboard-sockel-1851-intel-z8",
@@ -57105,6 +59465,122 @@
    "firstSeen": "2026-11-01"
   },
   {
+   "id": "c-thermal-grizzly-deltamate-cpu-block-mpii-1851-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Thermal Grizzly DeltaMate CPU Block - MPII 1851, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Thermal-Grizzly/DeltaMate-CPU-Block-MPII-1851-CPU-K%C3%BChler/html/product/100207121",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 349.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Thermal-Grizzly/DeltaMate-CPU-Block-MPII-1851-CPU-K%C3%BChler/html/product/100207121"
+    }
+   ],
+   "price": 349.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 349.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler thermal grizzly deltamate cpu block mpii 1851 kuhler",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-thermal-grizzly-deltamate-cpu-block-mpii-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Thermal Grizzly DeltaMate CPU Block - MPII, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Thermal-Grizzly/DeltaMate-CPU-Block-MPII-CPU-K%C3%BChler/html/product/100207120",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 349.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Thermal-Grizzly/DeltaMate-CPU-Block-MPII-CPU-K%C3%BChler/html/product/100207120"
+    }
+   ],
+   "price": 349.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 349.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler thermal grizzly deltamate cpu block mpii kuhler",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-phanteks-evolv-x2-tryx-panorama-se-argb-komplett-wasserkuhlu",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "PHANTEKS Evolv X2 + TRYX PANORAMA SE ARGB Komplett-Wasserkühlung - schwarz, 360mm",
+   "source": "crawler",
+   "url": "https://www.caseking.de/phanteks-evolv-x2-tryx-panorama-se-argb-komplett-wasserkuehlung-schwarz-360mm/GABU-575.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 349.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/phanteks-evolv-x2-tryx-panorama-se-argb-komplett-wasserkuehlung-schwarz-360mm/GABU-575.html"
+    }
+   ],
+   "price": 349.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 349.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung phanteks evolv tryx panorama argb komplett wasserkuhlung schwarz 360mm",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-phanteks-evolv-x2-tryx-panorama-se-argb-komplett-wasserkuhlu-qd93u",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "PHANTEKS Evolv X2 + TRYX PANORAMA SE ARGB Komplett-Wasserkühlung - weiß, 360mm",
+   "source": "crawler",
+   "url": "https://www.caseking.de/phanteks-evolv-x2-tryx-panorama-se-argb-komplett-wasserkuehlung-weiss-360mm/GABU-576.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 349.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/phanteks-evolv-x2-tryx-panorama-se-argb-komplett-wasserkuehlung-weiss-360mm/GABU-576.html"
+    }
+   ],
+   "price": 349.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 349.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung phanteks evolv tryx panorama argb komplett wasserkuhlung weiss 360mm",
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "c-hp-series-7-pro-727pq-27-qhd-ips-black-monitor-120-hz-hdr400",
    "cat": "Monitore",
    "sub": "27\"",
@@ -58272,6 +60748,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-lian-li-o11d-evo-rgb-tryx-panorama-se-argb-komplett-wasserku",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Lian Li O11D EVO RGB + TRYX PANORAMA SE ARGB Komplett-Wasserkühlung - schwarz, 360mm",
+   "source": "crawler",
+   "url": "https://www.caseking.de/lian-li-o11d-evo-rgb-tryx-panorama-se-argb-komplett-wasserkuehlung-schwarz-360mm/GABU-567.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 374.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/lian-li-o11d-evo-rgb-tryx-panorama-se-argb-komplett-wasserkuehlung-schwarz-360mm/GABU-567.html"
+    }
+   ],
+   "price": 374.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 374.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung lian o11d evo rgb tryx panorama argb komplett wasserkuhlung schwarz 360mm",
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "c-dell-32-plus-monitor-s3225qs-4k-uhd-3840x2160-120hz-va-4ms-a",
    "cat": "Monitore",
    "sub": "Monitore",
@@ -58780,6 +61285,35 @@
    "firstSeen": "2026-11-01"
   },
   {
+   "id": "c-gigabyte-x870e-aorus-pro-motherboard-socket-am5-amd-x870e-at",
+   "cat": "Mainboards",
+   "sub": "AM5 X870",
+   "name": "Gigabyte X870E AORUS Pro motherboard, Socket AM5, AMD X870E, ATX, DDR5",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/gigabyte-x870e-aorus-pro-motherboard-socket-am5-amd-x870e-atx-ddr5/MBGB-617.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 379.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/gigabyte-x870e-aorus-pro-motherboard-socket-am5-amd-x870e-atx-ddr5/MBGB-617.html"
+    }
+   ],
+   "price": 379.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 379.9
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 x870 gigabyte x870e aorus pro motherboard socket am5 amd atx ddr5",
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "c-msi-spatium-m461-ssd-pcie-4-0-m-2-typ-2280-2-tb",
    "cat": "SSDs",
    "sub": "PCIe 4.0 2 TB",
@@ -59140,6 +61674,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-lian-li-o11d-evo-rgb-tryx-panorama-se-argb-komplett-wasserku-9i06k",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Lian Li O11D EVO RGB + TRYX PANORAMA SE ARGB Komplett-Wasserkühlung - weiß, 360mm",
+   "source": "crawler",
+   "url": "https://www.caseking.de/lian-li-o11d-evo-rgb-tryx-panorama-se-argb-komplett-wasserkuehlung-weiss-360mm/GABU-568.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 384.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/lian-li-o11d-evo-rgb-tryx-panorama-se-argb-komplett-wasserkuehlung-weiss-360mm/GABU-568.html"
+    }
+   ],
+   "price": 384.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 384.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung lian o11d evo rgb tryx panorama argb komplett wasserkuhlung weiss 360mm",
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "c-aoc-gaming-q27g4zd-27-oled-monitor-2560-x-1440-240-hz-schwar",
    "cat": "Monitore",
    "sub": "27\"",
@@ -59273,6 +61836,64 @@
    "count": 1,
    "tags": "netzteile 1000 w+ quiet dark power pro netzteil plus titanium atx pcie 1300 watt",
    "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-lian-li-o11-vision-compact-tryx-panorama-se-argb-komplett-wa",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Lian Li O11 Vision Compact + TRYX PANORAMA SE ARGB Komplett-Wasserkühlung - schwarz, 360mm",
+   "source": "crawler",
+   "url": "https://www.caseking.de/lian-li-o11-vision-compact-tryx-panorama-se-argb-komplett-wasserkuehlung-schwarz-360mm/GABU-571.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 389.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/lian-li-o11-vision-compact-tryx-panorama-se-argb-komplett-wasserkuehlung-schwarz-360mm/GABU-571.html"
+    }
+   ],
+   "price": 389.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 389.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung lian o11 vision compact tryx panorama argb komplett wasserkuhlung schwarz 360mm",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-lian-li-o11-vision-compact-tryx-panorama-se-argb-komplett-wa-9i06k",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Lian Li O11 Vision Compact + TRYX PANORAMA SE ARGB Komplett-Wasserkühlung - weiß, 360mm",
+   "source": "crawler",
+   "url": "https://www.caseking.de/lian-li-o11-vision-compact-tryx-panorama-se-argb-komplett-wasserkuehlung-weiss-360mm/GABU-572.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 389.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/lian-li-o11-vision-compact-tryx-panorama-se-argb-komplett-wasserkuehlung-weiss-360mm/GABU-572.html"
+    }
+   ],
+   "price": 389.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 389.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung lian o11 vision compact tryx panorama argb komplett wasserkuhlung weiss 360mm",
+   "firstSeen": "2026-11-05"
   },
   {
    "id": "c-asus-zenscreen-mb17ahg-17-3-ips-monitor-1920-x-1080-144-hz-s",
@@ -59979,6 +62600,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asus-rog-maximus-z890-hero-motherboard-socket-lga-1851-intel",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1851 Z890",
+   "name": "ASUS ROG Maximus Z890 Hero motherboard, socket LGA 1851, Intel Z890, ATX, DDR5",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-rog-maximus-z890-hero-motherboard-socket-lga-1851-intel-z890-atx-ddr5/MBAS-791.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 410.54,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-rog-maximus-z890-hero-motherboard-socket-lga-1851-intel-z890-atx-ddr5/MBAS-791.html"
+    }
+   ],
+   "price": 410.54,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 410.54
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1851 z890 asus rog maximus z890 hero motherboard socket lga 1851 intel atx ddr5",
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "c-adata-xpg-mars-980-blade-nvme-ssd-pcie-5-0-m-2-typ-2280-2-tb",
    "cat": "SSDs",
    "sub": "PCIe 5.0 2 TB",
@@ -60419,6 +63069,64 @@
    "count": 1,
    "tags": "grafikkarten geforce rtx 3050 zotac gaming geforce rtx 3050 eco 8192 gddr6",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-phanteks-evolv-x2-tryx-panorama-argb-komplett-wasserkuhlung-",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "PHANTEKS Evolv X2 + TRYX PANORAMA ARGB Komplett-Wasserkühlung - schwarz, 360mm",
+   "source": "crawler",
+   "url": "https://www.caseking.de/phanteks-evolv-x2-tryx-panorama-argb-komplett-wasserkuehlung-schwarz-360mm/GABU-577.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 419.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/phanteks-evolv-x2-tryx-panorama-argb-komplett-wasserkuehlung-schwarz-360mm/GABU-577.html"
+    }
+   ],
+   "price": 419.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 419.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung phanteks evolv tryx panorama argb komplett wasserkuhlung schwarz 360mm",
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-asrock-x870e-taichi-motherboard-socket-am5-amd-x870e-eatx-dd",
+   "cat": "Mainboards",
+   "sub": "AM5 X870",
+   "name": "ASRock X870E Taichi motherboard, Socket AM5, AMD X870E, EATX, DDR5",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asrock-x870e-taichi-motherboard-socket-am5-amd-x870e-eatx-ddr5/MBAR-483.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 420.03,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asrock-x870e-taichi-motherboard-socket-am5-amd-x870e-eatx-ddr5/MBAR-483.html"
+    }
+   ],
+   "price": 420.03,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 420.03
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 x870 asrock x870e taichi motherboard socket am5 amd eatx ddr5",
+   "firstSeen": "2026-11-05"
   },
   {
    "id": "c-crucial-t710-2-tb-ssd-m-2-2280-pcie-5-0-x4-nvme",
@@ -61870,6 +64578,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-lian-li-o11-vision-compact-tryx-panorama-argb-komplett-wasse",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Lian Li O11 Vision Compact + TRYX PANORAMA ARGB Komplett-Wasserkühlung - schwarz, 360mm",
+   "source": "crawler",
+   "url": "https://www.caseking.de/lian-li-o11-vision-compact-tryx-panorama-argb-komplett-wasserkuehlung-schwarz-360mm/GABU-573.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 459.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/lian-li-o11-vision-compact-tryx-panorama-argb-komplett-wasserkuehlung-schwarz-360mm/GABU-573.html"
+    }
+   ],
+   "price": 459.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 459.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung lian o11 vision compact tryx panorama argb komplett wasserkuhlung schwarz 360mm",
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "c-japannext-gaming-monitor-71-1cm-28-ips-4k-uhd",
    "cat": "Monitore",
    "sub": "28\"",
@@ -62590,6 +65327,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-patriot-viper-venom-ddr5-6000-ram-cl36-xmp-3-0-and-expo-32gb",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 32 GB",
+   "name": "Patriot Viper Venom DDR5-6000 RAM, CL36, XMP 3.0 and EXPO - 32GB Dual Kit, black",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/patriot-viper-venom-ddr5-6000-ram-cl36-xmp-3.0-and-expo-32gb-dual-kit-black/MEPM-088.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 487.55,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/patriot-viper-venom-ddr5-6000-ram-cl36-xmp-3.0-and-expo-32gb-dual-kit-black/MEPM-088.html"
+    }
+   ],
+   "price": 487.55,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 487.55
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 32 gb patriot viper venom ddr5 6000 ram cl36 xmp and expo 32gb dual kit black",
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "c-philips-b-line-346b1c-34-curved-uwqhd-monitor-3440-x-1440-bl",
    "cat": "Monitore",
    "sub": "34\"",
@@ -62633,6 +65399,35 @@
    "count": 1,
    "tags": "monitore 34\" philips line 346b1c curved uwqhd monitor 3440 1440 black texture",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-lian-li-o11d-evo-rgb-tryx-panorama-argb-komplett-wasserkuhlu",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Lian Li O11D EVO RGB + TRYX PANORAMA ARGB Komplett-Wasserkühlung - schwarz, 360mm",
+   "source": "crawler",
+   "url": "https://www.caseking.de/lian-li-o11d-evo-rgb-tryx-panorama-argb-komplett-wasserkuehlung-schwarz-360mm/GABU-569.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 489.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/lian-li-o11d-evo-rgb-tryx-panorama-argb-komplett-wasserkuehlung-schwarz-360mm/GABU-569.html"
+    }
+   ],
+   "price": 489.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 489.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung lian o11d evo rgb tryx panorama argb komplett wasserkuhlung schwarz 360mm",
+   "firstSeen": "2026-11-05"
   },
   {
    "id": "c-transcend-msa372m-256-gb-msata-ssd",
@@ -64879,6 +67674,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asrock-trx50-ws-amd-trx50-motherboard-socket-str5-ddr5",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "ASRock TRX50 WS, AMD TRX50 motherboard - Socket sTR5, DDR5",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asrock-trx50-ws-amd-trx50-motherboard-socket-str5-ddr5/MBAR-467.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 565.99,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asrock-trx50-ws-amd-trx50-motherboard-socket-str5-ddr5/MBAR-467.html"
+    }
+   ],
+   "price": 565.99,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 565.99
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards asrock trx50 amd motherboard socket str5 ddr5",
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "c-asus-p13r-e-10g-2t-mainboard-atx-lga1700-intel-c266-10gb-lan",
    "cat": "Mainboards",
    "sub": "Mainboards",
@@ -65667,6 +68491,35 @@
    "count": 1,
    "tags": "grafikkarten geforce rtx 5060 ti palit geforce rtx 5060ti dual 8192 gddr7",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-gainward-geforce-rtx-5060-ti-ghost-grafikkarte-8192-mb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060 Ti",
+   "name": "Gainward GeForce RTX 5060 Ti Ghost Grafikkarte, 8192 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/gainward-geforce-rtx-5060-ti-ghost-graphics-card-8192-mb-gddr7/GCGW-164.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 589,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/gainward-geforce-rtx-5060-ti-ghost-graphics-card-8192-mb-gddr7/GCGW-164.html"
+    }
+   ],
+   "price": 589,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 589
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 ti gainward geforce rtx 5060 ghost grafikkarte 8192 gddr7",
+   "firstSeen": "2026-11-05"
   },
   {
    "id": "c-inno3d-geforce-rtx-5060-ti-twin-x2-oc-8192-mb-gddr7",
@@ -68953,15 +71806,15 @@
    "sub": "Grafikkarten",
    "name": "Intel Arc Pro B50 Grafikkarte, 16384 MB GDDR6",
    "source": "crawler",
-   "url": "https://www.caseking.de/intel-arc-pro-b50-grafikkarte-16384-mb-gddr6/GCIT-004.html",
-   "stand": "2026-11-04T11:58",
+   "url": "https://www.caseking.de/en/intel-arc-pro-b50-graphics-card-16384-mb-gddr6/GCIT-004.html",
+   "stand": "2026-11-05T11:27",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 699,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/intel-arc-pro-b50-grafikkarte-16384-mb-gddr6/GCIT-004.html"
+     "url": "https://www.caseking.de/en/intel-arc-pro-b50-graphics-card-16384-mb-gddr6/GCIT-004.html"
     }
    ],
    "price": 699,
@@ -68982,11 +71835,44 @@
     {
      "d": "2026-11-04",
      "p": 699
+    },
+    {
+     "d": "2026-11-05",
+     "p": 699
     }
    ],
    "count": 1,
    "tags": "grafikkarten intel arc pro b50 grafikkarte 16384 gddr6",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-samsung-990-pro-series-nvme-ssd-pcie-4-0-m-2-typ-2280-4-tb",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 4 TB",
+   "name": "Samsung 990 PRO Series NVMe SSD, PCIe 4.0 M.2 Typ 2280 - 4 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/samsung-990-pro-series-nvme-ssd-pcie-4.0-m.2-type-2280-4-tb/SSSS-198.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 699.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/samsung-990-pro-series-nvme-ssd-pcie-4.0-m.2-type-2280-4-tb/SSSS-198.html"
+    }
+   ],
+   "price": 699.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 699.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 4 tb samsung 990 pro series nvme ssd pcie typ 2280",
+   "firstSeen": "2026-11-05"
   },
   {
    "id": "c-intel-xeon-e-2478-2-8-ghz-prozessor-8-kerne-24-mb-cache",
@@ -69384,6 +72270,35 @@
    "count": 1,
    "tags": "arbeitsspeicher ddr5 24 gb kingston fury renegade rgb ddr5 dimm 4200 mhz cl40 weiss silber",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-silverstone-alta-d1-server-gehause-big-tower-ssi-eeb-schwarz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "SilverStone ALTA D1 Server-Gehäuse, Big-Tower, SSI-EEB - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/silverstone-alta-d1-server-gehaeuse-big-tower-ssi-eeb-schwarz/GESV-485.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 728.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/silverstone-alta-d1-server-gehaeuse-big-tower-ssi-eeb-schwarz/GESV-485.html"
+    }
+   ],
+   "price": 728.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 728.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause silverstone alta server big tower ssi eeb schwarz",
+   "firstSeen": "2026-11-05"
   },
   {
    "id": "c-xfx-swift-radeon-rx-9060-xt-oc-gaming-edition-16384-mb-gddr6",
@@ -69937,6 +72852,35 @@
    "count": 1,
    "tags": "grafikkarten radeon rx 9060 xt xfx mercury radeon 9060 white gaming edition grafikkarte 16384 gddr6",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-xfx-mercury-radeon-rx-9060-xt-oc-gaming-edition-grafikkarte-",
+   "cat": "Grafikkarten",
+   "sub": "Radeon RX 9060 XT",
+   "name": "XFX Mercury Radeon RX 9060 XT OC Gaming Edition Grafikkarte, 16384 MB GDDR6",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/xfx-mercury-radeon-rx-9060-xt-oc-gaming-edition-graphics-card-16384-mb-gddr6/GCXF-171.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 749,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/xfx-mercury-radeon-rx-9060-xt-oc-gaming-edition-graphics-card-16384-mb-gddr6/GCXF-171.html"
+    }
+   ],
+   "price": 749,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 749
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten radeon rx 9060 xt xfx mercury radeon 9060 gaming edition grafikkarte 16384 gddr6",
+   "firstSeen": "2026-11-05"
   },
   {
    "id": "c-asus-rog-strix-xg49vq-gaming-monitor-49-curved-3840-x-1080-1",
@@ -71308,6 +74252,35 @@
    "count": 1,
    "tags": "arbeitsspeicher ddr5 32 gb skill trident neo rgb ddr5 ram 6000 mhz cl30 weiss",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-dual-geforce-rtx-5060-ti-oc-edition-16384-mb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060 Ti",
+   "name": "ASUS Dual GeForce RTX 5060 Ti OC Edition, 16384 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-dual-geforce-rtx-5060-ti-oc-edition-16384-mb-gddr7/GCAS-670.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 829,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-dual-geforce-rtx-5060-ti-oc-edition-16384-mb-gddr7/GCAS-670.html"
+    }
+   ],
+   "price": 829,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 829
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 ti asus dual geforce rtx 5060 edition 16384 gddr7",
+   "firstSeen": "2026-11-05"
   },
   {
    "id": "c-asus-pro-ws-trx50-sage-wifi-amd-trx50-mainboard-sockel-str5-",
@@ -73998,6 +76971,35 @@
    "count": 1,
    "tags": "grafikkarten geforce rtx 5070 zotac gaming geforce rtx 5070 twin edge 12288 gddr7",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-samsung-9100-pro-series-nvme-ssd-pcie-5-0-m-2-typ-2280-mit-k-9l6ie",
+   "cat": "SSDs",
+   "sub": "PCIe 5.0 4 TB",
+   "name": "Samsung 9100 PRO Series NVMe SSD, PCIe 5.0 M.2 Typ 2280, mit Kühlkörper - 4TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/samsung-9100-pro-series-nvme-ssd-pcie-5.0-m.2-typ-2280-mit-kuehlkoerper-4tb/SSSS-212.html",
+   "stand": "2026-11-05T11:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 949.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/samsung-9100-pro-series-nvme-ssd-pcie-5.0-m.2-typ-2280-mit-kuehlkoerper-4tb/SSSS-212.html"
+    }
+   ],
+   "price": 949.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 949.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 5.0 4 tb samsung 9100 pro series nvme ssd pcie typ 2280 mit kuhlkorper 4tb",
+   "firstSeen": "2026-11-05"
   },
   {
    "id": "c-gigabyte-geforce-rtx-5060-ti-windforce-oc-16g-16384-mb-gddr7",
@@ -79276,15 +82278,15 @@
    "sub": "Grafikkarten",
    "name": "Intel Arc Pro B70 Grafikkarte, 32768 MB GDDR6",
    "source": "crawler",
-   "url": "https://www.caseking.de/intel-arc-pro-b70-grafikkarte-32768-mb-gddr6/GCIT-005.html",
-   "stand": "2026-11-04T11:58",
+   "url": "https://www.caseking.de/en/intel-arc-pro-b70-graphics-card-32768-mb-gddr6/GCIT-005.html",
+   "stand": "2026-11-05T11:27",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 2049,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/intel-arc-pro-b70-grafikkarte-32768-mb-gddr6/GCIT-005.html"
+     "url": "https://www.caseking.de/en/intel-arc-pro-b70-graphics-card-32768-mb-gddr6/GCIT-005.html"
     }
    ],
    "price": 2049,
@@ -79304,6 +82306,10 @@
     },
     {
      "d": "2026-11-04",
+     "p": 2049
+    },
+    {
+     "d": "2026-11-05",
      "p": 2049
     }
    ],
