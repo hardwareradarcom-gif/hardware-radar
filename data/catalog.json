@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T10:06:05.168Z",
+ "updated": "2026-11-06T11:26:03.280Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -8127,6 +8127,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-xilence-m404pro-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Xilence M404PRO, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Xilence/M404PRO-CPU-K%C3%BChler/html/product/100220439",
+   "stand": "2026-11-06T11:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 15.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Xilence/M404PRO-CPU-K%C3%BChler/html/product/100220439"
+    }
+   ],
+   "price": 15.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-06",
+     "p": 15.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler xilence m404pro cpu kuhler",
+   "firstSeen": "2026-11-06"
+  },
+  {
    "id": "c-xilence-a404t-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -8693,6 +8722,35 @@
    "firstSeen": "2026-11-05"
   },
   {
+   "id": "c-xilence-m404pro-argb-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Xilence M404PRO.ARGB, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Xilence/M404PRO-ARGB-CPU-K%C3%BChler/html/product/100220436",
+   "stand": "2026-11-06T11:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 17.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Xilence/M404PRO-ARGB-CPU-K%C3%BChler/html/product/100220436"
+    }
+   ],
+   "price": 17.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-06",
+     "p": 17.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler xilence m404pro argb cpu kuhler",
+   "firstSeen": "2026-11-06"
+  },
+  {
    "id": "c-silverstone-sst-nt09-1700-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -8818,6 +8876,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler silverstone nitrogon nt08 115x cpu kuhler pwm 92mm",
    "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-xilence-m404pro-w-argb-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Xilence M404PRO.W.ARGB, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Xilence/M404PRO-W-ARGB-CPU-K%C3%BChler/html/product/100220438",
+   "stand": "2026-11-06T11:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 18.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Xilence/M404PRO-W-ARGB-CPU-K%C3%BChler/html/product/100220438"
+    }
+   ],
+   "price": 18.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-06",
+     "p": 18.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler xilence m404pro argb cpu kuhler",
+   "firstSeen": "2026-11-06"
   },
   {
    "id": "c-akasa-ak-cc7129bp01-low-profile-cpu-kuhler-74mm",
@@ -9406,6 +9493,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler jonsbo cb40 cpu kuhler pwm argb schwarz",
    "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-xilence-performance-a-m704pro-argb-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Xilence Performance A+ M704PRO.ARGB, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Xilence/Performance-Aplus-M704PRO-ARGB-CPU-K%C3%BChler/html/product/1784982",
+   "stand": "2026-11-06T11:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 19.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Xilence/Performance-Aplus-M704PRO-ARGB-CPU-K%C3%BChler/html/product/1784982"
+    }
+   ],
+   "price": 19.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-06",
+     "p": 19.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler xilence performance m704pro argb cpu kuhler",
+   "firstSeen": "2026-11-06"
   },
   {
    "id": "c-silentware-bora-performance-cpu-kuhler",
@@ -10820,6 +10936,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler ocypus delta a40 elite dual fan cpu kuhler",
    "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-thermaltake-astria-200-argb-lighting-cpu-cooler-white-cpu-ku",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Thermaltake ASTRIA 200 ARGB Lighting CPU Cooler - White, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Thermaltake/ASTRIA-200-ARGB-Lighting-CPU-Cooler-White-CPU-K%C3%BChler/html/product/100222846",
+   "stand": "2026-11-06T11:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 26.99,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Thermaltake/ASTRIA-200-ARGB-Lighting-CPU-Cooler-White-CPU-K%C3%BChler/html/product/100222846"
+    }
+   ],
+   "price": 26.99,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-06",
+     "p": 26.99
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler thermaltake astria 200 argb lighting cpu cooler white kuhler",
+   "firstSeen": "2026-11-06"
   },
   {
    "id": "c-endorfy-fera-5-black-cpu-kuhler",
@@ -13443,6 +13588,43 @@
    "firstSeen": "2026-11-02"
   },
   {
+   "id": "c-alpenfohn-brocken-4-max-argb-cpu-kuhler-c5sli",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Alpenföhn Brocken 4 Max ARGB, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-Max-ARGB-CPU-K%C3%BChler/html/product/100224594",
+   "stand": "2026-11-06T11:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 38.99,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-Max-ARGB-CPU-K%C3%BChler/html/product/100224594"
+    }
+   ],
+   "price": 38.99,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 50.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 50.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 38.99
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler alpenfohn brocken max argb cpu kuhler",
+   "firstSeen": "2026-11-04"
+  },
+  {
    "id": "c-jonsbo-hp600-low-profile-cpu-kuhler-120mm-schwarz",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -15301,6 +15483,39 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-arctic-freezer-4u-altra-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "ARCTIC Freezer 4U-Altra, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/ARCTIC/Freezer-4U-Altra-CPU-K%C3%BChler/html/product/100222125",
+   "stand": "2026-11-06T11:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 46.99,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/ARCTIC/Freezer-4U-Altra-CPU-K%C3%BChler/html/product/100222125"
+    }
+   ],
+   "price": 46.99,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 54.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 46.99
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler arctic freezer altra cpu kuhler",
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "c-be-quiet-pure-rock-lp-cpu-kuhler-92mm",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -16292,6 +16507,64 @@
    "firstSeen": "2026-11-05"
   },
   {
+   "id": "c-noctua-nh-l9a-am4-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Noctua NH-L9a-AM4, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Noctua/NH-L9a-AM4-CPU-K%C3%BChler/html/product/1388188",
+   "stand": "2026-11-06T11:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 49.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Noctua/NH-L9a-AM4-CPU-K%C3%BChler/html/product/1388188"
+    }
+   ],
+   "price": 49.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-06",
+     "p": 49.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler noctua l9a am4 cpu kuhler",
+   "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "c-deepcool-an600-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "DeepCool AN600, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/DeepCool/AN600-CPU-K%C3%BChler/html/product/1913873",
+   "stand": "2026-11-06T11:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 49.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/DeepCool/AN600-CPU-K%C3%BChler/html/product/1913873"
+    }
+   ],
+   "price": 49.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-06",
+     "p": 49.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler deepcool an600 cpu kuhler",
+   "firstSeen": "2026-11-06"
+  },
+  {
    "id": "c-sharkoon-a60-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -16323,6 +16596,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler sharkoon a60 cpu kuhler",
    "firstSeen": "2026-11-04"
+  },
+  {
+   "id": "c-deepcool-ak620-zero-dark-zoria-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "DeepCool AK620 ZERO DARK ZORIA, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/DeepCool/AK620-ZERO-DARK-ZORIA-CPU-K%C3%BChler/html/product/100215810",
+   "stand": "2026-11-06T11:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 49.99,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/DeepCool/AK620-ZERO-DARK-ZORIA-CPU-K%C3%BChler/html/product/100215810"
+    }
+   ],
+   "price": 49.99,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-06",
+     "p": 49.99
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler deepcool ak620 zero dark zoria cpu kuhler",
+   "firstSeen": "2026-11-06"
   },
   {
    "id": "c-alpenfohn-brocken-4-max-argb-cpu-kuhler-2x-120mm-schwarz",
@@ -16527,39 +16829,6 @@
      "ship": 7.99,
      "avail": "Auf Lager",
      "url": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-Max-ARGB-CPU-K%C3%BChler/html/product/100070214"
-    }
-   ],
-   "price": 50.9,
-   "shop": "ALTERNATE",
-   "hist": [
-    {
-     "d": "2026-11-04",
-     "p": 50.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 50.9
-    }
-   ],
-   "count": 1,
-   "tags": "kuhlung luftkuhler alpenfohn brocken max argb cpu kuhler",
-   "firstSeen": "2026-11-04"
-  },
-  {
-   "id": "c-alpenfohn-brocken-4-max-argb-cpu-kuhler-c5sli",
-   "cat": "Kühlung",
-   "sub": "Luftkühler",
-   "name": "Alpenföhn Brocken 4 Max ARGB, CPU-Kühler",
-   "source": "crawler",
-   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-Max-ARGB-CPU-K%C3%BChler/html/product/100070211",
-   "stand": "2026-11-05T21:50",
-   "offers": [
-    {
-     "shop": "ALTERNATE",
-     "price": 50.9,
-     "ship": 7.99,
-     "avail": "Auf Lager",
-     "url": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-Max-ARGB-CPU-K%C3%BChler/html/product/100070211"
     }
    ],
    "price": 50.9,
@@ -18701,6 +18970,43 @@
    "firstSeen": "2026-11-06"
   },
   {
+   "id": "c-be-quiet-dark-rock-pro-5-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "be quiet! Dark Rock Pro 5, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/be-quiet/Dark-Rock-Pro-5-CPU-K%C3%BChler/html/product/100217572",
+   "stand": "2026-11-06T11:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 59.99,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/be-quiet/Dark-Rock-Pro-5-CPU-K%C3%BChler/html/product/100217572"
+    }
+   ],
+   "price": 59.99,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 82.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 82.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 59.99
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler quiet dark rock pro cpu kuhler",
+   "firstSeen": "2026-10-31"
+  },
+  {
    "id": "c-sharkoon-a60-rgb-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -19070,6 +19376,43 @@
    "firstSeen": "2026-11-01"
   },
   {
+   "id": "c-be-quiet-dark-rock-6-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "be quiet! Dark Rock 6, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/be-quiet/Dark-Rock-6-CPU-K%C3%BChler/html/product/100222123",
+   "stand": "2026-11-06T11:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 64.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/be-quiet/Dark-Rock-6-CPU-K%C3%BChler/html/product/100222123"
+    }
+   ],
+   "price": 64.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 66.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 66.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 64.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler quiet dark rock cpu kuhler",
+   "firstSeen": "2026-11-04"
+  },
+  {
    "id": "c-jonsbo-n10-pc-gehause-mini-tower-mini-itx-silber",
    "cat": "Gehäuse",
    "sub": "Gehäuse",
@@ -19422,39 +19765,6 @@
    "count": 1,
    "tags": "gehause jonsbo d400 midi tower atx tempered glass weiss",
    "firstSeen": "2026-11-01"
-  },
-  {
-   "id": "c-be-quiet-dark-rock-6-cpu-kuhler",
-   "cat": "Kühlung",
-   "sub": "Luftkühler",
-   "name": "be quiet! Dark Rock 6, CPU-Kühler",
-   "source": "crawler",
-   "url": "https://www.alternate.de/be-quiet/Dark-Rock-6-CPU-K%C3%BChler/html/product/100201143",
-   "stand": "2026-11-05T21:50",
-   "offers": [
-    {
-     "shop": "ALTERNATE",
-     "price": 66.9,
-     "ship": 7.99,
-     "avail": "Auf Lager",
-     "url": "https://www.alternate.de/be-quiet/Dark-Rock-6-CPU-K%C3%BChler/html/product/100201143"
-    }
-   ],
-   "price": 66.9,
-   "shop": "ALTERNATE",
-   "hist": [
-    {
-     "d": "2026-11-04",
-     "p": 66.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 66.9
-    }
-   ],
-   "count": 1,
-   "tags": "kuhlung luftkuhler quiet dark rock cpu kuhler",
-   "firstSeen": "2026-11-04"
   },
   {
    "id": "c-seasonic-core-bc-850-atx3-1-pc-netzteil",
@@ -20312,6 +20622,35 @@
    ],
    "count": 1,
    "tags": "kuhlung aio-wasserkuhlung arctic liquid freezer iii pro 240 rgb aio water cooler 240mm black",
+   "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "c-noctua-nh-l12s-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Noctua NH-L12S, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Noctua/NH-L12S-CPU-K%C3%BChler/html/product/1388186",
+   "stand": "2026-11-06T11:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 69.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Noctua/NH-L12S-CPU-K%C3%BChler/html/product/1388186"
+    }
+   ],
+   "price": 69.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-06",
+     "p": 69.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler noctua l12s cpu kuhler",
    "firstSeen": "2026-11-06"
   },
   {
@@ -21867,6 +22206,63 @@
    "count": 1,
    "tags": "prozessoren gigabyte aorus waterforce 240 prozessor flussigkeitskuhlsystem fur am4 lga1200 lga1700 am5 lga115x socket",
    "firstSeen": "2026-10-31"
+  },
+  {
+   "id": "c-alphacool-core-1-aurora-black-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Alphacool Core 1 Aurora Black, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Alphacool/Core-1-Aurora-Black-CPU-K%C3%BChler/html/product/100218433",
+   "stand": "2026-11-06T11:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 77.99,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Alphacool/Core-1-Aurora-Black-CPU-K%C3%BChler/html/product/100218433"
+    }
+   ],
+   "price": 77.99,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 122.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 77.99
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler alphacool core aurora black cpu kuhler",
+   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-arctic-liquid-freezer-iii-pro-360-argb-aio-water-cooling-360",
@@ -25174,6 +25570,64 @@
    ],
    "count": 1,
    "tags": "kuhlung aio-wasserkuhlung quiet pure loop aio cooler 360",
+   "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "c-corsair-nautilus-ii-240-rs-argb-flussig-cpu-kuhler-wasserkuh",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Corsair NAUTILUS II 240 RS ARGB Flüssig-CPU-Kühler, Wasserkühlung",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Corsair/NAUTILUS-II-240-RS-ARGB-Fl%C3%BCssig-CPU-K%C3%BChler-Wasserk%C3%BChlung/html/product/100216355",
+   "stand": "2026-11-06T11:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 89.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Corsair/NAUTILUS-II-240-RS-ARGB-Fl%C3%BCssig-CPU-K%C3%BChler-Wasserk%C3%BChlung/html/product/100216355"
+    }
+   ],
+   "price": 89.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-06",
+     "p": 89.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung corsair nautilus 240 argb flussig cpu kuhler wasserkuhlung",
+   "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "c-corsair-nautilus-ii-240-rs-argb-flussig-cpu-kuhler-wasserkuh-k9fa3",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Corsair NAUTILUS II 240 RS ARGB Flüssig-CPU-Kühler, Wasserkühlung",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Corsair/NAUTILUS-II-240-RS-ARGB-Fl%C3%BCssig-CPU-K%C3%BChler-Wasserk%C3%BChlung/html/product/100216357",
+   "stand": "2026-11-06T11:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 89.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Corsair/NAUTILUS-II-240-RS-ARGB-Fl%C3%BCssig-CPU-K%C3%BChler-Wasserk%C3%BChlung/html/product/100216357"
+    }
+   ],
+   "price": 89.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-06",
+     "p": 89.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung corsair nautilus 240 argb flussig cpu kuhler wasserkuhlung",
    "firstSeen": "2026-11-06"
   },
   {
@@ -30811,6 +31265,35 @@
    "count": 1,
    "tags": "netzteile bis 600 w silverstone sst tx500 tfx netzteil plus gold 500 watt",
    "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-corsair-nautilus-ii-360-rs-argb-flussig-cpu-kuhler-wasserkuh",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Corsair NAUTILUS II 360 RS ARGB Flüssig-CPU-Kühler, Wasserkühlung",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Corsair/NAUTILUS-II-360-RS-ARGB-Fl%C3%BCssig-CPU-K%C3%BChler-Wasserk%C3%BChlung/html/product/100216361",
+   "stand": "2026-11-06T11:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 114.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Corsair/NAUTILUS-II-360-RS-ARGB-Fl%C3%BCssig-CPU-K%C3%BChler-Wasserk%C3%BChlung/html/product/100216361"
+    }
+   ],
+   "price": 114.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-06",
+     "p": 114.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung corsair nautilus 360 argb flussig cpu kuhler wasserkuhlung",
+   "firstSeen": "2026-11-06"
   },
   {
    "id": "c-kingston-fury-beast-rgb-8-gb-ddr4-3600-cl17-dimm-schwarz",
@@ -39607,6 +40090,35 @@
    "firstSeen": "2026-11-03"
   },
   {
+   "id": "c-corsair-nautilus-ii-360-rs-argb-flussig-cpu-kuhler-wasserkuh-k9g0s",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Corsair NAUTILUS II 360 RS ARGB Flüssig-CPU-Kühler, Wasserkühlung",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Corsair/NAUTILUS-II-360-RS-ARGB-Fl%C3%BCssig-CPU-K%C3%BChler-Wasserk%C3%BChlung/html/product/100216359",
+   "stand": "2026-11-06T11:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 144.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Corsair/NAUTILUS-II-360-RS-ARGB-Fl%C3%BCssig-CPU-K%C3%BChler-Wasserk%C3%BChlung/html/product/100216359"
+    }
+   ],
+   "price": 144.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-06",
+     "p": 144.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung corsair nautilus 360 argb flussig cpu kuhler wasserkuhlung",
+   "firstSeen": "2026-11-06"
+  },
+  {
    "id": "c-hp-series-3-pro-327ph-27-fhd-ips-monitor-100-hz-schwarz",
    "cat": "Monitore",
    "sub": "27\"",
@@ -41249,6 +41761,35 @@
    ],
    "count": 1,
    "tags": "kuhlung aio-wasserkuhlung phanteks glacier one 420d30 drgb aio wasserkuhlung 420mm weiss",
+   "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "c-corsair-nautilus-ii-360-rs-lcd-flussig-cpu-kuhler-wasserkuhl",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Corsair NAUTILUS II 360 RS LCD Flüssig-CPU-Kühler, Wasserkühlung",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Corsair/NAUTILUS-II-360-RS-LCD-Fl%C3%BCssig-CPU-K%C3%BChler-Wasserk%C3%BChlung/html/product/100216144",
+   "stand": "2026-11-06T11:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 149.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Corsair/NAUTILUS-II-360-RS-LCD-Fl%C3%BCssig-CPU-K%C3%BChler-Wasserk%C3%BChlung/html/product/100216144"
+    }
+   ],
+   "price": 149.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-06",
+     "p": 149.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung corsair nautilus 360 lcd flussig cpu kuhler wasserkuhlung",
    "firstSeen": "2026-11-06"
   },
   {
@@ -50619,6 +51160,35 @@
    ],
    "count": 1,
    "tags": "kuhlung aio-wasserkuhlung jonsbo tf3 360scw aio watercooler argb lcd 360mm white",
+   "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "c-tryx-holo-argb-360-aio-wasserkuhlung-360-mm-hologramm-displa",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "TRYX HOLO ARGB 360 AiO-Wasserkühlung, 360 mm, Hologramm-Display, ARGB - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/tryx-holo-argb-360-aio-wasserkuehlung-360-mm-hologramm-display-argb-schwarz/WATX-025.html",
+   "stand": "2026-11-06T11:26",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 199.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/tryx-holo-argb-360-aio-wasserkuehlung-360-mm-hologramm-display-argb-schwarz/WATX-025.html"
+    }
+   ],
+   "price": 199.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-06",
+     "p": 199.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung tryx holo argb 360 aio wasserkuhlung hologramm display schwarz",
    "firstSeen": "2026-11-06"
   },
   {
