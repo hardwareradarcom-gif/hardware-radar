@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T08:19:52.954Z",
+ "updated": "2026-11-06T10:06:05.168Z",
  "products": [
   {
    "id": "r-acer-b246hylbymiprx-23-8-full-hd-1920x1080-display-hdmi-disp",
@@ -705,6 +705,25 @@
     }
    ],
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "r-dell-p2419h-schwarz-23-8-zoll-full-hd-1920x1080-displayport-",
+   "cat": "Monitore",
+   "name": "Dell P2419H schwarz 23,8 Zoll Full HD 1920x1080 DisplayPort HDMI VGA USB Höhenverstellbar",
+   "brand": "Dell",
+   "price": 149,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/dell-p2419h-schwarz-23-8-zoll-full-hd-1920x1080-displayport-hdmi-vga-usb-hohenverstellbar",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-P2419H-1.png?v=1770992417",
+   "hist": [
+    {
+     "d": "2026-11-06",
+     "p": 149
+    }
+   ],
+   "firstSeen": "2026-11-06"
   },
   {
    "id": "r-lenovo-thinkvision-t24d-10-schwarz-24-zoll-wuxga-1920x1200-h",
@@ -3450,6 +3469,53 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "r-lenovo-thinkpad-t580-15-6-zoll-1920x1080-full-hd-intel-core-",
+   "cat": "Laptops",
+   "name": "Lenovo ThinkPad T580 15,6 Zoll 1920x1080 Full HD Intel Core i5 256GB SSD 8GB Windows 11 Pro Webcam",
+   "brand": "Lenovo",
+   "price": 319,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkpad-t580-15-6-zoll-1920x1080-full-hd-intel-core-i5-256gb-ssd-8gb-windows-11-pro-webcam-1",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-T580-2_c681b562-8ba9-44fe-8967-3d9c1388f392.png?v=1770996315",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 339
+    },
+    {
+     "d": "2026-10-31",
+     "p": 339
+    },
+    {
+     "d": "2026-11-01",
+     "p": 339
+    },
+    {
+     "d": "2026-11-02",
+     "p": 339
+    },
+    {
+     "d": "2026-11-03",
+     "p": 339
+    },
+    {
+     "d": "2026-11-04",
+     "p": 339
+    },
+    {
+     "d": "2026-11-05",
+     "p": 339
+    },
+    {
+     "d": "2026-11-06",
+     "p": 319
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "r-lenovo-thinkpad-x13-gen-1-13-3-fhd-display-intel-core-i5-103",
    "cat": "Laptops",
    "name": "Lenovo ThinkPad X13 Gen 1, 13,3\" FHD Display, Intel Core i5 10310U, 16GB RAM, 512GB SSD, Fingerprint Reader, Windows 11 Pro, Office & Media Software Suite",
@@ -4841,53 +4907,6 @@
    "url": "https://it-versand.com/products/hp-elitebook-840-g6-14-zoll-1920x1080-full-hd-intel-core-i5-256gb-ssd-8gb-windows-11-pro-webcam-7",
    "avail": "Auf Lager",
    "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-840-G6-0_1ed6c18b-dcea-4882-9a7d-8ef4b657c9bf.png?v=1770990618",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 339
-    },
-    {
-     "d": "2026-10-31",
-     "p": 339
-    },
-    {
-     "d": "2026-11-01",
-     "p": 339
-    },
-    {
-     "d": "2026-11-02",
-     "p": 339
-    },
-    {
-     "d": "2026-11-03",
-     "p": 339
-    },
-    {
-     "d": "2026-11-04",
-     "p": 339
-    },
-    {
-     "d": "2026-11-05",
-     "p": 339
-    },
-    {
-     "d": "2026-11-06",
-     "p": 339
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-lenovo-thinkpad-t580-15-6-zoll-1920x1080-full-hd-intel-core-",
-   "cat": "Laptops",
-   "name": "Lenovo ThinkPad T580 15,6 Zoll 1920x1080 Full HD Intel Core i5 256GB SSD 8GB Windows 11 Pro Webcam",
-   "brand": "Lenovo",
-   "price": 339,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/lenovo-thinkpad-t580-15-6-zoll-1920x1080-full-hd-intel-core-i5-256gb-ssd-8gb-windows-11-pro-webcam-1",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-T580-2_c681b562-8ba9-44fe-8967-3d9c1388f392.png?v=1770996315",
    "hist": [
     {
      "d": "2026-10-30",
@@ -10942,6 +10961,10 @@
     },
     {
      "d": "2026-11-05",
+     "p": 399
+    },
+    {
+     "d": "2026-11-06",
      "p": 399
     }
    ],
@@ -18118,6 +18141,44 @@
    "firstSeen": "2026-11-03"
   },
   {
+   "id": "r-hp-elitebook-x360-1040-g8-14-touch-display-intel-core-i5-114",
+   "cat": "Laptops",
+   "name": "HP EliteBook x360 1040 G8, 14\" Touch Display, Intel Core i5 1145G7, 16GB RAM, 256GB SSD, Fingerprint Reader, Windows 11 Pro, Office & Media Software Suite",
+   "brand": "HP",
+   "price": 479,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/hp-elitebook-x360-1040-g8-14-zoll-touch-display-intel-core-i5-256gb-ssd-16gb-windows-11-pro-fingerprint-1",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-x360-1040-G8-1.png?v=1770990732",
+   "hist": [
+    {
+     "d": "2026-11-06",
+     "p": 479
+    }
+   ],
+   "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "r-hp-elitebook-840-g8-14-touch-display-intel-core-i5-1145g7-16",
+   "cat": "Laptops",
+   "name": "HP EliteBook 840 G8, 14” Touch Display, Intel Core i5 1145G7, 16GB RAM, 256GB SSD, Fingerprint Reader, Windows 11 Pro, Office & Media Software Suite",
+   "brand": "HP",
+   "price": 479,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/hp-elitebook-840-g8-14-zoll-touch-display-intel-core-i5-256gb-ssd-16gb-windows-11-pro-fingerprinter",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-840-G8-0_0e59ec8e-6204-445f-92f1-a34a9e5c8997.jpg?v=1770990732",
+   "hist": [
+    {
+     "d": "2026-11-06",
+     "p": 479
+    }
+   ],
+   "firstSeen": "2026-11-06"
+  },
+  {
    "id": "r-lenovo-thinkpad-t14-gen-2-14-fhd-display-intel-core-i5-1145g",
    "cat": "Laptops",
    "name": "Lenovo ThinkPad T14 Gen 2, 14\" FHD Display, Intel Core i5 1145G7, 16GB RAM, 256GB SSD, Webcam, Windows 11 Pro, ESET Internet Security",
@@ -19098,6 +19159,41 @@
     },
     {
      "d": "2026-11-05",
+     "p": 499
+    },
+    {
+     "d": "2026-11-06",
+     "p": 499
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "r-hp-elitebook-x360-1040-g8-14-touch-display-intel-core-i5-114",
+   "cat": "Laptops",
+   "name": "HP EliteBook x360 1040 G8, 14\" Touch Display, Intel Core i5 1145G7, 16GB RAM, 512GB SSD, Fingerprint Reader, Windows 11 Pro, Office & Media Software Suite",
+   "brand": "HP",
+   "price": 499,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/hp-elitebook-x360-1040-g8-14-touch-display-intel-core-i5-1145g7-16gb-ram-512gb-ssd-fingerprint-reader-windows-11-pro-office-media-software-suite",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-x360-1040-G8-1.png?v=1770990732",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 499
+    },
+    {
+     "d": "2026-10-31",
+     "p": 499
+    },
+    {
+     "d": "2026-11-01",
+     "p": 499
+    },
+    {
+     "d": "2026-11-02",
      "p": 499
     },
     {
@@ -34707,41 +34803,6 @@
     {
      "d": "2026-11-06",
      "p": 869.01
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-lenovo-thinkstation-p520-intel-xeon-w-2135-64gb-ram-1tb-ssd-",
-   "cat": "PCs & Workstations",
-   "name": "Lenovo ThinkStation P520, Intel Xeon W-2135, 64GB RAM, 1TB SSD, Nvidia Geforce RTX 2080, Windows 11 Pro, Office & Media Software Suite",
-   "brand": "Lenovo",
-   "price": 879.01,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/lenovo-thinkstation-p520-intel-xeon-w-2135-1tb-ssd-64gb-windows-11-pro-nvidia-geforce-rtx-2081",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkStation-P520c-4_3e754241-f259-4b49-b9eb-5823648f0464.png?v=1770990973",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 879.01
-    },
-    {
-     "d": "2026-10-31",
-     "p": 879.01
-    },
-    {
-     "d": "2026-11-01",
-     "p": 879.01
-    },
-    {
-     "d": "2026-11-02",
-     "p": 879.01
-    },
-    {
-     "d": "2026-11-03",
-     "p": 879.01
     }
    ],
    "firstSeen": "2026-10-30"

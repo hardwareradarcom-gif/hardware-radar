@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T08:19:52.954Z",
+ "updated": "2026-11-06T10:06:05.168Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1136,6 +1136,48 @@
    "source": "crawler"
   },
   {
+   "id": "c-western-digital-black-sn770m-2-tb-m-2-pcie-4-0-nvme-ssd",
+   "name": "Western Digital Black SN770M 2 TB M.2 PCIe 4.0 NVMe SSD",
+   "cat": "SSDs",
+   "price": 356.16,
+   "ref": 568.82,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/western-digital-black-sn770m-2-tb-m-2-pcie-4-0-nvme-ssd-100548531/",
+   "url": "https://www.jacob.de/produkt/western-digital-black-sn770m-2-tb-m-2-pcie-4-0-nvme-ssd-100548531/",
+   "note": "37 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 568.82
+    },
+    {
+     "d": "2026-10-31",
+     "p": 568.82
+    },
+    {
+     "d": "2026-11-01",
+     "p": 568.82
+    },
+    {
+     "d": "2026-11-02",
+     "p": 568.82
+    },
+    {
+     "d": "2026-11-03",
+     "p": 568.82
+    },
+    {
+     "d": "2026-11-06",
+     "p": 356.16
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-06",
+   "updated": "2026-11-06",
+   "tags": "ssds pcie 4.0 2 tb western digital black sn770m pcie nvme ssd",
+   "source": "crawler"
+  },
+  {
    "id": "c-msi-mpg-272urxde-qd-oled-27-zoll-gaming-monitor-240hz-qd-ole",
    "name": "MSI MPG 272URXDE QD-OLED, 27 Zoll Gaming Monitor, 240Hz, QD OLED, Adaptive Sync",
    "cat": "Monitore",
@@ -2241,7 +2283,7 @@
    "id": "c-dell-pro-p2726dev-27-qhd-ips-led-monitor-schwarz",
    "name": "Dell Pro P2726DEV 27\" QHD IPS LED-Monitor Schwarz",
    "cat": "Monitore",
-   "price": 329.93,
+   "price": 330.13,
    "ref": 368.6,
    "shop": "JACOB Elektronik GmbH",
    "shopUrl": "https://www.jacob.de/produkt/dell-pro-p2726dev-27-qhd-ips-led-monitor-schwarz-100707194/",
@@ -2267,6 +2309,10 @@
     {
      "d": "2026-11-03",
      "p": 329.93
+    },
+    {
+     "d": "2026-11-06",
+     "p": 330.13
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
