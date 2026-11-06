@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T11:26:03.280Z",
+ "updated": "2026-11-06T11:55:12.616Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1178,56 +1178,6 @@
    "source": "crawler"
   },
   {
-   "id": "c-alphacool-core-1-aurora-black-cpu-kuhler",
-   "name": "Alphacool Core 1 Aurora Black, CPU-Kühler",
-   "cat": "Kühlung",
-   "price": 77.99,
-   "ref": 122.9,
-   "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/Alphacool/Core-1-Aurora-Black-CPU-K%C3%BChler/html/product/100218433",
-   "url": "https://www.alternate.de/Alphacool/Core-1-Aurora-Black-CPU-K%C3%BChler/html/product/100218433",
-   "note": "37 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 122.9
-    },
-    {
-     "d": "2026-10-31",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-01",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-02",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-03",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-04",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 77.99
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-06",
-   "updated": "2026-11-06",
-   "tags": "kuhlung luftkuhler alphacool core aurora black cpu kuhler",
-   "source": "crawler"
-  },
-  {
    "id": "c-msi-mpg-272urxde-qd-oled-27-zoll-gaming-monitor-240hz-qd-ole",
    "name": "MSI MPG 272URXDE QD-OLED, 27 Zoll Gaming Monitor, 240Hz, QD OLED, Adaptive Sync",
    "cat": "Monitore",
@@ -1290,6 +1240,10 @@
     },
     {
      "d": "2026-11-03",
+     "p": 188.38
+    },
+    {
+     "d": "2026-11-06",
      "p": 188.38
     }
    ],
@@ -1988,6 +1942,40 @@
    "source": "crawler"
   },
   {
+   "id": "c-xilence-performance-x-m906-cpu-kuhler",
+   "name": "Xilence Performance X M906, CPU-Kühler",
+   "cat": "Kühlung",
+   "price": 29.99,
+   "ref": 34.99,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/Xilence/Performance-X-M906-CPU-K%C3%BChler/html/product/100210475",
+   "url": "https://www.alternate.de/Xilence/Performance-X-M906-CPU-K%C3%BChler/html/product/100210475",
+   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-03",
+     "p": 34.99
+    },
+    {
+     "d": "2026-11-04",
+     "p": 34.99
+    },
+    {
+     "d": "2026-11-05",
+     "p": 29.99
+    },
+    {
+     "d": "2026-11-06",
+     "p": 29.99
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-06",
+   "updated": "2026-11-06",
+   "tags": "kuhlung luftkuhler xilence performance m906 cpu kuhler",
+   "source": "crawler"
+  },
+  {
    "id": "c-lenovo-legion-r45w-30-45-gebogener-led-monitor-5120-x-1440-1",
    "name": "Lenovo Legion R45w-30 45\" gebogener LED-Monitor 5120 x 1440 165 Hz USB-C Schwarz C",
    "cat": "Monitore",
@@ -2066,8 +2054,8 @@
    "price": 94.9,
    "ref": 109.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/lian-li-edge-gold-850-80-plus-gold-power-supply-pcie-5.1-atx-3.1-850-watts-black/NELI-023.html",
-   "url": "https://www.caseking.de/en/lian-li-edge-gold-850-80-plus-gold-power-supply-pcie-5.1-atx-3.1-850-watts-black/NELI-023.html",
+   "shopUrl": "https://www.caseking.de/lian-li-edge-gold-850-80-plus-gold-netzteil-pcie-5.1-atx-3.1-850-watt-schwarz/NELI-023.html",
+   "url": "https://www.caseking.de/lian-li-edge-gold-850-80-plus-gold-netzteil-pcie-5.1-atx-3.1-850-watt-schwarz/NELI-023.html",
    "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -2088,6 +2076,10 @@
     },
     {
      "d": "2026-11-04",
+     "p": 94.9
+    },
+    {
+     "d": "2026-11-06",
      "p": 94.9
     }
    ],
@@ -2137,44 +2129,6 @@
    "seen": "2026-11-06",
    "updated": "2026-11-06",
    "tags": "grafikkarten geforce rtx 5060 gigabyte geforce rtx 5060 windforce 8192 gddr7",
-   "source": "crawler"
-  },
-  {
-   "id": "c-lenovo-00up642-ssd-m-2-2280-512-gb-pcie-3-0-x4-nvme",
-   "name": "Lenovo 00UP642 SSD M.2 2280 512 GB PCIe 3.0 x4 NVMe",
-   "cat": "SSDs",
-   "price": 200.62,
-   "ref": 231.59,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/lenovo-00up642-ssd-m-2-2280-512-gb-pcie-3-0-x4-nvme-5836562/",
-   "url": "https://www.jacob.de/produkt/lenovo-00up642-ssd-m-2-2280-512-gb-pcie-3-0-x4-nvme-5836562/",
-   "note": "13 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 231.59
-    },
-    {
-     "d": "2026-10-31",
-     "p": 231.59
-    },
-    {
-     "d": "2026-11-01",
-     "p": 231.59
-    },
-    {
-     "d": "2026-11-02",
-     "p": 231.59
-    },
-    {
-     "d": "2026-11-03",
-     "p": 200.62
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-06",
-   "updated": "2026-11-06",
-   "tags": "ssds nvme 512 gb lenovo 00up642 ssd 2280 512 pcie nvme",
    "source": "crawler"
   },
   {
