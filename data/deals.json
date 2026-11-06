@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T06:31:34.569Z",
+ "updated": "2026-11-06T08:19:52.954Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1386,6 +1386,48 @@
    "source": "crawler"
   },
   {
+   "id": "c-hp-p24-g4-23-8-fhd-1920x1080-office-monitor-schwarz",
+   "name": "HP P24 G4 23.8\" FHD 1920x1080 Office Monitor Schwarz",
+   "cat": "Monitore",
+   "price": 101.98,
+   "ref": 129.32,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/hp-p24-g4-23-8-fhd-1920x1080-office-monitor-schwarz-6911405/",
+   "url": "https://www.jacob.de/produkt/hp-p24-g4-23-8-fhd-1920x1080-office-monitor-schwarz-6911405/",
+   "note": "21 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 124.85
+    },
+    {
+     "d": "2026-10-31",
+     "p": 129.32
+    },
+    {
+     "d": "2026-11-01",
+     "p": 129.32
+    },
+    {
+     "d": "2026-11-02",
+     "p": 129.32
+    },
+    {
+     "d": "2026-11-03",
+     "p": 104.22
+    },
+    {
+     "d": "2026-11-06",
+     "p": 101.98
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-06",
+   "updated": "2026-11-06",
+   "tags": "monitore 23,8\" p24 fhd 1920x1080 office monitor schwarz",
+   "source": "crawler"
+  },
+  {
    "id": "c-msi-mag-274qfde-x24-27-zoll-qhd-gaming-monitor-240hz-ips-pan",
    "name": "MSI MAG 274QFDE X24, 27 Zoll QHD Gaming-Monitor, 240Hz, IPS-Panel, Adaptive-Sync",
    "cat": "Monitore",
@@ -1420,41 +1462,57 @@
    "source": "crawler"
   },
   {
-   "id": "c-hp-p24-g4-23-8-fhd-1920x1080-office-monitor-schwarz",
-   "name": "HP P24 G4 23.8\" FHD 1920x1080 Office Monitor Schwarz",
-   "cat": "Monitore",
-   "price": 104.22,
-   "ref": 129.32,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/hp-p24-g4-23-8-fhd-1920x1080-office-monitor-schwarz-6911405/",
-   "url": "https://www.jacob.de/produkt/hp-p24-g4-23-8-fhd-1920x1080-office-monitor-schwarz-6911405/",
+   "id": "c-msi-pro-b850-s-wifi6e-mainboard",
+   "name": "MSI PRO B850-S WIFI6E, Mainboard",
+   "cat": "Mainboards",
+   "price": 131.9,
+   "ref": 162.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/MSI/PRO-B850-S-WIFI6E-Mainboard/html/product/100140537",
+   "url": "https://www.alternate.de/MSI/PRO-B850-S-WIFI6E-Mainboard/html/product/100140537",
    "note": "19 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
+     "d": "2026-10-29",
+     "p": 162.9
+    },
+    {
      "d": "2026-10-30",
-     "p": 124.85
+     "p": 162.9
     },
     {
      "d": "2026-10-31",
-     "p": 129.32
+     "p": 162.9
     },
     {
      "d": "2026-11-01",
-     "p": 129.32
+     "p": 162.9
     },
     {
      "d": "2026-11-02",
-     "p": 129.32
+     "p": 162.9
     },
     {
      "d": "2026-11-03",
-     "p": 104.22
+     "p": 162.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 162.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 162.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 131.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
    "seen": "2026-11-06",
    "updated": "2026-11-06",
-   "tags": "monitore 23,8\" p24 fhd 1920x1080 office monitor schwarz",
+   "tags": "mainboards am5 b850 msi pro b850 wifi6e mainboard",
    "source": "crawler"
   },
   {
@@ -1976,6 +2034,10 @@
     },
     {
      "d": "2026-11-04",
+     "p": 459
+    },
+    {
+     "d": "2026-11-06",
      "p": 459
     }
    ],
