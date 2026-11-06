@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T15:53:36.913Z",
+ "updated": "2026-11-06T17:24:13.702Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -3380,7 +3380,7 @@
    "name": "ARCTIC Freezer 36",
    "url": "https://geizhals.de/3144218",
    "source": "Geizhals",
-   "stand": "2026-11-06T10:06",
+   "stand": "2026-11-06T17:24",
    "offers": [
     {
      "shop": "Mindfactory",
@@ -3416,10 +3416,10 @@
     },
     {
      "shop": "ALTERNATE",
-     "price": 26.9,
+     "price": 22.99,
      "ship": 7.99,
      "avail": "Auf Lager",
-     "url": "https://www.alternate.de/ARCTIC/Freezer-36-CPU-K%C3%BChler/html/product/100059506",
+     "url": "https://www.alternate.de/ARCTIC/Freezer-36-CPU-K%C3%BChler/html/product/100228826",
      "crawler": true
     },
     {
@@ -10970,35 +10970,6 @@
    "firstSeen": "2026-11-05"
   },
   {
-   "id": "c-thermaltake-astria-200-argb-lighting-cpu-cooler-white-cpu-ku",
-   "cat": "Kühlung",
-   "sub": "Luftkühler",
-   "name": "Thermaltake ASTRIA 200 ARGB Lighting CPU Cooler - White, CPU-Kühler",
-   "source": "crawler",
-   "url": "https://www.alternate.de/Thermaltake/ASTRIA-200-ARGB-Lighting-CPU-Cooler-White-CPU-K%C3%BChler/html/product/100222846",
-   "stand": "2026-11-06T11:26",
-   "offers": [
-    {
-     "shop": "ALTERNATE",
-     "price": 26.99,
-     "ship": 7.99,
-     "avail": "Auf Lager",
-     "url": "https://www.alternate.de/Thermaltake/ASTRIA-200-ARGB-Lighting-CPU-Cooler-White-CPU-K%C3%BChler/html/product/100222846"
-    }
-   ],
-   "price": 26.99,
-   "shop": "ALTERNATE",
-   "hist": [
-    {
-     "d": "2026-11-06",
-     "p": 26.99
-    }
-   ],
-   "count": 1,
-   "tags": "kuhlung luftkuhler thermaltake astria 200 argb lighting cpu cooler white kuhler",
-   "firstSeen": "2026-11-06"
-  },
-  {
    "id": "c-endorfy-fera-5-black-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -13277,6 +13248,35 @@
    "firstSeen": "2026-11-03"
   },
   {
+   "id": "c-thermaltake-astria-200-argb-lighting-cpu-cooler-white-cpu-ku",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Thermaltake ASTRIA 200 ARGB Lighting CPU Cooler - White, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Thermaltake/ASTRIA-200-ARGB-Lighting-CPU-Cooler-White-CPU-K%C3%BChler/html/product/100091951",
+   "stand": "2026-11-06T17:24",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 35.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Thermaltake/ASTRIA-200-ARGB-Lighting-CPU-Cooler-White-CPU-K%C3%BChler/html/product/100091951"
+    }
+   ],
+   "price": 35.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-06",
+     "p": 26.99
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler thermaltake astria 200 argb lighting cpu cooler white kuhler",
+   "firstSeen": "2026-11-06"
+  },
+  {
    "id": "c-alpenfohn-brocken-4-argb-cpu-kuhler-120mm-weiss",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -13702,6 +13702,64 @@
    "count": 1,
    "tags": "kuhlung luftkuhler quiet pure rock cpu cooler 120mm black",
    "firstSeen": "2026-11-02"
+  },
+  {
+   "id": "c-deepcool-an600-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "DeepCool AN600, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/DeepCool/AN600-CPU-K%C3%BChler/html/product/100225634",
+   "stand": "2026-11-06T17:24",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 37.99,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/DeepCool/AN600-CPU-K%C3%BChler/html/product/100225634"
+    }
+   ],
+   "price": 37.99,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-06",
+     "p": 37.99
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler deepcool an600 cpu kuhler",
+   "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "c-noctua-nh-l9i-17xx-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Noctua NH-L9i-17xx, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Noctua/NH-L9i-17xx-CPU-K%C3%BChler/html/product/100225618",
+   "stand": "2026-11-06T17:24",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 37.99,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Noctua/NH-L9i-17xx-CPU-K%C3%BChler/html/product/100225618"
+    }
+   ],
+   "price": 37.99,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-06",
+     "p": 37.99
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler noctua l9i 17xx cpu kuhler",
+   "firstSeen": "2026-11-06"
   },
   {
    "id": "c-alpenfohn-brocken-4-max-argb-cpu-kuhler-c5sli",
@@ -15480,6 +15538,35 @@
    "firstSeen": "2026-11-05"
   },
   {
+   "id": "c-thermaltake-astria-400-argb-lighting-cpu-cooler-white-cpu-ku",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Thermaltake ASTRIA 400 ARGB Lighting CPU Cooler - White, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Thermaltake/ASTRIA-400-ARGB-Lighting-CPU-Cooler-White-CPU-K%C3%BChler/html/product/100091955",
+   "stand": "2026-11-06T17:24",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 44.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Thermaltake/ASTRIA-400-ARGB-Lighting-CPU-Cooler-White-CPU-K%C3%BChler/html/product/100091955"
+    }
+   ],
+   "price": 44.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-06",
+     "p": 44.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler thermaltake astria 400 argb lighting cpu cooler white kuhler",
+   "firstSeen": "2026-11-06"
+  },
+  {
    "id": "c-silentware-titan-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -16656,35 +16743,6 @@
    ],
    "count": 1,
    "tags": "kuhlung luftkuhler noctua l9a am4 cpu kuhler",
-   "firstSeen": "2026-11-06"
-  },
-  {
-   "id": "c-deepcool-an600-cpu-kuhler",
-   "cat": "Kühlung",
-   "sub": "Luftkühler",
-   "name": "DeepCool AN600, CPU-Kühler",
-   "source": "crawler",
-   "url": "https://www.alternate.de/DeepCool/AN600-CPU-K%C3%BChler/html/product/1913873",
-   "stand": "2026-11-06T11:26",
-   "offers": [
-    {
-     "shop": "ALTERNATE",
-     "price": 49.9,
-     "ship": 7.99,
-     "avail": "Auf Lager",
-     "url": "https://www.alternate.de/DeepCool/AN600-CPU-K%C3%BChler/html/product/1913873"
-    }
-   ],
-   "price": 49.9,
-   "shop": "ALTERNATE",
-   "hist": [
-    {
-     "d": "2026-11-06",
-     "p": 49.9
-    }
-   ],
-   "count": 1,
-   "tags": "kuhlung luftkuhler deepcool an600 cpu kuhler",
    "firstSeen": "2026-11-06"
   },
   {
@@ -20041,6 +20099,35 @@
    "count": 1,
    "tags": "mainboards intel lga1700 h610 gigabyte h610m ddr4 motherboard socket 1700 intel h610 micro atx",
    "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-thermaltake-astria-600-argb-lighting-cpu-cooler-white-cpu-ku",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Thermaltake ASTRIA 600 ARGB Lighting CPU Cooler - White, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Thermaltake/ASTRIA-600-ARGB-Lighting-CPU-Cooler-White-CPU-K%C3%BChler/html/product/100091956",
+   "stand": "2026-11-06T17:24",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 67.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Thermaltake/ASTRIA-600-ARGB-Lighting-CPU-Cooler-White-CPU-K%C3%BChler/html/product/100091956"
+    }
+   ],
+   "price": 67.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-06",
+     "p": 67.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler thermaltake astria 600 argb lighting cpu cooler white kuhler",
+   "firstSeen": "2026-11-06"
   },
   {
    "id": "c-koorui-e2212f-21-45-monitor-full-hd-100-hz-schwarz",
@@ -28817,6 +28904,35 @@
    "firstSeen": "2026-11-06"
   },
   {
+   "id": "c-thermal-grizzly-mycro-pro-stainless-steel-intel-1700-1851-cp",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Thermal Grizzly Mycro Pro Stainless Steel Intel 1700 1851, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Thermal-Grizzly/Mycro-Pro-Stainless-Steel-Intel-1700-1851-CPU-K%C3%BChler/html/product/100223314",
+   "stand": "2026-11-06T17:24",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 99.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Thermal-Grizzly/Mycro-Pro-Stainless-Steel-Intel-1700-1851-CPU-K%C3%BChler/html/product/100223314"
+    }
+   ],
+   "price": 99.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-06",
+     "p": 99.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler thermal grizzly mycro pro stainless steel intel 1700 1851 cpu kuhler",
+   "firstSeen": "2026-11-06"
+  },
+  {
    "id": "c-viewsonic-vx27g1-hd-27-gaming-monitor-full-hd-ips-180-hz-1-m",
    "cat": "Monitore",
    "sub": "27\"",
@@ -31277,6 +31393,35 @@
    "firstSeen": "2026-11-06"
   },
   {
+   "id": "c-noctua-nh-d15-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Noctua NH-D15, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Noctua/NH-D15-CPU-K%C3%BChler/html/product/1136477",
+   "stand": "2026-11-06T17:24",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 109.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Noctua/NH-D15-CPU-K%C3%BChler/html/product/1136477"
+    }
+   ],
+   "price": 109.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-06",
+     "p": 109.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler noctua d15 cpu kuhler",
+   "firstSeen": "2026-11-06"
+  },
+  {
    "id": "c-asus-prime-h610m-a-wifi-intel-h610-mainboard-sockel-1700-ddr",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 H610",
@@ -31692,6 +31837,35 @@
    ],
    "count": 1,
    "tags": "kuhlung aio-wasserkuhlung corsair nautilus 360 argb flussig cpu kuhler wasserkuhlung",
+   "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "c-deepcool-assassin-iv-vc-vision-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "DeepCool ASSASSIN IV VC VISION, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/DeepCool/ASSASSIN-IV-VC-VISION-CPU-K%C3%BChler/html/product/100092586",
+   "stand": "2026-11-06T17:24",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 114.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/DeepCool/ASSASSIN-IV-VC-VISION-CPU-K%C3%BChler/html/product/100092586"
+    }
+   ],
+   "price": 114.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-06",
+     "p": 114.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler deepcool assassin vision cpu kuhler",
    "firstSeen": "2026-11-06"
   },
   {
@@ -36871,6 +37045,35 @@
    ],
    "count": 1,
    "tags": "kuhlung aio-wasserkuhlung phanteks glacier one 360m25 lcd aio wasserkuhlung zoll display 360mm weiss",
+   "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "c-noctua-nh-u12a-chromax-black-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Noctua NH-U12A chromax.black, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Noctua/NH-U12A-chromax-black-CPU-K%C3%BChler/html/product/1790140",
+   "stand": "2026-11-06T17:24",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 129.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Noctua/NH-U12A-chromax-black-CPU-K%C3%BChler/html/product/1790140"
+    }
+   ],
+   "price": 129.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-06",
+     "p": 129.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler noctua u12a chromax black cpu kuhler",
    "firstSeen": "2026-11-06"
   },
   {
