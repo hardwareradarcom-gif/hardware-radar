@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-06T11:55:12.616Z",
+ "updated": "2026-11-06T14:19:55.044Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1178,6 +1178,40 @@
    "source": "crawler"
   },
   {
+   "id": "c-jonsbo-tk-2-2-0-midi-tower-tempered-glass-weiss",
+   "name": "Jonsbo TK-2 2.0 Midi-Tower, Tempered Glass - weiß",
+   "cat": "Gehäuse",
+   "price": 99.9,
+   "ref": 149.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/jonsbo-tk-2-2.0-midi-tower-tempered-glass-weiss/GEJB-142.html",
+   "url": "https://www.caseking.de/jonsbo-tk-2-2.0-midi-tower-tempered-glass-weiss/GEJB-142.html",
+   "note": "33 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-01",
+     "p": 149.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 149.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 149.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 99.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-06",
+   "updated": "2026-11-06",
+   "tags": "gehause jonsbo midi tower tempered glass weiss",
+   "source": "crawler"
+  },
+  {
    "id": "c-msi-mpg-272urxde-qd-oled-27-zoll-gaming-monitor-240hz-qd-ole",
    "name": "MSI MPG 272URXDE QD-OLED, 27 Zoll Gaming Monitor, 240Hz, QD OLED, Adaptive Sync",
    "cat": "Monitore",
@@ -1351,6 +1385,10 @@
     {
      "d": "2026-11-04",
      "p": 59.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 59.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -1380,6 +1418,10 @@
     },
     {
      "d": "2026-11-04",
+     "p": 59.9
+    },
+    {
+     "d": "2026-11-06",
      "p": 59.9
     }
    ],
@@ -2054,8 +2096,8 @@
    "price": 94.9,
    "ref": 109.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/lian-li-edge-gold-850-80-plus-gold-netzteil-pcie-5.1-atx-3.1-850-watt-schwarz/NELI-023.html",
-   "url": "https://www.caseking.de/lian-li-edge-gold-850-80-plus-gold-netzteil-pcie-5.1-atx-3.1-850-watt-schwarz/NELI-023.html",
+   "shopUrl": "https://www.caseking.de/en/lian-li-edge-gold-850-80-plus-gold-power-supply-pcie-5.1-atx-3.1-850-watts-black/NELI-023.html",
+   "url": "https://www.caseking.de/en/lian-li-edge-gold-850-80-plus-gold-power-supply-pcie-5.1-atx-3.1-850-watts-black/NELI-023.html",
    "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -2323,6 +2365,48 @@
    "seen": "2026-11-06",
    "updated": "2026-11-06",
    "tags": "monitore 27\" dell pro p2726dev qhd ips led monitor schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-g-skill-trident-z5-32-gb-ram-2x16-gb-ddr5-6400-mt-s-cl32-sch",
+   "name": "G.Skill Trident Z5 32 GB RAM 2x16 GB DDR5 6400 MT/s CL32 Schwarz",
+   "cat": "Arbeitsspeicher",
+   "price": 789.03,
+   "ref": 879.61,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/g-skill-trident-z5-32-gb-ram-2x16-gb-ddr5-6400-mt-s-cl32-schwarz-7545472/",
+   "url": "https://www.jacob.de/produkt/g-skill-trident-z5-32-gb-ram-2x16-gb-ddr5-6400-mt-s-cl32-schwarz-7545472/",
+   "note": "10 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 879.91
+    },
+    {
+     "d": "2026-10-31",
+     "p": 879.74
+    },
+    {
+     "d": "2026-11-01",
+     "p": 879.61
+    },
+    {
+     "d": "2026-11-02",
+     "p": 879.48
+    },
+    {
+     "d": "2026-11-03",
+     "p": 867.4
+    },
+    {
+     "d": "2026-11-06",
+     "p": 789.03
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-06",
+   "updated": "2026-11-06",
+   "tags": "arbeitsspeicher ddr5 32 gb skill trident ram 2x16 ddr5 6400 cl32 schwarz",
    "source": "crawler"
   }
  ],
