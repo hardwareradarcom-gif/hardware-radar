@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T15:42:05.949Z",
+ "updated": "2026-11-07T17:11:41.560Z",
  "products": [
   {
    "id": "r-acer-b246hylbymiprx-23-8-full-hd-1920x1080-display-hdmi-disp",
@@ -15390,45 +15390,6 @@
     },
     {
      "d": "2026-11-07",
-     "p": 449
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-dell-latitude-7420-14-zoll-touch-display-intel-core-i5-512gb",
-   "cat": "Laptops",
-   "name": "Dell Latitude 7420 14 Zoll Touch Display Intel Core i5 512GB SSD 16GB Windows 11 Pro Fingerprint",
-   "brand": "Dell",
-   "price": 449,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/dell-latitude-7420-14-zoll-touch-display-intel-core-i5-512gb-ssd-16gb-windows-11-pro-fingerprint",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Latitude-7420-0_b0fe0ab4-25d8-47ba-952f-20a6606b64df.jpg?v=1770990611",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 449
-    },
-    {
-     "d": "2026-10-31",
-     "p": 449
-    },
-    {
-     "d": "2026-11-01",
-     "p": 449
-    },
-    {
-     "d": "2026-11-02",
-     "p": 449
-    },
-    {
-     "d": "2026-11-03",
-     "p": 449
-    },
-    {
-     "d": "2026-11-04",
      "p": 449
     }
    ],
@@ -36448,45 +36409,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "r-lenovo-thinkstation-p520-intel-xeon-w-2135-64gb-ram-1tb-ssd-",
-   "cat": "PCs & Workstations",
-   "name": "Lenovo ThinkStation P520, Intel Xeon W-2135, 64GB RAM, 1TB SSD, Nvidia Geforce RTX 2080, Windows 11 Pro, Office & Media Software Suite",
-   "brand": "Lenovo",
-   "price": 859,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/lenovo-thinkstation-p520-intel-xeon-w-2135-1tb-ssd-64gb-windows-11-pro-nvidia-geforce-rtx-2080",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkStation-P520c-4_3e754241-f259-4b49-b9eb-5823648f0464.png?v=1770990973",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 859
-    },
-    {
-     "d": "2026-10-31",
-     "p": 859
-    },
-    {
-     "d": "2026-11-01",
-     "p": 859
-    },
-    {
-     "d": "2026-11-02",
-     "p": 859
-    },
-    {
-     "d": "2026-11-03",
-     "p": 859
-    },
-    {
-     "d": "2026-11-04",
-     "p": 859
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "r-lenovo-thinkpad-x13-yoga-gen-2-13-3-zoll-touch-display-intel",
    "cat": "Laptops",
    "name": "Lenovo ThinkPad X13 Yoga Gen 2 13,3 Zoll Touch Display Intel Core i7 1TB SSD 16GB Windows 11 Pro LTE Fingerprint",
@@ -36803,6 +36725,25 @@
    "firstSeen": "2026-11-04"
   },
   {
+   "id": "r-dell-latitude-5430-rugged-14-touch-display-intel-core-i5-114",
+   "cat": "Laptops",
+   "name": "Dell Latitude 5430 Rugged, 14” Touch Display, Intel Core i5 1145G7, 16GB RAM, 512GB SSD, Stift, Fingerprint Reader, LTE 4G, Windows 11 Pro, ESET Internet Security",
+   "brand": "Dell",
+   "price": 919,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/dell-latitude-5430-rugged-14-touch-display-intel-core-i5-1145g7-16gb-ram-512gb-ssd-stift-fingerprint-reader-lte-4g-windows-11-pro-eset-internet-security",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Latitude-5430-Rugged-1.jpg?v=1794062920",
+   "hist": [
+    {
+     "d": "2026-11-07",
+     "p": 919
+    }
+   ],
+   "firstSeen": "2026-11-07"
+  },
+  {
    "id": "r-lenovo-thinkpad-p15-gen-2-15-6-zoll-1920x1080-full-hd-intel-",
    "cat": "Laptops",
    "name": "Lenovo ThinkPad P15 Gen 2 15,6 Zoll 1920x1080 Full HD Intel Core i7 512GB SSD 32GB Windows 11 Pro Nvidia T1200",
@@ -36852,6 +36793,25 @@
     }
    ],
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "r-dell-latitude-5430-rugged-14-touch-display-intel-core-i5-114",
+   "cat": "Laptops",
+   "name": "Dell Latitude 5430 Rugged, 14” Touch Display, Intel Core i5 1145G7, 16GB RAM, 512GB SSD, Stift, Fingerprint Reader, LTE 4G, Windows 11 Pro, ESET Internet Security",
+   "brand": "Dell",
+   "price": 999.01,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/dell-latitude-5430-rugged-14-touch-display-intel-core-i5-1145g7-16gb-ram-512gb-ssd-stift-fingerprint-reader-lte-4g-windows-11-pro-eset-internet-security-1",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Latitude-5430-Rugged-1.jpg?v=1794062920",
+   "hist": [
+    {
+     "d": "2026-11-07",
+     "p": 999.01
+    }
+   ],
+   "firstSeen": "2026-11-07"
   },
   {
    "id": "r-lenovo-thinkpad-t14-gen-4-14-wuxga-display-intel-core-i5-134",
