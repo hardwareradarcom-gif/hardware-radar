@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T11:13:38.749Z",
+ "updated": "2026-11-07T11:43:49.014Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1182,6 +1182,60 @@
    "source": "crawler"
   },
   {
+   "id": "c-alphacool-core-1-aurora-black-cpu-kuhler",
+   "name": "Alphacool Core 1 Aurora Black, CPU-Kühler",
+   "cat": "Kühlung",
+   "price": 77.99,
+   "ref": 122.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/Alphacool/Core-1-Aurora-Black-CPU-K%C3%BChler/html/product/100218433",
+   "url": "https://www.alternate.de/Alphacool/Core-1-Aurora-Black-CPU-K%C3%BChler/html/product/100218433",
+   "note": "37 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 122.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 77.99
+    },
+    {
+     "d": "2026-11-07",
+     "p": 77.99
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-07",
+   "updated": "2026-11-07",
+   "tags": "kuhlung luftkuhler alphacool core aurora black cpu kuhler",
+   "source": "crawler"
+  },
+  {
    "id": "c-jonsbo-tk-2-2-0-midi-tower-tempered-glass-weiss",
    "name": "Jonsbo TK-2 2.0 Midi-Tower, Tempered Glass - weiß",
    "cat": "Gehäuse",
@@ -1302,8 +1356,8 @@
    "price": 59.99,
    "ref": 82.9,
    "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/be-quiet/Dark-Rock-Pro-5-CPU-K%C3%BChler/html/product/100217572",
-   "url": "https://www.alternate.de/be-quiet/Dark-Rock-Pro-5-CPU-K%C3%BChler/html/product/100217572",
+   "shopUrl": "https://www.alternate.de/be-quiet/Dark-Rock-Pro-5-CPU-K%C3%BChler/html/product/100218106",
+   "url": "https://www.alternate.de/be-quiet/Dark-Rock-Pro-5-CPU-K%C3%BChler/html/product/100218106",
    "note": "28 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -1316,6 +1370,10 @@
     },
     {
      "d": "2026-11-06",
+     "p": 59.99
+    },
+    {
+     "d": "2026-11-07",
      "p": 59.99
     }
    ],
@@ -1407,6 +1465,48 @@
    "seen": "2026-11-07",
    "updated": "2026-11-07",
    "tags": "arbeitsspeicher ddr4 16 gb kingston fury renegade ddr4 ram 3600 mhz cl16 schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-msi-pro-mp165de-e6-16-full-hd-ips-monitor-schwarz",
+   "name": "MSI PRO MP165DE E6 16\" Full HD IPS Monitor Schwarz",
+   "cat": "Monitore",
+   "price": 92.94,
+   "ref": 118.92,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/msi-pro-mp165de-e6-16-full-hd-ips-monitor-schwarz-100609131/",
+   "url": "https://www.jacob.de/produkt/msi-pro-mp165de-e6-16-full-hd-ips-monitor-schwarz-100609131/",
+   "note": "22 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 118.92
+    },
+    {
+     "d": "2026-10-31",
+     "p": 118.92
+    },
+    {
+     "d": "2026-11-01",
+     "p": 118.92
+    },
+    {
+     "d": "2026-11-02",
+     "p": 118.92
+    },
+    {
+     "d": "2026-11-04",
+     "p": 118.92
+    },
+    {
+     "d": "2026-11-07",
+     "p": 92.94
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-07",
+   "updated": "2026-11-07",
+   "tags": "monitore 16\" msi pro mp165de full ips monitor schwarz",
    "source": "crawler"
   },
   {
