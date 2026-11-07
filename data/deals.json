@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T19:45:06.741Z",
+ "updated": "2026-11-07T21:40:59.908Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1224,6 +1224,40 @@
    "source": "crawler"
   },
   {
+   "id": "c-intel-core-i3-12100-3-30-ghz-alder-lake-s-sockel-1700-boxed",
+   "name": "Intel Core i3-12100 3,30 GHz (Alder Lake-S) Sockel 1700 - boxed",
+   "cat": "Prozessoren",
+   "price": 129,
+   "ref": 191.78,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/intel-core-i3-12100-3.30-ghz-alder-lake-s-socket-1700-boxed/HPIT-757.html",
+   "url": "https://www.caseking.de/en/intel-core-i3-12100-3.30-ghz-alder-lake-s-socket-1700-boxed/HPIT-757.html",
+   "note": "33 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-02",
+     "p": 191.78
+    },
+    {
+     "d": "2026-11-03",
+     "p": 191.78
+    },
+    {
+     "d": "2026-11-05",
+     "p": 191.78
+    },
+    {
+     "d": "2026-11-07",
+     "p": 129
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-07",
+   "updated": "2026-11-07",
+   "tags": "prozessoren intel lga1700 intel core 12100 ghz alder lake sockel 1700 boxed",
+   "source": "crawler"
+  },
+  {
    "id": "c-msi-mpg-272urxde-qd-oled-27-zoll-gaming-monitor-240hz-qd-ole",
    "name": "MSI MPG 272URXDE QD-OLED, 27 Zoll Gaming Monitor, 240Hz, QD OLED, Adaptive Sync",
    "cat": "Monitore",
@@ -1488,6 +1522,10 @@
     },
     {
      "d": "2026-11-05",
+     "p": 203.17
+    },
+    {
+     "d": "2026-11-07",
      "p": 203.17
     }
    ],
@@ -2198,6 +2236,44 @@
    "source": "crawler"
   },
   {
+   "id": "c-arctic-freezer-36-cpu-kuhler",
+   "name": "ARCTIC Freezer 36, CPU-Kühler",
+   "cat": "Kühlung",
+   "price": 22.99,
+   "ref": 26.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/ARCTIC/Freezer-36-CPU-K%C3%BChler/html/product/100228826",
+   "url": "https://www.alternate.de/ARCTIC/Freezer-36-CPU-K%C3%BChler/html/product/100228826",
+   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-03",
+     "p": 26.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 26.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 26.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 22.99
+    },
+    {
+     "d": "2026-11-07",
+     "p": 22.99
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-07",
+   "updated": "2026-11-07",
+   "tags": "kuhlung luftkuhler arctic freezer cpu kuhler",
+   "source": "crawler"
+  },
+  {
    "id": "c-asus-prime-b760-plus-d4-mainboard-lga-1700-intel-b760-atx-dd",
    "name": "ASUS PRIME B760-PLUS D4 Mainboard LGA 1700 Intel B760 ATX DDR4",
    "cat": "Mainboards",
@@ -2230,6 +2306,10 @@
     },
     {
      "d": "2026-11-05",
+     "p": 133.74
+    },
+    {
+     "d": "2026-11-07",
      "p": 133.74
     }
    ],
@@ -2385,44 +2465,6 @@
    "seen": "2026-11-07",
    "updated": "2026-11-07",
    "tags": "monitore 32\" ultragear 32g600a zoll curved wqhd gaming monitor 180hz amd freesync",
-   "source": "crawler"
-  },
-  {
-   "id": "c-noctua-nh-d12l-chromax-black-cpu-kuhler",
-   "name": "Noctua NH-D12L chromax.black, CPU-Kühler",
-   "cat": "Kühlung",
-   "price": 94.9,
-   "ref": 109.9,
-   "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/Noctua/Noctua-NH-D12L-chromax-black-CPU-K%C3%BChler/html/product/100229212",
-   "url": "https://www.alternate.de/Noctua/Noctua-NH-D12L-chromax-black-CPU-K%C3%BChler/html/product/100229212",
-   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-03",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-04",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-07",
-     "p": 94.9
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-07",
-   "updated": "2026-11-07",
-   "tags": "kuhlung luftkuhler noctua d12l chromax black cpu kuhler",
    "source": "crawler"
   },
   {
