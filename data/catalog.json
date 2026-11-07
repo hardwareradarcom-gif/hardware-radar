@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T09:49:56.979Z",
+ "updated": "2026-11-07T11:13:38.749Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -21531,51 +21531,6 @@
    "firstSeen": "2026-10-31"
   },
   {
-   "id": "c-noctua-nh-l9x65-chromax-black-cpu-kuhler",
-   "cat": "Kühlung",
-   "sub": "Luftkühler",
-   "name": "Noctua NH-L9x65 chromax.black, CPU-Kühler",
-   "source": "crawler",
-   "url": "https://www.alternate.de/Noctua/NH-L9x65-chromax-black-CPU-K%C3%BChler/html/product/100024041",
-   "stand": "2026-11-04T10:05",
-   "offers": [
-    {
-     "shop": "ALTERNATE",
-     "price": 69.9,
-     "ship": 7.99,
-     "avail": "Auf Lager",
-     "url": "https://www.alternate.de/Noctua/NH-L9x65-chromax-black-CPU-K%C3%BChler/html/product/100024041"
-    }
-   ],
-   "price": 69.9,
-   "shop": "ALTERNATE",
-   "hist": [
-    {
-     "d": "2026-10-31",
-     "p": 69.9
-    },
-    {
-     "d": "2026-11-01",
-     "p": 69.9
-    },
-    {
-     "d": "2026-11-02",
-     "p": 69.9
-    },
-    {
-     "d": "2026-11-03",
-     "p": 69.9
-    },
-    {
-     "d": "2026-11-04",
-     "p": 69.9
-    }
-   ],
-   "count": 1,
-   "tags": "kuhlung luftkuhler noctua l9x65 chromax black cpu kuhler",
-   "firstSeen": "2026-10-31"
-  },
-  {
    "id": "c-silverstone-fara-515xr-pc-gehause-midi-tower-atx-rgb-tempere-jksna",
    "cat": "Gehäuse",
    "sub": "Gehäuse",
@@ -21658,7 +21613,7 @@
    "firstSeen": "2026-11-01"
   },
   {
-   "id": "c-noctua-nh-l9x65-chromax-black-cpu-kuhler-uiqmg",
+   "id": "c-noctua-nh-l9x65-chromax-black-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
    "name": "Noctua NH-L9x65 chromax.black, CPU-Kühler",
