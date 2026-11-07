@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-07T11:43:49.014Z",
+ "updated": "2026-11-07T13:54:16.780Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1182,60 +1182,6 @@
    "source": "crawler"
   },
   {
-   "id": "c-alphacool-core-1-aurora-black-cpu-kuhler",
-   "name": "Alphacool Core 1 Aurora Black, CPU-Kühler",
-   "cat": "Kühlung",
-   "price": 77.99,
-   "ref": 122.9,
-   "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/Alphacool/Core-1-Aurora-Black-CPU-K%C3%BChler/html/product/100218433",
-   "url": "https://www.alternate.de/Alphacool/Core-1-Aurora-Black-CPU-K%C3%BChler/html/product/100218433",
-   "note": "37 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 122.9
-    },
-    {
-     "d": "2026-10-31",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-01",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-02",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-03",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-04",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 77.99
-    },
-    {
-     "d": "2026-11-07",
-     "p": 77.99
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-07",
-   "updated": "2026-11-07",
-   "tags": "kuhlung luftkuhler alphacool core aurora black cpu kuhler",
-   "source": "crawler"
-  },
-  {
    "id": "c-jonsbo-tk-2-2-0-midi-tower-tempered-glass-weiss",
    "name": "Jonsbo TK-2 2.0 Midi-Tower, Tempered Glass - weiß",
    "cat": "Gehäuse",
@@ -1308,6 +1254,48 @@
    "source": "crawler"
   },
   {
+   "id": "c-lenovo-sk-hynix-ssd-512-gb-m-2-2280-pcie-4-0-x4-nvme",
+   "name": "Lenovo SK Hynix SSD 512 GB M.2 2280 PCIe 4.0 x4 NVMe",
+   "cat": "SSDs",
+   "price": 249.67,
+   "ref": 360.25,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/lenovo-sk-hynix-ssd-512-gb-m-2-2280-pcie-4-0-x4-nvme-9088676/",
+   "url": "https://www.jacob.de/produkt/lenovo-sk-hynix-ssd-512-gb-m-2-2280-pcie-4-0-x4-nvme-9088676/",
+   "note": "31 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 354.13
+    },
+    {
+     "d": "2026-10-31",
+     "p": 360.25
+    },
+    {
+     "d": "2026-11-01",
+     "p": 360.25
+    },
+    {
+     "d": "2026-11-02",
+     "p": 369.42
+    },
+    {
+     "d": "2026-11-04",
+     "p": 378.6
+    },
+    {
+     "d": "2026-11-07",
+     "p": 249.67
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-07",
+   "updated": "2026-11-07",
+   "tags": "ssds pcie 4.0 512 gb lenovo hynix ssd 512 2280 pcie nvme",
+   "source": "crawler"
+  },
+  {
    "id": "c-lenovo-toshiba-ssd-512-gb-m-2-2280-pcie-3-0-x4",
    "name": "Lenovo Toshiba SSD 512 GB M.2 2280 PCIe 3.0 x4",
    "cat": "SSDs",
@@ -1356,8 +1344,8 @@
    "price": 59.99,
    "ref": 82.9,
    "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/be-quiet/Dark-Rock-Pro-5-CPU-K%C3%BChler/html/product/100218106",
-   "url": "https://www.alternate.de/be-quiet/Dark-Rock-Pro-5-CPU-K%C3%BChler/html/product/100218106",
+   "shopUrl": "https://www.alternate.de/be-quiet/Dark-Rock-Pro-5-CPU-K%C3%BChler/html/product/100217572",
+   "url": "https://www.alternate.de/be-quiet/Dark-Rock-Pro-5-CPU-K%C3%BChler/html/product/100217572",
    "note": "28 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -1423,6 +1411,40 @@
    "seen": "2026-11-07",
    "updated": "2026-11-07",
    "tags": "monitore 27\" msi mag 272qpde x24 oled gaming monitor 60cm wqhd 240 schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-alpenfohn-brocken-4-max-argb-cpu-kuhler-c5sli",
+   "name": "Alpenföhn Brocken 4 Max ARGB, CPU-Kühler",
+   "cat": "Kühlung",
+   "price": 38.99,
+   "ref": 50.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-Max-ARGB-CPU-K%C3%BChler/html/product/100224594",
+   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-Max-ARGB-CPU-K%C3%BChler/html/product/100224594",
+   "note": "23 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 50.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 50.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 38.99
+    },
+    {
+     "d": "2026-11-07",
+     "p": 38.99
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-07",
+   "updated": "2026-11-07",
+   "tags": "kuhlung luftkuhler alpenfohn brocken max argb cpu kuhler",
    "source": "crawler"
   },
   {
