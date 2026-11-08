@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T11:14:19.750Z",
+ "updated": "2026-11-08T11:43:49.914Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1505,6 +1505,10 @@
     {
      "d": "2026-11-06",
      "p": 101.98
+    },
+    {
+     "d": "2026-11-08",
+     "p": 101.98
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -1562,6 +1566,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 131.9
+    },
+    {
+     "d": "2026-11-08",
      "p": 131.9
     }
    ],
@@ -2072,6 +2080,52 @@
    "source": "crawler"
   },
   {
+   "id": "c-lenovo-legion-r27s-27-full-hd-ips-gaming-monitor-144-hz-schw",
+   "name": "Lenovo Legion R27s 27\" Full HD IPS Gaming-Monitor 144 Hz Schwarz",
+   "cat": "Monitore",
+   "price": 111.88,
+   "ref": 127.27,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/lenovo-legion-r27s-27-full-hd-ips-gaming-monitor-144-hz-schwarz-100701343/",
+   "url": "https://www.jacob.de/produkt/lenovo-legion-r27s-27-full-hd-ips-gaming-monitor-144-hz-schwarz-100701343/",
+   "note": "12 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 127.27
+    },
+    {
+     "d": "2026-10-31",
+     "p": 127.27
+    },
+    {
+     "d": "2026-11-01",
+     "p": 127.27
+    },
+    {
+     "d": "2026-11-02",
+     "p": 127.27
+    },
+    {
+     "d": "2026-11-03",
+     "p": 127.27
+    },
+    {
+     "d": "2026-11-05",
+     "p": 149.35
+    },
+    {
+     "d": "2026-11-08",
+     "p": 111.88
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-08",
+   "updated": "2026-11-08",
+   "tags": "monitore 27\" lenovo legion r27s full ips gaming monitor 144 schwarz",
+   "source": "crawler"
+  },
+  {
    "id": "c-dell-27-plus-qhd-usb-c-monitor-s2725dc-68-6-cm-27-ips-2560x1",
    "name": "DELL 27 Plus QHD USB-C Monitor S2725DC - 68,6 cm (27\"), IPS, 2560x1440, 144Hz, USB-C, Weiß (DELL-S2725DC)",
    "cat": "Monitore",
@@ -2196,6 +2250,10 @@
     },
     {
      "d": "2026-11-05",
+     "p": 557.16
+    },
+    {
+     "d": "2026-11-08",
      "p": 557.16
     }
    ],
