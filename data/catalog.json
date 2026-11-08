@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T09:50:31.440Z",
+ "updated": "2026-11-08T11:14:19.750Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -1559,7 +1559,7 @@
    "name": "Intel Core Ultra 7 270K Plus",
    "url": "https://www.hardwaredealz.com/hardware/cpu/intel-core-ultra-7-270k-plus/preisvergleich.33575",
    "source": "hardwaredealz",
-   "stand": "2026-11-07T19:45",
+   "stand": "2026-11-08T11:14",
    "offers": [
     {
      "shop": "MobPicker",
@@ -1592,6 +1592,14 @@
      "price": 323.9,
      "ship": 4.99,
      "avail": null
+    },
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 334.31,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/intel-core-ultra-7-270k-plus-prozessor-24-kerne-36-mb-cache-lga-1851-100708709/",
+     "crawler": true
     }
    ],
    "price": 303.57,
@@ -7229,13 +7237,21 @@
    "name": "Intel Core Ultra 5 250K Plus",
    "url": "https://www.hardwaredealz.com/hardware/cpu/intel-core-ulta-5-250k-plus/preisvergleich.33576",
    "source": "hardwaredealz",
-   "stand": "2026-11-07T19:45",
+   "stand": "2026-11-08T11:14",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
      "price": 189.99,
      "ship": null,
      "avail": null
+    },
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 226.72,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/intel-core-ultra-5-250k-plus-prozessor-18-kerne-5-3-ghz-lga-1851-100708946/",
+     "crawler": true
     },
     {
      "shop": "caseking.de",
@@ -8657,6 +8673,64 @@
    "count": 1,
    "tags": "kuhlung luftkuhler xilence m404pro cpu kuhler",
    "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "c-fsp-ne5-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "FSP NE5, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/FSP/NE5-CPU-K%C3%BChler/html/product/100109717",
+   "stand": "2026-11-08T11:14",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 15.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/FSP/NE5-CPU-K%C3%BChler/html/product/100109717"
+    }
+   ],
+   "price": 15.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 15.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler fsp ne5 cpu kuhler",
+   "firstSeen": "2026-11-08"
+  },
+  {
+   "id": "c-thermaltake-ux150-l-argb-lighting-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Thermaltake UX150-L ARGB Lighting, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Thermaltake/UX150-L-ARGB-Lighting-CPU-K%C3%BChler/html/product/100110298",
+   "stand": "2026-11-08T11:14",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 15.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Thermaltake/UX150-L-ARGB-Lighting-CPU-K%C3%BChler/html/product/100110298"
+    }
+   ],
+   "price": 15.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 15.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler thermaltake ux150 argb lighting cpu kuhler",
+   "firstSeen": "2026-11-08"
   },
   {
    "id": "c-xilence-a404t-cpu-kuhler",
@@ -10236,6 +10310,35 @@
    "firstSeen": "2026-11-06"
   },
   {
+   "id": "c-inter-tech-argus-su-260-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Inter-Tech Argus SU-260, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Inter-Tech/Argus-SU-260-CPU-K%C3%BChler/html/product/1544700",
+   "stand": "2026-11-08T11:14",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 19.99,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Inter-Tech/Argus-SU-260-CPU-K%C3%BChler/html/product/1544700"
+    }
+   ],
+   "price": 19.99,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 19.99
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler inter tech argus 260 cpu kuhler",
+   "firstSeen": "2026-11-08"
+  },
+  {
    "id": "c-silentware-bora-performance-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -10679,6 +10782,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler quiet pure rock slim cpu kuhler",
    "firstSeen": "2026-11-01"
+  },
+  {
+   "id": "c-fsp-np5-black-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "FSP NP5 BLACK, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/FSP/NP5-BLACK-CPU-K%C3%BChler/html/product/100109713",
+   "stand": "2026-11-08T11:14",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 22.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/FSP/NP5-BLACK-CPU-K%C3%BChler/html/product/100109713"
+    }
+   ],
+   "price": 22.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 22.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler fsp np5 black cpu kuhler",
+   "firstSeen": "2026-11-08"
   },
   {
    "id": "c-endorfy-spartan-5-max-argb-cpu-kuhler",
@@ -15774,6 +15906,35 @@
    "firstSeen": "2026-11-08"
   },
   {
+   "id": "c-fsp-mp7-argb-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "FSP MP7 ARGB, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/FSP/MP7-ARGB-CPU-K%C3%BChler/html/product/100109709",
+   "stand": "2026-11-08T11:14",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 39.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/FSP/MP7-ARGB-CPU-K%C3%BChler/html/product/100109709"
+    }
+   ],
+   "price": 39.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 39.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler fsp mp7 argb cpu kuhler",
+   "firstSeen": "2026-11-08"
+  },
+  {
    "id": "c-sharkoon-a50-rgb-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -16181,6 +16342,35 @@
    "count": 1,
    "tags": "netzteile bis 600 w adata xpg probe plus bronze netzteil atx 600 watt schwarz",
    "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-be-quiet-dark-rock-slim-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "be quiet! Dark Rock Slim, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/be-quiet/Dark-Rock-Slim-CPU-K%C3%BChler/html/product/1545357",
+   "stand": "2026-11-08T11:14",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 42.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/be-quiet/Dark-Rock-Slim-CPU-K%C3%BChler/html/product/1545357"
+    }
+   ],
+   "price": 42.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 42.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler quiet dark rock slim cpu kuhler",
+   "firstSeen": "2026-11-08"
   },
   {
    "id": "c-silverstone-sst-arv140-argb-cpu-kuhler",
@@ -17024,6 +17214,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler thermaltake astria 400 argb lighting cpu cooler white kuhler",
    "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "c-fsp-mp7-black-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "FSP MP7 Black, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/FSP/MP7-Black-CPU-K%C3%BChler/html/product/100109711",
+   "stand": "2026-11-08T11:14",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 44.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/FSP/MP7-Black-CPU-K%C3%BChler/html/product/100109711"
+    }
+   ],
+   "price": 44.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 44.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler fsp mp7 black cpu kuhler",
+   "firstSeen": "2026-11-08"
   },
   {
    "id": "c-silentware-titan-cpu-kuhler",
@@ -51763,6 +51982,35 @@
    "count": 1,
    "tags": "kuhlung aio-wasserkuhlung lian hydroshift lcd 360tl argb aio wasserkuhlung weiss",
    "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "c-alphacool-apex-1-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Alphacool Apex 1, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Alphacool/Apex-1-CPU-K%C3%BChler/html/product/100109019",
+   "stand": "2026-11-08T11:14",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 174.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Alphacool/Apex-1-CPU-K%C3%BChler/html/product/100109019"
+    }
+   ],
+   "price": 174.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 174.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler alphacool apex cpu kuhler",
+   "firstSeen": "2026-11-08"
   },
   {
    "id": "c-asus-tuf-gaming-b760m-plus-ii-intel-b760-lga-1700-micro-atx",
