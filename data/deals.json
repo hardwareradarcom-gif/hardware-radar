@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T17:11:27.461Z",
+ "updated": "2026-11-08T17:39:42.930Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1106,6 +1106,52 @@
    "source": "crawler"
   },
   {
+   "id": "c-lenovo-thinkpad-4-tb-ssd-m-2-2280-pcie-4-0-x4-nvme-opal",
+   "name": "Lenovo ThinkPad 4 TB SSD M.2 2280 PCIe 4.0 x4 NVMe OPAL",
+   "cat": "SSDs",
+   "price": 1314.93,
+   "ref": 2168.55,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/lenovo-thinkpad-4-tb-ssd-m-2-2280-pcie-4-0-x4-nvme-opal-100703511/",
+   "url": "https://www.jacob.de/produkt/lenovo-thinkpad-4-tb-ssd-m-2-2280-pcie-4-0-x4-nvme-opal-100703511/",
+   "note": "39 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 2208.25
+    },
+    {
+     "d": "2026-10-31",
+     "p": 2168.55
+    },
+    {
+     "d": "2026-11-01",
+     "p": 2168.55
+    },
+    {
+     "d": "2026-11-02",
+     "p": 2168.55
+    },
+    {
+     "d": "2026-11-03",
+     "p": 2168.55
+    },
+    {
+     "d": "2026-11-06",
+     "p": 2168.55
+    },
+    {
+     "d": "2026-11-08",
+     "p": 1314.93
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-08",
+   "updated": "2026-11-08",
+   "tags": "ssds pcie 4.0 4 tb lenovo thinkpad ssd 2280 pcie nvme opal",
+   "source": "crawler"
+  },
+  {
    "id": "c-western-digital-black-sn770m-2-tb-m-2-pcie-4-0-nvme-ssd",
    "name": "Western Digital Black SN770M 2 TB M.2 PCIe 4.0 NVMe SSD",
    "cat": "SSDs",
@@ -1340,6 +1386,10 @@
     },
     {
      "d": "2026-11-06",
+     "p": 188.38
+    },
+    {
+     "d": "2026-11-08",
      "p": 188.38
     }
    ],
@@ -2059,6 +2109,44 @@
    "seen": "2026-11-08",
    "updated": "2026-11-08",
    "tags": "grafikkarten geforce rtx 5060 gigabyte geforce rtx 5060 windforce 8192 gddr7",
+   "source": "crawler"
+  },
+  {
+   "id": "c-alpenfohn-brocken-4-max-argb-cpu-kuhler-c5sli",
+   "name": "Alpenföhn Brocken 4 Max ARGB, CPU-Kühler",
+   "cat": "Kühlung",
+   "price": 38.99,
+   "ref": 44.95,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-Max-ARGB-CPU-K%C3%BChler/html/product/100224594",
+   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-Max-ARGB-CPU-K%C3%BChler/html/product/100224594",
+   "note": "13 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 50.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 50.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 38.99
+    },
+    {
+     "d": "2026-11-07",
+     "p": 38.99
+    },
+    {
+     "d": "2026-11-08",
+     "p": 38.99
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-08",
+   "updated": "2026-11-08",
+   "tags": "kuhlung luftkuhler alpenfohn brocken max argb cpu kuhler",
    "source": "crawler"
   },
   {
