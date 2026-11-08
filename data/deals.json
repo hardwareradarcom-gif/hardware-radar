@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T08:04:31.014Z",
+ "updated": "2026-11-08T09:50:31.440Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1984,6 +1984,48 @@
    "source": "crawler"
   },
   {
+   "id": "c-noctua-nh-d12l-chromax-black-cpu-kuhler",
+   "name": "Noctua NH-D12L chromax.black, CPU-Kühler",
+   "cat": "Kühlung",
+   "price": 94.9,
+   "ref": 109.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/Noctua/Noctua-NH-D12L-chromax-black-CPU-K%C3%BChler/html/product/100229212",
+   "url": "https://www.alternate.de/Noctua/Noctua-NH-D12L-chromax-black-CPU-K%C3%BChler/html/product/100229212",
+   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-03",
+     "p": 109.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 109.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 109.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 109.9
+    },
+    {
+     "d": "2026-11-07",
+     "p": 94.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 94.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-08",
+   "updated": "2026-11-08",
+   "tags": "kuhlung luftkuhler noctua d12l chromax black cpu kuhler",
+   "source": "crawler"
+  },
+  {
    "id": "c-gigabyte-geforce-rtx-5060-windforce-oc-8192-mb-gddr7",
    "name": "GIGABYTE GeForce RTX 5060 Windforce OC, 8192 MB GDDR7",
    "cat": "Grafikkarten",
@@ -2017,6 +2059,10 @@
     {
      "d": "2026-11-06",
      "p": 459
+    },
+    {
+     "d": "2026-11-08",
+     "p": 459
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -2026,37 +2072,49 @@
    "source": "crawler"
   },
   {
-   "id": "c-alpenfohn-brocken-4-max-argb-cpu-kuhler-c5sli",
-   "name": "Alpenföhn Brocken 4 Max ARGB, CPU-Kühler",
-   "cat": "Kühlung",
-   "price": 38.99,
-   "ref": 44.95,
-   "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-Max-ARGB-CPU-K%C3%BChler/html/product/100224594",
-   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-Max-ARGB-CPU-K%C3%BChler/html/product/100224594",
-   "note": "13 % unter dem mittleren Preis der letzten 30 Tage.",
+   "id": "c-dell-27-plus-qhd-usb-c-monitor-s2725dc-68-6-cm-27-ips-2560x1",
+   "name": "DELL 27 Plus QHD USB-C Monitor S2725DC - 68,6 cm (27\"), IPS, 2560x1440, 144Hz, USB-C, Weiß (DELL-S2725DC)",
+   "cat": "Monitore",
+   "price": 240.67,
+   "ref": 273.32,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/dell-27-plus-qhd-usb-c-monitor-s2725dc-68-6-cm-27-ips-2560x1440-144hz-usb-c-weiss-dell-s2725dc-100673693/",
+   "url": "https://www.jacob.de/produkt/dell-27-plus-qhd-usb-c-monitor-s2725dc-68-6-cm-27-ips-2560x1440-144hz-usb-c-weiss-dell-s2725dc-100673693/",
+   "note": "12 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
-     "d": "2026-11-04",
-     "p": 50.9
+     "d": "2026-10-30",
+     "p": 273.32
+    },
+    {
+     "d": "2026-10-31",
+     "p": 273.32
+    },
+    {
+     "d": "2026-11-01",
+     "p": 273.32
+    },
+    {
+     "d": "2026-11-02",
+     "p": 273.32
+    },
+    {
+     "d": "2026-11-03",
+     "p": 273.32
     },
     {
      "d": "2026-11-05",
-     "p": 50.9
+     "p": 254.3
     },
     {
-     "d": "2026-11-06",
-     "p": 38.99
-    },
-    {
-     "d": "2026-11-07",
-     "p": 38.99
+     "d": "2026-11-08",
+     "p": 240.67
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
    "seen": "2026-11-08",
    "updated": "2026-11-08",
-   "tags": "kuhlung luftkuhler alpenfohn brocken max argb cpu kuhler",
+   "tags": "monitore 27\" dell plus qhd usb monitor s2725dc ips 2560x1440 144hz weiss",
    "source": "crawler"
   },
   {
@@ -2092,6 +2150,10 @@
     },
     {
      "d": "2026-11-05",
+     "p": 295.56
+    },
+    {
+     "d": "2026-11-08",
      "p": 295.56
     }
    ],
