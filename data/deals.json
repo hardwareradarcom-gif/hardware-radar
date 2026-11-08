@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T13:53:22.879Z",
+ "updated": "2026-11-08T15:41:32.366Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1139,70 +1139,16 @@
     {
      "d": "2026-11-06",
      "p": 356.16
+    },
+    {
+     "d": "2026-11-08",
+     "p": 356.16
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
    "seen": "2026-11-08",
    "updated": "2026-11-08",
    "tags": "ssds pcie 4.0 2 tb western digital black sn770m pcie nvme ssd",
-   "source": "crawler"
-  },
-  {
-   "id": "c-alphacool-core-1-aurora-black-cpu-kuhler",
-   "name": "Alphacool Core 1 Aurora Black, CPU-Kühler",
-   "cat": "Kühlung",
-   "price": 77.99,
-   "ref": 122.9,
-   "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/Alphacool/Core-1-Aurora-Black-CPU-K%C3%BChler/html/product/100218433",
-   "url": "https://www.alternate.de/Alphacool/Core-1-Aurora-Black-CPU-K%C3%BChler/html/product/100218433",
-   "note": "37 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 122.9
-    },
-    {
-     "d": "2026-10-31",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-01",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-02",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-03",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-04",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 77.99
-    },
-    {
-     "d": "2026-11-07",
-     "p": 77.99
-    },
-    {
-     "d": "2026-11-08",
-     "p": 77.99
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-08",
-   "updated": "2026-11-08",
-   "tags": "kuhlung luftkuhler alphacool core aurora black cpu kuhler",
    "source": "crawler"
   },
   {
@@ -1230,6 +1176,10 @@
     },
     {
      "d": "2026-11-06",
+     "p": 99.9
+    },
+    {
+     "d": "2026-11-08",
      "p": 99.9
     }
    ],
@@ -1728,8 +1678,8 @@
    "price": 59.99,
    "ref": 71.45,
    "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/be-quiet/Dark-Rock-Pro-5-CPU-K%C3%BChler/html/product/100218106",
-   "url": "https://www.alternate.de/be-quiet/Dark-Rock-Pro-5-CPU-K%C3%BChler/html/product/100218106",
+   "shopUrl": "https://www.alternate.de/be-quiet/Dark-Rock-Pro-5-CPU-K%C3%BChler/html/product/100217572",
+   "url": "https://www.alternate.de/be-quiet/Dark-Rock-Pro-5-CPU-K%C3%BChler/html/product/100217572",
    "note": "16 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -1950,8 +1900,8 @@
    "price": 59.9,
    "ref": 69.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/hyte-x50-air-midi-tower-pitch-black/GEHY-060.html",
-   "url": "https://www.caseking.de/hyte-x50-air-midi-tower-pitch-black/GEHY-060.html",
+   "shopUrl": "https://www.caseking.de/en/hyte-x50-air-midi-tower-pitch-black/GEHY-060.html",
+   "url": "https://www.caseking.de/en/hyte-x50-air-midi-tower-pitch-black/GEHY-060.html",
    "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
