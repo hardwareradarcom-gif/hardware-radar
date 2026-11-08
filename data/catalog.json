@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-08T15:41:32.366Z",
+ "updated": "2026-11-08T17:11:27.461Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -3517,7 +3517,7 @@
    "name": "Thermalright Phantom Spirit 120 SE",
    "url": "https://geizhals.de/2932898",
    "source": "Geizhals",
-   "stand": "2026-11-07T21:40",
+   "stand": "2026-11-08T17:11",
    "offers": [
     {
      "shop": "TR-Store (Amazon)",
@@ -3548,7 +3548,7 @@
      "price": 44.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/thermalright-phantom-spirit-120-se-cpu-kuehler-120-mm-dual-tower/CPTR-113.html",
+     "url": "https://www.caseking.de/en/thermalright-phantom-spirit-120-se-cpu-cooler-120-mm-dual-tower/CPTR-113.html",
      "crawler": true
     }
    ],
@@ -8435,6 +8435,46 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-samsung-odyssey-oled-g9-49-inch-gaming-monitor-240-hz",
+   "cat": "Monitore",
+   "sub": "Monitore",
+   "name": "Samsung Odyssey OLED G9 49-inch Gaming Monitor 240 Hz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/samsung-odyssey-oled-g9-g93sd-49-inch-gaming-monitor-240-hz-qd-oled-freesync-premium-pro/TFSS-204.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 849,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/samsung-odyssey-oled-g9-g93sd-49-inch-gaming-monitor-240-hz-qd-oled-freesync-premium-pro/TFSS-204.html"
+    },
+    {
+     "shop": "sim-verse.com",
+     "price": 999,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.sim-verse.com/en-de/samsung-odyssey-oled-g9-49-inch-gaming-monitor-240-hz/TFSS-204.html"
+    }
+   ],
+   "price": 849,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-07",
+     "p": 999
+    },
+    {
+     "d": "2026-11-08",
+     "p": 849
+    }
+   ],
+   "count": 2,
+   "tags": "monitore samsung odyssey oled inch gaming monitor 240",
+   "firstSeen": "2026-11-07"
+  },
+  {
    "id": "c-xfx-radeon-rx-9070-xt-gaming-16gb-gddr6-ram-grafikkarte",
    "cat": "Grafikkarten",
    "sub": "Radeon RX 9070 XT",
@@ -8505,6 +8545,46 @@
    "count": 2,
    "tags": "grafikkarten radeon rx 9070 xt xfx radeon 9070 gaming 16gb gddr6 ram grafikkarte",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-samsung-odyssey-neo-g9-g95nc-57-gaming-monitor",
+   "cat": "Monitore",
+   "sub": "57\"",
+   "name": "Samsung Odyssey Neo G9 G95NC 57\" Gaming Monitor",
+   "source": "crawler",
+   "url": "https://www.sim-verse.com/en-de/samsung-odyssey-neo-g9-g95nc-57-gaming-monitor/TFSS-178.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "sim-verse.com",
+     "price": 1999,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.sim-verse.com/en-de/samsung-odyssey-neo-g9-g95nc-57-gaming-monitor/TFSS-178.html"
+    },
+    {
+     "shop": "caseking.de",
+     "price": 1999,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/samsung-odyssey-neo-g9-g95nc-57-inch-gaming-monitor-240-hz-va-g-sync-compatible/TFSS-178.html"
+    }
+   ],
+   "price": 1999,
+   "shop": "sim-verse.com",
+   "hist": [
+    {
+     "d": "2026-11-07",
+     "p": 1999
+    },
+    {
+     "d": "2026-11-08",
+     "p": 1999
+    }
+   ],
+   "count": 2,
+   "tags": "monitore 57\" samsung odyssey neo g95nc gaming monitor",
+   "firstSeen": "2026-11-07"
   },
   {
    "id": "c-akasa-ak-cc6308ep01-low-profile-cpu-kuhler-92mm",
@@ -9388,15 +9468,15 @@
    "sub": "Luftkühler",
    "name": "Jonsbo CR-1400 EVO Color CPU-Kühler",
    "source": "crawler",
-   "url": "https://www.caseking.de/jonsbo-cr-1400-evo-color-cpu-kuehler/CPJB-036.html",
-   "stand": "2026-11-07T09:49",
+   "url": "https://www.caseking.de/en/jonsbo-cr-1400-evo-color-cpu-cooler/CPJB-036.html",
+   "stand": "2026-11-08T17:11",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 17.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/jonsbo-cr-1400-evo-color-cpu-kuehler/CPJB-036.html"
+     "url": "https://www.caseking.de/en/jonsbo-cr-1400-evo-color-cpu-cooler/CPJB-036.html"
     }
    ],
    "price": 17.9,
@@ -9408,6 +9488,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 17.9
+    },
+    {
+     "d": "2026-11-08",
      "p": 17.9
     }
    ],
@@ -9447,6 +9531,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler xilence m404pro argb cpu kuhler",
    "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "c-jonsbo-cr-1400e-cpu-cooler-argb-white",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Jonsbo CR-1400E CPU cooler, ARGB - white",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/jonsbo-cr-1400e-cpu-cooler-argb-white/CPJB-074.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 17.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/jonsbo-cr-1400e-cpu-cooler-argb-white/CPJB-074.html"
+    }
+   ],
+   "price": 17.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 17.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler jonsbo 1400e cpu cooler argb white",
+   "firstSeen": "2026-11-08"
   },
   {
    "id": "c-silverstone-sst-nt09-1700-cpu-kuhler",
@@ -9627,6 +9740,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler xilence m404pro argb cpu kuhler",
    "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "c-thermaltake-ux400-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Thermaltake UX400, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Thermaltake/UX400-CPU-K%C3%BChler/html/product/100119567",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 18.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Thermaltake/UX400-CPU-K%C3%BChler/html/product/100119567"
+    }
+   ],
+   "price": 18.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 18.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler thermaltake ux400 cpu kuhler",
+   "firstSeen": "2026-11-08"
   },
   {
    "id": "c-akasa-ak-cc7129bp01-low-profile-cpu-kuhler-74mm",
@@ -10095,20 +10237,20 @@
    "firstSeen": "2026-11-05"
   },
   {
-   "id": "c-jonsbo-cr-1400-evo-argb-cpu-kuhler-92mm-schwarz",
+   "id": "c-jonsbo-cr-1400-evo-argb-cpu-cooler-92mm-black",
    "cat": "Kühlung",
    "sub": "Luftkühler",
-   "name": "Jonsbo CR-1400 EVO ARGB CPU-Kühler, 92mm - schwarz",
+   "name": "Jonsbo CR-1400 EVO ARGB CPU cooler, 92mm - black",
    "source": "crawler",
-   "url": "https://www.caseking.de/jonsbo-cr-1400-evo-argb-cpu-kuehler-92mm-schwarz/CPJB-038.html",
-   "stand": "2026-11-07T09:49",
+   "url": "https://www.caseking.de/en/jonsbo-cr-1400-evo-argb-cpu-cooler-92mm-black/CPJB-038.html",
+   "stand": "2026-11-08T17:11",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 19.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/jonsbo-cr-1400-evo-argb-cpu-kuehler-92mm-schwarz/CPJB-038.html"
+     "url": "https://www.caseking.de/en/jonsbo-cr-1400-evo-argb-cpu-cooler-92mm-black/CPJB-038.html"
     }
    ],
    "price": 19.9,
@@ -10121,10 +10263,14 @@
     {
      "d": "2026-11-07",
      "p": 19.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 19.9
     }
    ],
    "count": 1,
-   "tags": "kuhlung luftkuhler jonsbo 1400 evo argb cpu kuhler 92mm schwarz",
+   "tags": "kuhlung luftkuhler jonsbo 1400 evo argb cpu cooler 92mm black",
    "firstSeen": "2026-11-05"
   },
   {
@@ -10215,15 +10361,15 @@
    "sub": "Luftkühler",
    "name": "Jonsbo CR-1400 V2 ARGB CPU-Kühler, 92mm - weiß",
    "source": "crawler",
-   "url": "https://www.caseking.de/jonsbo-cr-1400-v2-argb-cpu-kuehler-92mm-weiss/CPJB-054.html",
-   "stand": "2026-11-07T09:49",
+   "url": "https://www.caseking.de/en/jonsbo-cr-1400-v2-argb-cpu-cooler-92mm-white/CPJB-054.html",
+   "stand": "2026-11-08T17:11",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 19.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/jonsbo-cr-1400-v2-argb-cpu-kuehler-92mm-weiss/CPJB-054.html"
+     "url": "https://www.caseking.de/en/jonsbo-cr-1400-v2-argb-cpu-cooler-92mm-white/CPJB-054.html"
     }
    ],
    "price": 19.9,
@@ -10235,6 +10381,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 19.9
+    },
+    {
+     "d": "2026-11-08",
      "p": 19.9
     }
    ],
@@ -10243,20 +10393,20 @@
    "firstSeen": "2026-11-05"
   },
   {
-   "id": "c-jonsbo-ca40-cpu-kuhler-pwm-rgb-schwarz",
+   "id": "c-jonsbo-ca40-cpu-cooler-pwm-rgb-black",
    "cat": "Kühlung",
    "sub": "Luftkühler",
-   "name": "Jonsbo CA40 CPU-Kühler PWM, RGB- schwarz",
+   "name": "Jonsbo CA40 CPU Cooler PWM, RGB - black",
    "source": "crawler",
-   "url": "https://www.caseking.de/jonsbo-ca40-cpu-kuehler-pwm-rgb-schwarz/CPJB-084.html",
-   "stand": "2026-11-07T09:49",
+   "url": "https://www.caseking.de/en/jonsbo-ca40-cpu-cooler-pwm-rgb-black/CPJB-084.html",
+   "stand": "2026-11-08T17:11",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 19.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/jonsbo-ca40-cpu-kuehler-pwm-rgb-schwarz/CPJB-084.html"
+     "url": "https://www.caseking.de/en/jonsbo-ca40-cpu-cooler-pwm-rgb-black/CPJB-084.html"
     }
    ],
    "price": 19.9,
@@ -10269,27 +10419,31 @@
     {
      "d": "2026-11-07",
      "p": 19.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 19.9
     }
    ],
    "count": 1,
-   "tags": "kuhlung luftkuhler jonsbo ca40 cpu kuhler pwm rgb schwarz",
+   "tags": "kuhlung luftkuhler jonsbo ca40 cpu cooler pwm rgb black",
    "firstSeen": "2026-11-05"
   },
   {
-   "id": "c-jonsbo-cb40-cpu-kuhler-pwm-argb-schwarz",
+   "id": "c-jonsbo-cb40-cpu-cooler-pwm-argb-black",
    "cat": "Kühlung",
    "sub": "Luftkühler",
-   "name": "Jonsbo CB40 CPU-Kühler, PWM, ARGB - schwarz",
+   "name": "Jonsbo CB40 CPU Cooler, PWM, ARGB - black",
    "source": "crawler",
-   "url": "https://www.caseking.de/jonsbo-cb40-cpu-kuehler-pwm-argb-schwarz/CPJB-087.html",
-   "stand": "2026-11-07T09:49",
+   "url": "https://www.caseking.de/en/jonsbo-cb40-cpu-cooler-pwm-argb-black/CPJB-087.html",
+   "stand": "2026-11-08T17:11",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 19.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/jonsbo-cb40-cpu-kuehler-pwm-argb-schwarz/CPJB-087.html"
+     "url": "https://www.caseking.de/en/jonsbo-cb40-cpu-cooler-pwm-argb-black/CPJB-087.html"
     }
    ],
    "price": 19.9,
@@ -10302,10 +10456,14 @@
     {
      "d": "2026-11-07",
      "p": 19.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 19.9
     }
    ],
    "count": 1,
-   "tags": "kuhlung luftkuhler jonsbo cb40 cpu kuhler pwm argb schwarz",
+   "tags": "kuhlung luftkuhler jonsbo cb40 cpu cooler pwm argb black",
    "firstSeen": "2026-11-05"
   },
   {
@@ -10340,6 +10498,64 @@
    "count": 1,
    "tags": "kuhlung luftkuhler xilence performance m704pro argb cpu kuhler",
    "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "c-thermaltake-ux400-argb-sync-white-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Thermaltake UX400 ARGB Sync White, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Thermaltake/UX400-ARGB-Sync-White-CPU-K%C3%BChler/html/product/100119565",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 19.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Thermaltake/UX400-ARGB-Sync-White-CPU-K%C3%BChler/html/product/100119565"
+    }
+   ],
+   "price": 19.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 19.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler thermaltake ux400 argb sync white cpu kuhler",
+   "firstSeen": "2026-11-08"
+  },
+  {
+   "id": "c-thermaltake-ux400-argb-sync-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Thermaltake UX400 ARGB Sync, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Thermaltake/UX400-ARGB-Sync-CPU-K%C3%BChler/html/product/100119564",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 19.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Thermaltake/UX400-ARGB-Sync-CPU-K%C3%BChler/html/product/100119564"
+    }
+   ],
+   "price": 19.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 19.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler thermaltake ux400 argb sync cpu kuhler",
+   "firstSeen": "2026-11-08"
   },
   {
    "id": "c-inter-tech-argus-su-260-cpu-kuhler",
@@ -10426,6 +10642,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler silentware bora performance cpu kuhler",
    "firstSeen": "2026-10-31"
+  },
+  {
+   "id": "c-enermax-ets-t41-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Enermax ETS-T41, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Enermax/ETS-T41-CPU-K%C3%BChler/html/product/100124435",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 20.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Enermax/ETS-T41-CPU-K%C3%BChler/html/product/100124435"
+    }
+   ],
+   "price": 20.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 20.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler enermax ets t41 cpu kuhler",
+   "firstSeen": "2026-11-08"
   },
   {
    "id": "c-akasa-ak-cce-7106hp-low-profile-cpu-kuhler-intel-74mm",
@@ -10857,6 +11102,35 @@
    "firstSeen": "2026-11-08"
   },
   {
+   "id": "c-ekl-22227-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "EKL 22227, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/EKL/22227-CPU-K%C3%BChler/html/product/100117500",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 22.99,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/EKL/22227-CPU-K%C3%BChler/html/product/100117500"
+    }
+   ],
+   "price": 22.99,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 22.99
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler ekl 22227 cpu kuhler",
+   "firstSeen": "2026-11-08"
+  },
+  {
    "id": "c-endorfy-spartan-5-max-argb-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -11233,6 +11507,35 @@
    "firstSeen": "2026-11-06"
   },
   {
+   "id": "c-be-quiet-pure-rock-3-black-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "be quiet! Pure Rock 3 Black, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/be-quiet/Pure-Rock-3-Black-CPU-K%C3%BChler/html/product/100118674",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 23.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/be-quiet/Pure-Rock-3-Black-CPU-K%C3%BChler/html/product/100118674"
+    }
+   ],
+   "price": 23.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 23.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler quiet pure rock black cpu kuhler",
+   "firstSeen": "2026-11-08"
+  },
+  {
    "id": "c-jonsbo-hp-400s-cpu-kuhler-90mm-schwarz",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -11450,15 +11753,15 @@
    "sub": "Luftkühler",
    "name": "Thermalright Assassin Spirit 120 Evo Dark CPU-Kühler - 120 mm",
    "source": "crawler",
-   "url": "https://www.caseking.de/thermalright-assassin-spirit-120-evo-dark-cpu-kuehler-120-mm/CPTR-117.html",
-   "stand": "2026-11-07T21:40",
+   "url": "https://www.caseking.de/en/thermalright-assassin-spirit-120-evo-dark-cpu-cooler-120-mm/CPTR-117.html",
+   "stand": "2026-11-08T17:11",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 24.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/thermalright-assassin-spirit-120-evo-dark-cpu-kuehler-120-mm/CPTR-117.html"
+     "url": "https://www.caseking.de/en/thermalright-assassin-spirit-120-evo-dark-cpu-cooler-120-mm/CPTR-117.html"
     }
    ],
    "price": 24.9,
@@ -11478,6 +11781,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 24.9
+    },
+    {
+     "d": "2026-11-08",
      "p": 24.9
     }
    ],
@@ -11525,6 +11832,64 @@
    "count": 1,
    "tags": "kuhlung luftkuhler alpenfohn matterhorn black cpu kuhler",
    "firstSeen": "2026-11-04"
+  },
+  {
+   "id": "c-deepcool-ag400-argb-v2-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "DeepCool AG400 ARGB V2, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/DeepCool/AG400-ARGB-V2-CPU-K%C3%BChler/html/product/100130037",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 24.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/DeepCool/AG400-ARGB-V2-CPU-K%C3%BChler/html/product/100130037"
+    }
+   ],
+   "price": 24.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 24.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler deepcool ag400 argb cpu kuhler",
+   "firstSeen": "2026-11-08"
+  },
+  {
+   "id": "c-deepcool-ag400-argb-v2-cpu-kuhler-o36ep",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "DeepCool AG400 ARGB V2, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/DeepCool/AG400-ARGB-V2-CPU-K%C3%BChler/html/product/100130043",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 24.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/DeepCool/AG400-ARGB-V2-CPU-K%C3%BChler/html/product/100130043"
+    }
+   ],
+   "price": 24.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 24.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler deepcool ag400 argb cpu kuhler",
+   "firstSeen": "2026-11-08"
   },
   {
    "id": "c-sharkoon-a40-cpu-kuhler",
@@ -11817,20 +12182,20 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-jonsbo-cr-1000max-v2-cpu-kuhler-pwm-argb-schwarz",
+   "id": "c-jonsbo-cr-1000max-v2-cpu-cooler-pwm-argb-black",
    "cat": "Kühlung",
    "sub": "Luftkühler",
-   "name": "Jonsbo CR-1000MAX V2 CPU-Kühler, PWM, ARGB - schwarz",
+   "name": "Jonsbo CR-1000MAX V2 CPU Cooler, PWM, ARGB - black",
    "source": "crawler",
-   "url": "https://www.caseking.de/jonsbo-cr-1000max-v2-cpu-kuehler-pwm-argb-schwarz/CPJB-082.html",
-   "stand": "2026-11-07T21:40",
+   "url": "https://www.caseking.de/en/jonsbo-cr-1000max-v2-cpu-cooler-pwm-argb-black/CPJB-082.html",
+   "stand": "2026-11-08T17:11",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 25.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/jonsbo-cr-1000max-v2-cpu-kuehler-pwm-argb-schwarz/CPJB-082.html"
+     "url": "https://www.caseking.de/en/jonsbo-cr-1000max-v2-cpu-cooler-pwm-argb-black/CPJB-082.html"
     }
    ],
    "price": 25.9,
@@ -11851,27 +12216,31 @@
     {
      "d": "2026-11-07",
      "p": 25.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 25.9
     }
    ],
    "count": 1,
-   "tags": "kuhlung luftkuhler jonsbo 1000max cpu kuhler pwm argb schwarz",
+   "tags": "kuhlung luftkuhler jonsbo 1000max cpu cooler pwm argb black",
    "firstSeen": "2026-11-02"
   },
   {
-   "id": "c-jonsbo-cr-1000-v3-pro-cpu-kuhler-pwm-argb-schwarz",
+   "id": "c-jonsbo-cr-1000-v3-pro-cpu-cooler-pwm-argb-black",
    "cat": "Kühlung",
    "sub": "Luftkühler",
-   "name": "Jonsbo CR-1000 V3 PRO CPU-Kühler, PWM, ARGB - schwarz",
+   "name": "Jonsbo CR-1000 V3 PRO CPU cooler, PWM, ARGB - black",
    "source": "crawler",
-   "url": "https://www.caseking.de/jonsbo-cr-1000-v3-pro-cpu-kuehler-pwm-argb-schwarz/CPJB-077.html",
-   "stand": "2026-11-07T09:49",
+   "url": "https://www.caseking.de/en/jonsbo-cr-1000-v3-pro-cpu-cooler-pwm-argb-black/CPJB-077.html",
+   "stand": "2026-11-08T17:11",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 25.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/jonsbo-cr-1000-v3-pro-cpu-kuehler-pwm-argb-schwarz/CPJB-077.html"
+     "url": "https://www.caseking.de/en/jonsbo-cr-1000-v3-pro-cpu-cooler-pwm-argb-black/CPJB-077.html"
     }
    ],
    "price": 25.9,
@@ -11884,11 +12253,44 @@
     {
      "d": "2026-11-07",
      "p": 25.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 25.9
     }
    ],
    "count": 1,
-   "tags": "kuhlung luftkuhler jonsbo 1000 pro cpu kuhler pwm argb schwarz",
+   "tags": "kuhlung luftkuhler jonsbo 1000 pro cpu cooler pwm argb black",
    "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-be-quiet-pure-rock-3-lx-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "be quiet! Pure Rock 3 LX, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/be-quiet/Pure-Rock-3-LX-CPU-K%C3%BChler/html/product/100118676",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 25.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/be-quiet/Pure-Rock-3-LX-CPU-K%C3%BChler/html/product/100118676"
+    }
+   ],
+   "price": 25.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 25.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler quiet pure rock cpu kuhler",
+   "firstSeen": "2026-11-08"
   },
   {
    "id": "c-alpenfohn-black-ridge-cpu-kuhler",
@@ -12102,6 +12504,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler ekl 22227 cpu kuhler amd intel 120 pwm 140 180 tdp",
    "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-enermax-ets-t41-digital-argb-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Enermax ETS-T41 Digital ARGB, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Enermax/ETS-T41-Digital-ARGB-CPU-K%C3%BChler/html/product/100124440",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 27.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Enermax/ETS-T41-Digital-ARGB-CPU-K%C3%BChler/html/product/100124440"
+    }
+   ],
+   "price": 27.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 27.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler enermax ets t41 digital argb cpu kuhler",
+   "firstSeen": "2026-11-08"
   },
   {
    "id": "c-akasa-ak-cc6608bp01-low-profile-cpu-kuhler-sockel-lga-1700-6",
@@ -13139,6 +13570,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler ocypus iota a40 cpu kuhler",
    "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-enermax-ets-t41-digital-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Enermax ETS-T41 Digital, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Enermax/ETS-T41-Digital-CPU-K%C3%BChler/html/product/100124437",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 29.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Enermax/ETS-T41-Digital-CPU-K%C3%BChler/html/product/100124437"
+    }
+   ],
+   "price": 29.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 29.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler enermax ets t41 digital cpu kuhler",
+   "firstSeen": "2026-11-08"
   },
   {
    "id": "c-silverstone-sst-ar09-115xp-cpu-kuhler",
@@ -14264,20 +14724,20 @@
    "firstSeen": "2026-11-05"
   },
   {
-   "id": "c-jonsbo-cr-3000e-cpu-kuhler-dual-tower-260w-tdp-schwarz-120mm",
+   "id": "c-jonsbo-cr-3000e-cpu-cooler-dual-tower-260w-tdp-black-120mm",
    "cat": "Kühlung",
    "sub": "Luftkühler",
-   "name": "Jonsbo CR-3000E CPU-Kühler, Dual-Tower, 260W TDP - schwarz, 120mm",
+   "name": "Jonsbo CR-3000E CPU cooler, dual tower, 260W TDP - black, 120mm",
    "source": "crawler",
-   "url": "https://www.caseking.de/jonsbo-cr-3000e-cpu-kuehler-dual-tower-260w-tdp-schwarz-120mm/CPJB-063.html",
-   "stand": "2026-11-07T09:49",
+   "url": "https://www.caseking.de/en/jonsbo-cr-3000e-cpu-cooler-dual-tower-260w-tdp-black-120mm/CPJB-063.html",
+   "stand": "2026-11-08T17:11",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 34.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/jonsbo-cr-3000e-cpu-kuehler-dual-tower-260w-tdp-schwarz-120mm/CPJB-063.html"
+     "url": "https://www.caseking.de/en/jonsbo-cr-3000e-cpu-cooler-dual-tower-260w-tdp-black-120mm/CPJB-063.html"
     }
    ],
    "price": 34.9,
@@ -14290,10 +14750,14 @@
     {
      "d": "2026-11-07",
      "p": 34.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 34.9
     }
    ],
    "count": 1,
-   "tags": "kuhlung luftkuhler jonsbo 3000e cpu kuhler dual tower 260w tdp schwarz 120mm",
+   "tags": "kuhlung luftkuhler jonsbo 3000e cpu cooler dual tower 260w tdp black 120mm",
    "firstSeen": "2026-11-05"
   },
   {
@@ -14434,6 +14898,122 @@
    ],
    "count": 1,
    "tags": "kuhlung luftkuhler cooler master hyper 612 apex cpu kuhler",
+   "firstSeen": "2026-11-08"
+  },
+  {
+   "id": "c-be-quiet-pure-rock-pro-3-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "be quiet! Pure Rock Pro 3, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/be-quiet/Pure-Rock-Pro-3-CPU-K%C3%BChler/html/product/100118687",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 34.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/be-quiet/Pure-Rock-Pro-3-CPU-K%C3%BChler/html/product/100118687"
+    }
+   ],
+   "price": 34.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 34.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler quiet pure rock pro cpu kuhler",
+   "firstSeen": "2026-11-08"
+  },
+  {
+   "id": "c-enermax-ets-td60-digital-argb-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Enermax ETS-TD60 Digital ARGB, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Enermax/ETS-TD60-Digital-ARGB-CPU-K%C3%BChler/html/product/100124444",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 34.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Enermax/ETS-TD60-Digital-ARGB-CPU-K%C3%BChler/html/product/100124444"
+    }
+   ],
+   "price": 34.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 34.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler enermax ets td60 digital argb cpu kuhler",
+   "firstSeen": "2026-11-08"
+  },
+  {
+   "id": "c-enermax-ets-td60-digital-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Enermax ETS-TD60 Digital, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Enermax/ETS-TD60-Digital-CPU-K%C3%BChler/html/product/100124442",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 34.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Enermax/ETS-TD60-Digital-CPU-K%C3%BChler/html/product/100124442"
+    }
+   ],
+   "price": 34.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 34.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler enermax ets td60 digital cpu kuhler",
+   "firstSeen": "2026-11-08"
+  },
+  {
+   "id": "c-jonsbo-cr-1400-dv2-cpu-cooler-black",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Jonsbo CR-1400 DV2 CPU Cooler - Black",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/jonsbo-cr-1400-dv2-cpu-cooler-black/CPJB-053.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 34.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/jonsbo-cr-1400-dv2-cpu-cooler-black/CPJB-053.html"
+    }
+   ],
+   "price": 34.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 34.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler jonsbo 1400 dv2 cpu cooler black",
    "firstSeen": "2026-11-08"
   },
   {
@@ -15599,20 +16179,20 @@
    "firstSeen": "2026-11-01"
   },
   {
-   "id": "c-thermalright-peerless-assasin-120-se-a-rgb-cpu-kuhler-120-mm",
+   "id": "c-thermalright-peerless-assassin-120-se-a-rgb-cpu-cooler-120-m",
    "cat": "Kühlung",
    "sub": "Luftkühler",
-   "name": "Thermalright Peerless Assasin 120 SE A-RGB CPU-Kühler - 120 mm, schwarz/silber",
+   "name": "Thermalright Peerless Assassin 120 SE A-RGB CPU Cooler - 120 mm, black",
    "source": "crawler",
-   "url": "https://www.caseking.de/thermalright-peerless-assasin-120-se-a-rgb-cpu-kuehler-120-mm-schwarz-silber/CPTR-105.html",
-   "stand": "2026-11-07T21:40",
+   "url": "https://www.caseking.de/en/thermalright-peerless-assassin-120-se-a-rgb-cpu-cooler-120-mm-black/CPTR-105.html",
+   "stand": "2026-11-08T17:11",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 39.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/thermalright-peerless-assasin-120-se-a-rgb-cpu-kuehler-120-mm-schwarz-silber/CPTR-105.html"
+     "url": "https://www.caseking.de/en/thermalright-peerless-assassin-120-se-a-rgb-cpu-cooler-120-mm-black/CPTR-105.html"
     }
    ],
    "price": 39.9,
@@ -15633,10 +16213,14 @@
     {
      "d": "2026-11-07",
      "p": 39.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 39.9
     }
    ],
    "count": 1,
-   "tags": "kuhlung luftkuhler thermalright peerless assasin 120 rgb cpu kuhler schwarz silber",
+   "tags": "kuhlung luftkuhler thermalright peerless assassin 120 rgb cpu cooler black",
    "firstSeen": "2026-11-02"
   },
   {
@@ -15689,20 +16273,20 @@
    "firstSeen": "2026-11-02"
   },
   {
-   "id": "c-thermalright-peerless-assassin-120-mini-cpu-kuhler-120-mm-sc",
+   "id": "c-thermalright-peerless-assassin-120-mini-cpu-cooler-120-mm-bl",
    "cat": "Kühlung",
    "sub": "Luftkühler",
-   "name": "Thermalright Peerless Assassin 120 Mini CPU-Kühler - 120 mm, schwarz",
+   "name": "Thermalright Peerless Assassin 120 Mini CPU Cooler - 120 mm, black",
    "source": "crawler",
-   "url": "https://www.caseking.de/thermalright-peerless-assassin-120-mini-cpu-kuehler-120-mm-schwarz/CPTR-116.html",
-   "stand": "2026-11-07T21:40",
+   "url": "https://www.caseking.de/en/thermalright-peerless-assassin-120-mini-cpu-cooler-120-mm-black/CPTR-116.html",
+   "stand": "2026-11-08T17:11",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 39.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/thermalright-peerless-assassin-120-mini-cpu-kuehler-120-mm-schwarz/CPTR-116.html"
+     "url": "https://www.caseking.de/en/thermalright-peerless-assassin-120-mini-cpu-cooler-120-mm-black/CPTR-116.html"
     }
    ],
    "price": 39.9,
@@ -15723,10 +16307,14 @@
     {
      "d": "2026-11-07",
      "p": 39.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 39.9
     }
    ],
    "count": 1,
-   "tags": "kuhlung luftkuhler thermalright peerless assassin 120 mini cpu kuhler schwarz",
+   "tags": "kuhlung luftkuhler thermalright peerless assassin 120 mini cpu cooler black",
    "firstSeen": "2026-11-02"
   },
   {
@@ -16027,6 +16615,35 @@
    ],
    "count": 1,
    "tags": "kuhlung luftkuhler fsp mp7 argb cpu kuhler",
+   "firstSeen": "2026-11-08"
+  },
+  {
+   "id": "c-be-quiet-pure-rock-pro-3-black-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "be quiet! Pure Rock Pro 3 Black, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/be-quiet/Pure-Rock-Pro-3-Black-CPU-K%C3%BChler/html/product/100118672",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 39.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/be-quiet/Pure-Rock-Pro-3-Black-CPU-K%C3%BChler/html/product/100118672"
+    }
+   ],
+   "price": 39.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 39.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler quiet pure rock pro black cpu kuhler",
    "firstSeen": "2026-11-08"
   },
   {
@@ -17117,20 +17734,20 @@
    "firstSeen": "2026-11-01"
   },
   {
-   "id": "c-thermalright-peerless-assasin-120-se-a-rgb-cpu-kuhler-120-mm-i9ozq",
+   "id": "c-thermalright-peerless-assasin-120-se-a-rgb-cpu-kuhler-120-mm",
    "cat": "Kühlung",
    "sub": "Luftkühler",
    "name": "Thermalright Peerless Assasin 120 SE A-RGB CPU-Kühler - 120 mm, weiß",
    "source": "crawler",
-   "url": "https://www.caseking.de/thermalright-peerless-assasin-120-se-a-rgb-cpu-kuehler-120-mm-weiss/CPTR-111.html",
-   "stand": "2026-11-07T21:40",
+   "url": "https://www.caseking.de/en/thermalright-peerless-assassin-120-se-a-rgb-cpu-cooler-120-mm-white/CPTR-111.html",
+   "stand": "2026-11-08T17:11",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 44.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/thermalright-peerless-assasin-120-se-a-rgb-cpu-kuehler-120-mm-weiss/CPTR-111.html"
+     "url": "https://www.caseking.de/en/thermalright-peerless-assassin-120-se-a-rgb-cpu-cooler-120-mm-white/CPTR-111.html"
     }
    ],
    "price": 44.9,
@@ -17150,6 +17767,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 44.9
+    },
+    {
+     "d": "2026-11-08",
      "p": 44.9
     }
    ],
@@ -17163,15 +17784,15 @@
    "sub": "Luftkühler",
    "name": "Thermalright Phantom Spirit 120 CPU-Kühler - 120 mm, Dual-Tower",
    "source": "crawler",
-   "url": "https://www.caseking.de/thermalright-phantom-spirit-120-cpu-kuehler-120-mm-dual-tower/CPTR-112.html",
-   "stand": "2026-11-07T21:40",
+   "url": "https://www.caseking.de/en/thermalright-phantom-spirit-120-cpu-cooler-120-mm-dual-tower/CPTR-112.html",
+   "stand": "2026-11-08T17:11",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 44.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/thermalright-phantom-spirit-120-cpu-kuehler-120-mm-dual-tower/CPTR-112.html"
+     "url": "https://www.caseking.de/en/thermalright-phantom-spirit-120-cpu-cooler-120-mm-dual-tower/CPTR-112.html"
     }
    ],
    "price": 44.9,
@@ -17191,6 +17812,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 44.9
+    },
+    {
+     "d": "2026-11-08",
      "p": 44.9
     }
    ],
@@ -17204,15 +17829,15 @@
    "sub": "Luftkühler",
    "name": "Thermalright Peerless Assassin CPU-Kühler, Dual-Tower - 140 mm, weiß",
    "source": "crawler",
-   "url": "https://www.caseking.de/thermalright-peerless-assassin-cpu-kuehler-dual-tower-140-mm-weiss/CPTR-122.html",
-   "stand": "2026-11-07T21:40",
+   "url": "https://www.caseking.de/en/thermalright-peerless-assassin-cpu-cooler-dual-tower-140-mm-white/CPTR-122.html",
+   "stand": "2026-11-08T17:11",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 44.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/thermalright-peerless-assassin-cpu-kuehler-dual-tower-140-mm-weiss/CPTR-122.html"
+     "url": "https://www.caseking.de/en/thermalright-peerless-assassin-cpu-cooler-dual-tower-140-mm-white/CPTR-122.html"
     }
    ],
    "price": 44.9,
@@ -17232,6 +17857,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 44.9
+    },
+    {
+     "d": "2026-11-08",
      "p": 44.9
     }
    ],
@@ -17365,6 +17994,35 @@
    ],
    "count": 1,
    "tags": "kuhlung luftkuhler fsp mp7 black cpu kuhler",
+   "firstSeen": "2026-11-08"
+  },
+  {
+   "id": "c-be-quiet-pure-rock-pro-3-lx-black-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "be quiet! Pure Rock Pro 3 LX Black, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/be-quiet/Pure-Rock-Pro-3-LX-Black-CPU-K%C3%BChler/html/product/100118682",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 44.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/be-quiet/Pure-Rock-Pro-3-LX-Black-CPU-K%C3%BChler/html/product/100118682"
+    }
+   ],
+   "price": 44.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 44.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler quiet pure rock pro black cpu kuhler",
    "firstSeen": "2026-11-08"
   },
   {
@@ -22361,20 +23019,20 @@
    "firstSeen": "2026-10-31"
   },
   {
-   "id": "c-gigabyte-h610m-k-ddr4-motherboard-socket-1700-intel-h610-mic",
+   "id": "c-gigabyte-h610m-k-ddr4-mainboard-sockel-1700-intel-h610-micro",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 H610",
-   "name": "GIGABYTE H610M K DDR4 motherboard, Socket 1700, Intel H610, Micro-ATX, DDR4",
+   "name": "GIGABYTE H610M K DDR4 Mainboard, Sockel 1700, Intel H610, Micro-ATX, DDR4",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/gigabyte-h610m-k-ddr4-motherboard-socket-1700-intel-h610-micro-atx-ddr4/MBGB-560.html",
-   "stand": "2026-11-07T11:43",
+   "url": "https://www.caseking.de/gigabyte-h610m-k-ddr4-mainboard-sockel-1700-intel-h610-micro-atx-ddr4/MBGB-560.html",
+   "stand": "2026-11-08T17:11",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 67.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/gigabyte-h610m-k-ddr4-motherboard-socket-1700-intel-h610-micro-atx-ddr4/MBGB-560.html"
+     "url": "https://www.caseking.de/gigabyte-h610m-k-ddr4-mainboard-sockel-1700-intel-h610-micro-atx-ddr4/MBGB-560.html"
     }
    ],
    "price": 67.9,
@@ -22387,10 +23045,14 @@
     {
      "d": "2026-11-07",
      "p": 67.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 67.9
     }
    ],
    "count": 1,
-   "tags": "mainboards intel lga1700 h610 gigabyte h610m ddr4 motherboard socket 1700 intel h610 micro atx",
+   "tags": "mainboards intel lga1700 h610 gigabyte h610m ddr4 mainboard sockel 1700 intel h610 micro atx",
    "firstSeen": "2026-11-05"
   },
   {
@@ -23130,20 +23792,20 @@
    "firstSeen": "2026-11-04"
   },
   {
-   "id": "c-jonsbo-cc90-cpu-kuhler-dual-tower-130mm-pwm-lufter-segmentan",
+   "id": "c-jonsbo-cc90-cpu-cooler-dual-tower-130mm-pwm-fan-segment-disp",
    "cat": "Kühlung",
    "sub": "Luftkühler",
-   "name": "Jonsbo CC90 CPU-Kühler, Dual-Tower, 130mm PWM-Lüfter, Segmentanzeige - schwarz",
+   "name": "Jonsbo CC90 CPU Cooler, Dual Tower, 130mm PWM Fan, Segment Display - Black",
    "source": "crawler",
-   "url": "https://www.caseking.de/jonsbo-cc90-cpu-kuehler-dual-tower-130mm-pwm-luefter-segmentanzeige-schwarz/CPJB-091.html",
-   "stand": "2026-11-07T09:49",
+   "url": "https://www.caseking.de/en/jonsbo-cc90-cpu-cooler-dual-tower-130mm-pwm-fan-segment-display-black/CPJB-091.html",
+   "stand": "2026-11-08T17:11",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 69.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/jonsbo-cc90-cpu-kuehler-dual-tower-130mm-pwm-luefter-segmentanzeige-schwarz/CPJB-091.html"
+     "url": "https://www.caseking.de/en/jonsbo-cc90-cpu-cooler-dual-tower-130mm-pwm-fan-segment-display-black/CPJB-091.html"
     }
    ],
    "price": 69.9,
@@ -23156,27 +23818,31 @@
     {
      "d": "2026-11-07",
      "p": 69.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 69.9
     }
    ],
    "count": 1,
-   "tags": "kuhlung luftkuhler jonsbo cc90 cpu kuhler dual tower 130mm pwm lufter segmentanzeige schwarz",
+   "tags": "kuhlung luftkuhler jonsbo cc90 cpu cooler dual tower 130mm pwm fan segment display black",
    "firstSeen": "2026-11-05"
   },
   {
-   "id": "c-jonsbo-cc90-cpu-kuhler-dual-tower-130mm-pwm-lufter-segmentan-gbid8",
+   "id": "c-jonsbo-cc90-cpu-cooler-dual-tower-130mm-pwm-fan-segment-disp-gbid8",
    "cat": "Kühlung",
    "sub": "Luftkühler",
-   "name": "Jonsbo CC90 CPU-Kühler, Dual-Tower, 130mm PWM-Lüfter, Segmentanzeige - weiß",
+   "name": "Jonsbo CC90 CPU Cooler, Dual Tower, 130mm PWM Fan, Segment Display - White",
    "source": "crawler",
-   "url": "https://www.caseking.de/jonsbo-cc90-cpu-kuehler-dual-tower-130mm-pwm-luefter-segmentanzeige-weiss/CPJB-092.html",
-   "stand": "2026-11-07T09:49",
+   "url": "https://www.caseking.de/en/jonsbo-cc90-cpu-cooler-dual-tower-130mm-pwm-fan-segment-display-white/CPJB-092.html",
+   "stand": "2026-11-08T17:11",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 69.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/jonsbo-cc90-cpu-kuehler-dual-tower-130mm-pwm-luefter-segmentanzeige-weiss/CPJB-092.html"
+     "url": "https://www.caseking.de/en/jonsbo-cc90-cpu-cooler-dual-tower-130mm-pwm-fan-segment-display-white/CPJB-092.html"
     }
    ],
    "price": 69.9,
@@ -23189,10 +23855,14 @@
     {
      "d": "2026-11-07",
      "p": 69.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 69.9
     }
    ],
    "count": 1,
-   "tags": "kuhlung luftkuhler jonsbo cc90 cpu kuhler dual tower 130mm pwm lufter segmentanzeige weiss",
+   "tags": "kuhlung luftkuhler jonsbo cc90 cpu cooler dual tower 130mm pwm fan segment display white",
    "firstSeen": "2026-11-05"
   },
   {
@@ -23336,6 +24006,64 @@
    "firstSeen": "2026-11-06"
   },
   {
+   "id": "c-jonsbo-tg-360-aio-cooler-argb-360mm-black",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Jonsbo TG-360 AiO Cooler, ARGB - 360mm, Black",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/jonsbo-tg-360-aio-cooler-argb-360mm-black/WASE-964.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 69.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/jonsbo-tg-360-aio-cooler-argb-360mm-black/WASE-964.html"
+    }
+   ],
+   "price": 69.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 69.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung jonsbo 360 aio cooler argb 360mm black",
+   "firstSeen": "2026-11-08"
+  },
+  {
+   "id": "c-jonsbo-tg-360-aio-cooler-argb-360mm-white",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Jonsbo TG-360 AIO Cooler, ARGB - 360mm, White",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/jonsbo-tg-360-aio-cooler-argb-360mm-white/WASE-965.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 69.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/jonsbo-tg-360-aio-cooler-argb-360mm-white/WASE-965.html"
+    }
+   ],
+   "price": 69.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 69.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung jonsbo 360 aio cooler argb 360mm white",
+   "firstSeen": "2026-11-08"
+  },
+  {
    "id": "c-msi-spatium-s270-sata-ssd-240-gb-2-5",
    "cat": "SSDs",
    "sub": "SATA 240 GB",
@@ -23430,20 +24158,20 @@
    "firstSeen": "2026-10-31"
   },
   {
-   "id": "c-asus-prime-h610m-k-d4-intel-h610-motherboard-socket-1700-ddr",
+   "id": "c-asus-prime-h610m-k-d4-intel-h610-mainboard-sockel-1700-ddr4",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 H610",
-   "name": "ASUS Prime H610M-K D4, Intel H610 motherboard - Socket 1700, DDR4",
+   "name": "ASUS Prime H610M-K D4, Intel H610 Mainboard - Sockel 1700, DDR4",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/asus-prime-h610m-k-d4-intel-h610-motherboard-socket-1700-ddr4/MBAS-613.html",
-   "stand": "2026-11-07T11:43",
+   "url": "https://www.caseking.de/asus-prime-h610m-k-d4-intel-h610-mainboard-sockel-1700-ddr4/MBAS-613.html",
+   "stand": "2026-11-08T17:11",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 71.44,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/asus-prime-h610m-k-d4-intel-h610-motherboard-socket-1700-ddr4/MBAS-613.html"
+     "url": "https://www.caseking.de/asus-prime-h610m-k-d4-intel-h610-mainboard-sockel-1700-ddr4/MBAS-613.html"
     }
    ],
    "price": 71.44,
@@ -23456,10 +24184,14 @@
     {
      "d": "2026-11-07",
      "p": 71.44
+    },
+    {
+     "d": "2026-11-08",
+     "p": 71.44
     }
    ],
    "count": 1,
-   "tags": "mainboards intel lga1700 h610 asus prime h610m intel h610 motherboard socket 1700 ddr4",
+   "tags": "mainboards intel lga1700 h610 asus prime h610m intel h610 mainboard sockel 1700 ddr4",
    "firstSeen": "2026-11-05"
   },
   {
@@ -24747,20 +25479,20 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-asrock-b760m-hdv-m-2-d4-intel-b760-motherboard-socket-1700-d",
+   "id": "c-asrock-b760m-hdv-m-2-d4-intel-b760-mainboard-sockel-1700-ddr",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 B760",
-   "name": "ASRock B760M-HDV/M.2 D4, Intel B760 Motherboard - Socket 1700, DDR4",
+   "name": "ASRock B760M-HDV/M.2 D4, Intel B760 Mainboard - Sockel 1700, DDR4",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/asrock-b760m-hdv-m.2-d4-intel-b760-motherboard-socket-1700-ddr4/MBAR-450.html",
-   "stand": "2026-11-07T11:43",
+   "url": "https://www.caseking.de/asrock-b760m-hdv-m.2-d4-intel-b760-mainboard-sockel-1700-ddr4/MBAR-450.html",
+   "stand": "2026-11-08T17:11",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 77.03,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/asrock-b760m-hdv-m.2-d4-intel-b760-motherboard-socket-1700-ddr4/MBAR-450.html"
+     "url": "https://www.caseking.de/asrock-b760m-hdv-m.2-d4-intel-b760-mainboard-sockel-1700-ddr4/MBAR-450.html"
     }
    ],
    "price": 77.03,
@@ -24773,10 +25505,14 @@
     {
      "d": "2026-11-07",
      "p": 77.03
+    },
+    {
+     "d": "2026-11-08",
+     "p": 77.03
     }
    ],
    "count": 1,
-   "tags": "mainboards intel lga1700 b760 asrock b760m hdv intel b760 motherboard socket 1700 ddr4",
+   "tags": "mainboards intel lga1700 b760 asrock b760m hdv intel b760 mainboard sockel 1700 ddr4",
    "firstSeen": "2026-11-05"
   },
   {
@@ -25958,6 +26694,122 @@
    "firstSeen": "2026-11-06"
   },
   {
+   "id": "c-be-quiet-pure-base-501-airflow-pc-gehause-midi-tower-atx-sch",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "be quiet! Pure Base 501 Airflow PC-Gehäuse, Midi-Tower, ATX - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/be-quiet-pure-base-501-airflow-pc-gehaeuse-midi-tower-atx-schwarz/GEBQ-077.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 79.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/be-quiet-pure-base-501-airflow-pc-gehaeuse-midi-tower-atx-schwarz/GEBQ-077.html"
+    }
+   ],
+   "price": 79.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 79.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause quiet pure base 501 airflow midi tower atx schwarz",
+   "firstSeen": "2026-11-08"
+  },
+  {
+   "id": "c-arctic-liquid-freezer-iii-pro-360-aio-water-cooler-360mm-bla",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Arctic Liquid Freezer III Pro 360 AiO Water Cooler - 360mm, black",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/arctic-liquid-freezer-iii-pro-360-aio-water-cooler-360mm-black/WASE-944.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 79.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/arctic-liquid-freezer-iii-pro-360-aio-water-cooler-360mm-black/WASE-944.html"
+    }
+   ],
+   "price": 79.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 79.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung arctic liquid freezer iii pro 360 aio water cooler 360mm black",
+   "firstSeen": "2026-11-08"
+  },
+  {
+   "id": "c-jonsbo-th-240-aio-water-cooling-argb-segment-display-240mm-b",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Jonsbo TH-240 AiO Water Cooling, ARGB, Segment Display - 240mm, Black",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/jonsbo-th-240-aio-water-cooling-argb-segment-display-240mm-black/WASE-966.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 79.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/jonsbo-th-240-aio-water-cooling-argb-segment-display-240mm-black/WASE-966.html"
+    }
+   ],
+   "price": 79.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 79.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung jonsbo 240 aio water cooling argb segment display 240mm black",
+   "firstSeen": "2026-11-08"
+  },
+  {
+   "id": "c-jonsbo-th-240-aio-wasserkuhlung-argb-segmentanzeige-240mm-we",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Jonsbo TH-240 AiO Wasserkühlung, ARGB, Segmentanzeige - 240mm, weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/jonsbo-th-240-aio-water-cooling-argb-segment-display-240mm-white/WASE-967.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 79.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/jonsbo-th-240-aio-water-cooling-argb-segment-display-240mm-white/WASE-967.html"
+    }
+   ],
+   "price": 79.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 79.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung jonsbo 240 aio wasserkuhlung argb segmentanzeige 240mm weiss",
+   "firstSeen": "2026-11-08"
+  },
+  {
    "id": "c-cer-nitro-vg0-vg240yp6bip-full-hd-gaming-monitor-60-5-cm-23-",
    "cat": "Monitore",
    "sub": "23,8\"",
@@ -26011,20 +26863,20 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-asus-prime-a620m-e-csm-amd-a620-motherboard-socket-am5-ddr5",
+   "id": "c-asus-prime-a620m-e-csm-amd-a620-mainboard-sockel-am5-ddr5",
    "cat": "Mainboards",
    "sub": "AM5 A620",
-   "name": "ASUS Prime A620M-E-CSM, AMD A620 motherboard, socket AM5, DDR5",
+   "name": "ASUS Prime A620M-E-CSM, AMD A620 Mainboard, Sockel AM5, DDR5",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/asus-prime-a620m-e-csm-amd-a620-motherboard-socket-am5-ddr5/MBAS-712.html",
-   "stand": "2026-11-07T11:43",
+   "url": "https://www.caseking.de/asus-prime-a620m-e-csm-amd-a620-mainboard-sockel-am5-ddr5/MBAS-712.html",
+   "stand": "2026-11-08T17:11",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 80.75,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/asus-prime-a620m-e-csm-amd-a620-motherboard-socket-am5-ddr5/MBAS-712.html"
+     "url": "https://www.caseking.de/asus-prime-a620m-e-csm-amd-a620-mainboard-sockel-am5-ddr5/MBAS-712.html"
     }
    ],
    "price": 80.75,
@@ -26037,10 +26889,14 @@
     {
      "d": "2026-11-07",
      "p": 80.75
+    },
+    {
+     "d": "2026-11-08",
+     "p": 80.75
     }
    ],
    "count": 1,
-   "tags": "mainboards am5 a620 asus prime a620m csm amd a620 motherboard socket am5 ddr5",
+   "tags": "mainboards am5 a620 asus prime a620m csm amd a620 mainboard sockel am5 ddr5",
    "firstSeen": "2026-11-05"
   },
   {
@@ -28778,6 +29634,93 @@
    "firstSeen": "2026-11-06"
   },
   {
+   "id": "c-jonsbo-th-360-aio-water-cooling-argb-segment-display-360mm-b",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Jonsbo TH-360 AiO Water Cooling, ARGB, Segment Display - 360mm, Black",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/jonsbo-th-360-aio-water-cooling-argb-segment-display-360mm-black/WASE-968.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 89.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/jonsbo-th-360-aio-water-cooling-argb-segment-display-360mm-black/WASE-968.html"
+    }
+   ],
+   "price": 89.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 89.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung jonsbo 360 aio water cooling argb segment display 360mm black",
+   "firstSeen": "2026-11-08"
+  },
+  {
+   "id": "c-jonsbo-th-360-aio-wasserkuhlung-argb-segmentanzeige-360mm-we",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Jonsbo TH-360 AiO Wasserkühlung, ARGB, Segmentanzeige - 360mm, weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/jonsbo-th-360-aio-watercooler-argb-segment-display-360mm-white/WASE-969.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 89.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/jonsbo-th-360-aio-watercooler-argb-segment-display-360mm-white/WASE-969.html"
+    }
+   ],
+   "price": 89.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 89.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung jonsbo 360 aio wasserkuhlung argb segmentanzeige 360mm weiss",
+   "firstSeen": "2026-11-08"
+  },
+  {
+   "id": "c-arctic-liquid-freezer-iii-pro-420-aio-cooler-420mm-black",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Arctic Liquid Freezer III Pro 420 AIO Cooler - 420mm, black",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/arctic-liquid-freezer-iii-pro-420-aio-cooler-420mm-black/WASE-986.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 89.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/arctic-liquid-freezer-iii-pro-420-aio-cooler-420mm-black/WASE-986.html"
+    }
+   ],
+   "price": 89.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 89.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung arctic liquid freezer iii pro 420 aio cooler 420mm black",
+   "firstSeen": "2026-11-08"
+  },
+  {
    "id": "c-lenovo-l24-4c-23-8-full-hd-monitor-144-hz-ips-panel-amd-free",
    "cat": "Monitore",
    "sub": "23,8\"",
@@ -29299,6 +30242,35 @@
    "count": 1,
    "tags": "monitore 23,8\" benq gw2491 ips monitor 1920 1080 100 schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-kingston-ssdnow-a400-series-2-5-zoll-ssd-sata-6g-480-gb",
+   "cat": "SSDs",
+   "sub": "SATA 480 GB",
+   "name": "Kingston SSDNow A400 Series 2,5 Zoll SSD, SATA 6G - 480 GB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/kingston-ssdnow-a400-series-2.5-inch-ssd-sata-6g-480-gb/SSKT-046.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 93.56,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/kingston-ssdnow-a400-series-2.5-inch-ssd-sata-6g-480-gb/SSKT-046.html"
+    }
+   ],
+   "price": 93.56,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 93.56
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 480 gb kingston ssdnow a400 series zoll ssd sata 480",
+   "firstSeen": "2026-11-08"
   },
   {
    "id": "c-viewsonic-va2432-h-2-24-ips-monitor-full-hd-100-hz-1-ms-schw",
@@ -29966,20 +30938,20 @@
    "firstSeen": "2026-11-03"
   },
   {
-   "id": "c-gigabyte-h610m-s2h-motherboard-socket-1700-intel-h610-micro-",
+   "id": "c-gigabyte-h610m-s2h-mainboard-sockel-1700-intel-h610-micro-at",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 H610",
-   "name": "GIGABYTE H610M S2H motherboard, socket 1700, Intel H610, Micro-ATX, DDR5",
+   "name": "GIGABYTE H610M S2H Mainboard, Sockel 1700, Intel H610, Micro-ATX, DDR5",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/gigabyte-h610m-s2h-motherboard-socket-1700-intel-h610-micro-atx-ddr5/MBGB-556.html",
-   "stand": "2026-11-07T11:43",
+   "url": "https://www.caseking.de/gigabyte-h610m-s2h-mainboard-sockel-1700-intel-h610-micro-atx-ddr5/MBGB-556.html",
+   "stand": "2026-11-08T17:11",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 94.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/gigabyte-h610m-s2h-motherboard-socket-1700-intel-h610-micro-atx-ddr5/MBGB-556.html"
+     "url": "https://www.caseking.de/gigabyte-h610m-s2h-mainboard-sockel-1700-intel-h610-micro-atx-ddr5/MBGB-556.html"
     }
    ],
    "price": 94.9,
@@ -29992,10 +30964,14 @@
     {
      "d": "2026-11-07",
      "p": 94.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 94.9
     }
    ],
    "count": 1,
-   "tags": "mainboards intel lga1700 h610 gigabyte h610m s2h motherboard socket 1700 intel h610 micro atx ddr5",
+   "tags": "mainboards intel lga1700 h610 gigabyte h610m s2h mainboard sockel 1700 intel h610 micro atx ddr5",
    "firstSeen": "2026-11-05"
   },
   {
@@ -30385,6 +31361,35 @@
    "count": 1,
    "tags": "gehause silverstone fara 511z midi tower tempered glass schwarz",
    "firstSeen": "2026-11-01"
+  },
+  {
+   "id": "c-asus-prime-h610m-d-d4-intel-h610-mainboard-sockel-1700-ddr4",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1700 H610",
+   "name": "ASUS Prime H610M-D D4, Intel H610 Mainboard - Sockel 1700, DDR4",
+   "source": "crawler",
+   "url": "https://www.caseking.de/asus-prime-h610m-d-d4-intel-h610-mainboard-sockel-1700-ddr4/MBAS-611.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 97.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/asus-prime-h610m-d-d4-intel-h610-mainboard-sockel-1700-ddr4/MBAS-611.html"
+    }
+   ],
+   "price": 97.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 97.9
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1700 h610 asus prime h610m intel h610 mainboard sockel 1700 ddr4",
+   "firstSeen": "2026-11-08"
   },
   {
    "id": "c-asus-vz249hg-eye-care-gaming-monitor-60-5-cm-24-ips-full-hd-",
@@ -32693,20 +33698,20 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-asus-prime-b550-plus-motherboard-socket-am4-amd-b550-atx-ddr",
+   "id": "c-asus-prime-b550-plus-mainboard-sockel-am4-amd-b550-atx-ddr4",
    "cat": "Mainboards",
    "sub": "AM4 B550",
-   "name": "ASUS Prime B550-Plus Motherboard, Socket AM4, AMD B550, ATX, DDR4",
+   "name": "ASUS Prime B550-Plus Mainboard, Sockel AM4, AMD B550, ATX, DDR4",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/asus-prime-b550-plus-motherboard-socket-am4-amd-b550-atx-ddr4/MBAS-513.html",
-   "stand": "2026-11-07T11:43",
+   "url": "https://www.caseking.de/asus-prime-b550-plus-mainboard-sockel-am4-amd-b550-atx-ddr4/MBAS-513.html",
+   "stand": "2026-11-08T17:11",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 102.21,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/asus-prime-b550-plus-motherboard-socket-am4-amd-b550-atx-ddr4/MBAS-513.html"
+     "url": "https://www.caseking.de/asus-prime-b550-plus-mainboard-sockel-am4-amd-b550-atx-ddr4/MBAS-513.html"
     }
    ],
    "price": 102.21,
@@ -32719,10 +33724,14 @@
     {
      "d": "2026-11-07",
      "p": 102.21
+    },
+    {
+     "d": "2026-11-08",
+     "p": 102.21
     }
    ],
    "count": 1,
-   "tags": "mainboards am4 b550 asus prime b550 plus motherboard socket am4 amd atx ddr4",
+   "tags": "mainboards am4 b550 asus prime b550 plus mainboard sockel am4 amd atx ddr4",
    "firstSeen": "2026-11-05"
   },
   {
@@ -35645,6 +36654,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asus-tuf-gaming-b550-plus-amd-b550-mainboard-sockel-am4",
+   "cat": "Mainboards",
+   "sub": "AM4 B550",
+   "name": "ASUS TUF Gaming B550-Plus, AMD B550 Mainboard - Sockel AM4",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-tuf-gaming-b550-plus-amd-b550-motherboard-socket-am4/MBAS-512.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 115.96,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-tuf-gaming-b550-plus-amd-b550-motherboard-socket-am4/MBAS-512.html"
+    }
+   ],
+   "price": 115.96,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 115.96
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am4 b550 asus tuf gaming b550 plus amd mainboard sockel am4",
+   "firstSeen": "2026-11-08"
+  },
+  {
    "id": "c-samsung-870-evo-2-5-zoll-ssd-sata-6g-250-gb",
    "cat": "SSDs",
    "sub": "SATA 250 GB",
@@ -37393,6 +38431,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler noctua u12a cpu kuhler",
    "firstSeen": "2026-11-07"
+  },
+  {
+   "id": "c-be-quiet-silent-loop-3-aio-cooler-argb-240mm-black",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "be quiet! Silent Loop 3 AIO Cooler, ARGB - 240mm, black",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/be-quiet-silent-loop-3-aio-cooler-argb-240mm-black/WASE-924.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 119.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/be-quiet-silent-loop-3-aio-cooler-argb-240mm-black/WASE-924.html"
+    }
+   ],
+   "price": 119.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 119.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung quiet silent loop aio cooler argb 240mm black",
+   "firstSeen": "2026-11-08"
   },
   {
    "id": "c-philips-e-line-241e1sca-curved-led-monitor-24-full-hd-va-tex",
@@ -39567,20 +40634,20 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-sapphire-pulse-b850m-wifi-motherboard-socket-am5-amd-b850-ma",
+   "id": "c-sapphire-pulse-b850m-wifi-mainboard-sockel-am5-amd-b850-matx",
    "cat": "Mainboards",
    "sub": "AM5 B850",
-   "name": "Sapphire Pulse B850M WiFi motherboard, Socket AM5, AMD B850, mATX, DDR5",
+   "name": "Sapphire Pulse B850M WiFi Mainboard, Sockel AM5, AMD B850, mATX, DDR5",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/sapphire-pulse-b850m-wifi-motherboard-socket-am5-amd-b850-matx-ddr5/MBSP-016.html",
-   "stand": "2026-11-07T11:43",
+   "url": "https://www.caseking.de/sapphire-pulse-b850m-wifi-mainboard-sockel-am5-amd-b850-matx-ddr5/MBSP-016.html",
+   "stand": "2026-11-08T17:11",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 126.98,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/sapphire-pulse-b850m-wifi-motherboard-socket-am5-amd-b850-matx-ddr5/MBSP-016.html"
+     "url": "https://www.caseking.de/sapphire-pulse-b850m-wifi-mainboard-sockel-am5-amd-b850-matx-ddr5/MBSP-016.html"
     }
    ],
    "price": 126.98,
@@ -39593,10 +40660,14 @@
     {
      "d": "2026-11-07",
      "p": 126.98
+    },
+    {
+     "d": "2026-11-08",
+     "p": 126.98
     }
    ],
    "count": 1,
-   "tags": "mainboards am5 b850 sapphire pulse b850m wifi motherboard socket am5 amd b850 matx ddr5",
+   "tags": "mainboards am5 b850 sapphire pulse b850m wifi mainboard sockel am5 amd b850 matx ddr5",
    "firstSeen": "2026-11-05"
   },
   {
@@ -42760,6 +43831,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asrock-b850m-pro-rs-mainboard-sockel-am5-amd-b850-micro-atx-",
+   "cat": "Mainboards",
+   "sub": "AM5 B850",
+   "name": "ASROCK B850M Pro RS Mainboard, Sockel AM5, AMD B850, Micro-ATX, DDR5",
+   "source": "crawler",
+   "url": "https://www.caseking.de/asrock-b850m-pro-rs-mainboard-sockel-am5-amd-b850-micro-atx-ddr5/MBAR-514.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 138.39,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/asrock-b850m-pro-rs-mainboard-sockel-am5-amd-b850-micro-atx-ddr5/MBAR-514.html"
+    }
+   ],
+   "price": 138.39,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 138.39
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 b850 asrock b850m pro mainboard sockel am5 amd b850 micro atx ddr5",
+   "firstSeen": "2026-11-08"
+  },
+  {
    "id": "c-amd-ryzen-5-7400-4-3-ghz-6-core-prozessor-sockel-am5",
    "cat": "Prozessoren",
    "sub": "AM5",
@@ -42946,6 +44046,35 @@
    "count": 1,
    "tags": "monitore 27\" gigabyte gs27fc2 zoll fhd gaming monitor 240hz panel adaptive synchronisation",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-msi-mag-274cqfde-27-zoll-qhd-curved-monitor-180hz-va-panel-a",
+   "cat": "Monitore",
+   "sub": "27\"",
+   "name": "MSI MAG 274CQFDE, 27 Zoll QHD Curved-Monitor, 180Hz, VA-Panel, Adaptive-Sync",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/msi-mag-274cqfde-27-inch-qhd-curved-monitor-180hz-va-panel-adaptive-sync/TFMS-072.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 139,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/msi-mag-274cqfde-27-inch-qhd-curved-monitor-180hz-va-panel-adaptive-sync/TFMS-072.html"
+    }
+   ],
+   "price": 139,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 139
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 27\" msi mag 274cqfde zoll qhd curved monitor 180hz panel adaptive sync",
+   "firstSeen": "2026-11-08"
   },
   {
    "id": "c-thermal-grizzly-tg-amd-am5-mycro-pro-rgb-cpu-kuhler",
@@ -45323,6 +46452,35 @@
    "count": 1,
    "tags": "gehause fractal design meshify white clear midi tower atx weiss",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-alphacool-eisbaer-360-cpu-360mm-wasserkuhlung",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Alphacool Eisbaer 360 CPU 360mm, Wasserkühlung",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Alphacool/Eisbaer-360-CPU-360mm-Wasserk%C3%BChlung/html/product/1287341",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 145.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Alphacool/Eisbaer-360-CPU-360mm-Wasserk%C3%BChlung/html/product/1287341"
+    }
+   ],
+   "price": 145.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 145.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung alphacool eisbaer 360 cpu 360mm wasserkuhlung",
+   "firstSeen": "2026-11-08"
   },
   {
    "id": "c-gigabyte-b650-gaming-x-ax-v2-mainboard-sockel-am5-amd-b650-a",
@@ -49698,20 +50856,20 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-asrock-b850-pro-rs-wifi-motherboard-socket-am5-amd-b850-atx-",
+   "id": "c-asrock-b850-pro-rs-wifi-mainboard-sockel-am5-amd-b850-atx-dd",
    "cat": "Mainboards",
    "sub": "AM5 B850",
-   "name": "ASROCK B850 Pro RS WiFi motherboard, socket AM5, AMD B850, ATX, DDR5",
+   "name": "ASROCK B850 Pro RS WiFi Mainboard, Sockel AM5, AMD B850, ATX, DDR5",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/asrock-b850-pro-rs-wifi-motherboard-socket-am5-amd-b850-atx-ddr5/MBAR-508.html",
-   "stand": "2026-11-07T11:43",
+   "url": "https://www.caseking.de/asrock-b850-pro-rs-wifi-mainboard-sockel-am5-amd-b850-atx-ddr5/MBAR-508.html",
+   "stand": "2026-11-08T17:11",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 160.77,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/asrock-b850-pro-rs-wifi-motherboard-socket-am5-amd-b850-atx-ddr5/MBAR-508.html"
+     "url": "https://www.caseking.de/asrock-b850-pro-rs-wifi-mainboard-sockel-am5-amd-b850-atx-ddr5/MBAR-508.html"
     }
    ],
    "price": 160.77,
@@ -49724,10 +50882,14 @@
     {
      "d": "2026-11-07",
      "p": 160.77
+    },
+    {
+     "d": "2026-11-08",
+     "p": 160.77
     }
    ],
    "count": 1,
-   "tags": "mainboards am5 b850 asrock b850 pro wifi motherboard socket am5 amd atx ddr5",
+   "tags": "mainboards am5 b850 asrock b850 pro wifi mainboard sockel am5 amd atx ddr5",
    "firstSeen": "2026-11-05"
   },
   {
@@ -51128,20 +52290,20 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-asus-prime-b860-plus-wifi-motherboard-socket-lga-1851-intel-",
+   "id": "c-asus-prime-b860-plus-wifi-mainboard-sockel-lga-1851-intel-b8",
    "cat": "Mainboards",
    "sub": "Intel LGA1851 B860",
-   "name": "ASUS Prime B860-Plus WiFi Motherboard, Socket LGA 1851, Intel B860, ATX, DDR5",
+   "name": "ASUS Prime B860-Plus WiFi Mainboard, Sockel LGA 1851, Intel B860, ATX, DDR5",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/asus-prime-b860-plus-wifi-motherboard-socket-lga-1851-intel-b860-atx-ddr5/MBAS-819.html",
-   "stand": "2026-11-07T11:43",
+   "url": "https://www.caseking.de/asus-prime-b860-plus-wifi-mainboard-sockel-lga-1851-intel-b860-atx-ddr5/MBAS-819.html",
+   "stand": "2026-11-08T17:11",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 167.66,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/asus-prime-b860-plus-wifi-motherboard-socket-lga-1851-intel-b860-atx-ddr5/MBAS-819.html"
+     "url": "https://www.caseking.de/asus-prime-b860-plus-wifi-mainboard-sockel-lga-1851-intel-b860-atx-ddr5/MBAS-819.html"
     }
    ],
    "price": 167.66,
@@ -51154,10 +52316,14 @@
     {
      "d": "2026-11-07",
      "p": 167.66
+    },
+    {
+     "d": "2026-11-08",
+     "p": 167.66
     }
    ],
    "count": 1,
-   "tags": "mainboards intel lga1851 b860 asus prime b860 plus wifi motherboard socket lga 1851 intel atx ddr5",
+   "tags": "mainboards intel lga1851 b860 asus prime b860 plus wifi mainboard sockel lga 1851 intel atx ddr5",
    "firstSeen": "2026-11-05"
   },
   {
@@ -51208,6 +52374,35 @@
    "count": 1,
    "tags": "gehause fractal design meshify rgb light midi tower atx schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-gigabyte-b650m-aorus-elite-ax-ice-mainboard-sockel-am5-amd-b",
+   "cat": "Mainboards",
+   "sub": "AM5 B650",
+   "name": "GIGABYTE B650M Aorus Elite AX ICE Mainboard, Sockel AM5, AMD B650, mATX, DDR5",
+   "source": "crawler",
+   "url": "https://www.caseking.de/gigabyte-b650m-aorus-elite-ax-ice-mainboard-sockel-am5-amd-b650-matx-ddr5/MBGB-604.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 168.3,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/gigabyte-b650m-aorus-elite-ax-ice-mainboard-sockel-am5-amd-b650-matx-ddr5/MBGB-604.html"
+    }
+   ],
+   "price": 168.3,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 168.3
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 b650 gigabyte b650m aorus elite ice mainboard sockel am5 amd b650 matx ddr5",
+   "firstSeen": "2026-11-08"
   },
   {
    "id": "c-asus-prime-b660m-a-wifi-d4-mainboard-intel-b660-lga-1700-mic",
@@ -51851,20 +53046,20 @@
    "firstSeen": "2026-11-01"
   },
   {
-   "id": "c-asus-rog-strix-b550-f-gaming-motherboard-socket-am4-amd-b550",
+   "id": "c-asus-rog-strix-b550-f-gaming-mainboard-sockel-am4-amd-b550-a",
    "cat": "Mainboards",
    "sub": "AM4 B550",
-   "name": "ASUS ROG STRIX B550-F Gaming Motherboard, Socket AM4, AMD B550, ATX, DDR4",
+   "name": "ASUS ROG STRIX B550-F Gaming Mainboard, Sockel AM4, AMD B550, ATX, DDR4",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/asus-rog-strix-b550-f-gaming-motherboard-socket-am4-amd-b550-atx-ddr4/MBAS-508.html",
-   "stand": "2026-11-07T11:43",
+   "url": "https://www.caseking.de/asus-rog-strix-b550-f-gaming-mainboard-sockel-am4-amd-b550-atx-ddr4/MBAS-508.html",
+   "stand": "2026-11-08T17:11",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 169.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/asus-rog-strix-b550-f-gaming-motherboard-socket-am4-amd-b550-atx-ddr4/MBAS-508.html"
+     "url": "https://www.caseking.de/asus-rog-strix-b550-f-gaming-mainboard-sockel-am4-amd-b550-atx-ddr4/MBAS-508.html"
     }
    ],
    "price": 169.9,
@@ -51877,10 +53072,14 @@
     {
      "d": "2026-11-07",
      "p": 169.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 169.9
     }
    ],
    "count": 1,
-   "tags": "mainboards am4 b550 asus rog strix b550 gaming motherboard socket am4 amd atx ddr4",
+   "tags": "mainboards am4 b550 asus rog strix b550 gaming mainboard sockel am4 amd atx ddr4",
    "firstSeen": "2026-11-05"
   },
   {
@@ -54316,6 +55515,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-sapphire-nitro-b850a-wifi-7-mainboard-sockel-am5-amd-b850-at",
+   "cat": "Mainboards",
+   "sub": "AM5 B850",
+   "name": "Sapphire Nitro+ B850A WiFi 7 Mainboard, Sockel AM5, AMD B850, ATX, DDR5",
+   "source": "crawler",
+   "url": "https://www.caseking.de/sapphire-nitro-b850a-wifi-7-mainboard-sockel-am5-amd-b850-atx-ddr5/MBSP-012.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 181.56,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/sapphire-nitro-b850a-wifi-7-mainboard-sockel-am5-amd-b850-atx-ddr5/MBSP-012.html"
+    }
+   ],
+   "price": 181.56,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 181.56
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 b850 sapphire nitro b850a wifi mainboard sockel am5 amd b850 atx ddr5",
+   "firstSeen": "2026-11-08"
+  },
+  {
    "id": "c-philips-s-line-243s1-led-monitor-23-8-full-hd-ips-75-hz-hdmi",
    "cat": "Monitore",
    "sub": "23,8\"",
@@ -55281,6 +56509,35 @@
    "firstSeen": "2026-11-06"
   },
   {
+   "id": "c-asus-rog-strix-b550-f-gaming-wifi-ii-amd-b550-mainboard-sock",
+   "cat": "Mainboards",
+   "sub": "AM4 B550",
+   "name": "ASUS ROG STRIX B550-F Gaming WiFi II, AMD B550 Mainboard - Sockel AM4",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-rog-strix-b550-f-gaming-wifi-ii-amd-b550-motherboard-socket-am4/MBAS-622.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 189.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-rog-strix-b550-f-gaming-wifi-ii-amd-b550-motherboard-socket-am4/MBAS-622.html"
+    }
+   ],
+   "price": 189.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 189.9
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am4 b550 asus rog strix b550 gaming wifi amd mainboard sockel am4",
+   "firstSeen": "2026-11-08"
+  },
+  {
    "id": "c-asus-prime-z790-p-intel-z790-mainboard-sockel-1700-ddr5",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 Z790",
@@ -55430,6 +56687,35 @@
    "count": 1,
    "tags": "monitore 14\" asus zenscreen mb14ac tragbarer monitor full ips usb dunkelgrau",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asrock-b850i-lightning-wifi-mainboard-sockel-am5-amd-b850-mi",
+   "cat": "Mainboards",
+   "sub": "AM5 B850",
+   "name": "ASROCK B850I Lightning WiFi Mainboard, Sockel AM5, AMD B850, Mini-ITX, DDR5",
+   "source": "crawler",
+   "url": "https://www.caseking.de/asrock-b850i-lightning-wifi-mainboard-sockel-am5-amd-b850-mini-itx-ddr5/MBAR-513.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 192.61,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/asrock-b850i-lightning-wifi-mainboard-sockel-am5-amd-b850-mini-itx-ddr5/MBAR-513.html"
+    }
+   ],
+   "price": 192.61,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 192.61
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 b850 asrock b850i lightning wifi mainboard sockel am5 amd b850 mini itx ddr5",
+   "firstSeen": "2026-11-08"
   },
   {
    "id": "c-lenovo-thinkvision-p24q-30-23-8-qhd-ips-monitor-raven-black",
@@ -56380,20 +57666,20 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-asrock-z790-livemixer-intel-z790-motherboard-socket-1700-ddr",
+   "id": "c-asrock-z790-livemixer-intel-z790-mainboard-sockel-1700-ddr5",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 Z790",
-   "name": "ASRock Z790 LiveMixer, Intel Z790 motherboard - Socket 1700, DDR5",
+   "name": "ASRock Z790 LiveMixer, Intel Z790 Mainboard - Sockel 1700, DDR5",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/asrock-z790-livemixer-intel-z790-motherboard-socket-1700-ddr5/MBAR-418.html",
-   "stand": "2026-11-07T11:43",
+   "url": "https://www.caseking.de/asrock-z790-livemixer-intel-z790-mainboard-sockel-1700-ddr5/MBAR-418.html",
+   "stand": "2026-11-08T17:11",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 197.72,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/asrock-z790-livemixer-intel-z790-motherboard-socket-1700-ddr5/MBAR-418.html"
+     "url": "https://www.caseking.de/asrock-z790-livemixer-intel-z790-mainboard-sockel-1700-ddr5/MBAR-418.html"
     }
    ],
    "price": 197.72,
@@ -56406,10 +57692,14 @@
     {
      "d": "2026-11-07",
      "p": 197.72
+    },
+    {
+     "d": "2026-11-08",
+     "p": 197.72
     }
    ],
    "count": 1,
-   "tags": "mainboards intel lga1700 z790 asrock z790 livemixer intel motherboard socket 1700 ddr5",
+   "tags": "mainboards intel lga1700 z790 asrock z790 livemixer intel mainboard sockel 1700 ddr5",
    "firstSeen": "2026-11-05"
   },
   {
@@ -57012,6 +58302,64 @@
    "count": 1,
    "tags": "kuhlung aio-wasserkuhlung tryx holo argb 360 aio wasserkuhlung hologramm display schwarz",
    "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "c-hyte-y70-pc-gehause-midi-tower-e-atx-tempered-glass-weiss",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Hyte Y70 PC-Gehäuse, Midi-Tower, E-ATX, Tempered Glass - weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/hyte-y70-pc-gehaeuse-midi-tower-e-atx-tempered-glass-weiss/GEHY-033.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 199.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/hyte-y70-pc-gehaeuse-midi-tower-e-atx-tempered-glass-weiss/GEHY-033.html"
+    }
+   ],
+   "price": 199.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 199.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause hyte y70 midi tower atx tempered glass weiss",
+   "firstSeen": "2026-11-08"
+  },
+  {
+   "id": "c-jonsbo-tf3-360scb-aio-water-cooling-argb-3-5-3x-3-38-lcd-360",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Jonsbo TF3-360SCB AiO Water Cooling, ARGB, 3.5” + 3x 3.38” LCD - 360mm, black",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/jonsbo-tf3-360scb-aio-water-cooling-argb-3.5-3x-3.38-lcd-360mm-black/WASE-957.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 199.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/jonsbo-tf3-360scb-aio-water-cooling-argb-3.5-3x-3.38-lcd-360mm-black/WASE-957.html"
+    }
+   ],
+   "price": 199.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 199.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung jonsbo tf3 360scb aio water cooling argb lcd 360mm black",
+   "firstSeen": "2026-11-08"
   },
   {
    "id": "c-western-digital-blue-sa510-m-2-ssd-sata-6g-1-tb",
@@ -58633,6 +59981,35 @@
    "count": 1,
    "tags": "netzteile 1000 w+ quiet power zone plus platinum netzteil vollmodular atx pcie 200 watt schwarz",
    "firstSeen": "2026-11-02"
+  },
+  {
+   "id": "c-hyte-y70-midi-tower-standard-schwarz-rot",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Hyte Y70 Midi Tower Standard - schwarz / rot",
+   "source": "crawler",
+   "url": "https://www.caseking.de/hyte-y70-midi-tower-standard-schwarz-rot/GEHY-031.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 209.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/hyte-y70-midi-tower-standard-schwarz-rot/GEHY-031.html"
+    }
+   ],
+   "price": 209.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 209.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause hyte y70 midi tower standard schwarz rot",
+   "firstSeen": "2026-11-08"
   },
   {
    "id": "c-gigabyte-z790-aorus-elite-ax-sockel-lga-1700-intel-z790-atx-",
@@ -61005,6 +62382,35 @@
    "firstSeen": "2026-11-06"
   },
   {
+   "id": "c-gigabyte-z890-gaming-x-wifi7-mainboard-sockel-lga-1851-intel",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1851 Z890",
+   "name": "GIGABYTE Z890 Gaming X WiFi7 Mainboard, Sockel LGA 1851, Intel Z890, ATX, DDR5",
+   "source": "crawler",
+   "url": "https://www.caseking.de/gigabyte-z890-gaming-x-wifi7-mainboard-sockel-lga-1851-intel-z890-atx-ddr5/MBGB-635.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 224.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/gigabyte-z890-gaming-x-wifi7-mainboard-sockel-lga-1851-intel-z890-atx-ddr5/MBGB-635.html"
+    }
+   ],
+   "price": 224.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 224.9
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1851 z890 gigabyte z890 gaming wifi7 mainboard sockel lga 1851 intel atx ddr5",
+   "firstSeen": "2026-11-08"
+  },
+  {
    "id": "c-gigabyte-m27q2-qd-ice-27-qhd-200-hz-ss-ips-monitor-weiss",
    "cat": "Monitore",
    "sub": "27\"",
@@ -61103,20 +62509,20 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-asrock-z890m-riptide-wifi-motherboard-socket-lga-1851-intel-",
+   "id": "c-asrock-z890m-riptide-wifi-mainboard-sockel-lga-1851-intel-z8",
    "cat": "Mainboards",
    "sub": "Intel LGA1851 Z890",
-   "name": "ASRock Z890M RIPTIDE WiFi motherboard, socket LGA 1851, Intel Z890, Micro-ATX, DDR5",
+   "name": "ASRock Z890M RIPTIDE WiFi Mainboard, Sockel LGA 1851, Intel Z890, Micro-ATX, DDR5",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/asrock-z890m-riptide-wifi-motherboard-socket-lga-1851-intel-z890-micro-atx-ddr5/MBAR-503.html",
-   "stand": "2026-11-07T11:43",
+   "url": "https://www.caseking.de/asrock-z890m-riptide-wifi-mainboard-sockel-lga-1851-intel-z890-micro-atx-ddr5/MBAR-503.html",
+   "stand": "2026-11-08T17:11",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 226.11,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/asrock-z890m-riptide-wifi-motherboard-socket-lga-1851-intel-z890-micro-atx-ddr5/MBAR-503.html"
+     "url": "https://www.caseking.de/asrock-z890m-riptide-wifi-mainboard-sockel-lga-1851-intel-z890-micro-atx-ddr5/MBAR-503.html"
     }
    ],
    "price": 226.11,
@@ -61129,10 +62535,14 @@
     {
      "d": "2026-11-07",
      "p": 226.11
+    },
+    {
+     "d": "2026-11-08",
+     "p": 226.11
     }
    ],
    "count": 1,
-   "tags": "mainboards intel lga1851 z890 asrock z890m riptide wifi motherboard socket lga 1851 intel z890 micro atx ddr5",
+   "tags": "mainboards intel lga1851 z890 asrock z890m riptide wifi mainboard sockel lga 1851 intel z890 micro atx ddr5",
    "firstSeen": "2026-11-05"
   },
   {
@@ -61797,6 +63207,35 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-samsung-9100-pro-series-nvme-ssd-pcie-5-0-m-2-typ-2280-1tb",
+   "cat": "SSDs",
+   "sub": "PCIe 5.0 1 TB",
+   "name": "Samsung 9100 PRO Series NVMe SSD, PCIe 5.0 M.2 Typ 2280 - 1TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/samsung-9100-pro-series-nvme-ssd-pcie-5.0-m.2-type-2280-1tb/SSSS-207.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 232.92,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/samsung-9100-pro-series-nvme-ssd-pcie-5.0-m.2-type-2280-1tb/SSSS-207.html"
+    }
+   ],
+   "price": 232.92,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 232.92
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 5.0 1 tb samsung 9100 pro series nvme ssd pcie typ 2280 1tb",
+   "firstSeen": "2026-11-08"
+  },
+  {
    "id": "c-asus-prime-x870-p-wifi-mainboard-amd-x870-sockel-am5-atx-ddr",
    "cat": "Mainboards",
    "sub": "AM5 X870",
@@ -62058,20 +63497,20 @@
    "firstSeen": "2026-10-29"
   },
   {
-   "id": "c-asus-prime-z890-p-motherboard-socket-lga-1851-intel-z890-atx",
+   "id": "c-asus-prime-z890-p-mainboard-sockel-lga-1851-intel-z890-atx-d",
    "cat": "Mainboards",
    "sub": "Intel LGA1851 Z890",
-   "name": "ASUS Prime Z890-P motherboard, socket LGA 1851, Intel Z890, ATX, DDR5",
+   "name": "ASUS Prime Z890-P Mainboard, Sockel LGA 1851, Intel Z890, ATX, DDR5",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/asus-prime-z890-p-motherboard-socket-lga-1851-intel-z890-atx-ddr5/MBAS-799.html",
-   "stand": "2026-11-07T11:43",
+   "url": "https://www.caseking.de/asus-prime-z890-p-mainboard-sockel-lga-1851-intel-z890-atx-ddr5/MBAS-799.html",
+   "stand": "2026-11-08T17:11",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 234.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/asus-prime-z890-p-motherboard-socket-lga-1851-intel-z890-atx-ddr5/MBAS-799.html"
+     "url": "https://www.caseking.de/asus-prime-z890-p-mainboard-sockel-lga-1851-intel-z890-atx-ddr5/MBAS-799.html"
     }
    ],
    "price": 234.9,
@@ -62084,10 +63523,14 @@
     {
      "d": "2026-11-07",
      "p": 234.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 234.9
     }
    ],
    "count": 1,
-   "tags": "mainboards intel lga1851 z890 asus prime z890 motherboard socket lga 1851 intel atx ddr5",
+   "tags": "mainboards intel lga1851 z890 asus prime z890 mainboard sockel lga 1851 intel atx ddr5",
    "firstSeen": "2026-11-05"
   },
   {
@@ -64722,6 +66165,64 @@
    "count": 1,
    "tags": "gehause lian o11 dynamic evo big tower weiss",
    "firstSeen": "2026-11-01"
+  },
+  {
+   "id": "c-samsung-990-pro-series-nvme-ssd-pcie-4-0-m-2-typ-2280-1-tb",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 1 TB",
+   "name": "Samsung 990 PRO Series NVMe SSD, PCIe 4.0 M.2 Typ 2280 - 1 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/samsung-990-pro-series-nvme-ssd-pcie-4.0-m.2-type-2280-1-tb/SSSS-193.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 249.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/samsung-990-pro-series-nvme-ssd-pcie-4.0-m.2-type-2280-1-tb/SSSS-193.html"
+    }
+   ],
+   "price": 249.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 249.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 1 tb samsung 990 pro series nvme ssd pcie typ 2280",
+   "firstSeen": "2026-11-08"
+  },
+  {
+   "id": "c-msi-mpg-b850-edge-ti-wifi-mainboard-sockel-am5-amd-b850-atx-",
+   "cat": "Mainboards",
+   "sub": "AM5 B850",
+   "name": "MSI MPG B850 Edge TI WiFi Mainboard, Sockel AM5, AMD B850, ATX, DDR5",
+   "source": "crawler",
+   "url": "https://www.caseking.de/msi-mpg-b850-edge-ti-wifi-mainboard-sockel-am5-amd-b850-atx-ddr5/MBMC-592.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 249.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/msi-mpg-b850-edge-ti-wifi-mainboard-sockel-am5-amd-b850-atx-ddr5/MBMC-592.html"
+    }
+   ],
+   "price": 249.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 249.9
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 b850 msi mpg b850 edge wifi mainboard sockel am5 amd atx ddr5",
+   "firstSeen": "2026-11-08"
   },
   {
    "id": "c-patriot-p400-lite-ssd-pcie-4-0-m-2-typ-2280-2-tb",
@@ -72034,6 +73535,64 @@
    "firstSeen": "2026-11-05"
   },
   {
+   "id": "c-samsung-990-evo-plus-nvme-2-0-ssd-pcie-4-0-x4-5-0-x2-typ-228-89eyp",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 2 TB",
+   "name": "Samsung 990 Evo Plus NVMe 2.0 SSD, PCIe 4.0 x4 / 5.0 x2, Typ 2280 - 2 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/samsung-990-evo-plus-nvme-2.0-ssd-pcie-4.0-x4-5.0-x2-typ-2280-2-tb/SSSS-205.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 349.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/samsung-990-evo-plus-nvme-2.0-ssd-pcie-4.0-x4-5.0-x2-typ-2280-2-tb/SSSS-205.html"
+    }
+   ],
+   "price": 349.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 349.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 2 tb samsung 990 evo plus nvme ssd pcie typ 2280",
+   "firstSeen": "2026-11-08"
+  },
+  {
+   "id": "c-kingston-fury-beast-ex-ddr5-6000-ram-cl40-expo-16-gb-dual-ki",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 16 GB",
+   "name": "Kingston Fury Beast EX DDR5-6000 RAM, CL40, EXPO - 16 GB Dual-Kit, black",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/kingston-fury-beast-ex-ddr5-6000-ram-cl40-expo-16-gb-dual-kit-black/MEKI-098.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 349.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/kingston-fury-beast-ex-ddr5-6000-ram-cl40-expo-16-gb-dual-kit-black/MEKI-098.html"
+    }
+   ],
+   "price": 349.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 349.9
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 16 gb kingston fury beast ddr5 6000 ram cl40 expo dual kit black",
+   "firstSeen": "2026-11-08"
+  },
+  {
    "id": "c-hp-series-7-pro-727pq-27-qhd-ips-black-monitor-120-hz-hdr400",
    "cat": "Monitore",
    "sub": "27\"",
@@ -73942,20 +75501,20 @@
    "firstSeen": "2026-11-01"
   },
   {
-   "id": "c-gigabyte-x870e-aorus-pro-motherboard-socket-am5-amd-x870e-at",
+   "id": "c-gigabyte-x870e-aorus-pro-mainboard-sockel-am5-amd-x870e-atx-",
    "cat": "Mainboards",
    "sub": "AM5 X870",
-   "name": "Gigabyte X870E AORUS Pro motherboard, Socket AM5, AMD X870E, ATX, DDR5",
+   "name": "Gigabyte X870E AORUS Pro Mainboard, Sockel AM5, AMD X870E, ATX, DDR5",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/gigabyte-x870e-aorus-pro-motherboard-socket-am5-amd-x870e-atx-ddr5/MBGB-617.html",
-   "stand": "2026-11-07T11:43",
+   "url": "https://www.caseking.de/gigabyte-x870e-aorus-pro-mainboard-sockel-am5-amd-x870e-atx-ddr5/MBGB-617.html",
+   "stand": "2026-11-08T17:11",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 379.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/gigabyte-x870e-aorus-pro-motherboard-socket-am5-amd-x870e-atx-ddr5/MBGB-617.html"
+     "url": "https://www.caseking.de/gigabyte-x870e-aorus-pro-mainboard-sockel-am5-amd-x870e-atx-ddr5/MBGB-617.html"
     }
    ],
    "price": 379.9,
@@ -73968,10 +75527,14 @@
     {
      "d": "2026-11-07",
      "p": 379.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 379.9
     }
    ],
    "count": 1,
-   "tags": "mainboards am5 x870 gigabyte x870e aorus pro motherboard socket am5 amd atx ddr5",
+   "tags": "mainboards am5 x870 gigabyte x870e aorus pro mainboard sockel am5 amd atx ddr5",
    "firstSeen": "2026-11-05"
   },
   {
@@ -75617,20 +77180,20 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-asus-rog-maximus-z890-hero-motherboard-socket-lga-1851-intel",
+   "id": "c-asus-rog-maximus-z890-hero-mainboard-sockel-lga-1851-intel-z",
    "cat": "Mainboards",
    "sub": "Intel LGA1851 Z890",
-   "name": "ASUS ROG Maximus Z890 Hero motherboard, socket LGA 1851, Intel Z890, ATX, DDR5",
+   "name": "ASUS ROG Maximus Z890 Hero Mainboard, Sockel LGA 1851, Intel Z890, ATX, DDR5",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/asus-rog-maximus-z890-hero-motherboard-socket-lga-1851-intel-z890-atx-ddr5/MBAS-791.html",
-   "stand": "2026-11-07T11:43",
+   "url": "https://www.caseking.de/asus-rog-maximus-z890-hero-mainboard-sockel-lga-1851-intel-z890-atx-ddr5/MBAS-791.html",
+   "stand": "2026-11-08T17:11",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 410.54,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/asus-rog-maximus-z890-hero-motherboard-socket-lga-1851-intel-z890-atx-ddr5/MBAS-791.html"
+     "url": "https://www.caseking.de/asus-rog-maximus-z890-hero-mainboard-sockel-lga-1851-intel-z890-atx-ddr5/MBAS-791.html"
     }
    ],
    "price": 410.54,
@@ -75643,10 +77206,14 @@
     {
      "d": "2026-11-07",
      "p": 410.54
+    },
+    {
+     "d": "2026-11-08",
+     "p": 410.54
     }
    ],
    "count": 1,
-   "tags": "mainboards intel lga1851 z890 asus rog maximus z890 hero motherboard socket lga 1851 intel atx ddr5",
+   "tags": "mainboards intel lga1851 z890 asus rog maximus z890 hero mainboard sockel lga 1851 intel atx ddr5",
    "firstSeen": "2026-11-05"
   },
   {
@@ -76132,20 +77699,49 @@
    "firstSeen": "2026-11-05"
   },
   {
-   "id": "c-asrock-x870e-taichi-motherboard-socket-am5-amd-x870e-eatx-dd",
+   "id": "c-hyte-y70-touch-infinite-pc-gehause-midi-tower-atx-tempered-g-av2jp",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Hyte Y70 Touch Infinite PC-Gehäuse, Midi-Tower, ATX, Tempered Glass - Weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/hyte-y70-touch-infinite-pc-gehaeuse-midi-tower-atx-tempered-glass-weiss/GEHY-034.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 419.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/hyte-y70-touch-infinite-pc-gehaeuse-midi-tower-atx-tempered-glass-weiss/GEHY-034.html"
+    }
+   ],
+   "price": 419.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 419.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause hyte y70 touch infinite midi tower atx tempered glass weiss",
+   "firstSeen": "2026-11-08"
+  },
+  {
+   "id": "c-asrock-x870e-taichi-mainboard-sockel-am5-amd-x870e-eatx-ddr5",
    "cat": "Mainboards",
    "sub": "AM5 X870",
-   "name": "ASRock X870E Taichi motherboard, Socket AM5, AMD X870E, EATX, DDR5",
+   "name": "ASRock X870E Taichi Mainboard, Sockel AM5, AMD X870E, EATX, DDR5",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/asrock-x870e-taichi-motherboard-socket-am5-amd-x870e-eatx-ddr5/MBAR-483.html",
-   "stand": "2026-11-07T11:43",
+   "url": "https://www.caseking.de/asrock-x870e-taichi-mainboard-sockel-am5-amd-x870e-eatx-ddr5/MBAR-483.html",
+   "stand": "2026-11-08T17:11",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 420.03,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/asrock-x870e-taichi-motherboard-socket-am5-amd-x870e-eatx-ddr5/MBAR-483.html"
+     "url": "https://www.caseking.de/asrock-x870e-taichi-mainboard-sockel-am5-amd-x870e-eatx-ddr5/MBAR-483.html"
     }
    ],
    "price": 420.03,
@@ -76158,10 +77754,14 @@
     {
      "d": "2026-11-07",
      "p": 420.03
+    },
+    {
+     "d": "2026-11-08",
+     "p": 420.03
     }
    ],
    "count": 1,
-   "tags": "mainboards am5 x870 asrock x870e taichi motherboard socket am5 amd eatx ddr5",
+   "tags": "mainboards am5 x870 asrock x870e taichi mainboard sockel am5 amd eatx ddr5",
    "firstSeen": "2026-11-05"
   },
   {
@@ -81384,20 +82984,20 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-asrock-trx50-ws-amd-trx50-motherboard-socket-str5-ddr5",
+   "id": "c-asrock-trx50-ws-amd-trx50-mainboard-sockel-str5-ddr5",
    "cat": "Mainboards",
    "sub": "Mainboards",
-   "name": "ASRock TRX50 WS, AMD TRX50 motherboard - Socket sTR5, DDR5",
+   "name": "ASRock TRX50 WS, AMD TRX50 Mainboard - Sockel sTR5, DDR5",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/asrock-trx50-ws-amd-trx50-motherboard-socket-str5-ddr5/MBAR-467.html",
-   "stand": "2026-11-07T11:43",
+   "url": "https://www.caseking.de/asrock-trx50-ws-amd-trx50-mainboard-sockel-str5-ddr5/MBAR-467.html",
+   "stand": "2026-11-08T17:11",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 565.99,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/asrock-trx50-ws-amd-trx50-motherboard-socket-str5-ddr5/MBAR-467.html"
+     "url": "https://www.caseking.de/asrock-trx50-ws-amd-trx50-mainboard-sockel-str5-ddr5/MBAR-467.html"
     }
    ],
    "price": 565.99,
@@ -81410,10 +83010,14 @@
     {
      "d": "2026-11-07",
      "p": 565.99
+    },
+    {
+     "d": "2026-11-08",
+     "p": 565.99
     }
    ],
    "count": 1,
-   "tags": "mainboards asrock trx50 amd motherboard socket str5 ddr5",
+   "tags": "mainboards asrock trx50 amd mainboard sockel str5 ddr5",
    "firstSeen": "2026-11-05"
   },
   {
@@ -83448,6 +85052,35 @@
    "count": 1,
    "tags": "grafikkarten geforce rtx 5060 ti inno3d geforce rtx 5060 8192 gddr7",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-samsung-odyssey-oled-g8-g85sd-34-zoll-gaming-monitor-175hz-q",
+   "cat": "Monitore",
+   "sub": "34\"",
+   "name": "Samsung Odyssey OLED G8 G85SD, 34 Zoll Gaming Monitor, 175Hz, QD OLED, FreeSync Premium Pro & G-SYNC Compatible",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/samsung-odyssey-oled-g8-g85sd-34-inch-gaming-monitor-175hz-qd-oled-freesync-premium-pro-and-g-sync-compatible/TFSS-201.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 619,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/samsung-odyssey-oled-g8-g85sd-34-inch-gaming-monitor-175hz-qd-oled-freesync-premium-pro-and-g-sync-compatible/TFSS-201.html"
+    }
+   ],
+   "price": 619,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 619
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 34\" samsung odyssey oled g85sd zoll gaming monitor 175hz freesync premium pro sync compatible",
+   "firstSeen": "2026-11-08"
   },
   {
    "id": "c-asus-pro-ws-w880-ace-se-atx-lga1851-w880-ddr5-256-gb-ram-gra",
@@ -88108,6 +89741,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asus-rog-strix-oled-xg32ucwg-32-zoll-4k-gaming-monitor-165hz",
+   "cat": "Monitore",
+   "sub": "32\"",
+   "name": "ASUS ROG Strix OLED XG32UCWG, 32 Zoll 4K Gaming Monitor, 165Hz, WOLED, G-SYNC Compatible",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-rog-strix-oled-xg32ucwg-32-inch-4k-gaming-monitor-165hz-woled-g-sync-compatible/TFAS-302.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 799,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-rog-strix-oled-xg32ucwg-32-inch-4k-gaming-monitor-165hz-woled-g-sync-compatible/TFAS-302.html"
+    }
+   ],
+   "price": 799,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 799
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 32\" asus rog strix oled xg32ucwg zoll gaming monitor 165hz woled sync compatible",
+   "firstSeen": "2026-11-08"
+  },
+  {
    "id": "c-nitro-concepts-sm1-curved-monitor-144-hz-49-sim-racing-displ",
    "cat": "Monitore",
    "sub": "49\"",
@@ -88841,6 +90503,35 @@
    "count": 1,
    "tags": "mainboards intel lga1851 z890 gigabyte z890 aero atx mainboard lga 1851 intel ddr5 weiss",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-inno3d-geforce-rtx-5070-twin-x2-oc-white-12288-mb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5070",
+   "name": "INNO3D GeForce RTX 5070 Twin X2 OC White, 12288 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/inno3d-geforce-rtx-5070-twin-x2-oc-white-12288-mb-gddr7/GCI3-302.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 834.46,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/inno3d-geforce-rtx-5070-twin-x2-oc-white-12288-mb-gddr7/GCI3-302.html"
+    }
+   ],
+   "price": 834.46,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 834.46
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5070 inno3d geforce rtx 5070 twin white 12288 gddr7",
+   "firstSeen": "2026-11-08"
   },
   {
    "id": "c-alogic-clarity-pro-27c4kpdw-68-6cm-27-4k-uhd-ips-monitor-hdm",
@@ -90584,6 +92275,35 @@
    "count": 1,
    "tags": "grafikkarten geforce rtx 5060 ti gainward geforce rtx 5060 python iii 16384 gddr7",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-samsung-odyssey-oled-g9-g95sd-49-zoll-gaming-monitor-240hz-q",
+   "cat": "Monitore",
+   "sub": "49\"",
+   "name": "Samsung Odyssey OLED G9 G95SD, 49 Zoll Gaming Monitor, 240Hz, QD-OLED, G-SYNC Compatible",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/samsung-odyssey-oled-g9-g95sd-49-inch-gaming-monitor-240-hz-qd-oled-g-sync-compatible/TFSS-203.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 909,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/samsung-odyssey-oled-g9-g95sd-49-inch-gaming-monitor-240-hz-qd-oled-g-sync-compatible/TFSS-203.html"
+    }
+   ],
+   "price": 909,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 909
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 49\" samsung odyssey oled g95sd zoll gaming monitor 240hz sync compatible",
+   "firstSeen": "2026-11-08"
   },
   {
    "id": "c-msi-mpg-321urxde-qd-oled-gaming-monitor-31-5-4k-240hz-schwar",
@@ -92591,39 +94311,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-samsung-odyssey-oled-g9-49-inch-gaming-monitor-240-hz",
-   "cat": "Monitore",
-   "sub": "Monitore",
-   "name": "Samsung Odyssey OLED G9 49-inch Gaming Monitor 240 Hz",
-   "source": "crawler",
-   "url": "https://www.sim-verse.com/en-de/samsung-odyssey-oled-g9-49-inch-gaming-monitor-240-hz/TFSS-204.html",
-   "stand": "2026-11-08T15:41",
-   "offers": [
-    {
-     "shop": "sim-verse.com",
-     "price": 999,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.sim-verse.com/en-de/samsung-odyssey-oled-g9-49-inch-gaming-monitor-240-hz/TFSS-204.html"
-    }
-   ],
-   "price": 999,
-   "shop": "sim-verse.com",
-   "hist": [
-    {
-     "d": "2026-11-07",
-     "p": 999
-    },
-    {
-     "d": "2026-11-08",
-     "p": 999
-    }
-   ],
-   "count": 1,
-   "tags": "monitore samsung odyssey oled inch gaming monitor 240",
-   "firstSeen": "2026-11-07"
-  },
-  {
    "id": "c-benq-ma-series-ma270s-27-5k-ips-thunderbolt-4-monitor-silber",
    "cat": "Monitore",
    "sub": "27\"",
@@ -93940,6 +95627,35 @@
    "count": 1,
    "tags": "monitore 39\" ultragear 39gx90sa oled monitor gaming gebogen aeu",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-pro-ws-w790e-sage-se-intel-w790-mainboard-sockel-lga-46",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "ASUS Pro WS W790E-SAGE SE, Intel W790 Mainboard, Sockel LGA 4677, DDR5",
+   "source": "crawler",
+   "url": "https://www.caseking.de/asus-pro-ws-w790e-sage-se-intel-w790-mainboard-sockel-lga-4677-ddr5/MBAS-749.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 1181.76,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/asus-pro-ws-w790e-sage-se-intel-w790-mainboard-sockel-lga-4677-ddr5/MBAS-749.html"
+    }
+   ],
+   "price": 1181.76,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 1181.76
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards asus pro w790e sage intel w790 mainboard sockel lga 4677 ddr5",
+   "firstSeen": "2026-11-08"
   },
   {
    "id": "c-asus-rog-crosshair-x870e-glacial-gaming-mainboard-e-atx-sock",
@@ -97615,39 +99331,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-samsung-odyssey-neo-g9-g95nc-57-gaming-monitor",
-   "cat": "Monitore",
-   "sub": "57\"",
-   "name": "Samsung Odyssey Neo G9 G95NC 57\" Gaming Monitor",
-   "source": "crawler",
-   "url": "https://www.sim-verse.com/en-de/samsung-odyssey-neo-g9-g95nc-57-gaming-monitor/TFSS-178.html",
-   "stand": "2026-11-08T15:41",
-   "offers": [
-    {
-     "shop": "sim-verse.com",
-     "price": 1999,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.sim-verse.com/en-de/samsung-odyssey-neo-g9-g95nc-57-gaming-monitor/TFSS-178.html"
-    }
-   ],
-   "price": 1999,
-   "shop": "sim-verse.com",
-   "hist": [
-    {
-     "d": "2026-11-07",
-     "p": 1999
-    },
-    {
-     "d": "2026-11-08",
-     "p": 1999
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 57\" samsung odyssey neo g95nc gaming monitor",
-   "firstSeen": "2026-11-07"
-  },
-  {
    "id": "c-captiva-advanced-gaming-r98-253-amd-ryzen-5-7500x3d-32-gb-ra",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5060 Ti",
@@ -98977,6 +100660,64 @@
    "count": 1,
    "tags": "grafikkarten geforce rtx 5070 captiva highend gaming r89 846 amd ryzen 7500f nvidia geforce rtx 5070 ram ssd schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-inno3d-geforce-rtx-5080-x3-oc-16384-mb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5080",
+   "name": "INNO3D GeForce RTX 5080 X3 OC, 16384 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/inno3d-geforce-rtx-5080-x3-oc-16384-mb-gddr7/GCI3-289.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 2299,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/inno3d-geforce-rtx-5080-x3-oc-16384-mb-gddr7/GCI3-289.html"
+    }
+   ],
+   "price": 2299,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 2299
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5080 inno3d geforce rtx 5080 16384 gddr7",
+   "firstSeen": "2026-11-08"
+  },
+  {
+   "id": "c-inno3d-geforce-rtx-5080-ichill-frostbite-16384-mb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5080",
+   "name": "INNO3D GeForce RTX 5080 iChill Frostbite, 16384 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/inno3d-geforce-rtx-5080-ichill-frostbite-16384-mb-gddr7/GCI3-293.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 2299,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/inno3d-geforce-rtx-5080-ichill-frostbite-16384-mb-gddr7/GCI3-293.html"
+    }
+   ],
+   "price": 2299,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 2299
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5080 inno3d geforce rtx 5080 ichill frostbite 16384 gddr7",
+   "firstSeen": "2026-11-08"
   },
   {
    "id": "c-hp-omen-16-ap0295ng-16-amd-ryzen-9-8940hx-32-gb-ram-1-tb-ssd",
@@ -101809,6 +103550,64 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-zotac-gaming-geforce-rtx-5090-solid-32768-mb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5090",
+   "name": "ZOTAC GAMING GeForce RTX 5090 SOLID, 32768 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/zotac-gaming-geforce-rtx-5090-solid-32768-mb-gddr7/GCZT-263.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 8899,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/zotac-gaming-geforce-rtx-5090-solid-32768-mb-gddr7/GCZT-263.html"
+    }
+   ],
+   "price": 8899,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 8899
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5090 zotac gaming geforce rtx 5090 solid 32768 gddr7",
+   "firstSeen": "2026-11-08"
+  },
+  {
+   "id": "c-zotac-gaming-geforce-rtx-5090-arcticstorm-aio-32768-mb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5090",
+   "name": "ZOTAC GAMING GeForce RTX 5090 ARCTICSTORM AIO, 32768 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/zotac-gaming-geforce-rtx-5090-arcticstorm-aio-32768-mb-gddr7/GCZT-300.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 8899,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/zotac-gaming-geforce-rtx-5090-arcticstorm-aio-32768-mb-gddr7/GCZT-300.html"
+    }
+   ],
+   "price": 8899,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 8899
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5090 zotac gaming geforce rtx 5090 arcticstorm aio 32768 gddr7",
+   "firstSeen": "2026-11-08"
+  },
+  {
    "id": "c-zotac-gaming-geforce-rtx-5090-amp-extreme-infinity-32768-mb-",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5090",
@@ -101950,6 +103749,35 @@
    "count": 1,
    "tags": "grafikkarten geforce rtx 5090 zotac gaming geforce rtx 5090 solid white edition 32768 gddr7",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-inno3d-geforce-rtx-5090-x3-32768-mb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5090",
+   "name": "INNO3D GeForce RTX 5090 X3, 32768 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/inno3d-geforce-rtx-5090-x3-32768-mb-gddr7/GCI3-305.html",
+   "stand": "2026-11-08T17:11",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 8999.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/inno3d-geforce-rtx-5090-x3-32768-mb-gddr7/GCI3-305.html"
+    }
+   ],
+   "price": 8999.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 8999.9
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5090 inno3d geforce rtx 5090 32768 gddr7",
+   "firstSeen": "2026-11-08"
   },
   {
    "id": "c-msi-geforce-rtx-5090-32g-gaming-trio-oc-grafikkarte-32-gb-gd",
