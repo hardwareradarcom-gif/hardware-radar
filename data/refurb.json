@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T19:58:29.693Z",
+ "updated": "2026-11-09T21:51:50.688Z",
  "products": [
   {
    "id": "r-acer-b246hylbymiprx-23-8-full-hd-1920x1080-display-hdmi-disp",
@@ -2288,25 +2288,6 @@
     }
    ],
    "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-lenovo-thinkcentre-m720q-tiny-usdt-intel-six-core-i5-256gb-s",
-   "cat": "PCs & Workstations",
-   "name": "Lenovo ThinkCentre M720q Tiny USDT Intel Six Core i5 256GB SSD 8GB Windows 11 Pro",
-   "brand": "Lenovo",
-   "price": 289,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/lenovo-thinkcentre-m720q-tiny-usdt-intel-six-core-i5-256gb-ssd-8gb-windows-11-pro-13",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkCentre-M720q-Tiny-4_e586abb2-bbe8-49fa-9667-23f7d3004e32.jpg?v=1741646638",
-   "hist": [
-    {
-     "d": "2026-11-06",
-     "p": 289
-    }
-   ],
-   "firstSeen": "2026-11-06"
   },
   {
    "id": "r-hp-prodesk-600-g4-sff-intel-core-i5-8500-8gb-ram-512gb-ssd-w",
@@ -30744,6 +30725,25 @@
    "firstSeen": "2026-11-05"
   },
   {
+   "id": "r-hp-probook-x360-435-g8-13-3-touch-display-amd-ryzen-7-pro-58",
+   "cat": "Laptops",
+   "name": "HP ProBook x360 435 G8, 13,3” Touch Display, AMD Ryzen 7 Pro 5850U, 16GB RAM, 512GB SSD, Fingerprint Reader, Windows 11 Pro, ESET Internet Security",
+   "brand": "HP",
+   "price": 559,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/hp-probook-x360-435-g8-13-3-touch-display-amd-ryzen-7-pro-5850u-16gb-ram-512gb-ssd-fingerprint-reader-windows-11-pro-eset-internet-security",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-ProBook-x360-435-G8-1.jpg?v=1794241391",
+   "hist": [
+    {
+     "d": "2026-11-09",
+     "p": 559
+    }
+   ],
+   "firstSeen": "2026-11-09"
+  },
+  {
    "id": "r-lenovo-thinkcentre-m80q-tiny-intel-core-i5-10500t-256gb-ssd-",
    "cat": "PCs & Workstations",
    "name": "Lenovo ThinkCentre M80q Tiny Intel Core i5-10500T 256GB SSD 16GB Windows 11 Pro",
@@ -34075,6 +34075,10 @@
     },
     {
      "d": "2026-11-08",
+     "p": 619
+    },
+    {
+     "d": "2026-11-09",
      "p": 619
     }
    ],
@@ -37767,6 +37771,25 @@
     }
    ],
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "r-hp-probook-x360-435-g8-13-3-touch-display-amd-ryzen-7-pro-58",
+   "cat": "Laptops",
+   "name": "HP ProBook x360 435 G8, 13,3” Touch Display, AMD Ryzen 7 Pro 5850U, 16GB RAM, 512GB SSD, Fingerprint Reader, Windows 11 Pro, ESET Internet Security",
+   "brand": "HP",
+   "price": 679,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/hp-probook-x360-435-g8-13-3-touch-display-amd-ryzen-7-pro-5850u-16gb-ram-512gb-ssd-fingerprint-reader-windows-11-pro-eset-internet-security-1",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-ProBook-x360-435-G8-1.jpg?v=1794241391",
+   "hist": [
+    {
+     "d": "2026-11-09",
+     "p": 679
+    }
+   ],
+   "firstSeen": "2026-11-09"
   },
   {
    "id": "r-hp-elite-mini-800-g9-intel-core-i5-13500t-16gb-ram-256gb-ssd",
