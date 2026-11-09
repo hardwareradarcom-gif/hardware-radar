@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T17:58:52.552Z",
+ "updated": "2026-11-09T19:58:29.693Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1055,6 +1055,10 @@
     {
      "d": "2026-11-07",
      "p": 59.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 59.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -1096,6 +1100,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 59.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 59.9
     }
    ],
@@ -1319,12 +1327,12 @@
    "id": "c-lenovo-sk-hynix-ssd-512-gb-m-2-2280-pcie-4-0-x4-nvme",
    "name": "Lenovo SK Hynix SSD 512 GB M.2 2280 PCIe 4.0 x4 NVMe",
    "cat": "SSDs",
-   "price": 249.67,
+   "price": 246.63,
    "ref": 360.25,
    "shop": "JACOB Elektronik GmbH",
    "shopUrl": "https://www.jacob.de/produkt/lenovo-sk-hynix-ssd-512-gb-m-2-2280-pcie-4-0-x4-nvme-9088676/",
    "url": "https://www.jacob.de/produkt/lenovo-sk-hynix-ssd-512-gb-m-2-2280-pcie-4-0-x4-nvme-9088676/",
-   "note": "31 % unter dem mittleren Preis der letzten 30 Tage.",
+   "note": "32 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
      "d": "2026-10-30",
@@ -1349,6 +1357,10 @@
     {
      "d": "2026-11-07",
      "p": 249.67
+    },
+    {
+     "d": "2026-11-09",
+     "p": 246.63
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -1927,6 +1939,52 @@
    "seen": "2026-11-09",
    "updated": "2026-11-09",
    "tags": "monitore 45\" lenovo legion r45w gebogener led monitor 5120 1440 165 usb schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-lexar-nm610-pro-nvme-ssd-pcie-3-0-m-2-typ-2280-500-gb",
+   "name": "Lexar NM610 Pro NVMe SSD, PCIe 3.0 M.2 Typ 2280 - 500 GB",
+   "cat": "SSDs",
+   "price": 84.9,
+   "ref": 98.76,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/lexar-nm610-pro-nvme-ssd-pcie-3.0-m.2-type-2280-500-gb/SSLX-021.html",
+   "url": "https://www.caseking.de/en/lexar-nm610-pro-nvme-ssd-pcie-3.0-m.2-type-2280-500-gb/SSLX-021.html",
+   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 98.76
+    },
+    {
+     "d": "2026-10-31",
+     "p": 98.76
+    },
+    {
+     "d": "2026-11-02",
+     "p": 98.76
+    },
+    {
+     "d": "2026-11-03",
+     "p": 98.76
+    },
+    {
+     "d": "2026-11-05",
+     "p": 98.76
+    },
+    {
+     "d": "2026-11-07",
+     "p": 98.76
+    },
+    {
+     "d": "2026-11-09",
+     "p": 84.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-09",
+   "updated": "2026-11-09",
+   "tags": "ssds nvme 500 gb lexar nm610 pro nvme ssd pcie typ 2280 500",
    "source": "crawler"
   },
   {
