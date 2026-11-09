@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T11:26:28.434Z",
+ "updated": "2026-11-09T11:59:14.169Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1977,6 +1977,52 @@
    "seen": "2026-11-09",
    "updated": "2026-11-09",
    "tags": "monitore 45\" lenovo legion r45w gebogener led monitor 5120 1440 165 usb schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-noctua-nh-d12l-chromax-black-cpu-kuhler",
+   "name": "Noctua NH-D12L chromax.black, CPU-Kühler",
+   "cat": "Kühlung",
+   "price": 94.9,
+   "ref": 109.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/Noctua/Noctua-NH-D12L-chromax-black-CPU-K%C3%BChler/html/product/100229212",
+   "url": "https://www.alternate.de/Noctua/Noctua-NH-D12L-chromax-black-CPU-K%C3%BChler/html/product/100229212",
+   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-03",
+     "p": 109.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 109.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 109.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 109.9
+    },
+    {
+     "d": "2026-11-07",
+     "p": 94.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 94.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 94.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-09",
+   "updated": "2026-11-09",
+   "tags": "kuhlung luftkuhler noctua d12l chromax black cpu kuhler",
    "source": "crawler"
   },
   {
