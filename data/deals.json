@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T11:59:14.169Z",
+ "updated": "2026-11-09T14:23:17.069Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1538,68 +1538,6 @@
    "source": "crawler"
   },
   {
-   "id": "c-msi-pro-b850-s-wifi6e-mainboard",
-   "name": "MSI PRO B850-S WIFI6E, Mainboard",
-   "cat": "Mainboards",
-   "price": 131.9,
-   "ref": 162.9,
-   "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/MSI/PRO-B850-S-WIFI6E-Mainboard/html/product/100140537",
-   "url": "https://www.alternate.de/MSI/PRO-B850-S-WIFI6E-Mainboard/html/product/100140537",
-   "note": "19 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-29",
-     "p": 162.9
-    },
-    {
-     "d": "2026-10-30",
-     "p": 162.9
-    },
-    {
-     "d": "2026-10-31",
-     "p": 162.9
-    },
-    {
-     "d": "2026-11-01",
-     "p": 162.9
-    },
-    {
-     "d": "2026-11-02",
-     "p": 162.9
-    },
-    {
-     "d": "2026-11-03",
-     "p": 162.9
-    },
-    {
-     "d": "2026-11-04",
-     "p": 162.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 162.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 131.9
-    },
-    {
-     "d": "2026-11-07",
-     "p": 131.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 131.9
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-09",
-   "updated": "2026-11-09",
-   "tags": "mainboards am5 b850 msi pro b850 wifi6e mainboard",
-   "source": "crawler"
-  },
-  {
    "id": "c-hp-p24-g4-23-8-fhd-1920x1080-office-monitor-schwarz",
    "name": "HP P24 G4 23.8\" FHD 1920x1080 Office Monitor Schwarz",
    "cat": "Monitore",
@@ -1970,6 +1908,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 643.06
+    },
+    {
+     "d": "2026-11-09",
      "p": 643.06
     }
    ],

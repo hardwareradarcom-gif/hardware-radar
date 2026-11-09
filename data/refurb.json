@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T11:59:14.169Z",
+ "updated": "2026-11-09T14:23:17.069Z",
  "products": [
   {
    "id": "r-acer-b246hylbymiprx-23-8-full-hd-1920x1080-display-hdmi-disp",
@@ -3067,6 +3067,49 @@
     {
      "d": "2026-11-08",
      "p": 299
+    },
+    {
+     "d": "2026-11-09",
+     "p": 299
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "r-lenovo-thinkpad-l480-14-zoll-1920-1080-full-hd-intel-core-i5",
+   "cat": "Laptops",
+   "name": "Lenovo ThinkPad L480 14 Zoll 1920×1080 Full HD Intel Core i5 256GB SSD 8GB Windows 11 Pro Webcam",
+   "brand": "Lenovo",
+   "price": 299,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkpad-l480-14-zoll-1920-1080-full-hd-intel-core-i5-256gb-ssd-8gb-windows-11-pro-webcam-1",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-L480-0_cfe2243e-b757-4cf4-9988-a22b31d20e55.jpg?v=1770992414",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 279
+    },
+    {
+     "d": "2026-10-31",
+     "p": 279
+    },
+    {
+     "d": "2026-11-01",
+     "p": 279
+    },
+    {
+     "d": "2026-11-02",
+     "p": 279
+    },
+    {
+     "d": "2026-11-03",
+     "p": 279
+    },
+    {
+     "d": "2026-11-04",
+     "p": 279
     },
     {
      "d": "2026-11-09",
@@ -12624,6 +12667,25 @@
    "firstSeen": "2026-11-05"
   },
   {
+   "id": "r-lenovo-thinkpad-t480s-14-zoll-1920x1080-full-hd-intel-core-i",
+   "cat": "Laptops",
+   "name": "Lenovo ThinkPad T480s 14 Zoll 1920x1080 Full HD Intel Core i7 512GB SSD 16GB Windows 11 Pro Webcam",
+   "brand": "Lenovo",
+   "price": 389,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkpad-t480s-14-zoll-1920x1080-full-hd-intel-core-i7-512gb-ssd-16gb-windows-11-pro-webcam-5",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-T480s-0_2f6991e9-1dab-45e1-9983-c45a91d3aba1.jpg?v=1770990615",
+   "hist": [
+    {
+     "d": "2026-11-09",
+     "p": 389
+    }
+   ],
+   "firstSeen": "2026-11-09"
+  },
+  {
    "id": "r-lenovo-thinkcentre-m720t-intel-six-core-i5-8400-8gb-ram-256g",
    "cat": "PCs & Workstations",
    "name": "Lenovo ThinkCentre M720t, Intel Six Core i5 8400, 8GB RAM, 256GB SSD, DVD Brenner, Windows 11 Pro",
@@ -13996,53 +14058,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "r-hp-prodesk-400-g6-desktop-mini-intel-core-i5-10500t-8gb-ram-",
-   "cat": "PCs & Workstations",
-   "name": "HP ProDesk 400 G6 Desktop Mini, Intel Core i5 10500T, 8GB RAM, 256GB SSD, Wi-Fi, Bluetooth, Windows 11 Pro, ESET Internet Security",
-   "brand": "HP",
-   "price": 419,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/hp-prodesk-400-g6-desktop-mini-intel-core-i5-10500t-8gb-ram-256gb-ssd-wi-fi-bluetooth-windows-11-pro-eset-internet-security",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-ProDesk-400-G6-DM-1.png?v=1770990555",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 359
-    },
-    {
-     "d": "2026-10-31",
-     "p": 359
-    },
-    {
-     "d": "2026-11-01",
-     "p": 359
-    },
-    {
-     "d": "2026-11-02",
-     "p": 359
-    },
-    {
-     "d": "2026-11-03",
-     "p": 419
-    },
-    {
-     "d": "2026-11-04",
-     "p": 419
-    },
-    {
-     "d": "2026-11-05",
-     "p": 419
-    },
-    {
-     "d": "2026-11-06",
-     "p": 419
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "r-fujitsu-esprimo-d958-intel-core-i5-8500-8gb-ram-256gb-ssd-dv",
    "cat": "PCs & Workstations",
    "name": "Fujitsu Esprimo D958, Intel Core i5 8500, 8GB RAM, 256GB SSD, DVD-RW, Windows 11 Pro, ESET Internet Security",
@@ -14941,6 +14956,25 @@
     }
    ],
    "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "r-dell-latitude-5420-14-zoll-1920x1080-full-hd-intel-core-i5-2",
+   "cat": "Laptops",
+   "name": "Dell Latitude 5420 14 Zoll 1920x1080 Full HD Intel Core i5 256GB SSD 16GB Windows 11 Pro Webcam",
+   "brand": "Dell",
+   "price": 419,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/dell-latitude-5420-14-zoll-1920x1080-full-hd-intel-core-i5-256gb-ssd-16gb-windows-11-pro-webcam-6",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Latitude-5420-0_0d5a9261-2310-4b2d-8dd6-edfa1a938131.jpg?v=1770990732",
+   "hist": [
+    {
+     "d": "2026-11-09",
+     "p": 419
+    }
+   ],
+   "firstSeen": "2026-11-09"
   },
   {
    "id": "r-dell-ultrasharp-u3421we-34-uwqhd-3440x1440-display-hdmi-disp",
@@ -16221,53 +16255,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "r-hp-elitedesk-800-g6-desktop-mini-intel-core-i5-10500-8gb-ram",
-   "cat": "PCs & Workstations",
-   "name": "HP EliteDesk 800 G6 Desktop Mini, Intel Core i5 10500, 8GB RAM, 256GB SSD, Windows 11 Pro, ESET Internet Security",
-   "brand": "HP",
-   "price": 439,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/hp-elitedesk-800-g6-desktop-mini-intel-core-i5-10500-8gb-ram-256gb-ssd-windows-11-pro-1",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteDesk-800-G6-DM-0_b17699f8-0e4b-4f0f-b536-8377a701978a.jpg?v=1757519131",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 439
-    },
-    {
-     "d": "2026-10-31",
-     "p": 439
-    },
-    {
-     "d": "2026-11-01",
-     "p": 439
-    },
-    {
-     "d": "2026-11-02",
-     "p": 439
-    },
-    {
-     "d": "2026-11-03",
-     "p": 439
-    },
-    {
-     "d": "2026-11-04",
-     "p": 439
-    },
-    {
-     "d": "2026-11-05",
-     "p": 439
-    },
-    {
-     "d": "2026-11-06",
-     "p": 439
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "r-fujitsu-lifebook-u7410-14-fhd-display-intel-core-i5-10310u-1",
    "cat": "Laptops",
    "name": "Fujitsu Lifebook U7410, 14\" FHD Display, Intel Core i5 10310U, 16GB RAM, 512GB SSD, LTE 4G, Windows 11 Pro, ESET Internet Security",
@@ -16368,6 +16355,10 @@
     },
     {
      "d": "2026-11-06",
+     "p": 439
+    },
+    {
+     "d": "2026-11-09",
      "p": 439
     }
    ],
@@ -17135,53 +17126,6 @@
     },
     {
      "d": "2026-11-09",
-     "p": 449
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-hp-elitebook-840-g5-14-zoll-1920x1080-full-hd-intel-core-i7-",
-   "cat": "Laptops",
-   "name": "HP EliteBook 840 G5 14 Zoll 1920x1080 Full HD Intel Core i7 512GB SSD 16GB Windows 11 Pro LTE Fingerprint",
-   "brand": "HP",
-   "price": 449,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/hp-elitebook-840-g5-14-zoll-1920x1080-full-hd-intel-core-i7-512gb-ssd-16gb-windows-11-pro-lte-fingerprint",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-840-G5-0_c41680c9-d1ba-46cd-a0ed-319637064300.png?v=1770991031",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 449
-    },
-    {
-     "d": "2026-10-31",
-     "p": 449
-    },
-    {
-     "d": "2026-11-01",
-     "p": 449
-    },
-    {
-     "d": "2026-11-02",
-     "p": 449
-    },
-    {
-     "d": "2026-11-03",
-     "p": 449
-    },
-    {
-     "d": "2026-11-04",
-     "p": 449
-    },
-    {
-     "d": "2026-11-05",
-     "p": 449
-    },
-    {
-     "d": "2026-11-06",
      "p": 449
     }
    ],
@@ -24042,6 +23986,25 @@
     }
    ],
    "firstSeen": "2026-11-03"
+  },
+  {
+   "id": "r-hp-elitebook-850-g5-15-6-zoll-1920x1080-full-hd-intel-core-i",
+   "cat": "Laptops",
+   "name": "HP EliteBook 850 G5 15,6 Zoll 1920x1080 Full HD Intel Core i7 512GB SSD 16GB Windows 11 Pro Webcam",
+   "brand": "HP",
+   "price": 499,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/hp-elitebook-850-g5-15-6-zoll-1920x1080-full-hd-intel-core-i7-512gb-ssd-16gb-windows-11-pro-webcam",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-850-G5-0_e82d5f36-bc0e-4d62-9a7b-845bb7d3ac9b.jpg?v=1770992051",
+   "hist": [
+    {
+     "d": "2026-11-09",
+     "p": 499
+    }
+   ],
+   "firstSeen": "2026-11-09"
   },
   {
    "id": "r-hp-elitedesk-800-g6-desktop-mini-intel-six-core-i5-256gb-ssd",
@@ -35385,6 +35348,65 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "r-lenovo-thinkpad-x1-yoga-gen-6-14-touch-display-intel-core-i7",
+   "cat": "Laptops",
+   "name": "Lenovo ThinkPad X1 Yoga Gen 6, 14\" Touch Display, Intel Core i7 1185G7, 32GB RAM, 512GB SSD, Webcam, Windows 11 Pro",
+   "brand": "Lenovo",
+   "price": 629,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkpad-x1-yoga-gen-6-14-touch-display-intel-core-i7-1185g7-32gb-ram-512gb-ssd-webcam-windows-11-pro",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-X1-Yoga-Gen-6-2_f3662243-33ed-4297-b022-a46fa7f209c1.jpg?v=1770990974",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 719
+    },
+    {
+     "d": "2026-10-31",
+     "p": 719
+    },
+    {
+     "d": "2026-11-01",
+     "p": 719
+    },
+    {
+     "d": "2026-11-02",
+     "p": 719
+    },
+    {
+     "d": "2026-11-03",
+     "p": 719
+    },
+    {
+     "d": "2026-11-04",
+     "p": 719
+    },
+    {
+     "d": "2026-11-05",
+     "p": 719
+    },
+    {
+     "d": "2026-11-06",
+     "p": 719
+    },
+    {
+     "d": "2026-11-07",
+     "p": 719
+    },
+    {
+     "d": "2026-11-08",
+     "p": 719
+    },
+    {
+     "d": "2026-11-09",
+     "p": 629
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "r-lenovo-thinkpad-t14-gen-1-14-zoll-touch-display-intel-core-i",
    "cat": "Laptops",
    "name": "Lenovo ThinkPad T14 Gen 1 14 Zoll Touch Display Intel Core i5 256GB SSD 16GB Windows 11 Pro Fingerprint Webcam",
@@ -38557,65 +38579,6 @@
    "url": "https://it-versand.com/products/hp-elite-mini-800-g9-intel-core-i5-13500t-16gb-ram-256gb-ssd-windows-11-pro-1",
    "avail": "Auf Lager",
    "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-Elite-Mini-800-G9-1.jpg?v=1784809773",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 719
-    },
-    {
-     "d": "2026-10-31",
-     "p": 719
-    },
-    {
-     "d": "2026-11-01",
-     "p": 719
-    },
-    {
-     "d": "2026-11-02",
-     "p": 719
-    },
-    {
-     "d": "2026-11-03",
-     "p": 719
-    },
-    {
-     "d": "2026-11-04",
-     "p": 719
-    },
-    {
-     "d": "2026-11-05",
-     "p": 719
-    },
-    {
-     "d": "2026-11-06",
-     "p": 719
-    },
-    {
-     "d": "2026-11-07",
-     "p": 719
-    },
-    {
-     "d": "2026-11-08",
-     "p": 719
-    },
-    {
-     "d": "2026-11-09",
-     "p": 719
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-lenovo-thinkpad-x1-yoga-gen-6-14-touch-display-intel-core-i7",
-   "cat": "Laptops",
-   "name": "Lenovo ThinkPad X1 Yoga Gen 6, 14\" Touch Display, Intel Core i7 1185G7, 32GB RAM, 512GB SSD, Webcam, Windows 11 Pro",
-   "brand": "Lenovo",
-   "price": 719,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/lenovo-thinkpad-x1-yoga-gen-6-14-touch-display-intel-core-i7-1185g7-32gb-ram-512gb-ssd-webcam-windows-11-pro",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-X1-Yoga-Gen-6-2_f3662243-33ed-4297-b022-a46fa7f209c1.jpg?v=1770990974",
    "hist": [
     {
      "d": "2026-10-30",
