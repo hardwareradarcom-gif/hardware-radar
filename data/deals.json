@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T14:23:17.069Z",
+ "updated": "2026-11-09T16:05:56.952Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1198,6 +1198,68 @@
    "source": "crawler"
   },
   {
+   "id": "c-alphacool-core-1-aurora-black-cpu-kuhler",
+   "name": "Alphacool Core 1 Aurora Black, CPU-Kühler",
+   "cat": "Kühlung",
+   "price": 77.99,
+   "ref": 122.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/Alphacool/Core-1-Aurora-Black-CPU-K%C3%BChler/html/product/100218433",
+   "url": "https://www.alternate.de/Alphacool/Core-1-Aurora-Black-CPU-K%C3%BChler/html/product/100218433",
+   "note": "37 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 122.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 77.99
+    },
+    {
+     "d": "2026-11-07",
+     "p": 77.99
+    },
+    {
+     "d": "2026-11-08",
+     "p": 77.99
+    },
+    {
+     "d": "2026-11-09",
+     "p": 77.99
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-09",
+   "updated": "2026-11-09",
+   "tags": "kuhlung luftkuhler alphacool core aurora black cpu kuhler",
+   "source": "crawler"
+  },
+  {
    "id": "c-jonsbo-tk-2-2-0-midi-tower-tempered-glass-weiss",
    "name": "Jonsbo TK-2 2.0 Midi-Tower, Tempered Glass - weiß",
    "cat": "Gehäuse",
@@ -1535,6 +1597,56 @@
    "seen": "2026-11-09",
    "updated": "2026-11-09",
    "tags": "monitore 16\" msi pro mp165de full ips monitor schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-amd-ryzen-7-7800x3d-5-0-ghz-raphael-am5-boxed",
+   "name": "AMD Ryzen 7 7800X3D 5,0 GHz (Raphael) AM5 - boxed",
+   "cat": "Prozessoren",
+   "price": 299,
+   "ref": 374.62,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/amd-ryzen-7-7800x3d-5.0-ghz-raphael-am5-boxed/HPAM-257.html",
+   "url": "https://www.caseking.de/en/amd-ryzen-7-7800x3d-5.0-ghz-raphael-am5-boxed/HPAM-257.html",
+   "note": "20 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 374.62
+    },
+    {
+     "d": "2026-10-30",
+     "p": 374.62
+    },
+    {
+     "d": "2026-10-31",
+     "p": 374.62
+    },
+    {
+     "d": "2026-11-01",
+     "p": 374.62
+    },
+    {
+     "d": "2026-11-03",
+     "p": 374.62
+    },
+    {
+     "d": "2026-11-05",
+     "p": 374.62
+    },
+    {
+     "d": "2026-11-07",
+     "p": 374.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 299
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-09",
+   "updated": "2026-11-09",
+   "tags": "prozessoren am5 amd ryzen 7800x3d ghz raphael boxed",
    "source": "crawler"
   },
   {
@@ -2103,6 +2215,52 @@
    "seen": "2026-11-09",
    "updated": "2026-11-09",
    "tags": "monitore 27\" dell plus qhd usb monitor s2725dc ips 2560x1440 144hz weiss",
+   "source": "crawler"
+  },
+  {
+   "id": "c-eizo-flexscan-ev2495-wt-mit-flexstand-led-monitor-61-1-cm-24",
+   "name": "EIZO FlexScan EV2495-WT - Mit FlexStand - LED-Monitor - 61.1 cm (24.1\") - 1920 x 1200 - IPS - 350 cd/m² - 1000:1 - 5 ms - HDMI, DisplayPort, USB-C - Lautsprecher - weiß [Energieklasse C]",
+   "cat": "Monitore",
+   "price": 474.69,
+   "ref": 535.3,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/eizo-flexscan-ev2495-wt-mit-flexstand-led-monitor-61-1-cm-24-1-1920-x-1200-ips-350-cd-m2-1000-1-5-ms-hdmi-displayport-usb-c-lautsprecher-weiss-energieklasse-c-6795091/",
+   "url": "https://www.jacob.de/produkt/eizo-flexscan-ev2495-wt-mit-flexstand-led-monitor-61-1-cm-24-1-1920-x-1200-ips-350-cd-m2-1000-1-5-ms-hdmi-displayport-usb-c-lautsprecher-weiss-energieklasse-c-6795091/",
+   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 535.3
+    },
+    {
+     "d": "2026-10-31",
+     "p": 535.3
+    },
+    {
+     "d": "2026-11-01",
+     "p": 535.3
+    },
+    {
+     "d": "2026-11-02",
+     "p": 535.3
+    },
+    {
+     "d": "2026-11-04",
+     "p": 535.3
+    },
+    {
+     "d": "2026-11-07",
+     "p": 535.3
+    },
+    {
+     "d": "2026-11-09",
+     "p": 474.69
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-09",
+   "updated": "2026-11-09",
+   "tags": "monitore 24,1\" eizo flexscan ev2495 mit flexstand led monitor 1920 1200 ips 350 1000 hdmi displayport usb lautsprecher",
    "source": "crawler"
   },
   {

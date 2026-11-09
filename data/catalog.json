@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-09T14:23:17.069Z",
+ "updated": "2026-11-09T16:05:56.952Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -953,7 +953,7 @@
    "name": "AMD Ryzen 7 7800X3D (tray)",
    "url": "https://www.hardwaredealz.com/hardware/cpu/amd-ryzen-7-7800x3d-tray/preisvergleich.1881",
    "source": "hardwaredealz",
-   "stand": "2026-11-07T19:45",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "reichelt.de",
@@ -980,19 +980,19 @@
      "avail": null
     },
     {
+     "shop": "caseking.de",
+     "price": 299,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/amd-ryzen-7-7800x3d-5.0-ghz-raphael-am5-boxed/HPAM-257.html",
+     "crawler": true
+    },
+    {
      "shop": "JACOB Elektronik GmbH",
      "price": 317.29,
      "ship": null,
      "avail": null,
      "url": "https://www.jacob.de/produkt/amd-ryzen-7-7800x3d-4-2-ghz-8-kerne-96-mb-cache-socket-am5-8275699/",
-     "crawler": true
-    },
-    {
-     "shop": "caseking.de",
-     "price": 374.9,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/amd-ryzen-7-7800x3d-5.0-ghz-raphael-am5-boxed/HPAM-257.html",
      "crawler": true
     }
    ],
@@ -2382,7 +2382,7 @@
    "name": "WD_BLACK SN7100 2 TB",
    "url": "https://www.mydealz.de/deals/my-mmsaturn-mwstaktion-wd-black-sn7100-ssd-2-tb-m2-2280-nvme-gen4-7250-mbs-lesen-6900-mbs-schreiben-fur-23529eur-1-tb-13865-2855044",
    "source": "mydealz",
-   "stand": "2026-11-09T14:23",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "MediaMarkt / Saturn",
@@ -3700,7 +3700,7 @@
    "name": "ARCTIC Freezer 36",
    "url": "https://geizhals.de/3144218",
    "source": "Geizhals",
-   "stand": "2026-11-09T14:23",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "Mindfactory",
@@ -5572,7 +5572,7 @@
    "name": "ASUS ROG Astral GeForce RTX 5090 OC",
    "url": "https://www.hardwaredealz.com/hardware/gpu/nvidia-geforce-rtx-5090-32gb/asus-rog-astral-oc-32gb-gddr7-2x-hdmi-3x-dp/preisvergleich.26216",
    "source": "hardwaredealz",
-   "stand": "2026-11-09T11:59",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
@@ -5842,7 +5842,7 @@
    "name": "AMD Ryzen 5 7500X3D (boxed)",
    "url": "https://www.hardwaredealz.com/hardware/cpu/amd-ryzen-5-7500x3d-boxed/preisvergleich.31579",
    "source": "hardwaredealz",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
@@ -6244,7 +6244,7 @@
    "name": "AMD Ryzen 5 7600 (boxed)",
    "url": "https://www.hardwaredealz.com/hardware/cpu/amd-ryzen-5-7600-boxed-fan/preisvergleich.1854",
    "source": "hardwaredealz",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
@@ -7379,7 +7379,7 @@
    "name": "Intel Core i5-12400F (tray)",
    "url": "https://www.hardwaredealz.com/hardware/cpu/intel-core-i5-12400f-tray/preisvergleich.1084",
    "source": "hardwaredealz",
-   "stand": "2026-11-07T15:42",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
@@ -8135,7 +8135,7 @@
    "name": "LG UltraGear OLED 27GX704A-B",
    "url": "https://geizhals.de/?fs=LG+27GX704A-B",
    "source": "hardwaredealz",
-   "stand": "2026-11-07T09:49",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
@@ -8145,7 +8145,7 @@
     },
     {
      "shop": "JACOB Elektronik GmbH",
-     "price": 398.09,
+     "price": 387.38,
      "ship": null,
      "avail": null,
      "url": "https://www.jacob.de/produkt/lg-ultragear-27gx704a-b-67-3-cm-26-5-qhd-oled-gaming-monitor-16-9-hdmi-dp-240hz-0-03ms-gtg-27gx704a-b-aeu-100674923/",
@@ -8369,7 +8369,7 @@
    "name": "ASUS TUF Gaming VG328QA1A Gaming Monitor 170Hz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-tuf-gaming-vg328qa1a-31.5-inch-gaming-monitor-170-hz-va-freesync/TFAS-246.html",
-   "stand": "2026-11-09T14:23",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -8441,7 +8441,7 @@
    "name": "ASUS ROG Strix XG32WCMS Gaming Monitor 31.5-inch 280 Hz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-xg32wcms-31.5-inch-curved-gaming-monitor-280hz-va-adaptivesync/TFAS-278.html",
-   "stand": "2026-11-09T14:23",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -8585,7 +8585,7 @@
    "name": "Samsung Odyssey G9 49-inch Gaming Monitor 144 Hz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/samsung-odyssey-g9-g91f-49-inch-gaming-monitor-144-hz-va-g-sync-compatible/TFSS-210.html",
-   "stand": "2026-11-09T14:23",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -8657,7 +8657,7 @@
    "name": "Nitro Concepts SM1 Curved Monitor – 49 Zoll SimRacing",
    "source": "crawler",
    "url": "https://www.caseking.de/en/nitro-concepts-sm1-simracing-monitor-124-5-cm-49-zoll-curved-144hz-freesync-g-sync-hdmi-dp-usb/TFNI-001.html",
-   "stand": "2026-11-09T14:23",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -8729,7 +8729,7 @@
    "name": "Samsung Odyssey OLED G9 49-inch Gaming Monitor 240 Hz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/samsung-odyssey-oled-g9-g93sd-49-inch-gaming-monitor-240-hz-qd-oled-freesync-premium-pro/TFSS-204.html",
-   "stand": "2026-11-09T14:23",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -8845,7 +8845,7 @@
    "name": "Samsung Odyssey Neo G9 G95NC 57\" Gaming Monitor",
    "source": "crawler",
    "url": "https://www.sim-verse.com/en-de/samsung-odyssey-neo-g9-g95nc-57-gaming-monitor/TFSS-178.html",
-   "stand": "2026-11-09T14:23",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "sim-verse.com",
@@ -10716,7 +10716,7 @@
    "name": "Ocypus Delta A40 EX ARGB, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/Ocypus/Delta-A40-EX-ARGB-CPU-K%C3%BChler/html/product/100208179",
-   "stand": "2026-11-08T13:53",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -10744,6 +10744,10 @@
     {
      "d": "2026-11-08",
      "p": 19.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 19.9
     }
    ],
    "count": 1,
@@ -10757,7 +10761,7 @@
    "name": "Ocypus Delta A40 EX ARGB, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/Ocypus/Delta-A40-EX-ARGB-CPU-K%C3%BChler/html/product/100208178",
-   "stand": "2026-11-08T13:53",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -10784,6 +10788,10 @@
     },
     {
      "d": "2026-11-08",
+     "p": 19.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 19.9
     }
    ],
@@ -11298,7 +11306,7 @@
    "name": "Chieftec CAC-S92PWM-LP45, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/Chieftec/CAC-S92PWM-LP45-CPU-K%C3%BChler/html/product/100188799",
-   "stand": "2026-11-08T13:53",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -11333,6 +11341,10 @@
     },
     {
      "d": "2026-11-08",
+     "p": 21.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 21.9
     }
    ],
@@ -13386,7 +13398,7 @@
    "name": "SilverStone SST-NT07-1700, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/SilverStone/SST-NT07-1700-CPU-K%C3%BChler/html/product/1886647",
-   "stand": "2026-11-08T13:53",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -13421,6 +13433,10 @@
     },
     {
      "d": "2026-11-08",
+     "p": 28.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 28.9
     }
    ],
@@ -15389,7 +15405,7 @@
    "name": "Cooler Master V4 ALPHA 3DHP, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/Cooler-Master/V4-ALPHA-3DHP-CPU-K%C3%BChler/html/product/100173461",
-   "stand": "2026-11-08T11:43",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -15424,6 +15440,10 @@
     },
     {
      "d": "2026-11-08",
+     "p": 34.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 34.9
     }
    ],
@@ -16640,43 +16660,6 @@
    "firstSeen": "2026-11-02"
   },
   {
-   "id": "c-deepcool-an600-cpu-kuhler",
-   "cat": "Kühlung",
-   "sub": "Luftkühler",
-   "name": "DeepCool AN600, CPU-Kühler",
-   "source": "crawler",
-   "url": "https://www.alternate.de/DeepCool/AN600-CPU-K%C3%BChler/html/product/100225634",
-   "stand": "2026-11-08T21:41",
-   "offers": [
-    {
-     "shop": "ALTERNATE",
-     "price": 37.99,
-     "ship": 7.99,
-     "avail": "Auf Lager",
-     "url": "https://www.alternate.de/DeepCool/AN600-CPU-K%C3%BChler/html/product/100225634"
-    }
-   ],
-   "price": 37.99,
-   "shop": "ALTERNATE",
-   "hist": [
-    {
-     "d": "2026-11-06",
-     "p": 37.99
-    },
-    {
-     "d": "2026-11-07",
-     "p": 37.99
-    },
-    {
-     "d": "2026-11-08",
-     "p": 37.99
-    }
-   ],
-   "count": 1,
-   "tags": "kuhlung luftkuhler deepcool an600 cpu kuhler",
-   "firstSeen": "2026-11-06"
-  },
-  {
    "id": "c-noctua-nh-l9i-17xx-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -17140,7 +17123,7 @@
    "name": "DeepCool AK500 G2 WH, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/DeepCool/AK500-G2-WH-CPU-K%C3%BChler/html/product/100175164",
-   "stand": "2026-11-08T11:43",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -17175,6 +17158,10 @@
     },
     {
      "d": "2026-11-08",
+     "p": 39.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 39.9
     }
    ],
@@ -17909,7 +17896,7 @@
    "name": "DeepCool AG620 G2 ARGB, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/DeepCool/AG620-G2-ARGB-CPU-K%C3%BChler/html/product/100204959",
-   "stand": "2026-11-08T11:43",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -17933,6 +17920,10 @@
     {
      "d": "2026-11-08",
      "p": 41.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 41.9
     }
    ],
    "count": 1,
@@ -17946,7 +17937,7 @@
    "name": "DeepCool AG620 G2 WH ARGB, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/DeepCool/AG620-G2-WH-ARGB-CPU-K%C3%BChler/html/product/100204958",
-   "stand": "2026-11-08T11:43",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -17969,6 +17960,10 @@
     },
     {
      "d": "2026-11-08",
+     "p": 41.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 41.9
     }
    ],
@@ -19601,7 +19596,7 @@
    "name": "Noctua NH-L9a-AM5 Low Profile CPU-Kühler - 92mm",
    "source": "crawler",
    "url": "https://www.caseking.de/noctua-nh-l9a-am5-low-profile-cpu-kuehler-92mm/CPNA-090.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -19636,6 +19631,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 49.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 49.9
     }
    ],
@@ -20384,7 +20383,7 @@
    "name": "Noctua NH-L9a-AM4, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/Noctua/NH-L9a-AM4-CPU-K%C3%BChler/html/product/1388188",
-   "stand": "2026-11-08T13:53",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -20408,10 +20407,55 @@
     {
      "d": "2026-11-08",
      "p": 49.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 49.9
     }
    ],
    "count": 1,
    "tags": "kuhlung luftkuhler noctua l9a am4 cpu kuhler",
+   "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "c-deepcool-an600-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "DeepCool AN600, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/DeepCool/AN600-CPU-K%C3%BChler/html/product/1913873",
+   "stand": "2026-11-09T16:05",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 49.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/DeepCool/AN600-CPU-K%C3%BChler/html/product/1913873"
+    }
+   ],
+   "price": 49.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-06",
+     "p": 37.99
+    },
+    {
+     "d": "2026-11-07",
+     "p": 37.99
+    },
+    {
+     "d": "2026-11-08",
+     "p": 37.99
+    },
+    {
+     "d": "2026-11-09",
+     "p": 49.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler deepcool an600 cpu kuhler",
    "firstSeen": "2026-11-06"
   },
   {
@@ -20553,7 +20597,7 @@
    "name": "DeepCool AK620 ZERO DARK ZORIA, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/DeepCool/AK620-ZERO-DARK-ZORIA-CPU-K%C3%BChler/html/product/100215810",
-   "stand": "2026-11-08T13:53",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -20576,6 +20620,10 @@
     },
     {
      "d": "2026-11-08",
+     "p": 49.99
+    },
+    {
+     "d": "2026-11-09",
      "p": 49.99
     }
    ],
@@ -20908,7 +20956,7 @@
    "name": "Seasonic CORE BC-650 ATX3.1, PC-Netzteil",
    "source": "crawler",
    "url": "https://www.alternate.de/Seasonic/CORE-BC-650-ATX3-1-PC-Netzteil/html/product/100143123",
-   "stand": "2026-11-08T11:43",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -20951,6 +20999,10 @@
     },
     {
      "d": "2026-11-08",
+     "p": 52.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 52.9
     }
    ],
@@ -22549,7 +22601,7 @@
    "name": "Noctua NH-L9i-17xx chromax.black CPU-Kühler - 92mm",
    "source": "crawler",
    "url": "https://www.caseking.de/noctua-nh-l9i-17xx-chromax.black-cpu-kuehler-92mm/CPNA-081.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -22585,6 +22637,10 @@
     {
      "d": "2026-11-07",
      "p": 59.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 59.9
     }
    ],
    "count": 1,
@@ -22598,7 +22654,7 @@
    "name": "Noctua NH-L9a-AM5 chromax.black Low Profile CPU-Kühler - 92mm",
    "source": "crawler",
    "url": "https://www.caseking.de/noctua-nh-l9a-am5-chromax.black-low-profile-cpu-kuehler-92mm/CPNA-091.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -22633,6 +22689,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 59.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 59.9
     }
    ],
@@ -23512,15 +23572,15 @@
    "sub": "Luftkühler",
    "name": "be quiet! Dark Rock Pro 5, CPU-Kühler",
    "source": "crawler",
-   "url": "https://www.alternate.de/be-quiet/Dark-Rock-Pro-5-CPU-K%C3%BChler/html/product/100217572",
-   "stand": "2026-11-08T15:41",
+   "url": "https://www.alternate.de/be-quiet/Dark-Rock-Pro-5-CPU-K%C3%BChler/html/product/100218106",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "ALTERNATE",
      "price": 59.99,
      "ship": 7.99,
      "avail": "Auf Lager",
-     "url": "https://www.alternate.de/be-quiet/Dark-Rock-Pro-5-CPU-K%C3%BChler/html/product/100217572"
+     "url": "https://www.alternate.de/be-quiet/Dark-Rock-Pro-5-CPU-K%C3%BChler/html/product/100218106"
     }
    ],
    "price": 59.99,
@@ -23544,6 +23604,10 @@
     },
     {
      "d": "2026-11-08",
+     "p": 59.99
+    },
+    {
+     "d": "2026-11-09",
      "p": 59.99
     }
    ],
@@ -23709,7 +23773,7 @@
    "name": "Sapphire Pulse A520M-E Mainboard, Sockel AM4, AMD A520, mATX, DDR4",
    "source": "crawler",
    "url": "https://www.caseking.de/en/sapphire-pulse-a520m-e-motherboard-socket-am4-amd-a520-matx-ddr4/MBSP-019.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -23744,6 +23808,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 62.52
+    },
+    {
+     "d": "2026-11-09",
      "p": 62.52
     }
    ],
@@ -25070,7 +25138,7 @@
    "name": "be quiet! Pure Base 501 PC-Gehäuse, Midi-Tower, ATX - schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/be-quiet-pure-base-501-pc-gehaeuse-midi-tower-atx-schwarz/GEBQ-076.html",
-   "stand": "2026-11-07T15:42",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -25105,6 +25173,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 69.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 69.9
     }
    ],
@@ -25508,7 +25580,7 @@
    "name": "Noctua NH-L12S, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/Noctua/NH-L12S-CPU-K%C3%BChler/html/product/1388186",
-   "stand": "2026-11-08T13:53",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -25531,6 +25603,10 @@
     },
     {
      "d": "2026-11-08",
+     "p": 69.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 69.9
     }
    ],
@@ -25869,7 +25945,7 @@
    "name": "MSI PRO A620AM-B EVO Mainboard, Sockel AM5, AMD A620, mATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/msi-pro-a620am-b-evo-motherboard-socket-am5-amd-a620-matx-ddr5/MBMC-600.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -25904,6 +25980,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 72.47
+    },
+    {
+     "d": "2026-11-09",
      "p": 72.47
     }
    ],
@@ -26493,7 +26573,7 @@
    "name": "Seasonic CORE GC-650 ATX3.1, PC-Netzteil",
    "source": "crawler",
    "url": "https://www.alternate.de/Seasonic/CORE-GC-650-ATX3-1-PC-Netzteil/html/product/100143116",
-   "stand": "2026-11-08T11:43",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -26536,6 +26616,10 @@
     },
     {
      "d": "2026-11-08",
+     "p": 74.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 74.9
     }
    ],
@@ -27297,6 +27381,75 @@
    "firstSeen": "2026-10-31"
   },
   {
+   "id": "c-alphacool-core-1-aurora-black-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Alphacool Core 1 Aurora Black, CPU-Kühler",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Alphacool/Core-1-Aurora-Black-CPU-K%C3%BChler/html/product/100218433",
+   "stand": "2026-11-09T16:05",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 77.99,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Alphacool/Core-1-Aurora-Black-CPU-K%C3%BChler/html/product/100218433"
+    }
+   ],
+   "price": 77.99,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 122.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 77.99
+    },
+    {
+     "d": "2026-11-07",
+     "p": 77.99
+    },
+    {
+     "d": "2026-11-08",
+     "p": 77.99
+    },
+    {
+     "d": "2026-11-09",
+     "p": 77.99
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler alphacool core aurora black cpu kuhler",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-dell-se2225hm-led-monitor-55-9-cm-22-21-5-sichtbar-dell-se22",
    "cat": "Monitore",
    "sub": "22\"",
@@ -27756,7 +27909,7 @@
    "name": "ASUS Prime AP303 PC-Gehäuse, Midi-Tower, ATX, Tempered Glass - schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/asus-prime-ap303-pc-gehaeuse-midi-tower-atx-tempered-glass-schwarz/GEAS-058.html",
-   "stand": "2026-11-07T15:42",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -27792,6 +27945,10 @@
     {
      "d": "2026-11-07",
      "p": 79.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 79.9
     }
    ],
    "count": 1,
@@ -27805,13 +27962,13 @@
    "name": "ASUS Prime AP303 PC-Gehäuse, Midi-Tower, ATX, Mesh Panel - schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/asus-prime-ap303-pc-gehaeuse-midi-tower-atx-mesh-panel-schwarz/GEAS-059.html",
-   "stand": "2026-11-07T15:42",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 79.9,
      "ship": null,
-     "avail": "Vorbestellung",
+     "avail": "Auf Lager",
      "url": "https://www.caseking.de/asus-prime-ap303-pc-gehaeuse-midi-tower-atx-mesh-panel-schwarz/GEAS-059.html"
     }
    ],
@@ -27840,6 +27997,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 79.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 79.9
     }
    ],
@@ -28662,7 +28823,7 @@
    "name": "Sapphire Pulse A620AM Mainboard, Sockel AM5, AMD A620, mATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/sapphire-pulse-a620am-motherboard-socket-am5-amd-a620-matx-ddr5/MBSP-018.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -28697,6 +28858,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 82.19
+    },
+    {
+     "d": "2026-11-09",
      "p": 82.19
     }
    ],
@@ -29009,7 +29174,7 @@
    "name": "Seasonic CORE GC-750 ATX3.1, PC-Netzteil",
    "source": "crawler",
    "url": "https://www.alternate.de/Seasonic/CORE-GC-750-ATX3-1-PC-Netzteil/html/product/100143115",
-   "stand": "2026-11-08T11:43",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -29052,6 +29217,10 @@
     },
     {
      "d": "2026-11-08",
+     "p": 83.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 83.9
     }
    ],
@@ -29865,7 +30034,7 @@
    "name": "Lenovo L24-41 LED-Monitor 23,8\" Full-HD, IPS, 100Hz, HDMI, VGA (67DAKAC1EU)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/lenovo-l24-41-led-monitor-23-8-full-hd-ips-100hz-hdmi-vga-67dakac1eu-100675284/",
-   "stand": "2026-11-07T09:49",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -29900,6 +30069,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 85.41
+    },
+    {
+     "d": "2026-11-09",
      "p": 85.41
     }
    ],
@@ -31332,7 +31505,7 @@
    "name": "Corsair NAUTILUS II 240 RS ARGB Flüssig-CPU-Kühler, Wasserkühlung",
    "source": "crawler",
    "url": "https://www.alternate.de/Corsair/NAUTILUS-II-240-RS-ARGB-Fl%C3%BCssig-CPU-K%C3%BChler-Wasserk%C3%BChlung/html/product/100216355",
-   "stand": "2026-11-08T13:53",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -31356,6 +31529,10 @@
     {
      "d": "2026-11-08",
      "p": 89.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 89.9
     }
    ],
    "count": 1,
@@ -31369,7 +31546,7 @@
    "name": "Corsair NAUTILUS II 240 RS ARGB Flüssig-CPU-Kühler, Wasserkühlung",
    "source": "crawler",
    "url": "https://www.alternate.de/Corsair/NAUTILUS-II-240-RS-ARGB-Fl%C3%BCssig-CPU-K%C3%BChler-Wasserk%C3%BChlung/html/product/100216357",
-   "stand": "2026-11-08T13:53",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -31392,6 +31569,10 @@
     },
     {
      "d": "2026-11-08",
+     "p": 89.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 89.9
     }
    ],
@@ -32567,7 +32748,7 @@
    "name": "Seasonic CORE GC-850 ATX3.1, PC-Netzteil",
    "source": "crawler",
    "url": "https://www.alternate.de/Seasonic/CORE-GC-850-ATX3-1-PC-Netzteil/html/product/100143113",
-   "stand": "2026-11-08T11:43",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -32610,6 +32791,10 @@
     },
     {
      "d": "2026-11-08",
+     "p": 94.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 94.9
     }
    ],
@@ -33702,7 +33887,7 @@
    "name": "Noctua NH-D12L CPU-Kühler - 120mm",
    "source": "crawler",
    "url": "https://www.caseking.de/noctua-nh-d12l-cpu-kuehler-120mm/CPNA-083.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -33737,6 +33922,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 99.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 99.9
     }
    ],
@@ -35182,7 +35371,7 @@
    "name": "MSI PRO H810M-B, Mainboard",
    "source": "crawler",
    "url": "https://www.alternate.de/MSI/PRO-H810M-B-Mainboard/html/product/100140528",
-   "stand": "2026-11-08T11:43",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -35233,6 +35422,10 @@
     },
     {
      "d": "2026-11-08",
+     "p": 100.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 100.9
     }
    ],
@@ -37341,7 +37534,7 @@
    "name": "Noctua NH-D12L chromax.black CPU-Kühler - 120mm",
    "source": "crawler",
    "url": "https://www.caseking.de/noctua-nh-d12l-chromax.black-cpu-kuehler-120mm/CPNA-100.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -37376,6 +37569,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 109.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 109.9
     }
    ],
@@ -38371,7 +38568,7 @@
    "name": "Corsair NAUTILUS II 360 RS ARGB Flüssig-CPU-Kühler, Wasserkühlung",
    "source": "crawler",
    "url": "https://www.alternate.de/Corsair/NAUTILUS-II-360-RS-ARGB-Fl%C3%BCssig-CPU-K%C3%BChler-Wasserk%C3%BChlung/html/product/100216361",
-   "stand": "2026-11-08T13:53",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -38394,6 +38591,10 @@
     },
     {
      "d": "2026-11-08",
+     "p": 114.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 114.9
     }
    ],
@@ -38584,7 +38785,7 @@
    "name": "ASUS Eye Care VY279HF-W 27\" Full HD IPS Monitor Weiß",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-eye-care-vy279hf-w-27-full-hd-ips-monitor-weiss-100506039/",
-   "stand": "2026-11-07T09:49",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -38619,6 +38820,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 115.61
+    },
+    {
+     "d": "2026-11-09",
      "p": 115.61
     }
    ],
@@ -39368,7 +39573,7 @@
    "name": "HP Series 3 Pro 324pe - LED-Monitor - 60.5 cm (23.8\") - Full HD - 100Hz - IPS - Schwarz (B1GM5AA#ABB)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/hp-series-3-pro-324pe-led-monitor-60-5-cm-23-8-full-hd-100hz-ips-schwarz-b1gm5aa-abb-100589654/",
-   "stand": "2026-11-07T09:49",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -39403,6 +39608,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 118.76
+    },
+    {
+     "d": "2026-11-09",
      "p": 118.76
     }
    ],
@@ -39458,7 +39667,7 @@
    "name": "Corsair NAUTILUS II 360 RS ARGB Flüssig-CPU-Kühler, Wasserkühlung",
    "source": "crawler",
    "url": "https://www.alternate.de/Corsair/NAUTILUS-II-360-RS-ARGB-Fl%C3%BCssig-CPU-K%C3%BChler-Wasserk%C3%BChlung/html/product/100216359",
-   "stand": "2026-11-08T13:53",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -39481,6 +39690,10 @@
     },
     {
      "d": "2026-11-08",
+     "p": 118.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 118.9
     }
    ],
@@ -39915,7 +40128,7 @@
    "name": "Sapphire B650M-E Mainboard, Sockel AM5, AMD B650, mATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/sapphire-b650m-e-motherboard-socket-am5-amd-b650-matx-ddr5/MBSP-017.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -39950,6 +40163,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 119.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 119.9
     }
    ],
@@ -40587,7 +40804,7 @@
    "name": "Philips E-line 241E1SCA Curved LED-Monitor 24\" Full HD VA Textured Black",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/philips-e-line-241e1sca-curved-led-monitor-24-full-hd-va-textured-black-5969956/",
-   "stand": "2026-11-07T09:49",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -40622,6 +40839,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 120.02
+    },
+    {
+     "d": "2026-11-09",
      "p": 120.02
     }
    ],
@@ -42481,7 +42702,7 @@
    "name": "MSI B840 Gaming Plus WiFi Mainboard, Sockel AM5, AMD B840, ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/msi-b840-gaming-plus-wifi-motherboard-socket-am5-amd-b840-atx-ddr5/MBMC-596.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -42516,6 +42737,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 126.3
+    },
+    {
+     "d": "2026-11-09",
      "p": 126.3
     }
    ],
@@ -44628,55 +44853,6 @@
    "firstSeen": "2026-11-05"
   },
   {
-   "id": "c-gigabyte-b760-gaming-x-ddr4-gen5-mainboard-atx-lga-1700",
-   "cat": "Mainboards",
-   "sub": "Intel LGA1700 B760",
-   "name": "Gigabyte B760 GAMING X DDR4 GEN5 Mainboard ATX LGA 1700",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/gigabyte-b760-gaming-x-ddr4-gen5-mainboard-atx-lga-1700-100695583/",
-   "stand": "2026-11-07T09:49",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 133.17,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/gigabyte-b760-gaming-x-ddr4-gen5-mainboard-atx-lga-1700-100695583/"
-    }
-   ],
-   "price": 133.17,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 138.9
-    },
-    {
-     "d": "2026-10-31",
-     "p": 138.9
-    },
-    {
-     "d": "2026-11-01",
-     "p": 138.9
-    },
-    {
-     "d": "2026-11-02",
-     "p": 133.66
-    },
-    {
-     "d": "2026-11-04",
-     "p": 131.66
-    },
-    {
-     "d": "2026-11-07",
-     "p": 133.17
-    }
-   ],
-   "count": 1,
-   "tags": "mainboards intel lga1700 b760 gigabyte b760 gaming ddr4 gen5 mainboard atx lga 1700",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-asus-prime-b760-plus-d4-mainboard-lga-1700-intel-b760-atx-dd",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 B760",
@@ -44736,7 +44912,7 @@
    "name": "ViewSonic VA2708-2K-HD-2 27\" IPS QHD-Monitor 2560x1440 75 Hz Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/viewsonic-va2708-2k-hd-2-27-ips-qhd-monitor-2560x1440-75-hz-schwarz-100700425/",
-   "stand": "2026-11-07T09:49",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -44771,6 +44947,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 133.88
+    },
+    {
+     "d": "2026-11-09",
      "p": 133.88
     }
    ],
@@ -46083,6 +46263,59 @@
    "firstSeen": "2026-10-31"
   },
   {
+   "id": "c-gigabyte-b760-gaming-x-ddr4-gen5-mainboard-atx-lga-1700",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1700 B760",
+   "name": "Gigabyte B760 GAMING X DDR4 GEN5 Mainboard ATX LGA 1700",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/gigabyte-b760-gaming-x-ddr4-gen5-mainboard-atx-lga-1700-100695583/",
+   "stand": "2026-11-09T16:05",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 138.9,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/gigabyte-b760-gaming-x-ddr4-gen5-mainboard-atx-lga-1700-100695583/"
+    }
+   ],
+   "price": 138.9,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 138.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 138.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 138.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 133.66
+    },
+    {
+     "d": "2026-11-04",
+     "p": 131.66
+    },
+    {
+     "d": "2026-11-07",
+     "p": 133.17
+    },
+    {
+     "d": "2026-11-09",
+     "p": 138.9
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1700 b760 gigabyte b760 gaming ddr4 gen5 mainboard atx lga 1700",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-viewsonic-vg2408a-led-monitor-61-cm-24-23-8-sichtbar-1920-x-",
    "cat": "Monitore",
    "sub": "24\"",
@@ -46481,7 +46714,7 @@
    "name": "be quiet! Light Base 900 DX Big-Tower, Tempred Glass, ARGB - schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/be-quiet-light-base-900-dx-big-tower-tempred-glass-argb-schwarz/GEBQ-081.html",
-   "stand": "2026-11-07T15:42",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -46516,6 +46749,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 139.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 139.9
     }
    ],
@@ -47426,7 +47663,7 @@
    "name": "MSI PRO B840-P WiFi Mainboard, Sockel AM5, AMD B840, ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/msi-pro-b840-p-wifi-motherboard-socket-am5-amd-b840-atx-ddr5/MBMC-597.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -47461,6 +47698,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 141.3
+    },
+    {
+     "d": "2026-11-09",
      "p": 141.3
     }
    ],
@@ -47899,7 +48140,7 @@
    "name": "HP Series 3 Pro 327pe 27\" LED-Monitor 1920 x 1080 100 Hz IPS Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/hp-series-3-pro-327pe-27-led-monitor-1920-x-1080-100-hz-ips-schwarz-100589655/",
-   "stand": "2026-11-07T09:49",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -47934,6 +48175,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 144.49
+    },
+    {
+     "d": "2026-11-09",
      "p": 144.49
     }
    ],
@@ -48054,7 +48299,7 @@
    "name": "Noctua NH-D15 G2 HBC CPU-Kühler Intel optimiert - 140 / 140mm",
    "source": "crawler",
    "url": "https://www.caseking.de/noctua-nh-d15-g2-hbc-cpu-kuehler-intel-optimiert-140-140mm/CPNA-102.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -48089,6 +48334,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 144.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 144.9
     }
    ],
@@ -48535,7 +48784,7 @@
    "name": "HP Series 3 Pro 327ph 27\" FHD IPS Monitor 100 Hz Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/hp-series-3-pro-327ph-27-fhd-ips-monitor-100-hz-schwarz-100590173/",
-   "stand": "2026-11-07T09:49",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -48570,6 +48819,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 144.91
+    },
+    {
+     "d": "2026-11-09",
      "p": 144.91
     }
    ],
@@ -49466,7 +49719,7 @@
    "name": "Noctua NH-D15 G2 CPU-Kühler - 140/140mm",
    "source": "crawler",
    "url": "https://www.caseking.de/noctua-nh-d15-g2-cpu-kuehler-140-140mm/CPNA-101.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -49502,6 +49755,10 @@
     {
      "d": "2026-11-07",
      "p": 149.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 149.9
     }
    ],
    "count": 1,
@@ -49515,7 +49772,7 @@
    "name": "Noctua NH-D15 G2 LBC CPU-Kühler AMD optimiert - 140/140mm",
    "source": "crawler",
    "url": "https://www.caseking.de/noctua-nh-d15-g2-lbc-cpu-kuehler-amd-optimiert-140-140mm/CPNA-103.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -49550,6 +49807,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 149.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 149.9
     }
    ],
@@ -50509,7 +50770,7 @@
    "name": "Corsair NAUTILUS II 360 RS LCD Flüssig-CPU-Kühler, Wasserkühlung",
    "source": "crawler",
    "url": "https://www.alternate.de/Corsair/NAUTILUS-II-360-RS-LCD-Fl%C3%BCssig-CPU-K%C3%BChler-Wasserk%C3%BChlung/html/product/100216144",
-   "stand": "2026-11-08T13:53",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -50532,6 +50793,10 @@
     },
     {
      "d": "2026-11-08",
+     "p": 149.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 149.9
     }
    ],
@@ -51109,7 +51374,7 @@
    "name": "Lenovo ThinkVision T27-40 27\" Full HD IPS LED-Monitor Finsternis schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/lenovo-thinkvision-t27-40-27-full-hd-ips-led-monitor-finsternis-schwarz-100592575/",
-   "stand": "2026-11-07T09:49",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -51144,6 +51409,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 152.92
+    },
+    {
+     "d": "2026-11-09",
      "p": 152.92
     }
    ],
@@ -52174,7 +52443,7 @@
    "name": "iiyama ProLite XU2793HS-B7 27\" IPS Monitor 1920 x 1080 100 Hz Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/iiyama-prolite-xu2793hs-b7-27-ips-monitor-1920-x-1080-100-hz-schwarz-100545692/",
-   "stand": "2026-11-07T09:49",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -52209,6 +52478,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 158.21
+    },
+    {
+     "d": "2026-11-09",
      "p": 158.21
     }
    ],
@@ -52484,7 +52757,7 @@
    "name": "Noctua NH-D15 G2 chromax.black CPU-Kühler, Dual-Tower, PWM - schwarz, 140mm",
    "source": "crawler",
    "url": "https://www.caseking.de/noctua-nh-d15-g2-chromax.black-cpu-kuehler-dual-tower-pwm-schwarz-140mm/CPNA-104.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -52519,6 +52792,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 159.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 159.9
     }
    ],
@@ -53403,7 +53680,7 @@
    "name": "ASUS PRIME B840M-A Mainboard, Sockel AM5, AMD B840, Micro-ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-prime-b840m-a-motherboard-am5-socket-amd-b840-micro-atx-ddr5/MBAS-811.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -53434,6 +53711,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 162.52
+    },
+    {
+     "d": "2026-11-09",
      "p": 162.52
     }
    ],
@@ -53599,7 +53880,7 @@
    "name": "Sapphire Pure B850M WiFi Mainboard, Sockel AM5, AMD B850, mATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/sapphire-pure-b850m-wifi-motherboard-socket-am5-amd-b850-matx-ddr5/MBSP-015.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -53634,6 +53915,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 163.52
+    },
+    {
+     "d": "2026-11-09",
      "p": 163.52
     }
    ],
@@ -54068,7 +54353,7 @@
    "name": "Sapphire Nitro+ B850M WiFi Mainboard, Sockel AM5, AMD B850, mATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/sapphire-nitro-b850m-wifi-motherboard-socket-am5-amd-b850-matx-ddr5/MBSP-014.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -54103,6 +54388,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 164.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 164.9
     }
    ],
@@ -56404,7 +56693,7 @@
    "name": "Intel Core i5-12400 2,50 GHz (Alder Lake-S) Sockel 1700 - boxed",
    "source": "crawler",
    "url": "https://www.caseking.de/en/intel-core-i5-12400-2.50-ghz-alder-lake-s-socket-1700-boxed/HPIT-755.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -56443,6 +56732,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 174.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 174.9
     }
    ],
@@ -56742,15 +57035,15 @@
    "sub": "Intel LGA1851 B860",
    "name": "Gigabyte B860 Gaming X WiFi6E Mainboard, Sockel LGA 1851, Intel B860, ATX, DDR5",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/gigabyte-b860-gaming-x-wifi6e-motherboard-lga-1851-socket-intel-b860-atx-ddr5/MBGB-659.html",
-   "stand": "2026-11-07T15:42",
+   "url": "https://www.caseking.de/gigabyte-b860-gaming-x-wifi6e-mainboard-sockel-lga-1851-intel-b860-atx-ddr5/MBGB-659.html",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 175.71,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/gigabyte-b860-gaming-x-wifi6e-motherboard-lga-1851-socket-intel-b860-atx-ddr5/MBGB-659.html"
+     "url": "https://www.caseking.de/gigabyte-b860-gaming-x-wifi6e-mainboard-sockel-lga-1851-intel-b860-atx-ddr5/MBGB-659.html"
     }
    ],
    "price": 175.71,
@@ -56778,6 +57071,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 175.71
+    },
+    {
+     "d": "2026-11-09",
      "p": 175.71
     }
    ],
@@ -56898,7 +57195,7 @@
    "name": "ASUS TUF Gaming VG259QMRL5A - LED-Monitor - Gaming - 62.23 cm (24.5\") (90LM0BQ0-B01O71)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-tuf-gaming-vg259qmrl5a-led-monitor-gaming-62-23-cm-24-5-90lm0bq0-b01o71-100674857/",
-   "stand": "2026-11-07T09:49",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -56933,6 +57230,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 176.85
+    },
+    {
+     "d": "2026-11-09",
      "p": 176.85
     }
    ],
@@ -56992,6 +57293,55 @@
    "count": 1,
    "tags": "netzteile 750 w silverstone hela 750r plus platinum netzteil atx pcie 750 watt schwarz",
    "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asus-tuf-gaming-b850-plus-wifi-mainboard-sockel-am5-amd-b850",
+   "cat": "Mainboards",
+   "sub": "AM5 B850",
+   "name": "ASUS TUF Gaming B850-Plus WiFi Mainboard, Sockel AM5, AMD B850, ATX, DDR5",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-tuf-gaming-b850-plus-wifi-motherboard-socket-am5-amd-b850-atx-ddr5/MBAS-806.html",
+   "stand": "2026-11-09T16:05",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 176.98,
+     "ship": null,
+     "avail": "Vorbestellung",
+     "url": "https://www.caseking.de/en/asus-tuf-gaming-b850-plus-wifi-motherboard-socket-am5-amd-b850-atx-ddr5/MBAS-806.html"
+    }
+   ],
+   "price": 176.98,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 176.98
+    },
+    {
+     "d": "2026-11-01",
+     "p": 176.98
+    },
+    {
+     "d": "2026-11-03",
+     "p": 176.98
+    },
+    {
+     "d": "2026-11-05",
+     "p": 176.98
+    },
+    {
+     "d": "2026-11-07",
+     "p": 176.98
+    },
+    {
+     "d": "2026-11-09",
+     "p": 176.98
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 b850 asus tuf gaming b850 plus wifi mainboard sockel am5 amd atx ddr5",
+   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-msi-b850m-gaming-plus-wifi6e-mainboard-amd-b850-am5-micro-at",
@@ -57898,15 +58248,15 @@
    "sub": "AM5 B850",
    "name": "MSI B850 Gaming Plus WiFi Mainboard, Sockel AM5, AMD B850, ATX, DDR5",
    "source": "crawler",
-   "url": "https://www.caseking.de/msi-b850-gaming-plus-wifi-mainboard-sockel-am5-amd-b850-atx-ddr5/MBMC-594.html",
-   "stand": "2026-11-07T19:45",
+   "url": "https://www.caseking.de/en/msi-b850-gaming-plus-wifi-motherboard-socket-am5-amd-b850-atx-ddr5/MBMC-594.html",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 180.1,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/msi-b850-gaming-plus-wifi-mainboard-sockel-am5-amd-b850-atx-ddr5/MBMC-594.html"
+     "url": "https://www.caseking.de/en/msi-b850-gaming-plus-wifi-motherboard-socket-am5-amd-b850-atx-ddr5/MBMC-594.html"
     }
    ],
    "price": 180.1,
@@ -57934,6 +58284,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 180.1
+    },
+    {
+     "d": "2026-11-09",
      "p": 180.1
     }
    ],
@@ -60310,7 +60664,7 @@
    "name": "Philips E-line 325E1C 32\" 2560 x 1440 VA Monitor Textured Black",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/philips-e-line-325e1c-32-2560-x-1440-va-monitor-textured-black-5821917/",
-   "stand": "2026-11-07T09:49",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -60345,6 +60699,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 198.18
+    },
+    {
+     "d": "2026-11-09",
      "p": 198.18
     }
    ],
@@ -60620,7 +60978,7 @@
    "name": "Intel Core i5-12600K 3,70 GHz (Alder Lake-S) Sockel 1700 - boxed",
    "source": "crawler",
    "url": "https://www.caseking.de/en/intel-core-i5-12600k-3.70-ghz-alder-lake-s-socket-1700-boxed/HPIT-743.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -60659,6 +61017,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 199.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 199.9
     }
    ],
@@ -61405,7 +61767,7 @@
    "name": "Sapphire Pure B850A WiFi7 Mainboard, AMD B850, Sockel AM5, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/sapphire-pure-b850a-wifi7-mainboard-amd-b850-sockel-am5-ddr5/MBSP-013.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -61441,6 +61803,10 @@
     {
      "d": "2026-11-07",
      "p": 203.74
+    },
+    {
+     "d": "2026-11-09",
+     "p": 203.74
     }
    ],
    "count": 1,
@@ -61454,7 +61820,7 @@
    "name": "ASUS TUF Gaming B850M-Plus Mainboard, Sockel AM5, AMD B850, Micro-ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-tuf-gaming-b850m-plus-motherboard-socket-am5-amd-b850-micro-atx-ddr5/MBAS-808.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -61485,6 +61851,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 203.86
+    },
+    {
+     "d": "2026-11-09",
      "p": 203.86
     }
    ],
@@ -61948,7 +62318,7 @@
    "name": "Philips 4000 Series 24B2U4301 Office Monitor 24\" IPS 1920 x 1080 120 Hz Silber, holzkohlefarben",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/philips-4000-series-24b2u4301-office-monitor-24-ips-1920-x-1080-120-hz-silber-holzkohlefarben-100607388/",
-   "stand": "2026-11-07T09:49",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -61983,6 +62353,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 207.43
+    },
+    {
+     "d": "2026-11-09",
      "p": 207.43
     }
    ],
@@ -63495,7 +63869,7 @@
    "name": "ASUS ProArt PA602 PC-Gehäuse, Midi-Tower, E-ATX - schwarz/braun, Holz",
    "source": "crawler",
    "url": "https://www.caseking.de/asus-proart-pa602-pc-gehaeuse-midi-tower-e-atx-schwarz-braun-holz/GEAS-057.html",
-   "stand": "2026-11-07T15:42",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -63530,6 +63904,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 214.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 214.9
     }
    ],
@@ -63798,7 +64176,7 @@
    "name": "ASUS TUF Gaming B850M-Plus WiFi Mainboard, Sockel AM5, AMD B850, Micro-ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-tuf-gaming-b850m-plus-wifi-motherboard-socket-am5-amd-b850-micro-atx-ddr5/MBAS-807.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -63829,6 +64207,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 215.64
+    },
+    {
+     "d": "2026-11-09",
      "p": 215.64
     }
    ],
@@ -66037,6 +66419,59 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-lenovo-thinkvision-t27q-40-27-qhd-ips-120-hz-led-monitor-fin",
+   "cat": "Monitore",
+   "sub": "27\"",
+   "name": "Lenovo ThinkVision T27Q-40 27\" QHD IPS 120 Hz LED-Monitor Finsternis schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/lenovo-thinkvision-t27q-40-27-qhd-ips-120-hz-led-monitor-finsternis-schwarz-100590171/",
+   "stand": "2026-11-09T16:05",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 230.99,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/lenovo-thinkvision-t27q-40-27-qhd-ips-120-hz-led-monitor-finsternis-schwarz-100590171/"
+    }
+   ],
+   "price": 230.99,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 233.99
+    },
+    {
+     "d": "2026-10-31",
+     "p": 233.99
+    },
+    {
+     "d": "2026-11-01",
+     "p": 233.99
+    },
+    {
+     "d": "2026-11-02",
+     "p": 233.99
+    },
+    {
+     "d": "2026-11-04",
+     "p": 233.99
+    },
+    {
+     "d": "2026-11-07",
+     "p": 237.61
+    },
+    {
+     "d": "2026-11-09",
+     "p": 230.99
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 27\" lenovo thinkvision t27q qhd ips 120 led monitor finsternis schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-silverstone-sst-ex850r-pm-extreme-sfx-netzteil-platinum-850-",
    "cat": "Netzteile",
    "sub": "SFX",
@@ -66594,7 +67029,7 @@
    "name": "Alphacool Eisbaer Pro HPE Aurora 360 CPU AIO 360mm, Wasserkühlung",
    "source": "crawler",
    "url": "https://www.alternate.de/Alphacool/Eisbaer-Pro-HPE-Aurora-360-CPU-AIO-360mm-Wasserk%C3%BChlung/html/product/1888838",
-   "stand": "2026-11-08T13:53",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -66629,6 +67064,10 @@
     },
     {
      "d": "2026-11-08",
+     "p": 236.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 236.9
     }
    ],
@@ -66740,55 +67179,6 @@
    ],
    "count": 1,
    "tags": "mainboards am5 b850 asus tuf gaming b850m plus wifi7 mainboard sockel am5 ddr5 micro atx weiss",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-lenovo-thinkvision-t27q-40-27-qhd-ips-120-hz-led-monitor-fin",
-   "cat": "Monitore",
-   "sub": "27\"",
-   "name": "Lenovo ThinkVision T27Q-40 27\" QHD IPS 120 Hz LED-Monitor Finsternis schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/lenovo-thinkvision-t27q-40-27-qhd-ips-120-hz-led-monitor-finsternis-schwarz-100590171/",
-   "stand": "2026-11-07T09:49",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 237.61,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/lenovo-thinkvision-t27q-40-27-qhd-ips-120-hz-led-monitor-finsternis-schwarz-100590171/"
-    }
-   ],
-   "price": 237.61,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 233.99
-    },
-    {
-     "d": "2026-10-31",
-     "p": 233.99
-    },
-    {
-     "d": "2026-11-01",
-     "p": 233.99
-    },
-    {
-     "d": "2026-11-02",
-     "p": 233.99
-    },
-    {
-     "d": "2026-11-04",
-     "p": 233.99
-    },
-    {
-     "d": "2026-11-07",
-     "p": 237.61
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 27\" lenovo thinkvision t27q qhd ips 120 led monitor finsternis schwarz",
    "firstSeen": "2026-10-30"
   },
   {
@@ -67006,7 +67396,7 @@
    "name": "SanDisk WD_BLACK SN8100 SSD 1TB M.2 2280 PCIe Gen5 NVMe Internes Solid-State-Module",
    "source": "crawler",
    "url": "https://www.notebooksbilliger.de/wd_black+sn8100+ssd+1tb+m2+2280+pcie+gen5+nvme+892674",
-   "stand": "2026-11-09T14:23",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "Notebooksbilliger",
@@ -67663,7 +68053,7 @@
    "name": "Xiaomi A27Ui 27\" UHD IPS Monitor 3840x2160 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/xiaomi-a27ui-27-uhd-ips-monitor-3840x2160-schwarz-100674250/",
-   "stand": "2026-11-07T09:49",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -67698,6 +68088,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 241.49
+    },
+    {
+     "d": "2026-11-09",
      "p": 241.49
     }
    ],
@@ -68026,7 +68420,7 @@
    "name": "Intel Core i7-12700KF 3,60 GHz (Alder Lake-S) Sockel 1700 - boxed",
    "source": "crawler",
    "url": "https://www.caseking.de/en/intel-core-i7-12700kf-3.60-ghz-alder-lake-s-socket-1700-boxed/HPIT-746.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -68065,6 +68459,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 244.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 244.9
     }
    ],
@@ -68226,7 +68624,7 @@
    "name": "Acer Vero B247W E5bmiqpruzx 24\" IPS-Monitor 1920 x 1200 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/acer-vero-b247w-e5bmiqpruzx-24-ips-monitor-1920-x-1200-schwarz-100608092/",
-   "stand": "2026-11-07T09:49",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -68261,6 +68659,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 245.07
+    },
+    {
+     "d": "2026-11-09",
      "p": 245.07
     }
    ],
@@ -68328,7 +68730,7 @@
    "name": "Intel Core i5-12600 3,30 GHz (Alder Lake-S) Sockel 1700 - boxed",
    "source": "crawler",
    "url": "https://www.caseking.de/en/intel-core-i5-12600-3.30-ghz-alder-lake-s-socket-1700-boxed/HPIT-718.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -68367,6 +68769,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 245.25
+    },
+    {
+     "d": "2026-11-09",
      "p": 245.25
     }
    ],
@@ -68434,7 +68840,7 @@
    "name": "ASUS ROG Strix XG259CS Gaming-Monitor 24,5\" Full HD 180 Hz Fast IPS Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-rog-strix-xg259cs-gaming-monitor-24-5-full-hd-180-hz-fast-ips-schwarz-100506040/",
-   "stand": "2026-11-07T09:49",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -68469,6 +68875,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 247.03
+    },
+    {
+     "d": "2026-11-09",
      "p": 247.03
     }
    ],
@@ -68683,7 +69093,7 @@
    "name": "ASUS ROG Strix B860-A Gaming WiFi Mainboard, Sockel LGA 1851, Intel B860, ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-b860-a-gaming-wifi-motherboard-socket-lga-1851-intel-b860-atx-ddr5/MBAS-813.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -68714,6 +69124,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 249.08
+    },
+    {
+     "d": "2026-11-09",
      "p": 249.08
     }
    ],
@@ -69871,7 +70285,7 @@
    "name": "Sapphire Pure X870A WiFi7 Mainboard, Sockel AM5, AMD X870, ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/sapphire-pure-x870a-wifi7-motherboard-socket-am5-amd-x870-atx-ddr5/MBSP-011.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -69906,6 +70320,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 254.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 254.9
     }
    ],
@@ -70585,7 +71003,7 @@
    "name": "Lenovo ThinkVision T24D-4v 23,8\" Full HD IPS-Monitor Webcam USB-C Finsternis schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/lenovo-thinkvision-t24d-4v-23-8-full-hd-ips-monitor-webcam-usb-c-finsternis-schwarz-100698035/",
-   "stand": "2026-11-07T09:49",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -70620,6 +71038,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 263.45
+    },
+    {
+     "d": "2026-11-09",
      "p": 263.45
     }
    ],
@@ -70740,7 +71162,7 @@
    "name": "AMD Ryzen 9 7900X 4,7 GHz (Raphael) AM5 - boxed",
    "source": "crawler",
    "url": "https://www.caseking.de/en/amd-ryzen-9-7900x-4.7-ghz-raphael-am5-boxed/HPAM-250.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -70779,6 +71201,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 264.31
+    },
+    {
+     "d": "2026-11-09",
      "p": 264.31
     }
    ],
@@ -70842,7 +71268,7 @@
    "name": "ASUS ROG STRIX B850-A Gaming WiFi Mainboard, Sockel AM5, AMD B850, ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-b850-a-gaming-wifi-motherboard-socket-am5-amd-b850-atx-ddr5/MBAS-804.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -70873,6 +71299,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 264.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 264.9
     }
    ],
@@ -71087,7 +71517,7 @@
    "name": "ASUS Prime Z890-P WiFi Mainboard, Sockel LGA 1851, Intel Z890, ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-prime-z890-p-wifi-motherboard-socket-lga-1851-intel-z890-atx-ddr5/MBAS-798.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -71119,6 +71549,10 @@
     {
      "d": "2026-11-07",
      "p": 267.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 267.9
     }
    ],
    "count": 1,
@@ -71132,7 +71566,7 @@
    "name": "ASUS ROG Strix B860-F Gaming WiFi Mainboard, Sockel LGA 1851, Intel B860, ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-b860-f-gaming-wifi-motherboard-socket-lga-1851-intel-b860-atx-ddr5/MBAS-812.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -71163,6 +71597,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 268.05
+    },
+    {
+     "d": "2026-11-09",
      "p": 268.05
     }
    ],
@@ -71699,7 +72137,7 @@
    "name": "Intel Core i7-12700F 2,10 GHz (Alder Lake-S) Sockel 1700 - boxed",
    "source": "crawler",
    "url": "https://www.caseking.de/en/intel-core-i7-12700f-2.10-ghz-alder-lake-s-socket-1700-boxed/HPIT-715.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -71738,6 +72176,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 275.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 275.9
     }
    ],
@@ -71805,17 +72247,17 @@
    "name": "ASUS ZenScreen GO MB16AHP 15,6\" Full HD IPS Monitor Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-zenscreen-go-mb16ahp-15-6-full-hd-ips-monitor-schwarz-5803768/",
-   "stand": "2026-11-07T09:49",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
-     "price": 278.91,
+     "price": 278.95,
      "ship": null,
      "avail": null,
      "url": "https://www.jacob.de/produkt/asus-zenscreen-go-mb16ahp-15-6-full-hd-ips-monitor-schwarz-5803768/"
     }
    ],
-   "price": 278.91,
+   "price": 278.95,
    "shop": "JACOB Elektronik GmbH",
    "hist": [
     {
@@ -71841,6 +72283,10 @@
     {
      "d": "2026-11-07",
      "p": 278.91
+    },
+    {
+     "d": "2026-11-09",
+     "p": 278.95
     }
    ],
    "count": 1,
@@ -72401,7 +72847,7 @@
    "name": "Philips 5000 Series 24B1U5301H 23.8\" Full HD Monitor 75 Hz IPS Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/philips-5000-series-24b1u5301h-23-8-full-hd-monitor-75-hz-ips-schwarz-8040192/",
-   "stand": "2026-11-07T09:49",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -72436,6 +72882,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 288.33
+    },
+    {
+     "d": "2026-11-09",
      "p": 288.33
     }
    ],
@@ -74017,7 +74467,7 @@
    "name": "Samsung ViewFinity S6 S32D600EAU 32\" QHD IPS Monitor 100 Hz HDMI DisplayPort USB Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/samsung-viewfinity-s6-s32d600eau-32-qhd-ips-monitor-100-hz-hdmi-displayport-usb-schwarz-100506136/",
-   "stand": "2026-11-07T09:49",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -74052,6 +74502,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 317.79
+    },
+    {
+     "d": "2026-11-09",
      "p": 317.79
     }
    ],
@@ -74119,7 +74573,7 @@
    "name": "Intel Core i7-12700 2,10 GHz (Alder Lake-S) Sockel 1700 - boxed",
    "source": "crawler",
    "url": "https://www.caseking.de/en/intel-core-i7-12700-2.10-ghz-alder-lake-s-socket-1700-boxed/HPIT-717.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -74158,6 +74612,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 319.63
+    },
+    {
+     "d": "2026-11-09",
      "p": 319.63
     }
    ],
@@ -74393,7 +74851,7 @@
    "name": "ASUS BE24ECSNK 60.5cm TFT LED-Monitor, 5ms (GtG), 1x HDMI 1.4 60Hz@1920x1080, 1x DisplayPort 1.2 60Hz@1920x1080, 1x USB-C 3.0 mit DisplayPort 1.2 Daisy Chain [Energieklasse E] (90LM05M1-B0A370)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-be24ecsnk-60-5cm-tft-led-monitor-5ms-gtg-1x-hdmi-1-4-60hzat1920x1080-1x-displayport-1-2-60hzat1920x1080-1x-usb-c-3-0-mit-displayport-1-2-daisy-chain-energieklasse-e-90lm05m1-b0a370-7981621/",
-   "stand": "2026-11-07T08:02",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -74428,6 +74886,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 323.53
+    },
+    {
+     "d": "2026-11-09",
      "p": 323.53
     }
    ],
@@ -74491,7 +74953,7 @@
    "name": "ASUS TUF Gaming Z890-Pro WiFi Mainboard, Sockel 1851, Intel Z890, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-tuf-gaming-z890-pro-wifi-motherboard-socket-1851-intel-z890-ddr5/MBAS-796.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -74522,6 +74984,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 327
+    },
+    {
+     "d": "2026-11-09",
      "p": 327
     }
    ],
@@ -74850,7 +75316,7 @@
    "name": "Lenovo ThinkVision T32h-30 31.5\" 2560 x 1440 IPS LED-Monitor Raven Black",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/lenovo-thinkvision-t32h-30-31-5-2560-x-1440-ips-led-monitor-raven-black-8222113/",
-   "stand": "2026-11-07T09:49",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -74885,6 +75351,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 329.15
+    },
+    {
+     "d": "2026-11-09",
      "p": 329.15
     }
    ],
@@ -75070,7 +75540,7 @@
    "name": "ASUS ROG STRIX B850-E Gaming WiFi Mainboard, Sockel AM5, AMD B850, ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-b850-e-gaming-wifi-motherboard-socket-am5-amd-b850-atx-ddr5/MBAS-802.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -75101,6 +75571,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 332.13
+    },
+    {
+     "d": "2026-11-09",
      "p": 332.13
     }
    ],
@@ -75376,7 +75850,7 @@
    "name": "Lenovo ThinkVision C24d-20 24\" LED-Monitor 1920x1200 IPS HDMI DisplayPort DVI VGA Grau-Weiß",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/lenovo-thinkvision-c24d-20-24-led-monitor-1920x1200-ips-hdmi-displayport-dvi-vga-grau-weiss-100471581/",
-   "stand": "2026-11-07T09:49",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -75411,6 +75885,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 336.83
+    },
+    {
+     "d": "2026-11-09",
      "p": 336.83
     }
    ],
@@ -75903,7 +76381,7 @@
    "name": "ASUS ROG Strix Z890-E Gaming WiFi Mainboard, Sockel LGA 1851, Intel Z890, ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-z890-e-gaming-wifi-motherboard-socket-lga-1851-intel-z890-atx-ddr5/MBAS-792.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -75934,6 +76412,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 343.02
+    },
+    {
+     "d": "2026-11-09",
      "p": 343.02
     }
    ],
@@ -76603,7 +77085,7 @@
    "name": "HP Series 7 Pro 727pq 27\" QHD IPS Black Monitor 120 Hz HDR400 Schwarz, Silber",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/hp-series-7-pro-727pq-27-qhd-ips-black-monitor-120-hz-hdr400-schwarz-silber-100506207/",
-   "stand": "2026-11-07T09:49",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -76638,6 +77120,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 349.99
+    },
+    {
+     "d": "2026-11-09",
      "p": 349.99
     }
    ],
@@ -77369,15 +77855,15 @@
    "sub": "AM5 X870",
    "name": "Sapphire Nitro+ X870EA PhantomLink Polar Edition Mainboard, AMD X870E, Sockel AM5, DDR5",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/sapphire-nitro-x870ea-phantomlink-polar-edition-mainboard-amd-x870e-sockel-am5-ddr5/MBSP-020.html",
-   "stand": "2026-11-07T15:42",
+   "url": "https://www.caseking.de/sapphire-nitro-x870ea-phantomlink-polar-edition-mainboard-amd-x870e-sockel-am5-ddr5/MBSP-020.html",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 366.72,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/sapphire-nitro-x870ea-phantomlink-polar-edition-mainboard-amd-x870e-sockel-am5-ddr5/MBSP-020.html"
+     "url": "https://www.caseking.de/sapphire-nitro-x870ea-phantomlink-polar-edition-mainboard-amd-x870e-sockel-am5-ddr5/MBSP-020.html"
     }
    ],
    "price": 366.72,
@@ -77405,6 +77891,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 366.72
+    },
+    {
+     "d": "2026-11-09",
      "p": 366.72
     }
    ],
@@ -78193,55 +78683,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-lg-ultrawide-34u650a-b-34-wqhd-ips-curved-office-monitor-100",
-   "cat": "Monitore",
-   "sub": "34\"",
-   "name": "LG UltraWide 34U650A-B 34\" WQHD IPS Curved Office Monitor 100 Hz Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/lg-ultrawide-34u650a-b-34-wqhd-ips-curved-office-monitor-100-hz-schwarz-100674472/",
-   "stand": "2026-11-07T09:49",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 377.36,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/lg-ultrawide-34u650a-b-34-wqhd-ips-curved-office-monitor-100-hz-schwarz-100674472/"
-    }
-   ],
-   "price": 377.36,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 377.36
-    },
-    {
-     "d": "2026-10-31",
-     "p": 377.36
-    },
-    {
-     "d": "2026-11-01",
-     "p": 377.36
-    },
-    {
-     "d": "2026-11-02",
-     "p": 377.36
-    },
-    {
-     "d": "2026-11-04",
-     "p": 377.36
-    },
-    {
-     "d": "2026-11-07",
-     "p": 377.36
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 34\" ultrawide 34u650a wqhd ips curved office monitor 100 schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-asus-tuf-gaming-vg27aqml1a-gaming-monitor-68-6-cm-27-amd-fre",
    "cat": "Monitore",
    "sub": "27\"",
@@ -78403,7 +78844,7 @@
    "name": "ASUS ROG Hyperion GR701 BTF Edition PC-Gehäuse, Big-Tower, E-ATX, Tempered Glass - schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/asus-rog-hyperion-gr701-btf-edition-pc-gehaeuse-big-tower-e-atx-tempered-glass-schwarz/GEAS-056.html",
-   "stand": "2026-11-07T15:42",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -78438,6 +78879,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 379.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 379.9
     }
    ],
@@ -79553,6 +79998,59 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-lg-ultrawide-34u650a-b-34-wqhd-ips-curved-office-monitor-100",
+   "cat": "Monitore",
+   "sub": "34\"",
+   "name": "LG UltraWide 34U650A-B 34\" WQHD IPS Curved Office Monitor 100 Hz Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/lg-ultrawide-34u650a-b-34-wqhd-ips-curved-office-monitor-100-hz-schwarz-100674472/",
+   "stand": "2026-11-09T16:05",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 392.44,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/lg-ultrawide-34u650a-b-34-wqhd-ips-curved-office-monitor-100-hz-schwarz-100674472/"
+    }
+   ],
+   "price": 392.44,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 377.36
+    },
+    {
+     "d": "2026-10-31",
+     "p": 377.36
+    },
+    {
+     "d": "2026-11-01",
+     "p": 377.36
+    },
+    {
+     "d": "2026-11-02",
+     "p": 377.36
+    },
+    {
+     "d": "2026-11-04",
+     "p": 377.36
+    },
+    {
+     "d": "2026-11-07",
+     "p": 377.36
+    },
+    {
+     "d": "2026-11-09",
+     "p": 392.44
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 34\" ultrawide 34u650a wqhd ips curved office monitor 100 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-rog-strix-x870-a-gaming-wifi-mainboard-amd-x870-sockel-",
    "cat": "Mainboards",
    "sub": "AM5 X870",
@@ -79608,7 +80106,7 @@
    "name": "Intel Core i9-12900K 3,20 GHz (Alder Lake-S) Sockel 1700 - boxed",
    "source": "crawler",
    "url": "https://www.caseking.de/en/intel-core-i9-12900k-3.20-ghz-alder-lake-s-socket-1700-boxed/HPIT-747.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -79647,6 +80145,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 394.53
+    },
+    {
+     "d": "2026-11-09",
      "p": 394.53
     }
    ],
@@ -80626,6 +81128,59 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-aoc-agon-pro-ag256fs-gaming-monitor-62-2-cm-24-5-zoll-schwar",
+   "cat": "Monitore",
+   "sub": "24,5\"",
+   "name": "AOC Agon PRO AG256FS, Gaming-Monitor - (62.2 cm (24.5 Zoll), schwarz (matt), FullHD, Fast-IPS, USB-Hub, Adaptive-Sync, 360Hz Panel) [Energieklasse E] (AG256FS)",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/aoc-agon-pro-ag256fs-gaming-monitor-62-2-cm-24-5-zoll-schwarz-matt-fullhd-fast-ips-usb-hub-adaptive-sync-360hz-panel-energieklasse-e-ag256fs-100506254/",
+   "stand": "2026-11-09T16:05",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 416.87,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/aoc-agon-pro-ag256fs-gaming-monitor-62-2-cm-24-5-zoll-schwarz-matt-fullhd-fast-ips-usb-hub-adaptive-sync-360hz-panel-energieklasse-e-ag256fs-100506254/"
+    }
+   ],
+   "price": 416.87,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 439.54
+    },
+    {
+     "d": "2026-10-31",
+     "p": 439.55
+    },
+    {
+     "d": "2026-11-01",
+     "p": 439.59
+    },
+    {
+     "d": "2026-11-02",
+     "p": 439.6
+    },
+    {
+     "d": "2026-11-04",
+     "p": 439.59
+    },
+    {
+     "d": "2026-11-07",
+     "p": 423.59
+    },
+    {
+     "d": "2026-11-09",
+     "p": 416.87
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 24,5\" aoc agon pro ag256fs gaming monitor zoll schwarz matt fullhd fast ips usb hub adaptive sync",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-sharp-multisync-ea242f-23-8-ips-led-monitor-1920-x-1080-schw",
    "cat": "Monitore",
    "sub": "23,8\"",
@@ -81184,7 +81739,7 @@
    "name": "BenQ DesignVue PD2706U 27\" 4K IPS Monitor Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/benq-designvue-pd2706u-27-4k-ips-monitor-schwarz-100018125/",
-   "stand": "2026-11-07T09:49",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -81219,6 +81774,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 422.82
+    },
+    {
+     "d": "2026-11-09",
      "p": 422.82
     }
    ],
@@ -81311,55 +81870,6 @@
    "count": 1,
    "tags": "ssds sata 2 tb western digital red sa500 wds200t1r0b 2280 sata ssd",
    "firstSeen": "2026-11-03"
-  },
-  {
-   "id": "c-aoc-agon-pro-ag256fs-gaming-monitor-62-2-cm-24-5-zoll-schwar",
-   "cat": "Monitore",
-   "sub": "24,5\"",
-   "name": "AOC Agon PRO AG256FS, Gaming-Monitor - (62.2 cm (24.5 Zoll), schwarz (matt), FullHD, Fast-IPS, USB-Hub, Adaptive-Sync, 360Hz Panel) [Energieklasse E] (AG256FS)",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/aoc-agon-pro-ag256fs-gaming-monitor-62-2-cm-24-5-zoll-schwarz-matt-fullhd-fast-ips-usb-hub-adaptive-sync-360hz-panel-energieklasse-e-ag256fs-100506254/",
-   "stand": "2026-11-07T09:49",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 423.59,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/aoc-agon-pro-ag256fs-gaming-monitor-62-2-cm-24-5-zoll-schwarz-matt-fullhd-fast-ips-usb-hub-adaptive-sync-360hz-panel-energieklasse-e-ag256fs-100506254/"
-    }
-   ],
-   "price": 423.59,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 439.54
-    },
-    {
-     "d": "2026-10-31",
-     "p": 439.55
-    },
-    {
-     "d": "2026-11-01",
-     "p": 439.59
-    },
-    {
-     "d": "2026-11-02",
-     "p": 439.6
-    },
-    {
-     "d": "2026-11-04",
-     "p": 439.59
-    },
-    {
-     "d": "2026-11-07",
-     "p": 423.59
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 24,5\" aoc agon pro ag256fs gaming monitor zoll schwarz matt fullhd fast ips usb hub adaptive sync",
-   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-be-quiet-dark-power-pro-13-80-plus-titanium-netzteil-atx-3-1",
@@ -81976,7 +82486,7 @@
    "name": "MSI MAG 345CQRDE Curved Gaming Monitor 34\" UWQHD VA 180 Hz 1 ms Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/msi-mag-345cqrde-curved-gaming-monitor-34-uwqhd-va-180-hz-1-ms-schwarz-100472238/",
-   "stand": "2026-11-07T09:49",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -82011,6 +82521,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 442.48
+    },
+    {
+     "d": "2026-11-09",
      "p": 442.48
     }
    ],
@@ -82126,15 +82640,15 @@
    "sub": "GeForce RTX 5050",
    "name": "ASUS Dual GeForce RTX 5050 OC Edition, 8192 MB GDDR6",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/asus-dual-geforce-rtx-5050-oc-edition-8192-mb-gddr6/GCAS-697.html",
-   "stand": "2026-11-07T15:42",
+   "url": "https://www.caseking.de/asus-dual-geforce-rtx-5050-oc-edition-8192-mb-gddr6/GCAS-697.html",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 450.19,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/asus-dual-geforce-rtx-5050-oc-edition-8192-mb-gddr6/GCAS-697.html"
+     "url": "https://www.caseking.de/asus-dual-geforce-rtx-5050-oc-edition-8192-mb-gddr6/GCAS-697.html"
     }
    ],
    "price": 450.19,
@@ -82162,6 +82676,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 450.19
+    },
+    {
+     "d": "2026-11-09",
      "p": 450.19
     }
    ],
@@ -82224,15 +82742,15 @@
    "sub": "Intel LGA1851 Z890",
    "name": "GIGABYTE Z890 AORUS Master Mainboard, Sockel LGA 1851, Intel Z890, ATX, DDR5",
    "source": "crawler",
-   "url": "https://www.caseking.de/gigabyte-z890-aorus-master-mainboard-sockel-lga-1851-intel-z890-atx-ddr5/MBGB-629.html",
-   "stand": "2026-11-09T14:23",
+   "url": "https://www.caseking.de/en/gigabyte-z890-aorus-master-motherboard-socket-lga-1851-intel-z890-atx-ddr5/MBGB-629.html",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 451.73,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/gigabyte-z890-aorus-master-mainboard-sockel-lga-1851-intel-z890-atx-ddr5/MBGB-629.html"
+     "url": "https://www.caseking.de/en/gigabyte-z890-aorus-master-motherboard-socket-lga-1851-intel-z890-atx-ddr5/MBGB-629.html"
     }
    ],
    "price": 451.73,
@@ -82278,7 +82796,7 @@
    "name": "SanDisk WD_BLACK SN770M SSD 2TB M.2 2230 PCIe Gen4 NVMe B-Ware Internes Solid-State-Module",
    "source": "crawler",
    "url": "https://www.notebooksbilliger.de/wd_black+sn770m+ssd+2tb+m2+2230+pcie+gen4+nvme+b+ware+919699",
-   "stand": "2026-11-09T14:23",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "Notebooksbilliger",
@@ -83036,6 +83554,59 @@
    ],
    "count": 1,
    "tags": "ssds pcie 4.0 2 tb samsung 990 pro series nvme ssd pcie typ 2280 mit kuhlkorper",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-eizo-flexscan-ev2495-wt-mit-flexstand-led-monitor-61-1-cm-24",
+   "cat": "Monitore",
+   "sub": "24,1\"",
+   "name": "EIZO FlexScan EV2495-WT - Mit FlexStand - LED-Monitor - 61.1 cm (24.1\") - 1920 x 1200 - IPS - 350 cd/m² - 1000:1 - 5 ms - HDMI, DisplayPort, USB-C - Lautsprecher - weiß [Energieklasse C]",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/eizo-flexscan-ev2495-wt-mit-flexstand-led-monitor-61-1-cm-24-1-1920-x-1200-ips-350-cd-m2-1000-1-5-ms-hdmi-displayport-usb-c-lautsprecher-weiss-energieklasse-c-6795091/",
+   "stand": "2026-11-09T16:05",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 474.69,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/eizo-flexscan-ev2495-wt-mit-flexstand-led-monitor-61-1-cm-24-1-1920-x-1200-ips-350-cd-m2-1000-1-5-ms-hdmi-displayport-usb-c-lautsprecher-weiss-energieklasse-c-6795091/"
+    }
+   ],
+   "price": 474.69,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 535.3
+    },
+    {
+     "d": "2026-10-31",
+     "p": 535.3
+    },
+    {
+     "d": "2026-11-01",
+     "p": 535.3
+    },
+    {
+     "d": "2026-11-02",
+     "p": 535.3
+    },
+    {
+     "d": "2026-11-04",
+     "p": 535.3
+    },
+    {
+     "d": "2026-11-07",
+     "p": 535.3
+    },
+    {
+     "d": "2026-11-09",
+     "p": 474.69
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 24,1\" eizo flexscan ev2495 mit flexstand led monitor 1920 1200 ips 350 1000 hdmi displayport usb lautsprecher",
    "firstSeen": "2026-10-30"
   },
   {
@@ -85090,7 +85661,7 @@
    "name": "Dell Plus S3225QC 31.6\" 4K QD-OLED Monitor Schwarz, Silber",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/dell-plus-s3225qc-31-6-4k-qd-oled-monitor-schwarz-silber-100675065/",
-   "stand": "2026-11-07T09:49",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -85125,6 +85696,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 531.28
+    },
+    {
+     "d": "2026-11-09",
      "p": 531.28
     }
    ],
@@ -85232,55 +85807,6 @@
    ],
    "count": 1,
    "tags": "grafikkarten geforce rtx 5060 gigabyte geforce rtx 5060 windforce max 8192 gddr7",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-eizo-flexscan-ev2495-wt-mit-flexstand-led-monitor-61-1-cm-24",
-   "cat": "Monitore",
-   "sub": "24,1\"",
-   "name": "EIZO FlexScan EV2495-WT - Mit FlexStand - LED-Monitor - 61.1 cm (24.1\") - 1920 x 1200 - IPS - 350 cd/m² - 1000:1 - 5 ms - HDMI, DisplayPort, USB-C - Lautsprecher - weiß [Energieklasse C]",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/eizo-flexscan-ev2495-wt-mit-flexstand-led-monitor-61-1-cm-24-1-1920-x-1200-ips-350-cd-m2-1000-1-5-ms-hdmi-displayport-usb-c-lautsprecher-weiss-energieklasse-c-6795091/",
-   "stand": "2026-11-07T09:49",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 535.3,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/eizo-flexscan-ev2495-wt-mit-flexstand-led-monitor-61-1-cm-24-1-1920-x-1200-ips-350-cd-m2-1000-1-5-ms-hdmi-displayport-usb-c-lautsprecher-weiss-energieklasse-c-6795091/"
-    }
-   ],
-   "price": 535.3,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 535.3
-    },
-    {
-     "d": "2026-10-31",
-     "p": 535.3
-    },
-    {
-     "d": "2026-11-01",
-     "p": 535.3
-    },
-    {
-     "d": "2026-11-02",
-     "p": 535.3
-    },
-    {
-     "d": "2026-11-04",
-     "p": 535.3
-    },
-    {
-     "d": "2026-11-07",
-     "p": 535.3
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 24,1\" eizo flexscan ev2495 mit flexstand led monitor 1920 1200 ips 350 1000 hdmi displayport usb lautsprecher",
    "firstSeen": "2026-10-30"
   },
   {
@@ -85698,7 +86224,7 @@
    "name": "ASUS Dual GeForce RTX 5060 OC Edition, 8192 MB GDDR7",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-dual-geforce-rtx-5060-oc-edition-8192-mb-gddr7/GCAS-686.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -85733,6 +86259,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 549
+    },
+    {
+     "d": "2026-11-09",
      "p": 549
     }
    ],
@@ -85996,7 +86526,7 @@
    "name": "ASUS Prime GeForce RTX 5060 OC Edition, 8192 MB GDDR7",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-prime-geforce-rtx-5060-oc-edition-8192-mb-gddr7/GCAS-688.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -86031,6 +86561,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 549.9
+    },
+    {
+     "d": "2026-11-09",
      "p": 549.9
     }
    ],
@@ -86441,7 +86975,7 @@
    "name": "BenQ PV3200U 32\" 4K IPS Monitor 3840 x 2160 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/benq-pv3200u-32-4k-ips-monitor-3840-x-2160-schwarz-100608094/",
-   "stand": "2026-11-07T09:49",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -86476,6 +87010,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 568.67
+    },
+    {
+     "d": "2026-11-09",
      "p": 568.67
     }
    ],
@@ -86543,7 +87081,7 @@
    "name": "ASUS TUF GeForce RTX 5060 OC Edition, 8192 MB GDDR7",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-tuf-geforce-rtx-5060-oc-edition-8192-mb-gddr7/GCAS-690.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -86578,6 +87116,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 569
+    },
+    {
+     "d": "2026-11-09",
      "p": 569
     }
    ],
@@ -86751,7 +87293,7 @@
    "name": "ASUS Dual GeForce RTX 5060 White OC Edition, 8192 MB GDDR7",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-dual-geforce-rtx-5060-white-oc-edition-8192-mb-gddr7/GCAS-711.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -86786,6 +87328,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 579
+    },
+    {
+     "d": "2026-11-09",
      "p": 579
     }
    ],
@@ -87298,7 +87844,7 @@
    "name": "BenQ RD280U 28,2\" 4K IPS Monitor Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/benq-rd280u-28-2-4k-ips-monitor-schwarz-100499305/",
-   "stand": "2026-11-07T09:49",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -87333,6 +87879,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 598.24
+    },
+    {
+     "d": "2026-11-09",
      "p": 598.24
     }
    ],
@@ -90040,7 +90590,7 @@
    "name": "EIZO FlexScan EV2795-WT LED-Monitor 27\" 2560 x 1440 IPS HDMI DisplayPort USB-C Weiß",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/eizo-flexscan-ev2795-wt-led-monitor-27-2560-x-1440-ips-hdmi-displayport-usb-c-weiss-6795092/",
-   "stand": "2026-11-07T09:49",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -90075,6 +90625,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 663.06
+    },
+    {
+     "d": "2026-11-09",
      "p": 663.06
     }
    ],
@@ -90248,7 +90802,7 @@
    "name": "EIZO ColorEdge CS2400S LED-Monitor 24.1\" 1920 x 1200 IPS HDMI DisplayPort USB-C Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/eizo-coloredge-cs2400s-led-monitor-24-1-1920-x-1200-ips-hdmi-displayport-usb-c-schwarz-9152686/",
-   "stand": "2026-11-07T08:02",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -90283,6 +90837,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 675.82
+    },
+    {
+     "d": "2026-11-09",
      "p": 675.82
     }
    ],
@@ -91011,7 +91569,7 @@
    "name": "ASUS ROG CROSSHAIR X870E DARK HERO ATX Mainboard AM5 DDR5 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-rog-crosshair-x870e-dark-hero-atx-mainboard-am5-ddr5-schwarz-100695296/",
-   "stand": "2026-11-07T09:49",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -91046,6 +91604,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 703.4
+    },
+    {
+     "d": "2026-11-09",
      "p": 703.4
     }
    ],
@@ -91341,7 +91903,7 @@
    "name": "Samsung Odyssey OLED G8 S27FG810SU 27\" OLED-Monitor 4K UHD 240 Hz Silber",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/samsung-odyssey-oled-g8-s27fg810su-27-oled-monitor-4k-uhd-240-hz-silber-100580169/",
-   "stand": "2026-11-07T09:49",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -91376,6 +91938,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 717.71
+    },
+    {
+     "d": "2026-11-09",
      "p": 717.71
     }
    ],
@@ -93300,7 +93866,7 @@
    "name": "Nitro Concepts SM1 curved monitor – 144 Hz, 49\" sim racing display",
    "source": "crawler",
    "url": "https://nitro-concepts.com/products/sm1-curved-monitor-144-hz-49-sim-racing-display?variant=54339679781197",
-   "stand": "2026-11-09T14:23",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "Nitro Concepts",
@@ -94467,7 +95033,7 @@
    "name": "ASUS Dual GeForce RTX 5060 Ti White OC Edition, 16384 MB GDDR7",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-dual-geforce-rtx-5060-ti-white-oc-edition-16384-mb-gddr7/GCAS-707.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -94502,6 +95068,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 849
+    },
+    {
+     "d": "2026-11-09",
      "p": 849
     }
    ],
@@ -95430,7 +96000,7 @@
    "name": "LC Power LC-M49QCO QD-OLED Gaming-Monitor 49\" 5120 x 1440 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/lc-power-lc-m49qco-qd-oled-gaming-monitor-49-5120-x-1440-schwarz-100607191/",
-   "stand": "2026-11-07T09:49",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -95465,6 +96035,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 884.52
+    },
+    {
+     "d": "2026-11-09",
      "p": 884.52
     }
    ],
@@ -98944,7 +99518,7 @@
    "name": "ASUS ProArt PA32UCE 31.5\" 3840 x 2160 IPS Monitor Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-proart-pa32uce-31-5-3840-x-2160-ips-monitor-schwarz-100590221/",
-   "stand": "2026-11-07T09:49",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -98979,6 +99553,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 1107.91
+    },
+    {
+     "d": "2026-11-09",
      "p": 1107.91
     }
    ],
@@ -102015,7 +102593,7 @@
    "name": "LG UltraGear 32GQ950P-B Gaming Monitor 31,5\" UHD Nano IPS 1 ms 144 Hz Grau, Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/lg-ultragear-32gq950p-b-gaming-monitor-31-5-uhd-nano-ips-1-ms-144-hz-grau-schwarz-8271400/",
-   "stand": "2026-11-07T08:02",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -102050,6 +102628,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 1651.83
+    },
+    {
+     "d": "2026-11-09",
      "p": 1651.83
     }
    ],
@@ -104228,55 +104810,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-asus-geforce-rtx-5080-proart-oc-edition-16384-mb-gddr7",
-   "cat": "Grafikkarten",
-   "sub": "GeForce RTX 5080",
-   "name": "ASUS GeForce RTX 5080 ProArt OC Edition, 16384 MB GDDR7",
-   "source": "crawler",
-   "url": "https://www.caseking.de/en/asus-geforce-rtx-5080-proart-oc-edition-16384-mb-gddr7/GCAS-705.html",
-   "stand": "2026-11-07T13:54",
-   "offers": [
-    {
-     "shop": "caseking.de",
-     "price": 2199,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/asus-geforce-rtx-5080-proart-oc-edition-16384-mb-gddr7/GCAS-705.html"
-    }
-   ],
-   "price": 2199,
-   "shop": "caseking.de",
-   "hist": [
-    {
-     "d": "2026-10-29",
-     "p": 2199
-    },
-    {
-     "d": "2026-10-30",
-     "p": 2199
-    },
-    {
-     "d": "2026-11-01",
-     "p": 2199
-    },
-    {
-     "d": "2026-11-03",
-     "p": 2199
-    },
-    {
-     "d": "2026-11-05",
-     "p": 2199
-    },
-    {
-     "d": "2026-11-07",
-     "p": 2199
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten geforce rtx 5080 asus geforce rtx 5080 proart edition 16384 gddr7",
-   "firstSeen": "2026-10-29"
-  },
-  {
    "id": "c-captiva-highend-gaming-i93-208-intel-core-i5-14600kf-nvidia-",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5070",
@@ -104638,6 +105171,59 @@
    "count": 1,
    "tags": "grafikkarten geforce rtx 5070 captiva highend gaming r89 846 amd ryzen 7500f nvidia geforce rtx 5070 ram ssd schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-geforce-rtx-5080-proart-oc-edition-16384-mb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5080",
+   "name": "ASUS GeForce RTX 5080 ProArt OC Edition, 16384 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-geforce-rtx-5080-proart-oc-edition-16384-mb-gddr7/GCAS-705.html",
+   "stand": "2026-11-09T16:05",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 2299,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-geforce-rtx-5080-proart-oc-edition-16384-mb-gddr7/GCAS-705.html"
+    }
+   ],
+   "price": 2299,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 2199
+    },
+    {
+     "d": "2026-10-30",
+     "p": 2199
+    },
+    {
+     "d": "2026-11-01",
+     "p": 2199
+    },
+    {
+     "d": "2026-11-03",
+     "p": 2199
+    },
+    {
+     "d": "2026-11-05",
+     "p": 2199
+    },
+    {
+     "d": "2026-11-07",
+     "p": 2199
+    },
+    {
+     "d": "2026-11-09",
+     "p": 2299
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5080 asus geforce rtx 5080 proart edition 16384 gddr7",
+   "firstSeen": "2026-10-29"
   },
   {
    "id": "c-inno3d-geforce-rtx-5080-x3-oc-16384-mb-gddr7",
@@ -105891,7 +106477,7 @@
    "name": "ASUS TURBO Radeon AI PRO R9700 32G Grafikkarte, 32768 MB GDDR6",
    "source": "crawler",
    "url": "https://www.caseking.de/asus-turbo-radeon-ai-pro-r9700-32g-grafikkarte-32768-mb-gddr6/GCAS-713.html",
-   "stand": "2026-11-07T13:54",
+   "stand": "2026-11-09T16:05",
    "offers": [
     {
      "shop": "caseking.de",
@@ -105926,6 +106512,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 2649
+    },
+    {
+     "d": "2026-11-09",
      "p": 2649
     }
    ],
