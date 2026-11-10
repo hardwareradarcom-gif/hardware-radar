@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T11:23:06.734Z",
+ "updated": "2026-11-10T11:53:50.803Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1457,6 +1457,10 @@
     {
      "d": "2026-11-07",
      "p": 203.17
+    },
+    {
+     "d": "2026-11-10",
+     "p": 203.17
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -1670,65 +1674,53 @@
    "source": "crawler"
   },
   {
-   "id": "c-msi-b850-gaming-plus-wifi6e-mainboard",
-   "name": "MSI B850 GAMING PLUS WIFI6E, Mainboard",
-   "cat": "Mainboards",
-   "price": 145.9,
-   "ref": 172.9,
-   "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/MSI/B850-GAMING-PLUS-WIFI6E-Mainboard/html/product/100140534",
-   "url": "https://www.alternate.de/MSI/B850-GAMING-PLUS-WIFI6E-Mainboard/html/product/100140534",
+   "id": "c-kingston-fury-beast-32-gb-ddr4-3600-mhz-cl18-dimm-schwarz",
+   "name": "Kingston FURY Beast 32 GB DDR4 3600 MHz CL18 DIMM Schwarz",
+   "cat": "Arbeitsspeicher",
+   "price": 358.75,
+   "ref": 429.54,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/kingston-fury-beast-32-gb-ddr4-3600-mhz-cl18-dimm-schwarz-7287442/",
+   "url": "https://www.jacob.de/produkt/kingston-fury-beast-32-gb-ddr4-3600-mhz-cl18-dimm-schwarz-7287442/",
    "note": "16 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
-     "d": "2026-10-29",
-     "p": 172.9
-    },
-    {
      "d": "2026-10-30",
-     "p": 172.9
+     "p": 428.38
     },
     {
      "d": "2026-10-31",
-     "p": 172.9
+     "p": 429.54
     },
     {
      "d": "2026-11-01",
-     "p": 172.9
+     "p": 424.84
     },
     {
      "d": "2026-11-02",
-     "p": 172.9
+     "p": 428.38
     },
     {
      "d": "2026-11-03",
-     "p": 172.9
-    },
-    {
-     "d": "2026-11-04",
-     "p": 172.9
+     "p": 429.54
     },
     {
      "d": "2026-11-05",
-     "p": 172.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 145.9
+     "p": 432.66
     },
     {
      "d": "2026-11-07",
-     "p": 145.9
+     "p": 434.65
     },
     {
-     "d": "2026-11-08",
-     "p": 145.9
+     "d": "2026-11-10",
+     "p": 358.75
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
    "seen": "2026-11-10",
    "updated": "2026-11-10",
-   "tags": "mainboards am5 b850 msi b850 gaming plus wifi6e mainboard",
+   "tags": "arbeitsspeicher ddr4 32 gb kingston fury beast ddr4 3600 mhz cl18 dimm schwarz",
    "source": "crawler"
   },
   {
@@ -1814,6 +1806,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 133.74
+    },
+    {
+     "d": "2026-11-10",
      "p": 133.74
     }
    ],
@@ -1998,6 +1994,10 @@
     },
     {
      "d": "2026-11-08",
+     "p": 459
+    },
+    {
+     "d": "2026-11-10",
      "p": 459
     }
    ],
