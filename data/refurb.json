@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T06:27:05.373Z",
+ "updated": "2026-11-10T08:20:12.904Z",
  "products": [
   {
    "id": "r-acer-b246hylbymiprx-23-8-full-hd-1920x1080-display-hdmi-disp",
@@ -5287,6 +5287,25 @@
    "firstSeen": "2026-11-05"
   },
   {
+   "id": "r-dell-latitude-5420-14-zoll-1920x1080-full-hd-intel-core-i5-2",
+   "cat": "Laptops",
+   "name": "Dell Latitude 5420 14 Zoll 1920x1080 Full HD Intel Core i5 256GB SSD 16GB Windows 11 Pro Webcam",
+   "brand": "Dell",
+   "price": 329,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/dell-latitude-5420-14-zoll-1920x1080-full-hd-intel-core-i5-256gb-ssd-16gb-windows-11-pro-webcam-3",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Latitude-5420-0_0d5a9261-2310-4b2d-8dd6-edfa1a938131.jpg?v=1770990732",
+   "hist": [
+    {
+     "d": "2026-11-10",
+     "p": 329
+    }
+   ],
+   "firstSeen": "2026-11-10"
+  },
+  {
    "id": "r-dell-optiplex-7060-micro-intel-core-i5-8400t-8gb-ram-256gb-s",
    "cat": "PCs & Workstations",
    "name": "Dell OptiPlex 7060 Micro, Intel Core i5 8400T, 8GB RAM, 256GB SSD, Windows 11 Pro",
@@ -6627,6 +6646,10 @@
     },
     {
      "d": "2026-11-08",
+     "p": 339
+    },
+    {
+     "d": "2026-11-10",
      "p": 339
     }
    ],
@@ -35999,6 +36022,44 @@
     }
    ],
    "firstSeen": "2026-11-09"
+  },
+  {
+   "id": "r-dell-latitude-5520-15-6-zoll-1920x1080-full-hd-intel-core-i5",
+   "cat": "Laptops",
+   "name": "Dell Latitude 5520 15,6 Zoll 1920x1080 Full HD Intel Core i5 512GB SSD 16GB Windows 11 Pro Fingerprint",
+   "brand": "Dell",
+   "price": 599,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/dell-latitude-5520-15-6-zoll-1920x1080-full-hd-intel-core-i5-512gb-ssd-16gb-windows-11-pro-fingerprint-1",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Latitude-5520-1_0655c9ec-2c2f-4dea-99fd-64250c77bced.png?v=1770990675",
+   "hist": [
+    {
+     "d": "2026-11-10",
+     "p": 599
+    }
+   ],
+   "firstSeen": "2026-11-10"
+  },
+  {
+   "id": "r-dell-latitude-5520-15-6-zoll-1920x1080-full-hd-intel-core-i5",
+   "cat": "Laptops",
+   "name": "Dell Latitude 5520 15,6 Zoll 1920x1080 Full HD Intel Core i5 512GB SSD 16GB Windows 11 Pro Fingerprint",
+   "brand": "Dell",
+   "price": 599,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/dell-latitude-5520-15-6-zoll-1920x1080-full-hd-intel-core-i5-512gb-ssd-16gb-windows-11-pro-fingerprint-kopie",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Latitude-5520-1_0655c9ec-2c2f-4dea-99fd-64250c77bced.png?v=1770990675",
+   "hist": [
+    {
+     "d": "2026-11-10",
+     "p": 599
+    }
+   ],
+   "firstSeen": "2026-11-10"
   },
   {
    "id": "r-fujitsu-esprimo-p9010-intel-core-i5-10600-512gb-ssd-16gb-win",

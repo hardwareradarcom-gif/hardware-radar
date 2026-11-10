@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T06:27:05.373Z",
+ "updated": "2026-11-10T08:20:12.904Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1269,6 +1269,10 @@
     {
      "d": "2026-11-07",
      "p": 129
+    },
+    {
+     "d": "2026-11-10",
+     "p": 129
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -1505,6 +1509,68 @@
    "seen": "2026-11-10",
    "updated": "2026-11-10",
    "tags": "monitore 16\" msi pro mp165de full ips monitor schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-lian-li-sp850-v2-gold-netzteil-modular-atx-3-1-850-watt-schw",
+   "name": "Lian Li SP850 V2 Gold Netzteil, modular, ATX 3.1 - 850 Watt, schwarz",
+   "cat": "Netzteile",
+   "price": 114.9,
+   "ref": 144.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/lian-li-sp850-v2-gold-power-supply-modular-atx-3.1-850-watts-black/NELI-028.html",
+   "url": "https://www.caseking.de/en/lian-li-sp850-v2-gold-power-supply-modular-atx-3.1-850-watts-black/NELI-028.html",
+   "note": "21 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 144.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 144.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 144.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 144.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 144.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 144.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 144.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 144.9
+    },
+    {
+     "d": "2026-11-07",
+     "p": 144.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 144.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 114.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-10",
+   "updated": "2026-11-10",
+   "tags": "netzteile 850 w lian sp850 gold netzteil modular atx 850 watt schwarz",
    "source": "crawler"
   },
   {
@@ -1942,6 +2008,52 @@
    "source": "crawler"
   },
   {
+   "id": "c-alpenfohn-brocken-4-max-argb-cpu-kuhler-c5sli",
+   "name": "Alpenföhn Brocken 4 Max ARGB, CPU-Kühler",
+   "cat": "Kühlung",
+   "price": 38.99,
+   "ref": 44.95,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-Max-ARGB-CPU-K%C3%BChler/html/product/100224594",
+   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-Max-ARGB-CPU-K%C3%BChler/html/product/100224594",
+   "note": "13 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 50.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 50.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 38.99
+    },
+    {
+     "d": "2026-11-07",
+     "p": 38.99
+    },
+    {
+     "d": "2026-11-08",
+     "p": 38.99
+    },
+    {
+     "d": "2026-11-09",
+     "p": 50.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 38.99
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-10",
+   "updated": "2026-11-10",
+   "tags": "kuhlung luftkuhler alpenfohn brocken max argb cpu kuhler",
+   "source": "crawler"
+  },
+  {
    "id": "c-lenovo-legion-r27s-27-full-hd-ips-gaming-monitor-144-hz-schw",
    "name": "Lenovo Legion R27s 27\" Full HD IPS Gaming-Monitor 144 Hz Schwarz",
    "cat": "Monitore",
@@ -2123,6 +2235,56 @@
    "seen": "2026-11-10",
    "updated": "2026-11-10",
    "tags": "monitore 27\" dell plus s2725qs 3840 2160 ips monitor silber",
+   "source": "crawler"
+  },
+  {
+   "id": "c-asus-b850-max-gaming-wifi-w-mainboard-atx-sockel-am5-amd-b85",
+   "name": "ASUS B850 MAX GAMING WIFI W Mainboard ATX Sockel AM5 AMD B850 DDR5 Weiß",
+   "cat": "Mainboards",
+   "price": 225.86,
+   "ref": 254.16,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/asus-b850-max-gaming-wifi-w-mainboard-atx-sockel-am5-amd-b850-ddr5-weiss-100568096/",
+   "url": "https://www.jacob.de/produkt/asus-b850-max-gaming-wifi-w-mainboard-atx-sockel-am5-amd-b850-ddr5-weiss-100568096/",
+   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 254.16
+    },
+    {
+     "d": "2026-10-31",
+     "p": 254.16
+    },
+    {
+     "d": "2026-11-01",
+     "p": 254.16
+    },
+    {
+     "d": "2026-11-02",
+     "p": 254.16
+    },
+    {
+     "d": "2026-11-03",
+     "p": 254.16
+    },
+    {
+     "d": "2026-11-05",
+     "p": 254.16
+    },
+    {
+     "d": "2026-11-07",
+     "p": 254.16
+    },
+    {
+     "d": "2026-11-10",
+     "p": 225.86
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-10",
+   "updated": "2026-11-10",
+   "tags": "mainboards am5 b850 asus b850 max gaming wifi mainboard atx sockel am5 amd ddr5 weiss",
    "source": "crawler"
   },
   {
