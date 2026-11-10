@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T08:20:12.904Z",
+ "updated": "2026-11-10T09:58:05.061Z",
  "products": [
   {
    "id": "r-acer-b246hylbymiprx-23-8-full-hd-1920x1080-display-hdmi-disp",
@@ -6726,6 +6726,25 @@
    "firstSeen": "2026-11-10"
   },
   {
+   "id": "r-dell-optiplex-3080-tower-intel-core-i5-10500-8gb-ram-256gb-s",
+   "cat": "PCs & Workstations",
+   "name": "Dell OptiPlex 3080 Tower, Intel Core i5 10500, 8GB RAM, 256GB SSD, Windows 11 Pro, ESET Internet Security",
+   "brand": "Dell",
+   "price": 339,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/dell-optiplex-3080-tower-intel-core-i5-10500-8gb-ram-256gb-ssd-windows-11-pro-eset-internet-security",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-OptiPlex-3080-MT-1.png?v=1770990732",
+   "hist": [
+    {
+     "d": "2026-11-10",
+     "p": 339
+    }
+   ],
+   "firstSeen": "2026-11-10"
+  },
+  {
    "id": "r-hp-elitedesk-800-g4-desktop-mini-intel-core-i5-8500t-8gb-ram",
    "cat": "PCs & Workstations",
    "name": "HP EliteDesk 800 G4 Desktop Mini, Intel Core i5 8500T, 8GB RAM, 256GB SSD, Windows 11 Pro",
@@ -6780,6 +6799,69 @@
     {
      "d": "2026-11-09",
      "p": 349
+    },
+    {
+     "d": "2026-11-10",
+     "p": 349
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "r-hp-elitedesk-800-g4-desktop-mini-intel-core-i5-8500t-16gb-ra",
+   "cat": "PCs & Workstations",
+   "name": "HP EliteDesk 800 G4 Desktop Mini, Intel Core i5 8500T, 16GB RAM, 256GB SSD, Windows 11 Pro",
+   "brand": "HP",
+   "price": 349,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/hp-elitedesk-800-g4-desktop-mini-intel-core-i5-8500t-256gb-ssd-16gb-windows-11-pro-2",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteDesk-800-G4-DM-0_f33ef84e-abb4-4d91-a84d-5a10959132af.jpg?v=1741635661",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 379
+    },
+    {
+     "d": "2026-10-31",
+     "p": 379
+    },
+    {
+     "d": "2026-11-01",
+     "p": 379
+    },
+    {
+     "d": "2026-11-02",
+     "p": 379
+    },
+    {
+     "d": "2026-11-03",
+     "p": 379
+    },
+    {
+     "d": "2026-11-04",
+     "p": 379
+    },
+    {
+     "d": "2026-11-05",
+     "p": 379
+    },
+    {
+     "d": "2026-11-06",
+     "p": 379
+    },
+    {
+     "d": "2026-11-07",
+     "p": 379
+    },
+    {
+     "d": "2026-11-08",
+     "p": 379
+    },
+    {
+     "d": "2026-11-09",
+     "p": 379
     },
     {
      "d": "2026-11-10",
@@ -7842,6 +7924,45 @@
     },
     {
      "d": "2026-11-09",
+     "p": 359
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "r-hp-elitedesk-800-g4-desktop-mini-intel-core-i5-8500t-8gb-ram",
+   "cat": "PCs & Workstations",
+   "name": "HP EliteDesk 800 G4 Desktop Mini, Intel Core i5 8500T, 8GB RAM, 256GB SSD, Windows 11 Pro",
+   "brand": "HP",
+   "price": 359,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/hp-elitedesk-800-g4-desktop-mini-intel-core-i5-8500t-256gb-ssd-8gb-windows-11-pro-5",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteDesk-800-G4-DM-0_f33ef84e-abb4-4d91-a84d-5a10959132af.jpg?v=1741635661",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 359
+    },
+    {
+     "d": "2026-10-31",
+     "p": 359
+    },
+    {
+     "d": "2026-11-01",
+     "p": 359
+    },
+    {
+     "d": "2026-11-02",
+     "p": 359
+    },
+    {
+     "d": "2026-11-03",
+     "p": 359
+    },
+    {
+     "d": "2026-11-10",
      "p": 359
     }
    ],
@@ -10297,69 +10418,6 @@
    "url": "https://it-versand.com/products/hp-prodesk-600-g4-desktop-mini-intel-core-i5-8500t-256gb-ssd-8gb-windows-11-pro-3",
    "avail": "Auf Lager",
    "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-ProDesk-600-G4-DM-0_3b5a1630-bd67-4754-9ea2-52116968f371.jpg?v=1741647835",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 379
-    },
-    {
-     "d": "2026-10-31",
-     "p": 379
-    },
-    {
-     "d": "2026-11-01",
-     "p": 379
-    },
-    {
-     "d": "2026-11-02",
-     "p": 379
-    },
-    {
-     "d": "2026-11-03",
-     "p": 379
-    },
-    {
-     "d": "2026-11-04",
-     "p": 379
-    },
-    {
-     "d": "2026-11-05",
-     "p": 379
-    },
-    {
-     "d": "2026-11-06",
-     "p": 379
-    },
-    {
-     "d": "2026-11-07",
-     "p": 379
-    },
-    {
-     "d": "2026-11-08",
-     "p": 379
-    },
-    {
-     "d": "2026-11-09",
-     "p": 379
-    },
-    {
-     "d": "2026-11-10",
-     "p": 379
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-hp-elitedesk-800-g4-desktop-mini-intel-core-i5-8500t-16gb-ra",
-   "cat": "PCs & Workstations",
-   "name": "HP EliteDesk 800 G4 Desktop Mini, Intel Core i5 8500T, 16GB RAM, 256GB SSD, Windows 11 Pro",
-   "brand": "HP",
-   "price": 379,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/hp-elitedesk-800-g4-desktop-mini-intel-core-i5-8500t-256gb-ssd-16gb-windows-11-pro-2",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteDesk-800-G4-DM-0_f33ef84e-abb4-4d91-a84d-5a10959132af.jpg?v=1741635661",
    "hist": [
     {
      "d": "2026-10-30",
@@ -13587,6 +13645,25 @@
    "url": "https://it-versand.com/products/lenovo-thinkcentre-m720q-tiny-intel-core-i5-8400t-16gb-ram-256gb-ssd-wi-fi-bluetooth-windows-11-pro-eset-internet-security",
    "avail": "Auf Lager",
    "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkCentre-M720q-Tiny-4_108bf917-3980-4e73-a9bc-2bca59c35312.jpg?v=1741622416",
+   "hist": [
+    {
+     "d": "2026-11-10",
+     "p": 389
+    }
+   ],
+   "firstSeen": "2026-11-10"
+  },
+  {
+   "id": "r-hp-prodesk-600-g4-mt-intel-core-i5-8500-16gb-ram-512gb-ssd-w",
+   "cat": "PCs & Workstations",
+   "name": "HP ProDesk 600 G4 MT, Intel Core i5 8500, 16GB RAM, 512GB SSD, Windows 11 Pro, ESET Internet Security",
+   "brand": "HP",
+   "price": 389,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/hp-prodesk-600-g4-mt-intel-core-i5-8500-16gb-ram-512gb-ssd-windows-11-pro-eset-internet-security",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-ProDesk-600-G4-MT-0_ee350397-7dad-4a80-9dd3-7e6f8097d22e.jpg?v=1741633079",
    "hist": [
     {
      "d": "2026-11-10",
@@ -22887,6 +22964,69 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "r-dell-optiplex-5080-micro-mff-intel-core-i5-10500t-256gb-ssd-",
+   "cat": "PCs & Workstations",
+   "name": "Dell OptiPlex 5080 Micro MFF Intel Core i5-10500T 256GB SSD 16GB Windows 11 Pro inkl. W-Lan",
+   "brand": "Dell",
+   "price": 488.99,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/dell-optiplex-5080-micro-mff-intel-core-i5-10500t-256gb-ssd-16gb-windows-11-pro-inkl-w-lan",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Optiplex-5080-Micro-1.png?v=1770990554",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 539
+    },
+    {
+     "d": "2026-10-31",
+     "p": 539
+    },
+    {
+     "d": "2026-11-01",
+     "p": 539
+    },
+    {
+     "d": "2026-11-02",
+     "p": 539
+    },
+    {
+     "d": "2026-11-03",
+     "p": 539
+    },
+    {
+     "d": "2026-11-04",
+     "p": 539
+    },
+    {
+     "d": "2026-11-05",
+     "p": 539
+    },
+    {
+     "d": "2026-11-06",
+     "p": 539
+    },
+    {
+     "d": "2026-11-07",
+     "p": 539
+    },
+    {
+     "d": "2026-11-08",
+     "p": 539
+    },
+    {
+     "d": "2026-11-09",
+     "p": 539
+    },
+    {
+     "d": "2026-11-10",
+     "p": 488.99
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "r-lenovo-thinkpad-t14-gen-2-14-fhd-display-intel-core-i5-1145g",
    "cat": "Laptops",
    "name": "Lenovo ThinkPad T14 Gen 2, 14” FHD Display, Intel Core i5 1145G7, 16GB, 512GB SSD, Fingerprint Reader, LTE 4G, Windows 11 Pro, ESET Internet Security",
@@ -28878,69 +29018,6 @@
    "url": "https://it-versand.com/products/hp-elitedesk-800-g6-desktop-mini-intel-core-i5-10500t-512gb-ssd-16gb-windows-11-pro-1",
    "avail": "Auf Lager",
    "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteDesk-800-G6-DM-0_b17699f8-0e4b-4f0f-b536-8377a701978a.jpg?v=1757519131",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 539
-    },
-    {
-     "d": "2026-10-31",
-     "p": 539
-    },
-    {
-     "d": "2026-11-01",
-     "p": 539
-    },
-    {
-     "d": "2026-11-02",
-     "p": 539
-    },
-    {
-     "d": "2026-11-03",
-     "p": 539
-    },
-    {
-     "d": "2026-11-04",
-     "p": 539
-    },
-    {
-     "d": "2026-11-05",
-     "p": 539
-    },
-    {
-     "d": "2026-11-06",
-     "p": 539
-    },
-    {
-     "d": "2026-11-07",
-     "p": 539
-    },
-    {
-     "d": "2026-11-08",
-     "p": 539
-    },
-    {
-     "d": "2026-11-09",
-     "p": 539
-    },
-    {
-     "d": "2026-11-10",
-     "p": 539
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-dell-optiplex-5080-micro-mff-intel-core-i5-10500t-256gb-ssd-",
-   "cat": "PCs & Workstations",
-   "name": "Dell OptiPlex 5080 Micro MFF Intel Core i5-10500T 256GB SSD 16GB Windows 11 Pro inkl. W-Lan",
-   "brand": "Dell",
-   "price": 539,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/dell-optiplex-5080-micro-mff-intel-core-i5-10500t-256gb-ssd-16gb-windows-11-pro-inkl-w-lan",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Optiplex-5080-Micro-1.png?v=1770990554",
    "hist": [
     {
      "d": "2026-10-30",
@@ -37762,6 +37839,25 @@
    "firstSeen": "2026-11-05"
   },
   {
+   "id": "r-lenovo-thinkpad-x13-yoga-gen-1-13-touch-display-intel-core-i",
+   "cat": "Laptops",
+   "name": "Lenovo ThinkPad X13 Yoga Gen 1, 13” Touch Display, Intel Core i5 10210U, 16GB RAM, 512GB SSD, Fingerprint Reader, Windows 11 Pro, ESET Internet Security",
+   "brand": "Lenovo",
+   "price": 619,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkpad-x13-yoga-gen-1-13-touch-display-intel-core-i5-10210u-16gb-ram-512gb-ssd-fingerprint-reader-windows-11-pro-eset-internet-security",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-X13-Yoga-Gen-1-0_7feebd53-185e-44fe-9e24-df545e31a3a1.jpg?v=1770991094",
+   "hist": [
+    {
+     "d": "2026-11-10",
+     "p": 619
+    }
+   ],
+   "firstSeen": "2026-11-10"
+  },
+  {
    "id": "r-hp-elitebook-840-g7-14-zoll-1920x1080-full-hd-intel-core-i7-",
    "cat": "Laptops",
    "name": "HP EliteBook 840 G7 14 Zoll 1920x1080 Full HD Intel Core i7 512GB SSD 32GB Windows 11 Pro Fingerprint",
@@ -38485,6 +38581,69 @@
     {
      "d": "2026-11-09",
      "p": 649
+    },
+    {
+     "d": "2026-11-10",
+     "p": 649
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "r-lenovo-thinkcentre-m80q-gen-3-tiny-intel-core-i5-12500t-16gb",
+   "cat": "PCs & Workstations",
+   "name": "Lenovo ThinkCentre M80q Gen 3 Tiny, Intel Core i5 12500T, 16GB RAM, 256GB SSD, Wi-Fi, Bluetooth, Windows 11 Pro",
+   "brand": "Lenovo",
+   "price": 649,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkcentre-m80q-gen-3-tiny-intel-core-i5-12500t-16gb-ram-256gb-ssd-wi-fi-bluetooth-windows-11-pro",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkCentre-M80q-G3-Tiny-1.jpg?v=1790694287",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 668.99
+    },
+    {
+     "d": "2026-10-31",
+     "p": 668.99
+    },
+    {
+     "d": "2026-11-01",
+     "p": 668.99
+    },
+    {
+     "d": "2026-11-02",
+     "p": 668.99
+    },
+    {
+     "d": "2026-11-03",
+     "p": 668.99
+    },
+    {
+     "d": "2026-11-04",
+     "p": 668.99
+    },
+    {
+     "d": "2026-11-05",
+     "p": 668.99
+    },
+    {
+     "d": "2026-11-06",
+     "p": 668.99
+    },
+    {
+     "d": "2026-11-07",
+     "p": 668.99
+    },
+    {
+     "d": "2026-11-08",
+     "p": 668.99
+    },
+    {
+     "d": "2026-11-09",
+     "p": 668.99
     },
     {
      "d": "2026-11-10",
@@ -39628,69 +39787,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "r-lenovo-thinkcentre-m80q-gen-3-tiny-intel-core-i5-12500t-16gb",
-   "cat": "PCs & Workstations",
-   "name": "Lenovo ThinkCentre M80q Gen 3 Tiny, Intel Core i5 12500T, 16GB RAM, 256GB SSD, Wi-Fi, Bluetooth, Windows 11 Pro",
-   "brand": "Lenovo",
-   "price": 668.99,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/lenovo-thinkcentre-m80q-gen-3-tiny-intel-core-i5-12500t-16gb-ram-256gb-ssd-wi-fi-bluetooth-windows-11-pro",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkCentre-M80q-G3-Tiny-1.jpg?v=1790694287",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 668.99
-    },
-    {
-     "d": "2026-10-31",
-     "p": 668.99
-    },
-    {
-     "d": "2026-11-01",
-     "p": 668.99
-    },
-    {
-     "d": "2026-11-02",
-     "p": 668.99
-    },
-    {
-     "d": "2026-11-03",
-     "p": 668.99
-    },
-    {
-     "d": "2026-11-04",
-     "p": 668.99
-    },
-    {
-     "d": "2026-11-05",
-     "p": 668.99
-    },
-    {
-     "d": "2026-11-06",
-     "p": 668.99
-    },
-    {
-     "d": "2026-11-07",
-     "p": 668.99
-    },
-    {
-     "d": "2026-11-08",
-     "p": 668.99
-    },
-    {
-     "d": "2026-11-09",
-     "p": 668.99
-    },
-    {
-     "d": "2026-11-10",
-     "p": 668.99
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "r-lenovo-thinkpad-x1-yoga-gen-6-14-touch-display-intel-core-i7",
    "cat": "Laptops",
    "name": "Lenovo ThinkPad X1 Yoga Gen 6, 14\" Touch Display, Intel Core i7 1185G7, 32GB RAM, 512GB SSD, Webcam, Windows 11 Pro",
@@ -40256,6 +40352,25 @@
     }
    ],
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "r-lenovo-thinkpad-t14-gen-1-14-touch-display-intel-core-i7-106",
+   "cat": "Laptops",
+   "name": "Lenovo ThinkPad T14 Gen 1, 14\" Touch Display, Intel Core i7 10610U, 16GB RAM, 512GB SSD, Webcam, Windows 11 Pro, ESET Internet Security",
+   "brand": "Lenovo",
+   "price": 668.99,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkpad-t14-gen-1-14-touch-display-intel-core-i7-10610u-16gb-ram-512gb-ssd-webcam-windows-11-pro-eset-internet-security",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-T14-G1-2_9d474762-df8a-4b72-9444-fe315bc5e21e.jpg?v=1770990558",
+   "hist": [
+    {
+     "d": "2026-11-10",
+     "p": 668.99
+    }
+   ],
+   "firstSeen": "2026-11-10"
   },
   {
    "id": "r-lenovo-thinkpad-x1-yoga-gen-6-14-zoll-touch-display-intel-co",

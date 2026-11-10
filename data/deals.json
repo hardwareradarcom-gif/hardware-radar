@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T08:20:12.904Z",
+ "updated": "2026-11-10T09:58:05.061Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -2331,6 +2331,48 @@
    "seen": "2026-11-10",
    "updated": "2026-11-10",
    "tags": "monitore 27\" asus rog strix oled xg27aqng led monitor wqhd hdmi schwarz 90lm0ch0 b01971",
+   "source": "crawler"
+  },
+  {
+   "id": "c-amd-ryzen-7-5800x-3-8-ghz-8-kerne-32-mb-cache",
+   "name": "AMD Ryzen 7 5800X 3.8 GHz 8 Kerne 32 MB Cache",
+   "cat": "Prozessoren",
+   "price": 202.94,
+   "ref": 226.71,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/amd-ryzen-7-5800x-3-8-ghz-8-kerne-32-mb-cache-6850186/",
+   "url": "https://www.jacob.de/produkt/amd-ryzen-7-5800x-3-8-ghz-8-kerne-32-mb-cache-6850186/",
+   "note": "10 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 226.71
+    },
+    {
+     "d": "2026-11-01",
+     "p": 226.71
+    },
+    {
+     "d": "2026-11-03",
+     "p": 232.85
+    },
+    {
+     "d": "2026-11-05",
+     "p": 232.85
+    },
+    {
+     "d": "2026-11-07",
+     "p": 219.95
+    },
+    {
+     "d": "2026-11-10",
+     "p": 202.94
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-10",
+   "updated": "2026-11-10",
+   "tags": "prozessoren am4 amd ryzen 5800x ghz kerne cache",
    "source": "crawler"
   },
   {
