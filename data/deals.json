@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-10T14:16:31.941Z",
+ "updated": "2026-11-10T15:53:52.984Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1235,6 +1235,10 @@
     {
      "d": "2026-11-08",
      "p": 99.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 99.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -1325,6 +1329,56 @@
    "seen": "2026-11-10",
    "updated": "2026-11-10",
    "tags": "ssds pcie 4.0 512 gb lenovo hynix ssd 512 2280 pcie nvme",
+   "source": "crawler"
+  },
+  {
+   "id": "c-kolink-regulator-80-plus-gold-psu-atx-3-0-pcie-5-0-modular-7",
+   "name": "Kolink Regulator 80 PLUS Gold PSU, ATX 3.0, PCIe 5.0, modular - 750 Watts",
+   "cat": "Netzteile",
+   "price": 69.9,
+   "ref": 99.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/kolink-regulator-80-plus-gold-psu-atx-3.0-pcie-5.0-modular-750-watts/NEKL-047.html",
+   "url": "https://www.caseking.de/en/kolink-regulator-80-plus-gold-psu-atx-3.0-pcie-5.0-modular-750-watts/NEKL-047.html",
+   "note": "30 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 99.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 99.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 99.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 99.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 99.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 99.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 99.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 69.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-10",
+   "updated": "2026-11-10",
+   "tags": "netzteile 750 w kolink regulator plus gold psu atx pcie modular 750 watts",
    "source": "crawler"
   },
   {
@@ -1513,6 +1567,56 @@
    "seen": "2026-11-10",
    "updated": "2026-11-10",
    "tags": "monitore 16\" msi pro mp165de full ips monitor schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-lian-li-sp-series-platinum-80-plus-platinum-netzteil-sfx-vol-8lem2",
+   "name": "Lian Li SP Series Platinum 80 PLUS Platinum Netzteil, SFX, vollmodular, PCIe 5.1, ATX 3.1 - 850 Watt, weiß",
+   "cat": "Netzteile",
+   "price": 129.9,
+   "ref": 164.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/lian-li-sp-series-platinum-80-plus-platinum-power-supply-sfx-fully-modular-pcie-5.1-atx-3.1-850-watts-white/NELI-040.html",
+   "url": "https://www.caseking.de/en/lian-li-sp-series-platinum-80-plus-platinum-power-supply-sfx-fully-modular-pcie-5.1-atx-3.1-850-watts-white/NELI-040.html",
+   "note": "21 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 164.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 164.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 164.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 164.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 164.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 164.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 164.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 129.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-10",
+   "updated": "2026-11-10",
+   "tags": "netzteile sfx lian series platinum plus netzteil vollmodular pcie atx 850 watt weiss",
    "source": "crawler"
   },
   {
@@ -2057,12 +2161,12 @@
    "id": "c-dell-27-plus-qhd-usb-c-monitor-s2725dc-68-6-cm-27-ips-2560x1",
    "name": "DELL 27 Plus QHD USB-C Monitor S2725DC - 68,6 cm (27\"), IPS, 2560x1440, 144Hz, USB-C, Weiß (DELL-S2725DC)",
    "cat": "Monitore",
-   "price": 240.67,
+   "price": 242.25,
    "ref": 273.32,
    "shop": "JACOB Elektronik GmbH",
    "shopUrl": "https://www.jacob.de/produkt/dell-27-plus-qhd-usb-c-monitor-s2725dc-68-6-cm-27-ips-2560x1440-144hz-usb-c-weiss-dell-s2725dc-100673693/",
    "url": "https://www.jacob.de/produkt/dell-27-plus-qhd-usb-c-monitor-s2725dc-68-6-cm-27-ips-2560x1440-144hz-usb-c-weiss-dell-s2725dc-100673693/",
-   "note": "12 % unter dem mittleren Preis der letzten 30 Tage.",
+   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
      "d": "2026-10-30",
@@ -2091,6 +2195,10 @@
     {
      "d": "2026-11-08",
      "p": 240.67
+    },
+    {
+     "d": "2026-11-10",
+     "p": 242.25
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
