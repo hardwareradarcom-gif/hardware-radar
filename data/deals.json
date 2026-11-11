@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T11:26:57.941Z",
+ "updated": "2026-11-11T11:58:39.168Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1707,6 +1707,10 @@
     {
      "d": "2026-11-08",
      "p": 353.35
+    },
+    {
+     "d": "2026-11-11",
+     "p": 353.35
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -2156,6 +2160,56 @@
    "source": "crawler"
   },
   {
+   "id": "c-philips-p-line-346p1crh-34-curved-wqhd-monitor-3440-x-1440-1",
+   "name": "Philips P-line 346P1CRH 34\" Curved WQHD Monitor 3440 x 1440 100 Hz VA HDMI DisplayPort USB-C Schwarz",
+   "cat": "Monitore",
+   "price": 610.52,
+   "ref": 751.69,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/philips-p-line-346p1crh-34-curved-wqhd-monitor-3440-x-1440-100-hz-va-hdmi-displayport-usb-c-schwarz-6225264/",
+   "url": "https://www.jacob.de/produkt/philips-p-line-346p1crh-34-curved-wqhd-monitor-3440-x-1440-100-hz-va-hdmi-displayport-usb-c-schwarz-6225264/",
+   "note": "19 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 751.69
+    },
+    {
+     "d": "2026-10-31",
+     "p": 751.69
+    },
+    {
+     "d": "2026-11-01",
+     "p": 751.69
+    },
+    {
+     "d": "2026-11-02",
+     "p": 751.69
+    },
+    {
+     "d": "2026-11-03",
+     "p": 751.69
+    },
+    {
+     "d": "2026-11-06",
+     "p": 751.69
+    },
+    {
+     "d": "2026-11-08",
+     "p": 751.69
+    },
+    {
+     "d": "2026-11-11",
+     "p": 610.52
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-11",
+   "updated": "2026-11-11",
+   "tags": "monitore 34\" philips line 346p1crh curved wqhd monitor 3440 1440 100 hdmi displayport usb schwarz",
+   "source": "crawler"
+  },
+  {
    "id": "c-lenovo-00up642-ssd-m-2-2280-512-gb-pcie-3-0-x4-nvme",
    "name": "Lenovo 00UP642 SSD M.2 2280 512 GB PCIe 3.0 x4 NVMe",
    "cat": "SSDs",
@@ -2392,6 +2446,10 @@
     },
     {
      "d": "2026-11-08",
+     "p": 770.61
+    },
+    {
+     "d": "2026-11-11",
      "p": 770.61
     }
    ],
