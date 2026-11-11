@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T20:02:00.859Z",
+ "updated": "2026-11-11T22:09:37.613Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1314,6 +1314,56 @@
    "source": "crawler"
   },
   {
+   "id": "c-msi-mag-345cqrde-curved-gaming-monitor-34-uwqhd-va-180-hz-1-",
+   "name": "MSI MAG 345CQRDE Curved Gaming Monitor 34\" UWQHD VA 180 Hz 1 ms Schwarz",
+   "cat": "Monitore",
+   "price": 276.88,
+   "ref": 439.59,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/msi-mag-345cqrde-curved-gaming-monitor-34-uwqhd-va-180-hz-1-ms-schwarz-100472238/",
+   "url": "https://www.jacob.de/produkt/msi-mag-345cqrde-curved-gaming-monitor-34-uwqhd-va-180-hz-1-ms-schwarz-100472238/",
+   "note": "37 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 439.59
+    },
+    {
+     "d": "2026-10-31",
+     "p": 439.59
+    },
+    {
+     "d": "2026-11-01",
+     "p": 439.59
+    },
+    {
+     "d": "2026-11-02",
+     "p": 439.59
+    },
+    {
+     "d": "2026-11-04",
+     "p": 442.48
+    },
+    {
+     "d": "2026-11-07",
+     "p": 442.48
+    },
+    {
+     "d": "2026-11-09",
+     "p": 442.48
+    },
+    {
+     "d": "2026-11-11",
+     "p": 276.88
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-11",
+   "updated": "2026-11-11",
+   "tags": "monitore 34\" msi mag 345cqrde curved gaming monitor uwqhd 180 schwarz",
+   "source": "crawler"
+  },
+  {
    "id": "c-akasa-alucia-h4i-low-profile-cpu-kuhler-fur-intel",
    "name": "Akasa ALUCIA H4I, Low-Profile CPU-Kühler, für Intel",
    "cat": "Kühlung",
@@ -1370,8 +1420,8 @@
    "price": 59.9,
    "ref": 89.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/hyte-x50-midi-tower-snow-white/GEHY-053.html",
-   "url": "https://www.caseking.de/en/hyte-x50-midi-tower-snow-white/GEHY-053.html",
+   "shopUrl": "https://www.caseking.de/hyte-x50-midi-tower-snow-white/GEHY-053.html",
+   "url": "https://www.caseking.de/hyte-x50-midi-tower-snow-white/GEHY-053.html",
    "note": "33 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -1400,6 +1450,10 @@
     },
     {
      "d": "2026-11-09",
+     "p": 59.9
+    },
+    {
+     "d": "2026-11-11",
      "p": 59.9
     }
    ],
