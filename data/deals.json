@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T14:21:14.231Z",
+ "updated": "2026-11-11T15:55:40.438Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -2599,6 +2599,56 @@
    "seen": "2026-11-11",
    "updated": "2026-11-11",
    "tags": "ssds nvme 500 gb lexar nm610 pro nvme ssd pcie typ 2280 500",
+   "source": "crawler"
+  },
+  {
+   "id": "c-asus-b650e-max-gaming-wifi-mainboard-atx-sockel-am5-amd-b650",
+   "name": "ASUS B650E MAX GAMING WIFI Mainboard ATX Sockel AM5 AMD B650 DDR5 Schwarz",
+   "cat": "Mainboards",
+   "price": 153.03,
+   "ref": 174.85,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/asus-b650e-max-gaming-wifi-mainboard-atx-sockel-am5-amd-b650-ddr5-schwarz-100552895/",
+   "url": "https://www.jacob.de/produkt/asus-b650e-max-gaming-wifi-mainboard-atx-sockel-am5-amd-b650-ddr5-schwarz-100552895/",
+   "note": "12 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 174.29
+    },
+    {
+     "d": "2026-10-31",
+     "p": 174.29
+    },
+    {
+     "d": "2026-11-01",
+     "p": 174.29
+    },
+    {
+     "d": "2026-11-02",
+     "p": 178.01
+    },
+    {
+     "d": "2026-11-04",
+     "p": 178.01
+    },
+    {
+     "d": "2026-11-06",
+     "p": 174.85
+    },
+    {
+     "d": "2026-11-09",
+     "p": 174.85
+    },
+    {
+     "d": "2026-11-11",
+     "p": 153.03
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-11",
+   "updated": "2026-11-11",
+   "tags": "mainboards am5 b650 asus b650e max gaming wifi mainboard atx sockel am5 amd b650 ddr5 schwarz",
    "source": "crawler"
   },
   {
