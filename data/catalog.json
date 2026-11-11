@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T15:55:40.438Z",
+ "updated": "2026-11-11T17:30:11.184Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -2486,7 +2486,7 @@
    "name": "Lexar NM790 2 TB",
    "url": "https://geizhals.de/lexar-nm790-2tb-lnm790x002t-rn9ng-a3048709.html",
    "source": "Geizhals",
-   "stand": "2026-10-25T23:51",
+   "stand": "2026-11-11T17:30",
    "offers": [
     {
      "shop": "YISAVE (Amazon)",
@@ -2499,6 +2499,14 @@
      "price": 454.09,
      "ship": 0,
      "avail": "8–20 Werktage"
+    },
+    {
+     "shop": "caseking.de",
+     "price": 599.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/lexar-nm790-nvme-ssd-pcie-4.0-m.2-type-2280-4-tb/SSLX-007.html",
+     "crawler": true
     }
    ],
    "price": 379.99,
@@ -2506,6 +2514,10 @@
    "hist": [
     {
      "d": "2026-10-25",
+     "p": 379.99
+    },
+    {
+     "d": "2026-11-11",
      "p": 379.99
     }
    ],
@@ -5503,7 +5515,7 @@
    "name": "ASUS Prime GeForce RTX 5080 OC",
    "url": "https://www.hardwaredealz.com/hardware/gpu/nvidia-geforce-rtx-5080-16gb/asus-prime-oc-16gb-gddr7-hdmi-3x-dp/preisvergleich.25130",
    "source": "hardwaredealz",
-   "stand": "2026-11-11T14:21",
+   "stand": "2026-11-11T17:30",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
@@ -10666,6 +10678,35 @@
    "firstSeen": "2026-11-08"
   },
   {
+   "id": "c-akasa-ak-cc6620bp01-low-profile-cpu-kuhler-intel-sockel-1700",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Akasa AK-CC6620BP01 Low Profile CPU Kühler, Intel Sockel 1700 und 1851 - 90mm",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/akasa-ak-cc6620bp01-low-profile-cpu-cooler-intel-socket-1700-and-1851-90mm/CPAK-084.html",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 17.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/akasa-ak-cc6620bp01-low-profile-cpu-cooler-intel-socket-1700-and-1851-90mm/CPAK-084.html"
+    }
+   ],
+   "price": 17.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 17.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler akasa cc6620bp01 low profile cpu kuhler intel sockel 1700 und 1851 90mm",
+   "firstSeen": "2026-11-11"
+  },
+  {
    "id": "c-silverstone-sst-nt09-1700-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -11825,6 +11866,35 @@
    "firstSeen": "2026-11-08"
   },
   {
+   "id": "c-akasa-ak-cc7122bp01-low-profile-cpu-kuhler-74mm",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Akasa AK-CC7122BP01 Low Profile CPU-Kühler - 74mm",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/akasa-ak-cc7122bp01-low-profile-cpu-cooler-74mm/CPAK-036.html",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 19.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/akasa-ak-cc7122bp01-low-profile-cpu-cooler-74mm/CPAK-036.html"
+    }
+   ],
+   "price": 19.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 19.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler akasa cc7122bp01 low profile cpu kuhler 74mm",
+   "firstSeen": "2026-11-11"
+  },
+  {
    "id": "c-inter-tech-argus-su-260-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -12520,6 +12590,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler fsp np5 black cpu kuhler",
    "firstSeen": "2026-11-08"
+  },
+  {
+   "id": "c-akasa-ak-cc6601ep01-low-profile-cpu-kuhler-sockel-lga-1700-2",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Akasa AK-CC6601EP01 Low Profile CPU-Kühler - Sockel LGA 1700, 26,9mm hoch",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/akasa-ak-cc6601ep01-low-profile-cpu-cooler-socket-lga-1700-26.9mm-high/CPAK-057.html",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 22.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/akasa-ak-cc6601ep01-low-profile-cpu-cooler-socket-lga-1700-26.9mm-high/CPAK-057.html"
+    }
+   ],
+   "price": 22.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 22.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler akasa cc6601ep01 low profile cpu kuhler sockel lga 1700 9mm hoch",
+   "firstSeen": "2026-11-11"
   },
   {
    "id": "c-ekl-22227-cpu-kuhler",
@@ -18017,6 +18116,35 @@
    "firstSeen": "2026-11-05"
   },
   {
+   "id": "c-akasa-low-profile-cpu-kuhler-am4",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Akasa Low Profile CPU Kühler, AM4",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/akasa-low-profile-cpu-cooler-am4/CPAK-056.html",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 36.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/akasa-low-profile-cpu-cooler-am4/CPAK-056.html"
+    }
+   ],
+   "price": 36.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 36.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler akasa low profile cpu kuhler am4",
+   "firstSeen": "2026-11-11"
+  },
+  {
    "id": "c-corsair-hydro-x-series-xm2-m-2-ssd-water-block-2280-wasserku",
    "cat": "SSDs",
    "sub": "NVMe",
@@ -19859,6 +19987,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler silverstone sst hyd120 argb cpu kuhler",
    "firstSeen": "2026-11-09"
+  },
+  {
+   "id": "c-be-quiet-pure-rock-pro-3-cpu-kuhler-dual-tower-120mm-silber",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "be quiet! Pure Rock Pro 3 CPU-Kühler, Dual-Tower - 120mm, silber",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/be-quiet-pure-rock-pro-3-cpu-cooler-dual-tower-120mm-silver/CPBQ-033.html",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 41.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/be-quiet-pure-rock-pro-3-cpu-cooler-dual-tower-120mm-silver/CPBQ-033.html"
+    }
+   ],
+   "price": 41.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 41.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler quiet pure rock pro cpu kuhler dual tower 120mm silber",
+   "firstSeen": "2026-11-11"
   },
   {
    "id": "c-adata-xpg-probe-80-plus-bronze-netzteil-atx-2-4-600-watt-sch",
@@ -22296,6 +22453,35 @@
    "firstSeen": "2026-11-09"
   },
   {
+   "id": "c-akasa-alucia-h4-plus-high-performance-cpu-cooler-120-mm-blac",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Akasa Alucia H4 Plus High Performance CPU Cooler - 120 mm, black",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/akasa-alucia-h4-plus-high-performance-cpu-cooler-120-mm-black/CPAK-085.html",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 49.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/akasa-alucia-h4-plus-high-performance-cpu-cooler-120-mm-black/CPAK-085.html"
+    }
+   ],
+   "price": 49.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 49.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler akasa alucia plus high performance cpu cooler 120 black",
+   "firstSeen": "2026-11-11"
+  },
+  {
    "id": "c-sharkoon-a60-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -22630,6 +22816,35 @@
    "firstSeen": "2026-11-04"
   },
   {
+   "id": "c-msi-a520m-a-pro-mainboard-sockel-am4-amd-a520-micro-atx-ddr4",
+   "cat": "Mainboards",
+   "sub": "AM4 A520",
+   "name": "MSI A520M-A Pro Mainboard, Sockel AM4, AMD A520, Micro-ATX, DDR4",
+   "source": "crawler",
+   "url": "https://www.caseking.de/msi-a520m-a-pro-mainboard-sockel-am4-amd-a520-micro-atx-ddr4/MBMC-410.html",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 52.83,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/msi-a520m-a-pro-mainboard-sockel-am4-amd-a520-micro-atx-ddr4/MBMC-410.html"
+    }
+   ],
+   "price": 52.83,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 52.83
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am4 a520 msi a520m pro mainboard sockel am4 amd a520 micro atx ddr4",
+   "firstSeen": "2026-11-11"
+  },
+  {
    "id": "c-seasonic-core-bc-650-atx3-1-pc-netzteil",
    "cat": "Netzteile",
    "sub": "Netzteile",
@@ -22864,6 +23079,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler scythe mugen dual fan black edition cpu kuhler",
    "firstSeen": "2026-11-02"
+  },
+  {
+   "id": "c-gigabyte-p750bs-80-plus-bronze-netzteil-atx-750-w-schwarz",
+   "cat": "Netzteile",
+   "sub": "750 W",
+   "name": "GIGABYTE P750BS 80 PLUS Bronze Netzteil, ATX - 750 W, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/gigabyte-p750bs-80-plus-bronze-power-supply-atx-750-w-black/NEGB-030.html",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 53.59,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/gigabyte-p750bs-80-plus-bronze-power-supply-atx-750-w-black/NEGB-030.html"
+    }
+   ],
+   "price": 53.59,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 53.59
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile 750 w gigabyte p750bs plus bronze netzteil atx 750 schwarz",
+   "firstSeen": "2026-11-11"
   },
   {
    "id": "c-silverstone-sst-ps13b-precision-midi-tower-schwarz",
@@ -24091,6 +24335,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler alphacool eisblock xpx aurora edge acryl black cpu kuhler",
    "firstSeen": "2026-10-31"
+  },
+  {
+   "id": "c-msi-pro-h610m-e-ddr4-sockel-lga-1700-intel-h610-micro-atx-dd",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1700 H610",
+   "name": "MSI Pro H610M-E DDR4, Sockel LGA 1700, Intel H610, Micro-ATX - DDR4",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/msi-pro-h610m-e-ddr4-socket-lga-1700-intel-h610-micro-atx-ddr4/MBMC-546.html",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 59.18,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/msi-pro-h610m-e-ddr4-socket-lga-1700-intel-h610-micro-atx-ddr4/MBMC-546.html"
+    }
+   ],
+   "price": 59.18,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 59.18
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1700 h610 msi pro h610m ddr4 sockel lga 1700 intel h610 micro atx",
+   "firstSeen": "2026-11-11"
   },
   {
    "id": "c-be-quiet-dark-rock-slim-cpu-kuhler-120mm",
@@ -25538,6 +25811,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler sharkoon a60 rgb cpu kuhler",
    "firstSeen": "2026-11-04"
+  },
+  {
+   "id": "c-asus-prime-a520m-r-mainboard-a520-chipsatz-sockel-am4-ddr4",
+   "cat": "Mainboards",
+   "sub": "AM4 A520",
+   "name": "ASUS Prime A520M-R Mainboard - A520-Chipsatz, Sockel AM4, DDR4",
+   "source": "crawler",
+   "url": "https://www.caseking.de/asus-prime-a520m-r-mainboard-a520-chipsatz-sockel-am4-ddr4/MBAS-779.html",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 60.22,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/asus-prime-a520m-r-mainboard-a520-chipsatz-sockel-am4-ddr4/MBAS-779.html"
+    }
+   ],
+   "price": 60.22,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 60.22
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am4 a520 asus prime a520m mainboard a520 chipsatz sockel am4 ddr4",
+   "firstSeen": "2026-11-11"
   },
   {
    "id": "c-sapphire-pulse-a520m-e-mainboard-sockel-am4-amd-a520-matx-dd",
@@ -40838,6 +41140,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-fractal-design-pop-xl-air-rgb-clear-tint-e-atx-gehause-tempe-ekm0f",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Fractal Design Pop XL Air RGB Clear Tint E-ATX-Gehäuse, Tempered Glass - weiß",
+   "source": "crawler",
+   "url": "https://www.caseking.de/fractal-design-pop-xl-air-rgb-clear-tint-e-atx-gehaeuse-tempered-glass-weiss/GEFD-168.html",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 112.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/fractal-design-pop-xl-air-rgb-clear-tint-e-atx-gehaeuse-tempered-glass-weiss/GEFD-168.html"
+    }
+   ],
+   "price": 112.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 112.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause fractal design pop air rgb clear tint atx tempered glass weiss",
+   "firstSeen": "2026-11-11"
+  },
+  {
    "id": "c-gigabyte-b760-ds3h-ddr4-intel-b760-motherboard-socket-1700-d",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 B760",
@@ -41346,6 +41677,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler silverstone xe04 sp6p cpu kuhler",
    "firstSeen": "2026-11-08"
+  },
+  {
+   "id": "c-fractal-design-pop-xl-air-rgb-clear-tint-e-atx-gehause-tempe",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Fractal Design Pop XL Air RGB Clear Tint E-ATX-Gehäuse, Tempered Glass - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/fractal-design-pop-xl-air-rgb-clear-tint-e-atx-gehaeuse-tempered-glass-schwarz/GEFD-156.html",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 114.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/fractal-design-pop-xl-air-rgb-clear-tint-e-atx-gehaeuse-tempered-glass-schwarz/GEFD-156.html"
+    }
+   ],
+   "price": 114.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 114.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause fractal design pop air rgb clear tint atx tempered glass schwarz",
+   "firstSeen": "2026-11-11"
   },
   {
    "id": "c-kingston-fury-beast-rgb-8-gb-ddr4-3600-cl17-dimm-schwarz",
@@ -42112,6 +42472,35 @@
    "count": 1,
    "tags": "monitore 27\" dell monitor e2725h 599cm vga black energieklasse",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-be-quiet-pure-power-13m-80-plus-gold-netzteil-atx-3-1-pcie-5-l0ho4",
+   "cat": "Netzteile",
+   "sub": "750 W",
+   "name": "be quiet! Pure Power 13M 80 PLUS Gold Netzteil, ATX 3.1, PCIe 5.1 - 750 Watt, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/be-quiet-pure-power-13m-80-plus-gold-power-supply-atx-3.1-pcie-5.1-750-watt-black/NEBE-261.html",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 117.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/be-quiet-pure-power-13m-80-plus-gold-power-supply-atx-3.1-pcie-5.1-750-watt-black/NEBE-261.html"
+    }
+   ],
+   "price": 117.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 117.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile 750 w quiet pure power 13m plus gold netzteil atx pcie 750 watt schwarz",
+   "firstSeen": "2026-11-11"
   },
   {
    "id": "c-asus-prime-b650m-k-amd-b650-mainboard-sockel-am5-ddr5",
@@ -45065,6 +45454,35 @@
    "count": 1,
    "tags": "kuhlung aio-wasserkuhlung phanteks glacier one 360d30 drgb aio wasserkuhlung 360mm weiss",
    "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "c-asus-tuf-gaming-a620m-plus-wifi-amd-a620-mainboard-sockel-am",
+   "cat": "Mainboards",
+   "sub": "AM5 A620",
+   "name": "ASUS TUF Gaming A620M-Plus WiFi, AMD A620 Mainboard - Sockel AM5, DDR5",
+   "source": "crawler",
+   "url": "https://www.caseking.de/asus-tuf-gaming-a620m-plus-wifi-amd-a620-mainboard-sockel-am5-ddr5/MBAS-684.html",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 124.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/asus-tuf-gaming-a620m-plus-wifi-amd-a620-mainboard-sockel-am5-ddr5/MBAS-684.html"
+    }
+   ],
+   "price": 124.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 124.9
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 a620 asus tuf gaming a620m plus wifi amd a620 mainboard sockel am5 ddr5",
+   "firstSeen": "2026-11-11"
   },
   {
    "id": "c-aoc-27e4u-27-fhd-ips-monitor-120-hz-schwarz",
@@ -48684,6 +49102,35 @@
    "firstSeen": "2026-11-06"
   },
   {
+   "id": "c-phanteks-enthoo-pro-midi-tower-schwarz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "PHANTEKS Enthoo Pro Midi-Tower - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/phanteks-enthoo-pro-midi-tower-schwarz/GEPH-003.html",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 134.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/phanteks-enthoo-pro-midi-tower-schwarz/GEPH-003.html"
+    }
+   ],
+   "price": 134.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 134.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause phanteks enthoo pro midi tower schwarz",
+   "firstSeen": "2026-11-11"
+  },
+  {
    "id": "c-asus-prime-b760m-plus-intel-b760-mainboard-sockel-1700-ddr5",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 B760",
@@ -50455,6 +50902,35 @@
    "firstSeen": "2026-11-06"
   },
   {
+   "id": "c-asus-tuf-gaming-b550m-plus-amd-b550-mainboard-sockel-am4",
+   "cat": "Mainboards",
+   "sub": "AM4 B550",
+   "name": "ASUS TUF Gaming B550M-Plus, AMD B550 Mainboard - Sockel AM4",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-tuf-gaming-b550m-plus-amd-b550-motherboard-socket-am4/MBAS-511.html",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 139.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-tuf-gaming-b550m-plus-amd-b550-motherboard-socket-am4/MBAS-511.html"
+    }
+   ],
+   "price": 139.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 139.9
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am4 b550 asus tuf gaming b550m plus amd b550 mainboard sockel am4",
+   "firstSeen": "2026-11-11"
+  },
+  {
    "id": "c-asus-prime-b760m-a-wifi-d4-mainboard-micro-atx-lga-1700-ddr4",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 B760",
@@ -51895,6 +52371,35 @@
    "count": 1,
    "tags": "monitore 27\" series pro 327ph fhd ips monitor 100 schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asrock-b850-pro-rs-mainboard-sockel-am5-amd-b850-atx-ddr5",
+   "cat": "Mainboards",
+   "sub": "AM5 B850",
+   "name": "ASROCK B850 Pro RS Mainboard, Sockel AM5, AMD B850, ATX, DDR5",
+   "source": "crawler",
+   "url": "https://www.caseking.de/asrock-b850-pro-rs-mainboard-sockel-am5-amd-b850-atx-ddr5/MBAR-507.html",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 145.11,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/asrock-b850-pro-rs-mainboard-sockel-am5-amd-b850-atx-ddr5/MBAR-507.html"
+    }
+   ],
+   "price": 145.11,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 145.11
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 b850 asrock b850 pro mainboard sockel am5 amd atx ddr5",
+   "firstSeen": "2026-11-11"
   },
   {
    "id": "c-fractal-design-meshify-3-white-tg-clear-pc-gehause-midi-towe",
@@ -54076,6 +54581,93 @@
    "firstSeen": "2026-11-06"
   },
   {
+   "id": "c-gigabyte-z790-d-ax-sockel-lga-1700-intel-z790-atx-ddr5",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1700 Z790",
+   "name": "Gigabyte Z790 D AX, Sockel LGA 1700, Intel Z790, ATX -DDR5",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/igabyte-z790-d-ax-socket-lga-1700-intel-z790-atx-ddr5/MBGB-574.html",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 149.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/igabyte-z790-d-ax-socket-lga-1700-intel-z790-atx-ddr5/MBGB-574.html"
+    }
+   ],
+   "price": 149.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 149.9
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1700 z790 gigabyte z790 sockel lga 1700 intel atx ddr5",
+   "firstSeen": "2026-11-11"
+  },
+  {
+   "id": "c-asus-prime-b850-plus-wifi-mainboard-sockel-am5-amd-b850-atx-",
+   "cat": "Mainboards",
+   "sub": "AM5 B850",
+   "name": "ASUS Prime B850 Plus WiFi Mainboard, Sockel AM5, AMD B850, ATX, DDR5",
+   "source": "crawler",
+   "url": "https://www.caseking.de/asus-prime-b850-plus-wifi-mainboard-sockel-am5-amd-b850-atx-ddr5/MBAS-832.html",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 149.97,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/asus-prime-b850-plus-wifi-mainboard-sockel-am5-amd-b850-atx-ddr5/MBAS-832.html"
+    }
+   ],
+   "price": 149.97,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 149.97
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 b850 asus prime b850 plus wifi mainboard sockel am5 amd atx ddr5",
+   "firstSeen": "2026-11-11"
+  },
+  {
+   "id": "c-asus-prime-b860m-a-mainboard-sockel-lga-1851-intel-b860-micr",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1851 B860",
+   "name": "ASUS Prime B860M-A Mainboard, Sockel LGA 1851, Intel B860, Micro-ATX, DDR5",
+   "source": "crawler",
+   "url": "https://www.caseking.de/asus-prime-b860m-a-mainboard-sockel-lga-1851-intel-b860-micro-atx-ddr5/MBAS-822.html",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 150,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/asus-prime-b860m-a-mainboard-sockel-lga-1851-intel-b860-micro-atx-ddr5/MBAS-822.html"
+    }
+   ],
+   "price": 150,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 150
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1851 b860 asus prime b860m mainboard sockel lga 1851 intel b860 micro atx ddr5",
+   "firstSeen": "2026-11-11"
+  },
+  {
    "id": "c-asus-va27ehf-27-ips-100-hz-full-hd-monitor-schwarz",
    "cat": "Monitore",
    "sub": "27\"",
@@ -54983,6 +55575,35 @@
    "count": 1,
    "tags": "kuhlung aio-wasserkuhlung asus tuf gaming iii 360 argb aio water cooling 360mm black",
    "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "c-phanteks-enthoo-pro-2-big-tower-schwarz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "PHANTEKS Enthoo Pro 2 Big-Tower - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/phanteks-enthoo-pro-2-big-tower-schwarz/GEPH-129.html",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 154.9,
+     "ship": null,
+     "avail": "Vorbestellung",
+     "url": "https://www.caseking.de/phanteks-enthoo-pro-2-big-tower-schwarz/GEPH-129.html"
+    }
+   ],
+   "price": 154.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 154.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause phanteks enthoo pro big tower schwarz",
+   "firstSeen": "2026-11-11"
   },
   {
    "id": "c-amd-ryzen-5-8500g-3-5-ghz-6-kerne-16-mb-cache-sockel-am5",
@@ -56762,6 +57383,35 @@
    "firstSeen": "2026-11-06"
   },
   {
+   "id": "c-phanteks-enthoo-pro-2-server-big-tower-xl-eeb-schwarz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "PHANTEKS Enthoo Pro 2 Server Big-Tower, XL-EEB - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/phanteks-enthoo-pro-2-server-big-tower-xl-eeb-schwarz/GEPH-166.html",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 159.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/phanteks-enthoo-pro-2-server-big-tower-xl-eeb-schwarz/GEPH-166.html"
+    }
+   ],
+   "price": 159.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 159.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause phanteks enthoo pro server big tower eeb schwarz",
+   "firstSeen": "2026-11-11"
+  },
+  {
    "id": "c-lenovo-ssd-m-2-2242-256-gb-pcie-3-0-x4-nvme",
    "cat": "SSDs",
    "sub": "NVMe 256 GB",
@@ -56931,6 +57581,35 @@
    "count": 1,
    "tags": "mainboards intel lga1700 b660 asus prime b660m csm mainboard micro atx sockel lga 1700 intel b660 ddr4 gold",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-b650e-max-gaming-wifi-mainboard-sockel-am5-amd-b650-atx",
+   "cat": "Mainboards",
+   "sub": "AM5 B650",
+   "name": "ASUS B650E Max Gaming WiFi Mainboard, Sockel AM5, AMD B650, ATX, DDR5",
+   "source": "crawler",
+   "url": "https://www.caseking.de/asus-b650e-max-gaming-wifi-mainboard-sockel-am5-amd-b650-atx-ddr5/MBAS-830.html",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 161.26,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/asus-b650e-max-gaming-wifi-mainboard-sockel-am5-amd-b650-atx-ddr5/MBAS-830.html"
+    }
+   ],
+   "price": 161.26,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 161.26
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 b650 asus b650e max gaming wifi mainboard sockel am5 amd b650 atx ddr5",
+   "firstSeen": "2026-11-11"
   },
   {
    "id": "c-asus-pro-b650m-ct-csm-amd-b650-mainboard-sockel-am5-ddr5",
@@ -57787,6 +58466,35 @@
    "count": 1,
    "tags": "kuhlung aio-wasserkuhlung phanteks eclipse g400a case glacier m25 gen2 aio water cooling white",
    "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "c-phanteks-enthoo-pro-2-big-tower-tempered-glass-argb-schwarz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "PHANTEKS Enthoo Pro 2 Big-Tower, Tempered Glass, ARGB - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/phanteks-enthoo-pro-2-big-tower-tempered-glass-argb-schwarz/GEPH-128.html",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 164.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/phanteks-enthoo-pro-2-big-tower-tempered-glass-argb-schwarz/GEPH-128.html"
+    }
+   ],
+   "price": 164.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 164.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause phanteks enthoo pro big tower tempered glass argb schwarz",
+   "firstSeen": "2026-11-11"
   },
   {
    "id": "c-koorui-g2722p-27-qhd-gaming-monitor-ips-2560x1440-200-hz-fre",
@@ -58759,6 +59467,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-fractal-design-meshify-2-lite-rgb-midi-tower-light-tint-temp",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Fractal Design Meshify 2 Lite RGB Midi-Tower Light Tint, Tempered Glass, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/fractal-design-meshify-2-lite-rgb-midi-tower-light-tint-tempered-glass-schwarz/GEFD-159.html",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 168.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/fractal-design-meshify-2-lite-rgb-midi-tower-light-tint-tempered-glass-schwarz/GEFD-159.html"
+    }
+   ],
+   "price": 168.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 168.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause fractal design meshify lite rgb midi tower light tint tempered glass schwarz",
+   "firstSeen": "2026-11-11"
+  },
+  {
    "id": "c-asus-tuf-gaming-vg27vqm1b-27-zoll-curved-monitor-280-hz-va-f",
    "cat": "Monitore",
    "sub": "27\"",
@@ -59630,6 +60367,64 @@
    "count": 1,
    "tags": "kuhlung aio-wasserkuhlung alphacool eisbaer aurora 360 aio cooler digital rgb 360mm",
    "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "c-sharkoon-rebel-p20-sfx-850w-pc-netzteil",
+   "cat": "Netzteile",
+   "sub": "SFX",
+   "name": "Sharkoon Rebel P20 SFX 850W, PC-Netzteil",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Sharkoon/Rebel-P20-SFX-850W-PC-Netzteil/html/product/100029495",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 169.9,
+     "ship": 0,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Sharkoon/Rebel-P20-SFX-850W-PC-Netzteil/html/product/100029495"
+    }
+   ],
+   "price": 169.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 169.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile sfx sharkoon rebel p20 850w netzteil",
+   "firstSeen": "2026-11-11"
+  },
+  {
+   "id": "c-phanteks-enthoo-pro-2-server-big-tower-xl-eeb-tempered-glass",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "PHANTEKS Enthoo Pro 2 Server Big-Tower, XL-EEB, Tempered Glass - schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/phanteks-enthoo-pro-2-server-big-tower-xl-eeb-tempered-glass-schwarz/GEPH-165.html",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 169.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/phanteks-enthoo-pro-2-server-big-tower-xl-eeb-tempered-glass-schwarz/GEPH-165.html"
+    }
+   ],
+   "price": 169.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 169.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause phanteks enthoo pro server big tower eeb tempered glass schwarz",
+   "firstSeen": "2026-11-11"
   },
   {
    "id": "c-asus-b850m-max-gaming-wifi-mainboard-amd-b850-sockel-am5-mic",
@@ -62090,6 +62885,35 @@
    "firstSeen": "2026-11-06"
   },
   {
+   "id": "c-fractal-design-torrent-compact-rgb-midi-tower-light-tint-tem",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Fractal Design Torrent Compact RGB Midi-Tower Light Tint, Tempered Glass, schwarz",
+   "source": "crawler",
+   "url": "https://www.caseking.de/fractal-design-torrent-compact-rgb-midi-tower-light-tint-tempered-glass-schwarz/GEFD-139.html",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 179.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/fractal-design-torrent-compact-rgb-midi-tower-light-tint-tempered-glass-schwarz/GEFD-139.html"
+    }
+   ],
+   "price": 179.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 179.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause fractal design torrent compact rgb midi tower light tint tempered glass schwarz",
+   "firstSeen": "2026-11-11"
+  },
+  {
    "id": "c-msi-b850-gaming-plus-wifi-mainboard-sockel-am5-amd-b850-atx-",
    "cat": "Mainboards",
    "sub": "AM5 B850",
@@ -62557,6 +63381,35 @@
    "count": 1,
    "tags": "netzteile sfx lian series platinum plus netzteil vollmodular pcie atx 000 watt weiss",
    "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-lexar-nq790-nvme-ssd-pcie-4-0-m-2-typ-2280-1-tb",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 1 TB",
+   "name": "Lexar NQ790 NVMe SSD; PCIe 4.0 M.2 Typ 2280 - 1 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/lexar-nq790-nvme-ssd-pcie-4.0-m.2-type-2280-1-tb/SSLX-012.html",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 184.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/lexar-nq790-nvme-ssd-pcie-4.0-m.2-type-2280-1-tb/SSLX-012.html"
+    }
+   ],
+   "price": 184.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 184.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 1 tb lexar nq790 nvme ssd pcie typ 2280",
+   "firstSeen": "2026-11-11"
   },
   {
    "id": "c-samsung-870-evo-2-5-zoll-ssd-sata-6g-500-gb",
@@ -65454,6 +66307,35 @@
    "count": 1,
    "tags": "kuhlung aio-wasserkuhlung jonsbo tf3 360scb aio water cooling argb lcd 360mm black",
    "firstSeen": "2026-11-08"
+  },
+  {
+   "id": "c-lian-li-hydroshift-lcd-360-argb-aio-cooler-white",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Lian Li HydroShift LCD 360 ARGB AIO Cooler - white",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/lian-li-hydroshift-lcd-360-argb-aio-cooler-white/WASE-880.html",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 199.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/lian-li-hydroshift-lcd-360-argb-aio-cooler-white/WASE-880.html"
+    }
+   ],
+   "price": 199.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 199.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung lian hydroshift lcd 360 argb aio cooler white",
+   "firstSeen": "2026-11-11"
   },
   {
    "id": "c-western-digital-blue-sa510-m-2-ssd-sata-6g-1-tb",
@@ -71171,6 +72053,35 @@
    "firstSeen": "2026-11-05"
   },
   {
+   "id": "c-asus-prime-z890m-plus-wifi-mainboard-sockel-lga-1851-intel-z",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1851 Z890",
+   "name": "ASUS Prime Z890M Plus WiFi Mainboard, Sockel LGA 1851, Intel Z890, mATX, DDR5",
+   "source": "crawler",
+   "url": "https://www.caseking.de/asus-prime-z890m-plus-wifi-mainboard-sockel-lga-1851-intel-z890-matx-ddr5/MBAS-800.html",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 234.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/asus-prime-z890m-plus-wifi-mainboard-sockel-lga-1851-intel-z890-matx-ddr5/MBAS-800.html"
+    }
+   ],
+   "price": 234.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 234.9
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1851 z890 asus prime z890m plus wifi mainboard sockel lga 1851 intel z890 matx ddr5",
+   "firstSeen": "2026-11-11"
+  },
+  {
    "id": "c-asus-rog-strix-b860-g-gaming-wifi-mainboard-sockel-lga-1851-",
    "cat": "Mainboards",
    "sub": "Intel LGA1851 B860",
@@ -76868,6 +77779,35 @@
    "firstSeen": "2026-11-01"
   },
   {
+   "id": "c-lexar-nq790-nvme-ssd-pcie-4-0-m-2-typ-2280-2-tb",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 2 TB",
+   "name": "Lexar NQ790 NVMe SSD, PCIe 4.0, M.2 Typ 2280 - 2 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/lexar-nq790-nvme-ssd-pcie-4.0-m.2-type-2280-2-tb/SSLX-013.html",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 279.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/lexar-nq790-nvme-ssd-pcie-4.0-m.2-type-2280-2-tb/SSLX-013.html"
+    }
+   ],
+   "price": 279.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 279.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 2 tb lexar nq790 nvme ssd pcie typ 2280",
+   "firstSeen": "2026-11-11"
+  },
+  {
    "id": "c-japannext-gaming-monitor-62-2cm-24-5-ips-fhd",
    "cat": "Monitore",
    "sub": "Monitore",
@@ -77461,6 +78401,35 @@
    "count": 1,
    "tags": "gehause jonsplus bo400cg midi tower atx tempered glass gunmetal grey",
    "firstSeen": "2026-11-01"
+  },
+  {
+   "id": "c-lexar-nm620-nvme-ssd-pcie-3-0-m-2-typ-2280-2-tb",
+   "cat": "SSDs",
+   "sub": "NVMe 2 TB",
+   "name": "Lexar NM620 NVMe SSD, PCIe 3.0 M.2 Typ 2280 - 2 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/lexar-nm620-nvme-ssd-pcie-3.0-m.2-type-2280-2-tb/SSLX-009.html",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 289.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/lexar-nm620-nvme-ssd-pcie-3.0-m.2-type-2280-2-tb/SSLX-009.html"
+    }
+   ],
+   "price": 289.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 289.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 2 tb lexar nm620 nvme ssd pcie typ 2280",
+   "firstSeen": "2026-11-11"
   },
   {
    "id": "c-gigabyte-x870e-a-elite-wifi7-mainboard-sockel-am5-amd-x870e-",
@@ -78873,20 +79842,20 @@
    "firstSeen": "2026-10-29"
   },
   {
-   "id": "c-asrock-x870-riptide-wifi-motherboard-socket-am5-amd-x870-atx",
+   "id": "c-asrock-x870-riptide-wifi-mainboard-sockel-am5-amd-x870-atx-d",
    "cat": "Mainboards",
    "sub": "AM5 X870",
-   "name": "ASRock X870 Riptide WiFi motherboard, Socket AM5, AMD X870, ATX, DDR5",
+   "name": "ASRock X870 Riptide WiFi Mainboard, Sockel AM5, AMD X870, ATX, DDR5",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/asrock-x870-riptide-wifi-motherboard-socket-am5-amd-x870-atx-ddr5/MBAR-487.html",
-   "stand": "2026-11-09T14:23",
+   "url": "https://www.caseking.de/asrock-x870-riptide-wifi-mainboard-sockel-am5-amd-x870-atx-ddr5/MBAR-487.html",
+   "stand": "2026-11-11T17:30",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 309.8,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/asrock-x870-riptide-wifi-motherboard-socket-am5-amd-x870-atx-ddr5/MBAR-487.html"
+     "url": "https://www.caseking.de/asrock-x870-riptide-wifi-mainboard-sockel-am5-amd-x870-atx-ddr5/MBAR-487.html"
     }
    ],
    "price": 309.8,
@@ -78903,10 +79872,14 @@
     {
      "d": "2026-11-09",
      "p": 309.8
+    },
+    {
+     "d": "2026-11-11",
+     "p": 309.8
     }
    ],
    "count": 1,
-   "tags": "mainboards am5 x870 asrock x870 riptide wifi motherboard socket am5 amd atx ddr5",
+   "tags": "mainboards am5 x870 asrock x870 riptide wifi mainboard sockel am5 amd atx ddr5",
    "firstSeen": "2026-11-05"
   },
   {
@@ -84707,6 +85680,35 @@
    "firstSeen": "2026-11-05"
   },
   {
+   "id": "c-asus-rog-swift-xg27wcms-27-zoll-curved-gaming-monitor-280hz-",
+   "cat": "Monitore",
+   "sub": "27\"",
+   "name": "ASUS ROG Swift XG27WCMS, 27 Zoll Curved-Gaming-Monitor, 280Hz, VA, FreeSync Premium",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-rog-swift-xg27wcms-27-inch-curved-gaming-monitor-280hz-va-freesync-premium/TFAS-279.html",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 384.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-rog-swift-xg27wcms-27-inch-curved-gaming-monitor-280hz-va-freesync-premium/TFAS-279.html"
+    }
+   ],
+   "price": 384.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 384.9
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 27\" asus rog swift xg27wcms zoll curved gaming monitor 280hz freesync premium",
+   "firstSeen": "2026-11-11"
+  },
+  {
    "id": "c-aoc-gaming-q27g4zd-27-oled-monitor-2560-x-1440-240-hz-schwar",
    "cat": "Monitore",
    "sub": "27\"",
@@ -87402,6 +88404,35 @@
    "firstSeen": "2026-11-06"
   },
   {
+   "id": "c-asus-pro-ws-platinum-80-plus-platinum-netzteil-modular-atx-3",
+   "cat": "Netzteile",
+   "sub": "1000 W+",
+   "name": "ASUS Pro WS Platinum, 80 PLUS Platinum Netzteil, modular, ATX 3.1, PCIe 5.1 - 1600 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-pro-ws-platinum-80-plus-platinum-power-supply-modular-atx-3.1-pcie-5.1-1600-watt/NEAS-044.html",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 429.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-pro-ws-platinum-80-plus-platinum-power-supply-modular-atx-3.1-pcie-5.1-1600-watt/NEAS-044.html"
+    }
+   ],
+   "price": 429.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 429.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile 1000 w+ asus pro platinum plus netzteil modular atx pcie 1600 watt",
+   "firstSeen": "2026-11-11"
+  },
+  {
    "id": "c-asus-rog-strix-x870-f-gaming-wifi-mainboard-amd-x870-sockel-",
    "cat": "Mainboards",
    "sub": "AM5 X870",
@@ -88337,6 +89368,35 @@
    "count": 1,
    "tags": "kuhlung aio-wasserkuhlung lian o11 vision compact tryx panorama argb komplett wasserkuhlung schwarz 360mm",
    "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-samsung-990-pro-series-nvme-ssd-pcie-4-0-m-2-typ-2280-2-tb",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 2 TB",
+   "name": "Samsung 990 PRO Series NVMe SSD, PCIe 4.0 M.2 Typ 2280 - 2 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/samsung-990-pro-series-nvme-ssd-pcie-4.0-m.2-type-2280-2-tb/SSSS-194.html",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 459.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/samsung-990-pro-series-nvme-ssd-pcie-4.0-m.2-type-2280-2-tb/SSSS-194.html"
+    }
+   ],
+   "price": 459.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 459.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 2 tb samsung 990 pro series nvme ssd pcie typ 2280",
+   "firstSeen": "2026-11-11"
   },
   {
    "id": "c-dell-s2722dc-27-monitor-2560-x-1440-75-hz-usb-c-grau",
@@ -90730,6 +91790,35 @@
    "count": 1,
    "tags": "ssds pcie 5.0 2 tb samsung 9100 pro series nvme ssd pcie typ 2280 mit kuhlkorper 2tb",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-inno3d-geforce-rtx-3060-twin-x2-12288-mb-gddr6",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 3060",
+   "name": "INNO3D GeForce RTX 3060 Twin X2, 12288 MB GDDR6",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/inno3d-geforce-rtx-3060-twin-x2-12288-mb-gddr6/GCI3-236.html",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 529.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/inno3d-geforce-rtx-3060-twin-x2-12288-mb-gddr6/GCI3-236.html"
+    }
+   ],
+   "price": 529.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 529.9
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 3060 inno3d geforce rtx 3060 twin 12288 gddr6",
+   "firstSeen": "2026-11-11"
   },
   {
    "id": "c-benq-mobiuz-ex271u-led-monitor-gaming-68-6-cm-27-3840-x-2160",
@@ -93774,6 +94863,35 @@
    "count": 1,
    "tags": "arbeitsspeicher ddr5 32 gb skill trident rgb ddr5 6000 ram cl36 xmp dual kit silber",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-rog-maximus-z890-hero-btf-mainboard-sockel-lga-1851-int",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1851 Z890",
+   "name": "ASUS ROG Maximus Z890 Hero BTF Mainboard, Sockel LGA 1851, Intel Z890, ATX, DDR5",
+   "source": "crawler",
+   "url": "https://www.caseking.de/asus-rog-maximus-z890-hero-btf-mainboard-sockel-lga-1851-intel-z890-atx-ddr5/MBAS-827.html",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 599.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/asus-rog-maximus-z890-hero-btf-mainboard-sockel-lga-1851-intel-z890-atx-ddr5/MBAS-827.html"
+    }
+   ],
+   "price": 599.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 599.9
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1851 z890 asus rog maximus z890 hero btf mainboard sockel lga 1851 intel atx ddr5",
+   "firstSeen": "2026-11-11"
   },
   {
    "id": "c-crucial-pro-ddr5-5600-32-gb-ram-cl46-schwarz",
@@ -100892,6 +102010,35 @@
    "count": 1,
    "tags": "grafikkarten radeon rx 9060 xt xfx mercury radeon 9060 gddr6 schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-western-digital-wd-black-sn8100-nvme-ssd-pcie-5-0-m-2-typ-22",
+   "cat": "SSDs",
+   "sub": "PCIe 5.0 4 TB",
+   "name": "Western Digital WD_BLACK SN8100 NVMe SSD, PCIe 5.0 M.2 Typ 2280 - 4 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/western-digital-wd_black-sn8100-nvme-ssd-pcie-5.0-m.2-typ-2280-4-tb/SSWD-077.html",
+   "stand": "2026-11-11T17:30",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 839.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/western-digital-wd_black-sn8100-nvme-ssd-pcie-5.0-m.2-typ-2280-4-tb/SSWD-077.html"
+    }
+   ],
+   "price": 839.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 839.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 5.0 4 tb western digital black sn8100 nvme ssd pcie typ 2280",
+   "firstSeen": "2026-11-11"
   },
   {
    "id": "c-benq-photovue-sw272q-27-2560-x-1440-ips-monitor-schwarz",
