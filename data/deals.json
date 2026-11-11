@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T06:29:06.178Z",
+ "updated": "2026-11-11T08:21:48.445Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1022,6 +1022,148 @@
    "id": "xiaomi-g24i"
   },
   {
+   "id": "c-akasa-soho-h7-dual-tower-cpu-kuhler-argb-120-mm-schwarz",
+   "name": "Akasa Soho H7 Dual Tower CPU-Kühler, ARGB - 120 mm, schwarz",
+   "cat": "Kühlung",
+   "price": 39.9,
+   "ref": 109.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/akasa-soho-h7-dual-tower-cpu-kuehler-argb-120-mm-schwarz/CPAK-069.html",
+   "url": "https://www.caseking.de/akasa-soho-h7-dual-tower-cpu-kuehler-argb-120-mm-schwarz/CPAK-069.html",
+   "note": "64 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 109.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 109.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 109.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 109.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 109.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 109.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 109.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 39.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-11",
+   "updated": "2026-11-11",
+   "tags": "kuhlung luftkuhler akasa soho dual tower cpu kuhler argb 120 schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-akasa-soho-h4-plus-cpu-kuhler-argb-120mm",
+   "name": "Akasa SOHO H4 plus CPU Kühler, ARGB - 120mm",
+   "cat": "Kühlung",
+   "price": 23.9,
+   "ref": 59.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/akasa-soho-h4-plus-cpu-kuehler-argb-120mm/CPAK-062.html",
+   "url": "https://www.caseking.de/akasa-soho-h4-plus-cpu-kuehler-argb-120mm/CPAK-062.html",
+   "note": "60 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 59.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 59.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 59.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 59.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 59.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 59.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 59.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 23.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-11",
+   "updated": "2026-11-11",
+   "tags": "kuhlung luftkuhler akasa soho plus cpu kuhler argb 120mm",
+   "source": "crawler"
+  },
+  {
+   "id": "c-montech-king-45-pro-pc-gehause-midi-tower-atx-tempere-glass-",
+   "name": "Montech KING 45 PRO PC-Gehäuse, Midi-Tower, ATX, Tempere Glass, RGB - schwarz",
+   "cat": "Gehäuse",
+   "price": 52.9,
+   "ref": 89.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/montech-king-45-pro-pc-gehaeuse-midi-tower-atx-tempere-glass-rgb-schwarz/GEMT-065.html",
+   "url": "https://www.caseking.de/montech-king-45-pro-pc-gehaeuse-midi-tower-atx-tempere-glass-rgb-schwarz/GEMT-065.html",
+   "note": "41 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-01",
+     "p": 89.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 89.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 89.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 89.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 89.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 52.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-11",
+   "updated": "2026-11-11",
+   "tags": "gehause montech king pro midi tower atx tempere glass rgb schwarz",
+   "source": "crawler"
+  },
+  {
    "id": "c-lenovo-thinkpad-4-tb-ssd-m-2-2280-pcie-4-0-x4-nvme-opal",
    "name": "Lenovo ThinkPad 4 TB SSD M.2 2280 PCIe 4.0 x4 NVMe OPAL",
    "cat": "SSDs",
@@ -1058,6 +1200,10 @@
     },
     {
      "d": "2026-11-08",
+     "p": 1314.93
+    },
+    {
+     "d": "2026-11-11",
      "p": 1314.93
     }
    ],
@@ -1115,72 +1261,6 @@
    "seen": "2026-11-11",
    "updated": "2026-11-11",
    "tags": "ssds pcie 4.0 2 tb western digital black sn770m pcie nvme ssd",
-   "source": "crawler"
-  },
-  {
-   "id": "c-alphacool-core-1-aurora-black-cpu-kuhler",
-   "name": "Alphacool Core 1 Aurora Black, CPU-Kühler",
-   "cat": "Kühlung",
-   "price": 77.99,
-   "ref": 122.9,
-   "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/Alphacool/Core-1-Aurora-Black-CPU-K%C3%BChler/html/product/100218433",
-   "url": "https://www.alternate.de/Alphacool/Core-1-Aurora-Black-CPU-K%C3%BChler/html/product/100218433",
-   "note": "37 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 122.9
-    },
-    {
-     "d": "2026-10-31",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-01",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-02",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-03",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-04",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 77.99
-    },
-    {
-     "d": "2026-11-07",
-     "p": 77.99
-    },
-    {
-     "d": "2026-11-08",
-     "p": 77.99
-    },
-    {
-     "d": "2026-11-09",
-     "p": 77.99
-    },
-    {
-     "d": "2026-11-10",
-     "p": 77.99
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-11",
-   "updated": "2026-11-11",
-   "tags": "kuhlung luftkuhler alphacool core aurora black cpu kuhler",
    "source": "crawler"
   },
   {
@@ -1476,6 +1556,10 @@
     },
     {
      "d": "2026-11-08",
+     "p": 188.38
+    },
+    {
+     "d": "2026-11-11",
      "p": 188.38
     }
    ],
@@ -1872,6 +1956,156 @@
    "source": "crawler"
   },
   {
+   "id": "c-lenovo-00up642-ssd-m-2-2280-512-gb-pcie-3-0-x4-nvme",
+   "name": "Lenovo 00UP642 SSD M.2 2280 512 GB PCIe 3.0 x4 NVMe",
+   "cat": "SSDs",
+   "price": 188.38,
+   "ref": 231.59,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/lenovo-00up642-ssd-m-2-2280-512-gb-pcie-3-0-x4-nvme-5836562/",
+   "url": "https://www.jacob.de/produkt/lenovo-00up642-ssd-m-2-2280-512-gb-pcie-3-0-x4-nvme-5836562/",
+   "note": "19 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 231.59
+    },
+    {
+     "d": "2026-10-31",
+     "p": 231.59
+    },
+    {
+     "d": "2026-11-01",
+     "p": 231.59
+    },
+    {
+     "d": "2026-11-02",
+     "p": 231.59
+    },
+    {
+     "d": "2026-11-03",
+     "p": 200.62
+    },
+    {
+     "d": "2026-11-06",
+     "p": 214.08
+    },
+    {
+     "d": "2026-11-08",
+     "p": 214.69
+    },
+    {
+     "d": "2026-11-11",
+     "p": 188.38
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-11",
+   "updated": "2026-11-11",
+   "tags": "ssds nvme 512 gb lenovo 00up642 ssd 2280 512 pcie nvme",
+   "source": "crawler"
+  },
+  {
+   "id": "c-adata-xpg-mars-980-blade-nvme-ssd-pcie-5-0-m-2-typ-2280-1-tb",
+   "name": "ADATA XPG MARS 980 BLADE NVMe SSD, PCIe 5.0 M.2 Typ 2280 - 1 TB",
+   "cat": "SSDs",
+   "price": 179.9,
+   "ref": 219.16,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/adata-xpg-mars-980-blade-nvme-ssd-pcie-5.0-m.2-type-2280-1tb/SSAD-061.html",
+   "url": "https://www.caseking.de/en/adata-xpg-mars-980-blade-nvme-ssd-pcie-5.0-m.2-type-2280-1tb/SSAD-061.html",
+   "note": "18 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 219.16
+    },
+    {
+     "d": "2026-10-30",
+     "p": 219.16
+    },
+    {
+     "d": "2026-10-31",
+     "p": 219.16
+    },
+    {
+     "d": "2026-11-02",
+     "p": 219.16
+    },
+    {
+     "d": "2026-11-04",
+     "p": 219.16
+    },
+    {
+     "d": "2026-11-06",
+     "p": 219.16
+    },
+    {
+     "d": "2026-11-08",
+     "p": 219.16
+    },
+    {
+     "d": "2026-11-11",
+     "p": 179.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-11",
+   "updated": "2026-11-11",
+   "tags": "ssds pcie 5.0 1 tb adata xpg mars 980 blade nvme ssd pcie typ 2280",
+   "source": "crawler"
+  },
+  {
+   "id": "c-adata-xpg-mars-980-blade-nvme-ssd-pcie-5-0-m-2-typ-2280-2-tb",
+   "name": "ADATA XPG MARS 980 BLADE NVMe SSD, PCIe 5.0 M.2 Typ 2280 - 2 TB",
+   "cat": "SSDs",
+   "price": 339.9,
+   "ref": 411.07,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/adata-xpg-mars-980-blade-nvme-ssd-pcie-5.0-m.2-type-2280-2tb/SSAD-062.html",
+   "url": "https://www.caseking.de/en/adata-xpg-mars-980-blade-nvme-ssd-pcie-5.0-m.2-type-2280-2tb/SSAD-062.html",
+   "note": "17 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 411.07
+    },
+    {
+     "d": "2026-10-30",
+     "p": 411.07
+    },
+    {
+     "d": "2026-10-31",
+     "p": 411.07
+    },
+    {
+     "d": "2026-11-02",
+     "p": 411.07
+    },
+    {
+     "d": "2026-11-04",
+     "p": 411.07
+    },
+    {
+     "d": "2026-11-06",
+     "p": 411.07
+    },
+    {
+     "d": "2026-11-08",
+     "p": 411.07
+    },
+    {
+     "d": "2026-11-11",
+     "p": 339.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-11",
+   "updated": "2026-11-11",
+   "tags": "ssds pcie 5.0 2 tb adata xpg mars 980 blade nvme ssd pcie typ 2280",
+   "source": "crawler"
+  },
+  {
    "id": "c-kingston-fury-beast-32-gb-ddr4-3600-mhz-cl18-dimm-schwarz",
    "name": "Kingston FURY Beast 32 GB DDR4 3600 MHz CL18 DIMM Schwarz",
    "cat": "Arbeitsspeicher",
@@ -2157,6 +2391,56 @@
    "seen": "2026-11-11",
    "updated": "2026-11-11",
    "tags": "arbeitsspeicher ddr4 16 gb kingston fury renegade ddr4 ram 3600 mhz cl16 schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-lenovo-00up450-interne-ssd-m-2-512-gb-sata-iii",
+   "name": "Lenovo 00UP450 Interne SSD M.2 512 GB SATA III",
+   "cat": "SSDs",
+   "price": 188.38,
+   "ref": 214.69,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/lenovo-00up450-interne-ssd-m-2-512-gb-sata-iii-5836482/",
+   "url": "https://www.jacob.de/produkt/lenovo-00up450-interne-ssd-m-2-512-gb-sata-iii-5836482/",
+   "note": "12 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 234.54
+    },
+    {
+     "d": "2026-10-31",
+     "p": 234.54
+    },
+    {
+     "d": "2026-11-01",
+     "p": 234.54
+    },
+    {
+     "d": "2026-11-02",
+     "p": 188.38
+    },
+    {
+     "d": "2026-11-03",
+     "p": 211.63
+    },
+    {
+     "d": "2026-11-06",
+     "p": 214.69
+    },
+    {
+     "d": "2026-11-08",
+     "p": 214.69
+    },
+    {
+     "d": "2026-11-11",
+     "p": 188.38
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-11",
+   "updated": "2026-11-11",
+   "tags": "ssds sata 512 gb lenovo 00up450 interne ssd 512 sata iii",
    "source": "crawler"
   },
   {
