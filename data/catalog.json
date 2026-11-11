@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T10:01:58.603Z",
+ "updated": "2026-11-11T11:26:57.941Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -105233,6 +105233,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-amd-epyc-7h12-prozessor-2-6-ghz-64-kerne-128-threads",
+   "cat": "Prozessoren",
+   "sub": "Prozessoren",
+   "name": "AMD EPYC 7H12 Prozessor 2,6 GHz 64 Kerne 128 Threads",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/amd-epyc-7h12-prozessor-2-6-ghz-64-kerne-128-threads-6800106/",
+   "stand": "2026-11-11T11:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1229.02,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/amd-epyc-7h12-prozessor-2-6-ghz-64-kerne-128-threads-6800106/"
+    }
+   ],
+   "price": 1229.02,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 1229.02
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren amd epyc 7h12 prozessor ghz kerne 128 threads",
+   "firstSeen": "2026-11-11"
+  },
+  {
    "id": "c-asrock-rack-turin2d16-2t-server-mainboard-ssi-eeb-sp5-ddr5-2",
    "cat": "Mainboards",
    "sub": "Mainboards",
@@ -105520,6 +105549,35 @@
    "count": 1,
    "tags": "monitore 37,5\" eizo flexscan ev3895 mit flexstand led monitor gebogen 3840 1600 uwqhd ips 300 1000 2xhdmi displayport",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-amd-epyc-9254-2-9-ghz-prozessor-24-kerne",
+   "cat": "Prozessoren",
+   "sub": "Prozessoren",
+   "name": "AMD EPYC 9254 2.9 GHz Prozessor 24 Kerne",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/amd-epyc-9254-2-9-ghz-prozessor-24-kerne-8067091/",
+   "stand": "2026-11-11T11:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1271.97,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/amd-epyc-9254-2-9-ghz-prozessor-24-kerne-8067091/"
+    }
+   ],
+   "price": 1271.97,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 1271.97
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren amd epyc 9254 ghz prozessor kerne",
+   "firstSeen": "2026-11-11"
   },
   {
    "id": "c-wd-red-sn700-wds100t1r0c-1-tb-ssd-m-2-2280-pcie-3-0-x4-nvme",

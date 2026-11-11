@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T10:01:58.603Z",
+ "updated": "2026-11-11T11:26:57.941Z",
  "products": [
   {
    "id": "r-acer-b246hylbymiprx-23-8-full-hd-1920x1080-display-hdmi-disp",
@@ -22617,6 +22617,10 @@
     {
      "d": "2026-11-10",
      "p": 469
+    },
+    {
+     "d": "2026-11-11",
+     "p": 469
     }
    ],
    "firstSeen": "2026-10-30"
@@ -35659,6 +35663,25 @@
    "firstSeen": "2026-11-09"
   },
   {
+   "id": "r-dell-latitude-5520-15-6-zoll-1920x1080-full-hd-intel-core-i7",
+   "cat": "Laptops",
+   "name": "Dell Latitude 5520 15,6 Zoll 1920x1080 Full HD Intel Core i7 256GB SSD 16GB Windows 11 Pro Webcam",
+   "brand": "Dell",
+   "price": 559,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/dell-latitude-5520-15-6-zoll-1920x1080-full-hd-intel-core-i5-256gb-ssd-16gb-windows-11-pro-webcam",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Latitude-5520-1_684e122d-bf64-4ec6-80ff-dba6d23816f9.png?v=1770992113",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 559
+    }
+   ],
+   "firstSeen": "2026-11-11"
+  },
+  {
    "id": "r-lenovo-thinkcentre-m80q-tiny-intel-core-i5-10500t-256gb-ssd-",
    "cat": "PCs & Workstations",
    "name": "Lenovo ThinkCentre M80q Tiny Intel Core i5-10500T 256GB SSD 16GB Windows 11 Pro",
@@ -41872,73 +41895,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "r-lenovo-thinkpad-x13-yoga-gen-2-13-3-zoll-touch-display-intel",
-   "cat": "Laptops",
-   "name": "Lenovo ThinkPad X13 Yoga Gen 2 13,3 Zoll Touch Display Intel Core i7 1TB SSD 16GB Windows 11 Pro LTE Fingerprint",
-   "brand": "Lenovo",
-   "price": 649,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/lenovo-thinkpad-x13-yoga-gen-2-13-3-zoll-touch-display-intel-core-i7-1tb-ssd-16gb-windows-11-pro-lte-fingerprint-1",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-X13-Yoga-G2-2.png?v=1770990557",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 649
-    },
-    {
-     "d": "2026-10-31",
-     "p": 649
-    },
-    {
-     "d": "2026-11-01",
-     "p": 649
-    },
-    {
-     "d": "2026-11-02",
-     "p": 649
-    },
-    {
-     "d": "2026-11-03",
-     "p": 649
-    },
-    {
-     "d": "2026-11-04",
-     "p": 649
-    },
-    {
-     "d": "2026-11-05",
-     "p": 649
-    },
-    {
-     "d": "2026-11-06",
-     "p": 649
-    },
-    {
-     "d": "2026-11-07",
-     "p": 649
-    },
-    {
-     "d": "2026-11-08",
-     "p": 649
-    },
-    {
-     "d": "2026-11-09",
-     "p": 649
-    },
-    {
-     "d": "2026-11-10",
-     "p": 649
-    },
-    {
-     "d": "2026-11-11",
-     "p": 649
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "r-lenovo-thinkpad-t14s-gen-2-14-fhd-display-intel-core-i5-1145",
    "cat": "Laptops",
    "name": "Lenovo ThinkPad T14s Gen 2, 14” FHD Display, Intel Core i5 1145G7, 16GB RAM, 512GB SSD, Fingerprint Reader, Windows 11 Pro, ESET Internet Security",
@@ -46419,6 +46375,73 @@
     {
      "d": "2026-11-11",
      "p": 759.01
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "r-lenovo-thinkpad-x13-yoga-gen-2-13-3-zoll-touch-display-intel",
+   "cat": "Laptops",
+   "name": "Lenovo ThinkPad X13 Yoga Gen 2 13,3 Zoll Touch Display Intel Core i7 1TB SSD 16GB Windows 11 Pro LTE Fingerprint",
+   "brand": "Lenovo",
+   "price": 769,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkpad-x13-yoga-gen-2-13-3-zoll-touch-display-intel-core-i7-1tb-ssd-16gb-windows-11-pro-lte-fingerprint-1",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-X13-Yoga-G2-2.png?v=1770990557",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 649
+    },
+    {
+     "d": "2026-10-31",
+     "p": 649
+    },
+    {
+     "d": "2026-11-01",
+     "p": 649
+    },
+    {
+     "d": "2026-11-02",
+     "p": 649
+    },
+    {
+     "d": "2026-11-03",
+     "p": 649
+    },
+    {
+     "d": "2026-11-04",
+     "p": 649
+    },
+    {
+     "d": "2026-11-05",
+     "p": 649
+    },
+    {
+     "d": "2026-11-06",
+     "p": 649
+    },
+    {
+     "d": "2026-11-07",
+     "p": 649
+    },
+    {
+     "d": "2026-11-08",
+     "p": 649
+    },
+    {
+     "d": "2026-11-09",
+     "p": 649
+    },
+    {
+     "d": "2026-11-10",
+     "p": 649
+    },
+    {
+     "d": "2026-11-11",
+     "p": 649
     }
    ],
    "firstSeen": "2026-10-30"
