@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T17:58:02.181Z",
+ "updated": "2026-11-11T20:02:00.859Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -2464,6 +2464,56 @@
    "source": "crawler"
   },
   {
+   "id": "c-asus-prime-b850-plus-wifi-mainboard-atx-sockel-am5-ddr5-wi-f",
+   "name": "ASUS Prime B850-PLUS WIFI Mainboard ATX Sockel AM5 DDR5 Wi-Fi 6E Schwarz",
+   "cat": "Mainboards",
+   "price": 189.79,
+   "ref": 222.32,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/asus-prime-b850-plus-wifi-mainboard-atx-sockel-am5-ddr5-wi-fi-6e-schwarz-100553583/",
+   "url": "https://www.jacob.de/produkt/asus-prime-b850-plus-wifi-mainboard-atx-sockel-am5-ddr5-wi-fi-6e-schwarz-100553583/",
+   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 222.32
+    },
+    {
+     "d": "2026-10-31",
+     "p": 222.32
+    },
+    {
+     "d": "2026-11-01",
+     "p": 222.32
+    },
+    {
+     "d": "2026-11-02",
+     "p": 222.32
+    },
+    {
+     "d": "2026-11-04",
+     "p": 222.32
+    },
+    {
+     "d": "2026-11-06",
+     "p": 240.94
+    },
+    {
+     "d": "2026-11-09",
+     "p": 240.94
+    },
+    {
+     "d": "2026-11-11",
+     "p": 189.79
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-11",
+   "updated": "2026-11-11",
+   "tags": "mainboards am5 b850 asus prime b850 plus wifi mainboard atx sockel am5 ddr5 schwarz",
+   "source": "crawler"
+  },
+  {
    "id": "c-asus-prime-b760-plus-d4-mainboard-lga-1700-intel-b760-atx-dd",
    "name": "ASUS PRIME B760-PLUS D4 Mainboard LGA 1700 Intel B760 ATX DDR4",
    "cat": "Mainboards",
@@ -2551,12 +2601,66 @@
     {
      "d": "2026-11-09",
      "p": 643.06
+    },
+    {
+     "d": "2026-11-11",
+     "p": 643.06
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
    "seen": "2026-11-11",
    "updated": "2026-11-11",
    "tags": "monitore 45\" lenovo legion r45w gebogener led monitor 5120 1440 165 usb schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-asus-zenscreen-mb17ahg-17-3-ips-monitor-1920-x-1080-144-hz-s",
+   "name": "ASUS ZenScreen MB17AHG 17.3\" IPS Monitor 1920 x 1080 144 Hz Schwarz",
+   "cat": "Monitore",
+   "price": 334.95,
+   "ref": 389.99,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/asus-zenscreen-mb17ahg-17-3-ips-monitor-1920-x-1080-144-hz-schwarz-8913116/",
+   "url": "https://www.jacob.de/produkt/asus-zenscreen-mb17ahg-17-3-ips-monitor-1920-x-1080-144-hz-schwarz-8913116/",
+   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 389.99
+    },
+    {
+     "d": "2026-10-31",
+     "p": 389.99
+    },
+    {
+     "d": "2026-11-01",
+     "p": 389.99
+    },
+    {
+     "d": "2026-11-02",
+     "p": 389.99
+    },
+    {
+     "d": "2026-11-04",
+     "p": 389.99
+    },
+    {
+     "d": "2026-11-07",
+     "p": 389.99
+    },
+    {
+     "d": "2026-11-09",
+     "p": 389.99
+    },
+    {
+     "d": "2026-11-11",
+     "p": 334.95
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-11",
+   "updated": "2026-11-11",
+   "tags": "monitore 17,3\" asus zenscreen mb17ahg ips monitor 1920 1080 144 schwarz",
    "source": "crawler"
   },
   {
