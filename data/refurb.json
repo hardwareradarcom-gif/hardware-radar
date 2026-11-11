@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-11T11:58:39.168Z",
+ "updated": "2026-11-11T14:21:14.231Z",
  "products": [
   {
    "id": "r-acer-b246hylbymiprx-23-8-full-hd-1920x1080-display-hdmi-disp",
@@ -14343,73 +14343,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "r-hp-elitebook-850-g7-15-6-fhd-display-intel-core-i5-10310u-8g",
-   "cat": "Laptops",
-   "name": "HP EliteBook 850 G7, 15,6” FHD Display, Intel Core i5 10310U, 8GB RAM, 256GB SSD, Webcam, Windows 11 Pro, ESET Internet Security",
-   "brand": "HP",
-   "price": 389,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/hp-elitebook-850-g7-15-6-fhd-display-intel-core-i5-10210u-8gb-ram-256gb-ssd-webcam-windows-11-pro-eset-internet-security",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-850-G7-0_84b56df9-eab5-46e0-ad5a-7884d24f70ba.jpg?v=1770991092",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 449
-    },
-    {
-     "d": "2026-10-31",
-     "p": 449
-    },
-    {
-     "d": "2026-11-01",
-     "p": 449
-    },
-    {
-     "d": "2026-11-02",
-     "p": 449
-    },
-    {
-     "d": "2026-11-03",
-     "p": 449
-    },
-    {
-     "d": "2026-11-04",
-     "p": 449
-    },
-    {
-     "d": "2026-11-05",
-     "p": 449
-    },
-    {
-     "d": "2026-11-06",
-     "p": 449
-    },
-    {
-     "d": "2026-11-07",
-     "p": 449
-    },
-    {
-     "d": "2026-11-08",
-     "p": 449
-    },
-    {
-     "d": "2026-11-09",
-     "p": 449
-    },
-    {
-     "d": "2026-11-10",
-     "p": 389
-    },
-    {
-     "d": "2026-11-11",
-     "p": 389
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "r-dell-latitude-5420-14-zoll-1920x1080-full-hd-intel-core-i5-2",
    "cat": "Laptops",
    "name": "Dell Latitude 5420 14 Zoll 1920x1080 Full HD Intel Core i5 256GB SSD 16GB Windows 11 Pro Fingerprint",
@@ -14731,6 +14664,25 @@
     }
    ],
    "firstSeen": "2026-11-10"
+  },
+  {
+   "id": "r-lenovo-thinkpad-t15-gen-1-15-6-fhd-display-intel-core-i5-103",
+   "cat": "Laptops",
+   "name": "Lenovo ThinkPad T15 Gen 1, 15,6” FHD Display, Intel Core i5 10310U, 16GB RAM, 256GB SSD, LTE 4G, Windows 11 Home",
+   "brand": "Lenovo",
+   "price": 389,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkpad-t15-gen-1-15-6-fhd-display-intel-core-i5-10310u-16gb-ram-256gb-ssd-lte-4g-windows-11-pro-norton-internet-security-kopie-1",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-T15-G1-2_76a3150f-177d-4ece-8559-7f31c6746b4c.jpg?v=1770990673",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 389
+    }
+   ],
+   "firstSeen": "2026-11-11"
   },
   {
    "id": "r-lenovo-thinkcentre-m720t-intel-six-core-i5-8400-8gb-ram-256g",
@@ -18721,6 +18673,25 @@
    "firstSeen": "2026-11-10"
   },
   {
+   "id": "r-lenovo-thinkpad-t15-gen-1-15-6-fhd-display-intel-core-i5-103",
+   "cat": "Laptops",
+   "name": "Lenovo ThinkPad T15 Gen 1, 15,6” FHD Display, Intel Core i5 10310U, 16GB RAM, 256GB SSD, LTE 4G, Windows 11 Home",
+   "brand": "Lenovo",
+   "price": 429,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkpad-t15-gen-1-15-6-fhd-display-intel-core-i5-10310u-16gb-ram-256gb-ssd-lte-4g-windows-11-pro-norton-internet-security-kopie",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-T15-G1-2_76a3150f-177d-4ece-8559-7f31c6746b4c.jpg?v=1770990673",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 429
+    }
+   ],
+   "firstSeen": "2026-11-11"
+  },
+  {
    "id": "r-lenovo-thinkcentre-m70s-gen-3-intel-core-i5-12400-16gb-ram-2",
    "cat": "PCs & Workstations",
    "name": "Lenovo ThinkCentre M70s Gen 3, Intel Core i5 12400, 16GB RAM, 256GB SSD, DVD-RW, Windows 11 Pro, Office & Media Software Suite",
@@ -21053,6 +21024,73 @@
     {
      "d": "2026-11-11",
      "p": 449
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "r-hp-elitebook-850-g7-15-6-fhd-display-intel-core-i5-10310u-8g",
+   "cat": "Laptops",
+   "name": "HP EliteBook 850 G7, 15,6” FHD Display, Intel Core i5 10310U, 8GB RAM, 256GB SSD, Webcam, Windows 11 Pro, ESET Internet Security",
+   "brand": "HP",
+   "price": 449,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/hp-elitebook-850-g7-15-6-fhd-display-intel-core-i5-10210u-8gb-ram-256gb-ssd-webcam-windows-11-pro-eset-internet-security",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-850-G7-0_84b56df9-eab5-46e0-ad5a-7884d24f70ba.jpg?v=1770991092",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 449
+    },
+    {
+     "d": "2026-10-31",
+     "p": 449
+    },
+    {
+     "d": "2026-11-01",
+     "p": 449
+    },
+    {
+     "d": "2026-11-02",
+     "p": 449
+    },
+    {
+     "d": "2026-11-03",
+     "p": 449
+    },
+    {
+     "d": "2026-11-04",
+     "p": 449
+    },
+    {
+     "d": "2026-11-05",
+     "p": 449
+    },
+    {
+     "d": "2026-11-06",
+     "p": 449
+    },
+    {
+     "d": "2026-11-07",
+     "p": 449
+    },
+    {
+     "d": "2026-11-08",
+     "p": 449
+    },
+    {
+     "d": "2026-11-09",
+     "p": 449
+    },
+    {
+     "d": "2026-11-10",
+     "p": 389
+    },
+    {
+     "d": "2026-11-11",
+     "p": 389
     }
    ],
    "firstSeen": "2026-10-30"
@@ -41895,6 +41933,73 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "r-lenovo-thinkpad-x13-yoga-gen-2-13-3-zoll-touch-display-intel",
+   "cat": "Laptops",
+   "name": "Lenovo ThinkPad X13 Yoga Gen 2 13,3 Zoll Touch Display Intel Core i7 1TB SSD 16GB Windows 11 Pro LTE Fingerprint",
+   "brand": "Lenovo",
+   "price": 649,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkpad-x13-yoga-gen-2-13-3-zoll-touch-display-intel-core-i7-1tb-ssd-16gb-windows-11-pro-lte-fingerprint-1",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-X13-Yoga-G2-2.png?v=1770990557",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 649
+    },
+    {
+     "d": "2026-10-31",
+     "p": 649
+    },
+    {
+     "d": "2026-11-01",
+     "p": 649
+    },
+    {
+     "d": "2026-11-02",
+     "p": 649
+    },
+    {
+     "d": "2026-11-03",
+     "p": 649
+    },
+    {
+     "d": "2026-11-04",
+     "p": 649
+    },
+    {
+     "d": "2026-11-05",
+     "p": 649
+    },
+    {
+     "d": "2026-11-06",
+     "p": 649
+    },
+    {
+     "d": "2026-11-07",
+     "p": 649
+    },
+    {
+     "d": "2026-11-08",
+     "p": 649
+    },
+    {
+     "d": "2026-11-09",
+     "p": 649
+    },
+    {
+     "d": "2026-11-10",
+     "p": 649
+    },
+    {
+     "d": "2026-11-11",
+     "p": 649
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "r-lenovo-thinkpad-t14s-gen-2-14-fhd-display-intel-core-i5-1145",
    "cat": "Laptops",
    "name": "Lenovo ThinkPad T14s Gen 2, 14” FHD Display, Intel Core i5 1145G7, 16GB RAM, 512GB SSD, Fingerprint Reader, Windows 11 Pro, ESET Internet Security",
@@ -42283,53 +42388,6 @@
     },
     {
      "d": "2026-11-09",
-     "p": 659
-    },
-    {
-     "d": "2026-11-10",
-     "p": 659
-    },
-    {
-     "d": "2026-11-11",
-     "p": 659
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-lenovo-thinkpad-x1-yoga-gen-6-14-touch-display-intel-core-i7",
-   "cat": "Laptops",
-   "name": "Lenovo ThinkPad X1 Yoga Gen 6, 14\" Touch Display, Intel Core i7 1185G7, 32GB RAM, 512GB SSD, Webcam, Windows 11 Pro",
-   "brand": "Lenovo",
-   "price": 659,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/lenovo-thinkpad-x1-yoga-gen-6-14-touch-display-intel-core-i7-1185g7-32gb-ram-512gb-ssd-webcam-windows-11-pro-4",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-X1-Yoga-Gen-6-2_f3662243-33ed-4297-b022-a46fa7f209c1.jpg?v=1770990974",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 659
-    },
-    {
-     "d": "2026-10-31",
-     "p": 659
-    },
-    {
-     "d": "2026-11-01",
-     "p": 659
-    },
-    {
-     "d": "2026-11-02",
-     "p": 659
-    },
-    {
-     "d": "2026-11-03",
-     "p": 659
-    },
-    {
-     "d": "2026-11-04",
      "p": 659
     },
     {
@@ -42808,6 +42866,53 @@
     {
      "d": "2026-11-11",
      "p": 668.99
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "r-lenovo-thinkpad-x1-yoga-gen-6-14-touch-display-intel-core-i7",
+   "cat": "Laptops",
+   "name": "Lenovo ThinkPad X1 Yoga Gen 6, 14\" Touch Display, Intel Core i7 1185G7, 32GB RAM, 512GB SSD, Webcam, Windows 11 Pro",
+   "brand": "Lenovo",
+   "price": 668.99,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkpad-x1-yoga-gen-6-14-touch-display-intel-core-i7-1185g7-32gb-ram-512gb-ssd-webcam-windows-11-pro-4",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-X1-Yoga-Gen-6-2_f3662243-33ed-4297-b022-a46fa7f209c1.jpg?v=1770990974",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 659
+    },
+    {
+     "d": "2026-10-31",
+     "p": 659
+    },
+    {
+     "d": "2026-11-01",
+     "p": 659
+    },
+    {
+     "d": "2026-11-02",
+     "p": 659
+    },
+    {
+     "d": "2026-11-03",
+     "p": 659
+    },
+    {
+     "d": "2026-11-04",
+     "p": 659
+    },
+    {
+     "d": "2026-11-10",
+     "p": 659
+    },
+    {
+     "d": "2026-11-11",
+     "p": 659
     }
    ],
    "firstSeen": "2026-10-30"
@@ -46375,73 +46480,6 @@
     {
      "d": "2026-11-11",
      "p": 759.01
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-lenovo-thinkpad-x13-yoga-gen-2-13-3-zoll-touch-display-intel",
-   "cat": "Laptops",
-   "name": "Lenovo ThinkPad X13 Yoga Gen 2 13,3 Zoll Touch Display Intel Core i7 1TB SSD 16GB Windows 11 Pro LTE Fingerprint",
-   "brand": "Lenovo",
-   "price": 769,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/lenovo-thinkpad-x13-yoga-gen-2-13-3-zoll-touch-display-intel-core-i7-1tb-ssd-16gb-windows-11-pro-lte-fingerprint-1",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-X13-Yoga-G2-2.png?v=1770990557",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 649
-    },
-    {
-     "d": "2026-10-31",
-     "p": 649
-    },
-    {
-     "d": "2026-11-01",
-     "p": 649
-    },
-    {
-     "d": "2026-11-02",
-     "p": 649
-    },
-    {
-     "d": "2026-11-03",
-     "p": 649
-    },
-    {
-     "d": "2026-11-04",
-     "p": 649
-    },
-    {
-     "d": "2026-11-05",
-     "p": 649
-    },
-    {
-     "d": "2026-11-06",
-     "p": 649
-    },
-    {
-     "d": "2026-11-07",
-     "p": 649
-    },
-    {
-     "d": "2026-11-08",
-     "p": 649
-    },
-    {
-     "d": "2026-11-09",
-     "p": 649
-    },
-    {
-     "d": "2026-11-10",
-     "p": 649
-    },
-    {
-     "d": "2026-11-11",
-     "p": 649
     }
    ],
    "firstSeen": "2026-10-30"
