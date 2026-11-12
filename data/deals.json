@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T17:56:29.450Z",
+ "updated": "2026-11-12T19:58:09.411Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1264,6 +1264,64 @@
    "source": "crawler"
   },
   {
+   "id": "c-thermaltake-th240-v2-ultra-ex-argb-cpu-aio-liquid-cooler-was",
+   "name": "Thermaltake TH240 V2 Ultra EX ARGB CPU AIO Liquid Cooler , Wasserkühlung",
+   "cat": "Kühlung",
+   "price": 89.9,
+   "ref": 146.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/Thermaltake/TH240-V2-Ultra-EX-ARGB-CPU-AIO-Liquid-Cooler-Wasserk%C3%BChlung/html/product/100050237",
+   "url": "https://www.alternate.de/Thermaltake/TH240-V2-Ultra-EX-ARGB-CPU-AIO-Liquid-Cooler-Wasserk%C3%BChlung/html/product/100050237",
+   "note": "39 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-02",
+     "p": 146.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 146.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 146.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 146.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 146.9
+    },
+    {
+     "d": "2026-11-07",
+     "p": 146.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 146.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 146.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 146.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 89.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-12",
+   "updated": "2026-11-12",
+   "tags": "kuhlung aio-wasserkuhlung thermaltake th240 ultra argb cpu aio liquid cooler wasserkuhlung",
+   "source": "crawler"
+  },
+  {
    "id": "c-western-digital-black-sn770m-2-tb-m-2-pcie-4-0-nvme-ssd",
    "name": "Western Digital Black SN770M 2 TB M.2 PCIe 4.0 NVMe SSD",
    "cat": "SSDs",
@@ -1581,6 +1639,10 @@
     {
      "d": "2026-11-10",
      "p": 69.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 69.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -1848,6 +1910,10 @@
     },
     {
      "d": "2026-11-10",
+     "p": 129.9
+    },
+    {
+     "d": "2026-11-12",
      "p": 129.9
     }
    ],
@@ -2709,6 +2775,60 @@
    "seen": "2026-11-12",
    "updated": "2026-11-12",
    "tags": "kuhlung luftkuhler noctua d12l chromax black cpu kuhler",
+   "source": "crawler"
+  },
+  {
+   "id": "c-asus-rog-strix-xg32ucg-31-5-4k-gaming-monitor-160-hz-fast-ip",
+   "name": "ASUS ROG Strix XG32UCG 31.5\" 4K Gaming-Monitor 160 Hz Fast IPS Schwarz",
+   "cat": "Monitore",
+   "price": 514.48,
+   "ref": 587.4,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/asus-rog-strix-xg32ucg-31-5-4k-gaming-monitor-160-hz-fast-ips-schwarz-100592132/",
+   "url": "https://www.jacob.de/produkt/asus-rog-strix-xg32ucg-31-5-4k-gaming-monitor-160-hz-fast-ips-schwarz-100592132/",
+   "note": "12 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 574.75
+    },
+    {
+     "d": "2026-10-31",
+     "p": 600.05
+    },
+    {
+     "d": "2026-11-01",
+     "p": 600.05
+    },
+    {
+     "d": "2026-11-02",
+     "p": 600.05
+    },
+    {
+     "d": "2026-11-03",
+     "p": 617.96
+    },
+    {
+     "d": "2026-11-05",
+     "p": 552.6
+    },
+    {
+     "d": "2026-11-08",
+     "p": 554.67
+    },
+    {
+     "d": "2026-11-10",
+     "p": 554.67
+    },
+    {
+     "d": "2026-11-12",
+     "p": 514.48
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-12",
+   "updated": "2026-11-12",
+   "tags": "monitore 31,5\" asus rog strix xg32ucg gaming monitor 160 fast ips schwarz",
    "source": "crawler"
   },
   {
