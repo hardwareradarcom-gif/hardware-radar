@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T10:05:46.730Z",
+ "updated": "2026-11-12T11:28:23.936Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -104707,6 +104707,35 @@
    "count": 1,
    "tags": "arbeitsspeicher ddr5 32 gb kingston fury beast ram 6800 mhz ddr5 cl34 dimm kit schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-amd-ryzen-9-9950x3d2-tray-prozessor-16-kerne-4-3-ghz-sockel-",
+   "cat": "Prozessoren",
+   "sub": "AM5",
+   "name": "AMD Ryzen 9 9950X3D2 Tray Prozessor 16 Kerne 4,3 GHz Sockel AM5",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/amd-ryzen-9-9950x3d2-tray-prozessor-16-kerne-4-3-ghz-sockel-am5-100844120/",
+   "stand": "2026-11-12T11:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 865.9,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/amd-ryzen-9-9950x3d2-tray-prozessor-16-kerne-4-3-ghz-sockel-am5-100844120/"
+    }
+   ],
+   "price": 865.9,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-12",
+     "p": 865.9
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren am5 amd ryzen 9950x3d2 tray prozessor kerne ghz sockel",
+   "firstSeen": "2026-11-12"
   },
   {
    "id": "c-asus-rog-strix-oled-xg32uqdms-32-zoll-4k-gaming-monitor-240h",
