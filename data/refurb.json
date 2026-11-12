@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T08:22:34.312Z",
+ "updated": "2026-11-12T10:05:46.730Z",
  "products": [
   {
    "id": "r-acer-b246hylbymiprx-23-8-full-hd-1920x1080-display-hdmi-disp",
@@ -5894,6 +5894,10 @@
     {
      "d": "2026-11-10",
      "p": 329
+    },
+    {
+     "d": "2026-11-12",
+     "p": 329
     }
    ],
    "firstSeen": "2026-11-10"
@@ -7399,6 +7403,10 @@
     },
     {
      "d": "2026-11-11",
+     "p": 339
+    },
+    {
+     "d": "2026-11-12",
      "p": 339
     }
    ],
@@ -15578,6 +15586,44 @@
     }
    ],
    "firstSeen": "2026-11-11"
+  },
+  {
+   "id": "r-dell-latitude-5520-15-6-zoll-1920x1080-full-hd-intel-core-i5",
+   "cat": "Laptops",
+   "name": "Dell Latitude 5520 15,6 Zoll 1920x1080 Full HD Intel Core i5 256GB SSD 16GB Windows 11 Pro Fingerprint",
+   "brand": "Dell",
+   "price": 389,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/dell-latitude-5520-15-6-zoll-1920x1080-full-hd-intel-core-i5-256gb-ssd-16gb-windows-11-pro-fingerprint",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Latitude-5520-1_51fc929d-d7ac-4680-980d-1d6044249f87.png?v=1770991096",
+   "hist": [
+    {
+     "d": "2026-11-12",
+     "p": 389
+    }
+   ],
+   "firstSeen": "2026-11-12"
+  },
+  {
+   "id": "r-hp-elitebook-830-g8-13-3-fhd-display-intel-core-i5-1145g7-16",
+   "cat": "Laptops",
+   "name": "HP EliteBook 830 G8, 13,3\" FHD Display, Intel Core i5 1145G7, 16GB RAM, 256GB SSD, Webcam, Windows 11 Pro, ESET Internet Security",
+   "brand": "HP",
+   "price": 389,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/hp-elitebook-830-g8-13-3-fhd-display-intel-core-i5-1145g7-16gb-ram-256gb-ssd-webcam-windows-11-pro-eset-internet-security",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-830-G8-1_94f84095-939d-460a-a6e3-756124a6fbd1.png?v=1770991031",
+   "hist": [
+    {
+     "d": "2026-11-12",
+     "p": 389
+    }
+   ],
+   "firstSeen": "2026-11-12"
   },
   {
    "id": "r-lenovo-thinkcentre-m720t-intel-six-core-i5-8400-8gb-ram-256g",
@@ -23797,6 +23843,10 @@
     {
      "d": "2026-11-11",
      "p": 459.01
+    },
+    {
+     "d": "2026-11-12",
+     "p": 459.01
     }
    ],
    "firstSeen": "2026-10-30"
@@ -27860,57 +27910,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "r-dell-latitude-5420-14-zoll-touch-display-intel-core-i5-512gb",
-   "cat": "Laptops",
-   "name": "Dell Latitude 5420 14 Zoll Touch Display Intel Core i5 512GB SSD 32GB Windows 11 Pro LTE Webcam",
-   "brand": "Dell",
-   "price": 499,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/dell-latitude-5420-14-zoll-touch-display-intel-core-i5-512gb-ssd-32gb-windows-11-pro-lte-webcam-1",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Latitude-5420-0_ff95f560-bbd9-40cc-8b6a-08a58733e75f.jpg?v=1770990674",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 499
-    },
-    {
-     "d": "2026-10-31",
-     "p": 499
-    },
-    {
-     "d": "2026-11-03",
-     "p": 499
-    },
-    {
-     "d": "2026-11-04",
-     "p": 499
-    },
-    {
-     "d": "2026-11-05",
-     "p": 499
-    },
-    {
-     "d": "2026-11-06",
-     "p": 499
-    },
-    {
-     "d": "2026-11-07",
-     "p": 499
-    },
-    {
-     "d": "2026-11-08",
-     "p": 499
-    },
-    {
-     "d": "2026-11-09",
-     "p": 499
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "r-hp-elitebook-x360-1040-g8-14-touch-display-intel-core-i5-114",
    "cat": "Laptops",
    "name": "HP EliteBook x360 1040 G8, 14\" Touch Display, Intel Core i5 1145G7, 16GB RAM, 512GB SSD, Fingerprint Reader, Windows 11 Pro, Office & Media Software Suite",
@@ -29656,6 +29655,10 @@
     },
     {
      "d": "2026-11-11",
+     "p": 499
+    },
+    {
+     "d": "2026-11-12",
      "p": 499
     }
    ],
@@ -39793,6 +39796,57 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "r-dell-latitude-5520-15-6-fhd-display-intel-corei7-1185g7-16gb",
+   "cat": "Laptops",
+   "name": "Dell Latitude 5520, 15,6” FHD Display, Intel Corei7 1185G7, 16GB RAM, 256GB SSD, Webcam, LTE 4G Windows 11 Pro, ESET Internet Security",
+   "brand": "Dell",
+   "price": 589,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/dell-latitude-5520-15-6-fhd-display-intel-core-i5-1145g7-16gb-ram-512gb-ssd-fingerprint-reader-windows-11-pro-eset-internet-security",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Latitude-5520-1_684e122d-bf64-4ec6-80ff-dba6d23816f9.png?v=1770992113",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 589
+    },
+    {
+     "d": "2026-10-31",
+     "p": 589
+    },
+    {
+     "d": "2026-11-01",
+     "p": 589
+    },
+    {
+     "d": "2026-11-02",
+     "p": 589
+    },
+    {
+     "d": "2026-11-03",
+     "p": 589
+    },
+    {
+     "d": "2026-11-04",
+     "p": 589
+    },
+    {
+     "d": "2026-11-05",
+     "p": 589
+    },
+    {
+     "d": "2026-11-06",
+     "p": 589
+    },
+    {
+     "d": "2026-11-12",
+     "p": 589
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "r-dell-latitude-5520-15-6-fhd-display-intel-core-i5-1135g7-16g",
    "cat": "Laptops",
    "name": "Dell Latitude 5520, 15,6” FHD Display, Intel Core i5 1135G7, 16GB RAM, 256GB SSD, Webcam, Windows 11 Pro",
@@ -42096,6 +42150,49 @@
     },
     {
      "d": "2026-11-11",
+     "p": 619
+    },
+    {
+     "d": "2026-11-12",
+     "p": 619
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "r-hp-elitebook-840-g8-14-zoll-1920x1080-full-hd-intel-core-i7-",
+   "cat": "Laptops",
+   "name": "HP EliteBook 840 G8 14 Zoll 1920x1080 Full HD Intel Core i7 512GB SSD 32GB Windows 11 Pro Fingerprint",
+   "brand": "HP",
+   "price": 619,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/hp-elitebook-840-g8-14-zoll-1920x1080-full-hd-intel-core-i7-512gb-ssd-32gb-windows-11-pro-fingerprint-3",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-840-G8-0_69eeacc8-e3f6-4c37-9db6-1aa12f0e3d55.jpg?v=1770990915",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 619
+    },
+    {
+     "d": "2026-10-31",
+     "p": 619
+    },
+    {
+     "d": "2026-11-01",
+     "p": 619
+    },
+    {
+     "d": "2026-11-02",
+     "p": 619
+    },
+    {
+     "d": "2026-11-03",
+     "p": 619
+    },
+    {
+     "d": "2026-11-04",
      "p": 619
     },
     {

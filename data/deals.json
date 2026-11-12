@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T08:22:34.312Z",
+ "updated": "2026-11-12T10:05:46.730Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1532,52 +1532,6 @@
    "source": "crawler"
   },
   {
-   "id": "c-lenovo-sk-hynix-ssd-512-gb-m-2-2280-pcie-4-0-x4-nvme",
-   "name": "Lenovo SK Hynix SSD 512 GB M.2 2280 PCIe 4.0 x4 NVMe",
-   "cat": "SSDs",
-   "price": 246.63,
-   "ref": 360.25,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/lenovo-sk-hynix-ssd-512-gb-m-2-2280-pcie-4-0-x4-nvme-9088676/",
-   "url": "https://www.jacob.de/produkt/lenovo-sk-hynix-ssd-512-gb-m-2-2280-pcie-4-0-x4-nvme-9088676/",
-   "note": "32 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 354.13
-    },
-    {
-     "d": "2026-10-31",
-     "p": 360.25
-    },
-    {
-     "d": "2026-11-01",
-     "p": 360.25
-    },
-    {
-     "d": "2026-11-02",
-     "p": 369.42
-    },
-    {
-     "d": "2026-11-04",
-     "p": 378.6
-    },
-    {
-     "d": "2026-11-07",
-     "p": 249.67
-    },
-    {
-     "d": "2026-11-09",
-     "p": 246.63
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-12",
-   "updated": "2026-11-12",
-   "tags": "ssds pcie 4.0 512 gb lenovo hynix ssd 512 2280 pcie nvme",
-   "source": "crawler"
-  },
-  {
    "id": "c-kolink-regulator-80-plus-gold-psu-atx-3-0-pcie-5-0-modular-7",
    "name": "Kolink Regulator 80 PLUS Gold PSU, ATX 3.0, PCIe 5.0, modular - 750 Watts",
    "cat": "Netzteile",
@@ -2577,6 +2531,64 @@
    "seen": "2026-11-12",
    "updated": "2026-11-12",
    "tags": "mainboards am5 b850 asus prime b850 plus wifi mainboard atx sockel am5 ddr5 schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-arctic-freezer-36-cpu-kuhler",
+   "name": "ARCTIC Freezer 36, CPU-Kühler",
+   "cat": "Kühlung",
+   "price": 22.99,
+   "ref": 26.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/ARCTIC/Freezer-36-CPU-K%C3%BChler/html/product/100228826",
+   "url": "https://www.alternate.de/ARCTIC/Freezer-36-CPU-K%C3%BChler/html/product/100228826",
+   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-03",
+     "p": 26.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 26.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 26.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 22.99
+    },
+    {
+     "d": "2026-11-07",
+     "p": 22.99
+    },
+    {
+     "d": "2026-11-08",
+     "p": 26.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 22.99
+    },
+    {
+     "d": "2026-11-10",
+     "p": 22.99
+    },
+    {
+     "d": "2026-11-11",
+     "p": 26.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 22.99
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-12",
+   "updated": "2026-11-12",
+   "tags": "kuhlung luftkuhler arctic freezer cpu kuhler",
    "source": "crawler"
   },
   {
