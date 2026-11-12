@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T16:04:28.835Z",
+ "updated": "2026-11-12T17:26:40.239Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -7407,13 +7407,21 @@
    "name": "Intel Core i7-14700K (boxed)",
    "url": "https://www.hardwaredealz.com/hardware/cpu/intel-core-i7-14700k-boxed/preisvergleich.1179",
    "source": "hardwaredealz",
-   "stand": "2026-11-11T22:09",
+   "stand": "2026-11-12T17:26",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
      "price": 356,
      "ship": null,
      "avail": null
+    },
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 359.26,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/intel-core-i7-14700k-3-4-ghz-20-kerne-lga-1700-100246979/",
+     "crawler": true
     },
     {
      "shop": "caseking.de",
@@ -12232,6 +12240,35 @@
    "firstSeen": "2026-11-08"
   },
   {
+   "id": "c-arctic-freezer-8a-co-prozessor-luftkuhler-am4-am5-silber-sch",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "ARCTIC Freezer 8A CO Prozessor-Luftkühler AM4/AM5 Silber, Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/arctic-freezer-8a-co-prozessor-luftkuehler-am4-am5-silber-schwarz-100580771/",
+   "stand": "2026-11-12T17:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 20.13,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/arctic-freezer-8a-co-prozessor-luftkuehler-am4-am5-silber-schwarz-100580771/"
+    }
+   ],
+   "price": 20.13,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-12",
+     "p": 20.13
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler arctic freezer prozessor am4 am5 silber schwarz",
+   "firstSeen": "2026-11-12"
+  },
+  {
    "id": "c-silentware-bora-performance-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -16973,6 +17010,35 @@
    "firstSeen": "2026-11-09"
   },
   {
+   "id": "c-dynatron-z60-prozessor-luftkuhler-lga1700-lga1851-80mm-alumi",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Dynatron Z60 Prozessor-Luftkühler LGA1700/LGA1851 80mm Aluminium Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/dynatron-z60-prozessor-luftkuehler-lga1700-lga1851-80mm-aluminium-schwarz-100495643/",
+   "stand": "2026-11-12T17:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 34.65,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/dynatron-z60-prozessor-luftkuehler-lga1700-lga1851-80mm-aluminium-schwarz-100495643/"
+    }
+   ],
+   "price": 34.65,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-12",
+     "p": 34.65
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler dynatron z60 prozessor lga1700 lga1851 80mm aluminium schwarz",
+   "firstSeen": "2026-11-12"
+  },
+  {
    "id": "c-thermalright-axp120-x67-argb-low-profile-cpu-kuhler-120mm-sc",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -18156,6 +18222,35 @@
    "firstSeen": "2026-11-06"
   },
   {
+   "id": "c-xilence-cryon-m806d-b-cpu-kuhler-multisocket-12-cm-schwarz",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Xilence CRYON M806D.B CPU-Kühler Multisocket 12 cm Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/xilence-cryon-m806d-b-cpu-kuehler-multisocket-12-cm-schwarz-100555018/",
+   "stand": "2026-11-12T17:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 36.28,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/xilence-cryon-m806d-b-cpu-kuehler-multisocket-12-cm-schwarz-100555018/"
+    }
+   ],
+   "price": 36.28,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-12",
+     "p": 36.28
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler xilence cryon m806d cpu kuhler multisocket schwarz",
+   "firstSeen": "2026-11-12"
+  },
+  {
    "id": "c-alpenfohn-brocken-4-argb-cpu-kuhler-120mm-weiss",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -18774,6 +18869,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler endorfy fera black argb cpu kuhler",
    "firstSeen": "2026-11-08"
+  },
+  {
+   "id": "c-inter-tech-ip-3-passiver-cpu-kuhler-fur-intel-lga-1150-1151-",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Inter-Tech IP-3 Passiver CPU-Kühler für Intel LGA 1150/1151/1155/1156/1200/1700",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/inter-tech-ip-3-passiver-cpu-kuehler-fuer-intel-lga-1150-1151-1155-1156-1200-1700-7639429/",
+   "stand": "2026-11-12T17:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 37.21,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/inter-tech-ip-3-passiver-cpu-kuehler-fuer-intel-lga-1150-1151-1155-1156-1200-1700-7639429/"
+    }
+   ],
+   "price": 37.21,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-12",
+     "p": 37.21
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler inter tech passiver cpu kuhler fur intel lga 1150 1151 1155 1156 1200 1700",
+   "firstSeen": "2026-11-12"
   },
   {
    "id": "c-montech-nx600-cpu-kuhler-dual-tower-2x-120mm-weiss",
@@ -20588,6 +20712,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler quiet dark rock slim cpu kuhler",
    "firstSeen": "2026-11-08"
+  },
+  {
+   "id": "c-endorfy-fortis-5-prozessor-luftkuhler-140-mm-schwarz",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Endorfy Fortis 5 Prozessor-Luftkühler 140 mm Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/endorfy-fortis-5-prozessor-luftkuehler-140-mm-schwarz-100546987/",
+   "stand": "2026-11-12T17:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 43.11,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/endorfy-fortis-5-prozessor-luftkuehler-140-mm-schwarz-100546987/"
+    }
+   ],
+   "price": 43.11,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-12",
+     "p": 43.11
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler endorfy fortis prozessor 140 schwarz",
+   "firstSeen": "2026-11-12"
   },
   {
    "id": "c-silverstone-sst-arv140-argb-cpu-kuhler",
@@ -24899,6 +25052,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-inter-tech-a-35-prozessor-luftkuhler-80-mm-aluminium-schwarz",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Inter-Tech A-35 Prozessor-Luftkühler 80 mm Aluminium Schwarz Silber",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/inter-tech-a-35-prozessor-luftkuehler-80-mm-aluminium-schwarz-silber-6158439/",
+   "stand": "2026-11-12T17:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 58.61,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/inter-tech-a-35-prozessor-luftkuehler-80-mm-aluminium-schwarz-silber-6158439/"
+    }
+   ],
+   "price": 58.61,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-12",
+     "p": 58.61
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler inter tech prozessor aluminium schwarz silber",
+   "firstSeen": "2026-11-12"
+  },
+  {
    "id": "c-alphacool-eisblock-xpx-aurora-edge-acryl-black-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -26557,6 +26739,35 @@
    "firstSeen": "2026-11-04"
   },
   {
+   "id": "c-deepcool-ak620-digital-se-prozessor-luftkuhler-schwarz-weiss",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "DeepCool AK620 Digital SE Prozessor-Luftkühler Schwarz, Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/deepcool-ak620-digital-se-prozessor-luftkuehler-schwarz-weiss-100680165/",
+   "stand": "2026-11-12T17:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 60.06,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/deepcool-ak620-digital-se-prozessor-luftkuehler-schwarz-weiss-100680165/"
+    }
+   ],
+   "price": 60.06,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-12",
+     "p": 60.06
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler deepcool ak620 digital prozessor schwarz weiss",
+   "firstSeen": "2026-11-12"
+  },
+  {
    "id": "c-asus-prime-a520m-r-mainboard-a520-chipsatz-sockel-am4-ddr4",
    "cat": "Mainboards",
    "sub": "AM4 A520",
@@ -26584,6 +26795,35 @@
    "count": 1,
    "tags": "mainboards am4 a520 asus prime a520m mainboard a520 chipsatz sockel am4 ddr4",
    "firstSeen": "2026-11-11"
+  },
+  {
+   "id": "c-dynatron-a55-cpu-luftkuhler-80-mm-pwm-schwarz-grau",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Dynatron A55 CPU-Luftkühler 80 mm PWM Schwarz, Grau",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/dynatron-a55-cpu-luftkuehler-80-mm-pwm-schwarz-grau-100117828/",
+   "stand": "2026-11-12T17:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 61.21,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/dynatron-a55-cpu-luftkuehler-80-mm-pwm-schwarz-grau-100117828/"
+    }
+   ],
+   "price": 61.21,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-12",
+     "p": 61.21
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler dynatron a55 cpu pwm schwarz grau",
+   "firstSeen": "2026-11-12"
   },
   {
    "id": "c-sapphire-pulse-a520m-e-mainboard-sockel-am4-amd-a520-matx-dd",
@@ -26751,6 +26991,35 @@
    "count": 1,
    "tags": "mainboards intel lga1700 h610 asus prime h610m argb intel h610 mainboard sockel 1700 ddr5",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-inter-tech-q-3-cpu-kuhler-8-cm-7000-rpm-kupfer-schwarz-silbe",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Inter-Tech Q-3 CPU-Kühler 8 cm 7000 RPM Kupfer Schwarz – Silber",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/inter-tech-q-3-cpu-kuehler-8-cm-7000-rpm-kupfer-schwarz-silber-7670788/",
+   "stand": "2026-11-12T17:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 64.19,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/inter-tech-q-3-cpu-kuehler-8-cm-7000-rpm-kupfer-schwarz-silber-7670788/"
+    }
+   ],
+   "price": 64.19,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-12",
+     "p": 64.19
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler inter tech cpu kuhler 7000 rpm kupfer schwarz silber",
+   "firstSeen": "2026-11-12"
   },
   {
    "id": "c-lian-li-rb-series-80-plus-bronze-netzteil-teilmodular-pcie-5-8lelc",
@@ -27453,6 +27722,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler quiet dark rock cpu kuhler",
    "firstSeen": "2026-11-04"
+  },
+  {
+   "id": "c-deepcool-ak500-zero-dark-prozessor-luftkuhler-12-cm-schwarz",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "DeepCool AK500 ZERO DARK Prozessor-Luftkühler 12 cm Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/deepcool-ak500-zero-dark-prozessor-luftkuehler-12-cm-schwarz-100063050/",
+   "stand": "2026-11-12T17:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 67.03,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/deepcool-ak500-zero-dark-prozessor-luftkuehler-12-cm-schwarz-100063050/"
+    }
+   ],
+   "price": 67.03,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-12",
+     "p": 67.03
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler deepcool ak500 zero dark prozessor schwarz",
+   "firstSeen": "2026-11-12"
   },
   {
    "id": "c-seasonic-core-bc-850-atx3-1-pc-netzteil",
@@ -35080,6 +35378,35 @@
    "firstSeen": "2026-11-08"
   },
   {
+   "id": "c-be-quiet-dark-rock-elite-prozessor-luftkuhler-135-mm-schwarz",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "be quiet! Dark Rock Elite Prozessor-Luftkühler 135 mm Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/be-quiet-dark-rock-elite-prozessor-luftkuehler-135-mm-schwarz-100272751/",
+   "stand": "2026-11-12T17:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 90.01,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/be-quiet-dark-rock-elite-prozessor-luftkuehler-135-mm-schwarz-100272751/"
+    }
+   ],
+   "price": 90.01,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-12",
+     "p": 90.01
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler quiet dark rock elite prozessor 135 schwarz",
+   "firstSeen": "2026-11-12"
+  },
+  {
    "id": "c-philips-1000-series-27e2n1110-27-fhd-monitor-ips-120hz-1ms-h",
    "cat": "Monitore",
    "sub": "27\"",
@@ -42329,6 +42656,35 @@
    "count": 1,
    "tags": "mainboards am5 b650 asus prime b650m mainboard b650 chipsatz sockel am5 ddr5",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-noctua-chromax-black-nh-d12l-prozessor-luftkuhler-120-mm-5-h",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Noctua chromax.black NH-D12L Prozessor-Luftkühler 120 mm 5 Heatpipes Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/noctua-chromax-black-nh-d12l-prozessor-luftkuehler-120-mm-5-heatpipes-schwarz-100457671/",
+   "stand": "2026-11-12T17:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 112.44,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/noctua-chromax-black-nh-d12l-prozessor-luftkuehler-120-mm-5-heatpipes-schwarz-100457671/"
+    }
+   ],
+   "price": 112.44,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-12",
+     "p": 112.44
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler noctua chromax black d12l prozessor 120 heatpipes schwarz",
+   "firstSeen": "2026-11-12"
   },
   {
    "id": "c-gigabyte-b760m-ds3h-ddr4-mainboard-lga-1700-micro-atx-schwar",
@@ -85019,6 +85375,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-intel-xeon-6315p-2-8-ghz-quad-core-prozessor-12-mb-cache-fcl",
+   "cat": "Prozessoren",
+   "sub": "Prozessoren",
+   "name": "Intel Xeon 6315P 2.8 GHz Quad-Core Prozessor 12 MB Cache FCLGA1700 OEM",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/intel-xeon-6315p-2-8-ghz-quad-core-prozessor-12-mb-cache-fclga1700-oem-100602965/",
+   "stand": "2026-11-12T17:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 345.29,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/intel-xeon-6315p-2-8-ghz-quad-core-prozessor-12-mb-cache-fclga1700-oem-100602965/"
+    }
+   ],
+   "price": 345.29,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-12",
+     "p": 345.29
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren intel xeon 6315p ghz quad core prozessor cache fclga1700 oem",
+   "firstSeen": "2026-11-12"
+  },
+  {
    "id": "c-asus-rog-strix-x870-a-gaming-wifi-mainboard-amd-x870-am5-ddr",
    "cat": "Mainboards",
    "sub": "AM5 X870",
@@ -89887,6 +90272,35 @@
    "count": 1,
    "tags": "monitore 27\" aoc agon pro ag276fk gaming monitor 1920 1080 ips 520 matte gray",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-rog-ryuo-iv-360-argb-all-in-one-cpu-wasserkuhlung-6-67-",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "ASUS ROG RYUO IV 360 ARGB All-in-One CPU-Wasserkühlung 6,67\" AMOLED Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-rog-ryuo-iv-360-argb-all-in-one-cpu-wasserkuehlung-6-67-amoled-schwarz-100692720/",
+   "stand": "2026-11-12T17:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 412.86,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-rog-ryuo-iv-360-argb-all-in-one-cpu-wasserkuehlung-6-67-amoled-schwarz-100692720/"
+    }
+   ],
+   "price": 412.86,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-12",
+     "p": 412.86
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung asus rog ryuo 360 argb all one cpu wasserkuhlung amoled schwarz",
+   "firstSeen": "2026-11-12"
   },
   {
    "id": "c-asus-p12r-m-server-motherboard-microatx-lga1200-c252-ddr4-sc",
@@ -96098,6 +96512,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-intel-xeon-silver-4210r-prozessor-2-4-ghz-10-core-13-75-mb-c",
+   "cat": "Prozessoren",
+   "sub": "Prozessoren",
+   "name": "Intel Xeon Silver 4210R Prozessor 2.4 GHz 10-Core 13.75 MB Cache LGA 3647 Tray",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/intel-xeon-silver-4210r-prozessor-2-4-ghz-10-core-13-75-mb-cache-lga-3647-tray-6226204/",
+   "stand": "2026-11-12T17:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 565.08,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/intel-xeon-silver-4210r-prozessor-2-4-ghz-10-core-13-75-mb-cache-lga-3647-tray-6226204/"
+    }
+   ],
+   "price": 565.08,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-12",
+     "p": 565.08
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren intel xeon silver 4210r prozessor ghz core cache lga 3647 tray",
+   "firstSeen": "2026-11-12"
+  },
+  {
    "id": "c-asrock-trx50-ws-amd-trx50-mainboard-sockel-str5-ddr5",
    "cat": "Mainboards",
    "sub": "Mainboards",
@@ -100951,6 +101394,35 @@
    "count": 1,
    "tags": "mainboards intel lga1851 z890 msi meg z890 ace mainboard atx lga1851 ddr5 10g lan schwarz gelb",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-intel-xeon-silver-4214r-server-prozessor-2-4-ghz-12-core-16-",
+   "cat": "Prozessoren",
+   "sub": "Prozessoren",
+   "name": "Intel Xeon Silver 4214R Server-Prozessor 2.4 GHz 12-Core 16.5 MB Cache LGA 3647 Tray",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/intel-xeon-silver-4214r-server-prozessor-2-4-ghz-12-core-16-5-mb-cache-lga-3647-tray-6226203/",
+   "stand": "2026-11-12T17:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 677.67,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/intel-xeon-silver-4214r-server-prozessor-2-4-ghz-12-core-16-5-mb-cache-lga-3647-tray-6226203/"
+    }
+   ],
+   "price": 677.67,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-12",
+     "p": 677.67
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren intel xeon silver 4214r server prozessor ghz core cache lga 3647 tray",
+   "firstSeen": "2026-11-12"
   },
   {
    "id": "c-msi-mpg-272urxde-qd-oled-27-zoll-gaming-monitor-240hz-qd-ole",
