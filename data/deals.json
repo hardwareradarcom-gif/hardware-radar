@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T12:00:28.481Z",
+ "updated": "2026-11-12T14:23:46.628Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1364,80 +1364,6 @@
    "source": "crawler"
   },
   {
-   "id": "c-alphacool-core-1-aurora-black-cpu-kuhler",
-   "name": "Alphacool Core 1 Aurora Black, CPU-Kühler",
-   "cat": "Kühlung",
-   "price": 77.99,
-   "ref": 122.9,
-   "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/Alphacool/Core-1-Aurora-Black-CPU-K%C3%BChler/html/product/100218433",
-   "url": "https://www.alternate.de/Alphacool/Core-1-Aurora-Black-CPU-K%C3%BChler/html/product/100218433",
-   "note": "37 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 122.9
-    },
-    {
-     "d": "2026-10-31",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-01",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-02",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-03",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-04",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 77.99
-    },
-    {
-     "d": "2026-11-07",
-     "p": 77.99
-    },
-    {
-     "d": "2026-11-08",
-     "p": 77.99
-    },
-    {
-     "d": "2026-11-09",
-     "p": 77.99
-    },
-    {
-     "d": "2026-11-10",
-     "p": 77.99
-    },
-    {
-     "d": "2026-11-11",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-12",
-     "p": 77.99
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-12",
-   "updated": "2026-11-12",
-   "tags": "kuhlung luftkuhler alphacool core aurora black cpu kuhler",
-   "source": "crawler"
-  },
-  {
    "id": "c-akasa-alucia-h4i-low-profile-cpu-kuhler-fur-intel",
    "name": "Akasa ALUCIA H4I, Low-Profile CPU-Kühler, für Intel",
    "cat": "Kühlung",
@@ -1601,6 +1527,10 @@
     {
      "d": "2026-11-10",
      "p": 47
+    },
+    {
+     "d": "2026-11-12",
+     "p": 47
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -1714,6 +1644,10 @@
     },
     {
      "d": "2026-11-10",
+     "p": 99.9
+    },
+    {
+     "d": "2026-11-12",
      "p": 99.9
     }
    ],
@@ -2210,6 +2144,10 @@
     },
     {
      "d": "2026-11-10",
+     "p": 299.9
+    },
+    {
+     "d": "2026-11-12",
      "p": 299.9
     }
    ],
@@ -3074,6 +3012,60 @@
    "source": "crawler"
   },
   {
+   "id": "c-asus-b850-max-gaming-wifi-w-mainboard-atx-sockel-am5-amd-b85",
+   "name": "ASUS B850 MAX GAMING WIFI W Mainboard ATX Sockel AM5 AMD B850 DDR5 Weiß",
+   "cat": "Mainboards",
+   "price": 225.09,
+   "ref": 254.16,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/asus-b850-max-gaming-wifi-w-mainboard-atx-sockel-am5-amd-b850-ddr5-weiss-100568096/",
+   "url": "https://www.jacob.de/produkt/asus-b850-max-gaming-wifi-w-mainboard-atx-sockel-am5-amd-b850-ddr5-weiss-100568096/",
+   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 254.16
+    },
+    {
+     "d": "2026-10-31",
+     "p": 254.16
+    },
+    {
+     "d": "2026-11-01",
+     "p": 254.16
+    },
+    {
+     "d": "2026-11-02",
+     "p": 254.16
+    },
+    {
+     "d": "2026-11-03",
+     "p": 254.16
+    },
+    {
+     "d": "2026-11-05",
+     "p": 254.16
+    },
+    {
+     "d": "2026-11-07",
+     "p": 254.16
+    },
+    {
+     "d": "2026-11-10",
+     "p": 225.86
+    },
+    {
+     "d": "2026-11-12",
+     "p": 225.09
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-12",
+   "updated": "2026-11-12",
+   "tags": "mainboards am5 b850 asus b850 max gaming wifi mainboard atx sockel am5 amd ddr5 weiss",
+   "source": "crawler"
+  },
+  {
    "id": "c-dell-27-plus-qhd-usb-c-monitor-s2725dc-68-6-cm-27-ips-2560x1",
    "name": "DELL 27 Plus QHD USB-C Monitor S2725DC - 68,6 cm (27\"), IPS, 2560x1440, 144Hz, USB-C, Weiß (DELL-S2725DC)",
    "cat": "Monitore",
@@ -3221,56 +3213,6 @@
    "seen": "2026-11-12",
    "updated": "2026-11-12",
    "tags": "monitore 24,1\" eizo flexscan ev2495 mit flexstand led monitor 1920 1200 ips 350 1000 hdmi displayport usb lautsprecher",
-   "source": "crawler"
-  },
-  {
-   "id": "c-asus-b850-max-gaming-wifi-w-mainboard-atx-sockel-am5-amd-b85",
-   "name": "ASUS B850 MAX GAMING WIFI W Mainboard ATX Sockel AM5 AMD B850 DDR5 Weiß",
-   "cat": "Mainboards",
-   "price": 225.86,
-   "ref": 254.16,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/asus-b850-max-gaming-wifi-w-mainboard-atx-sockel-am5-amd-b850-ddr5-weiss-100568096/",
-   "url": "https://www.jacob.de/produkt/asus-b850-max-gaming-wifi-w-mainboard-atx-sockel-am5-amd-b850-ddr5-weiss-100568096/",
-   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 254.16
-    },
-    {
-     "d": "2026-10-31",
-     "p": 254.16
-    },
-    {
-     "d": "2026-11-01",
-     "p": 254.16
-    },
-    {
-     "d": "2026-11-02",
-     "p": 254.16
-    },
-    {
-     "d": "2026-11-03",
-     "p": 254.16
-    },
-    {
-     "d": "2026-11-05",
-     "p": 254.16
-    },
-    {
-     "d": "2026-11-07",
-     "p": 254.16
-    },
-    {
-     "d": "2026-11-10",
-     "p": 225.86
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-12",
-   "updated": "2026-11-12",
-   "tags": "mainboards am5 b850 asus b850 max gaming wifi mainboard atx sockel am5 amd ddr5 weiss",
    "source": "crawler"
   },
   {

@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T12:00:28.481Z",
+ "updated": "2026-11-12T14:23:46.628Z",
  "products": [
   {
    "id": "r-acer-b246hylbymiprx-23-8-full-hd-1920x1080-display-hdmi-disp",
@@ -1004,6 +1004,25 @@
     }
    ],
    "firstSeen": "2026-11-10"
+  },
+  {
+   "id": "r-lg-24bk550y-b-24-zoll-full-hd-1920x1080-vga-dvi-displayport-",
+   "cat": "Monitore",
+   "name": "LG 24BK550Y-B 24 Zoll Full HD 1920x1080 VGA DVI DisplayPort HDMI Höhenverstellbar Schwarz",
+   "brand": "LG",
+   "price": 139,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lg-24bk550y-b-24-zoll-full-hd-1920x1080-vga-dvi-displayport-hdmi-hohenverstellbar-schwarz-3",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/LG-24BK550Y-B-0_06ae621e-d28b-4cdc-9a42-7904add72371.jpg?v=1770995053",
+   "hist": [
+    {
+     "d": "2026-11-12",
+     "p": 139
+    }
+   ],
+   "firstSeen": "2026-11-12"
   },
   {
    "id": "r-dell-p2419h-schwarz-23-8-zoll-full-hd-1920x1080-displayport-",
@@ -4608,61 +4627,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "r-lenovo-thinkpad-x1-yoga-gen-3-14-touch-display-intel-core-i7",
-   "cat": "Laptops",
-   "name": "Lenovo ThinkPad X1 Yoga Gen 3, 14” Touch Display, Intel Core i7 8650U, 16GB RAM, 512GB SSD, Fingerprint Reader, Windows 11 Pro, Office & Media Software Suite",
-   "brand": "Lenovo",
-   "price": 319,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/lenovo-thinkpad-x1-yoga-gen-3-14-touch-display-intel-core-i7-8650u-16gb-ram-512gb-ssd-fingerprint-reader-windows-11-pro-office-media-software-suite",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-X1-Yoga-G3-1_c430f0bd-27be-4ec3-a0f6-909542634193.png?v=1770990672",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 319
-    },
-    {
-     "d": "2026-10-31",
-     "p": 319
-    },
-    {
-     "d": "2026-11-01",
-     "p": 319
-    },
-    {
-     "d": "2026-11-02",
-     "p": 319
-    },
-    {
-     "d": "2026-11-03",
-     "p": 319
-    },
-    {
-     "d": "2026-11-05",
-     "p": 319
-    },
-    {
-     "d": "2026-11-06",
-     "p": 319
-    },
-    {
-     "d": "2026-11-07",
-     "p": 319
-    },
-    {
-     "d": "2026-11-08",
-     "p": 319
-    },
-    {
-     "d": "2026-11-09",
-     "p": 319
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "r-lenovo-thinkpad-t580-15-6-zoll-1920x1080-full-hd-intel-core-",
    "cat": "Laptops",
    "name": "Lenovo ThinkPad T580 15,6 Zoll 1920x1080 Full HD Intel Core i5 256GB SSD 8GB Windows 11 Pro Webcam",
@@ -5058,6 +5022,45 @@
     },
     {
      "d": "2026-11-11",
+     "p": 329
+    },
+    {
+     "d": "2026-11-12",
+     "p": 329
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "r-hp-elitebook-x360-1030-g3-13-3-touch-display-intel-core-i7-8",
+   "cat": "Laptops",
+   "name": "HP EliteBook x360 1030 G3, 13,3” Touch Display, Intel Core i7 8650U, 8GB RAM, 512GB SSD, Fingerprint Reader, Windows 11 Pro",
+   "brand": "HP",
+   "price": 329,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/hp-elitebook-x360-1030-g3-13-3-touch-display-intel-core-i7-8650u-8gb-ram-512gb-ssd-fingerprint-reader-windows-11-pro",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-x360-1030-G3-0_3bc1fd67-b077-4795-af8e-1103c5bcc9c4.jpg?v=1745584834",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 329
+    },
+    {
+     "d": "2026-10-31",
+     "p": 329
+    },
+    {
+     "d": "2026-11-06",
+     "p": 329
+    },
+    {
+     "d": "2026-11-07",
+     "p": 329
+    },
+    {
+     "d": "2026-11-08",
      "p": 329
     },
     {
@@ -5815,6 +5818,10 @@
     },
     {
      "d": "2026-11-11",
+     "p": 329
+    },
+    {
+     "d": "2026-11-12",
      "p": 329
     }
    ],
@@ -6824,65 +6831,6 @@
     },
     {
      "d": "2026-11-12",
-     "p": 339
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-hp-elitebook-850-g6-15-6-fhd-display-intel-core-i5-8265u-8gb",
-   "cat": "Laptops",
-   "name": "HP EliteBook 850 G6, 15,6” FHD Display, Intel Core i5 8265U, 8GB RAM, 256GB SSD, Webcam, Windows 11 Pro Webcam, ESET Internet Security",
-   "brand": "HP",
-   "price": 339,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/hp-elitebook-850-g6-15-6-zoll-1920x1080-full-hd-intel-core-i5-256gb-ssd-8gb-windows-11-pro-webcam-kopie",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-850-G6-0_cbf01808-7051-4f21-a80b-b1c3c05a1f18.jpg?v=1770991815",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 339
-    },
-    {
-     "d": "2026-10-31",
-     "p": 339
-    },
-    {
-     "d": "2026-11-01",
-     "p": 339
-    },
-    {
-     "d": "2026-11-02",
-     "p": 339
-    },
-    {
-     "d": "2026-11-03",
-     "p": 339
-    },
-    {
-     "d": "2026-11-04",
-     "p": 339
-    },
-    {
-     "d": "2026-11-05",
-     "p": 339
-    },
-    {
-     "d": "2026-11-06",
-     "p": 339
-    },
-    {
-     "d": "2026-11-07",
-     "p": 339
-    },
-    {
-     "d": "2026-11-08",
-     "p": 339
-    },
-    {
-     "d": "2026-11-09",
      "p": 339
     }
    ],
@@ -18613,63 +18561,23 @@
    "firstSeen": "2026-11-09"
   },
   {
-   "id": "r-dell-ultrasharp-u3421we-34-uwqhd-3440x1440-display-hdmi-disp",
-   "cat": "Monitore",
-   "name": "Dell UltraSharp U3421WE, 34” UWQHD 3440x1440 Display, HDMI, DisplayPort, USB-C",
+   "id": "r-dell-optiplex-7060-micro-intel-core-i5-8500-16gb-ram-256gb-s",
+   "cat": "PCs & Workstations",
+   "name": "Dell OptiPlex 7060 Micro, Intel Core i5 8500, 16GB RAM, 256GB SSD, W-Lan, Bluetooth, Windows 11 Pro, ESET Internet Security",
    "brand": "Dell",
-   "price": 429,
+   "price": 419,
    "ship": null,
    "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/dell-ultrasharp-u3421we-34-1-zoll-uwqhd-3440x1440-hdmi-displayport-hohenverstellbar-schwarz-silber",
+   "url": "https://it-versand.com/products/dell-optiplex-7060-micro-intel-core-i5-8500-8gb-ram-256gb-ssd-windows-11-pro-kopie",
    "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-UltraSharp-U3421WE-1.png?v=1770990556",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Optiplex-7060-Micro-0_f9457439-5875-4c2d-b19f-f1817f163ba0.jpg?v=1770991452",
    "hist": [
     {
-     "d": "2026-10-30",
-     "p": 429
-    },
-    {
-     "d": "2026-10-31",
-     "p": 429
-    },
-    {
-     "d": "2026-11-01",
-     "p": 429
-    },
-    {
-     "d": "2026-11-02",
-     "p": 429
-    },
-    {
-     "d": "2026-11-03",
-     "p": 429
-    },
-    {
-     "d": "2026-11-04",
-     "p": 429
-    },
-    {
-     "d": "2026-11-05",
-     "p": 429
-    },
-    {
-     "d": "2026-11-06",
-     "p": 429
-    },
-    {
-     "d": "2026-11-07",
-     "p": 429
-    },
-    {
-     "d": "2026-11-08",
-     "p": 429
-    },
-    {
-     "d": "2026-11-09",
-     "p": 429
+     "d": "2026-11-12",
+     "p": 419
     }
    ],
-   "firstSeen": "2026-10-30"
+   "firstSeen": "2026-11-12"
   },
   {
    "id": "r-lenovo-thinkcentre-m720q-tiny-intel-core-i7-8700-16gb-ram-25",
@@ -22442,6 +22350,25 @@
     }
    ],
    "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "r-dell-optiplex-7080-micro-intel-core-i3-10100-16gb-ram-512gb-",
+   "cat": "PCs & Workstations",
+   "name": "Dell OptiPlex 7080 Micro, Intel Core i3 10100, 16GB RAM, 512GB SSD, Wi-Fi, Bluetooth, Windows 11 Pro, ESET Internet Security",
+   "brand": "Dell",
+   "price": 449,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/dell-optiplex-7080-micro-intel-core-i3-10100-16gb-ram-512gb-ssd-wi-fi-bluetooth-windows-11-pro-eset-internet-security-kopie",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Optiplex-7080-Micro-1.png?v=1770990671",
+   "hist": [
+    {
+     "d": "2026-11-12",
+     "p": 449
+    }
+   ],
+   "firstSeen": "2026-11-12"
   },
   {
    "id": "r-lenovo-thinkpad-l14-gen-2-14-fhd-display-intel-core-i5-1145g",
@@ -27358,6 +27285,60 @@
    "firstSeen": "2026-11-04"
   },
   {
+   "id": "r-dell-latitude-5520-15-6-zoll-1920x1080-full-hd-intel-core-i5",
+   "cat": "Laptops",
+   "name": "Dell Latitude 5520 15,6 Zoll 1920x1080 Full HD Intel Core i5 512GB SSD 16GB Windows 11 Pro Fingerprint",
+   "brand": "Dell",
+   "price": 488.99,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/dell-latitude-5520-15-6-zoll-1920x1080-full-hd-intel-core-i5-512gb-ssd-16gb-windows-11-pro-fingerprint-1",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Latitude-5520-1_0655c9ec-2c2f-4dea-99fd-64250c77bced.png?v=1770990675",
+   "hist": [
+    {
+     "d": "2026-11-10",
+     "p": 599
+    },
+    {
+     "d": "2026-11-11",
+     "p": 599
+    },
+    {
+     "d": "2026-11-12",
+     "p": 488.99
+    }
+   ],
+   "firstSeen": "2026-11-10"
+  },
+  {
+   "id": "r-dell-latitude-5520-15-6-zoll-1920x1080-full-hd-intel-core-i5",
+   "cat": "Laptops",
+   "name": "Dell Latitude 5520 15,6 Zoll 1920x1080 Full HD Intel Core i5 512GB SSD 16GB Windows 11 Pro Fingerprint",
+   "brand": "Dell",
+   "price": 488.99,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/dell-latitude-5520-15-6-zoll-1920x1080-full-hd-intel-core-i5-512gb-ssd-16gb-windows-11-pro-fingerprint-kopie",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Latitude-5520-1_0655c9ec-2c2f-4dea-99fd-64250c77bced.png?v=1770990675",
+   "hist": [
+    {
+     "d": "2026-11-10",
+     "p": 599
+    },
+    {
+     "d": "2026-11-11",
+     "p": 599
+    },
+    {
+     "d": "2026-11-12",
+     "p": 488.99
+    }
+   ],
+   "firstSeen": "2026-11-10"
+  },
+  {
    "id": "r-dell-optiplex-7080-micro-intel-core-i5-10500t-16gb-ram-512gb",
    "cat": "PCs & Workstations",
    "name": "Dell OptiPlex 7080 Micro, Intel Core i5 10500T, 16GB RAM, 512GB SSD, Windows 11 Pro",
@@ -29817,6 +29798,25 @@
    "firstSeen": "2026-11-10"
   },
   {
+   "id": "r-lenovo-thinkpad-t15-gen-1-15-6-fhd-display-intel-core-i5-103",
+   "cat": "Laptops",
+   "name": "Lenovo ThinkPad T15 Gen 1, 15,6” FHD Display, Intel Core i5 10310U, 16GB RAM, 256GB SSD, LTE 4G, Windows 11 Pro",
+   "brand": "Lenovo",
+   "price": 499,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkpad-t15-gen-1-15-6-fhd-display-intel-core-i5-10310u-16gb-ram-256gb-ssd-lte-4g-windows-11-pro-norton-internet-security-2",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-T15-G1-2_76a3150f-177d-4ece-8559-7f31c6746b4c.jpg?v=1770990673",
+   "hist": [
+    {
+     "d": "2026-11-12",
+     "p": 499
+    }
+   ],
+   "firstSeen": "2026-11-12"
+  },
+  {
    "id": "r-hp-elitedesk-800-g6-desktop-mini-intel-six-core-i5-256gb-ssd",
    "cat": "PCs & Workstations",
    "name": "HP EliteDesk 800 G6 Desktop Mini Intel Six Core i5 256GB SSD 16GB Windows 11 Pro inkl. W-Lan",
@@ -32051,53 +32051,6 @@
     },
     {
      "d": "2026-11-12",
-     "p": 529
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-hp-prodesk-600-g6-desktop-mini-intel-core-i5-10600t-512gb-ss",
-   "cat": "PCs & Workstations",
-   "name": "HP ProDesk 600 G6 Desktop Mini Intel Core i5-10600T 512GB SSD 16GB Windows 11 Pro",
-   "brand": "HP",
-   "price": 529,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/hp-prodesk-600-g6-desktop-mini-intel-core-i5-10600t-512gb-ssd-16gb-windows-11-pro-2",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-ProDesk-600-G6-DM-1_2f6f4534-af6c-4848-aafe-caff51cf43bb.png?v=1770990975",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 499
-    },
-    {
-     "d": "2026-10-31",
-     "p": 499
-    },
-    {
-     "d": "2026-11-01",
-     "p": 499
-    },
-    {
-     "d": "2026-11-02",
-     "p": 499
-    },
-    {
-     "d": "2026-11-06",
-     "p": 529
-    },
-    {
-     "d": "2026-11-07",
-     "p": 529
-    },
-    {
-     "d": "2026-11-08",
-     "p": 529
-    },
-    {
-     "d": "2026-11-09",
      "p": 529
     }
    ],
@@ -34729,6 +34682,25 @@
    "firstSeen": "2026-11-09"
   },
   {
+   "id": "r-dell-latitude-5520-15-6-fhd-display-intel-core-i5-1145g7-16g",
+   "cat": "Laptops",
+   "name": "Dell Latitude 5520, 15,6” FHD Display, Intel Core i5 1145G7, 16GB RAM, 512GB SSD, Webcam, Windows 11 Pro, ESET Internet Security",
+   "brand": "Dell",
+   "price": 539,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/dell-latitude-5520-15-6-fhd-display-intel-core-i5-1145g7-16gb-ram-512gb-ssd-webcam-windows-11-pro-eset-internet-security-kopie",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Latitude-5520-1_684e122d-bf64-4ec6-80ff-dba6d23816f9.png?v=1770992113",
+   "hist": [
+    {
+     "d": "2026-11-12",
+     "p": 539
+    }
+   ],
+   "firstSeen": "2026-11-12"
+  },
+  {
    "id": "r-lenovo-thinkcentre-m70q-tiny-intel-core-i5-10400t-16gb-ram-2",
    "cat": "PCs & Workstations",
    "name": "Lenovo ThinkCentre M70q Tiny, Intel Core i5 10400T, 16GB RAM, 256GB SSD, Windows 11 Pro",
@@ -36341,65 +36313,6 @@
     {
      "d": "2026-11-12",
      "p": 549.01
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-dell-optiplex-5090-micro-intel-core-i7-11700t-16gb-ram-256-g",
-   "cat": "PCs & Workstations",
-   "name": "Dell OptiPlex 5090 Micro, Intel Core i7 11700T, 16GB RAM, 256 GB SSD, Windows 11 Pro",
-   "brand": "Dell",
-   "price": 559,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/dell-optiplex-5090-micro-intel-core-i7-11700t-16gb-ram-512gb-ssd-windows-11-pro",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Optiplex-5090-Micro-1.png?v=1770990553",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 559
-    },
-    {
-     "d": "2026-10-31",
-     "p": 559
-    },
-    {
-     "d": "2026-11-01",
-     "p": 559
-    },
-    {
-     "d": "2026-11-02",
-     "p": 559
-    },
-    {
-     "d": "2026-11-03",
-     "p": 559
-    },
-    {
-     "d": "2026-11-04",
-     "p": 559
-    },
-    {
-     "d": "2026-11-05",
-     "p": 559
-    },
-    {
-     "d": "2026-11-06",
-     "p": 559
-    },
-    {
-     "d": "2026-11-07",
-     "p": 559
-    },
-    {
-     "d": "2026-11-08",
-     "p": 559
-    },
-    {
-     "d": "2026-11-09",
-     "p": 559
     }
    ],
    "firstSeen": "2026-10-30"
@@ -41353,60 +41266,6 @@
    "firstSeen": "2026-11-09"
   },
   {
-   "id": "r-dell-latitude-5520-15-6-zoll-1920x1080-full-hd-intel-core-i5",
-   "cat": "Laptops",
-   "name": "Dell Latitude 5520 15,6 Zoll 1920x1080 Full HD Intel Core i5 512GB SSD 16GB Windows 11 Pro Fingerprint",
-   "brand": "Dell",
-   "price": 599,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/dell-latitude-5520-15-6-zoll-1920x1080-full-hd-intel-core-i5-512gb-ssd-16gb-windows-11-pro-fingerprint-1",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Latitude-5520-1_0655c9ec-2c2f-4dea-99fd-64250c77bced.png?v=1770990675",
-   "hist": [
-    {
-     "d": "2026-11-10",
-     "p": 599
-    },
-    {
-     "d": "2026-11-11",
-     "p": 599
-    },
-    {
-     "d": "2026-11-12",
-     "p": 599
-    }
-   ],
-   "firstSeen": "2026-11-10"
-  },
-  {
-   "id": "r-dell-latitude-5520-15-6-zoll-1920x1080-full-hd-intel-core-i5",
-   "cat": "Laptops",
-   "name": "Dell Latitude 5520 15,6 Zoll 1920x1080 Full HD Intel Core i5 512GB SSD 16GB Windows 11 Pro Fingerprint",
-   "brand": "Dell",
-   "price": 599,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/dell-latitude-5520-15-6-zoll-1920x1080-full-hd-intel-core-i5-512gb-ssd-16gb-windows-11-pro-fingerprint-kopie",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Latitude-5520-1_0655c9ec-2c2f-4dea-99fd-64250c77bced.png?v=1770990675",
-   "hist": [
-    {
-     "d": "2026-11-10",
-     "p": 599
-    },
-    {
-     "d": "2026-11-11",
-     "p": 599
-    },
-    {
-     "d": "2026-11-12",
-     "p": 599
-    }
-   ],
-   "firstSeen": "2026-11-10"
-  },
-  {
    "id": "r-fujitsu-esprimo-p9010-intel-core-i5-10600-512gb-ssd-16gb-win",
    "cat": "PCs & Workstations",
    "name": "Fujitsu Esprimo P9010 Intel Core i5-10600 512GB SSD 16GB Windows 11 Pro DVD Brenner",
@@ -43508,6 +43367,25 @@
    "firstSeen": "2026-11-03"
   },
   {
+   "id": "r-lenovo-thinkpad-x1-yoga-gen-6-14-touch-display-intel-core-i7",
+   "cat": "Laptops",
+   "name": "Lenovo ThinkPad X1 Yoga Gen 6, 14” Touch Display, Intel Core i7 1185G7, 32GB RAM, 512GB SSD, Fingerprint Reader, LTE 4G, Windows 11 Pro, Dark Gray, Office & Media Software Suite",
+   "brand": "Lenovo",
+   "price": 619,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkpad-x1-yoga-gen-6-14-zoll-touch-display-intel-core-i7-512gb-ssd-32gb-windows-11-pro-lte-dark-gray",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-X1-Yoga-Gen-6-2_d0a8ba11-75ad-4de5-9899-359980c70f23.jpg?v=1770991394",
+   "hist": [
+    {
+     "d": "2026-11-12",
+     "p": 619
+    }
+   ],
+   "firstSeen": "2026-11-12"
+  },
+  {
    "id": "r-hp-elitebook-840-g7-14-zoll-1920x1080-full-hd-intel-core-i7-",
    "cat": "Laptops",
    "name": "HP EliteBook 840 G7 14 Zoll 1920x1080 Full HD Intel Core i7 512GB SSD 32GB Windows 11 Pro Fingerprint",
@@ -44474,6 +44352,77 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "r-lenovo-thinkpad-x13-yoga-gen-2-13-3-zoll-touch-display-intel",
+   "cat": "Laptops",
+   "name": "Lenovo ThinkPad X13 Yoga Gen 2 13,3 Zoll Touch Display Intel Core i7 1TB SSD 16GB Windows 11 Pro LTE Fingerprint",
+   "brand": "Lenovo",
+   "price": 649,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkpad-x13-yoga-gen-2-13-3-zoll-touch-display-intel-core-i7-1tb-ssd-16gb-windows-11-pro-lte-fingerprint-1",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-X13-Yoga-G2-2.png?v=1770990557",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 649
+    },
+    {
+     "d": "2026-10-31",
+     "p": 649
+    },
+    {
+     "d": "2026-11-01",
+     "p": 649
+    },
+    {
+     "d": "2026-11-02",
+     "p": 649
+    },
+    {
+     "d": "2026-11-03",
+     "p": 649
+    },
+    {
+     "d": "2026-11-04",
+     "p": 649
+    },
+    {
+     "d": "2026-11-05",
+     "p": 649
+    },
+    {
+     "d": "2026-11-06",
+     "p": 649
+    },
+    {
+     "d": "2026-11-07",
+     "p": 649
+    },
+    {
+     "d": "2026-11-08",
+     "p": 649
+    },
+    {
+     "d": "2026-11-09",
+     "p": 649
+    },
+    {
+     "d": "2026-11-10",
+     "p": 649
+    },
+    {
+     "d": "2026-11-11",
+     "p": 649
+    },
+    {
+     "d": "2026-11-12",
+     "p": 649
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "r-lenovo-thinkpad-t14s-gen-2-14-fhd-display-intel-core-i5-1145",
    "cat": "Laptops",
    "name": "Lenovo ThinkPad T14s Gen 2, 14” FHD Display, Intel Core i5 1145G7, 16GB RAM, 512GB SSD, Fingerprint Reader, Windows 11 Pro, ESET Internet Security",
@@ -44882,57 +44831,6 @@
     },
     {
      "d": "2026-11-09",
-     "p": 659
-    },
-    {
-     "d": "2026-11-10",
-     "p": 659
-    },
-    {
-     "d": "2026-11-11",
-     "p": 659
-    },
-    {
-     "d": "2026-11-12",
-     "p": 659
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-lenovo-thinkpad-x1-yoga-gen-6-14-touch-display-intel-core-i7",
-   "cat": "Laptops",
-   "name": "Lenovo ThinkPad X1 Yoga Gen 6, 14\" Touch Display, Intel Core i7 1185G7, 32GB RAM, 512GB SSD, Webcam, Windows 11 Pro",
-   "brand": "Lenovo",
-   "price": 659,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/lenovo-thinkpad-x1-yoga-gen-6-14-touch-display-intel-core-i7-1185g7-32gb-ram-512gb-ssd-webcam-windows-11-pro-4",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-X1-Yoga-Gen-6-2_f3662243-33ed-4297-b022-a46fa7f209c1.jpg?v=1770990974",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 659
-    },
-    {
-     "d": "2026-10-31",
-     "p": 659
-    },
-    {
-     "d": "2026-11-01",
-     "p": 659
-    },
-    {
-     "d": "2026-11-02",
-     "p": 659
-    },
-    {
-     "d": "2026-11-03",
-     "p": 659
-    },
-    {
-     "d": "2026-11-04",
      "p": 659
     },
     {
@@ -46030,6 +45928,57 @@
     {
      "d": "2026-11-12",
      "p": 679
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "r-lenovo-thinkpad-x1-yoga-gen-6-14-touch-display-intel-core-i7",
+   "cat": "Laptops",
+   "name": "Lenovo ThinkPad X1 Yoga Gen 6, 14\" Touch Display, Intel Core i7 1185G7, 32GB RAM, 512GB SSD, Webcam, Windows 11 Pro",
+   "brand": "Lenovo",
+   "price": 679,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkpad-x1-yoga-gen-6-14-touch-display-intel-core-i7-1185g7-32gb-ram-512gb-ssd-webcam-windows-11-pro-4",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-X1-Yoga-Gen-6-2_f3662243-33ed-4297-b022-a46fa7f209c1.jpg?v=1770990974",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 659
+    },
+    {
+     "d": "2026-10-31",
+     "p": 659
+    },
+    {
+     "d": "2026-11-01",
+     "p": 659
+    },
+    {
+     "d": "2026-11-02",
+     "p": 659
+    },
+    {
+     "d": "2026-11-03",
+     "p": 659
+    },
+    {
+     "d": "2026-11-04",
+     "p": 659
+    },
+    {
+     "d": "2026-11-10",
+     "p": 659
+    },
+    {
+     "d": "2026-11-11",
+     "p": 659
+    },
+    {
+     "d": "2026-11-12",
+     "p": 659
     }
    ],
    "firstSeen": "2026-10-30"
@@ -47729,65 +47678,6 @@
    "firstSeen": "2026-11-03"
   },
   {
-   "id": "r-lenovo-thinkpad-x1-carbon-gen-8-14-zoll-1920x1080-full-hd-in",
-   "cat": "Laptops",
-   "name": "Lenovo ThinkPad X1 Carbon Gen 8 14 Zoll 1920x1080 Full HD Intel Core i7 1TB SSD 16GB Windows 11 Pro",
-   "brand": "Lenovo",
-   "price": 719.01,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/lenovo-thinkpad-x1-carbon-gen-8-14-zoll-1920x1080-full-hd-intel-core-i7-1tb-ssd-16gb-windows-11-pro",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-X1-Carbon-G8-1_29d67322-1089-4086-bd4b-16e13494ed21.png?v=1770990855",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 719.01
-    },
-    {
-     "d": "2026-10-31",
-     "p": 719.01
-    },
-    {
-     "d": "2026-11-01",
-     "p": 719.01
-    },
-    {
-     "d": "2026-11-02",
-     "p": 719.01
-    },
-    {
-     "d": "2026-11-03",
-     "p": 719.01
-    },
-    {
-     "d": "2026-11-04",
-     "p": 719.01
-    },
-    {
-     "d": "2026-11-05",
-     "p": 719.01
-    },
-    {
-     "d": "2026-11-06",
-     "p": 719.01
-    },
-    {
-     "d": "2026-11-07",
-     "p": 719.01
-    },
-    {
-     "d": "2026-11-08",
-     "p": 719.01
-    },
-    {
-     "d": "2026-11-09",
-     "p": 719.01
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "r-hp-elite-mini-800-g9-intel-core-i5-13500t-16gb-ram-512gb-ssd",
    "cat": "PCs & Workstations",
    "name": "HP Elite Mini 800 G9, Intel Core i5 13500T, 16GB RAM, 512GB SSD, Windows 11 Pro",
@@ -49227,77 +49117,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "r-lenovo-thinkpad-x13-yoga-gen-2-13-3-zoll-touch-display-intel",
-   "cat": "Laptops",
-   "name": "Lenovo ThinkPad X13 Yoga Gen 2 13,3 Zoll Touch Display Intel Core i7 1TB SSD 16GB Windows 11 Pro LTE Fingerprint",
-   "brand": "Lenovo",
-   "price": 769,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/lenovo-thinkpad-x13-yoga-gen-2-13-3-zoll-touch-display-intel-core-i7-1tb-ssd-16gb-windows-11-pro-lte-fingerprint-1",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-X13-Yoga-G2-2.png?v=1770990557",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 649
-    },
-    {
-     "d": "2026-10-31",
-     "p": 649
-    },
-    {
-     "d": "2026-11-01",
-     "p": 649
-    },
-    {
-     "d": "2026-11-02",
-     "p": 649
-    },
-    {
-     "d": "2026-11-03",
-     "p": 649
-    },
-    {
-     "d": "2026-11-04",
-     "p": 649
-    },
-    {
-     "d": "2026-11-05",
-     "p": 649
-    },
-    {
-     "d": "2026-11-06",
-     "p": 649
-    },
-    {
-     "d": "2026-11-07",
-     "p": 649
-    },
-    {
-     "d": "2026-11-08",
-     "p": 649
-    },
-    {
-     "d": "2026-11-09",
-     "p": 649
-    },
-    {
-     "d": "2026-11-10",
-     "p": 649
-    },
-    {
-     "d": "2026-11-11",
-     "p": 649
-    },
-    {
-     "d": "2026-11-12",
-     "p": 769
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "r-dell-optiplex-7000-micro-intel-core-i5-12600-16gb-ram-512gb-",
    "cat": "PCs & Workstations",
    "name": "Dell OptiPlex 7000 Micro, Intel Core i5 12600, 16GB RAM, 512GB SSD, Windows 11 Pro",
@@ -49891,6 +49710,25 @@
     }
    ],
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "r-dell-optiplex-7000-micro-intel-core-i7-12700t-32gb-ram-1tb-s",
+   "cat": "PCs & Workstations",
+   "name": "Dell OptiPlex 7000 Micro, Intel Core i7 12700T, 32GB RAM, 1TB SSD, Wi-Fi, Bluetooth, Windows 11 Pro, ESET Internet Security",
+   "brand": "Dell",
+   "price": 819.01,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/dell-optiplex-7000-micro-intel-core-i7-12700t-32gb-ram-1tb-ssd-wi-fi-bluetooth-windows-11-pro-eset-internet-security-kopie",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-OptiPlex-7000-Micro-1.jpg?v=1781784543",
+   "hist": [
+    {
+     "d": "2026-11-12",
+     "p": 819.01
+    }
+   ],
+   "firstSeen": "2026-11-12"
   },
   {
    "id": "r-lenovo-thinkcentre-m70q-gen-3-tiny-intel-core-i5-12400t-16gb",
