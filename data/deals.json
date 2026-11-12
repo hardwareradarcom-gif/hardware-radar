@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T06:33:08.871Z",
+ "updated": "2026-11-12T08:22:34.312Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1451,6 +1451,10 @@
     {
      "d": "2026-11-09",
      "p": 59.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 59.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -1821,6 +1825,10 @@
     {
      "d": "2026-11-09",
      "p": 92.94
+    },
+    {
+     "d": "2026-11-12",
+     "p": 92.94
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -2052,8 +2060,8 @@
    "price": 59.9,
    "ref": 74.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/hyte-x50-midi-tower-snow-white/GEHY-053.html",
-   "url": "https://www.caseking.de/hyte-x50-midi-tower-snow-white/GEHY-053.html",
+   "shopUrl": "https://www.caseking.de/en/hyte-x50-midi-tower-snow-white/GEHY-053.html",
+   "url": "https://www.caseking.de/en/hyte-x50-midi-tower-snow-white/GEHY-053.html",
    "note": "20 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -2086,6 +2094,10 @@
     },
     {
      "d": "2026-11-11",
+     "p": 59.9
+    },
+    {
+     "d": "2026-11-12",
      "p": 59.9
     }
    ],
@@ -2668,49 +2680,61 @@
    "source": "crawler"
   },
   {
-   "id": "c-lexar-nm610-pro-nvme-ssd-pcie-3-0-m-2-typ-2280-500-gb",
-   "name": "Lexar NM610 Pro NVMe SSD, PCIe 3.0 M.2 Typ 2280 - 500 GB",
-   "cat": "SSDs",
-   "price": 84.9,
-   "ref": 98.76,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/lexar-nm610-pro-nvme-ssd-pcie-3.0-m.2-type-2280-500-gb/SSLX-021.html",
-   "url": "https://www.caseking.de/en/lexar-nm610-pro-nvme-ssd-pcie-3.0-m.2-type-2280-500-gb/SSLX-021.html",
+   "id": "c-noctua-nh-d12l-chromax-black-cpu-kuhler",
+   "name": "Noctua NH-D12L chromax.black, CPU-Kühler",
+   "cat": "Kühlung",
+   "price": 94.9,
+   "ref": 109.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/Noctua/Noctua-NH-D12L-chromax-black-CPU-K%C3%BChler/html/product/100229212",
+   "url": "https://www.alternate.de/Noctua/Noctua-NH-D12L-chromax-black-CPU-K%C3%BChler/html/product/100229212",
    "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
-     "d": "2026-10-30",
-     "p": 98.76
-    },
-    {
-     "d": "2026-10-31",
-     "p": 98.76
-    },
-    {
-     "d": "2026-11-02",
-     "p": 98.76
-    },
-    {
      "d": "2026-11-03",
-     "p": 98.76
+     "p": 109.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 109.9
     },
     {
      "d": "2026-11-05",
-     "p": 98.76
+     "p": 109.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 109.9
     },
     {
      "d": "2026-11-07",
-     "p": 98.76
+     "p": 94.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 94.9
     },
     {
      "d": "2026-11-09",
-     "p": 84.9
+     "p": 94.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 94.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 109.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 94.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
    "seen": "2026-11-12",
    "updated": "2026-11-12",
-   "tags": "ssds nvme 500 gb lexar nm610 pro nvme ssd pcie typ 2280 500",
+   "tags": "kuhlung luftkuhler noctua d12l chromax black cpu kuhler",
    "source": "crawler"
   },
   {
@@ -2964,52 +2988,6 @@
    "source": "crawler"
   },
   {
-   "id": "c-eizo-flexscan-ev2495-wt-mit-flexstand-led-monitor-61-1-cm-24",
-   "name": "EIZO FlexScan EV2495-WT - Mit FlexStand - LED-Monitor - 61.1 cm (24.1\") - 1920 x 1200 - IPS - 350 cd/m² - 1000:1 - 5 ms - HDMI, DisplayPort, USB-C - Lautsprecher - weiß [Energieklasse C]",
-   "cat": "Monitore",
-   "price": 474.69,
-   "ref": 535.3,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/eizo-flexscan-ev2495-wt-mit-flexstand-led-monitor-61-1-cm-24-1-1920-x-1200-ips-350-cd-m2-1000-1-5-ms-hdmi-displayport-usb-c-lautsprecher-weiss-energieklasse-c-6795091/",
-   "url": "https://www.jacob.de/produkt/eizo-flexscan-ev2495-wt-mit-flexstand-led-monitor-61-1-cm-24-1-1920-x-1200-ips-350-cd-m2-1000-1-5-ms-hdmi-displayport-usb-c-lautsprecher-weiss-energieklasse-c-6795091/",
-   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 535.3
-    },
-    {
-     "d": "2026-10-31",
-     "p": 535.3
-    },
-    {
-     "d": "2026-11-01",
-     "p": 535.3
-    },
-    {
-     "d": "2026-11-02",
-     "p": 535.3
-    },
-    {
-     "d": "2026-11-04",
-     "p": 535.3
-    },
-    {
-     "d": "2026-11-07",
-     "p": 535.3
-    },
-    {
-     "d": "2026-11-09",
-     "p": 474.69
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-12",
-   "updated": "2026-11-12",
-   "tags": "monitore 24,1\" eizo flexscan ev2495 mit flexstand led monitor 1920 1200 ips 350 1000 hdmi displayport usb lautsprecher",
-   "source": "crawler"
-  },
-  {
    "id": "c-dell-plus-s2725qs-27-3840-x-2160-ips-monitor-silber",
    "name": "Dell Plus S2725QS 27\" 3840 x 2160 IPS Monitor Silber",
    "cat": "Monitore",
@@ -3057,6 +3035,56 @@
    "seen": "2026-11-12",
    "updated": "2026-11-12",
    "tags": "monitore 27\" dell plus s2725qs 3840 2160 ips monitor silber",
+   "source": "crawler"
+  },
+  {
+   "id": "c-eizo-flexscan-ev2495-wt-mit-flexstand-led-monitor-61-1-cm-24",
+   "name": "EIZO FlexScan EV2495-WT - Mit FlexStand - LED-Monitor - 61.1 cm (24.1\") - 1920 x 1200 - IPS - 350 cd/m² - 1000:1 - 5 ms - HDMI, DisplayPort, USB-C - Lautsprecher - weiß [Energieklasse C]",
+   "cat": "Monitore",
+   "price": 475.64,
+   "ref": 535.3,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/eizo-flexscan-ev2495-wt-mit-flexstand-led-monitor-61-1-cm-24-1-1920-x-1200-ips-350-cd-m2-1000-1-5-ms-hdmi-displayport-usb-c-lautsprecher-weiss-energieklasse-c-6795091/",
+   "url": "https://www.jacob.de/produkt/eizo-flexscan-ev2495-wt-mit-flexstand-led-monitor-61-1-cm-24-1-1920-x-1200-ips-350-cd-m2-1000-1-5-ms-hdmi-displayport-usb-c-lautsprecher-weiss-energieklasse-c-6795091/",
+   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 535.3
+    },
+    {
+     "d": "2026-10-31",
+     "p": 535.3
+    },
+    {
+     "d": "2026-11-01",
+     "p": 535.3
+    },
+    {
+     "d": "2026-11-02",
+     "p": 535.3
+    },
+    {
+     "d": "2026-11-04",
+     "p": 535.3
+    },
+    {
+     "d": "2026-11-07",
+     "p": 535.3
+    },
+    {
+     "d": "2026-11-09",
+     "p": 474.69
+    },
+    {
+     "d": "2026-11-12",
+     "p": 475.64
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-12",
+   "updated": "2026-11-12",
+   "tags": "monitore 24,1\" eizo flexscan ev2495 mit flexstand led monitor 1920 1200 ips 350 1000 hdmi displayport usb lautsprecher",
    "source": "crawler"
   },
   {
