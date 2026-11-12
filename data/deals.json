@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T14:23:46.628Z",
+ "updated": "2026-11-12T16:04:28.835Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -2558,64 +2558,6 @@
    "source": "crawler"
   },
   {
-   "id": "c-arctic-freezer-36-cpu-kuhler",
-   "name": "ARCTIC Freezer 36, CPU-Kühler",
-   "cat": "Kühlung",
-   "price": 22.99,
-   "ref": 26.9,
-   "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/ARCTIC/Freezer-36-CPU-K%C3%BChler/html/product/100228826",
-   "url": "https://www.alternate.de/ARCTIC/Freezer-36-CPU-K%C3%BChler/html/product/100228826",
-   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-03",
-     "p": 26.9
-    },
-    {
-     "d": "2026-11-04",
-     "p": 26.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 26.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 22.99
-    },
-    {
-     "d": "2026-11-07",
-     "p": 22.99
-    },
-    {
-     "d": "2026-11-08",
-     "p": 26.9
-    },
-    {
-     "d": "2026-11-09",
-     "p": 22.99
-    },
-    {
-     "d": "2026-11-10",
-     "p": 22.99
-    },
-    {
-     "d": "2026-11-11",
-     "p": 26.9
-    },
-    {
-     "d": "2026-11-12",
-     "p": 22.99
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-12",
-   "updated": "2026-11-12",
-   "tags": "kuhlung luftkuhler arctic freezer cpu kuhler",
-   "source": "crawler"
-  },
-  {
    "id": "c-asus-prime-b760-plus-d4-mainboard-lga-1700-intel-b760-atx-dd",
    "name": "ASUS PRIME B760-PLUS D4 Mainboard LGA 1700 Intel B760 ATX DDR4",
    "cat": "Mainboards",
@@ -3216,6 +3158,52 @@
    "source": "crawler"
   },
   {
+   "id": "c-amd-ryzen-7-5800x-3-8-ghz-8-kerne-32-mb-cache",
+   "name": "AMD Ryzen 7 5800X 3.8 GHz 8 Kerne 32 MB Cache",
+   "cat": "Prozessoren",
+   "price": 201.67,
+   "ref": 226.71,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/amd-ryzen-7-5800x-3-8-ghz-8-kerne-32-mb-cache-6850186/",
+   "url": "https://www.jacob.de/produkt/amd-ryzen-7-5800x-3-8-ghz-8-kerne-32-mb-cache-6850186/",
+   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 226.71
+    },
+    {
+     "d": "2026-11-01",
+     "p": 226.71
+    },
+    {
+     "d": "2026-11-03",
+     "p": 232.85
+    },
+    {
+     "d": "2026-11-05",
+     "p": 232.85
+    },
+    {
+     "d": "2026-11-07",
+     "p": 219.95
+    },
+    {
+     "d": "2026-11-10",
+     "p": 202.94
+    },
+    {
+     "d": "2026-11-12",
+     "p": 201.67
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-12",
+   "updated": "2026-11-12",
+   "tags": "prozessoren am4 amd ryzen 5800x ghz kerne cache",
+   "source": "crawler"
+  },
+  {
    "id": "c-lg-ultragear-g-27g610a-b-27-zoll-wqhd-gaming-monitor-200hz-i",
    "name": "LG UltraGear G 27G610A-B 27 Zoll WQHD Gaming-Monitor, 200Hz, IPS, FreeSync Premium",
    "cat": "Monitore",
@@ -3359,48 +3347,6 @@
    "seen": "2026-11-12",
    "updated": "2026-11-12",
    "tags": "monitore 27\" asus rog strix oled xg27aqng led monitor wqhd hdmi schwarz 90lm0ch0 b01971",
-   "source": "crawler"
-  },
-  {
-   "id": "c-amd-ryzen-7-5800x-3-8-ghz-8-kerne-32-mb-cache",
-   "name": "AMD Ryzen 7 5800X 3.8 GHz 8 Kerne 32 MB Cache",
-   "cat": "Prozessoren",
-   "price": 202.94,
-   "ref": 226.71,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/amd-ryzen-7-5800x-3-8-ghz-8-kerne-32-mb-cache-6850186/",
-   "url": "https://www.jacob.de/produkt/amd-ryzen-7-5800x-3-8-ghz-8-kerne-32-mb-cache-6850186/",
-   "note": "10 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-31",
-     "p": 226.71
-    },
-    {
-     "d": "2026-11-01",
-     "p": 226.71
-    },
-    {
-     "d": "2026-11-03",
-     "p": 232.85
-    },
-    {
-     "d": "2026-11-05",
-     "p": 232.85
-    },
-    {
-     "d": "2026-11-07",
-     "p": 219.95
-    },
-    {
-     "d": "2026-11-10",
-     "p": 202.94
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-12",
-   "updated": "2026-11-12",
-   "tags": "prozessoren am4 amd ryzen 5800x ghz kerne cache",
    "source": "crawler"
   }
  ],

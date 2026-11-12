@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T14:23:46.628Z",
+ "updated": "2026-11-12T16:04:28.835Z",
  "products": [
   {
    "id": "r-acer-b246hylbymiprx-23-8-full-hd-1920x1080-display-hdmi-disp",
@@ -10217,6 +10217,25 @@
     }
    ],
    "firstSeen": "2026-11-11"
+  },
+  {
+   "id": "r-hp-elitebook-830-g7-13-3-zoll-1920x1080-full-hd-intel-core-i",
+   "cat": "Laptops",
+   "name": "HP EliteBook 830 G7 13,3 Zoll 1920x1080 Full HD Intel Core i5 256GB SSD 16GB Windows 11 Pro Webcam",
+   "brand": "HP",
+   "price": 359,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/hp-elitebook-830-g7-13-3-zoll-1920x1080-full-hd-intel-core-i5-256gb-ssd-16gb-windows-11-pro-webcam",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-830-G7-1_ef459bc3-a707-42d3-8339-2809c93b15c6.png?v=1770991093",
+   "hist": [
+    {
+     "d": "2026-11-12",
+     "p": 359
+    }
+   ],
+   "firstSeen": "2026-11-12"
   },
   {
    "id": "r-hp-elitedesk-800-g5-desktop-mini-intel-core-i5-9500t-16gb-ra",
@@ -34701,6 +34720,25 @@
    "firstSeen": "2026-11-12"
   },
   {
+   "id": "r-hp-elitebook-x360-1030-g8-13-3-touch-display-intel-core-i7-1",
+   "cat": "Laptops",
+   "name": "HP EliteBook x360 1030 G8, 13,3\" Touch Display, Intel Core i7 1185G7, 16GB RAM, 512GB SSD, Fingerprint Reader, LTE 4G, Windows 11 Pro, ESET Internet Security",
+   "brand": "HP",
+   "price": 539,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/hp-elitebook-x360-1030-g8-13-3-touch-display-intel-core-i7-1185g7-16gb-ram-512gb-ssd-fingerprint-reader-lte-4g-windows-11-pro-eset-internet-security",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-X360-1030-G8-1.jpg?v=1784189709",
+   "hist": [
+    {
+     "d": "2026-11-12",
+     "p": 539
+    }
+   ],
+   "firstSeen": "2026-11-12"
+  },
+  {
    "id": "r-lenovo-thinkcentre-m70q-tiny-intel-core-i5-10400t-16gb-ram-2",
    "cat": "PCs & Workstations",
    "name": "Lenovo ThinkCentre M70q Tiny, Intel Core i5 10400T, 16GB RAM, 256GB SSD, Windows 11 Pro",
@@ -37668,6 +37706,10 @@
     },
     {
      "d": "2026-11-11",
+     "p": 559
+    },
+    {
+     "d": "2026-11-12",
      "p": 559
     }
    ],
@@ -45984,6 +46026,57 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "r-hp-elitebook-x360-1030-g8-13-3-touch-display-intel-core-i7-1",
+   "cat": "Laptops",
+   "name": "HP EliteBook x360 1030 G8, 13,3\" Touch Display, Intel Core i7 1185G7, 16GB RAM, 512GB SSD, Fingerprint Reader, LTE 4G, Windows 11 Pro, ESET Internet Security",
+   "brand": "HP",
+   "price": 679,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/hp-elitebook-x360-1030-g8-13-3-touch-display-intel-core-i7-1185g7-16gb-ram-512gb-ssd-fingerprint-reader-lte-4g-windows-11-pro-eset-internet-security-1",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-X360-1030-G8-1.jpg?v=1784189709",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 679
+    },
+    {
+     "d": "2026-10-31",
+     "p": 679
+    },
+    {
+     "d": "2026-11-01",
+     "p": 679
+    },
+    {
+     "d": "2026-11-02",
+     "p": 679
+    },
+    {
+     "d": "2026-11-03",
+     "p": 679
+    },
+    {
+     "d": "2026-11-04",
+     "p": 679
+    },
+    {
+     "d": "2026-11-05",
+     "p": 679
+    },
+    {
+     "d": "2026-11-06",
+     "p": 679
+    },
+    {
+     "d": "2026-11-12",
+     "p": 679
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "r-hp-elitebook-850-g8-15-6-touch-display-intel-core-i5-1145g7-",
    "cat": "Laptops",
    "name": "HP EliteBook 850 G8, 15,6\" Touch Display, Intel Core i5 1145G7, 16GB RAM, 512GB SSD, Webcam, Windows 11 Pro, ESET Internet Security",
@@ -48480,6 +48573,25 @@
     }
    ],
    "firstSeen": "2026-11-11"
+  },
+  {
+   "id": "r-hp-elitebook-850-g8-15-6-fhd-display-intel-core-i5-1145g7-16",
+   "cat": "Laptops",
+   "name": "HP EliteBook 850 G8, 15,6\" FHD Display, Intel Core i5 1145G7, 16GB RAM, 256GB SSD, Webcam, Windows 11 Pro, ESET Internet Security",
+   "brand": "HP",
+   "price": 729.01,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/hp-elitebook-850-g8-15-6-zoll-1920x1080-full-hd-intel-core-i5-256gb-ssd-16gb-windows-11-pro-webcam-2",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-850-G8-0_1df41914-43eb-4b7a-ba31-4a384d320d28.jpg?v=1770990678",
+   "hist": [
+    {
+     "d": "2026-11-12",
+     "p": 729.01
+    }
+   ],
+   "firstSeen": "2026-11-12"
   },
   {
    "id": "r-hp-zbook-firefly-14-g8-14-fhd-display-intel-core-i7-1185g7-3",
