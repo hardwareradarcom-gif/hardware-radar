@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-12T11:28:23.936Z",
+ "updated": "2026-11-12T12:00:28.481Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1364,6 +1364,80 @@
    "source": "crawler"
   },
   {
+   "id": "c-alphacool-core-1-aurora-black-cpu-kuhler",
+   "name": "Alphacool Core 1 Aurora Black, CPU-Kühler",
+   "cat": "Kühlung",
+   "price": 77.99,
+   "ref": 122.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/Alphacool/Core-1-Aurora-Black-CPU-K%C3%BChler/html/product/100218433",
+   "url": "https://www.alternate.de/Alphacool/Core-1-Aurora-Black-CPU-K%C3%BChler/html/product/100218433",
+   "note": "37 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 122.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 77.99
+    },
+    {
+     "d": "2026-11-07",
+     "p": 77.99
+    },
+    {
+     "d": "2026-11-08",
+     "p": 77.99
+    },
+    {
+     "d": "2026-11-09",
+     "p": 77.99
+    },
+    {
+     "d": "2026-11-10",
+     "p": 77.99
+    },
+    {
+     "d": "2026-11-11",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 77.99
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-12",
+   "updated": "2026-11-12",
+   "tags": "kuhlung luftkuhler alphacool core aurora black cpu kuhler",
+   "source": "crawler"
+  },
+  {
    "id": "c-akasa-alucia-h4i-low-profile-cpu-kuhler-fur-intel",
    "name": "Akasa ALUCIA H4I, Low-Profile CPU-Kühler, für Intel",
    "cat": "Kühlung",
@@ -1493,6 +1567,10 @@
     {
      "d": "2026-11-10",
      "p": 129
+    },
+    {
+     "d": "2026-11-12",
+     "p": 129
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -1602,6 +1680,10 @@
     },
     {
      "d": "2026-11-10",
+     "p": 99.9
+    },
+    {
+     "d": "2026-11-12",
      "p": 99.9
     }
    ],
@@ -1848,8 +1930,8 @@
    "price": 114.9,
    "ref": 144.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/lian-li-sp850-v2-gold-netzteil-modular-atx-3.1-850-watt-schwarz/NELI-028.html",
-   "url": "https://www.caseking.de/lian-li-sp850-v2-gold-netzteil-modular-atx-3.1-850-watt-schwarz/NELI-028.html",
+   "shopUrl": "https://www.caseking.de/en/lian-li-sp850-v2-gold-power-supply-modular-atx-3.1-850-watts-black/NELI-028.html",
+   "url": "https://www.caseking.de/en/lian-li-sp850-v2-gold-power-supply-modular-atx-3.1-850-watts-black/NELI-028.html",
    "note": "21 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -1894,6 +1976,10 @@
     },
     {
      "d": "2026-11-10",
+     "p": 114.9
+    },
+    {
+     "d": "2026-11-12",
      "p": 114.9
     }
    ],
@@ -2689,6 +2775,44 @@
    "seen": "2026-11-12",
    "updated": "2026-11-12",
    "tags": "monitore 17,3\" asus zenscreen mb17ahg ips monitor 1920 1080 144 schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-synology-enterprise-series-snv5420-1600g-1-6-tb-ssd-m-2-2280",
+   "name": "Synology Enterprise Series SNV5420-1600G 1,6 TB SSD M.2 2280 PCIe 3.0 x4 NVMe",
+   "cat": "SSDs",
+   "price": 1692.14,
+   "ref": 1963.54,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/synology-enterprise-series-snv5420-1600g-1-6-tb-ssd-m-2-2280-pcie-3-0-x4-nvme-100586172/",
+   "url": "https://www.jacob.de/produkt/synology-enterprise-series-snv5420-1600g-1-6-tb-ssd-m-2-2280-pcie-3-0-x4-nvme-100586172/",
+   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-03",
+     "p": 1973.5
+    },
+    {
+     "d": "2026-11-05",
+     "p": 1963.54
+    },
+    {
+     "d": "2026-11-07",
+     "p": 1963.54
+    },
+    {
+     "d": "2026-11-09",
+     "p": 1963.54
+    },
+    {
+     "d": "2026-11-12",
+     "p": 1692.14
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-12",
+   "updated": "2026-11-12",
+   "tags": "ssds nvme 1,6 tb synology enterprise series snv5420 1600g ssd 2280 pcie nvme",
    "source": "crawler"
   },
   {
