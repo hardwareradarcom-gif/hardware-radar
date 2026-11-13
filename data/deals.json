@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T11:59:12.281Z",
+ "updated": "2026-11-13T14:19:38.603Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1063,6 +1063,10 @@
     {
      "d": "2026-11-11",
      "p": 25.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 25.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -1180,6 +1184,60 @@
    "source": "crawler"
   },
   {
+   "id": "c-cooler-master-hyper-212-3dhp-cpu-kuhler-intel-und-amd-schwar",
+   "name": "Cooler Master Hyper 212 3DHP CPU-Kühler, Intel und AMD - schwarz",
+   "cat": "Kühlung",
+   "price": 16.9,
+   "ref": 28.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/cooler-master-hyper-212-3dhp-cpu-kuehler-intel-und-amd-schwarz/CPCO-080.html",
+   "url": "https://www.caseking.de/cooler-master-hyper-212-3dhp-cpu-kuehler-intel-und-amd-schwarz/CPCO-080.html",
+   "note": "42 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 28.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 28.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 28.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 28.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 28.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 28.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 28.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 28.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 16.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-13",
+   "updated": "2026-11-13",
+   "tags": "kuhlung luftkuhler cooler master hyper 212 3dhp cpu kuhler intel und amd schwarz",
+   "source": "crawler"
+  },
+  {
    "id": "c-montech-king-45-pro-pc-gehause-midi-tower-atx-tempere-glass-",
    "name": "Montech KING 45 PRO PC-Gehäuse, Midi-Tower, ATX, Tempere Glass, RGB - schwarz",
    "cat": "Gehäuse",
@@ -1266,6 +1324,10 @@
     },
     {
      "d": "2026-11-11",
+     "p": 1314.93
+    },
+    {
+     "d": "2026-11-13",
      "p": 1314.93
     }
    ],
@@ -1479,6 +1541,10 @@
     {
      "d": "2026-11-11",
      "p": 22.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 22.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -1539,6 +1605,78 @@
    "seen": "2026-11-13",
    "updated": "2026-11-13",
    "tags": "netzteile 750 w kolink regulator plus gold psu atx pcie modular 750 watts",
+   "source": "crawler"
+  },
+  {
+   "id": "c-xilence-performance-a-m705d-cpu-kuhler",
+   "name": "Xilence Performance A+ M705D, CPU-Kühler",
+   "cat": "Kühlung",
+   "price": 24.9,
+   "ref": 33.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/Xilence/Performance-Aplus-M705D-CPU-K%C3%BChler/html/product/1832445",
+   "url": "https://www.alternate.de/Xilence/Performance-Aplus-M705D-CPU-K%C3%BChler/html/product/1832445",
+   "note": "27 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-09",
+     "p": 33.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 33.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 33.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 24.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-13",
+   "updated": "2026-11-13",
+   "tags": "kuhlung luftkuhler xilence performance m705d cpu kuhler",
+   "source": "crawler"
+  },
+  {
+   "id": "c-endorfy-fortis-5-black-cpu-kuhler",
+   "name": "ENDORFY Fortis 5 Black, CPU-Kühler",
+   "cat": "Kühlung",
+   "price": 29.9,
+   "ref": 39.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/ENDORFY/Fortis-5-Black-CPU-K%C3%BChler/html/product/100104995",
+   "url": "https://www.alternate.de/ENDORFY/Fortis-5-Black-CPU-K%C3%BChler/html/product/100104995",
+   "note": "25 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-08",
+     "p": 39.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 39.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 39.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 39.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 29.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-13",
+   "updated": "2026-11-13",
+   "tags": "kuhlung luftkuhler endorfy fortis black cpu kuhler",
    "source": "crawler"
   },
   {
@@ -1928,14 +2066,88 @@
    "source": "crawler"
   },
   {
+   "id": "c-fsp-np5-wa-cpu-kuhler",
+   "name": "FSP NP5-WA, CPU-Kühler",
+   "cat": "Kühlung",
+   "price": 19.9,
+   "ref": 24.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/FSP/NP5-WA-CPU-K%C3%BChler/html/product/100143921",
+   "url": "https://www.alternate.de/FSP/NP5-WA-CPU-K%C3%BChler/html/product/100143921",
+   "note": "20 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 24.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 24.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 24.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 24.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 24.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 24.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 24.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 24.9
+    },
+    {
+     "d": "2026-11-07",
+     "p": 24.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 24.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 24.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 24.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 24.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 19.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-13",
+   "updated": "2026-11-13",
+   "tags": "kuhlung luftkuhler fsp np5 cpu kuhler",
+   "source": "crawler"
+  },
+  {
    "id": "c-thermalright-axp120-x67-argb-low-profile-cpu-kuhler-120mm-we",
    "name": "Thermalright AXP120 X67 ARGB Low Profile CPU-Kühler - 120mm, weiß",
    "cat": "Kühlung",
    "price": 39.9,
    "ref": 49.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/thermalright-axp120-x67-argb-low-profile-cpu-kuehler-120mm-weiss/CPTR-120.html",
-   "url": "https://www.caseking.de/thermalright-axp120-x67-argb-low-profile-cpu-kuehler-120mm-weiss/CPTR-120.html",
+   "shopUrl": "https://www.caseking.de/en/thermalright-axp120-x67-argb-low-profile-cpu-cooler-120mm-white/CPTR-120.html",
+   "url": "https://www.caseking.de/en/thermalright-axp120-x67-argb-low-profile-cpu-cooler-120mm-white/CPTR-120.html",
    "note": "20 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -2373,6 +2585,10 @@
     {
      "d": "2026-11-11",
      "p": 188.38
+    },
+    {
+     "d": "2026-11-13",
+     "p": 188.38
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -2433,56 +2649,6 @@
    "seen": "2026-11-13",
    "updated": "2026-11-13",
    "tags": "arbeitsspeicher ddr4 32 gb kingston fury beast ddr4 3600 mhz cl18 dimm schwarz",
-   "source": "crawler"
-  },
-  {
-   "id": "c-lenovo-00up642-ssd-m-2-2280-512-gb-pcie-3-0-x4-nvme",
-   "name": "Lenovo 00UP642 SSD M.2 2280 512 GB PCIe 3.0 x4 NVMe",
-   "cat": "SSDs",
-   "price": 188.38,
-   "ref": 223.14,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/lenovo-00up642-ssd-m-2-2280-512-gb-pcie-3-0-x4-nvme-5836562/",
-   "url": "https://www.jacob.de/produkt/lenovo-00up642-ssd-m-2-2280-512-gb-pcie-3-0-x4-nvme-5836562/",
-   "note": "16 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 231.59
-    },
-    {
-     "d": "2026-10-31",
-     "p": 231.59
-    },
-    {
-     "d": "2026-11-01",
-     "p": 231.59
-    },
-    {
-     "d": "2026-11-02",
-     "p": 231.59
-    },
-    {
-     "d": "2026-11-03",
-     "p": 200.62
-    },
-    {
-     "d": "2026-11-06",
-     "p": 214.08
-    },
-    {
-     "d": "2026-11-08",
-     "p": 214.69
-    },
-    {
-     "d": "2026-11-11",
-     "p": 188.38
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-13",
-   "updated": "2026-11-13",
-   "tags": "ssds nvme 512 gb lenovo 00up642 ssd 2280 512 pcie nvme",
    "source": "crawler"
   },
   {
@@ -2651,6 +2817,60 @@
    "seen": "2026-11-13",
    "updated": "2026-11-13",
    "tags": "mainboards am5 b850 asus prime b850 plus wifi mainboard atx sockel am5 ddr5 schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-lenovo-00up642-ssd-m-2-2280-512-gb-pcie-3-0-x4-nvme",
+   "name": "Lenovo 00UP642 SSD M.2 2280 512 GB PCIe 3.0 x4 NVMe",
+   "cat": "SSDs",
+   "price": 191.42,
+   "ref": 223.14,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/lenovo-00up642-ssd-m-2-2280-512-gb-pcie-3-0-x4-nvme-5836562/",
+   "url": "https://www.jacob.de/produkt/lenovo-00up642-ssd-m-2-2280-512-gb-pcie-3-0-x4-nvme-5836562/",
+   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 231.59
+    },
+    {
+     "d": "2026-10-31",
+     "p": 231.59
+    },
+    {
+     "d": "2026-11-01",
+     "p": 231.59
+    },
+    {
+     "d": "2026-11-02",
+     "p": 231.59
+    },
+    {
+     "d": "2026-11-03",
+     "p": 200.62
+    },
+    {
+     "d": "2026-11-06",
+     "p": 214.08
+    },
+    {
+     "d": "2026-11-08",
+     "p": 214.69
+    },
+    {
+     "d": "2026-11-11",
+     "p": 188.38
+    },
+    {
+     "d": "2026-11-13",
+     "p": 191.42
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-13",
+   "updated": "2026-11-13",
+   "tags": "ssds nvme 512 gb lenovo 00up642 ssd 2280 512 pcie nvme",
    "source": "crawler"
   },
   {
@@ -2908,56 +3128,6 @@
    "source": "crawler"
   },
   {
-   "id": "c-lenovo-00up450-interne-ssd-m-2-512-gb-sata-iii",
-   "name": "Lenovo 00UP450 Interne SSD M.2 512 GB SATA III",
-   "cat": "SSDs",
-   "price": 188.38,
-   "ref": 214.69,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/lenovo-00up450-interne-ssd-m-2-512-gb-sata-iii-5836482/",
-   "url": "https://www.jacob.de/produkt/lenovo-00up450-interne-ssd-m-2-512-gb-sata-iii-5836482/",
-   "note": "12 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 234.54
-    },
-    {
-     "d": "2026-10-31",
-     "p": 234.54
-    },
-    {
-     "d": "2026-11-01",
-     "p": 234.54
-    },
-    {
-     "d": "2026-11-02",
-     "p": 188.38
-    },
-    {
-     "d": "2026-11-03",
-     "p": 211.63
-    },
-    {
-     "d": "2026-11-06",
-     "p": 214.69
-    },
-    {
-     "d": "2026-11-08",
-     "p": 214.69
-    },
-    {
-     "d": "2026-11-11",
-     "p": 188.38
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-13",
-   "updated": "2026-11-13",
-   "tags": "ssds sata 512 gb lenovo 00up450 interne ssd 512 sata iii",
-   "source": "crawler"
-  },
-  {
    "id": "c-asus-b850-max-gaming-wifi-w-mainboard-atx-sockel-am5-amd-b85",
    "name": "ASUS B850 MAX GAMING WIFI W Mainboard ATX Sockel AM5 AMD B850 DDR5 Weiß",
    "cat": "Mainboards",
@@ -3059,6 +3229,56 @@
    "seen": "2026-11-13",
    "updated": "2026-11-13",
    "tags": "monitore 24,1\" eizo flexscan ev2495 mit flexstand led monitor 1920 1200 ips 350 1000 hdmi displayport usb lautsprecher",
+   "source": "crawler"
+  },
+  {
+   "id": "c-be-quiet-dark-rock-pro-6-cpu-kuhler",
+   "name": "be quiet! Dark Rock Pro 6, CPU-Kühler",
+   "cat": "Kühlung",
+   "price": 79.9,
+   "ref": 89.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/be-quiet/Dark-Rock-Pro-6-CPU-K%C3%BChler/html/product/100201148",
+   "url": "https://www.alternate.de/be-quiet/Dark-Rock-Pro-6-CPU-K%C3%BChler/html/product/100201148",
+   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 89.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 89.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 89.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 89.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 89.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 89.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 89.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 79.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-13",
+   "updated": "2026-11-13",
+   "tags": "kuhlung luftkuhler quiet dark rock pro cpu kuhler",
    "source": "crawler"
   },
   {
@@ -3255,6 +3475,110 @@
    "seen": "2026-11-13",
    "updated": "2026-11-13",
    "tags": "kuhlung luftkuhler alpenfohn matterhorn aurora max black cpu kuhler",
+   "source": "crawler"
+  },
+  {
+   "id": "c-alpenfohn-brocken-4-argb-cpu-kuhler",
+   "name": "Alpenföhn Brocken 4 ARGB, CPU-Kühler",
+   "cat": "Kühlung",
+   "price": 32.9,
+   "ref": 36.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-ARGB-CPU-K%C3%BChler/html/product/100070215",
+   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-ARGB-CPU-K%C3%BChler/html/product/100070215",
+   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 36.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 36.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 36.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 36.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 36.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 36.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 36.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 32.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-13",
+   "updated": "2026-11-13",
+   "tags": "kuhlung luftkuhler alpenfohn brocken argb cpu kuhler",
+   "source": "crawler"
+  },
+  {
+   "id": "c-lenovo-00up450-interne-ssd-m-2-512-gb-sata-iii",
+   "name": "Lenovo 00UP450 Interne SSD M.2 512 GB SATA III",
+   "cat": "SSDs",
+   "price": 191.42,
+   "ref": 214.69,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/lenovo-00up450-interne-ssd-m-2-512-gb-sata-iii-5836482/",
+   "url": "https://www.jacob.de/produkt/lenovo-00up450-interne-ssd-m-2-512-gb-sata-iii-5836482/",
+   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 234.54
+    },
+    {
+     "d": "2026-10-31",
+     "p": 234.54
+    },
+    {
+     "d": "2026-11-01",
+     "p": 234.54
+    },
+    {
+     "d": "2026-11-02",
+     "p": 188.38
+    },
+    {
+     "d": "2026-11-03",
+     "p": 211.63
+    },
+    {
+     "d": "2026-11-06",
+     "p": 214.69
+    },
+    {
+     "d": "2026-11-08",
+     "p": 214.69
+    },
+    {
+     "d": "2026-11-11",
+     "p": 188.38
+    },
+    {
+     "d": "2026-11-13",
+     "p": 191.42
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-13",
+   "updated": "2026-11-13",
+   "tags": "ssds sata 512 gb lenovo 00up450 interne ssd 512 sata iii",
    "source": "crawler"
   },
   {
