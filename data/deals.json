@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T14:19:38.603Z",
+ "updated": "2026-11-13T15:53:36.785Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -2370,6 +2370,56 @@
    "source": "crawler"
   },
   {
+   "id": "c-alpenfohn-brocken-4-max-cpu-kuhler",
+   "name": "Alpenföhn Brocken 4 Max, CPU-Kühler",
+   "cat": "Kühlung",
+   "price": 40.9,
+   "ref": 49.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-Max-CPU-K%C3%BChler/html/product/1902711",
+   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-Max-CPU-K%C3%BChler/html/product/1902711",
+   "note": "18 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 49.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 49.9
+    },
+    {
+     "d": "2026-11-07",
+     "p": 49.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 49.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 49.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 49.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 49.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 40.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-13",
+   "updated": "2026-11-13",
+   "tags": "kuhlung luftkuhler alpenfohn brocken max cpu kuhler",
+   "source": "crawler"
+  },
+  {
    "id": "c-adata-xpg-mars-980-blade-nvme-ssd-pcie-5-0-m-2-typ-2280-1-tb",
    "name": "ADATA XPG MARS 980 BLADE NVMe SSD, PCIe 5.0 M.2 Typ 2280 - 1 TB",
    "cat": "SSDs",
@@ -2699,6 +2749,60 @@
    "seen": "2026-11-13",
    "updated": "2026-11-13",
    "tags": "monitore 27\" msi mpg 272urxde oled gaming monitor 3840x2160 240hz schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-g-skill-trident-z5-32-gb-ram-2x16-gb-ddr5-6400-mt-s-cl32-sch",
+   "name": "G.Skill Trident Z5 32 GB RAM 2x16 GB DDR5 6400 MT/s CL32 Schwarz",
+   "cat": "Arbeitsspeicher",
+   "price": 738.94,
+   "ref": 873.44,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/g-skill-trident-z5-32-gb-ram-2x16-gb-ddr5-6400-mt-s-cl32-schwarz-7545472/",
+   "url": "https://www.jacob.de/produkt/g-skill-trident-z5-32-gb-ram-2x16-gb-ddr5-6400-mt-s-cl32-schwarz-7545472/",
+   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 879.91
+    },
+    {
+     "d": "2026-10-31",
+     "p": 879.74
+    },
+    {
+     "d": "2026-11-01",
+     "p": 879.61
+    },
+    {
+     "d": "2026-11-02",
+     "p": 879.48
+    },
+    {
+     "d": "2026-11-03",
+     "p": 867.4
+    },
+    {
+     "d": "2026-11-06",
+     "p": 789.03
+    },
+    {
+     "d": "2026-11-08",
+     "p": 789.03
+    },
+    {
+     "d": "2026-11-11",
+     "p": 788.14
+    },
+    {
+     "d": "2026-11-13",
+     "p": 738.94
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-13",
+   "updated": "2026-11-13",
+   "tags": "arbeitsspeicher ddr5 32 gb skill trident ram 2x16 ddr5 6400 cl32 schwarz",
    "source": "crawler"
   },
   {
