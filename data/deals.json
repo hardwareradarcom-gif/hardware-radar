@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T17:54:49.282Z",
+ "updated": "2026-11-13T19:57:31.016Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1500,84 +1500,6 @@
    "source": "crawler"
   },
   {
-   "id": "c-alphacool-core-1-aurora-black-cpu-kuhler",
-   "name": "Alphacool Core 1 Aurora Black, CPU-Kühler",
-   "cat": "Kühlung",
-   "price": 77.99,
-   "ref": 122.9,
-   "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/Alphacool/Core-1-Aurora-Black-CPU-K%C3%BChler/html/product/100218433",
-   "url": "https://www.alternate.de/Alphacool/Core-1-Aurora-Black-CPU-K%C3%BChler/html/product/100218433",
-   "note": "37 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 122.9
-    },
-    {
-     "d": "2026-10-31",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-01",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-02",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-03",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-04",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 77.99
-    },
-    {
-     "d": "2026-11-07",
-     "p": 77.99
-    },
-    {
-     "d": "2026-11-08",
-     "p": 77.99
-    },
-    {
-     "d": "2026-11-09",
-     "p": 77.99
-    },
-    {
-     "d": "2026-11-10",
-     "p": 77.99
-    },
-    {
-     "d": "2026-11-11",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-12",
-     "p": 77.99
-    },
-    {
-     "d": "2026-11-13",
-     "p": 77.99
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-13",
-   "updated": "2026-11-13",
-   "tags": "kuhlung luftkuhler alphacool core aurora black cpu kuhler",
-   "source": "crawler"
-  },
-  {
    "id": "c-akasa-alucia-h4i-low-profile-cpu-kuhler-fur-intel",
    "name": "Akasa ALUCIA H4I, Low-Profile CPU-Kühler, für Intel",
    "cat": "Kühlung",
@@ -2846,6 +2768,48 @@
    "source": "crawler"
   },
   {
+   "id": "c-noctua-nh-d15-chromax-black-cpu-kuhler",
+   "name": "Noctua NH-D15 chromax.black, CPU-Kühler",
+   "cat": "Kühlung",
+   "price": 99.9,
+   "ref": 118.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/Noctua/NH-D15-chromax-black-CPU-K%C3%BChler/html/product/1585511",
+   "url": "https://www.alternate.de/Noctua/NH-D15-chromax-black-CPU-K%C3%BChler/html/product/1585511",
+   "note": "16 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 118.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 118.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 118.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 118.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 118.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 99.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-13",
+   "updated": "2026-11-13",
+   "tags": "kuhlung luftkuhler noctua d15 chromax black cpu kuhler",
+   "source": "crawler"
+  },
+  {
    "id": "c-msi-mpg-272urxde-qd-oled-gaming-monitor-27-3840x2160-240hz-s",
    "name": "MSI MPG 272URXDE QD-OLED Gaming-Monitor 27\" 3840x2160 240Hz Schwarz",
    "cat": "Monitore",
@@ -3481,6 +3445,126 @@
    "seen": "2026-11-13",
    "updated": "2026-11-13",
    "tags": "monitore 24,1\" eizo flexscan ev2495 mit flexstand led monitor 1920 1200 ips 350 1000 hdmi displayport usb lautsprecher",
+   "source": "crawler"
+  },
+  {
+   "id": "c-acer-vero-b247we5bemiqpruzx-24-1920-x-1200-ips-office-monito",
+   "name": "Acer Vero B247WE5bemiqpruzx 24\" 1920 x 1200 IPS Office Monitor Schwarz",
+   "cat": "Monitore",
+   "price": 225.48,
+   "ref": 253.76,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/acer-vero-b247we5bemiqpruzx-24-1920-x-1200-ips-office-monitor-schwarz-100605706/",
+   "url": "https://www.jacob.de/produkt/acer-vero-b247we5bemiqpruzx-24-1920-x-1200-ips-office-monitor-schwarz-100605706/",
+   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 253.76
+    },
+    {
+     "d": "2026-10-31",
+     "p": 253.76
+    },
+    {
+     "d": "2026-11-01",
+     "p": 253.76
+    },
+    {
+     "d": "2026-11-02",
+     "p": 253.76
+    },
+    {
+     "d": "2026-11-04",
+     "p": 253.76
+    },
+    {
+     "d": "2026-11-06",
+     "p": 253.76
+    },
+    {
+     "d": "2026-11-09",
+     "p": 253.76
+    },
+    {
+     "d": "2026-11-11",
+     "p": 253.76
+    },
+    {
+     "d": "2026-11-13",
+     "p": 225.48
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-13",
+   "updated": "2026-11-13",
+   "tags": "monitore 24\" acer vero b247we5bemiqpruzx 1920 1200 ips office monitor schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-noctua-nh-d15-se-am4-cpu-kuhler",
+   "name": "Noctua NH-D15 SE-AM4, CPU-Kühler",
+   "cat": "Kühlung",
+   "price": 79.9,
+   "ref": 89.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/Noctua/NH-D15-SE-AM4-CPU-K%C3%BChler/html/product/1332968",
+   "url": "https://www.alternate.de/Noctua/NH-D15-SE-AM4-CPU-K%C3%BChler/html/product/1332968",
+   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-01",
+     "p": 89.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 89.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 89.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 89.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 89.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 89.9
+    },
+    {
+     "d": "2026-11-07",
+     "p": 89.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 89.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 89.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 89.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 89.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 79.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-13",
+   "updated": "2026-11-13",
+   "tags": "kuhlung luftkuhler noctua d15 am4 cpu kuhler",
    "source": "crawler"
   },
   {
