@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T19:57:31.016Z",
+ "updated": "2026-11-13T21:51:00.059Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1700,6 +1700,72 @@
    "source": "crawler"
   },
   {
+   "id": "c-seasonic-core-gc-650-atx3-1-pc-netzteil",
+   "name": "Seasonic CORE GC-650 ATX3.1, PC-Netzteil",
+   "cat": "Netzteile",
+   "price": 55.9,
+   "ref": 74.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/Seasonic/CORE-GC-650-ATX3-1-PC-Netzteil/html/product/100143116",
+   "url": "https://www.alternate.de/Seasonic/CORE-GC-650-ATX3-1-PC-Netzteil/html/product/100143116",
+   "note": "25 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 74.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 74.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 74.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 74.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 74.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 74.9
+    },
+    {
+     "d": "2026-11-07",
+     "p": 74.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 74.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 74.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 74.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 74.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 55.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-13",
+   "updated": "2026-11-13",
+   "tags": "netzteile seasonic core 650 atx3 netzteil",
+   "source": "crawler"
+  },
+  {
    "id": "c-endorfy-fortis-5-black-cpu-kuhler",
    "name": "ENDORFY Fortis 5 Black, CPU-Kühler",
    "cat": "Kühlung",
@@ -1789,6 +1855,72 @@
    "seen": "2026-11-13",
    "updated": "2026-11-13",
    "tags": "monitore 27\" msi mag 272qpde x24 oled gaming monitor 60cm wqhd 240 schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-seasonic-core-gc-750-atx3-1-pc-netzteil",
+   "name": "Seasonic CORE GC-750 ATX3.1, PC-Netzteil",
+   "cat": "Netzteile",
+   "price": 63.9,
+   "ref": 83.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/Seasonic/CORE-GC-750-ATX3-1-PC-Netzteil/html/product/100143115",
+   "url": "https://www.alternate.de/Seasonic/CORE-GC-750-ATX3-1-PC-Netzteil/html/product/100143115",
+   "note": "24 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 83.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 83.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 83.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 83.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 83.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 83.9
+    },
+    {
+     "d": "2026-11-07",
+     "p": 83.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 83.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 83.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 83.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 83.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 63.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-13",
+   "updated": "2026-11-13",
+   "tags": "netzteile seasonic core 750 atx3 netzteil",
    "source": "crawler"
   },
   {
@@ -1897,6 +2029,72 @@
    "seen": "2026-11-13",
    "updated": "2026-11-13",
    "tags": "kuhlung luftkuhler thermalright axp120 x67 argb low profile cpu kuhler 120mm schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-seasonic-core-gc-850-atx3-1-pc-netzteil",
+   "name": "Seasonic CORE GC-850 ATX3.1, PC-Netzteil",
+   "cat": "Netzteile",
+   "price": 73.9,
+   "ref": 94.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/Seasonic/CORE-GC-850-ATX3-1-PC-Netzteil/html/product/100143113",
+   "url": "https://www.alternate.de/Seasonic/CORE-GC-850-ATX3-1-PC-Netzteil/html/product/100143113",
+   "note": "22 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 94.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 94.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 94.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 94.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 94.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 94.9
+    },
+    {
+     "d": "2026-11-07",
+     "p": 94.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 94.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 94.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 94.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 94.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 73.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-13",
+   "updated": "2026-11-13",
+   "tags": "netzteile seasonic core 850 atx3 netzteil",
    "source": "crawler"
   },
   {
@@ -2660,6 +2858,72 @@
    "source": "crawler"
   },
   {
+   "id": "c-seasonic-core-bc-650-atx3-1-pc-netzteil",
+   "name": "Seasonic CORE BC-650 ATX3.1, PC-Netzteil",
+   "cat": "Netzteile",
+   "price": 43.9,
+   "ref": 52.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/Seasonic/CORE-BC-650-ATX3-1-PC-Netzteil/html/product/100143123",
+   "url": "https://www.alternate.de/Seasonic/CORE-BC-650-ATX3-1-PC-Netzteil/html/product/100143123",
+   "note": "17 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 52.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 52.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 52.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 52.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 52.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 52.9
+    },
+    {
+     "d": "2026-11-07",
+     "p": 52.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 52.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 52.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 52.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 52.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 43.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-13",
+   "updated": "2026-11-13",
+   "tags": "netzteile seasonic core 650 atx3 netzteil",
+   "source": "crawler"
+  },
+  {
    "id": "c-lenovo-toshiba-ssd-512-gb-m-2-2280-pcie-3-0-x4",
    "name": "Lenovo Toshiba SSD 512 GB M.2 2280 PCIe 3.0 x4",
    "cat": "SSDs",
@@ -3140,6 +3404,60 @@
    "source": "crawler"
   },
   {
+   "id": "c-afox-ddr4-8-gb-ram-2400-mhz-udimm-speichermodul-cl17-schwarz",
+   "name": "AFOX DDR4 8 GB RAM 2400 MHz UDIMM Speichermodul CL17 Schwarz",
+   "cat": "Arbeitsspeicher",
+   "price": 77.33,
+   "ref": 89.82,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/afox-ddr4-8-gb-ram-2400-mhz-udimm-speichermodul-cl17-schwarz-100491192/",
+   "url": "https://www.jacob.de/produkt/afox-ddr4-8-gb-ram-2400-mhz-udimm-speichermodul-cl17-schwarz-100491192/",
+   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 87.82
+    },
+    {
+     "d": "2026-10-31",
+     "p": 87.82
+    },
+    {
+     "d": "2026-11-01",
+     "p": 87.82
+    },
+    {
+     "d": "2026-11-02",
+     "p": 77.15
+    },
+    {
+     "d": "2026-11-04",
+     "p": 91.81
+    },
+    {
+     "d": "2026-11-06",
+     "p": 92.26
+    },
+    {
+     "d": "2026-11-09",
+     "p": 91.93
+    },
+    {
+     "d": "2026-11-11",
+     "p": 92.43
+    },
+    {
+     "d": "2026-11-13",
+     "p": 77.33
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-13",
+   "updated": "2026-11-13",
+   "tags": "arbeitsspeicher ddr4 afox ram 2400 mhz udimm speichermodul cl17 schwarz",
+   "source": "crawler"
+  },
+  {
    "id": "c-synology-enterprise-series-snv5420-1600g-1-6-tb-ssd-m-2-2280",
    "name": "Synology Enterprise Series SNV5420-1600G 1,6 TB SSD M.2 2280 PCIe 3.0 x4 NVMe",
    "cat": "SSDs",
@@ -3334,6 +3652,10 @@
     },
     {
      "d": "2026-11-11",
+     "p": 153.03
+    },
+    {
+     "d": "2026-11-13",
      "p": 153.03
     }
    ],
