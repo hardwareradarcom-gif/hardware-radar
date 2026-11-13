@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T17:26:00.403Z",
+ "updated": "2026-11-13T17:54:49.282Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1500,6 +1500,84 @@
    "source": "crawler"
   },
   {
+   "id": "c-alphacool-core-1-aurora-black-cpu-kuhler",
+   "name": "Alphacool Core 1 Aurora Black, CPU-Kühler",
+   "cat": "Kühlung",
+   "price": 77.99,
+   "ref": 122.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/Alphacool/Core-1-Aurora-Black-CPU-K%C3%BChler/html/product/100218433",
+   "url": "https://www.alternate.de/Alphacool/Core-1-Aurora-Black-CPU-K%C3%BChler/html/product/100218433",
+   "note": "37 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 122.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 77.99
+    },
+    {
+     "d": "2026-11-07",
+     "p": 77.99
+    },
+    {
+     "d": "2026-11-08",
+     "p": 77.99
+    },
+    {
+     "d": "2026-11-09",
+     "p": 77.99
+    },
+    {
+     "d": "2026-11-10",
+     "p": 77.99
+    },
+    {
+     "d": "2026-11-11",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 77.99
+    },
+    {
+     "d": "2026-11-13",
+     "p": 77.99
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-13",
+   "updated": "2026-11-13",
+   "tags": "kuhlung luftkuhler alphacool core aurora black cpu kuhler",
+   "source": "crawler"
+  },
+  {
    "id": "c-akasa-alucia-h4i-low-profile-cpu-kuhler-fur-intel",
    "name": "Akasa ALUCIA H4I, Low-Profile CPU-Kühler, für Intel",
    "cat": "Kühlung",
@@ -1551,6 +1629,64 @@
    "seen": "2026-11-13",
    "updated": "2026-11-13",
    "tags": "kuhlung luftkuhler akasa alucia h4i low profile cpu kuhler fur intel",
+   "source": "crawler"
+  },
+  {
+   "id": "c-cooler-master-hyper-212-3dhp-cpu-cooler-intel-and-amd-argb-b",
+   "name": "Cooler Master Hyper 212 3DHP CPU Cooler, Intel and AMD, ARGB - black",
+   "cat": "Kühlung",
+   "price": 19.9,
+   "ref": 29,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/cooler-master-hyper-212-3dhp-cpu-cooler-intel-and-amd-argb-black/GECO-372.html",
+   "url": "https://www.caseking.de/en/cooler-master-hyper-212-3dhp-cpu-cooler-intel-and-amd-argb-black/GECO-372.html",
+   "note": "31 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 29
+    },
+    {
+     "d": "2026-10-30",
+     "p": 29
+    },
+    {
+     "d": "2026-10-31",
+     "p": 29
+    },
+    {
+     "d": "2026-11-01",
+     "p": 29
+    },
+    {
+     "d": "2026-11-03",
+     "p": 29
+    },
+    {
+     "d": "2026-11-05",
+     "p": 29
+    },
+    {
+     "d": "2026-11-07",
+     "p": 29
+    },
+    {
+     "d": "2026-11-09",
+     "p": 29
+    },
+    {
+     "d": "2026-11-11",
+     "p": 29
+    },
+    {
+     "d": "2026-11-13",
+     "p": 19.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-13",
+   "updated": "2026-11-13",
+   "tags": "kuhlung luftkuhler cooler master hyper 212 3dhp cpu intel and amd argb black",
    "source": "crawler"
   },
   {
@@ -1720,6 +1856,10 @@
     },
     {
      "d": "2026-11-11",
+     "p": 353.35
+    },
+    {
+     "d": "2026-11-13",
      "p": 353.35
     }
    ],
@@ -2361,6 +2501,10 @@
     {
      "d": "2026-11-11",
      "p": 610.52
+    },
+    {
+     "d": "2026-11-13",
+     "p": 610.52
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -2742,6 +2886,10 @@
     },
     {
      "d": "2026-11-11",
+     "p": 770.61
+    },
+    {
+     "d": "2026-11-13",
      "p": 770.61
     }
    ],
@@ -3469,6 +3617,10 @@
     {
      "d": "2026-11-11",
      "p": 169
+    },
+    {
+     "d": "2026-11-13",
+     "p": 169
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -3825,6 +3977,134 @@
    "seen": "2026-11-13",
    "updated": "2026-11-13",
    "tags": "kuhlung aio-wasserkuhlung tryx panorama 360 aio wasserkuhlung amoled display 360mm weiss",
+   "source": "crawler"
+  },
+  {
+   "id": "c-asus-dual-radeon-rx-9060-xt-white-edition-16384-mb-gddr6",
+   "name": "ASUS Dual Radeon RX 9060 XT White Edition, 16384 MB GDDR6",
+   "cat": "Grafikkarten",
+   "price": 617.68,
+   "ref": 689,
+   "shop": "proshop.de",
+   "shopUrl": "https://www.proshop.de/Grafikkarte/ASUS-Radeon-RX-9060-XT-DUAL-White-16GB-GDDR6-RAM-Grafikkarte/3369605",
+   "url": "https://www.proshop.de/Grafikkarte/ASUS-Radeon-RX-9060-XT-DUAL-White-16GB-GDDR6-RAM-Grafikkarte/3369605",
+   "note": "10 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 689
+    },
+    {
+     "d": "2026-10-30",
+     "p": 689
+    },
+    {
+     "d": "2026-10-31",
+     "p": 689
+    },
+    {
+     "d": "2026-11-01",
+     "p": 689
+    },
+    {
+     "d": "2026-11-02",
+     "p": 689
+    },
+    {
+     "d": "2026-11-03",
+     "p": 689
+    },
+    {
+     "d": "2026-11-04",
+     "p": 689
+    },
+    {
+     "d": "2026-11-05",
+     "p": 689
+    },
+    {
+     "d": "2026-11-06",
+     "p": 689
+    },
+    {
+     "d": "2026-11-07",
+     "p": 689
+    },
+    {
+     "d": "2026-11-09",
+     "p": 676.92
+    },
+    {
+     "d": "2026-11-10",
+     "p": 676.92
+    },
+    {
+     "d": "2026-11-11",
+     "p": 665.07
+    },
+    {
+     "d": "2026-11-13",
+     "p": 617.68
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-13",
+   "updated": "2026-11-13",
+   "tags": "grafikkarten radeon rx 9060 xt asus dual radeon 9060 white edition 16384 gddr6",
+   "source": "crawler"
+  },
+  {
+   "id": "c-philips-s-line-243s1-led-monitor-23-8-full-hd-ips-75-hz-hdmi",
+   "name": "Philips S-line 243S1 LED-Monitor 23,8\" Full HD IPS 75 Hz HDMI DisplayPort USB-C Textured Black",
+   "cat": "Monitore",
+   "price": 166.42,
+   "ref": 184.93,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/philips-s-line-243s1-led-monitor-23-8-full-hd-ips-75-hz-hdmi-displayport-usb-c-textured-black-7534807/",
+   "url": "https://www.jacob.de/produkt/philips-s-line-243s1-led-monitor-23-8-full-hd-ips-75-hz-hdmi-displayport-usb-c-textured-black-7534807/",
+   "note": "10 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 184.93
+    },
+    {
+     "d": "2026-10-31",
+     "p": 184.93
+    },
+    {
+     "d": "2026-11-01",
+     "p": 184.93
+    },
+    {
+     "d": "2026-11-02",
+     "p": 184.93
+    },
+    {
+     "d": "2026-11-03",
+     "p": 184.93
+    },
+    {
+     "d": "2026-11-06",
+     "p": 183.34
+    },
+    {
+     "d": "2026-11-08",
+     "p": 183.34
+    },
+    {
+     "d": "2026-11-11",
+     "p": 167.1
+    },
+    {
+     "d": "2026-11-13",
+     "p": 166.42
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-13",
+   "updated": "2026-11-13",
+   "tags": "monitore 23,8\" philips line 243s1 led monitor full ips hdmi displayport usb textured black",
    "source": "crawler"
   }
  ],
