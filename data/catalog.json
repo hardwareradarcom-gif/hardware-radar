@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T10:02:30.989Z",
+ "updated": "2026-11-13T11:27:25.136Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -75074,6 +75074,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-samsung-990-evo-plus-mz-v9s1t0bw-1-tb-m-2-nvme-ssd",
+   "cat": "SSDs",
+   "sub": "NVMe 1 TB",
+   "name": "Samsung 990 EVO Plus MZ-V9S1T0BW 1 TB M.2 NVMe SSD",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/samsung-990-evo-plus-mz-v9s1t0bw-1-tb-m-2-nvme-ssd-100516108/",
+   "stand": "2026-11-13T11:27",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 221.01,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/samsung-990-evo-plus-mz-v9s1t0bw-1-tb-m-2-nvme-ssd-100516108/"
+    }
+   ],
+   "price": 221.01,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-13",
+     "p": 221.01
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 1 tb samsung 990 evo plus v9s1t0bw nvme ssd",
+   "firstSeen": "2026-11-13"
+  },
+  {
    "id": "c-acer-vero-cb272u-e3bmiiprx-27-ips-monitor-2560-x-1440-100-hz",
    "cat": "Monitore",
    "sub": "27\"",
@@ -83039,6 +83068,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-samsung-870-evo-1-tb-2-5-sata-ssd-schwarz",
+   "cat": "SSDs",
+   "sub": "SATA 1 TB",
+   "name": "Samsung 870 EVO 1 TB 2.5\" SATA SSD Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/samsung-870-evo-1-tb-2-5-sata-ssd-schwarz-6951388/",
+   "stand": "2026-11-13T11:27",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 285.81,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/samsung-870-evo-1-tb-2-5-sata-ssd-schwarz-6951388/"
+    }
+   ],
+   "price": 285.81,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-13",
+     "p": 285.81
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 1 tb samsung 870 evo sata ssd schwarz",
+   "firstSeen": "2026-11-13"
+  },
+  {
    "id": "c-asus-rog-strix-z890-a-gaming-wifi-mainboard-atx-lga1851-sock",
    "cat": "Mainboards",
    "sub": "Intel LGA1851 Z890",
@@ -85062,6 +85120,35 @@
    "count": 1,
    "tags": "mainboards intel lga1851 z890 gigabyte z890 aorus pro ice mainboard sockel lga 1851 intel atx ddr5",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-transcend-msa452t2-msata-ssd-128-gb-sata-iii-3d-tlc",
+   "cat": "SSDs",
+   "sub": "SATA 128 GB",
+   "name": "Transcend MSA452T2 mSATA SSD 128 GB SATA III 3D TLC",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/transcend-msa452t2-msata-ssd-128-gb-sata-iii-3d-tlc-6643834/",
+   "stand": "2026-11-13T11:27",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 313.54,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/transcend-msa452t2-msata-ssd-128-gb-sata-iii-3d-tlc-6643834/"
+    }
+   ],
+   "price": 313.54,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-13",
+     "p": 313.54
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 128 gb transcend msa452t2 msata ssd 128 sata iii tlc",
+   "firstSeen": "2026-11-13"
   },
   {
    "id": "c-dell-plus-s2725qs-27-3840-x-2160-ips-monitor-silber",
@@ -88999,6 +89086,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-samsung-990-evo-plus-mz-v9s2t0-2-tb-ssd-m-2-2280-pcie-5-0-x2",
+   "cat": "SSDs",
+   "sub": "PCIe 5.0 2 TB",
+   "name": "Samsung 990 EVO Plus MZ-V9S2T0 2 TB SSD M.2 2280 PCIe 5.0 x2 (NVMe)",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/samsung-990-evo-plus-mz-v9s2t0-2-tb-ssd-m-2-2280-pcie-5-0-x2-nvme-100514937/",
+   "stand": "2026-11-13T11:27",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 359.09,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/samsung-990-evo-plus-mz-v9s2t0-2-tb-ssd-m-2-2280-pcie-5-0-x2-nvme-100514937/"
+    }
+   ],
+   "price": 359.09,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-13",
+     "p": 359.09
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 5.0 2 tb samsung 990 evo plus v9s2t0 ssd 2280 pcie nvme",
+   "firstSeen": "2026-11-13"
+  },
+  {
    "id": "c-asus-be24ecsbt-led-monitor-60-5-cm-23-8-schwarz-energieklass",
    "cat": "Monitore",
    "sub": "23,8\"",
@@ -89465,6 +89581,35 @@
    "count": 1,
    "tags": "mainboards intel lga1851 z890 msi mpg z890 carbon wifi mainboard atx lga1851 ddr5 schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-wd-red-sn700-wds100t1r0c-68bdk0-1-tb-m-2-2280-pcie-3-0-x4-nv",
+   "cat": "SSDs",
+   "sub": "NVMe 1 TB",
+   "name": "WD Red SN700 WDS100T1R0C-68BDK0 1 TB M.2 2280 PCIe 3.0 x4 NVMe SSD",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/wd-red-sn700-wds100t1r0c-68bdk0-1-tb-m-2-2280-pcie-3-0-x4-nvme-ssd-100559548/",
+   "stand": "2026-11-13T11:27",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 367.95,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/wd-red-sn700-wds100t1r0c-68bdk0-1-tb-m-2-2280-pcie-3-0-x4-nvme-ssd-100559548/"
+    }
+   ],
+   "price": 367.95,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-13",
+     "p": 367.95
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 1 tb red sn700 wds100t1r0c 68bdk0 2280 pcie nvme ssd",
+   "firstSeen": "2026-11-13"
   },
   {
    "id": "c-asus-rog-strix-z890-h-gaming-wifi-mainboard-sockel-lga-1851-",
@@ -95151,6 +95296,35 @@
    "firstSeen": "2026-11-11"
   },
   {
+   "id": "c-wd-wd-black-sn8100-wds200t1x0m-00cmt0-2-tb-m-2-ssd-pcie-5-0-",
+   "cat": "SSDs",
+   "sub": "PCIe 5.0 2 TB",
+   "name": "WD WD_BLACK SN8100 WDS200T1X0M-00CMT0 2 TB M.2 SSD PCIe 5.0 x4 NVMe",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/wd-wd-black-sn8100-wds200t1x0m-00cmt0-2-tb-m-2-ssd-pcie-5-0-x4-nvme-100587155/",
+   "stand": "2026-11-13T11:27",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 462.37,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/wd-wd-black-sn8100-wds200t1x0m-00cmt0-2-tb-m-2-ssd-pcie-5-0-x4-nvme-100587155/"
+    }
+   ],
+   "price": 462.37,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-13",
+     "p": 462.37
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 5.0 2 tb black sn8100 wds200t1x0m 00cmt0 ssd pcie nvme",
+   "firstSeen": "2026-11-13"
+  },
+  {
    "id": "c-asrock-z890-taichi-mainboard-lga-1851-atx-ddr5-wi-fi-7-schwa",
    "cat": "Mainboards",
    "sub": "Intel LGA1851 Z890",
@@ -95894,6 +96068,35 @@
    "count": 1,
    "tags": "mainboards am5 x870 msi mpg x870e carbon wifi mainboard amd am5 atx ddr5 schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-samsung-9100-pro-mz-vap2t0bw-2-tb-ssd-m-2-2280-pcie-5-0-x4-n",
+   "cat": "SSDs",
+   "sub": "PCIe 5.0 2 TB",
+   "name": "Samsung 9100 PRO MZ-VAP2T0BW 2 TB SSD M.2 2280 PCIe 5.0 x4 NVMe Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/samsung-9100-pro-mz-vap2t0bw-2-tb-ssd-m-2-2280-pcie-5-0-x4-nvme-schwarz-100555719/",
+   "stand": "2026-11-13T11:27",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 478.09,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/samsung-9100-pro-mz-vap2t0bw-2-tb-ssd-m-2-2280-pcie-5-0-x4-nvme-schwarz-100555719/"
+    }
+   ],
+   "price": 478.09,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-13",
+     "p": 478.09
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 5.0 2 tb samsung 9100 pro vap2t0bw ssd 2280 pcie nvme schwarz",
+   "firstSeen": "2026-11-13"
   },
   {
    "id": "c-havn-hs-420-vgpu-pc-case-phanteks-glacier-one-420d30-x2-drgb",
@@ -110519,6 +110722,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-hpe-p18422-b21-480-gb-ssd-2-5-sata-6gb-s-schwarz",
+   "cat": "SSDs",
+   "sub": "SATA 480 GB",
+   "name": "HPE P18422-B21 480 GB SSD 2.5\" SATA 6Gb/s Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/hpe-p18422-b21-480-gb-ssd-2-5-sata-6gb-s-schwarz-6083265/",
+   "stand": "2026-11-13T11:27",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 914.71,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/hpe-p18422-b21-480-gb-ssd-2-5-sata-6gb-s-schwarz-6083265/"
+    }
+   ],
+   "price": 914.71,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-13",
+     "p": 914.71
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 480 gb hpe p18422 b21 480 ssd sata 6gb schwarz",
+   "firstSeen": "2026-11-13"
+  },
+  {
    "id": "c-synology-enterprise-series-snv5420-800g-800-gb-ssd-m-2-2280-",
    "cat": "SSDs",
    "sub": "NVMe 800 GB",
@@ -113768,6 +114000,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-synology-sat5221-960g-960-gb-enterprise-ssd-2-5-sata-6gb-s",
+   "cat": "SSDs",
+   "sub": "SATA 960 GB",
+   "name": "Synology SAT5221-960G 960 GB Enterprise SSD 2.5\" SATA 6Gb/s",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/synology-sat5221-960g-960-gb-enterprise-ssd-2-5-sata-6gb-s-100542937/",
+   "stand": "2026-11-13T11:27",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1112.71,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/synology-sat5221-960g-960-gb-enterprise-ssd-2-5-sata-6gb-s-100542937/"
+    }
+   ],
+   "price": 1112.71,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-13",
+     "p": 1112.71
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 960 gb synology sat5221 960g 960 enterprise ssd sata 6gb",
+   "firstSeen": "2026-11-13"
+  },
+  {
    "id": "c-kingston-fury-renegade-rgb-48-gb-ram-2-x-24-gb-ddr5-8400-mt-",
    "cat": "Arbeitsspeicher",
    "sub": "DDR5 48 GB",
@@ -115948,6 +116209,35 @@
    "count": 1,
    "tags": "arbeitsspeicher ddr5 64 gb skill flare ddr5 ram 6000 mhz cl36 dimm mattes weiss",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-samsung-pm9a3-960-gb-ssd-m-2-22110-pcie-4-0-x4-nvme",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 960 GB",
+   "name": "Samsung PM9A3 960 GB SSD M.2 22110 PCIe 4.0 x4 NVMe",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/samsung-pm9a3-960-gb-ssd-m-2-22110-pcie-4-0-x4-nvme-6972451/",
+   "stand": "2026-11-13T11:27",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1370.99,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/samsung-pm9a3-960-gb-ssd-m-2-22110-pcie-4-0-x4-nvme-6972451/"
+    }
+   ],
+   "price": 1370.99,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-13",
+     "p": 1370.99
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 960 gb samsung pm9a3 960 ssd 22110 pcie nvme",
+   "firstSeen": "2026-11-13"
   },
   {
    "id": "c-kingston-fury-beast-kf560c36bbe2k2-64-ddr5-64-gb-ram-3000-mh",
@@ -119530,6 +119820,35 @@
    "count": 1,
    "tags": "grafikkarten geforce rtx 5080 zotac gaming geforce rtx 5080 solid core 16384 gddr7",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-lenovo-thinksystem-s4520-3-5-480-gb-ssd-sata-6gb-s",
+   "cat": "SSDs",
+   "sub": "SATA 480 GB",
+   "name": "Lenovo ThinkSystem S4520 3,5\" 480 GB SSD SATA 6Gb/s",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/lenovo-thinksystem-s4520-3-5-480-gb-ssd-sata-6gb-s-7382182/",
+   "stand": "2026-11-13T11:27",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 2093.6,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/lenovo-thinksystem-s4520-3-5-480-gb-ssd-sata-6gb-s-7382182/"
+    }
+   ],
+   "price": 2093.6,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-13",
+     "p": 2093.6
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 480 gb lenovo thinksystem s4520 480 ssd sata 6gb",
+   "firstSeen": "2026-11-13"
   },
   {
    "id": "c-samsung-9100-pro-mz-vap8t0-8-tb-ssd-m-2-2280-pcie-5-0-x4-nvm",
