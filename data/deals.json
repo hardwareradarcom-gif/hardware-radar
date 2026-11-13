@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T11:27:25.136Z",
+ "updated": "2026-11-13T11:59:12.281Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1113,6 +1113,10 @@
     {
      "d": "2026-11-11",
      "p": 39.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 39.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -1208,6 +1212,10 @@
     },
     {
      "d": "2026-11-11",
+     "p": 52.9
+    },
+    {
+     "d": "2026-11-13",
      "p": 52.9
     }
    ],
@@ -1326,56 +1334,6 @@
    "source": "crawler"
   },
   {
-   "id": "c-western-digital-black-sn770m-2-tb-m-2-pcie-4-0-nvme-ssd",
-   "name": "Western Digital Black SN770M 2 TB M.2 PCIe 4.0 NVMe SSD",
-   "cat": "SSDs",
-   "price": 357.13,
-   "ref": 568.82,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/western-digital-black-sn770m-2-tb-m-2-pcie-4-0-nvme-ssd-100548531/",
-   "url": "https://www.jacob.de/produkt/western-digital-black-sn770m-2-tb-m-2-pcie-4-0-nvme-ssd-100548531/",
-   "note": "37 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 568.82
-    },
-    {
-     "d": "2026-10-31",
-     "p": 568.82
-    },
-    {
-     "d": "2026-11-01",
-     "p": 568.82
-    },
-    {
-     "d": "2026-11-02",
-     "p": 568.82
-    },
-    {
-     "d": "2026-11-03",
-     "p": 568.82
-    },
-    {
-     "d": "2026-11-06",
-     "p": 356.16
-    },
-    {
-     "d": "2026-11-08",
-     "p": 356.16
-    },
-    {
-     "d": "2026-11-10",
-     "p": 357.13
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-13",
-   "updated": "2026-11-13",
-   "tags": "ssds pcie 4.0 2 tb western digital black sn770m pcie nvme ssd",
-   "source": "crawler"
-  },
-  {
    "id": "c-msi-mag-345cqrde-curved-gaming-monitor-34-uwqhd-va-180-hz-1-",
    "name": "MSI MAG 345CQRDE Curved Gaming Monitor 34\" UWQHD VA 180 Hz 1 ms Schwarz",
    "cat": "Monitore",
@@ -1423,6 +1381,60 @@
    "seen": "2026-11-13",
    "updated": "2026-11-13",
    "tags": "monitore 34\" msi mag 345cqrde curved gaming monitor uwqhd 180 schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-western-digital-black-sn770m-2-tb-m-2-pcie-4-0-nvme-ssd",
+   "name": "Western Digital Black SN770M 2 TB M.2 PCIe 4.0 NVMe SSD",
+   "cat": "SSDs",
+   "price": 360.7,
+   "ref": 568.82,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/western-digital-black-sn770m-2-tb-m-2-pcie-4-0-nvme-ssd-100548531/",
+   "url": "https://www.jacob.de/produkt/western-digital-black-sn770m-2-tb-m-2-pcie-4-0-nvme-ssd-100548531/",
+   "note": "37 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 568.82
+    },
+    {
+     "d": "2026-10-31",
+     "p": 568.82
+    },
+    {
+     "d": "2026-11-01",
+     "p": 568.82
+    },
+    {
+     "d": "2026-11-02",
+     "p": 568.82
+    },
+    {
+     "d": "2026-11-03",
+     "p": 568.82
+    },
+    {
+     "d": "2026-11-06",
+     "p": 356.16
+    },
+    {
+     "d": "2026-11-08",
+     "p": 356.16
+    },
+    {
+     "d": "2026-11-10",
+     "p": 357.13
+    },
+    {
+     "d": "2026-11-13",
+     "p": 360.7
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-13",
+   "updated": "2026-11-13",
+   "tags": "ssds pcie 4.0 2 tb western digital black sn770m pcie nvme ssd",
    "source": "crawler"
   },
   {
@@ -1675,6 +1687,10 @@
     {
      "d": "2026-11-11",
      "p": 34.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 34.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -1918,8 +1934,8 @@
    "price": 39.9,
    "ref": 49.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/thermalright-axp120-x67-argb-low-profile-cpu-cooler-120mm-white/CPTR-120.html",
-   "url": "https://www.caseking.de/en/thermalright-axp120-x67-argb-low-profile-cpu-cooler-120mm-white/CPTR-120.html",
+   "shopUrl": "https://www.caseking.de/thermalright-axp120-x67-argb-low-profile-cpu-kuehler-120mm-weiss/CPTR-120.html",
+   "url": "https://www.caseking.de/thermalright-axp120-x67-argb-low-profile-cpu-kuehler-120mm-weiss/CPTR-120.html",
    "note": "20 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -1952,6 +1968,10 @@
     },
     {
      "d": "2026-11-11",
+     "p": 39.9
+    },
+    {
+     "d": "2026-11-13",
      "p": 39.9
     }
    ],
@@ -2179,12 +2199,82 @@
     {
      "d": "2026-11-11",
      "p": 179.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 179.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
    "seen": "2026-11-13",
    "updated": "2026-11-13",
    "tags": "ssds pcie 5.0 1 tb adata xpg mars 980 blade nvme ssd pcie typ 2280",
+   "source": "crawler"
+  },
+  {
+   "id": "c-seasonic-core-bc-850-atx3-1-pc-netzteil",
+   "name": "Seasonic CORE BC-850 ATX3.1, PC-Netzteil",
+   "cat": "Netzteile",
+   "price": 55.9,
+   "ref": 67.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/Seasonic/CORE-BC-850-ATX3-1-PC-Netzteil/html/product/100143120",
+   "url": "https://www.alternate.de/Seasonic/CORE-BC-850-ATX3-1-PC-Netzteil/html/product/100143120",
+   "note": "18 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 67.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 67.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 67.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 67.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 67.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 67.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 67.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 67.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 67.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 67.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 67.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 55.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-13",
+   "updated": "2026-11-13",
+   "tags": "netzteile seasonic core 850 atx3 netzteil",
    "source": "crawler"
   },
   {
@@ -2228,6 +2318,10 @@
     },
     {
      "d": "2026-11-11",
+     "p": 339.9
+    },
+    {
+     "d": "2026-11-13",
      "p": 339.9
     }
    ],
@@ -2648,6 +2742,122 @@
    "source": "crawler"
   },
   {
+   "id": "c-seasonic-core-bc-750-atx3-1-pc-netzteil",
+   "name": "Seasonic CORE BC-750 ATX3.1, PC-Netzteil",
+   "cat": "Netzteile",
+   "price": 49.9,
+   "ref": 57.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/Seasonic/CORE-BC-750-ATX3-1-PC-Netzteil/html/product/100143121",
+   "url": "https://www.alternate.de/Seasonic/CORE-BC-750-ATX3-1-PC-Netzteil/html/product/100143121",
+   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 57.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 57.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 57.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 57.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 57.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 57.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 57.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 57.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 57.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 57.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 57.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 49.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-13",
+   "updated": "2026-11-13",
+   "tags": "netzteile seasonic core 750 atx3 netzteil",
+   "source": "crawler"
+  },
+  {
+   "id": "c-alpenfohn-matterhorn-2-aurora-black-cpu-kuhler",
+   "name": "Alpenföhn Matterhorn 2 AURORA black, CPU-Kühler",
+   "cat": "Kühlung",
+   "price": 25.9,
+   "ref": 29.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/Alpenf%C3%B6hn/Matterhorn-2-AURORA-black-CPU-K%C3%BChler/html/product/100201704",
+   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Matterhorn-2-AURORA-black-CPU-K%C3%BChler/html/product/100201704",
+   "note": "13 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 29.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 29.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 29.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 29.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 29.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 29.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 29.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 25.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-13",
+   "updated": "2026-11-13",
+   "tags": "kuhlung luftkuhler alpenfohn matterhorn aurora black cpu kuhler",
+   "source": "crawler"
+  },
+  {
    "id": "c-asus-b650e-max-gaming-wifi-mainboard-atx-sockel-am5-amd-b650",
    "name": "ASUS B650E MAX GAMING WIFI Mainboard ATX Sockel AM5 AMD B650 DDR5 Schwarz",
    "cat": "Mainboards",
@@ -2995,6 +3205,56 @@
    "seen": "2026-11-13",
    "updated": "2026-11-13",
    "tags": "monitore 23,8\" p24 fhd 1920x1080 office monitor schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-alpenfohn-matterhorn-2-aurora-max-black-cpu-kuhler",
+   "name": "Alpenföhn Matterhorn 2 Aurora Max black, CPU-Kühler",
+   "cat": "Kühlung",
+   "price": 48.9,
+   "ref": 54.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/Alpenf%C3%B6hn/Matterhorn-2-Aurora-Max-black-CPU-K%C3%BChler/html/product/100201706",
+   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Matterhorn-2-Aurora-Max-black-CPU-K%C3%BChler/html/product/100201706",
+   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 54.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 54.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 54.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 54.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 54.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 54.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 54.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 48.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-13",
+   "updated": "2026-11-13",
+   "tags": "kuhlung luftkuhler alpenfohn matterhorn aurora max black cpu kuhler",
    "source": "crawler"
   },
   {

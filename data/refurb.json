@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-13T11:27:25.136Z",
+ "updated": "2026-11-13T11:59:12.281Z",
  "products": [
   {
    "id": "r-acer-b246hylbymiprx-23-8-full-hd-1920x1080-display-hdmi-disp",
@@ -16597,6 +16597,10 @@
     {
      "d": "2026-11-12",
      "p": 399
+    },
+    {
+     "d": "2026-11-13",
+     "p": 399
     }
    ],
    "firstSeen": "2026-10-30"
@@ -32390,69 +32394,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "r-dell-latitude-5510-15-6-zoll-1920x1080-full-hd-intel-core-i5",
-   "cat": "Laptops",
-   "name": "Dell Latitude 5510 15,6 Zoll 1920x1080 Full HD Intel Core i5 512GB SSD 16GB Windows 11 Pro Webcam",
-   "brand": "Dell",
-   "price": 518.99,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/dell-latitude-5510-15-6-zoll-1920x1080-full-hd-intel-core-i5-512gb-ssd-16gb-windows-11-pro-webcam-6",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Latitude-5510-1_594d0c64-109a-456b-9931-c7260ab33d5b.png?v=1770990971",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 518.99
-    },
-    {
-     "d": "2026-10-31",
-     "p": 518.99
-    },
-    {
-     "d": "2026-11-01",
-     "p": 518.99
-    },
-    {
-     "d": "2026-11-02",
-     "p": 518.99
-    },
-    {
-     "d": "2026-11-03",
-     "p": 518.99
-    },
-    {
-     "d": "2026-11-04",
-     "p": 518.99
-    },
-    {
-     "d": "2026-11-05",
-     "p": 518.99
-    },
-    {
-     "d": "2026-11-06",
-     "p": 518.99
-    },
-    {
-     "d": "2026-11-07",
-     "p": 518.99
-    },
-    {
-     "d": "2026-11-08",
-     "p": 518.99
-    },
-    {
-     "d": "2026-11-09",
-     "p": 518.99
-    },
-    {
-     "d": "2026-11-10",
-     "p": 518.99
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "r-hp-probook-440-g8-14-fhd-display-intel-core-i5-1135g7-16gb-r",
    "cat": "Laptops",
    "name": "HP ProBook 440 G8, 14\" FHD Display, Intel Core i5 1135G7, 16GB RAM, 512GB SSD, Webcam, LTE 4G, Windows 11 Pro, ESET Internet Security",
@@ -42536,69 +42477,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "r-dell-latitude-7430-14-zoll-touch-display-intel-core-i5-512gb",
-   "cat": "Laptops",
-   "name": "Dell Latitude 7430 14 Zoll Touch Display Intel Core i5 512GB SSD 16GB Windows 11 Pro Webcam",
-   "brand": "Dell",
-   "price": 589,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/dell-latitude-7430-14-zoll-touch-display-intel-core-i5-512gb-ssd-16gb-windows-11-pro-webcam-2",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Latitude-7430-schwarz-1.png?v=1770990617",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 589
-    },
-    {
-     "d": "2026-10-31",
-     "p": 589
-    },
-    {
-     "d": "2026-11-01",
-     "p": 589
-    },
-    {
-     "d": "2026-11-02",
-     "p": 589
-    },
-    {
-     "d": "2026-11-03",
-     "p": 589
-    },
-    {
-     "d": "2026-11-04",
-     "p": 589
-    },
-    {
-     "d": "2026-11-05",
-     "p": 589
-    },
-    {
-     "d": "2026-11-06",
-     "p": 589
-    },
-    {
-     "d": "2026-11-07",
-     "p": 589
-    },
-    {
-     "d": "2026-11-08",
-     "p": 589
-    },
-    {
-     "d": "2026-11-09",
-     "p": 589
-    },
-    {
-     "d": "2026-11-10",
-     "p": 589
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "r-lenovo-thinkcentre-m70q-tiny-intel-core-i5-10500t-512gb-ssd-",
    "cat": "PCs & Workstations",
    "name": "Lenovo ThinkCentre M70q Tiny Intel Core i5-10500T 512GB SSD 16GB Windows 11 Pro",
@@ -50176,53 +50054,6 @@
     }
    ],
    "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-lenovo-thinkpad-t15-gen-2-15-6-fhd-display-intel-core-i7-118",
-   "cat": "Laptops",
-   "name": "Lenovo ThinkPad T15 Gen 2, 15,6” FHD Display, Intel Core i7 1185G7, 16GB RAM, 512GB SSD, Webcam, Windows 11 Pro, ESET Internet Security",
-   "brand": "Lenovo",
-   "price": 719,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/lenovo-thinkpad-t15-gen-2-15-6-fhd-display-intel-core-i7-1185g7-16gb-ram-512gb-ssd-webcam-windows-11-pro-eset-internet-security",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-T15-G2-1_1a4512ff-702f-4664-95a7-2f8863c45163.png?v=1770991271",
-   "hist": [
-    {
-     "d": "2026-11-03",
-     "p": 719
-    },
-    {
-     "d": "2026-11-04",
-     "p": 719
-    },
-    {
-     "d": "2026-11-05",
-     "p": 719
-    },
-    {
-     "d": "2026-11-06",
-     "p": 719
-    },
-    {
-     "d": "2026-11-07",
-     "p": 719
-    },
-    {
-     "d": "2026-11-08",
-     "p": 719
-    },
-    {
-     "d": "2026-11-09",
-     "p": 719
-    },
-    {
-     "d": "2026-11-10",
-     "p": 719
-    }
-   ],
-   "firstSeen": "2026-11-03"
   },
   {
    "id": "r-lenovo-thinkpad-x1-yoga-gen-6-14-zoll-touch-display-intel-co",
