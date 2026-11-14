@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T19:46:20.452Z",
+ "updated": "2026-11-14T21:41:01.071Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1505,6 +1505,88 @@
    "seen": "2026-11-14",
    "updated": "2026-11-14",
    "tags": "ssds pcie 4.0 2 tb western digital black sn770m pcie nvme ssd",
+   "source": "crawler"
+  },
+  {
+   "id": "c-alphacool-core-1-aurora-black-cpu-kuhler",
+   "name": "Alphacool Core 1 Aurora Black, CPU-Kühler",
+   "cat": "Kühlung",
+   "price": 77.99,
+   "ref": 122.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/Alphacool/Core-1-Aurora-Black-CPU-K%C3%BChler/html/product/100218433",
+   "url": "https://www.alternate.de/Alphacool/Core-1-Aurora-Black-CPU-K%C3%BChler/html/product/100218433",
+   "note": "37 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 122.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 77.99
+    },
+    {
+     "d": "2026-11-07",
+     "p": 77.99
+    },
+    {
+     "d": "2026-11-08",
+     "p": 77.99
+    },
+    {
+     "d": "2026-11-09",
+     "p": 77.99
+    },
+    {
+     "d": "2026-11-10",
+     "p": 77.99
+    },
+    {
+     "d": "2026-11-11",
+     "p": 122.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 77.99
+    },
+    {
+     "d": "2026-11-13",
+     "p": 77.99
+    },
+    {
+     "d": "2026-11-14",
+     "p": 77.99
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-14",
+   "updated": "2026-11-14",
+   "tags": "kuhlung luftkuhler alphacool core aurora black cpu kuhler",
    "source": "crawler"
   },
   {
@@ -3972,6 +4054,10 @@
     },
     {
      "d": "2026-11-12",
+     "p": 201.67
+    },
+    {
+     "d": "2026-11-14",
      "p": 201.67
     }
    ],
