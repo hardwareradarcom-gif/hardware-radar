@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T06:22:39.085Z",
+ "updated": "2026-11-14T08:05:47.844Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1666,6 +1666,60 @@
    "source": "crawler"
   },
   {
+   "id": "c-cooler-master-masterbox-600-argb-pc-gehause-midi-tower-e-atx",
+   "name": "Cooler Master MasterBox 600 ARGB PC-Gehäuse, Midi-Tower, E-ATX, RGB, Tempered Glass - schwarz",
+   "cat": "Gehäuse",
+   "price": 69.9,
+   "ref": 95.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/cooler-master-masterbox-600-argb-pc-gehaeuse-midi-tower-e-atx-rgb-tempered-glass-schwarz/GECO-339.html",
+   "url": "https://www.caseking.de/cooler-master-masterbox-600-argb-pc-gehaeuse-midi-tower-e-atx-rgb-tempered-glass-schwarz/GECO-339.html",
+   "note": "27 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 95.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 95.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 95.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 95.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 95.9
+    },
+    {
+     "d": "2026-11-07",
+     "p": 95.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 95.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 95.9
+    },
+    {
+     "d": "2026-11-14",
+     "p": 69.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-14",
+   "updated": "2026-11-14",
+   "tags": "gehause cooler master masterbox 600 argb midi tower atx rgb tempered glass schwarz",
+   "source": "crawler"
+  },
+  {
    "id": "c-xilence-performance-a-m705d-cpu-kuhler",
    "name": "Xilence Performance A+ M705D, CPU-Kühler",
    "cat": "Kühlung",
@@ -3017,6 +3071,72 @@
    "seen": "2026-11-14",
    "updated": "2026-11-14",
    "tags": "kuhlung luftkuhler noctua d15 chromax black cpu kuhler",
+   "source": "crawler"
+  },
+  {
+   "id": "c-montech-nx600-argb-cpu-kuhler",
+   "name": "Montech NX600 ARGB, CPU-Kühler",
+   "cat": "Kühlung",
+   "price": 26.9,
+   "ref": 31.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/Montech/NX600-ARGB-CPU-K%C3%BChler/html/product/100158853",
+   "url": "https://www.alternate.de/Montech/NX600-ARGB-CPU-K%C3%BChler/html/product/100158853",
+   "note": "16 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-01",
+     "p": 31.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 31.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 31.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 31.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 31.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 31.9
+    },
+    {
+     "d": "2026-11-07",
+     "p": 31.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 31.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 31.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 31.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 31.9
+    },
+    {
+     "d": "2026-11-14",
+     "p": 26.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-14",
+   "updated": "2026-11-14",
+   "tags": "kuhlung luftkuhler montech nx600 argb cpu kuhler",
    "source": "crawler"
   },
   {
