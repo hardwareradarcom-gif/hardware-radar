@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T13:55:32.507Z",
+ "updated": "2026-11-14T15:43:42.561Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -2607,6 +2607,10 @@
     {
      "d": "2026-11-12",
      "p": 129
+    },
+    {
+     "d": "2026-11-14",
+     "p": 129
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -3210,6 +3214,60 @@
    "source": "crawler"
   },
   {
+   "id": "c-aorus-fo27q5p-qd-oled-gaming-monitor-27-qhd-500-hz-schwarz",
+   "name": "AORUS FO27Q5P QD-OLED Gaming-Monitor 27\" QHD 500 Hz Schwarz",
+   "cat": "Monitore",
+   "price": 724.02,
+   "ref": 855.56,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/aorus-fo27q5p-qd-oled-gaming-monitor-27-qhd-500-hz-schwarz-100606628/",
+   "url": "https://www.jacob.de/produkt/aorus-fo27q5p-qd-oled-gaming-monitor-27-qhd-500-hz-schwarz-100606628/",
+   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 855.56
+    },
+    {
+     "d": "2026-10-31",
+     "p": 855.56
+    },
+    {
+     "d": "2026-11-01",
+     "p": 855.56
+    },
+    {
+     "d": "2026-11-02",
+     "p": 855.56
+    },
+    {
+     "d": "2026-11-04",
+     "p": 855.56
+    },
+    {
+     "d": "2026-11-07",
+     "p": 825
+    },
+    {
+     "d": "2026-11-09",
+     "p": 817.63
+    },
+    {
+     "d": "2026-11-12",
+     "p": 825
+    },
+    {
+     "d": "2026-11-14",
+     "p": 724.02
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-14",
+   "updated": "2026-11-14",
+   "tags": "monitore 27\" aorus fo27q5p oled gaming monitor qhd 500 schwarz",
+   "source": "crawler"
+  },
+  {
    "id": "c-thermalright-hyper-vision-ub-aio-water-cooling-argb-intel-an",
    "name": "Thermalright Hyper Vision UB AiO Water Cooling, ARGB, Intel and AMD Socket - 360mm, black",
    "cat": "Kühlung",
@@ -3234,6 +3292,10 @@
     },
     {
      "d": "2026-11-12",
+     "p": 99.9
+    },
+    {
+     "d": "2026-11-14",
      "p": 99.9
     }
    ],
@@ -3490,53 +3552,57 @@
    "source": "crawler"
   },
   {
-   "id": "c-alpenfohn-matterhorn-2-aurora-black-cpu-kuhler",
-   "name": "Alpenföhn Matterhorn 2 AURORA black, CPU-Kühler",
-   "cat": "Kühlung",
-   "price": 25.9,
-   "ref": 29.9,
-   "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/Alpenf%C3%B6hn/Matterhorn-2-AURORA-black-CPU-K%C3%BChler/html/product/100201704",
-   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Matterhorn-2-AURORA-black-CPU-K%C3%BChler/html/product/100201704",
-   "note": "13 % unter dem mittleren Preis der letzten 30 Tage.",
+   "id": "c-lenovo-sk-hynix-ssd-512-gb-m-2-2280-pcie-4-0-x4-nvme",
+   "name": "Lenovo SK Hynix SSD 512 GB M.2 2280 PCIe 4.0 x4 NVMe",
+   "cat": "SSDs",
+   "price": 308.13,
+   "ref": 357.19,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/lenovo-sk-hynix-ssd-512-gb-m-2-2280-pcie-4-0-x4-nvme-9088676/",
+   "url": "https://www.jacob.de/produkt/lenovo-sk-hynix-ssd-512-gb-m-2-2280-pcie-4-0-x4-nvme-9088676/",
+   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
+     "d": "2026-10-30",
+     "p": 354.13
+    },
+    {
+     "d": "2026-10-31",
+     "p": 360.25
+    },
+    {
+     "d": "2026-11-01",
+     "p": 360.25
+    },
+    {
+     "d": "2026-11-02",
+     "p": 369.42
+    },
+    {
      "d": "2026-11-04",
-     "p": 29.9
+     "p": 378.6
     },
     {
-     "d": "2026-11-05",
-     "p": 29.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 29.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 29.9
+     "d": "2026-11-07",
+     "p": 249.67
     },
     {
      "d": "2026-11-09",
-     "p": 29.9
+     "p": 246.63
     },
     {
-     "d": "2026-11-10",
-     "p": 29.9
+     "d": "2026-11-12",
+     "p": 326.85
     },
     {
-     "d": "2026-11-11",
-     "p": 29.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 25.9
+     "d": "2026-11-14",
+     "p": 308.13
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
    "seen": "2026-11-14",
    "updated": "2026-11-14",
-   "tags": "kuhlung luftkuhler alpenfohn matterhorn aurora black cpu kuhler",
+   "tags": "ssds pcie 4.0 512 gb lenovo hynix ssd 512 2280 pcie nvme",
    "source": "crawler"
   },
   {
@@ -3702,6 +3768,60 @@
    "source": "crawler"
   },
   {
+   "id": "c-gigabyte-m27q2-qd-27-qhd-ss-ips-gaming-monitor-200-hz-schwar",
+   "name": "Gigabyte M27Q2 QD 27\" QHD SS-IPS Gaming-Monitor 200 Hz Schwarz",
+   "cat": "Monitore",
+   "price": 196.67,
+   "ref": 223.31,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/gigabyte-m27q2-qd-27-qhd-ss-ips-gaming-monitor-200-hz-schwarz-100677373/",
+   "url": "https://www.jacob.de/produkt/gigabyte-m27q2-qd-27-qhd-ss-ips-gaming-monitor-200-hz-schwarz-100677373/",
+   "note": "12 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 223.54
+    },
+    {
+     "d": "2026-10-31",
+     "p": 218.52
+    },
+    {
+     "d": "2026-11-01",
+     "p": 218.52
+    },
+    {
+     "d": "2026-11-02",
+     "p": 223.54
+    },
+    {
+     "d": "2026-11-04",
+     "p": 225.29
+    },
+    {
+     "d": "2026-11-07",
+     "p": 223.36
+    },
+    {
+     "d": "2026-11-09",
+     "p": 223.26
+    },
+    {
+     "d": "2026-11-12",
+     "p": 221.32
+    },
+    {
+     "d": "2026-11-14",
+     "p": 196.67
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-14",
+   "updated": "2026-11-14",
+   "tags": "monitore 27\" gigabyte m27q2 qhd ips gaming monitor 200 schwarz",
+   "source": "crawler"
+  },
+  {
    "id": "c-asus-b850-max-gaming-wifi-w-mainboard-atx-sockel-am5-amd-b85",
    "name": "ASUS B850 MAX GAMING WIFI W Mainboard ATX Sockel AM5 AMD B850 DDR5 Weiß",
    "cat": "Mainboards",
@@ -3759,7 +3879,7 @@
    "id": "c-eizo-flexscan-ev2495-wt-mit-flexstand-led-monitor-61-1-cm-24",
    "name": "EIZO FlexScan EV2495-WT - Mit FlexStand - LED-Monitor - 61.1 cm (24.1\") - 1920 x 1200 - IPS - 350 cd/m² - 1000:1 - 5 ms - HDMI, DisplayPort, USB-C - Lautsprecher - weiß [Energieklasse C]",
    "cat": "Monitore",
-   "price": 475.64,
+   "price": 474.69,
    "ref": 535.3,
    "shop": "JACOB Elektronik GmbH",
    "shopUrl": "https://www.jacob.de/produkt/eizo-flexscan-ev2495-wt-mit-flexstand-led-monitor-61-1-cm-24-1-1920-x-1200-ips-350-cd-m2-1000-1-5-ms-hdmi-displayport-usb-c-lautsprecher-weiss-energieklasse-c-6795091/",
@@ -3797,6 +3917,10 @@
     {
      "d": "2026-11-12",
      "p": 475.64
+    },
+    {
+     "d": "2026-11-14",
+     "p": 474.69
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -4069,56 +4193,6 @@
    "seen": "2026-11-14",
    "updated": "2026-11-14",
    "tags": "monitore 27\" ultragear 27g610a zoll wqhd gaming monitor 200hz ips freesync premium",
-   "source": "crawler"
-  },
-  {
-   "id": "c-alpenfohn-matterhorn-2-aurora-max-black-cpu-kuhler",
-   "name": "Alpenföhn Matterhorn 2 Aurora Max black, CPU-Kühler",
-   "cat": "Kühlung",
-   "price": 48.9,
-   "ref": 54.9,
-   "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/Alpenf%C3%B6hn/Matterhorn-2-Aurora-Max-black-CPU-K%C3%BChler/html/product/100201706",
-   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Matterhorn-2-Aurora-Max-black-CPU-K%C3%BChler/html/product/100201706",
-   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-04",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-09",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-10",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-11",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 48.9
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-14",
-   "updated": "2026-11-14",
-   "tags": "kuhlung luftkuhler alpenfohn matterhorn aurora max black cpu kuhler",
    "source": "crawler"
   },
   {
