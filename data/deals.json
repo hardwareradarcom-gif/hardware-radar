@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T17:12:55.684Z",
+ "updated": "2026-11-14T17:41:16.350Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -2274,8 +2274,8 @@
    "price": 114.9,
    "ref": 144.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/lian-li-sp850-v2-gold-netzteil-modular-atx-3.1-850-watt-schwarz/NELI-028.html",
-   "url": "https://www.caseking.de/lian-li-sp850-v2-gold-netzteil-modular-atx-3.1-850-watt-schwarz/NELI-028.html",
+   "shopUrl": "https://www.caseking.de/en/lian-li-sp850-v2-gold-power-supply-modular-atx-3.1-850-watts-black/NELI-028.html",
+   "url": "https://www.caseking.de/en/lian-li-sp850-v2-gold-power-supply-modular-atx-3.1-850-watts-black/NELI-028.html",
    "note": "21 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -2324,6 +2324,10 @@
     },
     {
      "d": "2026-11-12",
+     "p": 114.9
+    },
+    {
+     "d": "2026-11-14",
      "p": 114.9
     }
    ],
@@ -2389,80 +2393,6 @@
    "seen": "2026-11-14",
    "updated": "2026-11-14",
    "tags": "prozessoren am5 amd ryzen 7800x3d ghz raphael boxed",
-   "source": "crawler"
-  },
-  {
-   "id": "c-fsp-np5-wa-cpu-kuhler",
-   "name": "FSP NP5-WA, CPU-Kühler",
-   "cat": "Kühlung",
-   "price": 19.9,
-   "ref": 24.9,
-   "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/FSP/NP5-WA-CPU-K%C3%BChler/html/product/100143921",
-   "url": "https://www.alternate.de/FSP/NP5-WA-CPU-K%C3%BChler/html/product/100143921",
-   "note": "20 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 24.9
-    },
-    {
-     "d": "2026-10-31",
-     "p": 24.9
-    },
-    {
-     "d": "2026-11-01",
-     "p": 24.9
-    },
-    {
-     "d": "2026-11-02",
-     "p": 24.9
-    },
-    {
-     "d": "2026-11-03",
-     "p": 24.9
-    },
-    {
-     "d": "2026-11-04",
-     "p": 24.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 24.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 24.9
-    },
-    {
-     "d": "2026-11-07",
-     "p": 24.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 24.9
-    },
-    {
-     "d": "2026-11-09",
-     "p": 24.9
-    },
-    {
-     "d": "2026-11-10",
-     "p": 24.9
-    },
-    {
-     "d": "2026-11-12",
-     "p": 24.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 19.9
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-14",
-   "updated": "2026-11-14",
-   "tags": "kuhlung luftkuhler fsp np5 cpu kuhler",
    "source": "crawler"
   },
   {
@@ -2644,6 +2574,10 @@
     },
     {
      "d": "2026-11-12",
+     "p": 47
+    },
+    {
+     "d": "2026-11-14",
      "p": 47
     }
    ],
@@ -2868,6 +2802,10 @@
     },
     {
      "d": "2026-11-13",
+     "p": 55.9
+    },
+    {
+     "d": "2026-11-14",
      "p": 55.9
     }
    ],
@@ -3331,6 +3269,10 @@
     {
      "d": "2026-11-12",
      "p": 99.9
+    },
+    {
+     "d": "2026-11-14",
+     "p": 99.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -3542,6 +3484,10 @@
     },
     {
      "d": "2026-11-13",
+     "p": 49.9
+    },
+    {
+     "d": "2026-11-14",
      "p": 49.9
     }
    ],
@@ -4050,56 +3996,6 @@
    "source": "crawler"
   },
   {
-   "id": "c-be-quiet-dark-rock-pro-6-cpu-kuhler",
-   "name": "be quiet! Dark Rock Pro 6, CPU-Kühler",
-   "cat": "Kühlung",
-   "price": 79.9,
-   "ref": 89.9,
-   "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/be-quiet/Dark-Rock-Pro-6-CPU-K%C3%BChler/html/product/100201148",
-   "url": "https://www.alternate.de/be-quiet/Dark-Rock-Pro-6-CPU-K%C3%BChler/html/product/100201148",
-   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-04",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-09",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-10",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-12",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 79.9
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-14",
-   "updated": "2026-11-14",
-   "tags": "kuhlung luftkuhler quiet dark rock pro cpu kuhler",
-   "source": "crawler"
-  },
-  {
    "id": "c-amd-ryzen-7-5800x-3-8-ghz-8-kerne-32-mb-cache",
    "name": "AMD Ryzen 7 5800X 3.8 GHz 8 Kerne 32 MB Cache",
    "cat": "Prozessoren",
@@ -4236,6 +4132,10 @@
     },
     {
      "d": "2026-11-13",
+     "p": 32.9
+    },
+    {
+     "d": "2026-11-14",
      "p": 32.9
     }
    ],
