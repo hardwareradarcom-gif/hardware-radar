@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T08:05:47.844Z",
+ "updated": "2026-11-14T09:49:59.056Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1386,6 +1386,10 @@
     },
     {
      "d": "2026-11-12",
+     "p": 89.9
+    },
+    {
+     "d": "2026-11-14",
      "p": 89.9
     }
    ],
@@ -3316,60 +3320,10 @@
    "source": "crawler"
   },
   {
-   "id": "c-asus-prime-b850-plus-wifi-mainboard-atx-sockel-am5-ddr5-wi-f",
-   "name": "ASUS Prime B850-PLUS WIFI Mainboard ATX Sockel AM5 DDR5 Wi-Fi 6E Schwarz",
-   "cat": "Mainboards",
-   "price": 189.79,
-   "ref": 222.32,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/asus-prime-b850-plus-wifi-mainboard-atx-sockel-am5-ddr5-wi-fi-6e-schwarz-100553583/",
-   "url": "https://www.jacob.de/produkt/asus-prime-b850-plus-wifi-mainboard-atx-sockel-am5-ddr5-wi-fi-6e-schwarz-100553583/",
-   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 222.32
-    },
-    {
-     "d": "2026-10-31",
-     "p": 222.32
-    },
-    {
-     "d": "2026-11-01",
-     "p": 222.32
-    },
-    {
-     "d": "2026-11-02",
-     "p": 222.32
-    },
-    {
-     "d": "2026-11-04",
-     "p": 222.32
-    },
-    {
-     "d": "2026-11-06",
-     "p": 240.94
-    },
-    {
-     "d": "2026-11-09",
-     "p": 240.94
-    },
-    {
-     "d": "2026-11-11",
-     "p": 189.79
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-14",
-   "updated": "2026-11-14",
-   "tags": "mainboards am5 b850 asus prime b850 plus wifi mainboard atx sockel am5 ddr5 schwarz",
-   "source": "crawler"
-  },
-  {
    "id": "c-asus-zenscreen-mb17ahg-17-3-ips-monitor-1920-x-1080-144-hz-s",
    "name": "ASUS ZenScreen MB17AHG 17.3\" IPS Monitor 1920 x 1080 144 Hz Schwarz",
    "cat": "Monitore",
-   "price": 334.95,
+   "price": 334.82,
    "ref": 389.99,
    "shop": "JACOB Elektronik GmbH",
    "shopUrl": "https://www.jacob.de/produkt/asus-zenscreen-mb17ahg-17-3-ips-monitor-1920-x-1080-144-hz-schwarz-8913116/",
@@ -3407,6 +3361,10 @@
     {
      "d": "2026-11-11",
      "p": 334.95
+    },
+    {
+     "d": "2026-11-14",
+     "p": 334.82
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -3567,6 +3525,60 @@
    "seen": "2026-11-14",
    "updated": "2026-11-14",
    "tags": "kuhlung luftkuhler alpenfohn matterhorn aurora black cpu kuhler",
+   "source": "crawler"
+  },
+  {
+   "id": "c-asus-prime-b850-plus-wifi-mainboard-atx-sockel-am5-ddr5-wi-f",
+   "name": "ASUS Prime B850-PLUS WIFI Mainboard ATX Sockel AM5 DDR5 Wi-Fi 6E Schwarz",
+   "cat": "Mainboards",
+   "price": 193.28,
+   "ref": 222.32,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/asus-prime-b850-plus-wifi-mainboard-atx-sockel-am5-ddr5-wi-fi-6e-schwarz-100553583/",
+   "url": "https://www.jacob.de/produkt/asus-prime-b850-plus-wifi-mainboard-atx-sockel-am5-ddr5-wi-fi-6e-schwarz-100553583/",
+   "note": "13 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 222.32
+    },
+    {
+     "d": "2026-10-31",
+     "p": 222.32
+    },
+    {
+     "d": "2026-11-01",
+     "p": 222.32
+    },
+    {
+     "d": "2026-11-02",
+     "p": 222.32
+    },
+    {
+     "d": "2026-11-04",
+     "p": 222.32
+    },
+    {
+     "d": "2026-11-06",
+     "p": 240.94
+    },
+    {
+     "d": "2026-11-09",
+     "p": 240.94
+    },
+    {
+     "d": "2026-11-11",
+     "p": 189.79
+    },
+    {
+     "d": "2026-11-14",
+     "p": 193.28
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-14",
+   "updated": "2026-11-14",
+   "tags": "mainboards am5 b850 asus prime b850 plus wifi mainboard atx sockel am5 ddr5 schwarz",
    "source": "crawler"
   },
   {
@@ -4462,6 +4474,10 @@
     },
     {
      "d": "2026-11-13",
+     "p": 617.68
+    },
+    {
+     "d": "2026-11-14",
      "p": 617.68
     }
    ],
