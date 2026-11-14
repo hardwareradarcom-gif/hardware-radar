@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T15:43:42.561Z",
+ "updated": "2026-11-14T17:12:55.684Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -20615,6 +20615,35 @@
    "firstSeen": "2026-11-02"
   },
   {
+   "id": "c-chieftec-zpu-400s-atx-2-3-pc-netzteil",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Chieftec ZPU-400S ATX 2.3, PC-Netzteil",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Chieftec/ZPU-400S-ATX-2-3-PC-Netzteil/html/product/100058198",
+   "stand": "2026-11-14T17:12",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 37.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Chieftec/ZPU-400S-ATX-2-3-PC-Netzteil/html/product/100058198"
+    }
+   ],
+   "price": 37.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-14",
+     "p": 37.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile chieftec zpu 400s atx netzteil",
+   "firstSeen": "2026-11-14"
+  },
+  {
    "id": "c-deepcool-an600-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -22489,6 +22518,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler quiet pure rock pro cpu kuhler dual tower 120mm silber",
    "firstSeen": "2026-11-11"
+  },
+  {
+   "id": "c-chieftec-zpu-500s-atx-2-3-pc-netzteil",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Chieftec ZPU-500S ATX 2.3, PC-Netzteil",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Chieftec/ZPU-500S-ATX-2-3-PC-Netzteil/html/product/100058202",
+   "stand": "2026-11-14T17:12",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 41.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Chieftec/ZPU-500S-ATX-2-3-PC-Netzteil/html/product/100058202"
+    }
+   ],
+   "price": 41.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-14",
+     "p": 41.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile chieftec zpu 500s atx netzteil",
+   "firstSeen": "2026-11-14"
   },
   {
    "id": "c-adata-xpg-probe-80-plus-bronze-netzteil-atx-2-4-600-watt-sch",
@@ -33242,6 +33300,35 @@
    "firstSeen": "2026-11-06"
   },
   {
+   "id": "c-corsair-rm750x-shift-80-plus-gold-generaluberholt-pc-netztei",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Corsair RM750x SHIFT 80 PLUS Gold Generalüberholt, PC-Netzteil",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Corsair/RM750x-SHIFT-80-PLUS-Gold-General%C3%BCberholt-PC-Netzteil/html/product/100192449",
+   "stand": "2026-11-14T17:12",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 74.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Corsair/RM750x-SHIFT-80-PLUS-Gold-General%C3%BCberholt-PC-Netzteil/html/product/100192449"
+    }
+   ],
+   "price": 74.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-14",
+     "p": 74.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile corsair rm750x shift plus gold generaluberholt netzteil",
+   "firstSeen": "2026-11-14"
+  },
+  {
    "id": "c-montech-sky-3-pc-gehause-midi-tower-atx-argb-tempered-glass-",
    "cat": "Gehäuse",
    "sub": "Gehäuse",
@@ -38640,6 +38727,35 @@
    "count": 1,
    "tags": "kuhlung aio-wasserkuhlung arctic liquid freezer iii pro 420 aio cooler 420mm black",
    "firstSeen": "2026-11-08"
+  },
+  {
+   "id": "c-corsair-rm850e-80-plus-gold-generaluberholt-pc-netzteil",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Corsair RM850e 80 Plus Gold Generalüberholt, PC-Netzteil",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Corsair/RM850e-80-Plus-Gold-General%C3%BCberholt-PC-Netzteil/html/product/100192466",
+   "stand": "2026-11-14T17:12",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 89.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Corsair/RM850e-80-Plus-Gold-General%C3%BCberholt-PC-Netzteil/html/product/100192466"
+    }
+   ],
+   "price": 89.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-14",
+     "p": 89.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile corsair rm850e plus gold generaluberholt netzteil",
+   "firstSeen": "2026-11-14"
   },
   {
    "id": "c-be-quiet-dark-rock-elite-prozessor-luftkuhler-135-mm-schwarz",
@@ -46851,51 +46967,6 @@
    ],
    "count": 1,
    "tags": "kuhlung aio-wasserkuhlung corsair nautilus 360 argb flussig cpu kuhler wasserkuhlung",
-   "firstSeen": "2026-11-06"
-  },
-  {
-   "id": "c-deepcool-assassin-iv-vc-vision-cpu-kuhler",
-   "cat": "Kühlung",
-   "sub": "Luftkühler",
-   "name": "DeepCool ASSASSIN IV VC VISION, CPU-Kühler",
-   "source": "crawler",
-   "url": "https://www.alternate.de/DeepCool/ASSASSIN-IV-VC-VISION-CPU-K%C3%BChler/html/product/100092586",
-   "stand": "2026-11-11T15:55",
-   "offers": [
-    {
-     "shop": "ALTERNATE",
-     "price": 114.9,
-     "ship": 7.99,
-     "avail": "Auf Lager",
-     "url": "https://www.alternate.de/DeepCool/ASSASSIN-IV-VC-VISION-CPU-K%C3%BChler/html/product/100092586"
-    }
-   ],
-   "price": 114.9,
-   "shop": "ALTERNATE",
-   "hist": [
-    {
-     "d": "2026-11-06",
-     "p": 114.9
-    },
-    {
-     "d": "2026-11-07",
-     "p": 114.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 114.9
-    },
-    {
-     "d": "2026-11-10",
-     "p": 114.9
-    },
-    {
-     "d": "2026-11-11",
-     "p": 114.9
-    }
-   ],
-   "count": 1,
-   "tags": "kuhlung luftkuhler deepcool assassin vision cpu kuhler",
    "firstSeen": "2026-11-06"
   },
   {
@@ -90595,6 +90666,35 @@
    "count": 1,
    "tags": "mainboards am5 x870 msi mag x870e tomahawk wifi mainboard sockel am5 amd atx ddr5",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-rog-loki-sfx-l-1200w-titanium-pc-netzteil",
+   "cat": "Netzteile",
+   "sub": "SFX",
+   "name": "ASUS ROG Loki SFX-L 1200W Titanium, PC-Netzteil",
+   "source": "crawler",
+   "url": "https://www.alternate.de/ASUS/ROG-Loki-SFX-L-1200W-Titanium-PC-Netzteil/html/product/100061199",
+   "stand": "2026-11-14T17:12",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 335,
+     "ship": 0,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/ASUS/ROG-Loki-SFX-L-1200W-Titanium-PC-Netzteil/html/product/100061199"
+    }
+   ],
+   "price": 335,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-14",
+     "p": 335
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile sfx asus rog loki 1200w titanium netzteil",
+   "firstSeen": "2026-11-14"
   },
   {
    "id": "c-asrock-x870-taichi-creator-atx-mainboard-sockel-am5-ddr5-sch",
