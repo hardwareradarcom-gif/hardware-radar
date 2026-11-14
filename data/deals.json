@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T17:41:16.350Z",
+ "updated": "2026-11-14T19:46:20.452Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1728,40 +1728,6 @@
    "source": "crawler"
   },
   {
-   "id": "c-xilence-performance-a-m705d-cpu-kuhler",
-   "name": "Xilence Performance A+ M705D, CPU-Kühler",
-   "cat": "Kühlung",
-   "price": 24.9,
-   "ref": 33.9,
-   "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/Xilence/Performance-Aplus-M705D-CPU-K%C3%BChler/html/product/1832445",
-   "url": "https://www.alternate.de/Xilence/Performance-Aplus-M705D-CPU-K%C3%BChler/html/product/1832445",
-   "note": "27 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-09",
-     "p": 33.9
-    },
-    {
-     "d": "2026-11-10",
-     "p": 33.9
-    },
-    {
-     "d": "2026-11-11",
-     "p": 33.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 24.9
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-14",
-   "updated": "2026-11-14",
-   "tags": "kuhlung luftkuhler xilence performance m705d cpu kuhler",
-   "source": "crawler"
-  },
-  {
    "id": "c-seasonic-core-gc-650-atx3-1-pc-netzteil",
    "name": "Seasonic CORE GC-650 ATX3.1, PC-Netzteil",
    "cat": "Netzteile",
@@ -1825,44 +1791,6 @@
    "seen": "2026-11-14",
    "updated": "2026-11-14",
    "tags": "netzteile seasonic core 650 atx3 netzteil",
-   "source": "crawler"
-  },
-  {
-   "id": "c-endorfy-fortis-5-black-cpu-kuhler",
-   "name": "ENDORFY Fortis 5 Black, CPU-Kühler",
-   "cat": "Kühlung",
-   "price": 29.9,
-   "ref": 39.9,
-   "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/ENDORFY/Fortis-5-Black-CPU-K%C3%BChler/html/product/100104995",
-   "url": "https://www.alternate.de/ENDORFY/Fortis-5-Black-CPU-K%C3%BChler/html/product/100104995",
-   "note": "25 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-08",
-     "p": 39.9
-    },
-    {
-     "d": "2026-11-09",
-     "p": 39.9
-    },
-    {
-     "d": "2026-11-10",
-     "p": 39.9
-    },
-    {
-     "d": "2026-11-11",
-     "p": 39.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 29.9
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-14",
-   "updated": "2026-11-14",
-   "tags": "kuhlung luftkuhler endorfy fortis black cpu kuhler",
    "source": "crawler"
   },
   {
@@ -2683,6 +2611,10 @@
     {
      "d": "2026-11-13",
      "p": 40.9
+    },
+    {
+     "d": "2026-11-14",
+     "p": 40.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -3419,6 +3351,10 @@
     {
      "d": "2026-11-12",
      "p": 1692.14
+    },
+    {
+     "d": "2026-11-14",
+     "p": 1692.14
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -3606,6 +3542,64 @@
    "source": "crawler"
   },
   {
+   "id": "c-asus-b850-max-gaming-wifi-w-mainboard-atx-sockel-am5-amd-b85",
+   "name": "ASUS B850 MAX GAMING WIFI W Mainboard ATX Sockel AM5 AMD B850 DDR5 Weiß",
+   "cat": "Mainboards",
+   "price": 222.88,
+   "ref": 254.16,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/asus-b850-max-gaming-wifi-w-mainboard-atx-sockel-am5-amd-b850-ddr5-weiss-100568096/",
+   "url": "https://www.jacob.de/produkt/asus-b850-max-gaming-wifi-w-mainboard-atx-sockel-am5-amd-b850-ddr5-weiss-100568096/",
+   "note": "12 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 254.16
+    },
+    {
+     "d": "2026-10-31",
+     "p": 254.16
+    },
+    {
+     "d": "2026-11-01",
+     "p": 254.16
+    },
+    {
+     "d": "2026-11-02",
+     "p": 254.16
+    },
+    {
+     "d": "2026-11-03",
+     "p": 254.16
+    },
+    {
+     "d": "2026-11-05",
+     "p": 254.16
+    },
+    {
+     "d": "2026-11-07",
+     "p": 254.16
+    },
+    {
+     "d": "2026-11-10",
+     "p": 225.86
+    },
+    {
+     "d": "2026-11-12",
+     "p": 225.09
+    },
+    {
+     "d": "2026-11-14",
+     "p": 222.88
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-14",
+   "updated": "2026-11-14",
+   "tags": "mainboards am5 b850 asus b850 max gaming wifi mainboard atx sockel am5 amd ddr5 weiss",
+   "source": "crawler"
+  },
+  {
    "id": "c-asus-b650e-max-gaming-wifi-mainboard-atx-sockel-am5-amd-b650",
    "name": "ASUS B650E MAX GAMING WIFI Mainboard ATX Sockel AM5 AMD B650 DDR5 Schwarz",
    "cat": "Mainboards",
@@ -3765,60 +3759,6 @@
    "seen": "2026-11-14",
    "updated": "2026-11-14",
    "tags": "monitore 27\" gigabyte m27q2 qhd ips gaming monitor 200 schwarz",
-   "source": "crawler"
-  },
-  {
-   "id": "c-asus-b850-max-gaming-wifi-w-mainboard-atx-sockel-am5-amd-b85",
-   "name": "ASUS B850 MAX GAMING WIFI W Mainboard ATX Sockel AM5 AMD B850 DDR5 Weiß",
-   "cat": "Mainboards",
-   "price": 225.09,
-   "ref": 254.16,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/asus-b850-max-gaming-wifi-w-mainboard-atx-sockel-am5-amd-b850-ddr5-weiss-100568096/",
-   "url": "https://www.jacob.de/produkt/asus-b850-max-gaming-wifi-w-mainboard-atx-sockel-am5-amd-b850-ddr5-weiss-100568096/",
-   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 254.16
-    },
-    {
-     "d": "2026-10-31",
-     "p": 254.16
-    },
-    {
-     "d": "2026-11-01",
-     "p": 254.16
-    },
-    {
-     "d": "2026-11-02",
-     "p": 254.16
-    },
-    {
-     "d": "2026-11-03",
-     "p": 254.16
-    },
-    {
-     "d": "2026-11-05",
-     "p": 254.16
-    },
-    {
-     "d": "2026-11-07",
-     "p": 254.16
-    },
-    {
-     "d": "2026-11-10",
-     "p": 225.86
-    },
-    {
-     "d": "2026-11-12",
-     "p": 225.09
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-14",
-   "updated": "2026-11-14",
-   "tags": "mainboards am5 b850 asus b850 max gaming wifi mainboard atx sockel am5 amd ddr5 weiss",
    "source": "crawler"
   },
   {
@@ -4386,6 +4326,10 @@
     },
     {
      "d": "2026-11-12",
+     "p": 299.9
+    },
+    {
+     "d": "2026-11-14",
      "p": 299.9
     }
    ],
