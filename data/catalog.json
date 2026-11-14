@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T09:49:59.056Z",
+ "updated": "2026-11-14T11:13:40.318Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -15362,6 +15362,35 @@
    "firstSeen": "2026-11-13"
   },
   {
+   "id": "c-titan-dc-ha21tz-rpw-cpu-kuhler-fur-intel-sockel-lga1700-low-",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Titan DC-HA21TZ/RPW CPU-Kühler für Intel Sockel LGA1700 Low Profile 95W",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/titan-dc-ha21tz-rpw-cpu-kuehler-fuer-intel-sockel-lga1700-low-profile-95w-7954110/",
+   "stand": "2026-11-14T11:13",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 25.74,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/titan-dc-ha21tz-rpw-cpu-kuehler-fuer-intel-sockel-lga1700-low-profile-95w-7954110/"
+    }
+   ],
+   "price": 25.74,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-14",
+     "p": 25.74
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler titan ha21tz rpw cpu kuhler fur intel sockel lga1700 low profile 95w",
+   "firstSeen": "2026-11-14"
+  },
+  {
    "id": "c-akasa-soho-h4-plus-cpu-kuhler-ar12-reverse-lufter-rgb-schwar",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -25613,6 +25642,35 @@
    "firstSeen": "2026-11-04"
   },
   {
+   "id": "c-thermalright-peerless-assassin-120-se-white-argb-cpu-luftkuh",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Thermalright Peerless Assassin 120 SE WHITE ARGB CPU-Luftkühler 12 cm Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/thermalright-peerless-assassin-120-se-white-argb-cpu-luftkuehler-12-cm-weiss-100471860/",
+   "stand": "2026-11-14T11:13",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 52.76,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/thermalright-peerless-assassin-120-se-white-argb-cpu-luftkuehler-12-cm-weiss-100471860/"
+    }
+   ],
+   "price": 52.76,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-14",
+     "p": 52.76
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler thermalright peerless assassin 120 white argb cpu weiss",
+   "firstSeen": "2026-11-14"
+  },
+  {
    "id": "c-msi-a520m-a-pro-mainboard-sockel-am4-amd-a520-micro-atx-ddr4",
    "cat": "Mainboards",
    "sub": "AM4 A520",
@@ -29328,6 +29386,35 @@
    "firstSeen": "2026-10-31"
   },
   {
+   "id": "c-deepcool-ak400-zero-dark-plus-prozessor-luftkuhler-120-mm-sc",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "DeepCool AK400 ZERO DARK PLUS Prozessor-Luftkühler 120 mm Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/deepcool-ak400-zero-dark-plus-prozessor-luftkuehler-120-mm-schwarz-100014985/",
+   "stand": "2026-11-14T11:13",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 64.03,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/deepcool-ak400-zero-dark-plus-prozessor-luftkuehler-120-mm-schwarz-100014985/"
+    }
+   ],
+   "price": 64.03,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-14",
+     "p": 64.03
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler deepcool ak400 zero dark plus prozessor 120 schwarz",
+   "firstSeen": "2026-11-14"
+  },
+  {
    "id": "c-inter-tech-q-3-cpu-kuhler-8-cm-7000-rpm-kupfer-schwarz-silbe",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -32164,6 +32251,35 @@
    "count": 1,
    "tags": "netzteile seasonic core 850 atx3 netzteil",
    "firstSeen": "2026-10-31"
+  },
+  {
+   "id": "c-noctua-chromax-black-nh-l9x65-prozessor-luftkuhler-schwarz",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Noctua chromax.black NH-L9x65 Prozessor-Luftkühler Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/noctua-chromax-black-nh-l9x65-prozessor-luftkuehler-schwarz-5301501/",
+   "stand": "2026-11-14T11:13",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 74.6,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/noctua-chromax-black-nh-l9x65-prozessor-luftkuehler-schwarz-5301501/"
+    }
+   ],
+   "price": 74.6,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-14",
+     "p": 74.6
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler noctua chromax black l9x65 prozessor schwarz",
+   "firstSeen": "2026-11-14"
   },
   {
    "id": "c-akasa-soho-h6l-m2-low-profile-cpu-kuhler-argb-120mm-schwarz",
@@ -78591,6 +78707,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-fujitsu-cooler-kit-for-2nd-cpu-prozessor-luftkuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Fujitsu Cooler Kit for 2nd CPU Prozessor-Luftkühler",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/fujitsu-cooler-kit-for-2nd-cpu-prozessor-luftkuehler-7523473/",
+   "stand": "2026-11-14T11:13",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 227.44,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/fujitsu-cooler-kit-for-2nd-cpu-prozessor-luftkuehler-7523473/"
+    }
+   ],
+   "price": 227.44,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-14",
+     "p": 227.44
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler fujitsu cooler kit for 2nd cpu prozessor",
+   "firstSeen": "2026-11-14"
+  },
+  {
    "id": "c-lenovo-thinkvision-t27q-40-27-qhd-ips-120-hz-led-monitor-fin",
    "cat": "Monitore",
    "sub": "27\"",
@@ -88660,6 +88805,35 @@
    "count": 1,
    "tags": "monitore 27\" asus proart pa278cgv zoll gaming monitor 144 ips freesync premium",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-intel-core-i7-14700f-prozessor-2-1-ghz-20-kerne-lga-1700",
+   "cat": "Prozessoren",
+   "sub": "Intel LGA1700",
+   "name": "Intel Core i7-14700F Prozessor 2.1 GHz 20 Kerne LGA 1700",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/intel-core-i7-14700f-prozessor-2-1-ghz-20-kerne-lga-1700-100366874/",
+   "stand": "2026-11-14T11:13",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 325.16,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/intel-core-i7-14700f-prozessor-2-1-ghz-20-kerne-lga-1700-100366874/"
+    }
+   ],
+   "price": 325.16,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-14",
+     "p": 325.16
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren intel lga1700 intel core 14700f prozessor ghz kerne lga 1700",
+   "firstSeen": "2026-11-14"
   },
   {
    "id": "c-iiyama-prolite-xub2797uhsnp-b1-27-4k-ips-monitor-schwarz-mat",

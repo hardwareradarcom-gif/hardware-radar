@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-14T09:49:59.056Z",
+ "updated": "2026-11-14T11:13:40.318Z",
  "products": [
   {
    "id": "r-acer-b246hylbymiprx-23-8-full-hd-1920x1080-display-hdmi-disp",
@@ -13838,6 +13838,29 @@
     }
    ],
    "firstSeen": "2026-11-04"
+  },
+  {
+   "id": "r-hp-elitebook-x360-1040-g6-14-touch-display-intel-core-i7-866",
+   "cat": "Laptops",
+   "name": "HP EliteBook x360 1040 G6, 14” Touch Display, Intel Core i7 8665U, 16GB RAM, 512GB SSD, Fingerprint Reader, Windows 11 Pro",
+   "brand": "HP",
+   "price": 379,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/hp-elitebook-x360-1040-g6-14-touch-display-intel-core-i7-8665u-16gb-ram-512gb-ssd-fingerprint-reader-windows-11-pro",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-x360-1040-G6-0_e9ef471c-4452-4628-9cdb-f14ddaa7a8a1.jpg?v=1770993015",
+   "hist": [
+    {
+     "d": "2026-11-10",
+     "p": 379
+    },
+    {
+     "d": "2026-11-14",
+     "p": 379
+    }
+   ],
+   "firstSeen": "2026-11-10"
   },
   {
    "id": "r-dell-latitude-5410-14-zoll-1920x1080-full-hd-intel-core-i5-5",
@@ -47756,49 +47779,6 @@
     }
    ],
    "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-lenovo-thinkpad-t14s-gen-2-14-fhd-display-amd-ryzen-7-pro-58",
-   "cat": "Laptops",
-   "name": "Lenovo ThinkPad T14s Gen 2, 14” FHD Display, AMD Ryzen 7 PRO 5850U, 16GB RAM, 512GB SSD, Webcam, Windows 11 Pro",
-   "brand": "Lenovo",
-   "price": 638.99,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/lenovo-thinkpad-t14s-gen-2-14-fhd-display-amd-ryzen-7-pro-5850u-16gb-ram-512gb-ssd-webcam-windows-11-pro-1",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-T14s-Gen-2-0_b2c0b385-0168-429d-929f-dd07d0abfd55.jpg?v=1770991935",
-   "hist": [
-    {
-     "d": "2026-11-05",
-     "p": 638.99
-    },
-    {
-     "d": "2026-11-06",
-     "p": 638.99
-    },
-    {
-     "d": "2026-11-07",
-     "p": 638.99
-    },
-    {
-     "d": "2026-11-08",
-     "p": 638.99
-    },
-    {
-     "d": "2026-11-09",
-     "p": 638.99
-    },
-    {
-     "d": "2026-11-10",
-     "p": 638.99
-    },
-    {
-     "d": "2026-11-11",
-     "p": 638.99
-    }
-   ],
-   "firstSeen": "2026-11-05"
   },
   {
    "id": "r-lenovo-thinkpad-p14s-gen-2-14-zoll-1920x1080-full-hd-intel-c",
