@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T15:44:06.688Z",
+ "updated": "2026-11-15T17:13:38.183Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -54184,6 +54184,35 @@
    "firstSeen": "2026-11-05"
   },
   {
+   "id": "c-nzxt-c850-gold-atx-3-1-pc-netzteil",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "NZXT C850 Gold ATX 3.1, PC-Netzteil",
+   "source": "crawler",
+   "url": "https://www.alternate.de/NZXT/C850-Gold-ATX-3-1-PC-Netzteil/html/product/100066520",
+   "stand": "2026-11-15T17:13",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 127,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/NZXT/C850-Gold-ATX-3-1-PC-Netzteil/html/product/100066520"
+    }
+   ],
+   "price": 127,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-15",
+     "p": 127
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile nzxt c850 gold atx netzteil",
+   "firstSeen": "2026-11-15"
+  },
+  {
    "id": "c-xiaomi-g27i-2026-gaming-monitor-68-6-cm-27-full-hd-200hz-1ms",
    "cat": "Monitore",
    "sub": "27\"",
@@ -66431,6 +66460,35 @@
    "firstSeen": "2026-11-11"
   },
   {
+   "id": "c-nzxt-c1200-gold-atx-3-1-pc-netzteil",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "NZXT C1200 Gold ATX 3.1, PC-Netzteil",
+   "source": "crawler",
+   "url": "https://www.alternate.de/NZXT/C1200-Gold-ATX-3-1-PC-Netzteil/html/product/100066519",
+   "stand": "2026-11-15T17:13",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 159.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/NZXT/C1200-Gold-ATX-3-1-PC-Netzteil/html/product/100066519"
+    }
+   ],
+   "price": 159.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-15",
+     "p": 159.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile nzxt c1200 gold atx netzteil",
+   "firstSeen": "2026-11-15"
+  },
+  {
    "id": "c-asus-be24eqk-led-monitor-60-5-cm-23-8-1920-x-1080-full-hd-10",
    "cat": "Monitore",
    "sub": "23,8\"",
@@ -69823,6 +69881,35 @@
    "count": 1,
    "tags": "gehause phanteks enthoo pro server big tower eeb tempered glass schwarz",
    "firstSeen": "2026-11-11"
+  },
+  {
+   "id": "c-nzxt-c1200-gold-atx-3-1-pc-netzteil-kfzlq",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "NZXT C1200 Gold ATX 3.1, PC-Netzteil",
+   "source": "crawler",
+   "url": "https://www.alternate.de/NZXT/C1200-Gold-ATX-3-1-PC-Netzteil/html/product/100066524",
+   "stand": "2026-11-15T17:13",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 169.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/NZXT/C1200-Gold-ATX-3-1-PC-Netzteil/html/product/100066524"
+    }
+   ],
+   "price": 169.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-15",
+     "p": 169.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile nzxt c1200 gold atx netzteil",
+   "firstSeen": "2026-11-15"
   },
   {
    "id": "c-asus-b850m-max-gaming-wifi-mainboard-amd-b850-sockel-am5-mic",
