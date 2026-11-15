@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T09:50:46.046Z",
+ "updated": "2026-11-15T11:15:16.433Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -88876,6 +88876,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-wd-blue-sa510-wds200t3b0b-00c7c0-2-tb-m-2-2280-ssd",
+   "cat": "SSDs",
+   "sub": "NVMe 2 TB",
+   "name": "WD Blue SA510 WDS200T3B0B-00C7C0 2 TB M.2 2280 SSD",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/wd-blue-sa510-wds200t3b0b-00c7c0-2-tb-m-2-2280-ssd-100280961/",
+   "stand": "2026-11-15T11:15",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 286.83,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/wd-blue-sa510-wds200t3b0b-00c7c0-2-tb-m-2-2280-ssd-100280961/"
+    }
+   ],
+   "price": 286.83,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-15",
+     "p": 286.83
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 2 tb blue sa510 wds200t3b0b 00c7c0 2280 ssd",
+   "firstSeen": "2026-11-15"
+  },
+  {
    "id": "c-acer-nitro-xz340cur-x0bmiiphx-34-wqhd-gaming-monitor-schwarz",
    "cat": "Monitore",
    "sub": "34\"",
@@ -89745,6 +89774,35 @@
    "count": 1,
    "tags": "prozessoren intel lga1851 intel core ultra 235 ghz prozessor kerne cache",
    "firstSeen": "2026-10-31"
+  },
+  {
+   "id": "c-crucial-t500-500-gb-m-2-pci-express-4-0-nvme-ssd",
+   "cat": "SSDs",
+   "sub": "NVMe 500 GB",
+   "name": "Crucial T500 500 GB M.2 PCI Express 4.0 NVMe SSD",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/crucial-t500-500-gb-m-2-pci-express-4-0-nvme-ssd-100280712/",
+   "stand": "2026-11-15T11:15",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 297.85,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/crucial-t500-500-gb-m-2-pci-express-4-0-nvme-ssd-100280712/"
+    }
+   ],
+   "price": 297.85,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-15",
+     "p": 297.85
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 500 gb crucial t500 500 pci express nvme ssd",
+   "firstSeen": "2026-11-15"
   },
   {
    "id": "c-gigabyte-g34wqc2-34-zoll-wqhd-gaming-monitor-200hz-va-panel-",
@@ -92919,6 +92977,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-western-digital-wd-black-sn770m-2-tb-m-2-2230-pcie-4-0-nvme-",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 2 TB",
+   "name": "Western Digital WD_BLACK SN770M 2 TB M.2 2230 PCIe 4.0 NVMe SSD Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/western-digital-wd-black-sn770m-2-tb-m-2-2230-pcie-4-0-nvme-ssd-schwarz-100270369/",
+   "stand": "2026-11-15T11:15",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 335.79,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/western-digital-wd-black-sn770m-2-tb-m-2-2230-pcie-4-0-nvme-ssd-schwarz-100270369/"
+    }
+   ],
+   "price": 335.79,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-15",
+     "p": 335.79
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 2 tb western digital black sn770m 2230 pcie nvme ssd schwarz",
+   "firstSeen": "2026-11-15"
+  },
+  {
    "id": "c-lenovo-thinkvision-c24d-20-24-led-monitor-1920x1200-ips-hdmi",
    "cat": "Monitore",
    "sub": "24\"",
@@ -94578,6 +94665,35 @@
    "count": 1,
    "tags": "monitore 27\" msi mag 272qpde x24 oled gaming monitor 60cm wqhd 240 schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-sandisk-optimus-gx-pro-8100-ssd-1-tb-m-2-pcie-gen5-nvme",
+   "cat": "SSDs",
+   "sub": "PCIe 5.0 1 TB",
+   "name": "SanDisk Optimus GX PRO 8100 SSD 1 TB M.2 PCIe Gen5 NVMe",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/sandisk-optimus-gx-pro-8100-ssd-1-tb-m-2-pcie-gen5-nvme-100750456/",
+   "stand": "2026-11-15T11:15",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 354.11,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/sandisk-optimus-gx-pro-8100-ssd-1-tb-m-2-pcie-gen5-nvme-100750456/"
+    }
+   ],
+   "price": 354.11,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-15",
+     "p": 354.11
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 5.0 1 tb sandisk optimus pro 8100 ssd pcie gen5 nvme",
+   "firstSeen": "2026-11-15"
   },
   {
    "id": "c-elo-1004l-10-1-tft-monitor-1280x800-schwarz",
@@ -103445,6 +103561,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-western-digital-wd-red-sa500-wds200t2r0a-2-tb-ssd-2-5-sata",
+   "cat": "SSDs",
+   "sub": "SATA 2 TB",
+   "name": "Western Digital WD Red SA500 WDS200T2R0A 2 TB SSD 2,5\" SATA",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/western-digital-wd-red-sa500-wds200t2r0a-2-tb-ssd-2-5-sata-100455007/",
+   "stand": "2026-11-15T11:15",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 505.43,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/western-digital-wd-red-sa500-wds200t2r0a-2-tb-ssd-2-5-sata-100455007/"
+    }
+   ],
+   "price": 505.43,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-15",
+     "p": 505.43
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 2 tb western digital red sa500 wds200t2r0a ssd sata",
+   "firstSeen": "2026-11-15"
+  },
+  {
    "id": "c-asus-proart-x870e-creator-wifi-mainboard-atx-sockel-am5-amd-",
    "cat": "Mainboards",
    "sub": "AM5 X870",
@@ -104880,6 +105025,35 @@
    "count": 1,
    "tags": "mainboards intel lga1851 z890 asus pro z890 ace mainboard sockel lga 1851 intel atx ddr5",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-sandisk-ultra-3d-2-tb-ssd-sata-iii-3d-nand",
+   "cat": "SSDs",
+   "sub": "SATA 2 TB",
+   "name": "SanDisk Ultra 3D 2 TB SSD SATA III 3D NAND",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/sandisk-ultra-3d-2-tb-ssd-sata-iii-3d-nand-100747186/",
+   "stand": "2026-11-15T11:15",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 543.16,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/sandisk-ultra-3d-2-tb-ssd-sata-iii-3d-nand-100747186/"
+    }
+   ],
+   "price": 543.16,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-15",
+     "p": 543.16
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 2 tb sandisk ultra ssd sata iii nand",
+   "firstSeen": "2026-11-15"
   },
   {
    "id": "c-samsung-pm893-480-gb-ssd-2-5-sata-6gb-s",
@@ -108159,6 +108333,35 @@
    "count": 1,
    "tags": "prozessoren intel lga1700 intel core 13900k ghz kerne lga 1700",
    "firstSeen": "2026-10-31"
+  },
+  {
+   "id": "c-sandisk-optimus-gx-pro-8100-2-tb-m-2-nvme-pcie-gen5-ssd",
+   "cat": "SSDs",
+   "sub": "PCIe 5.0 2 TB",
+   "name": "SanDisk Optimus GX PRO 8100 2 TB M.2 NVMe PCIe Gen5 SSD",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/sandisk-optimus-gx-pro-8100-2-tb-m-2-nvme-pcie-gen5-ssd-100750457/",
+   "stand": "2026-11-15T11:15",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 610.46,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/sandisk-optimus-gx-pro-8100-2-tb-m-2-nvme-pcie-gen5-ssd-100750457/"
+    }
+   ],
+   "price": 610.46,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-15",
+     "p": 610.46
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 5.0 2 tb sandisk optimus pro 8100 nvme pcie gen5 ssd",
+   "firstSeen": "2026-11-15"
   },
   {
    "id": "c-philips-p-line-346p1crh-34-curved-wqhd-monitor-3440-x-1440-1",
@@ -113884,6 +114087,35 @@
    "count": 1,
    "tags": "arbeitsspeicher ddr5 32 gb kingston fury beast rgb ddr5 6000 cl36 dimm weiss",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-samsung-990-pro-mz-v9p4t0bw-4-tb-ssd-pcie-4-0-x4-nvme",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 4 TB",
+   "name": "Samsung 990 PRO MZ-V9P4T0BW 4 TB SSD PCIe 4.0 x4 (NVMe)",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/samsung-990-pro-mz-v9p4t0bw-4-tb-ssd-pcie-4-0-x4-nvme-100228324/",
+   "stand": "2026-11-15T11:15",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 763.91,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/samsung-990-pro-mz-v9p4t0bw-4-tb-ssd-pcie-4-0-x4-nvme-100228324/"
+    }
+   ],
+   "price": 763.91,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-15",
+     "p": 763.91
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 4 tb samsung 990 pro v9p4t0bw ssd pcie nvme",
+   "firstSeen": "2026-11-15"
   },
   {
    "id": "c-xfx-swift-radeon-rx-9060-xt-oc-gaming-edition-16384-mb-gddr6",
