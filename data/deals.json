@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T17:41:49.753Z",
+ "updated": "2026-11-15T19:47:46.253Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1475,60 +1475,6 @@
    "seen": "2026-11-15",
    "updated": "2026-11-15",
    "tags": "monitore 34\" msi mag 345cqrde curved gaming monitor uwqhd 180 schwarz",
-   "source": "crawler"
-  },
-  {
-   "id": "c-western-digital-black-sn770m-2-tb-m-2-pcie-4-0-nvme-ssd",
-   "name": "Western Digital Black SN770M 2 TB M.2 PCIe 4.0 NVMe SSD",
-   "cat": "SSDs",
-   "price": 360.7,
-   "ref": 568.82,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/western-digital-black-sn770m-2-tb-m-2-pcie-4-0-nvme-ssd-100548531/",
-   "url": "https://www.jacob.de/produkt/western-digital-black-sn770m-2-tb-m-2-pcie-4-0-nvme-ssd-100548531/",
-   "note": "37 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 568.82
-    },
-    {
-     "d": "2026-10-31",
-     "p": 568.82
-    },
-    {
-     "d": "2026-11-01",
-     "p": 568.82
-    },
-    {
-     "d": "2026-11-02",
-     "p": 568.82
-    },
-    {
-     "d": "2026-11-03",
-     "p": 568.82
-    },
-    {
-     "d": "2026-11-06",
-     "p": 356.16
-    },
-    {
-     "d": "2026-11-08",
-     "p": 356.16
-    },
-    {
-     "d": "2026-11-10",
-     "p": 357.13
-    },
-    {
-     "d": "2026-11-13",
-     "p": 360.7
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-15",
-   "updated": "2026-11-15",
-   "tags": "ssds pcie 4.0 2 tb western digital black sn770m pcie nvme ssd",
    "source": "crawler"
   },
   {
@@ -3192,6 +3138,64 @@
    "source": "crawler"
   },
   {
+   "id": "c-alpenfohn-matterhorn-2-aurora-black-cpu-kuhler",
+   "name": "Alpenföhn Matterhorn 2 AURORA black, CPU-Kühler",
+   "cat": "Kühlung",
+   "price": 25.9,
+   "ref": 29.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/Alpenf%C3%B6hn/Matterhorn-2-AURORA-black-CPU-K%C3%BChler/html/product/100201704",
+   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Matterhorn-2-AURORA-black-CPU-K%C3%BChler/html/product/100201704",
+   "note": "13 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 29.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 29.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 29.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 29.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 29.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 29.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 29.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 25.9
+    },
+    {
+     "d": "2026-11-14",
+     "p": 29.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 25.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-15",
+   "updated": "2026-11-15",
+   "tags": "kuhlung luftkuhler alpenfohn matterhorn aurora black cpu kuhler",
+   "source": "crawler"
+  },
+  {
    "id": "c-asus-prime-b850-plus-wifi-mainboard-atx-sockel-am5-ddr5-wi-f",
    "name": "ASUS Prime B850-PLUS WIFI Mainboard ATX Sockel AM5 DDR5 Wi-Fi 6E Schwarz",
    "cat": "Mainboards",
@@ -3803,6 +3807,64 @@
    "seen": "2026-11-15",
    "updated": "2026-11-15",
    "tags": "monitore 27\" ultragear 27g610a zoll wqhd gaming monitor 200hz ips freesync premium",
+   "source": "crawler"
+  },
+  {
+   "id": "c-alpenfohn-matterhorn-2-aurora-max-black-cpu-kuhler",
+   "name": "Alpenföhn Matterhorn 2 Aurora Max black, CPU-Kühler",
+   "cat": "Kühlung",
+   "price": 48.9,
+   "ref": 54.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/Alpenf%C3%B6hn/Matterhorn-2-Aurora-Max-black-CPU-K%C3%BChler/html/product/100201706",
+   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Matterhorn-2-Aurora-Max-black-CPU-K%C3%BChler/html/product/100201706",
+   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 54.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 54.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 54.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 54.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 54.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 54.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 54.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 48.9
+    },
+    {
+     "d": "2026-11-14",
+     "p": 54.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 48.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-15",
+   "updated": "2026-11-15",
+   "tags": "kuhlung luftkuhler alpenfohn matterhorn aurora max black cpu kuhler",
    "source": "crawler"
   },
   {
