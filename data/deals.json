@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T17:13:38.183Z",
+ "updated": "2026-11-15T17:41:49.753Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1067,6 +1067,10 @@
     {
      "d": "2026-11-13",
      "p": 25.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 25.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -1236,6 +1240,10 @@
     },
     {
      "d": "2026-11-13",
+     "p": 16.9
+    },
+    {
+     "d": "2026-11-15",
      "p": 16.9
     }
    ],
@@ -1568,6 +1576,10 @@
     },
     {
      "d": "2026-11-13",
+     "p": 22.9
+    },
+    {
+     "d": "2026-11-15",
      "p": 22.9
     }
    ],
@@ -2320,8 +2332,8 @@
    "price": 39.9,
    "ref": 49.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/thermalright-axp120-x67-argb-low-profile-cpu-kuehler-120mm-weiss/CPTR-120.html",
-   "url": "https://www.caseking.de/thermalright-axp120-x67-argb-low-profile-cpu-kuehler-120mm-weiss/CPTR-120.html",
+   "shopUrl": "https://www.caseking.de/en/thermalright-axp120-x67-argb-low-profile-cpu-cooler-120mm-white/CPTR-120.html",
+   "url": "https://www.caseking.de/en/thermalright-axp120-x67-argb-low-profile-cpu-cooler-120mm-white/CPTR-120.html",
    "note": "20 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -2480,60 +2492,6 @@
    "source": "crawler"
   },
   {
-   "id": "c-adata-xpg-mars-980-blade-nvme-ssd-pcie-5-0-m-2-typ-2280-1-tb",
-   "name": "ADATA XPG MARS 980 BLADE NVMe SSD, PCIe 5.0 M.2 Typ 2280 - 1 TB",
-   "cat": "SSDs",
-   "price": 179.9,
-   "ref": 219.16,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/adata-xpg-mars-980-blade-nvme-ssd-pcie-5.0-m.2-type-2280-1tb/SSAD-061.html",
-   "url": "https://www.caseking.de/en/adata-xpg-mars-980-blade-nvme-ssd-pcie-5.0-m.2-type-2280-1tb/SSAD-061.html",
-   "note": "18 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-29",
-     "p": 219.16
-    },
-    {
-     "d": "2026-10-30",
-     "p": 219.16
-    },
-    {
-     "d": "2026-10-31",
-     "p": 219.16
-    },
-    {
-     "d": "2026-11-02",
-     "p": 219.16
-    },
-    {
-     "d": "2026-11-04",
-     "p": 219.16
-    },
-    {
-     "d": "2026-11-06",
-     "p": 219.16
-    },
-    {
-     "d": "2026-11-08",
-     "p": 219.16
-    },
-    {
-     "d": "2026-11-11",
-     "p": 179.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 179.9
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-15",
-   "updated": "2026-11-15",
-   "tags": "ssds pcie 5.0 1 tb adata xpg mars 980 blade nvme ssd pcie typ 2280",
-   "source": "crawler"
-  },
-  {
    "id": "c-seasonic-core-bc-850-atx3-1-pc-netzteil",
    "name": "Seasonic CORE BC-850 ATX3.1, PC-Netzteil",
    "cat": "Netzteile",
@@ -2648,6 +2606,10 @@
     },
     {
      "d": "2026-11-13",
+     "p": 339.9
+    },
+    {
+     "d": "2026-11-15",
      "p": 339.9
     }
    ],
