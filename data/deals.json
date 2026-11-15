@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-15T13:56:45.603Z",
+ "updated": "2026-11-15T15:44:06.688Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1121,6 +1121,10 @@
     {
      "d": "2026-11-13",
      "p": 39.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 39.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -1279,6 +1283,10 @@
     {
      "d": "2026-11-13",
      "p": 52.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 52.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -1394,6 +1402,10 @@
     },
     {
      "d": "2026-11-14",
+     "p": 89.9
+    },
+    {
+     "d": "2026-11-15",
      "p": 89.9
     }
    ],
@@ -1876,60 +1888,6 @@
    "source": "crawler"
   },
   {
-   "id": "c-lenovo-legion-r27s-27-full-hd-ips-gaming-monitor-144-hz-schw",
-   "name": "Lenovo Legion R27s 27\" Full HD IPS Gaming-Monitor 144 Hz Schwarz",
-   "cat": "Monitore",
-   "price": 97.81,
-   "ref": 127.27,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/lenovo-legion-r27s-27-full-hd-ips-gaming-monitor-144-hz-schwarz-100701343/",
-   "url": "https://www.jacob.de/produkt/lenovo-legion-r27s-27-full-hd-ips-gaming-monitor-144-hz-schwarz-100701343/",
-   "note": "23 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 127.27
-    },
-    {
-     "d": "2026-10-31",
-     "p": 127.27
-    },
-    {
-     "d": "2026-11-01",
-     "p": 127.27
-    },
-    {
-     "d": "2026-11-02",
-     "p": 127.27
-    },
-    {
-     "d": "2026-11-03",
-     "p": 127.27
-    },
-    {
-     "d": "2026-11-05",
-     "p": 149.35
-    },
-    {
-     "d": "2026-11-08",
-     "p": 111.88
-    },
-    {
-     "d": "2026-11-10",
-     "p": 111.88
-    },
-    {
-     "d": "2026-11-13",
-     "p": 97.81
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-15",
-   "updated": "2026-11-15",
-   "tags": "monitore 27\" lenovo legion r27s full ips gaming monitor 144 schwarz",
-   "source": "crawler"
-  },
-  {
    "id": "c-msi-mag-272qpde-x24-qd-oled-gaming-monitor-68-60cm-27-wqhd-2",
    "name": "MSI MAG 272QPDE X24 QD-OLED Gaming-Monitor 68,60cm (27\") WQHD 240 Hz 0,03 ms Schwarz",
    "cat": "Monitore",
@@ -2028,6 +1986,10 @@
     },
     {
      "d": "2026-11-13",
+     "p": 34.9
+    },
+    {
+     "d": "2026-11-15",
      "p": 34.9
     }
    ],
@@ -2358,8 +2320,8 @@
    "price": 39.9,
    "ref": 49.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/thermalright-axp120-x67-argb-low-profile-cpu-cooler-120mm-white/CPTR-120.html",
-   "url": "https://www.caseking.de/en/thermalright-axp120-x67-argb-low-profile-cpu-cooler-120mm-white/CPTR-120.html",
+   "shopUrl": "https://www.caseking.de/thermalright-axp120-x67-argb-low-profile-cpu-kuehler-120mm-weiss/CPTR-120.html",
+   "url": "https://www.caseking.de/thermalright-axp120-x67-argb-low-profile-cpu-kuehler-120mm-weiss/CPTR-120.html",
    "note": "20 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -2396,6 +2358,10 @@
     },
     {
      "d": "2026-11-13",
+     "p": 39.9
+    },
+    {
+     "d": "2026-11-15",
      "p": 39.9
     }
    ],
@@ -3646,6 +3612,64 @@
    "source": "crawler"
   },
   {
+   "id": "c-asus-rog-strix-oled-xg27aqng-led-monitor-67-3-cm-27-wqhd-hdm",
+   "name": "ASUS ROG Strix OLED XG27AQNG LED-Monitor 67,3 cm (27\") WQHD – HDMI/DP – Schwarz (90LM0CH0-B01971)",
+   "cat": "Monitore",
+   "price": 552.68,
+   "ref": 622.32,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/asus-rog-strix-oled-xg27aqng-led-monitor-67-3-cm-27-wqhd-hdmi-dp-schwarz-90lm0ch0-b01971-100688795/",
+   "url": "https://www.jacob.de/produkt/asus-rog-strix-oled-xg27aqng-led-monitor-67-3-cm-27-wqhd-hdmi-dp-schwarz-90lm0ch0-b01971-100688795/",
+   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 622.32
+    },
+    {
+     "d": "2026-10-31",
+     "p": 627.48
+    },
+    {
+     "d": "2026-11-01",
+     "p": 626.06
+    },
+    {
+     "d": "2026-11-02",
+     "p": 626.33
+    },
+    {
+     "d": "2026-11-03",
+     "p": 626.33
+    },
+    {
+     "d": "2026-11-05",
+     "p": 557.16
+    },
+    {
+     "d": "2026-11-08",
+     "p": 557.16
+    },
+    {
+     "d": "2026-11-10",
+     "p": 557.16
+    },
+    {
+     "d": "2026-11-13",
+     "p": 557.16
+    },
+    {
+     "d": "2026-11-15",
+     "p": 552.68
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-15",
+   "updated": "2026-11-15",
+   "tags": "monitore 27\" asus rog strix oled xg27aqng led monitor wqhd hdmi schwarz 90lm0ch0 b01971",
+   "source": "crawler"
+  },
+  {
    "id": "c-acer-vero-b247we5bemiqpruzx-24-1920-x-1200-ips-office-monito",
    "name": "Acer Vero B247WE5bemiqpruzx 24\" 1920 x 1200 IPS Office Monitor Schwarz",
    "cat": "Monitore",
@@ -4037,60 +4061,6 @@
    "seen": "2026-11-15",
    "updated": "2026-11-15",
    "tags": "monitore 31,5\" asus rog strix xg32ucg gaming monitor 160 fast ips schwarz",
-   "source": "crawler"
-  },
-  {
-   "id": "c-asus-rog-strix-oled-xg27aqng-led-monitor-67-3-cm-27-wqhd-hdm",
-   "name": "ASUS ROG Strix OLED XG27AQNG LED-Monitor 67,3 cm (27\") WQHD – HDMI/DP – Schwarz (90LM0CH0-B01971)",
-   "cat": "Monitore",
-   "price": 557.16,
-   "ref": 622.32,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/asus-rog-strix-oled-xg27aqng-led-monitor-67-3-cm-27-wqhd-hdmi-dp-schwarz-90lm0ch0-b01971-100688795/",
-   "url": "https://www.jacob.de/produkt/asus-rog-strix-oled-xg27aqng-led-monitor-67-3-cm-27-wqhd-hdmi-dp-schwarz-90lm0ch0-b01971-100688795/",
-   "note": "10 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 622.32
-    },
-    {
-     "d": "2026-10-31",
-     "p": 627.48
-    },
-    {
-     "d": "2026-11-01",
-     "p": 626.06
-    },
-    {
-     "d": "2026-11-02",
-     "p": 626.33
-    },
-    {
-     "d": "2026-11-03",
-     "p": 626.33
-    },
-    {
-     "d": "2026-11-05",
-     "p": 557.16
-    },
-    {
-     "d": "2026-11-08",
-     "p": 557.16
-    },
-    {
-     "d": "2026-11-10",
-     "p": 557.16
-    },
-    {
-     "d": "2026-11-13",
-     "p": 557.16
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-15",
-   "updated": "2026-11-15",
-   "tags": "monitore 27\" asus rog strix oled xg27aqng led monitor wqhd hdmi schwarz 90lm0ch0 b01971",
    "source": "crawler"
   },
   {
