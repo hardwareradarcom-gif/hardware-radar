@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T15:50:28.163Z",
+ "updated": "2026-11-16T17:41:48.106Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -85635,6 +85635,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-fsp-hydro-ptm-pro-atx3-1-12v-2x6-1350w-pc-netzteil",
+   "cat": "Netzteile",
+   "sub": "1000 W+",
+   "name": "FSP Hydro PTM PRO ATX3.1(12V-2x6) 1350W, PC-Netzteil",
+   "source": "crawler",
+   "url": "https://www.alternate.de/FSP/Hydro-PTM-PRO-ATX3-1-12V-2x6-1350W-PC-Netzteil/html/product/100070574",
+   "stand": "2026-11-16T17:41",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 230.85,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/FSP/Hydro-PTM-PRO-ATX3-1-12V-2x6-1350W-PC-Netzteil/html/product/100070574"
+    }
+   ],
+   "price": 230.85,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-16",
+     "p": 230.85
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile 1000 w+ fsp hydro ptm pro atx3 12v 2x6 1350w netzteil",
+   "firstSeen": "2026-11-16"
+  },
+  {
    "id": "c-msi-b850-gaming-plus-wifi-pz-mainboard",
    "cat": "Mainboards",
    "sub": "AM5 B850",
@@ -88576,6 +88605,35 @@
    "count": 1,
    "tags": "monitore 27\" viewsonic vg2741v monitor mit hello zertifizierter webcam quad ips hdmi displayport usb rj45 klinke",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-fsp-hydro-ptm-pro-atx3-1-12v-2x6-1650w-pc-netzteil",
+   "cat": "Netzteile",
+   "sub": "1000 W+",
+   "name": "FSP Hydro PTM PRO ATX3.1(12V-2x6) 1650W, PC-Netzteil",
+   "source": "crawler",
+   "url": "https://www.alternate.de/FSP/Hydro-PTM-PRO-ATX3-1-12V-2x6-1650W-PC-Netzteil/html/product/100070575",
+   "stand": "2026-11-16T17:41",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 246.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/FSP/Hydro-PTM-PRO-ATX3-1-12V-2x6-1650W-PC-Netzteil/html/product/100070575"
+    }
+   ],
+   "price": 246.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-16",
+     "p": 246.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile 1000 w+ fsp hydro ptm pro atx3 12v 2x6 1650w netzteil",
+   "firstSeen": "2026-11-16"
   },
   {
    "id": "c-asus-rog-strix-b860-i-gaming-wifi-mainboard-mini-itx-lga1851",
