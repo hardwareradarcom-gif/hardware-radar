@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T07:08:12.212Z",
+ "updated": "2026-11-16T09:44:01.775Z",
  "products": [
   {
    "id": "r-acer-b246hylbymiprx-23-8-full-hd-1920x1080-display-hdmi-disp",
@@ -2077,6 +2077,25 @@
     }
    ],
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "r-lenovo-thinkcentre-m720q-tiny-usdt-intel-pentium-gold-g5400t",
+   "cat": "PCs & Workstations",
+   "name": "Lenovo ThinkCentre M720q Tiny USDT Intel Pentium Gold G5400T 256GB SSD 8GB Windows 11 Pro",
+   "brand": "Lenovo",
+   "price": 219,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkcentre-m720q-tiny-usdt-intel-pentium-gold-g5400t-256gb-ssd-8gb-windows-11-pro-1",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkCentre-M720q-Tiny-4_32df801d-511f-4f2d-968f-87b4bfbbc1e8.jpg?v=1741644606",
+   "hist": [
+    {
+     "d": "2026-11-16",
+     "p": 219
+    }
+   ],
+   "firstSeen": "2026-11-16"
   },
   {
    "id": "r-hp-prodesk-400-g4-desktop-mini-intel-core-i5-8500t-256gb-ssd",
@@ -16949,76 +16968,6 @@
    "firstSeen": "2026-11-10"
   },
   {
-   "id": "r-dell-ultrasharp-p3421w-34-1-zoll-uwqhd-3440x1440-hdmi-displa",
-   "cat": "Monitore",
-   "name": "Dell UltraSharp P3421W 34,1 Zoll UWQHD 3440x1440 HDMI DisplayPort Höhenverstellbar Schwarz Silber",
-   "brand": "Dell",
-   "price": 389,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/dell-ultrasharp-u3421we-34-1-zoll-uwqhd-3440x1440-hdmi-displayport-hohenverstellbar-schwarz-silber-1",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-UltraSharp-U3421WE-1.png?v=1770990556",
-   "hist": [
-    {
-     "d": "2026-11-10",
-     "p": 389
-    },
-    {
-     "d": "2026-11-11",
-     "p": 389
-    },
-    {
-     "d": "2026-11-12",
-     "p": 389
-    },
-    {
-     "d": "2026-11-13",
-     "p": 389
-    }
-   ],
-   "firstSeen": "2026-11-10"
-  },
-  {
-   "id": "r-lenovo-thinkpad-t15-gen-1-15-6-fhd-display-intel-core-i5-103",
-   "cat": "Laptops",
-   "name": "Lenovo ThinkPad T15 Gen 1, 15,6” FHD Display, Intel Core i5 10310U, 16GB RAM, 256GB SSD, LTE 4G, Windows 11 Home",
-   "brand": "Lenovo",
-   "price": 389,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/lenovo-thinkpad-t15-gen-1-15-6-fhd-display-intel-core-i5-10310u-16gb-ram-256gb-ssd-lte-4g-windows-11-pro-norton-internet-security-kopie-1",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-T15-G1-2_76a3150f-177d-4ece-8559-7f31c6746b4c.jpg?v=1770990673",
-   "hist": [
-    {
-     "d": "2026-11-11",
-     "p": 389
-    },
-    {
-     "d": "2026-11-12",
-     "p": 389
-    },
-    {
-     "d": "2026-11-13",
-     "p": 389
-    },
-    {
-     "d": "2026-11-14",
-     "p": 389
-    },
-    {
-     "d": "2026-11-15",
-     "p": 389
-    },
-    {
-     "d": "2026-11-16",
-     "p": 389
-    }
-   ],
-   "firstSeen": "2026-11-11"
-  },
-  {
    "id": "r-dell-latitude-5520-15-6-zoll-1920x1080-full-hd-intel-core-i5",
    "cat": "Laptops",
    "name": "Dell Latitude 5520 15,6 Zoll 1920x1080 Full HD Intel Core i5 256GB SSD 16GB Windows 11 Pro Fingerprint",
@@ -19718,6 +19667,61 @@
     },
     {
      "d": "2026-11-15",
+     "p": 419
+    },
+    {
+     "d": "2026-11-16",
+     "p": 419
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "r-lenovo-thinkpad-x13-yoga-gen-1-13-3-zoll-touch-display-intel",
+   "cat": "Laptops",
+   "name": "Lenovo ThinkPad X13 Yoga Gen 1 13,3 Zoll Touch Display Intel Core i7 256GB SSD 16GB Windows 11 Pro Webcam",
+   "brand": "Lenovo",
+   "price": 419,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkpad-x13-yoga-gen-1-13-3-zoll-touch-display-intel-core-i7-256gb-ssd-16gb-windows-11-pro-webcam-1",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-X13-Yoga-Gen-1-0_72c575a4-d088-41ec-a785-9a66e4ba6ed5.jpg?v=1770991156",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 419
+    },
+    {
+     "d": "2026-10-31",
+     "p": 419
+    },
+    {
+     "d": "2026-11-01",
+     "p": 419
+    },
+    {
+     "d": "2026-11-02",
+     "p": 419
+    },
+    {
+     "d": "2026-11-03",
+     "p": 419
+    },
+    {
+     "d": "2026-11-04",
+     "p": 419
+    },
+    {
+     "d": "2026-11-05",
+     "p": 419
+    },
+    {
+     "d": "2026-11-06",
+     "p": 419
+    },
+    {
+     "d": "2026-11-10",
      "p": 419
     },
     {
@@ -22756,6 +22760,10 @@
     },
     {
      "d": "2026-11-13",
+     "p": 439
+    },
+    {
+     "d": "2026-11-16",
      "p": 439
     }
    ],
@@ -31058,73 +31066,6 @@
     }
    ],
    "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-dell-latitude-5520-15-6-zoll-1920x1080-full-hd-intel-core-i5",
-   "cat": "Laptops",
-   "name": "Dell Latitude 5520 15,6 Zoll 1920x1080 Full HD Intel Core i5 512GB SSD 16GB Windows 11 Pro Webcam",
-   "brand": "Dell",
-   "price": 488.99,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/dell-latitude-5520-15-6-zoll-1920x1080-full-hd-intel-core-i5-512gb-ssd-16gb-windows-11-pro-webcam-2",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Latitude-5520-1_684e122d-bf64-4ec6-80ff-dba6d23816f9.png?v=1770992113",
-   "hist": [
-    {
-     "d": "2026-11-04",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-05",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-06",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-07",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-08",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-09",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-10",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-11",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-12",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-13",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-14",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-15",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-16",
-     "p": 488.99
-    }
-   ],
-   "firstSeen": "2026-11-04"
   },
   {
    "id": "r-dell-latitude-5520-15-6-zoll-1920x1080-full-hd-intel-core-i5",
@@ -41354,6 +41295,25 @@
     }
    ],
    "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "r-apple-macbook-pro-16-zoll-3072x1920-2019-intel-core-i7-512gb",
+   "cat": "Laptops",
+   "name": "Apple MacBook Pro 16 Zoll 3072x1920 2019 Intel Core i7 512GB SSD 16GB macOS Space Grau",
+   "brand": "Apple",
+   "price": 548.99,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/apple-macbook-pro-16-zoll-3072x1920-2019-intel-core-i7-512gb-ssd-16gb-macos-space-grau-1",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Apple-MacBook-Pro-16-Spacegrau-1_29d7bba9-1085-4aac-b48b-87d798009703.png?v=1770991992",
+   "hist": [
+    {
+     "d": "2026-11-16",
+     "p": 548.99
+    }
+   ],
+   "firstSeen": "2026-11-16"
   },
   {
    "id": "r-lenovo-thinkcentre-m70q-gen-2-tiny-intel-core-i5-11400t-32gb",
