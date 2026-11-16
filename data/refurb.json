@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T09:44:01.775Z",
+ "updated": "2026-11-16T11:46:19.568Z",
  "products": [
   {
    "id": "r-acer-b246hylbymiprx-23-8-full-hd-1920x1080-display-hdmi-disp",
@@ -2534,6 +2534,25 @@
     }
    ],
    "firstSeen": "2026-11-11"
+  },
+  {
+   "id": "r-fujitsu-lifebook-u938-13-3-zoll-1920x1080-full-hd-intel-core",
+   "cat": "Laptops",
+   "name": "Fujitsu Lifebook U938 13,3 Zoll 1920x1080 Full HD Intel Core i5 256GB SSD 8GB Windows 11 Home LTE Fingerprint",
+   "brand": "Fujitsu",
+   "price": 269,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/fujitsu-lifebook-u938-13-3-zoll-1920x1080-full-hd-intel-core-i5-256gb-ssd-8gb-windows-11-home-lte-fingerprint-1",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Fujitsu-Lifebook-U938-0_8fa781a7-dd2e-4e3d-b3c2-36a50cb0a9cc.jpg?v=1741640335",
+   "hist": [
+    {
+     "d": "2026-11-16",
+     "p": 269
+    }
+   ],
+   "firstSeen": "2026-11-16"
   },
   {
    "id": "r-dell-optiplex-5060-micro-intel-core-i5-8600t-8gb-ram-256gb-s",
@@ -9479,81 +9498,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "r-hp-elitebook-850-g5-15-6-zoll-1920x1080-full-hd-intel-core-i",
-   "cat": "Laptops",
-   "name": "HP EliteBook 850 G5 15,6 Zoll 1920x1080 Full HD Intel Core i5 256GB SSD 8GB Windows 11 Pro Webcam",
-   "brand": "HP",
-   "price": 359,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/hp-elitebook-850-g5-15-6-zoll-1920x1080-full-hd-intel-core-i5-256gb-ssd-8gb-windows-11-pro-webcam-12",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-850-G5-0_d7ec5862-979d-4ac4-93c6-d48964f6feca.jpg?v=1770993673",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 359
-    },
-    {
-     "d": "2026-10-31",
-     "p": 359
-    },
-    {
-     "d": "2026-11-01",
-     "p": 359
-    },
-    {
-     "d": "2026-11-02",
-     "p": 359
-    },
-    {
-     "d": "2026-11-03",
-     "p": 359
-    },
-    {
-     "d": "2026-11-04",
-     "p": 359
-    },
-    {
-     "d": "2026-11-05",
-     "p": 359
-    },
-    {
-     "d": "2026-11-06",
-     "p": 359
-    },
-    {
-     "d": "2026-11-07",
-     "p": 359
-    },
-    {
-     "d": "2026-11-08",
-     "p": 359
-    },
-    {
-     "d": "2026-11-09",
-     "p": 359
-    },
-    {
-     "d": "2026-11-10",
-     "p": 359
-    },
-    {
-     "d": "2026-11-11",
-     "p": 359
-    },
-    {
-     "d": "2026-11-12",
-     "p": 359
-    },
-    {
-     "d": "2026-11-13",
-     "p": 359
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "r-lenovo-thinkpad-x1-yoga-gen-5-14-touch-display-intel-core-i5",
    "cat": "Laptops",
    "name": "Lenovo ThinkPad X1 Yoga Gen 5, 14\" Touch Display, Intel Core i5 10310U, 8GB RAM, 256GB SSD, LTE 4G, Windows 11 Pro, Office & Media Software Suite",
@@ -14683,6 +14627,10 @@
     {
      "d": "2026-11-13",
      "p": 389
+    },
+    {
+     "d": "2026-11-16",
+     "p": 389
     }
    ],
    "firstSeen": "2026-10-30"
@@ -16997,29 +16945,6 @@
     },
     {
      "d": "2026-11-16",
-     "p": 389
-    }
-   ],
-   "firstSeen": "2026-11-12"
-  },
-  {
-   "id": "r-hp-elitebook-830-g8-13-3-fhd-display-intel-core-i5-1145g7-16",
-   "cat": "Laptops",
-   "name": "HP EliteBook 830 G8, 13,3\" FHD Display, Intel Core i5 1145G7, 16GB RAM, 256GB SSD, Webcam, Windows 11 Pro, ESET Internet Security",
-   "brand": "HP",
-   "price": 389,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/hp-elitebook-830-g8-13-3-fhd-display-intel-core-i5-1145g7-16gb-ram-256gb-ssd-webcam-windows-11-pro-eset-internet-security",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-830-G8-1_94f84095-939d-460a-a6e3-756124a6fbd1.png?v=1770991031",
-   "hist": [
-    {
-     "d": "2026-11-12",
-     "p": 389
-    },
-    {
-     "d": "2026-11-13",
      "p": 389
     }
    ],
@@ -34932,6 +34857,93 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "r-lenovo-thinkpad-t14-gen-2-14-fhd-display-intel-core-i5-1145g",
+   "cat": "Laptops",
+   "name": "Lenovo ThinkPad T14 Gen 2, 14\" FHD Display, Intel Core i5 1145G7, 16GB RAM, 256GB SSD, Webcam, Windows 11 Pro, ESET Internet Security",
+   "brand": "Lenovo",
+   "price": 518.99,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkpad-t14-gen-2-14-zoll-1920x1080-full-hd-intel-core-i5-256gb-ssd-16gb-windows-11-pro-webcam-12",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-T14-G2-0_183744a7-c235-4093-b508-02cedd4b8f7c.jpg?v=1770990614",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 529
+    },
+    {
+     "d": "2026-10-31",
+     "p": 529
+    },
+    {
+     "d": "2026-11-01",
+     "p": 529
+    },
+    {
+     "d": "2026-11-02",
+     "p": 529
+    },
+    {
+     "d": "2026-11-03",
+     "p": 529
+    },
+    {
+     "d": "2026-11-04",
+     "p": 529
+    },
+    {
+     "d": "2026-11-05",
+     "p": 529
+    },
+    {
+     "d": "2026-11-06",
+     "p": 529
+    },
+    {
+     "d": "2026-11-07",
+     "p": 529
+    },
+    {
+     "d": "2026-11-08",
+     "p": 529
+    },
+    {
+     "d": "2026-11-09",
+     "p": 529
+    },
+    {
+     "d": "2026-11-10",
+     "p": 529
+    },
+    {
+     "d": "2026-11-11",
+     "p": 529
+    },
+    {
+     "d": "2026-11-12",
+     "p": 529
+    },
+    {
+     "d": "2026-11-13",
+     "p": 529
+    },
+    {
+     "d": "2026-11-14",
+     "p": 529
+    },
+    {
+     "d": "2026-11-15",
+     "p": 529
+    },
+    {
+     "d": "2026-11-16",
+     "p": 518.99
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "r-dell-latitude-7200-2-in-1-12-3-touch-display-intel-core-i7-8",
    "cat": "Laptops",
    "name": "Dell Latitude 7200 2-in-1, 12,3” Touch Display, Intel Core i7 8665U, 16GB RAM, 256GB SSD, Tastatu,r Windows 11 Pro, ESET Internet Security",
@@ -36710,93 +36722,6 @@
     {
      "d": "2026-11-14",
      "p": 518.99
-    },
-    {
-     "d": "2026-11-15",
-     "p": 529
-    },
-    {
-     "d": "2026-11-16",
-     "p": 529
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-lenovo-thinkpad-t14-gen-2-14-fhd-display-intel-core-i5-1145g",
-   "cat": "Laptops",
-   "name": "Lenovo ThinkPad T14 Gen 2, 14\" FHD Display, Intel Core i5 1145G7, 16GB RAM, 256GB SSD, Webcam, Windows 11 Pro, ESET Internet Security",
-   "brand": "Lenovo",
-   "price": 529,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/lenovo-thinkpad-t14-gen-2-14-zoll-1920x1080-full-hd-intel-core-i5-256gb-ssd-16gb-windows-11-pro-webcam-12",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-T14-G2-0_183744a7-c235-4093-b508-02cedd4b8f7c.jpg?v=1770990614",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 529
-    },
-    {
-     "d": "2026-10-31",
-     "p": 529
-    },
-    {
-     "d": "2026-11-01",
-     "p": 529
-    },
-    {
-     "d": "2026-11-02",
-     "p": 529
-    },
-    {
-     "d": "2026-11-03",
-     "p": 529
-    },
-    {
-     "d": "2026-11-04",
-     "p": 529
-    },
-    {
-     "d": "2026-11-05",
-     "p": 529
-    },
-    {
-     "d": "2026-11-06",
-     "p": 529
-    },
-    {
-     "d": "2026-11-07",
-     "p": 529
-    },
-    {
-     "d": "2026-11-08",
-     "p": 529
-    },
-    {
-     "d": "2026-11-09",
-     "p": 529
-    },
-    {
-     "d": "2026-11-10",
-     "p": 529
-    },
-    {
-     "d": "2026-11-11",
-     "p": 529
-    },
-    {
-     "d": "2026-11-12",
-     "p": 529
-    },
-    {
-     "d": "2026-11-13",
-     "p": 529
-    },
-    {
-     "d": "2026-11-14",
-     "p": 529
     },
     {
      "d": "2026-11-15",
@@ -40770,81 +40695,6 @@
     },
     {
      "d": "2026-11-16",
-     "p": 548.99
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-lenovo-thinkpad-t15-gen-1-15-6-zoll-1920x1080-full-hd-intel-",
-   "cat": "Laptops",
-   "name": "Lenovo ThinkPad T15 Gen 1 15,6 Zoll 1920x1080 Full HD Intel Core i5 512GB SSD 16GB Windows 11 Pro Webcam",
-   "brand": "Lenovo",
-   "price": 548.99,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/lenovo-thinkpad-t15-gen-1-15-6-zoll-1920x1080-full-hd-intel-core-i5-512gb-ssd-16gb-windows-11-pro-webcam-7",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-T15-G1-2_76a3150f-177d-4ece-8559-7f31c6746b4c.jpg?v=1770990673",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 548.99
-    },
-    {
-     "d": "2026-10-31",
-     "p": 548.99
-    },
-    {
-     "d": "2026-11-01",
-     "p": 548.99
-    },
-    {
-     "d": "2026-11-02",
-     "p": 548.99
-    },
-    {
-     "d": "2026-11-03",
-     "p": 548.99
-    },
-    {
-     "d": "2026-11-04",
-     "p": 548.99
-    },
-    {
-     "d": "2026-11-05",
-     "p": 548.99
-    },
-    {
-     "d": "2026-11-06",
-     "p": 548.99
-    },
-    {
-     "d": "2026-11-07",
-     "p": 548.99
-    },
-    {
-     "d": "2026-11-08",
-     "p": 548.99
-    },
-    {
-     "d": "2026-11-09",
-     "p": 548.99
-    },
-    {
-     "d": "2026-11-10",
-     "p": 548.99
-    },
-    {
-     "d": "2026-11-11",
-     "p": 548.99
-    },
-    {
-     "d": "2026-11-12",
-     "p": 548.99
-    },
-    {
-     "d": "2026-11-13",
      "p": 548.99
     }
    ],
