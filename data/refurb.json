@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T12:14:54.475Z",
+ "updated": "2026-11-16T15:50:28.163Z",
  "products": [
   {
    "id": "r-acer-b246hylbymiprx-23-8-full-hd-1920x1080-display-hdmi-disp",
@@ -2146,6 +2146,25 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "r-lenovo-thinkcentre-m920q-tiny-intel-core-i3-8100t-8gb-ram-25",
+   "cat": "PCs & Workstations",
+   "name": "Lenovo ThinkCentre M920q Tiny, Intel Core i3 8100T, 8GB RAM, 256GB SSD, Windows 11 Pro, ESET Internet Security",
+   "brand": "Lenovo",
+   "price": 239,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkcentre-m920q-tiny-intel-core-i3-8100t-8gb-ram-256gb-ssd-windows-11-pro-eset-internet-security",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-M920q-Tiny-11_e0e31def-0e85-49da-8ca8-83960af63228.jpg?v=1757519115",
+   "hist": [
+    {
+     "d": "2026-11-16",
+     "p": 239
+    }
+   ],
+   "firstSeen": "2026-11-16"
+  },
+  {
    "id": "r-lg-27bn65q-b-schwarz-27-zoll-qhd-2560x1440-displayport-hdmi-",
    "cat": "Monitore",
    "name": "LG 27BN65Q-B schwarz 27 Zoll QHD 2560x1440 DisplayPort HDMI Höhenverstellbar",
@@ -3900,6 +3919,61 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "r-dell-optiplex-7060-micro-intel-core-i5-8500t-8gb-ram-256gb-s",
+   "cat": "PCs & Workstations",
+   "name": "Dell OptiPlex 7060 Micro, Intel Core i5 8500T, 8GB RAM, 256GB SSD, Windows 11 Pro",
+   "brand": "Dell",
+   "price": 299,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/dell-optiplex-7060-micro-intel-core-i5-8500t-8gb-ram-256gb-ssd-windows-11-pro-2",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Optiplex-7060-Micro-0_f9457439-5875-4c2d-b19f-f1817f163ba0.jpg?v=1770991452",
+   "hist": [
+    {
+     "d": "2026-11-07",
+     "p": 319
+    },
+    {
+     "d": "2026-11-08",
+     "p": 319
+    },
+    {
+     "d": "2026-11-09",
+     "p": 319
+    },
+    {
+     "d": "2026-11-10",
+     "p": 319
+    },
+    {
+     "d": "2026-11-11",
+     "p": 319
+    },
+    {
+     "d": "2026-11-12",
+     "p": 319
+    },
+    {
+     "d": "2026-11-13",
+     "p": 319
+    },
+    {
+     "d": "2026-11-14",
+     "p": 319
+    },
+    {
+     "d": "2026-11-15",
+     "p": 319
+    },
+    {
+     "d": "2026-11-16",
+     "p": 299
+    }
+   ],
+   "firstSeen": "2026-11-07"
+  },
+  {
    "id": "r-lenovo-thinkpad-x1-yoga-gen-4-14-touch-display-intel-core-i5",
    "cat": "Laptops",
    "name": "Lenovo ThinkPad X1 Yoga Gen 4, 14\" Touch Display, Intel Core i5 8365U, 8GB RAM, 256GB SSD, LTE 4G, Windows 11 Pro",
@@ -5060,61 +5134,6 @@
     }
    ],
    "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-dell-optiplex-7060-micro-intel-core-i5-8500t-8gb-ram-256gb-s",
-   "cat": "PCs & Workstations",
-   "name": "Dell OptiPlex 7060 Micro, Intel Core i5 8500T, 8GB RAM, 256GB SSD, Windows 11 Pro",
-   "brand": "Dell",
-   "price": 319,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/dell-optiplex-7060-micro-intel-core-i5-8500t-8gb-ram-256gb-ssd-windows-11-pro-2",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Optiplex-7060-Micro-0_f9457439-5875-4c2d-b19f-f1817f163ba0.jpg?v=1770991452",
-   "hist": [
-    {
-     "d": "2026-11-07",
-     "p": 319
-    },
-    {
-     "d": "2026-11-08",
-     "p": 319
-    },
-    {
-     "d": "2026-11-09",
-     "p": 319
-    },
-    {
-     "d": "2026-11-10",
-     "p": 319
-    },
-    {
-     "d": "2026-11-11",
-     "p": 319
-    },
-    {
-     "d": "2026-11-12",
-     "p": 319
-    },
-    {
-     "d": "2026-11-13",
-     "p": 319
-    },
-    {
-     "d": "2026-11-14",
-     "p": 319
-    },
-    {
-     "d": "2026-11-15",
-     "p": 319
-    },
-    {
-     "d": "2026-11-16",
-     "p": 319
-    }
-   ],
-   "firstSeen": "2026-11-07"
   },
   {
    "id": "r-hp-prodesk-400-g5-sff-intel-core-i5-8400-256gb-ssd-16gb-wind",
@@ -10575,6 +10594,44 @@
     }
    ],
    "firstSeen": "2026-11-11"
+  },
+  {
+   "id": "r-fujitsu-esprimo-p758-intel-core-i5-8400-256gb-ssd-16gb-windo",
+   "cat": "PCs & Workstations",
+   "name": "Fujitsu Esprimo P758 Intel Core i5-8400 256GB SSD 16GB Windows 11 Pro Nvidia Quadro P400",
+   "brand": "Fujitsu",
+   "price": 359,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/fujitsu-esprimo-p758-intel-core-i5-8400-256gb-ssd-16gb-windows-11-pro-nvidia-quadro-p400",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Fujitsu-Esprimo-P758-0_e2566054-d835-470c-954e-b1a428e5b141.jpg?v=1770990917",
+   "hist": [
+    {
+     "d": "2026-11-16",
+     "p": 359
+    }
+   ],
+   "firstSeen": "2026-11-16"
+  },
+  {
+   "id": "r-hp-elitebook-850-g6-15-6-zoll-1920x1080-full-hd-intel-core-i",
+   "cat": "Laptops",
+   "name": "HP EliteBook 850 G6 15,6 Zoll 1920x1080 Full HD Intel Core i5 256GB SSD 8GB Windows 11 Pro Webcam",
+   "brand": "HP",
+   "price": 359,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/hp-elitebook-850-g6-15-6-zoll-1920x1080-full-hd-intel-core-i5-256gb-ssd-8gb-windows-11-pro-webcam-3",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-850-G6-0_d67a1ea7-2ebd-410f-a352-19a882d621a7.jpg?v=1770992714",
+   "hist": [
+    {
+     "d": "2026-11-16",
+     "p": 359
+    }
+   ],
+   "firstSeen": "2026-11-16"
   },
   {
    "id": "r-hp-elitedesk-800-g5-desktop-mini-intel-core-i5-9500t-16gb-ra",
@@ -21748,6 +21805,69 @@
     {
      "d": "2026-11-15",
      "p": 429
+    },
+    {
+     "d": "2026-11-16",
+     "p": 429
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "r-hp-elitebook-850-g6-15-6-fhd-display-intel-core-i5-8265u-8gb",
+   "cat": "Laptops",
+   "name": "HP EliteBook 850 G6, 15,6” FHD Display, Intel Core i5 8265U, 8GB RAM, 256GB SSD, Webcam, Windows 11 Pro Webcam, ESET Internet Security",
+   "brand": "HP",
+   "price": 429,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/hp-elitebook-850-g6-15-6-zoll-1920x1080-full-hd-intel-core-i5-256gb-ssd-8gb-windows-11-pro-webcam-kopie",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-850-G6-0_cbf01808-7051-4f21-a80b-b1c3c05a1f18.jpg?v=1770991815",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 339
+    },
+    {
+     "d": "2026-10-31",
+     "p": 339
+    },
+    {
+     "d": "2026-11-01",
+     "p": 339
+    },
+    {
+     "d": "2026-11-02",
+     "p": 339
+    },
+    {
+     "d": "2026-11-03",
+     "p": 339
+    },
+    {
+     "d": "2026-11-04",
+     "p": 339
+    },
+    {
+     "d": "2026-11-05",
+     "p": 339
+    },
+    {
+     "d": "2026-11-06",
+     "p": 339
+    },
+    {
+     "d": "2026-11-07",
+     "p": 339
+    },
+    {
+     "d": "2026-11-08",
+     "p": 339
+    },
+    {
+     "d": "2026-11-09",
+     "p": 339
     },
     {
      "d": "2026-11-16",
