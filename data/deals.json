@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T17:41:48.106Z",
+ "updated": "2026-11-16T18:05:45.458Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1482,96 +1482,6 @@
    "source": "crawler"
   },
   {
-   "id": "c-alphacool-core-1-aurora-black-cpu-kuhler",
-   "name": "Alphacool Core 1 Aurora Black, CPU-Kühler",
-   "cat": "Kühlung",
-   "price": 77.99,
-   "ref": 122.9,
-   "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/Alphacool/Core-1-Aurora-Black-CPU-K%C3%BChler/html/product/100218433",
-   "url": "https://www.alternate.de/Alphacool/Core-1-Aurora-Black-CPU-K%C3%BChler/html/product/100218433",
-   "note": "37 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 122.9
-    },
-    {
-     "d": "2026-10-31",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-01",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-02",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-03",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-04",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 77.99
-    },
-    {
-     "d": "2026-11-07",
-     "p": 77.99
-    },
-    {
-     "d": "2026-11-08",
-     "p": 77.99
-    },
-    {
-     "d": "2026-11-09",
-     "p": 77.99
-    },
-    {
-     "d": "2026-11-10",
-     "p": 77.99
-    },
-    {
-     "d": "2026-11-11",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-12",
-     "p": 77.99
-    },
-    {
-     "d": "2026-11-13",
-     "p": 77.99
-    },
-    {
-     "d": "2026-11-14",
-     "p": 77.99
-    },
-    {
-     "d": "2026-11-15",
-     "p": 122.9
-    },
-    {
-     "d": "2026-11-16",
-     "p": 77.99
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-16",
-   "updated": "2026-11-16",
-   "tags": "kuhlung luftkuhler alphacool core aurora black cpu kuhler",
-   "source": "crawler"
-  },
-  {
    "id": "c-akasa-alucia-h4i-low-profile-cpu-kuhler-fur-intel",
    "name": "Akasa ALUCIA H4I, Low-Profile CPU-Kühler, für Intel",
    "cat": "Kühlung",
@@ -2927,6 +2837,10 @@
     {
      "d": "2026-11-15",
      "p": 99.9
+    },
+    {
+     "d": "2026-11-16",
+     "p": 99.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -3615,6 +3529,10 @@
     {
      "d": "2026-11-13",
      "p": 153.03
+    },
+    {
+     "d": "2026-11-16",
+     "p": 153.03
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -3711,60 +3629,6 @@
    "seen": "2026-11-16",
    "updated": "2026-11-16",
    "tags": "ssds pcie 4.0 2 tb sandisk black sn7100 ssd 2tb 2280 pcie gen4 nvme internes solid state module",
-   "source": "crawler"
-  },
-  {
-   "id": "c-afox-ddr4-8-gb-ram-2400-mhz-udimm-speichermodul-cl17-schwarz",
-   "name": "AFOX DDR4 8 GB RAM 2400 MHz UDIMM Speichermodul CL17 Schwarz",
-   "cat": "Arbeitsspeicher",
-   "price": 77.33,
-   "ref": 87.82,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/afox-ddr4-8-gb-ram-2400-mhz-udimm-speichermodul-cl17-schwarz-100491192/",
-   "url": "https://www.jacob.de/produkt/afox-ddr4-8-gb-ram-2400-mhz-udimm-speichermodul-cl17-schwarz-100491192/",
-   "note": "12 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 87.82
-    },
-    {
-     "d": "2026-10-31",
-     "p": 87.82
-    },
-    {
-     "d": "2026-11-01",
-     "p": 87.82
-    },
-    {
-     "d": "2026-11-02",
-     "p": 77.15
-    },
-    {
-     "d": "2026-11-04",
-     "p": 91.81
-    },
-    {
-     "d": "2026-11-06",
-     "p": 92.26
-    },
-    {
-     "d": "2026-11-09",
-     "p": 91.93
-    },
-    {
-     "d": "2026-11-11",
-     "p": 92.43
-    },
-    {
-     "d": "2026-11-13",
-     "p": 77.33
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-16",
-   "updated": "2026-11-16",
-   "tags": "arbeitsspeicher ddr4 afox ram 2400 mhz udimm speichermodul cl17 schwarz",
    "source": "crawler"
   },
   {
@@ -3994,6 +3858,10 @@
     },
     {
      "d": "2026-11-15",
+     "p": 79.9
+    },
+    {
+     "d": "2026-11-16",
      "p": 79.9
     }
    ],
