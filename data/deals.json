@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-16T18:05:45.458Z",
+ "updated": "2026-11-16T20:00:09.690Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -3141,6 +3141,64 @@
    "seen": "2026-11-16",
    "updated": "2026-11-16",
    "tags": "monitore 17,3\" asus zenscreen mb17ahg ips monitor 1920 1080 144 schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-lexar-nm610-pro-nvme-ssd-pcie-3-0-m-2-typ-2280-500-gb",
+   "name": "Lexar NM610 Pro NVMe SSD, PCIe 3.0 M.2 Typ 2280 - 500 GB",
+   "cat": "SSDs",
+   "price": 84.9,
+   "ref": 98.76,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/lexar-nm610-pro-nvme-ssd-pcie-3.0-m.2-type-2280-500-gb/SSLX-021.html",
+   "url": "https://www.caseking.de/en/lexar-nm610-pro-nvme-ssd-pcie-3.0-m.2-type-2280-500-gb/SSLX-021.html",
+   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 98.76
+    },
+    {
+     "d": "2026-10-31",
+     "p": 98.76
+    },
+    {
+     "d": "2026-11-02",
+     "p": 98.76
+    },
+    {
+     "d": "2026-11-03",
+     "p": 98.76
+    },
+    {
+     "d": "2026-11-05",
+     "p": 98.76
+    },
+    {
+     "d": "2026-11-07",
+     "p": 98.76
+    },
+    {
+     "d": "2026-11-09",
+     "p": 84.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 84.9
+    },
+    {
+     "d": "2026-11-14",
+     "p": 84.9
+    },
+    {
+     "d": "2026-11-16",
+     "p": 84.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-16",
+   "updated": "2026-11-16",
+   "tags": "ssds nvme 500 gb lexar nm610 pro nvme ssd pcie typ 2280 500",
    "source": "crawler"
   },
   {
