@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T11:23:39.606Z",
+ "updated": "2026-11-17T11:55:06.896Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1477,6 +1477,10 @@
     {
      "d": "2026-11-15",
      "p": 89.9
+    },
+    {
+     "d": "2026-11-17",
+     "p": 89.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -1902,8 +1906,8 @@
    "price": 114.9,
    "ref": 144.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/lian-li-sp850-v2-gold-netzteil-modular-atx-3.1-850-watt-schwarz/NELI-028.html",
-   "url": "https://www.caseking.de/lian-li-sp850-v2-gold-netzteil-modular-atx-3.1-850-watt-schwarz/NELI-028.html",
+   "shopUrl": "https://www.caseking.de/en/lian-li-sp850-v2-gold-power-supply-modular-atx-3.1-850-watts-black/NELI-028.html",
+   "url": "https://www.caseking.de/en/lian-li-sp850-v2-gold-power-supply-modular-atx-3.1-850-watts-black/NELI-028.html",
    "note": "21 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -1960,6 +1964,10 @@
     },
     {
      "d": "2026-11-15",
+     "p": 114.9
+    },
+    {
+     "d": "2026-11-17",
      "p": 114.9
     }
    ],
@@ -2639,6 +2647,10 @@
     {
      "d": "2026-11-14",
      "p": 724.02
+    },
+    {
+     "d": "2026-11-17",
+     "p": 724.02
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -2935,60 +2947,6 @@
    "seen": "2026-11-17",
    "updated": "2026-11-17",
    "tags": "kuhlung luftkuhler alpenfohn matterhorn aurora black cpu kuhler",
-   "source": "crawler"
-  },
-  {
-   "id": "c-lenovo-sk-hynix-ssd-512-gb-m-2-2280-pcie-4-0-x4-nvme",
-   "name": "Lenovo SK Hynix SSD 512 GB M.2 2280 PCIe 4.0 x4 NVMe",
-   "cat": "SSDs",
-   "price": 308.13,
-   "ref": 354.13,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/lenovo-sk-hynix-ssd-512-gb-m-2-2280-pcie-4-0-x4-nvme-9088676/",
-   "url": "https://www.jacob.de/produkt/lenovo-sk-hynix-ssd-512-gb-m-2-2280-pcie-4-0-x4-nvme-9088676/",
-   "note": "13 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 354.13
-    },
-    {
-     "d": "2026-10-31",
-     "p": 360.25
-    },
-    {
-     "d": "2026-11-01",
-     "p": 360.25
-    },
-    {
-     "d": "2026-11-02",
-     "p": 369.42
-    },
-    {
-     "d": "2026-11-04",
-     "p": 378.6
-    },
-    {
-     "d": "2026-11-07",
-     "p": 249.67
-    },
-    {
-     "d": "2026-11-09",
-     "p": 246.63
-    },
-    {
-     "d": "2026-11-12",
-     "p": 326.85
-    },
-    {
-     "d": "2026-11-14",
-     "p": 308.13
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-17",
-   "updated": "2026-11-17",
-   "tags": "ssds pcie 4.0 512 gb lenovo hynix ssd 512 2280 pcie nvme",
    "source": "crawler"
   },
   {
@@ -3886,8 +3844,8 @@
    "price": 111.9,
    "ref": 124.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/intel-core-i3-14100-3-5-ghz-raptor-lake-refresh-sockel-1700-boxed/HPIT-817.html",
-   "url": "https://www.caseking.de/intel-core-i3-14100-3-5-ghz-raptor-lake-refresh-sockel-1700-boxed/HPIT-817.html",
+   "shopUrl": "https://www.caseking.de/en/intel-core-i3-14100-3.5-ghz-raptor-lake-refresh-socket-1700-boxed/HPIT-817.html",
+   "url": "https://www.caseking.de/en/intel-core-i3-14100-3.5-ghz-raptor-lake-refresh-socket-1700-boxed/HPIT-817.html",
    "note": "10 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -3927,6 +3885,64 @@
    "seen": "2026-11-17",
    "updated": "2026-11-17",
    "tags": "prozessoren intel lga1700 intel core 14100 ghz raptor lake refresh sockel 1700 boxed",
+   "source": "crawler"
+  },
+  {
+   "id": "c-lenovo-sk-hynix-ssd-512-gb-m-2-2280-pcie-4-0-x4-nvme",
+   "name": "Lenovo SK Hynix SSD 512 GB M.2 2280 PCIe 4.0 x4 NVMe",
+   "cat": "SSDs",
+   "price": 317.3,
+   "ref": 354.13,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/lenovo-sk-hynix-ssd-512-gb-m-2-2280-pcie-4-0-x4-nvme-9088676/",
+   "url": "https://www.jacob.de/produkt/lenovo-sk-hynix-ssd-512-gb-m-2-2280-pcie-4-0-x4-nvme-9088676/",
+   "note": "10 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 354.13
+    },
+    {
+     "d": "2026-10-31",
+     "p": 360.25
+    },
+    {
+     "d": "2026-11-01",
+     "p": 360.25
+    },
+    {
+     "d": "2026-11-02",
+     "p": 369.42
+    },
+    {
+     "d": "2026-11-04",
+     "p": 378.6
+    },
+    {
+     "d": "2026-11-07",
+     "p": 249.67
+    },
+    {
+     "d": "2026-11-09",
+     "p": 246.63
+    },
+    {
+     "d": "2026-11-12",
+     "p": 326.85
+    },
+    {
+     "d": "2026-11-14",
+     "p": 308.13
+    },
+    {
+     "d": "2026-11-17",
+     "p": 317.3
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-17",
+   "updated": "2026-11-17",
+   "tags": "ssds pcie 4.0 512 gb lenovo hynix ssd 512 2280 pcie nvme",
    "source": "crawler"
   }
  ],
