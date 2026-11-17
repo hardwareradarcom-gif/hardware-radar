@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T20:09:48.858Z",
+ "updated": "2026-11-17T21:57:45.324Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1187,6 +1187,10 @@
     {
      "d": "2026-11-15",
      "p": 23.9
+    },
+    {
+     "d": "2026-11-17",
+     "p": 23.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -1976,8 +1980,8 @@
    "price": 114.9,
    "ref": 144.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/lian-li-sp850-v2-gold-power-supply-modular-atx-3.1-850-watts-black/NELI-028.html",
-   "url": "https://www.caseking.de/en/lian-li-sp850-v2-gold-power-supply-modular-atx-3.1-850-watts-black/NELI-028.html",
+   "shopUrl": "https://www.caseking.de/lian-li-sp850-v2-gold-netzteil-modular-atx-3.1-850-watt-schwarz/NELI-028.html",
+   "url": "https://www.caseking.de/lian-li-sp850-v2-gold-netzteil-modular-atx-3.1-850-watt-schwarz/NELI-028.html",
    "note": "21 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -2250,80 +2254,6 @@
    "source": "crawler"
   },
   {
-   "id": "c-be-quiet-dark-rock-6-cpu-kuhler",
-   "name": "be quiet! Dark Rock 6, CPU-Kühler",
-   "cat": "Kühlung",
-   "price": 51.9,
-   "ref": 64.9,
-   "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/be-quiet/Dark-Rock-6-CPU-K%C3%BChler/html/product/100222123",
-   "url": "https://www.alternate.de/be-quiet/Dark-Rock-6-CPU-K%C3%BChler/html/product/100222123",
-   "note": "20 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-04",
-     "p": 66.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 66.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 64.9
-    },
-    {
-     "d": "2026-11-07",
-     "p": 64.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 64.9
-    },
-    {
-     "d": "2026-11-09",
-     "p": 66.9
-    },
-    {
-     "d": "2026-11-10",
-     "p": 64.9
-    },
-    {
-     "d": "2026-11-11",
-     "p": 64.9
-    },
-    {
-     "d": "2026-11-12",
-     "p": 66.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 59.9
-    },
-    {
-     "d": "2026-11-14",
-     "p": 64.9
-    },
-    {
-     "d": "2026-11-15",
-     "p": 64.9
-    },
-    {
-     "d": "2026-11-16",
-     "p": 74.9
-    },
-    {
-     "d": "2026-11-17",
-     "p": 51.9
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-17",
-   "updated": "2026-11-17",
-   "tags": "kuhlung luftkuhler quiet dark rock cpu kuhler",
-   "source": "crawler"
-  },
-  {
    "id": "c-philips-p-line-346p1crh-34-curved-wqhd-monitor-3440-x-1440-1",
    "name": "Philips P-line 346P1CRH 34\" Curved WQHD Monitor 3440 x 1440 100 Hz VA HDMI DisplayPort USB-C Schwarz",
    "cat": "Monitore",
@@ -2430,6 +2360,10 @@
     },
     {
      "d": "2026-11-16",
+     "p": 40.9
+    },
+    {
+     "d": "2026-11-17",
      "p": 40.9
     }
    ],
