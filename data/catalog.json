@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T10:10:45.326Z",
+ "updated": "2026-11-17T11:23:39.606Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -92354,6 +92354,35 @@
    "count": 1,
    "tags": "mainboards intel lga1851 b860 asus rog strix b860 gaming wifi mainboard atx lga 1851 intel ddr5 weiss",
    "firstSeen": "2026-11-16"
+  },
+  {
+   "id": "c-asus-rog-loki-sfx-l-850w-platinum-pc-netzteil",
+   "cat": "Netzteile",
+   "sub": "SFX",
+   "name": "ASUS ROG Loki SFX-L 850W Platinum, PC-Netzteil",
+   "source": "crawler",
+   "url": "https://www.alternate.de/ASUS/ROG-Loki-SFX-L-850W-Platinum-PC-Netzteil/html/product/1902927",
+   "stand": "2026-11-17T11:23",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 256,
+     "ship": 0,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/ASUS/ROG-Loki-SFX-L-850W-Platinum-PC-Netzteil/html/product/1902927"
+    }
+   ],
+   "price": 256,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-17",
+     "p": 256
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile sfx asus rog loki 850w platinum netzteil",
+   "firstSeen": "2026-11-17"
   },
   {
    "id": "c-asus-prime-z890m-plus-wifi-mainboard-z890-lga1851-ddr5-micro",
