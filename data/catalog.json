@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T15:59:33.055Z",
+ "updated": "2026-11-17T17:33:49.298Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -43070,6 +43070,35 @@
    "firstSeen": "2026-11-14"
   },
   {
+   "id": "c-seasonic-focus-gx-750-v4-atx3-1-white-edition-pc-netzteil",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Seasonic FOCUS GX-750 V4 ATX3.1 White Edition, PC-Netzteil",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Seasonic/FOCUS-GX-750-V4-ATX3-1-White-Edition-PC-Netzteil/html/product/100076193",
+   "stand": "2026-11-17T17:33",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 89.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Seasonic/FOCUS-GX-750-V4-ATX3-1-White-Edition-PC-Netzteil/html/product/100076193"
+    }
+   ],
+   "price": 89.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-17",
+     "p": 89.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile seasonic focus 750 atx3 white edition netzteil",
+   "firstSeen": "2026-11-17"
+  },
+  {
    "id": "c-gigabyte-h810m-k-mainboard-micro-atx-lga1851-intel-h810-ddr5",
    "cat": "Mainboards",
    "sub": "Intel LGA1851 H810",
@@ -79186,6 +79215,35 @@
    "count": 1,
    "tags": "mainboards am4 b550 asus rog strix b550 gaming wifi amd mainboard sockel am4",
    "firstSeen": "2026-11-08"
+  },
+  {
+   "id": "c-sharkoon-rebel-p30-gold-1000w-atx3-0-pc-netzteil",
+   "cat": "Netzteile",
+   "sub": "1000 W+",
+   "name": "Sharkoon REBEL P30 Gold 1000W ATX3.0, PC-Netzteil",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Sharkoon/REBEL-P30-Gold-1000W-ATX3-0-PC-Netzteil/html/product/100210609",
+   "stand": "2026-11-17T17:33",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 190.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Sharkoon/REBEL-P30-Gold-1000W-ATX3-0-PC-Netzteil/html/product/100210609"
+    }
+   ],
+   "price": 190.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-17",
+     "p": 190.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile 1000 w+ sharkoon rebel p30 gold 1000w atx3 netzteil",
+   "firstSeen": "2026-11-17"
   },
   {
    "id": "c-asus-tuf-gaming-b860-plus-wifi-mainboard-intel-b860-lga-1851",
