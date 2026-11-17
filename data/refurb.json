@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T08:24:27.843Z",
+ "updated": "2026-11-17T10:10:45.326Z",
  "products": [
   {
    "id": "r-acer-b246hylbymiprx-23-8-full-hd-1920x1080-display-hdmi-disp",
@@ -8587,85 +8587,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "r-hp-prodesk-400-g4-desktop-mini-intel-core-i5-8500t-8gb-256gb",
-   "cat": "PCs & Workstations",
-   "name": "HP ProDesk 400 G4 Desktop Mini, Intel Core i5 8500T, 8GB, 256GB SSD, Windows 11 Pro",
-   "brand": "HP",
-   "price": 349,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/hp-prodesk-400-g4-desktop-mini-intel-core-i5-8500t-8gb-256gb-ssd-windows-11-pro-1",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-ProDesk-400-G4-DM-0_7f9e6e2e-8b4b-497e-ad56-bd4760539e68.jpg?v=1770990675",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 349
-    },
-    {
-     "d": "2026-10-31",
-     "p": 349
-    },
-    {
-     "d": "2026-11-01",
-     "p": 349
-    },
-    {
-     "d": "2026-11-02",
-     "p": 349
-    },
-    {
-     "d": "2026-11-03",
-     "p": 349
-    },
-    {
-     "d": "2026-11-04",
-     "p": 349
-    },
-    {
-     "d": "2026-11-05",
-     "p": 349
-    },
-    {
-     "d": "2026-11-06",
-     "p": 349
-    },
-    {
-     "d": "2026-11-07",
-     "p": 349
-    },
-    {
-     "d": "2026-11-08",
-     "p": 349
-    },
-    {
-     "d": "2026-11-09",
-     "p": 349
-    },
-    {
-     "d": "2026-11-10",
-     "p": 349
-    },
-    {
-     "d": "2026-11-11",
-     "p": 349
-    },
-    {
-     "d": "2026-11-12",
-     "p": 329
-    },
-    {
-     "d": "2026-11-13",
-     "p": 329
-    },
-    {
-     "d": "2026-11-14",
-     "p": 349
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "r-dell-optiplex-7060-micro-intel-core-i5-8400t-8gb-ram-256gb-s",
    "cat": "PCs & Workstations",
    "name": "Dell OptiPlex 7060 Micro, Intel Core i5 8400T, 8GB RAM, 256GB SSD, Windows 11 Pro",
@@ -12945,29 +12866,6 @@
     }
    ],
    "firstSeen": "2026-11-10"
-  },
-  {
-   "id": "r-hp-elitebook-x360-1040-g6-14-touch-display-intel-core-i7-866",
-   "cat": "Laptops",
-   "name": "HP EliteBook x360 1040 G6, 14” Touch Display, Intel Core i7 8665U, 16GB RAM, 512GB SSD, Fingerprint Reader, Windows 11 Pro",
-   "brand": "HP",
-   "price": 369,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/hp-elitebook-x360-1040-g6-14-touch-display-intel-core-i7-8665u-16gb-ram-512gb-ssd-fingerprint-reader-windows-11-pro-1",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-x360-1040-G6-0_e9ef471c-4452-4628-9cdb-f14ddaa7a8a1.jpg?v=1770993015",
-   "hist": [
-    {
-     "d": "2026-11-13",
-     "p": 369
-    },
-    {
-     "d": "2026-11-14",
-     "p": 369
-    }
-   ],
-   "firstSeen": "2026-11-13"
   },
   {
    "id": "r-fujitsu-esprimo-d958-intel-core-i5-8500-8gb-ram-256gb-ssd-dv",
@@ -46175,6 +46073,77 @@
     },
     {
      "d": "2026-11-16",
+     "p": 578.99
+    },
+    {
+     "d": "2026-11-17",
+     "p": 578.99
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "r-dell-latitude-5520-15-6-fhd-display-intel-core-i5-1145g7-16g",
+   "cat": "Laptops",
+   "name": "Dell Latitude 5520, 15,6” FHD Display, Intel Core i5 1145G7, 16GB RAM, 512GB SSD, Webcam, Windows 11 Pro, ESET Internet Security",
+   "brand": "Dell",
+   "price": 578.99,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/dell-latitude-5520-15-6-fhd-display-intel-core-i5-1145g7-16gb-ram-512gb-ssd-webcam-windows-11-pro-eset-internet-security-1",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Latitude-5520-1_684e122d-bf64-4ec6-80ff-dba6d23816f9.png?v=1770992113",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 578.99
+    },
+    {
+     "d": "2026-10-31",
+     "p": 578.99
+    },
+    {
+     "d": "2026-11-01",
+     "p": 578.99
+    },
+    {
+     "d": "2026-11-02",
+     "p": 578.99
+    },
+    {
+     "d": "2026-11-03",
+     "p": 578.99
+    },
+    {
+     "d": "2026-11-04",
+     "p": 578.99
+    },
+    {
+     "d": "2026-11-05",
+     "p": 578.99
+    },
+    {
+     "d": "2026-11-06",
+     "p": 578.99
+    },
+    {
+     "d": "2026-11-07",
+     "p": 578.99
+    },
+    {
+     "d": "2026-11-08",
+     "p": 578.99
+    },
+    {
+     "d": "2026-11-09",
+     "p": 578.99
+    },
+    {
+     "d": "2026-11-10",
+     "p": 578.99
+    },
+    {
+     "d": "2026-11-11",
      "p": 578.99
     },
     {
