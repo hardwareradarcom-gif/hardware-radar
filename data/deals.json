@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T11:55:06.896Z",
+ "updated": "2026-11-17T14:23:31.817Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -2941,6 +2941,10 @@
     {
      "d": "2026-11-15",
      "p": 25.9
+    },
+    {
+     "d": "2026-11-17",
+     "p": 25.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -3321,6 +3325,10 @@
     {
      "d": "2026-11-14",
      "p": 196.67
+    },
+    {
+     "d": "2026-11-17",
+     "p": 196.67
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -3421,60 +3429,6 @@
    "seen": "2026-11-17",
    "updated": "2026-11-17",
    "tags": "ssds pcie 4.0 2 tb sandisk black sn770m ssd 2tb 2230 pcie gen4 nvme ware internes solid state module",
-   "source": "crawler"
-  },
-  {
-   "id": "c-eizo-flexscan-ev2495-wt-mit-flexstand-led-monitor-61-1-cm-24",
-   "name": "EIZO FlexScan EV2495-WT - Mit FlexStand - LED-Monitor - 61.1 cm (24.1\") - 1920 x 1200 - IPS - 350 cd/m² - 1000:1 - 5 ms - HDMI, DisplayPort, USB-C - Lautsprecher - weiß [Energieklasse C]",
-   "cat": "Monitore",
-   "price": 474.69,
-   "ref": 535.3,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/eizo-flexscan-ev2495-wt-mit-flexstand-led-monitor-61-1-cm-24-1-1920-x-1200-ips-350-cd-m2-1000-1-5-ms-hdmi-displayport-usb-c-lautsprecher-weiss-energieklasse-c-6795091/",
-   "url": "https://www.jacob.de/produkt/eizo-flexscan-ev2495-wt-mit-flexstand-led-monitor-61-1-cm-24-1-1920-x-1200-ips-350-cd-m2-1000-1-5-ms-hdmi-displayport-usb-c-lautsprecher-weiss-energieklasse-c-6795091/",
-   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 535.3
-    },
-    {
-     "d": "2026-10-31",
-     "p": 535.3
-    },
-    {
-     "d": "2026-11-01",
-     "p": 535.3
-    },
-    {
-     "d": "2026-11-02",
-     "p": 535.3
-    },
-    {
-     "d": "2026-11-04",
-     "p": 535.3
-    },
-    {
-     "d": "2026-11-07",
-     "p": 535.3
-    },
-    {
-     "d": "2026-11-09",
-     "p": 474.69
-    },
-    {
-     "d": "2026-11-12",
-     "p": 475.64
-    },
-    {
-     "d": "2026-11-14",
-     "p": 474.69
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-17",
-   "updated": "2026-11-17",
-   "tags": "monitore 24,1\" eizo flexscan ev2495 mit flexstand led monitor 1920 1200 ips 350 1000 hdmi displayport usb lautsprecher",
    "source": "crawler"
   },
   {
@@ -3712,6 +3666,10 @@
     },
     {
      "d": "2026-11-15",
+     "p": 48.9
+    },
+    {
+     "d": "2026-11-17",
      "p": 48.9
     }
    ],
