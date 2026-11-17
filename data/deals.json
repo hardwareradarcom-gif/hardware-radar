@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-17T14:23:31.817Z",
+ "updated": "2026-11-17T15:59:33.055Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1726,6 +1726,68 @@
    "source": "crawler"
   },
   {
+   "id": "c-supermicro-h12ssl-c-server-mainboard-atx-socket-sp3-amd-epyc",
+   "name": "Supermicro H12SSL-C Server-Mainboard ATX, Socket SP3, AMD EPYC, DDR4 ECC bis 2 TB",
+   "cat": "Mainboards",
+   "price": 821.85,
+   "ref": 1103.32,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/supermicro-h12ssl-c-server-mainboard-atx-socket-sp3-amd-epyc-ddr4-ecc-bis-2-tb-6484913/",
+   "url": "https://www.jacob.de/produkt/supermicro-h12ssl-c-server-mainboard-atx-socket-sp3-amd-epyc-ddr4-ecc-bis-2-tb-6484913/",
+   "note": "26 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 919.72
+    },
+    {
+     "d": "2026-10-31",
+     "p": 1103.32
+    },
+    {
+     "d": "2026-11-01",
+     "p": 1103.32
+    },
+    {
+     "d": "2026-11-02",
+     "p": 1103.32
+    },
+    {
+     "d": "2026-11-03",
+     "p": 1103.32
+    },
+    {
+     "d": "2026-11-05",
+     "p": 1103.32
+    },
+    {
+     "d": "2026-11-07",
+     "p": 1103.32
+    },
+    {
+     "d": "2026-11-10",
+     "p": 1103.32
+    },
+    {
+     "d": "2026-11-12",
+     "p": 1103.32
+    },
+    {
+     "d": "2026-11-14",
+     "p": 1103.32
+    },
+    {
+     "d": "2026-11-17",
+     "p": 821.85
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-17",
+   "updated": "2026-11-17",
+   "tags": "mainboards supermicro h12ssl server mainboard atx socket sp3 amd epyc ddr4 ecc bis",
+   "source": "crawler"
+  },
+  {
    "id": "c-thermalright-axp120-x67-argb-low-profile-cpu-kuhler-120mm-sc",
    "name": "Thermalright AXP120 X67 ARGB Low Profile CPU-Kühler - 120mm, schwarz",
    "cat": "Kühlung",
@@ -1890,6 +1952,10 @@
     },
     {
      "d": "2026-11-15",
+     "p": 129.9
+    },
+    {
+     "d": "2026-11-17",
      "p": 129.9
     }
    ],
@@ -2169,6 +2235,80 @@
    "seen": "2026-11-17",
    "updated": "2026-11-17",
    "tags": "kuhlung luftkuhler thermalright axp120 x67 argb low profile cpu kuhler 120mm weiss",
+   "source": "crawler"
+  },
+  {
+   "id": "c-be-quiet-dark-rock-6-cpu-kuhler",
+   "name": "be quiet! Dark Rock 6, CPU-Kühler",
+   "cat": "Kühlung",
+   "price": 51.9,
+   "ref": 64.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/be-quiet/Dark-Rock-6-CPU-K%C3%BChler/html/product/100222123",
+   "url": "https://www.alternate.de/be-quiet/Dark-Rock-6-CPU-K%C3%BChler/html/product/100222123",
+   "note": "20 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 66.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 66.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 64.9
+    },
+    {
+     "d": "2026-11-07",
+     "p": 64.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 64.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 66.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 64.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 64.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 66.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 59.9
+    },
+    {
+     "d": "2026-11-14",
+     "p": 64.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 64.9
+    },
+    {
+     "d": "2026-11-16",
+     "p": 74.9
+    },
+    {
+     "d": "2026-11-17",
+     "p": 51.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-17",
+   "updated": "2026-11-17",
+   "tags": "kuhlung luftkuhler quiet dark rock cpu kuhler",
    "source": "crawler"
   },
   {
@@ -2809,6 +2949,10 @@
     {
      "d": "2026-11-14",
      "p": 1692.14
+    },
+    {
+     "d": "2026-11-17",
+     "p": 1692.14
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -3070,64 +3214,6 @@
    "source": "crawler"
   },
   {
-   "id": "c-asus-b850-max-gaming-wifi-w-mainboard-atx-sockel-am5-amd-b85",
-   "name": "ASUS B850 MAX GAMING WIFI W Mainboard ATX Sockel AM5 AMD B850 DDR5 Weiß",
-   "cat": "Mainboards",
-   "price": 222.88,
-   "ref": 254.16,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/asus-b850-max-gaming-wifi-w-mainboard-atx-sockel-am5-amd-b850-ddr5-weiss-100568096/",
-   "url": "https://www.jacob.de/produkt/asus-b850-max-gaming-wifi-w-mainboard-atx-sockel-am5-amd-b850-ddr5-weiss-100568096/",
-   "note": "12 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 254.16
-    },
-    {
-     "d": "2026-10-31",
-     "p": 254.16
-    },
-    {
-     "d": "2026-11-01",
-     "p": 254.16
-    },
-    {
-     "d": "2026-11-02",
-     "p": 254.16
-    },
-    {
-     "d": "2026-11-03",
-     "p": 254.16
-    },
-    {
-     "d": "2026-11-05",
-     "p": 254.16
-    },
-    {
-     "d": "2026-11-07",
-     "p": 254.16
-    },
-    {
-     "d": "2026-11-10",
-     "p": 225.86
-    },
-    {
-     "d": "2026-11-12",
-     "p": 225.09
-    },
-    {
-     "d": "2026-11-14",
-     "p": 222.88
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-17",
-   "updated": "2026-11-17",
-   "tags": "mainboards am5 b850 asus b850 max gaming wifi mainboard atx sockel am5 amd ddr5 weiss",
-   "source": "crawler"
-  },
-  {
    "id": "c-asus-b650e-max-gaming-wifi-mainboard-atx-sockel-am5-amd-b650",
    "name": "ASUS B650E MAX GAMING WIFI Mainboard ATX Sockel AM5 AMD B650 DDR5 Schwarz",
    "cat": "Mainboards",
@@ -3277,6 +3363,68 @@
    "seen": "2026-11-17",
    "updated": "2026-11-17",
    "tags": "ssds pcie 4.0 2 tb sandisk black sn7100 ssd 2tb 2280 pcie gen4 nvme internes solid state module",
+   "source": "crawler"
+  },
+  {
+   "id": "c-asus-b850-max-gaming-wifi-w-mainboard-atx-sockel-am5-amd-b85",
+   "name": "ASUS B850 MAX GAMING WIFI W Mainboard ATX Sockel AM5 AMD B850 DDR5 Weiß",
+   "cat": "Mainboards",
+   "price": 223.87,
+   "ref": 254.16,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/asus-b850-max-gaming-wifi-w-mainboard-atx-sockel-am5-amd-b850-ddr5-weiss-100568096/",
+   "url": "https://www.jacob.de/produkt/asus-b850-max-gaming-wifi-w-mainboard-atx-sockel-am5-amd-b850-ddr5-weiss-100568096/",
+   "note": "12 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 254.16
+    },
+    {
+     "d": "2026-10-31",
+     "p": 254.16
+    },
+    {
+     "d": "2026-11-01",
+     "p": 254.16
+    },
+    {
+     "d": "2026-11-02",
+     "p": 254.16
+    },
+    {
+     "d": "2026-11-03",
+     "p": 254.16
+    },
+    {
+     "d": "2026-11-05",
+     "p": 254.16
+    },
+    {
+     "d": "2026-11-07",
+     "p": 254.16
+    },
+    {
+     "d": "2026-11-10",
+     "p": 225.86
+    },
+    {
+     "d": "2026-11-12",
+     "p": 225.09
+    },
+    {
+     "d": "2026-11-14",
+     "p": 222.88
+    },
+    {
+     "d": "2026-11-17",
+     "p": 223.87
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-17",
+   "updated": "2026-11-17",
+   "tags": "mainboards am5 b850 asus b850 max gaming wifi mainboard atx sockel am5 amd ddr5 weiss",
    "source": "crawler"
   },
   {
