@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T08:23:03.489Z",
+ "updated": "2026-11-18T10:07:47.209Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1071,6 +1071,10 @@
     {
      "d": "2026-11-15",
      "p": 25.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 25.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -1361,6 +1365,10 @@
     {
      "d": "2026-11-15",
      "p": 52.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 52.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -1546,6 +1554,10 @@
     },
     {
      "d": "2026-11-15",
+     "p": 22.9
+    },
+    {
+     "d": "2026-11-18",
      "p": 22.9
     }
    ],
@@ -2210,8 +2222,8 @@
    "price": 39.9,
    "ref": 49.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/thermalright-axp120-x67-argb-low-profile-cpu-kuehler-120mm-weiss/CPTR-120.html",
-   "url": "https://www.caseking.de/thermalright-axp120-x67-argb-low-profile-cpu-kuehler-120mm-weiss/CPTR-120.html",
+   "shopUrl": "https://www.caseking.de/en/thermalright-axp120-x67-argb-low-profile-cpu-cooler-120mm-white/CPTR-120.html",
+   "url": "https://www.caseking.de/en/thermalright-axp120-x67-argb-low-profile-cpu-cooler-120mm-white/CPTR-120.html",
    "note": "20 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -2321,6 +2333,126 @@
    "seen": "2026-11-18",
    "updated": "2026-11-18",
    "tags": "monitore 34\" philips line 346p1crh curved wqhd monitor 3440 1440 100 hdmi displayport usb schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-gigabyte-gs27fc2-27-zoll-fhd-gaming-monitor-240hz-va-panel-a",
+   "name": "Gigabyte GS27FC2, 27 Zoll FHD Gaming-Monitor, 240Hz, VA-Panel, Adaptive Synchronisation",
+   "cat": "Monitore",
+   "price": 112.9,
+   "ref": 139,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/gigabyte-gs27fc2-27-inch-fhd-gaming-monitor-240hz-va-panel-adaptive-synchronisation/TFGB-087.html",
+   "url": "https://www.caseking.de/en/gigabyte-gs27fc2-27-inch-fhd-gaming-monitor-240hz-va-panel-adaptive-synchronisation/TFGB-087.html",
+   "note": "19 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 139
+    },
+    {
+     "d": "2026-11-01",
+     "p": 139
+    },
+    {
+     "d": "2026-11-03",
+     "p": 139
+    },
+    {
+     "d": "2026-11-04",
+     "p": 139
+    },
+    {
+     "d": "2026-11-06",
+     "p": 139
+    },
+    {
+     "d": "2026-11-08",
+     "p": 139
+    },
+    {
+     "d": "2026-11-11",
+     "p": 139
+    },
+    {
+     "d": "2026-11-13",
+     "p": 139
+    },
+    {
+     "d": "2026-11-15",
+     "p": 139
+    },
+    {
+     "d": "2026-11-18",
+     "p": 112.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-18",
+   "updated": "2026-11-18",
+   "tags": "monitore 27\" gigabyte gs27fc2 zoll fhd gaming monitor 240hz panel adaptive synchronisation",
+   "source": "crawler"
+  },
+  {
+   "id": "c-seasonic-focus-gx-80-plus-gold-netzteil-modular-1000-watt-we",
+   "name": "Seasonic Focus GX 80 PLUS Gold Netzteil, modular - 1000 Watt, weiß",
+   "cat": "Netzteile",
+   "price": 174.9,
+   "ref": 214.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/seasonic-focus-gx-80-plus-gold-power-supply-modular-1000-watts-white/NESE-178.html",
+   "url": "https://www.caseking.de/en/seasonic-focus-gx-80-plus-gold-power-supply-modular-1000-watts-white/NESE-178.html",
+   "note": "19 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 214.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 214.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 214.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 214.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 214.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 214.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 214.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 214.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 214.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 214.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 174.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-18",
+   "updated": "2026-11-18",
+   "tags": "netzteile 1000 w+ seasonic focus plus gold netzteil modular 1000 watt weiss",
    "source": "crawler"
   },
   {
@@ -2464,6 +2596,64 @@
    "source": "crawler"
   },
   {
+   "id": "c-gigabyte-m27q2-qd-ice-27-zoll-qhd-gaming-monitor-200hz-ss-ip",
+   "name": "GIGABYTE M27Q2 QD ICE 27 Zoll QHD Gaming-Monitor, 200Hz, SS-IPS-Panel, G-Sync Compatible",
+   "cat": "Monitore",
+   "price": 189,
+   "ref": 229,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/gigabyte-m27q2-qd-ice-27-inch-qhd-gaming-monitor-200hz-ss-ips-panel-g-sync-compatible/TFGB-084.html",
+   "url": "https://www.caseking.de/en/gigabyte-m27q2-qd-ice-27-inch-qhd-gaming-monitor-200hz-ss-ips-panel-g-sync-compatible/TFGB-084.html",
+   "note": "17 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 229
+    },
+    {
+     "d": "2026-11-01",
+     "p": 229
+    },
+    {
+     "d": "2026-11-03",
+     "p": 229
+    },
+    {
+     "d": "2026-11-04",
+     "p": 229
+    },
+    {
+     "d": "2026-11-06",
+     "p": 229
+    },
+    {
+     "d": "2026-11-08",
+     "p": 229
+    },
+    {
+     "d": "2026-11-11",
+     "p": 229
+    },
+    {
+     "d": "2026-11-13",
+     "p": 229
+    },
+    {
+     "d": "2026-11-15",
+     "p": 229
+    },
+    {
+     "d": "2026-11-18",
+     "p": 189
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-18",
+   "updated": "2026-11-18",
+   "tags": "monitore 27\" gigabyte m27q2 ice zoll qhd gaming monitor 200hz ips panel sync compatible",
+   "source": "crawler"
+  },
+  {
    "id": "c-adata-xpg-mars-980-blade-nvme-ssd-pcie-5-0-m-2-typ-2280-2-tb",
    "name": "ADATA XPG MARS 980 BLADE NVMe SSD, PCIe 5.0 M.2 Typ 2280 - 2 TB",
    "cat": "SSDs",
@@ -2563,6 +2753,10 @@
     {
      "d": "2026-11-16",
      "p": 99.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 99.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -2643,6 +2837,64 @@
    "seen": "2026-11-18",
    "updated": "2026-11-18",
    "tags": "kuhlung luftkuhler montech nx600 argb cpu kuhler",
+   "source": "crawler"
+  },
+  {
+   "id": "c-gigabyte-m27q3-27-zoll-qhd-gaming-monitor-300hz-ss-ips-panel",
+   "name": "GIGABYTE M27Q3 27 Zoll QHD Gaming-Monitor, 300Hz, SS-IPS-Panel, G-Sync Compatible",
+   "cat": "Monitore",
+   "price": 219,
+   "ref": 259,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/gigabyte-m27q3-27-inch-qhd-gaming-monitor-300hz-ss-ips-panel-g-sync-compatible/TFGB-082.html",
+   "url": "https://www.caseking.de/en/gigabyte-m27q3-27-inch-qhd-gaming-monitor-300hz-ss-ips-panel-g-sync-compatible/TFGB-082.html",
+   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 259
+    },
+    {
+     "d": "2026-11-01",
+     "p": 259
+    },
+    {
+     "d": "2026-11-03",
+     "p": 259
+    },
+    {
+     "d": "2026-11-04",
+     "p": 259
+    },
+    {
+     "d": "2026-11-06",
+     "p": 259
+    },
+    {
+     "d": "2026-11-08",
+     "p": 259
+    },
+    {
+     "d": "2026-11-11",
+     "p": 259
+    },
+    {
+     "d": "2026-11-13",
+     "p": 259
+    },
+    {
+     "d": "2026-11-15",
+     "p": 259
+    },
+    {
+     "d": "2026-11-18",
+     "p": 219
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-18",
+   "updated": "2026-11-18",
+   "tags": "monitore 27\" gigabyte m27q3 zoll qhd gaming monitor 300hz ips panel sync compatible",
    "source": "crawler"
   },
   {
@@ -3739,6 +3991,10 @@
     {
      "d": "2026-11-16",
      "p": 79.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 79.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -4061,6 +4317,68 @@
    "seen": "2026-11-18",
    "updated": "2026-11-18",
    "tags": "prozessoren am5 amd ryzen 9800x3d ghz octa core prozessor cpu wof sockel 120",
+   "source": "crawler"
+  },
+  {
+   "id": "c-seasonic-focus-gx-80-plus-gold-netzteil-modular-pcie-5-1-850",
+   "name": "Seasonic Focus GX 80 PLUS Gold Netzteil, modular, PCIe 5.1 - 850 Watt, weiß",
+   "cat": "Netzteile",
+   "price": 134.9,
+   "ref": 149.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/seasonic-focus-gx-80-plus-gold-power-supply-modular-pcie-5.1-850-watts-white/NESE-179.html",
+   "url": "https://www.caseking.de/en/seasonic-focus-gx-80-plus-gold-power-supply-modular-pcie-5.1-850-watts-white/NESE-179.html",
+   "note": "10 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 149.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 149.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 149.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 149.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 149.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 149.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 149.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 149.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 149.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 149.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 134.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-18",
+   "updated": "2026-11-18",
+   "tags": "netzteile 850 w seasonic focus plus gold netzteil modular pcie 850 watt weiss",
    "source": "crawler"
   }
  ],
