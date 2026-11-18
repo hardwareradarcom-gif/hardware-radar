@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T11:28:08.851Z",
+ "updated": "2026-11-18T12:02:41.564Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1315,6 +1315,10 @@
     {
      "d": "2026-11-15",
      "p": 16.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 16.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -2129,6 +2133,10 @@
     {
      "d": "2026-11-17",
      "p": 299
+    },
+    {
+     "d": "2026-11-18",
+     "p": 299
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -2703,6 +2711,10 @@
     {
      "d": "2026-11-15",
      "p": 339.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 339.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -2763,6 +2775,68 @@
    "seen": "2026-11-18",
    "updated": "2026-11-18",
    "tags": "kuhlung luftkuhler noctua d15 chromax black cpu kuhler",
+   "source": "crawler"
+  },
+  {
+   "id": "c-seasonic-core-gx-80-plus-gold-netzteil-modular-atx-3-1-pcie-",
+   "name": "Seasonic Core GX 80 PLUS Gold Netzteil, modular, ATX 3.1, PCIe 5.1 - 650 Watt, schwarz",
+   "cat": "Netzteile",
+   "price": 79.9,
+   "ref": 94.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/seasonic-core-gx-80-plus-gold-power-supply-modular-atx-3.1-pcie-5.1-650-watt-black/NESE-197.html",
+   "url": "https://www.caseking.de/en/seasonic-core-gx-80-plus-gold-power-supply-modular-atx-3.1-pcie-5.1-650-watt-black/NESE-197.html",
+   "note": "16 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 94.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 94.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 94.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 94.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 94.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 94.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 94.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 94.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 94.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 94.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 79.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-18",
+   "updated": "2026-11-18",
+   "tags": "netzteile 650 w seasonic core plus gold netzteil modular atx pcie 650 watt schwarz",
    "source": "crawler"
   },
   {
@@ -2895,6 +2969,40 @@
    "seen": "2026-11-18",
    "updated": "2026-11-18",
    "tags": "monitore 27\" gigabyte m27q3 zoll qhd gaming monitor 300hz ips panel sync compatible",
+   "source": "crawler"
+  },
+  {
+   "id": "c-amd-ryzen-7-9800x3d-8-x-4-7-ghz-octa-core-prozessor-cpu-wof-",
+   "name": "AMD Ryzen 7 9800X3D 8 x 4.7 GHz Octa Core Prozessor (CPU) WOF Sockel (PC): AMD® AM5 120 W",
+   "cat": "Prozessoren",
+   "price": 357.14,
+   "ref": 419.33,
+   "shop": "Conrad",
+   "shopUrl": "https://www.conrad.de/de/p/amd-ryzen-7-9800x3d-8-x-4-7-ghz-octa-core-prozessor-cpu-wof-sockel-pc-amd-am5-120-w-3345881.html",
+   "url": "https://www.conrad.de/de/p/amd-ryzen-7-9800x3d-8-x-4-7-ghz-octa-core-prozessor-cpu-wof-sockel-pc-amd-am5-120-w-3345881.html",
+   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-13",
+     "p": 419.33
+    },
+    {
+     "d": "2026-11-16",
+     "p": 419.33
+    },
+    {
+     "d": "2026-11-17",
+     "p": 377.31
+    },
+    {
+     "d": "2026-11-18",
+     "p": 357.14
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-18",
+   "updated": "2026-11-18",
+   "tags": "prozessoren am5 amd ryzen 9800x3d ghz octa core prozessor cpu wof sockel 120",
    "source": "crawler"
   },
   {
@@ -4290,36 +4398,6 @@
    "source": "crawler"
   },
   {
-   "id": "c-amd-ryzen-7-9800x3d-8-x-4-7-ghz-octa-core-prozessor-cpu-wof-",
-   "name": "AMD Ryzen 7 9800X3D 8 x 4.7 GHz Octa Core Prozessor (CPU) WOF Sockel (PC): AMD® AM5 120 W",
-   "cat": "Prozessoren",
-   "price": 377.31,
-   "ref": 419.33,
-   "shop": "Conrad",
-   "shopUrl": "https://www.conrad.de/de/p/amd-ryzen-7-9800x3d-8-x-4-7-ghz-octa-core-prozessor-cpu-wof-sockel-pc-amd-am5-120-w-3345881.html",
-   "url": "https://www.conrad.de/de/p/amd-ryzen-7-9800x3d-8-x-4-7-ghz-octa-core-prozessor-cpu-wof-sockel-pc-amd-am5-120-w-3345881.html",
-   "note": "10 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-13",
-     "p": 419.33
-    },
-    {
-     "d": "2026-11-16",
-     "p": 419.33
-    },
-    {
-     "d": "2026-11-17",
-     "p": 377.31
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-18",
-   "updated": "2026-11-18",
-   "tags": "prozessoren am5 amd ryzen 9800x3d ghz octa core prozessor cpu wof sockel 120",
-   "source": "crawler"
-  },
-  {
    "id": "c-seasonic-focus-gx-80-plus-gold-netzteil-modular-pcie-5-1-850",
    "name": "Seasonic Focus GX 80 PLUS Gold Netzteil, modular, PCIe 5.1 - 850 Watt, weiß",
    "cat": "Netzteile",
@@ -4379,6 +4457,68 @@
    "seen": "2026-11-18",
    "updated": "2026-11-18",
    "tags": "netzteile 850 w seasonic focus plus gold netzteil modular pcie 850 watt weiss",
+   "source": "crawler"
+  },
+  {
+   "id": "c-xiaomi-g27i-2026-gaming-monitor-68-6-cm-27-full-hd-200hz-1ms",
+   "name": "Xiaomi G27i 2026 Gaming Monitor 68,6 cm (27\") Full HD 200Hz 1ms FreeSync Premium Schwarz",
+   "cat": "Monitore",
+   "price": 114.61,
+   "ref": 127.35,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/xiaomi-g27i-2026-gaming-monitor-68-6-cm-27-full-hd-200hz-1ms-freesync-premium-schwarz-100697106/",
+   "url": "https://www.jacob.de/produkt/xiaomi-g27i-2026-gaming-monitor-68-6-cm-27-full-hd-200hz-1ms-freesync-premium-schwarz-100697106/",
+   "note": "10 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 152.89
+    },
+    {
+     "d": "2026-10-31",
+     "p": 127.45
+    },
+    {
+     "d": "2026-11-01",
+     "p": 127.4
+    },
+    {
+     "d": "2026-11-02",
+     "p": 127.4
+    },
+    {
+     "d": "2026-11-03",
+     "p": 126.74
+    },
+    {
+     "d": "2026-11-05",
+     "p": 127.29
+    },
+    {
+     "d": "2026-11-08",
+     "p": 126.75
+    },
+    {
+     "d": "2026-11-10",
+     "p": 127.52
+    },
+    {
+     "d": "2026-11-12",
+     "p": 127.07
+    },
+    {
+     "d": "2026-11-15",
+     "p": 127.02
+    },
+    {
+     "d": "2026-11-18",
+     "p": 114.61
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-18",
+   "updated": "2026-11-18",
+   "tags": "monitore 27\" xiaomi g27i 2026 gaming monitor full 200hz 1ms freesync premium schwarz",
    "source": "crawler"
   }
  ],
