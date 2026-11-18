@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T14:22:13.231Z",
+ "updated": "2026-11-18T16:04:23.582Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -2196,6 +2196,104 @@
    "source": "crawler"
   },
   {
+   "id": "c-sandisk-wd-black-sn770m-ssd-2tb-m-2-2230-pcie-gen4-nvme-b-wa",
+   "name": "SanDisk WD_BLACK SN770M SSD 2TB M.2 2230 PCIe Gen4 NVMe B-Ware Internes Solid-State-Module",
+   "cat": "SSDs",
+   "price": 359.99,
+   "ref": 452.99,
+   "shop": "Notebooksbilliger",
+   "shopUrl": "https://www.notebooksbilliger.de/wd_black+sn770m+ssd+2tb+m2+2230+pcie+gen4+nvme+b+ware+919699",
+   "url": "https://www.notebooksbilliger.de/wd_black+sn770m+ssd+2tb+m2+2230+pcie+gen4+nvme+b+ware+919699",
+   "note": "21 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 459.99
+    },
+    {
+     "d": "2026-10-31",
+     "p": 459.99
+    },
+    {
+     "d": "2026-11-01",
+     "p": 459.99
+    },
+    {
+     "d": "2026-11-02",
+     "p": 452.99
+    },
+    {
+     "d": "2026-11-03",
+     "p": 452.99
+    },
+    {
+     "d": "2026-11-04",
+     "p": 452.99
+    },
+    {
+     "d": "2026-11-05",
+     "p": 452.99
+    },
+    {
+     "d": "2026-11-06",
+     "p": 452.99
+    },
+    {
+     "d": "2026-11-07",
+     "p": 452.99
+    },
+    {
+     "d": "2026-11-08",
+     "p": 452.99
+    },
+    {
+     "d": "2026-11-09",
+     "p": 452.99
+    },
+    {
+     "d": "2026-11-10",
+     "p": 452.99
+    },
+    {
+     "d": "2026-11-11",
+     "p": 452.99
+    },
+    {
+     "d": "2026-11-12",
+     "p": 445.99
+    },
+    {
+     "d": "2026-11-13",
+     "p": 445.99
+    },
+    {
+     "d": "2026-11-14",
+     "p": 445.99
+    },
+    {
+     "d": "2026-11-15",
+     "p": 445.99
+    },
+    {
+     "d": "2026-11-16",
+     "p": 445.99
+    },
+    {
+     "d": "2026-11-17",
+     "p": 400.99
+    },
+    {
+     "d": "2026-11-18",
+     "p": 359.99
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-18",
+   "updated": "2026-11-18",
+   "tags": "ssds pcie 4.0 2 tb sandisk black sn770m ssd 2tb 2230 pcie gen4 nvme ware internes solid state module",
+   "source": "crawler"
+  },
+  {
    "id": "c-amd-ryzen-7-7800x3d-5-0-ghz-raphael-am5-boxed",
    "name": "AMD Ryzen 7 7800X3D 5,0 GHz (Raphael) AM5 - boxed",
    "cat": "Prozessoren",
@@ -4053,104 +4151,6 @@
    "seen": "2026-11-18",
    "updated": "2026-11-18",
    "tags": "monitore 27\" gigabyte m27q2 qhd ips gaming monitor 200 schwarz",
-   "source": "crawler"
-  },
-  {
-   "id": "c-sandisk-wd-black-sn770m-ssd-2tb-m-2-2230-pcie-gen4-nvme-b-wa",
-   "name": "SanDisk WD_BLACK SN770M SSD 2TB M.2 2230 PCIe Gen4 NVMe B-Ware Internes Solid-State-Module",
-   "cat": "SSDs",
-   "price": 400.99,
-   "ref": 452.99,
-   "shop": "Notebooksbilliger",
-   "shopUrl": "https://www.notebooksbilliger.de/wd_black+sn770m+ssd+2tb+m2+2230+pcie+gen4+nvme+b+ware+919699",
-   "url": "https://www.notebooksbilliger.de/wd_black+sn770m+ssd+2tb+m2+2230+pcie+gen4+nvme+b+ware+919699",
-   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 459.99
-    },
-    {
-     "d": "2026-10-31",
-     "p": 459.99
-    },
-    {
-     "d": "2026-11-01",
-     "p": 459.99
-    },
-    {
-     "d": "2026-11-02",
-     "p": 452.99
-    },
-    {
-     "d": "2026-11-03",
-     "p": 452.99
-    },
-    {
-     "d": "2026-11-04",
-     "p": 452.99
-    },
-    {
-     "d": "2026-11-05",
-     "p": 452.99
-    },
-    {
-     "d": "2026-11-06",
-     "p": 452.99
-    },
-    {
-     "d": "2026-11-07",
-     "p": 452.99
-    },
-    {
-     "d": "2026-11-08",
-     "p": 452.99
-    },
-    {
-     "d": "2026-11-09",
-     "p": 452.99
-    },
-    {
-     "d": "2026-11-10",
-     "p": 452.99
-    },
-    {
-     "d": "2026-11-11",
-     "p": 452.99
-    },
-    {
-     "d": "2026-11-12",
-     "p": 445.99
-    },
-    {
-     "d": "2026-11-13",
-     "p": 445.99
-    },
-    {
-     "d": "2026-11-14",
-     "p": 445.99
-    },
-    {
-     "d": "2026-11-15",
-     "p": 445.99
-    },
-    {
-     "d": "2026-11-16",
-     "p": 445.99
-    },
-    {
-     "d": "2026-11-17",
-     "p": 400.99
-    },
-    {
-     "d": "2026-11-18",
-     "p": 400.99
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-18",
-   "updated": "2026-11-18",
-   "tags": "ssds pcie 4.0 2 tb sandisk black sn770m ssd 2tb 2230 pcie gen4 nvme ware internes solid state module",
    "source": "crawler"
   },
   {
