@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T17:58:38.892Z",
+ "updated": "2026-11-18T20:02:21.098Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1934,6 +1934,10 @@
     },
     {
      "d": "2026-11-16",
+     "p": 69.9
+    },
+    {
+     "d": "2026-11-18",
      "p": 69.9
     }
    ],
@@ -4463,6 +4467,68 @@
    "seen": "2026-11-18",
    "updated": "2026-11-18",
    "tags": "mainboards am5 b850 asus b850 max gaming wifi mainboard atx sockel am5 amd ddr5 weiss",
+   "source": "crawler"
+  },
+  {
+   "id": "c-lenovo-00up450-interne-ssd-m-2-512-gb-sata-iii",
+   "name": "Lenovo 00UP450 Interne SSD M.2 512 GB SATA III",
+   "cat": "SSDs",
+   "price": 188.38,
+   "ref": 213.16,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/lenovo-00up450-interne-ssd-m-2-512-gb-sata-iii-5836482/",
+   "url": "https://www.jacob.de/produkt/lenovo-00up450-interne-ssd-m-2-512-gb-sata-iii-5836482/",
+   "note": "12 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 234.54
+    },
+    {
+     "d": "2026-10-31",
+     "p": 234.54
+    },
+    {
+     "d": "2026-11-01",
+     "p": 234.54
+    },
+    {
+     "d": "2026-11-02",
+     "p": 188.38
+    },
+    {
+     "d": "2026-11-03",
+     "p": 211.63
+    },
+    {
+     "d": "2026-11-06",
+     "p": 214.69
+    },
+    {
+     "d": "2026-11-08",
+     "p": 214.69
+    },
+    {
+     "d": "2026-11-11",
+     "p": 188.38
+    },
+    {
+     "d": "2026-11-13",
+     "p": 191.42
+    },
+    {
+     "d": "2026-11-15",
+     "p": 200.62
+    },
+    {
+     "d": "2026-11-18",
+     "p": 188.38
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-18",
+   "updated": "2026-11-18",
+   "tags": "ssds sata 512 gb lenovo 00up450 interne ssd 512 sata iii",
    "source": "crawler"
   },
   {
