@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T06:34:47.218Z",
+ "updated": "2026-11-18T08:23:03.489Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1129,6 +1129,10 @@
     {
      "d": "2026-11-15",
      "p": 39.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 39.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -1796,6 +1800,64 @@
    "source": "crawler"
   },
   {
+   "id": "c-gigabyte-m27up-ice-27-zoll-uhd-fhd-gaming-monitor-160-320hz-",
+   "name": "GIGABYTE M27UP ICE 27 Zoll UHD/FHD Gaming-Monitor, 160/320Hz, SS-IPS-Panel, Freesync Premium",
+   "cat": "Monitore",
+   "price": 269,
+   "ref": 359,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/gigabyte-m27up-ice-27-inch-uhd-fhd-gaming-monitor-160-320hz-ss-ips-panel-freesync-premium/TFGB-075.html",
+   "url": "https://www.caseking.de/en/gigabyte-m27up-ice-27-inch-uhd-fhd-gaming-monitor-160-320hz-ss-ips-panel-freesync-premium/TFGB-075.html",
+   "note": "25 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 359
+    },
+    {
+     "d": "2026-11-01",
+     "p": 359
+    },
+    {
+     "d": "2026-11-03",
+     "p": 359
+    },
+    {
+     "d": "2026-11-04",
+     "p": 359
+    },
+    {
+     "d": "2026-11-06",
+     "p": 359
+    },
+    {
+     "d": "2026-11-08",
+     "p": 359
+    },
+    {
+     "d": "2026-11-11",
+     "p": 359
+    },
+    {
+     "d": "2026-11-13",
+     "p": 359
+    },
+    {
+     "d": "2026-11-15",
+     "p": 359
+    },
+    {
+     "d": "2026-11-18",
+     "p": 269
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-18",
+   "updated": "2026-11-18",
+   "tags": "monitore 27\" gigabyte m27up ice zoll uhd fhd gaming monitor 160 320hz ips panel freesync premium",
+   "source": "crawler"
+  },
+  {
    "id": "c-thermalright-axp120-x67-argb-low-profile-cpu-kuhler-120mm-sc",
    "name": "Thermalright AXP120 X67 ARGB Low Profile CPU-Kühler - 120mm, schwarz",
    "cat": "Kühlung",
@@ -1844,6 +1906,10 @@
     },
     {
      "d": "2026-11-15",
+     "p": 34.9
+    },
+    {
+     "d": "2026-11-18",
      "p": 34.9
     }
    ],
@@ -2144,8 +2210,8 @@
    "price": 39.9,
    "ref": 49.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/thermalright-axp120-x67-argb-low-profile-cpu-cooler-120mm-white/CPTR-120.html",
-   "url": "https://www.caseking.de/en/thermalright-axp120-x67-argb-low-profile-cpu-cooler-120mm-white/CPTR-120.html",
+   "shopUrl": "https://www.caseking.de/thermalright-axp120-x67-argb-low-profile-cpu-kuehler-120mm-weiss/CPTR-120.html",
+   "url": "https://www.caseking.de/thermalright-axp120-x67-argb-low-profile-cpu-kuehler-120mm-weiss/CPTR-120.html",
    "note": "20 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -2186,6 +2252,10 @@
     },
     {
      "d": "2026-11-15",
+     "p": 39.9
+    },
+    {
+     "d": "2026-11-18",
      "p": 39.9
     }
    ],
