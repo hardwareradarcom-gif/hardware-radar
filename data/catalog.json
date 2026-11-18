@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T10:07:47.209Z",
+ "updated": "2026-11-18T11:28:08.851Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -2954,8 +2954,16 @@
    "name": "Lexar NM790 2 TB",
    "url": "https://geizhals.de/lexar-nm790-2tb-lnm790x002t-rn9ng-a3048709.html",
    "source": "Geizhals",
-   "stand": "2026-11-16T15:50",
+   "stand": "2026-11-18T11:28",
    "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 226.21,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/lexar-nm790-ssd-1-tb-m-2-2280-pcie-4-0-x4-nvme-intern-8484272/",
+     "crawler": true
+    },
     {
      "shop": "YISAVE (Amazon)",
      "price": 379.99,
@@ -2977,8 +2985,8 @@
      "crawler": true
     }
    ],
-   "price": 379.99,
-   "shop": "YISAVE (Amazon)",
+   "price": 226.21,
+   "shop": "JACOB Elektronik GmbH",
    "hist": [
     {
      "d": "2026-10-25",
@@ -3014,7 +3022,7 @@
     },
     {
      "d": "2026-11-18",
-     "p": 379.99
+     "p": 226.21
     }
    ],
    "note": "Variante mit Kühlkörper. Ohne Kühlkörper laut PCGH ab 309 € (17.10.)."
@@ -27371,6 +27379,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler alpenfohn matterhorn aurora max black cpu kuhler",
    "firstSeen": "2026-11-04"
+  },
+  {
+   "id": "c-startech-com-m-2-nvme-ssd-laufwerkseinschub-tr-m2-removable-",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0",
+   "name": "StarTech.com M.2 NVMe SSD Laufwerkseinschub TR-M2-REMOVABLE-PCIE PCIe 4.0 Hot-Swap Schwarz, Silber",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/startech-com-m-2-nvme-ssd-laufwerkseinschub-tr-m2-removable-pcie-pcie-4-0-hot-swap-schwarz-silber-100499830/",
+   "stand": "2026-11-18T11:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 48.92,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/startech-com-m-2-nvme-ssd-laufwerkseinschub-tr-m2-removable-pcie-pcie-4-0-hot-swap-schwarz-silber-100499830/"
+    }
+   ],
+   "price": 48.92,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-18",
+     "p": 48.92
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 startech com nvme ssd laufwerkseinschub removable pcie hot swap schwarz silber",
+   "firstSeen": "2026-11-18"
   },
   {
    "id": "c-silverstone-sst-ar09-am4-cpu-kuhler-6-cm-1200-5000-rpm-schwa",
@@ -74230,6 +74267,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-verbatim-vi3000-ssd-1-tb-m-2-2280-nvme-pcie-3-0-x4-schwarz",
+   "cat": "SSDs",
+   "sub": "NVMe 1 TB",
+   "name": "Verbatim Vi3000 SSD 1 TB M.2 2280 NVMe PCIe 3.0 x4 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/verbatim-vi3000-ssd-1-tb-m-2-2280-nvme-pcie-3-0-x4-schwarz-8274922/",
+   "stand": "2026-11-18T11:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 165.05,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/verbatim-vi3000-ssd-1-tb-m-2-2280-nvme-pcie-3-0-x4-schwarz-8274922/"
+    }
+   ],
+   "price": 165.05,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-18",
+     "p": 165.05
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 1 tb verbatim vi3000 ssd 2280 nvme pcie schwarz",
+   "firstSeen": "2026-11-18"
+  },
+  {
    "id": "c-asus-rog-loki-sfx-l-80-plus-platinum-netzteil-modular-750-wa",
    "cat": "Netzteile",
    "sub": "SFX",
@@ -103458,6 +103524,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-seagate-firecuda-530r-1-tb-ssd-m-2-2280-d2-pcie-4-0-x4-nvme",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 1 TB",
+   "name": "Seagate FireCuda 530R 1 TB SSD M.2 2280-D2 PCIe 4.0 x4 NVMe",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/seagate-firecuda-530r-1-tb-ssd-m-2-2280-d2-pcie-4-0-x4-nvme-100514530/",
+   "stand": "2026-11-18T11:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 338.56,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/seagate-firecuda-530r-1-tb-ssd-m-2-2280-d2-pcie-4-0-x4-nvme-100514530/"
+    }
+   ],
+   "price": 338.56,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-18",
+     "p": 338.56
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 1 tb seagate firecuda 530r ssd 2280 pcie nvme",
+   "firstSeen": "2026-11-18"
+  },
+  {
    "id": "c-asus-geforce-rtx-3050-low-profile-o6g-6144-mb-gddr6",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 3050",
@@ -104168,6 +104263,35 @@
    "count": 1,
    "tags": "monitore 27\" series pro 727pq qhd ips black monitor 120 hdr400 schwarz silber",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-samsung-990-evo-mz-v9e2t0bw-2-tb-m-2-ssd",
+   "cat": "SSDs",
+   "sub": "NVMe 2 TB",
+   "name": "Samsung 990 EVO MZ-V9E2T0BW 2 TB M.2 SSD",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/samsung-990-evo-mz-v9e2t0bw-2-tb-m-2-ssd-100374378/",
+   "stand": "2026-11-18T11:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 344.99,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/samsung-990-evo-mz-v9e2t0bw-2-tb-m-2-ssd-100374378/"
+    }
+   ],
+   "price": 344.99,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-18",
+     "p": 344.99
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 2 tb samsung 990 evo v9e2t0bw ssd",
+   "firstSeen": "2026-11-18"
   },
   {
    "id": "c-intel-xeon-6315p-2-8-ghz-quad-core-prozessor-12-mb-cache-fcl",
@@ -105592,6 +105716,35 @@
    "count": 1,
    "tags": "monitore 27\" samsung odyssey s27dg702eu uhd 144hz fast ips gaming monitor schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-transcend-mte410s-m-2-2242-ssd-1-tb-pcie-4-0-x4-nvme-3d-nand",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 1 TB",
+   "name": "Transcend MTE410S M.2 2242 SSD 1 TB PCIe 4.0 x4 NVMe 3D NAND",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/transcend-mte410s-m-2-2242-ssd-1-tb-pcie-4-0-x4-nvme-3d-nand-100486534/",
+   "stand": "2026-11-18T11:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 360.3,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/transcend-mte410s-m-2-2242-ssd-1-tb-pcie-4-0-x4-nvme-3d-nand-100486534/"
+    }
+   ],
+   "price": 360.3,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-18",
+     "p": 360.3
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 1 tb transcend mte410s 2242 ssd pcie nvme nand",
+   "firstSeen": "2026-11-18"
   },
   {
    "id": "c-asus-p13r-i-mini-itx-mainboard-lga-1700-intel-c262-ddr5-64-g",
@@ -110200,6 +110353,35 @@
    "firstSeen": "2026-11-12"
   },
   {
+   "id": "c-pny-xlr8-cs3150-2-tb-ssd-m-2-2280-pci-express-5-0-x4-nvme",
+   "cat": "SSDs",
+   "sub": "NVMe 2 TB",
+   "name": "PNY XLR8 CS3150 2 TB SSD M.2 2280 PCI Express 5.0 x4 (NVMe)",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/pny-xlr8-cs3150-2-tb-ssd-m-2-2280-pci-express-5-0-x4-nvme-100514559/",
+   "stand": "2026-11-18T11:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 413.45,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/pny-xlr8-cs3150-2-tb-ssd-m-2-2280-pci-express-5-0-x4-nvme-100514559/"
+    }
+   ],
+   "price": 413.45,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-18",
+     "p": 413.45
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 2 tb pny xlr8 cs3150 ssd 2280 pci express nvme",
+   "firstSeen": "2026-11-18"
+  },
+  {
    "id": "c-samsung-980-m-2-nvme-ssd-1-tb-pcie-3-0-bis-zu-2-900-mb-s",
    "cat": "SSDs",
    "sub": "NVMe 1 TB",
@@ -113487,6 +113669,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-lexar-nq790-4-tb-ssd-m-2-2280-pcie-4-0-nvme",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 4 TB",
+   "name": "Lexar NQ790 4 TB SSD M.2 2280 PCIe 4.0 NVMe",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/lexar-nq790-4-tb-ssd-m-2-2280-pcie-4-0-nvme-100499649/",
+   "stand": "2026-11-18T11:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 485.37,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/lexar-nq790-4-tb-ssd-m-2-2280-pcie-4-0-nvme-100499649/"
+    }
+   ],
+   "price": 485.37,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-18",
+     "p": 485.37
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 4 tb lexar nq790 ssd 2280 pcie nvme",
+   "firstSeen": "2026-11-18"
+  },
+  {
    "id": "c-msi-mpg-z890-carbon-wifi-mainboard-sockel-lga-1851-intel-z89",
    "cat": "Mainboards",
    "sub": "Intel LGA1851 Z890",
@@ -115542,6 +115753,35 @@
    "count": 1,
    "tags": "monitore 31,6\" dell plus s3225qc oled monitor schwarz silber",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-corsair-hydro-x-series-mp700-pro-2-tb-ssd-m-2-2280-pcie-5-0-",
+   "cat": "SSDs",
+   "sub": "PCIe 5.0 2 TB",
+   "name": "Corsair Hydro X Series MP700 PRO 2 TB SSD M.2 2280 PCIe 5.0 x4 NVMe",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/corsair-hydro-x-series-mp700-pro-2-tb-ssd-m-2-2280-pcie-5-0-x4-nvme-100351363/",
+   "stand": "2026-11-18T11:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 532.3,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/corsair-hydro-x-series-mp700-pro-2-tb-ssd-m-2-2280-pcie-5-0-x4-nvme-100351363/"
+    }
+   ],
+   "price": 532.3,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-18",
+     "p": 532.3
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 5.0 2 tb corsair hydro series mp700 pro ssd 2280 pcie nvme",
+   "firstSeen": "2026-11-18"
   },
   {
    "id": "c-patriot-p410-ssd-pcie-4-0-m-2-2280-4-tb",
@@ -119732,6 +119972,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-corsair-mp700-pro-2-tb-ssd-m-2-2280-pcie-5-0-x4-nvme-schwarz",
+   "cat": "SSDs",
+   "sub": "PCIe 5.0 2 TB",
+   "name": "CORSAIR MP700 PRO 2 TB SSD M.2 2280 PCIe 5.0 x4 NVMe Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/corsair-mp700-pro-2-tb-ssd-m-2-2280-pcie-5-0-x4-nvme-schwarz-100349336/",
+   "stand": "2026-11-18T11:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 615.56,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/corsair-mp700-pro-2-tb-ssd-m-2-2280-pcie-5-0-x4-nvme-schwarz-100349336/"
+    }
+   ],
+   "price": 615.56,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-18",
+     "p": 615.56
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 5.0 2 tb corsair mp700 pro ssd 2280 pcie nvme schwarz",
+   "firstSeen": "2026-11-18"
+  },
+  {
    "id": "c-intel-core-i9-14900t-1-1-ghz-raptor-lake-refresh-sockel-1700",
    "cat": "Prozessoren",
    "sub": "Intel LGA1700",
@@ -122011,6 +122280,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-transcend-mte712a-ssd-512-gb-m-2-2280-pcie-4-0-x4-nvme-sed-t",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 512 GB",
+   "name": "Transcend MTE712A SSD 512 GB M.2 2280 PCIe 4.0 x4 NVMe SED TCG Opal 2.0",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/transcend-mte712a-ssd-512-gb-m-2-2280-pcie-4-0-x4-nvme-sed-tcg-opal-2-0-100494645/",
+   "stand": "2026-11-18T11:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 668.53,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/transcend-mte712a-ssd-512-gb-m-2-2280-pcie-4-0-x4-nvme-sed-tcg-opal-2-0-100494645/"
+    }
+   ],
+   "price": 668.53,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-18",
+     "p": 668.53
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 512 gb transcend mte712a ssd 512 2280 pcie nvme sed tcg opal",
+   "firstSeen": "2026-11-18"
+  },
+  {
    "id": "c-asus-s14na-u12-server-mainboard-ssi-ceb-socket-sp6-amd-epyc-",
    "cat": "Mainboards",
    "sub": "Mainboards",
@@ -123664,6 +123962,35 @@
    "count": 1,
    "tags": "monitore 31,5\" series pro 732pk monitor schwarz silber",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-crucial-t705-4-tb-pcie-5-0-nvme-m-2-ssd",
+   "cat": "SSDs",
+   "sub": "PCIe 5.0 4 TB",
+   "name": "Crucial T705 4 TB PCIe 5.0 NVMe M.2 SSD",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/crucial-t705-4-tb-pcie-5-0-nvme-m-2-ssd-100442311/",
+   "stand": "2026-11-18T11:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 717.88,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/crucial-t705-4-tb-pcie-5-0-nvme-m-2-ssd-100442311/"
+    }
+   ],
+   "price": 717.88,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-18",
+     "p": 717.88
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 5.0 4 tb crucial t705 pcie nvme ssd",
+   "firstSeen": "2026-11-18"
   },
   {
    "id": "c-asus-rog-strix-oled-xg27aqdpg-27-zoll-gaming-monitor-500hz-q",
@@ -125762,6 +126089,35 @@
    "count": 1,
    "tags": "monitore 26,5\" asus rog strix oled xg27uqdms zoll gaming monitor 240hz sync compatible",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-transcend-mte410s-2-tb-ssd-m-2-pcie-4-0-x4-nvme",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 2 TB",
+   "name": "Transcend MTE410S 2 TB SSD M.2 PCIe 4.0 x4 NVMe",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/transcend-mte410s-2-tb-ssd-m-2-pcie-4-0-x4-nvme-100486535/",
+   "stand": "2026-11-18T11:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 779.26,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/transcend-mte410s-2-tb-ssd-m-2-pcie-4-0-x4-nvme-100486535/"
+    }
+   ],
+   "price": 779.26,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-18",
+     "p": 779.26
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 2 tb transcend mte410s ssd pcie nvme",
+   "firstSeen": "2026-11-18"
   },
   {
    "id": "c-g-skill-trident-z5-rgb-ddr5-32-gb-ram-2x16-gb-6400-mhz-cl32-",
