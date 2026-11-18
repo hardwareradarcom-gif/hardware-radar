@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T20:02:21.098Z",
+ "updated": "2026-11-18T21:56:14.003Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1504,6 +1504,10 @@
     },
     {
      "d": "2026-11-17",
+     "p": 89.9
+    },
+    {
+     "d": "2026-11-18",
      "p": 89.9
     }
    ],
@@ -3718,6 +3722,68 @@
    "source": "crawler"
   },
   {
+   "id": "c-kingston-fury-beast-16-gb-ram-3200-mhz-ddr4-dimm-schwarz",
+   "name": "Kingston FURY Beast 16 GB RAM 3200 MHz DDR4 DIMM Schwarz",
+   "cat": "Arbeitsspeicher",
+   "price": 209.73,
+   "ref": 243.99,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/kingston-fury-beast-16-gb-ram-3200-mhz-ddr4-dimm-schwarz-7287426/",
+   "url": "https://www.jacob.de/produkt/kingston-fury-beast-16-gb-ram-3200-mhz-ddr4-dimm-schwarz-7287426/",
+   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 243.99
+    },
+    {
+     "d": "2026-10-31",
+     "p": 243.99
+    },
+    {
+     "d": "2026-11-01",
+     "p": 243.99
+    },
+    {
+     "d": "2026-11-02",
+     "p": 243.99
+    },
+    {
+     "d": "2026-11-03",
+     "p": 243.99
+    },
+    {
+     "d": "2026-11-06",
+     "p": 243.99
+    },
+    {
+     "d": "2026-11-08",
+     "p": 226.21
+    },
+    {
+     "d": "2026-11-11",
+     "p": 226.21
+    },
+    {
+     "d": "2026-11-13",
+     "p": 226.21
+    },
+    {
+     "d": "2026-11-16",
+     "p": 226.21
+    },
+    {
+     "d": "2026-11-18",
+     "p": 209.73
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-18",
+   "updated": "2026-11-18",
+   "tags": "arbeitsspeicher ddr4 16 gb kingston fury beast ram 3200 mhz ddr4 dimm schwarz",
+   "source": "crawler"
+  },
+  {
    "id": "c-lexar-nm610-pro-nvme-ssd-pcie-3-0-m-2-typ-2280-500-gb",
    "name": "Lexar NM610 Pro NVMe SSD, PCIe 3.0 M.2 Typ 2280 - 500 GB",
    "cat": "SSDs",
@@ -4069,12 +4135,50 @@
     {
      "d": "2026-11-17",
      "p": 25.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 25.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
    "seen": "2026-11-18",
    "updated": "2026-11-18",
    "tags": "kuhlung luftkuhler alpenfohn matterhorn aurora black cpu kuhler",
+   "source": "crawler"
+  },
+  {
+   "id": "c-gigabyte-z790-d-ax-sockel-lga-1700-intel-z790-atx-ddr5",
+   "name": "Gigabyte Z790 D AX, Sockel LGA 1700, Intel Z790, ATX -DDR5",
+   "cat": "Mainboards",
+   "price": 129.9,
+   "ref": 149.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/igabyte-z790-d-ax-socket-lga-1700-intel-z790-atx-ddr5/MBGB-574.html",
+   "url": "https://www.caseking.de/en/igabyte-z790-d-ax-socket-lga-1700-intel-z790-atx-ddr5/MBGB-574.html",
+   "note": "13 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 149.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 149.9
+    },
+    {
+     "d": "2026-11-16",
+     "p": 149.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 129.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-18",
+   "updated": "2026-11-18",
+   "tags": "mainboards intel lga1700 z790 gigabyte z790 sockel lga 1700 intel atx ddr5",
    "source": "crawler"
   },
   {
@@ -4956,6 +5060,10 @@
     },
     {
      "d": "2026-11-16",
+     "p": 738.94
+    },
+    {
+     "d": "2026-11-18",
      "p": 738.94
     }
    ],
