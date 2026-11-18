@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T12:02:41.564Z",
+ "updated": "2026-11-18T14:22:13.231Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1625,12 +1625,74 @@
     {
      "d": "2026-11-15",
      "p": 19.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 19.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
    "seen": "2026-11-18",
    "updated": "2026-11-18",
    "tags": "kuhlung luftkuhler cooler master hyper 212 3dhp cpu intel and amd argb black",
+   "source": "crawler"
+  },
+  {
+   "id": "c-gigabyte-mo27q2a-ice-27-zoll-qhd-gaming-monitor-280hz-qd-ole",
+   "name": "GIGABYTE MO27Q2A ICE, 27 Zoll QHD Gaming Monitor, 280Hz, QD-OLED-Panel, G-Sync Compatible",
+   "cat": "Monitore",
+   "price": 349,
+   "ref": 499,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/gigabyte-mo27q2a-ice-27-inch-qhd-gaming-monitor-280hz-qd-oled-panel-g-sync-compatible/TFGB-102.html",
+   "url": "https://www.caseking.de/en/gigabyte-mo27q2a-ice-27-inch-qhd-gaming-monitor-280hz-qd-oled-panel-g-sync-compatible/TFGB-102.html",
+   "note": "30 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 499
+    },
+    {
+     "d": "2026-11-01",
+     "p": 499
+    },
+    {
+     "d": "2026-11-03",
+     "p": 499
+    },
+    {
+     "d": "2026-11-04",
+     "p": 499
+    },
+    {
+     "d": "2026-11-06",
+     "p": 499
+    },
+    {
+     "d": "2026-11-09",
+     "p": 499
+    },
+    {
+     "d": "2026-11-11",
+     "p": 499
+    },
+    {
+     "d": "2026-11-13",
+     "p": 499
+    },
+    {
+     "d": "2026-11-15",
+     "p": 499
+    },
+    {
+     "d": "2026-11-18",
+     "p": 349
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-18",
+   "updated": "2026-11-18",
+   "tags": "monitore 27\" gigabyte mo27q2a ice zoll qhd gaming monitor 280hz oled panel sync compatible",
    "source": "crawler"
   },
   {
@@ -1871,6 +1933,64 @@
    "seen": "2026-11-18",
    "updated": "2026-11-18",
    "tags": "monitore 27\" gigabyte m27up ice zoll uhd fhd gaming monitor 160 320hz ips panel freesync premium",
+   "source": "crawler"
+  },
+  {
+   "id": "c-gigabyte-g27q3-ek-27-zoll-qhd-gaming-monitor-320hz-ss-ips-fr",
+   "name": "GIGABYTE G27Q3 EK, 27 Zoll QHD Gaming Monitor, 320Hz, SS IPS, FreeSync Premium",
+   "cat": "Monitore",
+   "price": 184.9,
+   "ref": 245,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/gigabyte-g27q3-ek-27-inch-qhd-gaming-monitor-320hz-ss-ips-freesync-premium/TFGB-107.html",
+   "url": "https://www.caseking.de/en/gigabyte-g27q3-ek-27-inch-qhd-gaming-monitor-320hz-ss-ips-freesync-premium/TFGB-107.html",
+   "note": "25 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 245
+    },
+    {
+     "d": "2026-11-01",
+     "p": 245
+    },
+    {
+     "d": "2026-11-03",
+     "p": 245
+    },
+    {
+     "d": "2026-11-04",
+     "p": 245
+    },
+    {
+     "d": "2026-11-06",
+     "p": 245
+    },
+    {
+     "d": "2026-11-09",
+     "p": 245
+    },
+    {
+     "d": "2026-11-11",
+     "p": 245
+    },
+    {
+     "d": "2026-11-13",
+     "p": 245
+    },
+    {
+     "d": "2026-11-15",
+     "p": 245
+    },
+    {
+     "d": "2026-11-18",
+     "p": 184.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-18",
+   "updated": "2026-11-18",
+   "tags": "monitore 27\" gigabyte g27q3 zoll qhd gaming monitor 320hz ips freesync premium",
    "source": "crawler"
   },
   {
@@ -3181,6 +3301,64 @@
    "seen": "2026-11-18",
    "updated": "2026-11-18",
    "tags": "ssds nvme 500 gb lexar nm610 pro nvme ssd pcie typ 2280 500",
+   "source": "crawler"
+  },
+  {
+   "id": "c-asus-rog-strix-xg32wcs-31-5-zoll-curved-gaming-monitor-180hz",
+   "name": "ASUS ROG Strix XG32WCS, 31,5 Zoll Curved Gaming Monitor, 180Hz, Fast VA, FreeSync",
+   "cat": "Monitore",
+   "price": 249,
+   "ref": 289,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/asus-rog-strix-xg32wcs-31.5-inch-curved-gaming-monitor-180hz-fast-va-freesync/TFAS-291.html",
+   "url": "https://www.caseking.de/en/asus-rog-strix-xg32wcs-31.5-inch-curved-gaming-monitor-180hz-fast-va-freesync/TFAS-291.html",
+   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 289
+    },
+    {
+     "d": "2026-11-01",
+     "p": 289
+    },
+    {
+     "d": "2026-11-02",
+     "p": 289
+    },
+    {
+     "d": "2026-11-04",
+     "p": 289
+    },
+    {
+     "d": "2026-11-06",
+     "p": 289
+    },
+    {
+     "d": "2026-11-08",
+     "p": 359.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 294.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 294.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 294.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 249
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-18",
+   "updated": "2026-11-18",
+   "tags": "monitore 31,5\" asus rog strix xg32wcs zoll curved gaming monitor 180hz fast freesync",
    "source": "crawler"
   },
   {
