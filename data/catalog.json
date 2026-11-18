@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-18T16:04:23.582Z",
+ "updated": "2026-11-18T17:30:04.601Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -17847,6 +17847,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler quiet pure rock cpu kuhler",
    "firstSeen": "2026-11-08"
+  },
+  {
+   "id": "c-ugreen-10gbps-m-2-nvme-ssd-behuizing",
+   "cat": "SSDs",
+   "sub": "NVMe",
+   "name": "UGREEN 10Gbps M.2 NVMe SSD-behuizing",
+   "source": "crawler",
+   "url": "https://ai-eu.ugreen.com/nl-nl/products/ugreen-nas-10gbps-m2-nvme-ssd-enclosure",
+   "stand": "2026-11-18T17:30",
+   "offers": [
+    {
+     "shop": "UGREEN AIoT EU",
+     "price": 25.99,
+     "ship": null,
+     "avail": null,
+     "url": "https://ai-eu.ugreen.com/nl-nl/products/ugreen-nas-10gbps-m2-nvme-ssd-enclosure"
+    }
+   ],
+   "price": 25.99,
+   "shop": "UGREEN AIoT EU",
+   "hist": [
+    {
+     "d": "2026-11-18",
+     "p": 25.99
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme ugreen 10gbps ssd behuizing",
+   "firstSeen": "2026-11-18"
   },
   {
    "id": "c-pccooler-e126m-top-blow-cpu-kuhler-12-cm-schwarz-rot",
