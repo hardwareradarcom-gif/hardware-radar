@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T08:27:32.760Z",
+ "updated": "2026-11-19T10:11:59.262Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -2590,6 +2590,68 @@
    "source": "crawler"
   },
   {
+   "id": "c-patriot-p300-nvme-ssd-pcie-3-0-m-2-typ-2280-128-gb",
+   "name": "Patriot P300 NVMe SSD, PCIe 3.0 M.2 Typ 2280 - 128 GB",
+   "cat": "SSDs",
+   "price": 49.9,
+   "ref": 62.63,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/patriot-p300-nvme-ssd-pcie-3.0-m.2-type-2280-128-gb/SSPM-025.html",
+   "url": "https://www.caseking.de/en/patriot-p300-nvme-ssd-pcie-3.0-m.2-type-2280-128-gb/SSPM-025.html",
+   "note": "20 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 62.63
+    },
+    {
+     "d": "2026-10-31",
+     "p": 62.63
+    },
+    {
+     "d": "2026-11-02",
+     "p": 62.63
+    },
+    {
+     "d": "2026-11-03",
+     "p": 62.63
+    },
+    {
+     "d": "2026-11-05",
+     "p": 62.63
+    },
+    {
+     "d": "2026-11-07",
+     "p": 62.63
+    },
+    {
+     "d": "2026-11-09",
+     "p": 62.63
+    },
+    {
+     "d": "2026-11-12",
+     "p": 62.63
+    },
+    {
+     "d": "2026-11-14",
+     "p": 62.63
+    },
+    {
+     "d": "2026-11-16",
+     "p": 62.63
+    },
+    {
+     "d": "2026-11-19",
+     "p": 49.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-19",
+   "updated": "2026-11-19",
+   "tags": "ssds nvme 128 gb patriot p300 nvme ssd pcie typ 2280 128",
+   "source": "crawler"
+  },
+  {
    "id": "c-amd-ryzen-7-7800x3d-5-0-ghz-raphael-am5-boxed",
    "name": "AMD Ryzen 7 7800X3D 5,0 GHz (Raphael) AM5 - boxed",
    "cat": "Prozessoren",
@@ -2853,6 +2915,10 @@
     {
      "d": "2026-11-16",
      "p": 610.52
+    },
+    {
+     "d": "2026-11-19",
+     "p": 610.52
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -3050,8 +3116,8 @@
    "price": 54.9,
    "ref": 66.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/adata-xpg-probe-80-plus-bronze-netzteil-atx-2.4-700-watt-schwarz/NEAD-017.html",
-   "url": "https://www.caseking.de/adata-xpg-probe-80-plus-bronze-netzteil-atx-2.4-700-watt-schwarz/NEAD-017.html",
+   "shopUrl": "https://www.caseking.de/en/adata-xpg-probe-80-plus-bronze-power-supply-atx-2.4-700-watts-black/NEAD-017.html",
+   "url": "https://www.caseking.de/en/adata-xpg-probe-80-plus-bronze-power-supply-atx-2.4-700-watts-black/NEAD-017.html",
    "note": "18 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -3869,6 +3935,10 @@
     {
      "d": "2026-11-16",
      "p": 84.9
+    },
+    {
+     "d": "2026-11-19",
+     "p": 84.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -4218,64 +4288,6 @@
    "source": "crawler"
   },
   {
-   "id": "c-msi-mag-272qpde-x24-qd-oled-gaming-monitor-68-60cm-27-wqhd-2",
-   "name": "MSI MAG 272QPDE X24 QD-OLED Gaming-Monitor 68,60cm (27\") WQHD 240 Hz 0,03 ms Schwarz",
-   "cat": "Monitore",
-   "price": 353.35,
-   "ref": 405,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/msi-mag-272qpde-x24-qd-oled-gaming-monitor-68-60cm-27-wqhd-240-hz-0-03-ms-schwarz-100850237/",
-   "url": "https://www.jacob.de/produkt/msi-mag-272qpde-x24-qd-oled-gaming-monitor-68-60cm-27-wqhd-240-hz-0-03-ms-schwarz-100850237/",
-   "note": "13 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 485.87
-    },
-    {
-     "d": "2026-10-31",
-     "p": 485.87
-    },
-    {
-     "d": "2026-11-01",
-     "p": 485.87
-    },
-    {
-     "d": "2026-11-02",
-     "p": 485.87
-    },
-    {
-     "d": "2026-11-04",
-     "p": 456.64
-    },
-    {
-     "d": "2026-11-06",
-     "p": 353.35
-    },
-    {
-     "d": "2026-11-08",
-     "p": 353.35
-    },
-    {
-     "d": "2026-11-11",
-     "p": 353.35
-    },
-    {
-     "d": "2026-11-13",
-     "p": 353.35
-    },
-    {
-     "d": "2026-11-16",
-     "p": 353.35
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-19",
-   "updated": "2026-11-19",
-   "tags": "monitore 27\" msi mag 272qpde x24 oled gaming monitor 60cm wqhd 240 schwarz",
-   "source": "crawler"
-  },
-  {
    "id": "c-adata-xpg-kyber-80-plus-gold-netzteil-atx-3-0-850-watt-schwa",
    "name": "ADATA XPG KYBER 80 PLUS Gold Netzteil, ATX 3.0 - 850 Watt, schwarz",
    "cat": "Netzteile",
@@ -4513,6 +4525,68 @@
    "seen": "2026-11-19",
    "updated": "2026-11-19",
    "tags": "mainboards am5 b650 asus b650e max gaming wifi mainboard atx sockel am5 amd b650 ddr5 schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-msi-mag-272qpde-x24-qd-oled-gaming-monitor-68-60cm-27-wqhd-2",
+   "name": "MSI MAG 272QPDE X24 QD-OLED Gaming-Monitor 68,60cm (27\") WQHD 240 Hz 0,03 ms Schwarz",
+   "cat": "Monitore",
+   "price": 356.11,
+   "ref": 405,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/msi-mag-272qpde-x24-qd-oled-gaming-monitor-68-60cm-27-wqhd-240-hz-0-03-ms-schwarz-100850237/",
+   "url": "https://www.jacob.de/produkt/msi-mag-272qpde-x24-qd-oled-gaming-monitor-68-60cm-27-wqhd-240-hz-0-03-ms-schwarz-100850237/",
+   "note": "12 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 485.87
+    },
+    {
+     "d": "2026-10-31",
+     "p": 485.87
+    },
+    {
+     "d": "2026-11-01",
+     "p": 485.87
+    },
+    {
+     "d": "2026-11-02",
+     "p": 485.87
+    },
+    {
+     "d": "2026-11-04",
+     "p": 456.64
+    },
+    {
+     "d": "2026-11-06",
+     "p": 353.35
+    },
+    {
+     "d": "2026-11-08",
+     "p": 353.35
+    },
+    {
+     "d": "2026-11-11",
+     "p": 353.35
+    },
+    {
+     "d": "2026-11-13",
+     "p": 353.35
+    },
+    {
+     "d": "2026-11-16",
+     "p": 353.35
+    },
+    {
+     "d": "2026-11-19",
+     "p": 356.11
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-19",
+   "updated": "2026-11-19",
+   "tags": "monitore 27\" msi mag 272qpde x24 oled gaming monitor 60cm wqhd 240 schwarz",
    "source": "crawler"
   },
   {
@@ -5123,6 +5197,68 @@
    "seen": "2026-11-19",
    "updated": "2026-11-19",
    "tags": "kuhlung luftkuhler alpenfohn matterhorn aurora max black cpu kuhler",
+   "source": "crawler"
+  },
+  {
+   "id": "c-msi-mpg-272urxde-qd-oled-gaming-monitor-27-3840x2160-240hz-s",
+   "name": "MSI MPG 272URXDE QD-OLED Gaming-Monitor 27\" 3840x2160 240Hz Schwarz",
+   "cat": "Monitore",
+   "price": 749.34,
+   "ref": 841.07,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/msi-mpg-272urxde-qd-oled-gaming-monitor-27-3840x2160-240hz-schwarz-100547589/",
+   "url": "https://www.jacob.de/produkt/msi-mpg-272urxde-qd-oled-gaming-monitor-27-3840x2160-240hz-schwarz-100547589/",
+   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 911.52
+    },
+    {
+     "d": "2026-10-31",
+     "p": 911.52
+    },
+    {
+     "d": "2026-11-01",
+     "p": 911.52
+    },
+    {
+     "d": "2026-11-02",
+     "p": 911.52
+    },
+    {
+     "d": "2026-11-04",
+     "p": 911.52
+    },
+    {
+     "d": "2026-11-06",
+     "p": 770.61
+    },
+    {
+     "d": "2026-11-08",
+     "p": 770.61
+    },
+    {
+     "d": "2026-11-11",
+     "p": 770.61
+    },
+    {
+     "d": "2026-11-13",
+     "p": 770.61
+    },
+    {
+     "d": "2026-11-16",
+     "p": 770.61
+    },
+    {
+     "d": "2026-11-19",
+     "p": 749.34
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-19",
+   "updated": "2026-11-19",
+   "tags": "monitore 27\" msi mpg 272urxde oled gaming monitor 3840x2160 240hz schwarz",
    "source": "crawler"
   },
   {
