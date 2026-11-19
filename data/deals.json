@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T11:26:20.730Z",
+ "updated": "2026-11-19T12:02:01.630Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -2130,6 +2130,68 @@
    "source": "crawler"
   },
   {
+   "id": "c-benq-gw2791-27-ips-100-hz-1920-x-1080-led-monitor-schwarz",
+   "name": "BenQ GW2791 27\" IPS 100 Hz 1920 x 1080 LED-Monitor Schwarz",
+   "cat": "Monitore",
+   "price": 86.31,
+   "ref": 113.44,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/benq-gw2791-27-ips-100-hz-1920-x-1080-led-monitor-schwarz-100547775/",
+   "url": "https://www.jacob.de/produkt/benq-gw2791-27-ips-100-hz-1920-x-1080-led-monitor-schwarz-100547775/",
+   "note": "24 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 113.44
+    },
+    {
+     "d": "2026-10-31",
+     "p": 113.44
+    },
+    {
+     "d": "2026-11-01",
+     "p": 113.44
+    },
+    {
+     "d": "2026-11-02",
+     "p": 113.44
+    },
+    {
+     "d": "2026-11-04",
+     "p": 113.44
+    },
+    {
+     "d": "2026-11-06",
+     "p": 113.44
+    },
+    {
+     "d": "2026-11-09",
+     "p": 113.44
+    },
+    {
+     "d": "2026-11-11",
+     "p": 113.44
+    },
+    {
+     "d": "2026-11-13",
+     "p": 113.44
+    },
+    {
+     "d": "2026-11-16",
+     "p": 113.44
+    },
+    {
+     "d": "2026-11-19",
+     "p": 86.31
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-19",
+   "updated": "2026-11-19",
+   "tags": "monitore 27\" benq gw2791 ips 100 1920 1080 led monitor schwarz",
+   "source": "crawler"
+  },
+  {
    "id": "c-seasonic-core-gc-750-atx3-1-pc-netzteil",
    "name": "Seasonic CORE GC-750 ATX3.1, PC-Netzteil",
    "cat": "Netzteile",
@@ -2866,6 +2928,84 @@
    "source": "crawler"
   },
   {
+   "id": "c-be-quiet-dark-rock-6-cpu-kuhler",
+   "name": "be quiet! Dark Rock 6, CPU-Kühler",
+   "cat": "Kühlung",
+   "price": 51.9,
+   "ref": 64.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/be-quiet/Dark-Rock-6-CPU-K%C3%BChler/html/product/100222123",
+   "url": "https://www.alternate.de/be-quiet/Dark-Rock-6-CPU-K%C3%BChler/html/product/100222123",
+   "note": "20 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 66.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 66.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 64.9
+    },
+    {
+     "d": "2026-11-07",
+     "p": 64.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 64.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 66.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 64.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 64.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 66.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 59.9
+    },
+    {
+     "d": "2026-11-14",
+     "p": 64.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 64.9
+    },
+    {
+     "d": "2026-11-16",
+     "p": 74.9
+    },
+    {
+     "d": "2026-11-17",
+     "p": 51.9
+    },
+    {
+     "d": "2026-11-19",
+     "p": 51.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-19",
+   "updated": "2026-11-19",
+   "tags": "kuhlung luftkuhler quiet dark rock cpu kuhler",
+   "source": "crawler"
+  },
+  {
    "id": "c-philips-p-line-346p1crh-34-curved-wqhd-monitor-3440-x-1440-1",
    "name": "Philips P-line 346P1CRH 34\" Curved WQHD Monitor 3440 x 1440 100 Hz VA HDMI DisplayPort USB-C Schwarz",
    "cat": "Monitore",
@@ -3244,6 +3384,10 @@
     },
     {
      "d": "2026-11-17",
+     "p": 55.9
+    },
+    {
+     "d": "2026-11-19",
      "p": 55.9
     }
    ],
@@ -4179,12 +4323,78 @@
     {
      "d": "2026-11-17",
      "p": 49.9
+    },
+    {
+     "d": "2026-11-19",
+     "p": 49.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
    "seen": "2026-11-19",
    "updated": "2026-11-19",
    "tags": "netzteile seasonic core 750 atx3 netzteil",
+   "source": "crawler"
+  },
+  {
+   "id": "c-patriot-p300-nvme-ssd-pcie-3-0-m-2-typ-2280-1tb",
+   "name": "Patriot P300 NVMe SSD, PCIe 3.0. M.2 Typ 2280 - 1TB",
+   "cat": "SSDs",
+   "price": 129.9,
+   "ref": 150.39,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/patriot-p300-nvme-ssd-pcie-3.0.-m.2-type-2280-1tb/SSPM-031.html",
+   "url": "https://www.caseking.de/en/patriot-p300-nvme-ssd-pcie-3.0.-m.2-type-2280-1tb/SSPM-031.html",
+   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 150.39
+    },
+    {
+     "d": "2026-10-31",
+     "p": 150.39
+    },
+    {
+     "d": "2026-11-02",
+     "p": 150.39
+    },
+    {
+     "d": "2026-11-04",
+     "p": 150.39
+    },
+    {
+     "d": "2026-11-05",
+     "p": 150.39
+    },
+    {
+     "d": "2026-11-07",
+     "p": 150.39
+    },
+    {
+     "d": "2026-11-09",
+     "p": 150.39
+    },
+    {
+     "d": "2026-11-12",
+     "p": 150.39
+    },
+    {
+     "d": "2026-11-14",
+     "p": 150.39
+    },
+    {
+     "d": "2026-11-16",
+     "p": 150.39
+    },
+    {
+     "d": "2026-11-19",
+     "p": 129.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-19",
+   "updated": "2026-11-19",
+   "tags": "ssds nvme 1 tb patriot p300 nvme ssd pcie typ 2280 1tb",
    "source": "crawler"
   },
   {
@@ -4409,6 +4619,68 @@
    "seen": "2026-11-19",
    "updated": "2026-11-19",
    "tags": "mainboards am5 b850 asus prime b850 plus wifi mainboard atx sockel am5 ddr5 schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-gigabyte-g27q2-27-qhd-ss-ips-gaming-monitor-200-hz-schwarz",
+   "name": "Gigabyte G27Q2 27\" QHD SS-IPS Gaming-Monitor 200 Hz Schwarz",
+   "cat": "Monitore",
+   "price": 143.54,
+   "ref": 163.86,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/gigabyte-g27q2-27-qhd-ss-ips-gaming-monitor-200-hz-schwarz-100672879/",
+   "url": "https://www.jacob.de/produkt/gigabyte-g27q2-27-qhd-ss-ips-gaming-monitor-200-hz-schwarz-100672879/",
+   "note": "12 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 154.16
+    },
+    {
+     "d": "2026-10-31",
+     "p": 163.45
+    },
+    {
+     "d": "2026-11-01",
+     "p": 163.86
+    },
+    {
+     "d": "2026-11-02",
+     "p": 163.86
+    },
+    {
+     "d": "2026-11-04",
+     "p": 163.86
+    },
+    {
+     "d": "2026-11-06",
+     "p": 163.86
+    },
+    {
+     "d": "2026-11-09",
+     "p": 163.86
+    },
+    {
+     "d": "2026-11-11",
+     "p": 163.86
+    },
+    {
+     "d": "2026-11-13",
+     "p": 154.18
+    },
+    {
+     "d": "2026-11-16",
+     "p": 154.18
+    },
+    {
+     "d": "2026-11-19",
+     "p": 143.54
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-19",
+   "updated": "2026-11-19",
+   "tags": "monitore 27\" gigabyte g27q2 qhd ips gaming monitor 200 schwarz",
    "source": "crawler"
   },
   {
@@ -4754,6 +5026,72 @@
    "source": "crawler"
   },
   {
+   "id": "c-intel-core-i7-14700f-2-1-ghz-raptor-lake-refresh-sockel-1700",
+   "name": "Intel Core i7-14700F 2,1 GHz (Raptor Lake Refresh) Sockel 1700 - boxed",
+   "cat": "Prozessoren",
+   "price": 289,
+   "ref": 327.32,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/intel-core-i7-14700f-2.1-ghz-raptor-lake-refresh-socket-1700-boxed/HPIT-823.html",
+   "url": "https://www.caseking.de/en/intel-core-i7-14700f-2.1-ghz-raptor-lake-refresh-socket-1700-boxed/HPIT-823.html",
+   "note": "12 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 327.32
+    },
+    {
+     "d": "2026-10-30",
+     "p": 327.32
+    },
+    {
+     "d": "2026-10-31",
+     "p": 327.32
+    },
+    {
+     "d": "2026-11-01",
+     "p": 327.32
+    },
+    {
+     "d": "2026-11-03",
+     "p": 327.32
+    },
+    {
+     "d": "2026-11-05",
+     "p": 327.32
+    },
+    {
+     "d": "2026-11-07",
+     "p": 327.32
+    },
+    {
+     "d": "2026-11-09",
+     "p": 327.32
+    },
+    {
+     "d": "2026-11-12",
+     "p": 327.32
+    },
+    {
+     "d": "2026-11-14",
+     "p": 327.32
+    },
+    {
+     "d": "2026-11-16",
+     "p": 327.32
+    },
+    {
+     "d": "2026-11-19",
+     "p": 289
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-19",
+   "updated": "2026-11-19",
+   "tags": "prozessoren intel lga1700 intel core 14700f ghz raptor lake refresh sockel 1700 boxed",
+   "source": "crawler"
+  },
+  {
    "id": "c-gigabyte-m27q2-qd-27-qhd-ss-ips-gaming-monitor-200-hz-schwar",
    "name": "Gigabyte M27Q2 QD 27\" QHD SS-IPS Gaming-Monitor 200 Hz Schwarz",
    "cat": "Monitore",
@@ -4860,6 +5198,10 @@
     },
     {
      "d": "2026-11-16",
+     "p": 225.48
+    },
+    {
+     "d": "2026-11-19",
      "p": 225.48
     }
    ],
@@ -5314,6 +5656,10 @@
     },
     {
      "d": "2026-11-17",
+     "p": 32.9
+    },
+    {
+     "d": "2026-11-19",
      "p": 32.9
     }
    ],
