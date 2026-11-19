@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T06:29:41.415Z",
+ "updated": "2026-11-19T08:27:32.760Z",
  "products": [
   {
    "id": "r-acer-b246hylbymiprx-23-8-full-hd-1920x1080-display-hdmi-disp",
@@ -6978,6 +6978,25 @@
    "firstSeen": "2026-11-10"
   },
   {
+   "id": "r-hp-elitebook-850-g6-15-6-zoll-1920x1080-full-hd-intel-core-i",
+   "cat": "Laptops",
+   "name": "HP EliteBook 850 G6 15,6 Zoll 1920x1080 Full HD Intel Core i5 256GB SSD 8GB Windows 11 Pro Webcam",
+   "brand": "HP",
+   "price": 329,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/hp-elitebook-850-g6-15-6-zoll-1920x1080-full-hd-intel-core-i5-256gb-ssd-8gb-windows-11-pro-webcam-5",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-850-G6-0_cbf01808-7051-4f21-a80b-b1c3c05a1f18.jpg?v=1770991815",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 329
+    }
+   ],
+   "firstSeen": "2026-11-19"
+  },
+  {
    "id": "r-dell-optiplex-7060-micro-intel-core-i5-8400t-8gb-ram-256gb-s",
    "cat": "PCs & Workstations",
    "name": "Dell OptiPlex 7060 Micro, Intel Core i5 8400T, 8GB RAM, 256GB SSD, Windows 11 Pro",
@@ -8067,93 +8086,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "r-fujitsu-lifebook-u759-15-6-fhd-display-intel-core-i5-8265u-1",
-   "cat": "Laptops",
-   "name": "Fujitsu Lifebook U759, 15,6” FHD Display, Intel Core i5 8265U, 16GB RAM, 256GB SSD, Webcam, Windows 11 Pro",
-   "brand": "Fujitsu",
-   "price": 339,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/fujitsu-lifebook-u759-15-6-fhd-display-intel-core-i5-8265u-16gb-ram-256gb-ssd-webcam-windows-11-pro",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Fujitsu-Lifebook-U759-1.jpg?v=1770990732",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 339
-    },
-    {
-     "d": "2026-10-31",
-     "p": 339
-    },
-    {
-     "d": "2026-11-01",
-     "p": 339
-    },
-    {
-     "d": "2026-11-02",
-     "p": 339
-    },
-    {
-     "d": "2026-11-03",
-     "p": 339
-    },
-    {
-     "d": "2026-11-04",
-     "p": 339
-    },
-    {
-     "d": "2026-11-05",
-     "p": 339
-    },
-    {
-     "d": "2026-11-06",
-     "p": 339
-    },
-    {
-     "d": "2026-11-07",
-     "p": 339
-    },
-    {
-     "d": "2026-11-08",
-     "p": 339
-    },
-    {
-     "d": "2026-11-09",
-     "p": 339
-    },
-    {
-     "d": "2026-11-10",
-     "p": 339
-    },
-    {
-     "d": "2026-11-11",
-     "p": 339
-    },
-    {
-     "d": "2026-11-12",
-     "p": 339
-    },
-    {
-     "d": "2026-11-13",
-     "p": 339
-    },
-    {
-     "d": "2026-11-14",
-     "p": 339
-    },
-    {
-     "d": "2026-11-15",
-     "p": 339
-    },
-    {
-     "d": "2026-11-16",
-     "p": 339
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "r-lenovo-thinkpad-x1-yoga-gen-5-14-touch-display-intel-core-i5",
    "cat": "Laptops",
    "name": "Lenovo ThinkPad X1 Yoga Gen 5, 14\" Touch Display, Intel Core i5 10310U, 8GB RAM, 256GB SSD, LTE G, Windows 11 Pro, Office & Media Software Suite",
@@ -9007,6 +8939,37 @@
     }
    ],
    "firstSeen": "2026-11-02"
+  },
+  {
+   "id": "r-lenovo-thinkpad-t490-14-zoll-1920x1080-full-hd-intel-core-i5",
+   "cat": "Laptops",
+   "name": "Lenovo ThinkPad T490 14 Zoll 1920x1080 Full HD Intel Core i5 256GB SSD 8GB Windows 11 Pro Webcam",
+   "brand": "Lenovo",
+   "price": 339,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkpad-t490-14-zoll-1920x1080-full-hd-intel-core-i5-256gb-ssd-8gb-windows-11-pro-webcam-6",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-T490-0_5fb96222-cabd-418a-a039-8b46c568ee78.jpg?v=1770991274",
+   "hist": [
+    {
+     "d": "2026-11-10",
+     "p": 339
+    },
+    {
+     "d": "2026-11-11",
+     "p": 339
+    },
+    {
+     "d": "2026-11-12",
+     "p": 339
+    },
+    {
+     "d": "2026-11-19",
+     "p": 339
+    }
+   ],
+   "firstSeen": "2026-11-10"
   },
   {
    "id": "r-dell-optiplex-3080-tower-intel-core-i5-10500-8gb-ram-256gb-s",
@@ -64529,6 +64492,77 @@
     },
     {
      "d": "2026-11-16",
+     "p": 759.01
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "r-lenovo-thinkcentre-m70q-gen-3-tiny-intel-core-i5-12400t-16gb",
+   "cat": "PCs & Workstations",
+   "name": "Lenovo ThinkCentre M70q Gen 3 Tiny, Intel Core i5 12400T, 16GB RAM, 512GB SSD, Wi-Fi, Bluetooth, Windows 11 Pro, ESET Internet Security",
+   "brand": "Lenovo",
+   "price": 759.01,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkcentre-m70q-gen-3-tiny-usdt-intel-core-i5-12400t-16gb-ram-512gb-ssd-wi-fi-bluetooth-windows-11-pro-eset-internet-security",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkCentre-M70q-Tiny-1_8b2686d6-5951-445e-858d-efbefe827d78.jpg?v=1745584624",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 759.01
+    },
+    {
+     "d": "2026-10-31",
+     "p": 759.01
+    },
+    {
+     "d": "2026-11-01",
+     "p": 759.01
+    },
+    {
+     "d": "2026-11-02",
+     "p": 759.01
+    },
+    {
+     "d": "2026-11-03",
+     "p": 759.01
+    },
+    {
+     "d": "2026-11-04",
+     "p": 759.01
+    },
+    {
+     "d": "2026-11-05",
+     "p": 759.01
+    },
+    {
+     "d": "2026-11-06",
+     "p": 759.01
+    },
+    {
+     "d": "2026-11-07",
+     "p": 759.01
+    },
+    {
+     "d": "2026-11-08",
+     "p": 759.01
+    },
+    {
+     "d": "2026-11-09",
+     "p": 759.01
+    },
+    {
+     "d": "2026-11-10",
+     "p": 759.01
+    },
+    {
+     "d": "2026-11-11",
+     "p": 759.01
+    },
+    {
+     "d": "2026-11-19",
      "p": 759.01
     }
    ],
