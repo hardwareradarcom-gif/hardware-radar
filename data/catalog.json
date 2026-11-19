@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T16:04:09.291Z",
+ "updated": "2026-11-19T17:29:43.954Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -2253,7 +2253,7 @@
    "name": "Patriot Viper Venom 32 GB Kit DDR5-6000 CL30",
    "url": "https://geizhals.de/patriot-viper-venom-rgb-dimm-32gb-pvv532g600c30k-a3204206.html",
    "source": "Geizhals",
-   "stand": "2026-10-27T16:26",
+   "stand": "2026-11-19T17:29",
    "offers": [
     {
      "shop": "Mindfactory",
@@ -2278,6 +2278,14 @@
      "price": 518.99,
      "ship": 0,
      "avail": "Sofort"
+    },
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 584.68,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/patriot-viper-elite-5-rgb-ddr5-32-gb-ram-2x-16-gb-6000-mt-s-cl30-weiss-100672867/",
+     "crawler": true
     }
    ],
    "price": 499,
@@ -2285,6 +2293,10 @@
    "hist": [
     {
      "d": "2026-10-27",
+     "p": 499
+    },
+    {
+     "d": "2026-11-19",
      "p": 499
     }
    ]
@@ -2482,7 +2494,7 @@
    "name": "G.Skill Trident Z5 Neo RGB 32 GB Kit DDR5-6000 CL32",
    "url": "https://geizhals.de/2815840",
    "source": "Geizhals",
-   "stand": "2026-10-29T15:56",
+   "stand": "2026-11-19T17:29",
    "offers": [
     {
      "shop": "Jacob Elektronik",
@@ -2507,6 +2519,14 @@
      "price": 660.39,
      "ship": 0,
      "avail": "Auf Lager"
+    },
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1824.91,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/g-skill-trident-z5-rgb-ddr5-64-gb-ram-2-x-32-gb-6000-mhz-cl32-silber-8047634/",
+     "crawler": true
     }
    ],
    "price": 660.16,
@@ -2514,6 +2534,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 660.16
+    },
+    {
+     "d": "2026-11-19",
      "p": 660.16
     }
    ]
@@ -4832,7 +4856,7 @@
    "name": "ARCTIC Freezer 36",
    "url": "https://geizhals.de/3144218",
    "source": "Geizhals",
-   "stand": "2026-11-18T20:02",
+   "stand": "2026-11-19T17:29",
    "offers": [
     {
      "shop": "Mindfactory",
@@ -4872,6 +4896,14 @@
      "ship": 7.99,
      "avail": "Auf Lager",
      "url": "https://www.alternate.de/ARCTIC/Freezer-36-CO-CPU-K%C3%BChler/html/product/100060190",
+     "crawler": true
+    },
+    {
+     "shop": "Conrad",
+     "price": 23.52,
+     "ship": 4.95,
+     "avail": "Auf Lager",
+     "url": "https://www.conrad.de/de/p/arctic-freezer-36-co-cpu-kuehler-mit-luefter-intel-lga-1700-amd-am5-amd-am4-3059334.html",
      "crawler": true
     },
     {
@@ -11119,6 +11151,386 @@
    "note": "Aktuell im Angebot, vorher 189,59 €."
   },
   {
+   "id": "c-be-quiet-pure-rock-slim-3-cpu-kuhler-130w-tdp-100mm-schwarz",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "be quiet! Pure Rock Slim 3 CPU-Kühler, 130W TDP - 100mm, schwarz",
+   "source": "crawler",
+   "url": "https://www.conrad.de/de/p/bequiet-pure-rock-slim-3-cpu-kuehler-mit-luefter-amd-am4-amd-am5-3532579.html",
+   "stand": "2026-11-19T17:29",
+   "offers": [
+    {
+     "shop": "Conrad",
+     "price": 19.32,
+     "ship": 4.95,
+     "avail": "Auf Lager",
+     "url": "https://www.conrad.de/de/p/bequiet-pure-rock-slim-3-cpu-kuehler-mit-luefter-amd-am4-amd-am5-3532579.html"
+    },
+    {
+     "shop": "caseking.de",
+     "price": 21.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/be-quiet-pure-rock-slim-3-cpu-kuehler-130w-tdp-100mm-schwarz/CPBQ-038.html"
+    }
+   ],
+   "price": 19.32,
+   "shop": "Conrad",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 21.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 21.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 21.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 21.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 21.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 21.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 21.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 21.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 21.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 21.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 21.9
+    },
+    {
+     "d": "2026-11-19",
+     "p": 19.32
+    }
+   ],
+   "count": 2,
+   "tags": "kuhlung luftkuhler quiet pure rock slim cpu kuhler 130w tdp 100mm schwarz",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-bequiet-pure-rock-pro-3-lx-black-cpu-kuhler-mit-lufter",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "BeQuiet PURE ROCK PRO 3 LX Black CPU-Kühler mit Lüfter",
+   "source": "crawler",
+   "url": "https://www.conrad.de/de/p/bequiet-pure-rock-pro-3-lx-black-cpu-kuehler-mit-luefter-3540455.html",
+   "stand": "2026-11-19T17:29",
+   "offers": [
+    {
+     "shop": "Conrad",
+     "price": 41.17,
+     "ship": 4.95,
+     "avail": "Auf Lager",
+     "url": "https://www.conrad.de/de/p/bequiet-pure-rock-pro-3-lx-black-cpu-kuehler-mit-luefter-3540455.html"
+    },
+    {
+     "shop": "caseking.de",
+     "price": 50.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/be-quiet-pure-rock-pro-3-lx-cpu-kuehler-120mm-schwarz/CPBQ-035.html"
+    }
+   ],
+   "price": 41.17,
+   "shop": "Conrad",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 44.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 44.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 44.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 50.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 50.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 50.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 50.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 50.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 50.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 50.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 50.9
+    },
+    {
+     "d": "2026-11-19",
+     "p": 41.17
+    }
+   ],
+   "count": 2,
+   "tags": "kuhlung luftkuhler bequiet pure rock pro black cpu kuhler mit lufter",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-bequiet-dark-rock-pro-6-cpu-kuhler-passiv-135-04-m3-h-2000-u",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "BeQuiet DARK ROCK PRO 6 CPU-Kühler passiv 135.04 m³/h 2000 U/min",
+   "source": "crawler",
+   "url": "https://www.conrad.de/de/p/bequiet-dark-rock-pro-6-cpu-kuehler-passiv-135-04-m-h-2000-u-min-3779941.html",
+   "stand": "2026-11-19T17:29",
+   "offers": [
+    {
+     "shop": "Conrad",
+     "price": 80.66,
+     "ship": 4.95,
+     "avail": "Auf Lager",
+     "url": "https://www.conrad.de/de/p/bequiet-dark-rock-pro-6-cpu-kuehler-passiv-135-04-m-h-2000-u-min-3779941.html"
+    },
+    {
+     "shop": "caseking.de",
+     "price": 92.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/be-quiet-dark-rock-pro-6-cpu-kuehler-dual-tower-pwm-1x-120-1x-135mm-schwarz/CPBQ-039.html"
+    }
+   ],
+   "price": 80.66,
+   "shop": "Conrad",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 92.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 92.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 92.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 92.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 92.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 92.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 92.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 92.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 92.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 92.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 92.9
+    },
+    {
+     "d": "2026-11-19",
+     "p": 80.66
+    }
+   ],
+   "count": 2,
+   "tags": "kuhlung luftkuhler bequiet dark rock pro cpu kuhler passiv 135 2000 min",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-noctua-nh-d15s-chromax-black-cpu-kuhler-140mm",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Noctua NH-D15S chromax.black CPU-Kühler - 140mm",
+   "source": "crawler",
+   "url": "https://www.conrad.de/de/p/noctua-nh-d15s-ch-bk-cpu-kuehler-mit-luefter-intel-lga-1150-intel-lga-1151-intel-lga-1151-v2-intel-lga-1156-intel-2373080.html",
+   "stand": "2026-11-19T17:29",
+   "offers": [
+    {
+     "shop": "Conrad",
+     "price": 100.83,
+     "ship": 0,
+     "avail": "Auf Lager",
+     "url": "https://www.conrad.de/de/p/noctua-nh-d15s-ch-bk-cpu-kuehler-mit-luefter-intel-lga-1150-intel-lga-1151-intel-lga-1151-v2-intel-lga-1156-intel-2373080.html"
+    },
+    {
+     "shop": "caseking.de",
+     "price": 109.9,
+     "ship": null,
+     "avail": "Vorbestellung",
+     "url": "https://www.caseking.de/noctua-nh-d15s-chromax.black-cpu-kuehler-140mm/CPNA-065.html"
+    }
+   ],
+   "price": 100.83,
+   "shop": "Conrad",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 109.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 109.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 109.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 109.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 109.9
+    },
+    {
+     "d": "2026-11-07",
+     "p": 109.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 109.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 109.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 109.9
+    },
+    {
+     "d": "2026-11-16",
+     "p": 109.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 109.9
+    },
+    {
+     "d": "2026-11-19",
+     "p": 100.83
+    }
+   ],
+   "count": 2,
+   "tags": "kuhlung luftkuhler noctua d15s chromax black cpu kuhler 140mm",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-asus-proart-lc-420-aio-cooler-black",
+   "cat": "Prozessoren",
+   "sub": "Prozessoren",
+   "name": "ASUS ProArt LC 420 AIO Cooler - black",
+   "source": "crawler",
+   "url": "https://www.conrad.de/de/p/asus-proart-lc-420-prozessor-fluessigkeitskuehlsystem-kuehlergroesse-420-mm-fuer-am4-lga1200-lga1700-am5-lga115x-3059230.html",
+   "stand": "2026-11-19T17:29",
+   "offers": [
+    {
+     "shop": "Conrad",
+     "price": 270,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.conrad.de/de/p/asus-proart-lc-420-prozessor-fluessigkeitskuehlsystem-kuehlergroesse-420-mm-fuer-am4-lga1200-lga1700-am5-lga115x-3059230.html"
+    },
+    {
+     "shop": "caseking.de",
+     "price": 319.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-proart-lc-420-aio-cooler-black/WASE-860.html"
+    }
+   ],
+   "price": 270,
+   "shop": "Conrad",
+   "hist": [
+    {
+     "d": "2026-11-06",
+     "p": 319.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 319.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 319.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 319.9
+    },
+    {
+     "d": "2026-11-14",
+     "p": 319.9
+    },
+    {
+     "d": "2026-11-16",
+     "p": 319.9
+    },
+    {
+     "d": "2026-11-19",
+     "p": 270
+    }
+   ],
+   "count": 2,
+   "tags": "prozessoren asus proart 420 aio cooler black",
+   "firstSeen": "2026-11-06"
+  },
+  {
    "id": "c-asus-rog-strix-xg32wcms-gaming-monitor-31-5-inch-280-hz",
    "cat": "Monitore",
    "sub": "Monitore",
@@ -11645,7 +12057,7 @@
    "name": "Akasa AK-CC6308EP01 Low Profile CPU-Kühler - 92mm",
    "source": "crawler",
    "url": "https://www.caseking.de/akasa-ak-cc6308ep01-low-profile-cpu-kuehler-92mm/CPAK-053.html",
-   "stand": "2026-11-17T20:09",
+   "stand": "2026-11-19T17:29",
    "offers": [
     {
      "shop": "caseking.de",
@@ -11700,6 +12112,10 @@
     },
     {
      "d": "2026-11-17",
+     "p": 15.29
+    },
+    {
+     "d": "2026-11-19",
      "p": 15.29
     }
    ],
@@ -11775,7 +12191,7 @@
    "name": "Akasa AK-CC6607EP01 Low Profile CPU-Kühler - Sockel LGA 1700, 64,5 mm Höhe",
    "source": "crawler",
    "url": "https://www.caseking.de/akasa-ak-cc6607ep01-low-profile-cpu-kuehler-sockel-lga-1700-64-5-mm-hoehe/CPAK-064.html",
-   "stand": "2026-11-17T21:57",
+   "stand": "2026-11-19T17:29",
    "offers": [
     {
      "shop": "caseking.de",
@@ -11830,6 +12246,10 @@
     },
     {
      "d": "2026-11-17",
+     "p": 15.9
+    },
+    {
+     "d": "2026-11-19",
      "p": 15.9
     }
    ],
@@ -12408,7 +12828,7 @@
    "name": "SilverStone SST-KR01 - Kryton CPU Kühler, Low Profile - 80mm",
    "source": "crawler",
    "url": "https://www.caseking.de/silverstone-sst-kr01-kryton-cpu-kuehler-low-profile-80mm/CPSI-051.html",
-   "stand": "2026-11-17T15:59",
+   "stand": "2026-11-19T17:29",
    "offers": [
     {
      "shop": "caseking.de",
@@ -12427,6 +12847,10 @@
     },
     {
      "d": "2026-11-17",
+     "p": 16.9
+    },
+    {
+     "d": "2026-11-19",
      "p": 16.9
     }
    ],
@@ -12632,7 +13056,7 @@
    "name": "Akasa AK-959CU CPU-Kühler - 92mm",
    "source": "crawler",
    "url": "https://www.caseking.de/akasa-ak-959cu-cpu-kuehler-92mm/CPAK-039.html",
-   "stand": "2026-11-17T20:09",
+   "stand": "2026-11-19T17:29",
    "offers": [
     {
      "shop": "caseking.de",
@@ -12688,6 +13112,10 @@
     {
      "d": "2026-11-17",
      "p": 17.9
+    },
+    {
+     "d": "2026-11-19",
+     "p": 17.9
     }
    ],
    "count": 1,
@@ -12701,7 +13129,7 @@
    "name": "Akasa Vegas Chroma AM CPU-Kühler, AMD, RGB - 120 mm",
    "source": "crawler",
    "url": "https://www.caseking.de/akasa-vegas-chroma-am-cpu-kuehler-amd-rgb-120-mm/CPAK-050.html",
-   "stand": "2026-11-17T20:09",
+   "stand": "2026-11-19T17:29",
    "offers": [
     {
      "shop": "caseking.de",
@@ -12756,6 +13184,10 @@
     },
     {
      "d": "2026-11-17",
+     "p": 17.9
+    },
+    {
+     "d": "2026-11-19",
      "p": 17.9
     }
    ],
@@ -12976,15 +13408,15 @@
    "sub": "Luftkühler",
    "name": "SilverStone SST-NT09-1700 - Nitrogon CPU Kühler - 92mm",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/silverstone-sst-nt09-1700-nitrogon-cpu-cooler-92mm/CPSI-064.html",
-   "stand": "2026-11-17T20:09",
+   "url": "https://www.caseking.de/silverstone-sst-nt09-1700-nitrogon-cpu-kuehler-92mm/CPSI-064.html",
+   "stand": "2026-11-19T17:29",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 17.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/silverstone-sst-nt09-1700-nitrogon-cpu-cooler-92mm/CPSI-064.html"
+     "url": "https://www.caseking.de/silverstone-sst-nt09-1700-nitrogon-cpu-kuehler-92mm/CPSI-064.html"
     }
    ],
    "price": 17.9,
@@ -13032,6 +13464,10 @@
     },
     {
      "d": "2026-11-17",
+     "p": 17.9
+    },
+    {
+     "d": "2026-11-19",
      "p": 17.9
     }
    ],
@@ -13407,15 +13843,15 @@
    "sub": "Luftkühler",
    "name": "SilverStone Nitrogon NT08-115X-V2 CPU-Kühler, PWM - 92mm",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/silverstone-nitrogon-nt08-115x-v2-cpu-cooler-pwm-92mm/CPSI-046.html",
-   "stand": "2026-11-17T20:09",
+   "url": "https://www.caseking.de/silverstone-nitrogon-nt08-115x-v2-cpu-kuehler-pwm-92mm/CPSI-046.html",
+   "stand": "2026-11-19T17:29",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 18.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/silverstone-nitrogon-nt08-115x-v2-cpu-cooler-pwm-92mm/CPSI-046.html"
+     "url": "https://www.caseking.de/silverstone-nitrogon-nt08-115x-v2-cpu-kuehler-pwm-92mm/CPSI-046.html"
     }
    ],
    "price": 18.9,
@@ -13467,6 +13903,10 @@
     },
     {
      "d": "2026-11-17",
+     "p": 18.9
+    },
+    {
+     "d": "2026-11-19",
      "p": 18.9
     }
    ],
@@ -13530,75 +13970,6 @@
    "count": 1,
    "tags": "kuhlung luftkuhler thermaltake ux400 cpu kuhler",
    "firstSeen": "2026-11-08"
-  },
-  {
-   "id": "c-akasa-ak-cc7129bp01-low-profile-cpu-kuhler-74mm",
-   "cat": "Kühlung",
-   "sub": "Luftkühler",
-   "name": "Akasa AK-CC7129BP01 Low Profile CPU-Kühler - 74mm",
-   "source": "crawler",
-   "url": "https://www.caseking.de/en/akasa-ak-cc7129bp01-low-profile-cpu-kuehler-74mm/CPAK-038.html",
-   "stand": "2026-11-17T20:09",
-   "offers": [
-    {
-     "shop": "caseking.de",
-     "price": 19.9,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/akasa-ak-cc7129bp01-low-profile-cpu-kuehler-74mm/CPAK-038.html"
-    }
-   ],
-   "price": 19.9,
-   "shop": "caseking.de",
-   "hist": [
-    {
-     "d": "2026-10-29",
-     "p": 19.9
-    },
-    {
-     "d": "2026-10-30",
-     "p": 19.9
-    },
-    {
-     "d": "2026-11-01",
-     "p": 19.9
-    },
-    {
-     "d": "2026-11-03",
-     "p": 19.9
-    },
-    {
-     "d": "2026-11-04",
-     "p": 19.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 19.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 19.9
-    },
-    {
-     "d": "2026-11-10",
-     "p": 19.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 19.9
-    },
-    {
-     "d": "2026-11-15",
-     "p": 19.9
-    },
-    {
-     "d": "2026-11-17",
-     "p": 19.9
-    }
-   ],
-   "count": 1,
-   "tags": "kuhlung luftkuhler akasa cc7129bp01 low profile cpu kuhler 74mm",
-   "firstSeen": "2026-10-29"
   },
   {
    "id": "c-akasa-ak-cc6605ep01-low-profile-cpu-kuhler-intel-sockel-1700",
@@ -15235,13 +15606,42 @@
    "firstSeen": "2026-11-15"
   },
   {
+   "id": "c-noctua-nf-f12-5v-cpu-kuhler-mit-lufter-braun-beige-b-x-h-x-t",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Noctua NF-F12 5V CPU-Kühler mit Lüfter Braun, Beige (B x H x T) 120 x 120 x 25 mm",
+   "source": "crawler",
+   "url": "https://www.conrad.de/de/p/noctua-nf-f12-5v-cpu-kuehler-mit-luefter-braun-beige-b-x-h-x-t-120-x-120-x-25-mm-2108186.html",
+   "stand": "2026-11-19T17:29",
+   "offers": [
+    {
+     "shop": "Conrad",
+     "price": 21.84,
+     "ship": 4.95,
+     "avail": "Auf Lager",
+     "url": "https://www.conrad.de/de/p/noctua-nf-f12-5v-cpu-kuehler-mit-luefter-braun-beige-b-x-h-x-t-120-x-120-x-25-mm-2108186.html"
+    }
+   ],
+   "price": 21.84,
+   "shop": "Conrad",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 21.84
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler noctua f12 cpu kuhler mit lufter braun beige 120",
+   "firstSeen": "2026-11-19"
+  },
+  {
    "id": "c-akasa-ak-cce-7106hp-low-profile-cpu-kuhler-intel-74mm",
    "cat": "Kühlung",
    "sub": "Luftkühler",
    "name": "Akasa AK-CCE-7106HP Low Profile CPU-Kühler Intel - 74mm",
    "source": "crawler",
    "url": "https://www.caseking.de/en/akasa-ak-cce-7106hp-low-profile-cpu-kuehler-intel-74mm/CPAK-022.html",
-   "stand": "2026-11-17T20:09",
+   "stand": "2026-11-19T17:29",
    "offers": [
     {
      "shop": "caseking.de",
@@ -15297,6 +15697,10 @@
     {
      "d": "2026-11-17",
      "p": 21.9
+    },
+    {
+     "d": "2026-11-19",
+     "p": 21.9
     }
    ],
    "count": 1,
@@ -15310,7 +15714,7 @@
    "name": "Akasa AK-CC6602HP01 Low Profile CPU-Kühler - Sockel LGA 1700, 30 mm Höhe",
    "source": "crawler",
    "url": "https://www.caseking.de/akasa-ak-cc6602hp01-low-profile-cpu-kuehler-sockel-lga-1700-30-mm-hoehe/CPAK-063.html",
-   "stand": "2026-11-17T21:57",
+   "stand": "2026-11-19T17:29",
    "offers": [
     {
      "shop": "caseking.de",
@@ -15366,79 +15770,14 @@
     {
      "d": "2026-11-17",
      "p": 21.9
+    },
+    {
+     "d": "2026-11-19",
+     "p": 21.9
     }
    ],
    "count": 1,
    "tags": "kuhlung luftkuhler akasa cc6602hp01 low profile cpu kuhler sockel lga 1700 hohe",
-   "firstSeen": "2026-10-29"
-  },
-  {
-   "id": "c-be-quiet-pure-rock-slim-3-cpu-kuhler-130w-tdp-100mm-schwarz",
-   "cat": "Kühlung",
-   "sub": "Luftkühler",
-   "name": "be quiet! Pure Rock Slim 3 CPU-Kühler, 130W TDP - 100mm, schwarz",
-   "source": "crawler",
-   "url": "https://www.caseking.de/be-quiet-pure-rock-slim-3-cpu-kuehler-130w-tdp-100mm-schwarz/CPBQ-038.html",
-   "stand": "2026-11-18T12:02",
-   "offers": [
-    {
-     "shop": "caseking.de",
-     "price": 21.9,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.caseking.de/be-quiet-pure-rock-slim-3-cpu-kuehler-130w-tdp-100mm-schwarz/CPBQ-038.html"
-    }
-   ],
-   "price": 21.9,
-   "shop": "caseking.de",
-   "hist": [
-    {
-     "d": "2026-10-29",
-     "p": 21.9
-    },
-    {
-     "d": "2026-10-30",
-     "p": 21.9
-    },
-    {
-     "d": "2026-11-01",
-     "p": 21.9
-    },
-    {
-     "d": "2026-11-03",
-     "p": 21.9
-    },
-    {
-     "d": "2026-11-04",
-     "p": 21.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 21.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 21.9
-    },
-    {
-     "d": "2026-11-11",
-     "p": 21.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 21.9
-    },
-    {
-     "d": "2026-11-15",
-     "p": 21.9
-    },
-    {
-     "d": "2026-11-18",
-     "p": 21.9
-    }
-   ],
-   "count": 1,
-   "tags": "kuhlung luftkuhler quiet pure rock slim cpu kuhler 130w tdp 100mm schwarz",
    "firstSeen": "2026-10-29"
   },
   {
@@ -16290,7 +16629,7 @@
    "name": "Akasa SOHO H4 plus CPU Kühler, ARGB - 120mm",
    "source": "crawler",
    "url": "https://www.caseking.de/akasa-soho-h4-plus-cpu-kuehler-argb-120mm/CPAK-062.html",
-   "stand": "2026-11-17T21:57",
+   "stand": "2026-11-19T17:29",
    "offers": [
     {
      "shop": "caseking.de",
@@ -16345,6 +16684,10 @@
     },
     {
      "d": "2026-11-17",
+     "p": 23.9
+    },
+    {
+     "d": "2026-11-19",
      "p": 23.9
     }
    ],
@@ -18972,7 +19315,7 @@
    "name": "Akasa AK-CC6608BP01 Low Profile CPU-Kühler - Sockel LGA 1700, 63,2 mm Höhe",
    "source": "crawler",
    "url": "https://www.caseking.de/akasa-ak-cc6608bp01-low-profile-cpu-kuehler-sockel-lga-1700-63-2-mm-hoehe/CPAK-065.html",
-   "stand": "2026-11-17T21:57",
+   "stand": "2026-11-19T17:29",
    "offers": [
     {
      "shop": "caseking.de",
@@ -19027,6 +19370,10 @@
     },
     {
      "d": "2026-11-17",
+     "p": 28.9
+    },
+    {
+     "d": "2026-11-19",
      "p": 28.9
     }
    ],
@@ -19267,15 +19614,15 @@
    "sub": "Luftkühler",
    "name": "SilverStone Argon CPU-Kühler, RGB - 120 mm",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/silverstone-argon-cpu-cooler-rgb-120-mm/CPSI-060.html",
-   "stand": "2026-11-18T06:34",
+   "url": "https://www.caseking.de/silverstone-argon-cpu-kuehler-rgb-120-mm/CPSI-060.html",
+   "stand": "2026-11-19T17:29",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 28.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/silverstone-argon-cpu-cooler-rgb-120-mm/CPSI-060.html"
+     "url": "https://www.caseking.de/silverstone-argon-cpu-kuehler-rgb-120-mm/CPSI-060.html"
     }
    ],
    "price": 28.9,
@@ -19291,6 +19638,10 @@
     },
     {
      "d": "2026-11-18",
+     "p": 28.9
+    },
+    {
+     "d": "2026-11-19",
      "p": 28.9
     }
    ],
@@ -19442,15 +19793,15 @@
    "sub": "Luftkühler",
    "name": "SilverStone SST-AR09-115XP CPU-Kühler - 60mm",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/silverstone-sst-ar09-115xp-cpu-cooler-60mm/CPSI-032.html",
-   "stand": "2026-11-17T18:04",
+   "url": "https://www.caseking.de/silverstone-sst-ar09-115xp-cpu-kuehler-60mm/CPSI-032.html",
+   "stand": "2026-11-19T17:29",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 29.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/silverstone-sst-ar09-115xp-cpu-cooler-60mm/CPSI-032.html"
+     "url": "https://www.caseking.de/silverstone-sst-ar09-115xp-cpu-kuehler-60mm/CPSI-032.html"
     }
    ],
    "price": 29.9,
@@ -19498,6 +19849,10 @@
     },
     {
      "d": "2026-11-17",
+     "p": 29.9
+    },
+    {
+     "d": "2026-11-19",
      "p": 29.9
     }
    ],
@@ -20724,13 +21079,13 @@
    "name": "Akasa AK-955A-BV2 CPU-Kühler",
    "source": "crawler",
    "url": "https://www.caseking.de/akasa-ak-955a-bv2-cpu-kuehler/CPAK-052.html",
-   "stand": "2026-11-17T20:09",
+   "stand": "2026-11-19T17:29",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 32.9,
      "ship": null,
-     "avail": "Auf Lager",
+     "avail": "Vorbestellung",
      "url": "https://www.caseking.de/akasa-ak-955a-bv2-cpu-kuehler/CPAK-052.html"
     }
    ],
@@ -20780,6 +21135,10 @@
     {
      "d": "2026-11-17",
      "p": 32.9
+    },
+    {
+     "d": "2026-11-19",
+     "p": 32.9
     }
    ],
    "count": 1,
@@ -20792,15 +21151,15 @@
    "sub": "Luftkühler",
    "name": "SilverStone SST-AR10-115XP CPU-Kühler - 70 mm",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/silverstone-sst-ar10-115xp-cpu-cooler-70-mm/CPSI-034.html",
-   "stand": "2026-11-17T18:04",
+   "url": "https://www.caseking.de/silverstone-sst-ar10-115xp-cpu-kuehler-70-mm/CPSI-034.html",
+   "stand": "2026-11-19T17:29",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 32.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/silverstone-sst-ar10-115xp-cpu-cooler-70-mm/CPSI-034.html"
+     "url": "https://www.caseking.de/silverstone-sst-ar10-115xp-cpu-kuehler-70-mm/CPSI-034.html"
     }
    ],
    "price": 32.9,
@@ -20848,6 +21207,10 @@
     },
     {
      "d": "2026-11-17",
+     "p": 32.9
+    },
+    {
+     "d": "2026-11-19",
      "p": 32.9
     }
    ],
@@ -22883,15 +23246,15 @@
    "sub": "Luftkühler",
    "name": "Silverstone SST-XE01-1700A CPU Kühler",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/silverstone-sst-xe01-1700a-cpu-cooler/CPSI-072.html",
-   "stand": "2026-11-17T21:57",
+   "url": "https://www.caseking.de/silverstone-sst-xe01-1700a-cpu-kuehler/CPSI-072.html",
+   "stand": "2026-11-19T17:29",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 35.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/silverstone-sst-xe01-1700a-cpu-cooler/CPSI-072.html"
+     "url": "https://www.caseking.de/silverstone-sst-xe01-1700a-cpu-kuehler/CPSI-072.html"
     }
    ],
    "price": 35.9,
@@ -22939,6 +23302,10 @@
     },
     {
      "d": "2026-11-17",
+     "p": 35.9
+    },
+    {
+     "d": "2026-11-19",
      "p": 35.9
     }
    ],
@@ -23067,7 +23434,7 @@
    "name": "Alpenföhn Brocken 4 ARGB CPU-Kühler - 120mm, weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/alpenfoehn-brocken-4-argb-cpu-kuehler-120mm-weiss/CPAF-061.html",
-   "stand": "2026-11-17T20:09",
+   "stand": "2026-11-19T17:29",
    "offers": [
     {
      "shop": "caseking.de",
@@ -23123,6 +23490,10 @@
     {
      "d": "2026-11-17",
      "p": 36.9
+    },
+    {
+     "d": "2026-11-19",
+     "p": 36.9
     }
    ],
    "count": 1,
@@ -23136,7 +23507,7 @@
    "name": "Akasa AK-CC6606BP01 Low Profile CPU-Kühler - Sockel LGA 1700, 63,2mm hoch",
    "source": "crawler",
    "url": "https://www.caseking.de/akasa-ak-cc6606bp01-low-profile-cpu-kuehler-sockel-lga-1700-63-2mm-hoch/CPAK-059.html",
-   "stand": "2026-11-17T20:09",
+   "stand": "2026-11-19T17:29",
    "offers": [
     {
      "shop": "caseking.de",
@@ -23192,6 +23563,10 @@
     {
      "d": "2026-11-17",
      "p": 36.9
+    },
+    {
+     "d": "2026-11-19",
+     "p": 36.9
     }
    ],
    "count": 1,
@@ -23204,15 +23579,15 @@
    "sub": "Luftkühler",
    "name": "SilverStone AR12-TUF CPU-Kühler, ARGB - 120mm",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/silverstone-ar12-tuf-cpu-cooler-argb-120mm/CPSI-061.html",
-   "stand": "2026-11-17T20:09",
+   "url": "https://www.caseking.de/silverstone-ar12-tuf-cpu-kuehler-argb-120mm/CPSI-061.html",
+   "stand": "2026-11-19T17:29",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 36.9,
      "ship": null,
      "avail": "Vorbestellung",
-     "url": "https://www.caseking.de/en/silverstone-ar12-tuf-cpu-cooler-argb-120mm/CPSI-061.html"
+     "url": "https://www.caseking.de/silverstone-ar12-tuf-cpu-kuehler-argb-120mm/CPSI-061.html"
     }
    ],
    "price": 36.9,
@@ -23260,6 +23635,10 @@
     },
     {
      "d": "2026-11-17",
+     "p": 36.9
+    },
+    {
+     "d": "2026-11-19",
      "p": 36.9
     }
    ],
@@ -24472,15 +24851,15 @@
    "sub": "Luftkühler",
    "name": "Silverstone SST-ARV140-ARGB CPU-Kühler",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/silverstone-sst-arv140-argb-cpu-cooler/CPSI-075.html",
-   "stand": "2026-11-17T21:57",
+   "url": "https://www.caseking.de/silverstone-sst-arv140-argb-cpu-kuehler/CPSI-075.html",
+   "stand": "2026-11-19T17:29",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 39.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/silverstone-sst-arv140-argb-cpu-cooler/CPSI-075.html"
+     "url": "https://www.caseking.de/silverstone-sst-arv140-argb-cpu-kuehler/CPSI-075.html"
     }
    ],
    "price": 39.9,
@@ -24528,6 +24907,10 @@
     },
     {
      "d": "2026-11-17",
+     "p": 39.9
+    },
+    {
+     "d": "2026-11-19",
      "p": 39.9
     }
    ],
@@ -26658,15 +27041,15 @@
    "sub": "Luftkühler",
    "name": "Thermalright Peerless Assassin 120 SE CPU-Kühler - 120mm",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/thermalright-peerless-assassin-120-se-cpu-cooler-120mm/CPTR-103.html",
-   "stand": "2026-11-18T08:23",
+   "url": "https://www.caseking.de/thermalright-peerless-assassin-120-se-cpu-kuehler-120mm/CPTR-103.html",
+   "stand": "2026-11-19T17:29",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 43.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/thermalright-peerless-assassin-120-se-cpu-cooler-120mm/CPTR-103.html"
+     "url": "https://www.caseking.de/thermalright-peerless-assassin-120-se-cpu-kuehler-120mm/CPTR-103.html"
     }
    ],
    "price": 43.9,
@@ -26726,6 +27109,10 @@
     },
     {
      "d": "2026-11-18",
+     "p": 43.9
+    },
+    {
+     "d": "2026-11-19",
      "p": 43.9
     }
    ],
@@ -26967,7 +27354,7 @@
    "name": "Akasa Alucia H4 High Performance CPU Kühler, 120mm",
    "source": "crawler",
    "url": "https://www.caseking.de/akasa-alucia-h4-high-performance-cpu-kuehler-120mm/CPAK-060.html",
-   "stand": "2026-11-17T21:57",
+   "stand": "2026-11-19T17:29",
    "offers": [
     {
      "shop": "caseking.de",
@@ -27022,6 +27409,10 @@
     },
     {
      "d": "2026-11-17",
+     "p": 44.9
+    },
+    {
+     "d": "2026-11-19",
      "p": 44.9
     }
    ],
@@ -28254,15 +28645,15 @@
    "sub": "Luftkühler",
    "name": "Silverstone SST-AR10-1700 CPU-Kühler",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/silverstone-sst-ar10-1700-cpu-cooler/CPSI-076.html",
-   "stand": "2026-11-17T21:57",
+   "url": "https://www.caseking.de/silverstone-sst-ar10-1700-cpu-kuehler/CPSI-076.html",
+   "stand": "2026-11-19T17:29",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 47.9,
      "ship": null,
      "avail": "Vorbestellung",
-     "url": "https://www.caseking.de/en/silverstone-sst-ar10-1700-cpu-cooler/CPSI-076.html"
+     "url": "https://www.caseking.de/silverstone-sst-ar10-1700-cpu-kuehler/CPSI-076.html"
     }
    ],
    "price": 47.9,
@@ -28310,6 +28701,10 @@
     },
     {
      "d": "2026-11-17",
+     "p": 47.9
+    },
+    {
+     "d": "2026-11-19",
      "p": 47.9
     }
    ],
@@ -28828,15 +29223,15 @@
    "sub": "Luftkühler",
    "name": "SilverStone SST-HYH90-ARGB - Hydrogon CPU Kühler, ARGB - 92mm",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/silverstone-sst-hyh90-argb-hydrogon-cpu-cooler-argb-92mm/CPSI-062.html",
-   "stand": "2026-11-17T20:09",
+   "url": "https://www.caseking.de/silverstone-sst-hyh90-argb-hydrogon-cpu-kuehler-argb-92mm/CPSI-062.html",
+   "stand": "2026-11-19T17:29",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 49.9,
      "ship": null,
      "avail": "Vorbestellung",
-     "url": "https://www.caseking.de/en/silverstone-sst-hyh90-argb-hydrogon-cpu-cooler-argb-92mm/CPSI-062.html"
+     "url": "https://www.caseking.de/silverstone-sst-hyh90-argb-hydrogon-cpu-kuehler-argb-92mm/CPSI-062.html"
     }
    ],
    "price": 49.9,
@@ -28884,6 +29279,10 @@
     },
     {
      "d": "2026-11-17",
+     "p": 49.9
+    },
+    {
+     "d": "2026-11-19",
      "p": 49.9
     }
    ],
@@ -30435,7 +30834,7 @@
    "name": "Alpenföhn Brocken 4 Max ARGB CPU-Kühler - 2x 120mm, weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/alpenfoehn-brocken-4-max-argb-cpu-kuehler-2x-120mm-weiss/CPAF-063.html",
-   "stand": "2026-11-17T20:09",
+   "stand": "2026-11-19T17:29",
    "offers": [
     {
      "shop": "caseking.de",
@@ -30491,79 +30890,14 @@
     {
      "d": "2026-11-17",
      "p": 50.9
+    },
+    {
+     "d": "2026-11-19",
+     "p": 50.9
     }
    ],
    "count": 1,
    "tags": "kuhlung luftkuhler alpenfohn brocken max argb cpu kuhler 120mm weiss",
-   "firstSeen": "2026-10-29"
-  },
-  {
-   "id": "c-be-quiet-pure-rock-pro-3-lx-cpu-kuhler-120mm-schwarz",
-   "cat": "Kühlung",
-   "sub": "Luftkühler",
-   "name": "be quiet! Pure Rock Pro 3 LX CPU-Kühler - 120mm, schwarz",
-   "source": "crawler",
-   "url": "https://www.caseking.de/be-quiet-pure-rock-pro-3-lx-cpu-kuehler-120mm-schwarz/CPBQ-035.html",
-   "stand": "2026-11-18T12:02",
-   "offers": [
-    {
-     "shop": "caseking.de",
-     "price": 50.9,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.caseking.de/be-quiet-pure-rock-pro-3-lx-cpu-kuehler-120mm-schwarz/CPBQ-035.html"
-    }
-   ],
-   "price": 50.9,
-   "shop": "caseking.de",
-   "hist": [
-    {
-     "d": "2026-10-29",
-     "p": 44.9
-    },
-    {
-     "d": "2026-10-30",
-     "p": 44.9
-    },
-    {
-     "d": "2026-11-01",
-     "p": 44.9
-    },
-    {
-     "d": "2026-11-03",
-     "p": 50.9
-    },
-    {
-     "d": "2026-11-04",
-     "p": 50.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 50.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 50.9
-    },
-    {
-     "d": "2026-11-11",
-     "p": 50.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 50.9
-    },
-    {
-     "d": "2026-11-15",
-     "p": 50.9
-    },
-    {
-     "d": "2026-11-18",
-     "p": 50.9
-    }
-   ],
-   "count": 1,
-   "tags": "kuhlung luftkuhler quiet pure rock pro cpu kuhler 120mm schwarz",
    "firstSeen": "2026-10-29"
   },
   {
@@ -38136,6 +38470,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-patriot-dimm-8-gb-ddr4-2666-arbeitsspeicher",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR4",
+   "name": "Patriot DIMM 8 GB DDR4-2666 , Arbeitsspeicher",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Patriot/DIMM-8-GB-DDR4-2666-Arbeitsspeicher/html/product/1443577",
+   "stand": "2026-11-19T17:29",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 70.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Patriot/DIMM-8-GB-DDR4-2666-Arbeitsspeicher/html/product/1443577"
+    }
+   ],
+   "price": 70.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 70.9
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr4 patriot dimm 2666",
+   "firstSeen": "2026-11-19"
+  },
+  {
    "id": "c-msi-spatium-s270-sata-ssd-240-gb-2-5",
    "cat": "SSDs",
    "sub": "SATA 240 GB",
@@ -38308,15 +38671,15 @@
    "sub": "Luftkühler",
    "name": "SilverStone SST-NT06-PRO-V2 Nitrogon CPU-Kühler - 120 mm",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/silverstone-sst-nt06-pro-v2-nitrogon-cpu-cooler-120-mm/CPSI-042.html",
-   "stand": "2026-11-17T18:04",
+   "url": "https://www.caseking.de/silverstone-sst-nt06-pro-v2-nitrogon-cpu-kuehler-120-mm/CPSI-042.html",
+   "stand": "2026-11-19T17:29",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 71.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/silverstone-sst-nt06-pro-v2-nitrogon-cpu-cooler-120-mm/CPSI-042.html"
+     "url": "https://www.caseking.de/silverstone-sst-nt06-pro-v2-nitrogon-cpu-kuehler-120-mm/CPSI-042.html"
     }
    ],
    "price": 71.9,
@@ -38364,6 +38727,10 @@
     },
     {
      "d": "2026-11-17",
+     "p": 71.9
+    },
+    {
+     "d": "2026-11-19",
      "p": 71.9
     }
    ],
@@ -46620,73 +46987,33 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-be-quiet-dark-rock-pro-6-cpu-kuhler-dual-tower-pwm-1x-120-1x",
-   "cat": "Kühlung",
-   "sub": "Luftkühler",
-   "name": "Be quiet! Dark Rock Pro 6 CPU-Kühler, Dual-Tower, PWM - 1x 120/1x 135mm, schwarz",
+   "id": "c-corsair-vengeance-lpx-8-gb-ram-ddr4-3200-mhz-cl16-dimm-288-p",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR4",
+   "name": "Corsair Vengeance LPX 8 GB RAM DDR4 3200 MHz CL16 DIMM 288-Pin Schwarz",
    "source": "crawler",
-   "url": "https://www.caseking.de/be-quiet-dark-rock-pro-6-cpu-kuehler-dual-tower-pwm-1x-120-1x-135mm-schwarz/CPBQ-039.html",
-   "stand": "2026-11-18T12:02",
+   "url": "https://www.jacob.de/produkt/corsair-vengeance-lpx-8-gb-ram-ddr4-3200-mhz-cl16-dimm-288-pin-schwarz-7964379/",
+   "stand": "2026-11-19T17:29",
    "offers": [
     {
-     "shop": "caseking.de",
-     "price": 92.9,
+     "shop": "JACOB Elektronik GmbH",
+     "price": 92.84,
      "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.caseking.de/be-quiet-dark-rock-pro-6-cpu-kuehler-dual-tower-pwm-1x-120-1x-135mm-schwarz/CPBQ-039.html"
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/corsair-vengeance-lpx-8-gb-ram-ddr4-3200-mhz-cl16-dimm-288-pin-schwarz-7964379/"
     }
    ],
-   "price": 92.9,
-   "shop": "caseking.de",
+   "price": 92.84,
+   "shop": "JACOB Elektronik GmbH",
    "hist": [
     {
-     "d": "2026-10-29",
-     "p": 92.9
-    },
-    {
-     "d": "2026-10-30",
-     "p": 92.9
-    },
-    {
-     "d": "2026-11-01",
-     "p": 92.9
-    },
-    {
-     "d": "2026-11-03",
-     "p": 92.9
-    },
-    {
-     "d": "2026-11-04",
-     "p": 92.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 92.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 92.9
-    },
-    {
-     "d": "2026-11-11",
-     "p": 92.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 92.9
-    },
-    {
-     "d": "2026-11-15",
-     "p": 92.9
-    },
-    {
-     "d": "2026-11-18",
-     "p": 92.9
+     "d": "2026-11-19",
+     "p": 92.84
     }
    ],
    "count": 1,
-   "tags": "kuhlung luftkuhler quiet dark rock pro cpu kuhler dual tower pwm 120 135mm schwarz",
-   "firstSeen": "2026-10-29"
+   "tags": "arbeitsspeicher ddr4 corsair vengeance lpx ram 3200 mhz cl16 dimm 288 pin schwarz",
+   "firstSeen": "2026-11-19"
   },
   {
    "id": "c-be-quiet-pure-power-13m-80-plus-gold-netzteil-atx-3-1-pcie-5-l0ho6",
@@ -47818,6 +48145,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-qnap-qnap-zub-lufter-fan-12cm-t01-120x120x25m-cpu-kuhler-mit",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "QNAP QNAP ZUB Lüfter FAN-12CM-T01 120x120x25m CPU-Kühler mit Lüfter",
+   "source": "crawler",
+   "url": "https://www.conrad.de/de/p/qnap-qnap-zub-luefter-fan-12cm-t01-120x120x25m-cpu-kuehler-mit-luefter-3766798.html",
+   "stand": "2026-11-19T17:29",
+   "offers": [
+    {
+     "shop": "Conrad",
+     "price": 96.65,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.conrad.de/de/p/qnap-qnap-zub-luefter-fan-12cm-t01-120x120x25m-cpu-kuehler-mit-luefter-3766798.html"
+    }
+   ],
+   "price": 96.65,
+   "shop": "Conrad",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 96.65
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler qnap zub lufter fan 12cm t01 120x120x25m cpu kuhler mit",
+   "firstSeen": "2026-11-19"
+  },
+  {
    "id": "c-hp-v24v-g5-23-8-full-hd-monitor-schwarz",
    "cat": "Monitore",
    "sub": "23,8\"",
@@ -48162,7 +48518,7 @@
    "name": "Intel Core i3-14100F 3,5 GHz (Raptor Lake Refresh) Sockel 1700 - boxed",
    "source": "crawler",
    "url": "https://www.caseking.de/en/intel-core-i3-14100f-3.5-ghz-raptor-lake-refresh-socket-1700-boxed/HPIT-818.html",
-   "stand": "2026-11-17T11:55",
+   "stand": "2026-11-19T17:29",
    "offers": [
     {
      "shop": "caseking.de",
@@ -48205,6 +48561,10 @@
     },
     {
      "d": "2026-11-17",
+     "p": 98.1
+    },
+    {
+     "d": "2026-11-19",
      "p": 98.1
     }
    ],
@@ -51355,15 +51715,15 @@
    "sub": "Luftkühler",
    "name": "Silverstone SST-XE04-4189B CPU-Kühler",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/silverstone-sst-xe04-4189b-cpu-cooler/CPSI-077.html",
-   "stand": "2026-11-17T21:57",
+   "url": "https://www.caseking.de/silverstone-sst-xe04-4189b-cpu-kuehler/CPSI-077.html",
+   "stand": "2026-11-19T17:29",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 102.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/silverstone-sst-xe04-4189b-cpu-cooler/CPSI-077.html"
+     "url": "https://www.caseking.de/silverstone-sst-xe04-4189b-cpu-kuehler/CPSI-077.html"
     }
    ],
    "price": 102.9,
@@ -51411,6 +51771,10 @@
     },
     {
      "d": "2026-11-17",
+     "p": 102.9
+    },
+    {
+     "d": "2026-11-19",
      "p": 102.9
     }
    ],
@@ -53555,75 +53919,6 @@
    "firstSeen": "2026-11-05"
   },
   {
-   "id": "c-noctua-nh-d15s-chromax-black-cpu-kuhler-140mm",
-   "cat": "Kühlung",
-   "sub": "Luftkühler",
-   "name": "Noctua NH-D15S chromax.black CPU-Kühler - 140mm",
-   "source": "crawler",
-   "url": "https://www.caseking.de/noctua-nh-d15s-chromax.black-cpu-kuehler-140mm/CPNA-065.html",
-   "stand": "2026-11-18T20:02",
-   "offers": [
-    {
-     "shop": "caseking.de",
-     "price": 109.9,
-     "ship": null,
-     "avail": "Vorbestellung",
-     "url": "https://www.caseking.de/noctua-nh-d15s-chromax.black-cpu-kuehler-140mm/CPNA-065.html"
-    }
-   ],
-   "price": 109.9,
-   "shop": "caseking.de",
-   "hist": [
-    {
-     "d": "2026-10-29",
-     "p": 109.9
-    },
-    {
-     "d": "2026-10-30",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-01",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-03",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-07",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-09",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-11",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-16",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-18",
-     "p": 109.9
-    }
-   ],
-   "count": 1,
-   "tags": "kuhlung luftkuhler noctua d15s chromax black cpu kuhler 140mm",
-   "firstSeen": "2026-10-29"
-  },
-  {
    "id": "c-noctua-nh-d12l-chromax-black-cpu-kuhler-120mm",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -54466,15 +54761,15 @@
    "sub": "Intel LGA1700",
    "name": "Intel Core i3-14100 3,5 GHz (Raptor Lake Refresh) Sockel 1700 - boxed",
    "source": "crawler",
-   "url": "https://www.caseking.de/intel-core-i3-14100-3-5-ghz-raptor-lake-refresh-sockel-1700-boxed/HPIT-817.html",
-   "stand": "2026-11-19T16:04",
+   "url": "https://www.caseking.de/en/intel-core-i3-14100-3.5-ghz-raptor-lake-refresh-socket-1700-boxed/HPIT-817.html",
+   "stand": "2026-11-19T17:29",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 111.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/intel-core-i3-14100-3-5-ghz-raptor-lake-refresh-sockel-1700-boxed/HPIT-817.html"
+     "url": "https://www.caseking.de/en/intel-core-i3-14100-3.5-ghz-raptor-lake-refresh-socket-1700-boxed/HPIT-817.html"
     }
    ],
    "price": 111.9,
@@ -78609,15 +78904,15 @@
    "sub": "Luftkühler",
    "name": "SilverStone SST-XED120S-WS CPU-Kühler, 4U-Formfaktor - silber",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/silverstone-sst-xed120s-ws-cpu-cooler-4u-form-factor-silver/CPSI-078.html",
-   "stand": "2026-11-17T21:57",
+   "url": "https://www.caseking.de/silverstone-sst-xed120s-ws-cpu-kuehler-4u-formfaktor-silber/CPSI-078.html",
+   "stand": "2026-11-19T17:29",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 169.9,
      "ship": null,
      "avail": "Vorbestellung",
-     "url": "https://www.caseking.de/en/silverstone-sst-xed120s-ws-cpu-cooler-4u-form-factor-silver/CPSI-078.html"
+     "url": "https://www.caseking.de/silverstone-sst-xed120s-ws-cpu-kuehler-4u-formfaktor-silber/CPSI-078.html"
     }
    ],
    "price": 169.9,
@@ -78665,6 +78960,10 @@
     },
     {
      "d": "2026-11-17",
+     "p": 169.9
+    },
+    {
+     "d": "2026-11-19",
      "p": 169.9
     }
    ],
@@ -85702,6 +86001,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler asus rog ryujin iii cpu kuhler",
    "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "c-kingston-fury-beast-kf556c36bbe-8-8-gb-ram-ddr5-5600-mt-s-sc",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5",
+   "name": "Kingston FURY Beast KF556C36BBE-8 8 GB RAM DDR5 5600 MT/s Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/kingston-fury-beast-kf556c36bbe-8-8-gb-ram-ddr5-5600-mt-s-schwarz-8141428/",
+   "stand": "2026-11-19T17:29",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 196.58,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/kingston-fury-beast-kf556c36bbe-8-8-gb-ram-ddr5-5600-mt-s-schwarz-8141428/"
+    }
+   ],
+   "price": 196.58,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 196.58
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 kingston fury beast kf556c36bbe ram 5600 schwarz",
+   "firstSeen": "2026-11-19"
   },
   {
    "id": "c-gigabyte-b860m-aorus-elite-wifi6e-mainboard-sockel-1851-inte",
@@ -96735,6 +97063,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-xpg-caster-ddr5-16-gb-ram-6000-mt-s-cl30-wolframgrau",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 16 GB",
+   "name": "XPG CASTER DDR5 16 GB RAM 6000 MT/s CL30 Wolframgrau",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/xpg-caster-ddr5-16-gb-ram-6000-mt-s-cl30-wolframgrau-100678844/",
+   "stand": "2026-11-19T17:29",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 243.76,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/xpg-caster-ddr5-16-gb-ram-6000-mt-s-cl30-wolframgrau-100678844/"
+    }
+   ],
+   "price": 243.76,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 243.76
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 16 gb xpg caster ddr5 ram 6000 cl30 wolframgrau",
+   "firstSeen": "2026-11-19"
+  },
+  {
    "id": "c-intel-core-i5-14400t-1-5-ghz-raptor-lake-refresh-sockel-1700",
    "cat": "Prozessoren",
    "sub": "Intel LGA1700",
@@ -97790,6 +98147,35 @@
    "count": 1,
    "tags": "mainboards intel lga1851 b860 asus rog strix b860 gaming wifi mainboard sockel lga 1851 intel atx ddr5",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-kingston-fury-beast-rgb-8-gb-ram-ddr5-6000-mt-s-cl36-schwarz",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5",
+   "name": "Kingston FURY Beast RGB 8 GB RAM DDR5 6000 MT/s CL36 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/kingston-fury-beast-rgb-8-gb-ram-ddr5-6000-mt-s-cl36-schwarz-8141445/",
+   "stand": "2026-11-19T17:29",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 249.39,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/kingston-fury-beast-rgb-8-gb-ram-ddr5-6000-mt-s-cl36-schwarz-8141445/"
+    }
+   ],
+   "price": 249.39,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 249.39
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 kingston fury beast rgb ram 6000 cl36 schwarz",
+   "firstSeen": "2026-11-19"
   },
   {
    "id": "c-asus-rog-strix-1000w-platinum-80-plus-platinum-netzteil-modu",
@@ -105750,59 +106136,6 @@
    "firstSeen": "2026-11-06"
   },
   {
-   "id": "c-asus-proart-lc-420-aio-cooler-black",
-   "cat": "Kühlung",
-   "sub": "AiO-Wasserkühlung",
-   "name": "ASUS ProArt LC 420 AIO Cooler - black",
-   "source": "crawler",
-   "url": "https://www.caseking.de/en/asus-proart-lc-420-aio-cooler-black/WASE-860.html",
-   "stand": "2026-11-19T10:11",
-   "offers": [
-    {
-     "shop": "caseking.de",
-     "price": 319.9,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/asus-proart-lc-420-aio-cooler-black/WASE-860.html"
-    }
-   ],
-   "price": 319.9,
-   "shop": "caseking.de",
-   "hist": [
-    {
-     "d": "2026-11-06",
-     "p": 319.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 319.9
-    },
-    {
-     "d": "2026-11-10",
-     "p": 319.9
-    },
-    {
-     "d": "2026-11-12",
-     "p": 319.9
-    },
-    {
-     "d": "2026-11-14",
-     "p": 319.9
-    },
-    {
-     "d": "2026-11-16",
-     "p": 319.9
-    },
-    {
-     "d": "2026-11-19",
-     "p": 319.9
-    }
-   ],
-   "count": 1,
-   "tags": "kuhlung aio-wasserkuhlung asus proart 420 aio cooler black",
-   "firstSeen": "2026-11-06"
-  },
-  {
    "id": "c-samsung-viewfinity-s6-s27d600eau-27-quad-hd-ips-monitor-100-",
    "cat": "Monitore",
    "sub": "27\"",
@@ -106236,6 +106569,35 @@
    "count": 1,
    "tags": "monitore 27\" asus rog strix xg27ucs zoll gaming monitor 160hz ips sync compatible",
    "firstSeen": "2026-11-15"
+  },
+  {
+   "id": "c-g-skill-flare-x5-ddr5-16-gb-2x8-gb-6000-mt-s-cl30-dimm-schwa",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 16 GB",
+   "name": "G.Skill Flare X5 DDR5 16 GB (2x8 GB) 6000 MT/s CL30 DIMM Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/g-skill-flare-x5-ddr5-16-gb-2x8-gb-6000-mt-s-cl30-dimm-schwarz-100692478/",
+   "stand": "2026-11-19T17:29",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 326.14,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/g-skill-flare-x5-ddr5-16-gb-2x8-gb-6000-mt-s-cl30-dimm-schwarz-100692478/"
+    }
+   ],
+   "price": 326.14,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 326.14
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 16 gb skill flare ddr5 2x8 6000 cl30 dimm schwarz",
+   "firstSeen": "2026-11-19"
   },
   {
    "id": "c-intel-core-i7-14700f-prozessor-2-1-ghz-20-kerne-lga-1700",
@@ -108246,6 +108608,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-kingston-fury-beast-rgb-ddr5-16-gb-5600-mt-s-cl36-dimm-288-p",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 16 GB",
+   "name": "Kingston FURY Beast RGB DDR5 16 GB 5600 MT/s CL36 DIMM 288-Pin Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/kingston-fury-beast-rgb-ddr5-16-gb-5600-mt-s-cl36-dimm-288-pin-schwarz-8025063/",
+   "stand": "2026-11-19T17:29",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 343.12,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/kingston-fury-beast-rgb-ddr5-16-gb-5600-mt-s-cl36-dimm-288-pin-schwarz-8025063/"
+    }
+   ],
+   "price": 343.12,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 343.12
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 16 gb kingston fury beast rgb ddr5 5600 cl36 dimm 288 pin schwarz",
+   "firstSeen": "2026-11-19"
+  },
+  {
    "id": "c-asus-rog-strix-b850-e-gaming-wifi-mainboard-atx-sockel-am5-a",
    "cat": "Mainboards",
    "sub": "AM5 B850",
@@ -109798,6 +110189,35 @@
    "count": 1,
    "tags": "monitore 23,8\" asus be24ecsbt led monitor schwarz energieklasse 90lm05m1 b0b370",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-transcend-jetram-jm4800ale-16g-speichermodul-16-gb-ddr5-4800",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 16 GB",
+   "name": "Transcend JetRAM JM4800ALE-16G Speichermodul 16 GB DDR5 4800 MHz DIMM 288-Pin CL40",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/transcend-jetram-jm4800ale-16g-speichermodul-16-gb-ddr5-4800-mhz-dimm-288-pin-cl40-7840595/",
+   "stand": "2026-11-19T17:29",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 359.78,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/transcend-jetram-jm4800ale-16g-speichermodul-16-gb-ddr5-4800-mhz-dimm-288-pin-cl40-7840595/"
+    }
+   ],
+   "price": 359.78,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 359.78
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 16 gb transcend jetram jm4800ale 16g speichermodul ddr5 4800 mhz dimm 288 pin cl40",
+   "firstSeen": "2026-11-19"
   },
   {
    "id": "c-asus-rog-hyperion-gr701-big-tower-tempered-glass-weiss",
@@ -115190,6 +115610,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-renkforce-pc-tuning-kit-intel-core-i5-12400-4-4-ghz-16-gb-dd",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR4 16 GB",
+   "name": "Renkforce PC Tuning-Kit Intel® Core™ i5-12400 4.4 GHz 16 GB DDR4-RAM M.2 PCIe Micro-ATX",
+   "source": "crawler",
+   "url": "https://www.conrad.de/de/p/renkforce-pc-tuning-kit-intel-core-i5-12400-4-4-ghz-16-gb-ddr4-ram-m-2-pcie-micro-atx-3333811.html",
+   "stand": "2026-11-19T17:29",
+   "offers": [
+    {
+     "shop": "Conrad",
+     "price": 415.97,
+     "ship": 0,
+     "avail": "Auf Lager",
+     "url": "https://www.conrad.de/de/p/renkforce-pc-tuning-kit-intel-core-i5-12400-4-4-ghz-16-gb-ddr4-ram-m-2-pcie-micro-atx-3333811.html"
+    }
+   ],
+   "price": 415.97,
+   "shop": "Conrad",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 415.97
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr4 16 gb renkforce tuning kit intel core 12400 ghz ddr4 ram pcie micro atx",
+   "firstSeen": "2026-11-19"
+  },
+  {
    "id": "c-sharp-multisync-ea242f-23-8-ips-led-monitor-1920-x-1080-schw",
    "cat": "Monitore",
    "sub": "23,8\"",
@@ -117991,6 +118440,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-innovation-it-pc-intel-i3-14100-ssd-m-2-nvme-core-i3-core-i3",
+   "cat": "SSDs",
+   "sub": "NVMe",
+   "name": "INNOVATION IT - PC Intel i3-14100 SSD M.2 NVMe - Core i3 - Core i3 - 16 GB",
+   "source": "crawler",
+   "url": "https://www.conrad.de/de/p/innovation-it-pc-intel-i3-14100-ssd-m-2-nvme-core-i3-core-i3-16-gb-3839436.html",
+   "stand": "2026-11-19T17:29",
+   "offers": [
+    {
+     "shop": "Conrad",
+     "price": 478.15,
+     "ship": 0,
+     "avail": "Auf Lager",
+     "url": "https://www.conrad.de/de/p/innovation-it-pc-intel-i3-14100-ssd-m-2-nvme-core-i3-core-i3-16-gb-3839436.html"
+    }
+   ],
+   "price": 478.15,
+   "shop": "Conrad",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 478.15
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme innovation intel 14100 ssd core",
+   "firstSeen": "2026-11-19"
+  },
+  {
    "id": "c-asus-rog-strix-oled-xg27aqwmg-26-5-zoll-wqhd-gaming-monitor-",
    "cat": "Monitore",
    "sub": "26,5\"",
@@ -119031,6 +119509,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-corsair-vengeance-cmk32gx5m2f6000z36-32-gb-ram-2x-16-gb-ddr5",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 32 GB",
+   "name": "Corsair Vengeance CMK32GX5M2F6000Z36 32 GB RAM 2x 16 GB DDR5 6000 MT/s CL36 Grau",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/corsair-vengeance-cmk32gx5m2f6000z36-32-gb-ram-2x-16-gb-ddr5-6000-mt-s-cl36-grau-100686658/",
+   "stand": "2026-11-19T17:29",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 501.09,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/corsair-vengeance-cmk32gx5m2f6000z36-32-gb-ram-2x-16-gb-ddr5-6000-mt-s-cl36-grau-100686658/"
+    }
+   ],
+   "price": 501.09,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 501.09
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 32 gb corsair vengeance cmk32gx5m2f6000z36 ram ddr5 6000 cl36 grau",
+   "firstSeen": "2026-11-19"
+  },
+  {
    "id": "c-western-digital-wd-red-sa500-wds200t2r0a-2-tb-ssd-2-5-sata",
    "cat": "SSDs",
    "sub": "SATA 2 TB",
@@ -119537,6 +120044,35 @@
    "count": 1,
    "tags": "monitore 40\" philips 5000 series 40b1u5600 ultrawide office monitor ips 3440 1440 120 usb lautsprecher schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-renkforce-pc-tuning-kit-intel-core-i5-14600k-5-3-ghz-16-gb-d",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR4 16 GB",
+   "name": "Renkforce PC Tuning-Kit Intel® Core™ i5 14600K 5.3 GHz 16 GB DDR4-RAM Micro-ATX",
+   "source": "crawler",
+   "url": "https://www.conrad.de/de/p/renkforce-pc-tuning-kit-intel-core-i5-14600k-5-3-ghz-16-gb-ddr4-ram-micro-atx-3742054.html",
+   "stand": "2026-11-19T17:29",
+   "offers": [
+    {
+     "shop": "Conrad",
+     "price": 516.81,
+     "ship": 0,
+     "avail": "Auf Lager",
+     "url": "https://www.conrad.de/de/p/renkforce-pc-tuning-kit-intel-core-i5-14600k-5-3-ghz-16-gb-ddr4-ram-micro-atx-3742054.html"
+    }
+   ],
+   "price": 516.81,
+   "shop": "Conrad",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 516.81
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr4 16 gb renkforce tuning kit intel core 14600k ghz ddr4 ram micro atx",
+   "firstSeen": "2026-11-19"
   },
   {
    "id": "c-asus-proart-z890-creator-wifi-intel-z890-lga-1851-ddr5-atx-s",
@@ -123192,6 +123728,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-adata-dimm-32-gb-ddr5-5600-2x-16-gb-dual-kit-arbeitsspeicher",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 32 GB",
+   "name": "ADATA DIMM 32 GB DDR5-5600 (2x 16 GB) Dual-Kit, Arbeitsspeicher",
+   "source": "crawler",
+   "url": "https://www.alternate.de/XPG/DIMM-32-GB-DDR5-5600-2x-16-GB-Dual-Kit-Arbeitsspeicher/html/product/100011573",
+   "stand": "2026-11-19T17:29",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 592,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/XPG/DIMM-32-GB-DDR5-5600-2x-16-GB-Dual-Kit-Arbeitsspeicher/html/product/100011573"
+    }
+   ],
+   "price": 592,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 592
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 32 gb adata dimm ddr5 5600 dual kit",
+   "firstSeen": "2026-11-19"
+  },
+  {
    "id": "c-asus-pro-ws-w680-ace-ipmi-mainboard-atx-lga-1700-intel-w680-",
    "cat": "Mainboards",
    "sub": "Mainboards",
@@ -124483,6 +125048,35 @@
    "count": 1,
    "tags": "grafikkarten geforce rtx 5060 ti zotac gaming geforce rtx 5060 amp 8192 gddr7",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-xpg-lancer-blade-ddr5-6000-32-gb-ram-2x-16-gb-kit-cl48-schwa",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 32 GB",
+   "name": "XPG LANCER BLADE DDR5-6000 32 GB RAM 2x 16 GB Kit CL48 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/xpg-lancer-blade-ddr5-6000-32-gb-ram-2x-16-gb-kit-cl48-schwarz-100596061/",
+   "stand": "2026-11-19T17:29",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 614.97,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/xpg-lancer-blade-ddr5-6000-32-gb-ram-2x-16-gb-kit-cl48-schwarz-100596061/"
+    }
+   ],
+   "price": 614.97,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 614.97
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 32 gb xpg lancer blade ddr5 6000 ram kit cl48 schwarz",
+   "firstSeen": "2026-11-19"
   },
   {
    "id": "c-benq-rd280u-28-2-4k-ips-monitor-schwarz",
@@ -127305,6 +127899,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-adata-dimm-32-gb-ddr5-6000-2x-16-gb-dual-kit-arbeitsspeicher",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 32 GB",
+   "name": "ADATA DIMM 32 GB DDR5-6000 (2x 16 GB) Dual-Kit, Arbeitsspeicher",
+   "source": "crawler",
+   "url": "https://www.alternate.de/XPG/DIMM-32-GB-DDR5-6000-2x-16-GB-Dual-Kit-Arbeitsspeicher/html/product/100011571",
+   "stand": "2026-11-19T17:29",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 676,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/XPG/DIMM-32-GB-DDR5-6000-2x-16-GB-Dual-Kit-Arbeitsspeicher/html/product/100011571"
+    }
+   ],
+   "price": 676,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 676
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 32 gb adata dimm ddr5 6000 dual kit",
+   "firstSeen": "2026-11-19"
+  },
+  {
    "id": "c-msi-meg-z890-ace-mainboard-atx-lga1851-ddr5-wi-fi-7-10g-lan-",
    "cat": "Mainboards",
    "sub": "Intel LGA1851 Z890",
@@ -127409,6 +128032,35 @@
    "count": 1,
    "tags": "prozessoren intel xeon silver 4214r server prozessor ghz core cache lga 3647 tray",
    "firstSeen": "2026-11-12"
+  },
+  {
+   "id": "c-kingston-fury-beast-rgb-32-gb-2-x-16-gb-ddr5-5200-cl40-dimm-",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 32 GB",
+   "name": "Kingston FURY Beast RGB 32 GB (2 x 16 GB) DDR5-5200 CL40 DIMM Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/kingston-fury-beast-rgb-32-gb-2-x-16-gb-ddr5-5200-cl40-dimm-schwarz-7826948/",
+   "stand": "2026-11-19T17:29",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 677.91,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/kingston-fury-beast-rgb-32-gb-2-x-16-gb-ddr5-5200-cl40-dimm-schwarz-7826948/"
+    }
+   ],
+   "price": 677.91,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 677.91
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 32 gb kingston fury beast rgb ddr5 5200 cl40 dimm schwarz",
+   "firstSeen": "2026-11-19"
   },
   {
    "id": "c-msi-mpg-272urxde-qd-oled-27-zoll-gaming-monitor-240hz-qd-ole",
@@ -127744,6 +128396,35 @@
    "firstSeen": "2026-10-31"
   },
   {
+   "id": "c-g-skill-ripjaws-s5-ddr5-32-gb-ram-kit-2x16-gb-6000-mhz-cl30-",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 32 GB",
+   "name": "G.Skill Ripjaws S5 DDR5 32 GB RAM Kit 2x16 GB 6000 MHz CL30 DIMM 288-Pin Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/g-skill-ripjaws-s5-ddr5-32-gb-ram-kit-2x16-gb-6000-mhz-cl30-dimm-288-pin-weiss-7881925/",
+   "stand": "2026-11-19T17:29",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 684.85,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/g-skill-ripjaws-s5-ddr5-32-gb-ram-kit-2x16-gb-6000-mhz-cl30-dimm-288-pin-weiss-7881925/"
+    }
+   ],
+   "price": 684.85,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 684.85
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 32 gb skill ripjaws ddr5 ram kit 2x16 6000 mhz cl30 dimm 288 pin weiss",
+   "firstSeen": "2026-11-19"
+  },
+  {
    "id": "c-samsung-odyssey-oled-g8-s27fg810su-27-oled-monitor-4k-uhd-24",
    "cat": "Monitore",
    "sub": "27\"",
@@ -128001,6 +128682,35 @@
    "firstSeen": "2026-11-15"
   },
   {
+   "id": "c-kingston-fury-beast-rgb-32-gb-2-x-16-gb-ddr5-5600-cl40-dimm-",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 32 GB",
+   "name": "Kingston FURY Beast RGB 32 GB (2 x 16 GB) DDR5-5600 CL40 DIMM Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/kingston-fury-beast-rgb-32-gb-2-x-16-gb-ddr5-5600-cl40-dimm-schwarz-7826954/",
+   "stand": "2026-11-19T17:29",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 695.52,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/kingston-fury-beast-rgb-32-gb-2-x-16-gb-ddr5-5600-cl40-dimm-schwarz-7826954/"
+    }
+   ],
+   "price": 695.52,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 695.52
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 32 gb kingston fury beast rgb ddr5 5600 cl40 dimm schwarz",
+   "firstSeen": "2026-11-19"
+  },
+  {
    "id": "c-kingston-fury-beast-ddr5-32-gb-ram-5600-mt-s-cl40-dimm-kit-s",
    "cat": "Arbeitsspeicher",
    "sub": "DDR5 32 GB",
@@ -128157,6 +128867,35 @@
    "count": 1,
    "tags": "grafikkarten intel arc pro b50 grafikkarte 16384 gddr6",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-t-force-deltaa-rgb-ddr5-32-gb-ram-6000-mhz-cl30-weiss",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 32 GB",
+   "name": "T-FORCE DELTAa RGB DDR5 32 GB RAM 6000 MHz CL30 Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/t-force-deltaa-rgb-ddr5-32-gb-ram-6000-mhz-cl30-weiss-100588759/",
+   "stand": "2026-11-19T17:29",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 702.89,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/t-force-deltaa-rgb-ddr5-32-gb-ram-6000-mhz-cl30-weiss-100588759/"
+    }
+   ],
+   "price": 702.89,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 702.89
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 32 gb force deltaa rgb ddr5 ram 6000 mhz cl30 weiss",
+   "firstSeen": "2026-11-19"
   },
   {
    "id": "c-intel-core-i9-14900ks-3-2-ghz-raptor-lake-refresh-sockel-170",
@@ -130586,6 +131325,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-g-skill-trident-z5-rgb-32-gb-ram-2x16-gb-ddr5-6000-mhz-cl36-",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 32 GB",
+   "name": "G.Skill Trident Z5 RGB 32 GB RAM 2x16 GB DDR5 6000 MHz CL36 Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/g-skill-trident-z5-rgb-32-gb-ram-2x16-gb-ddr5-6000-mhz-cl36-weiss-9385760/",
+   "stand": "2026-11-19T17:29",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 764.31,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/g-skill-trident-z5-rgb-32-gb-ram-2x16-gb-ddr5-6000-mhz-cl36-weiss-9385760/"
+    }
+   ],
+   "price": 764.31,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 764.31
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 32 gb skill trident rgb ram 2x16 ddr5 6000 mhz cl36 weiss",
+   "firstSeen": "2026-11-19"
+  },
+  {
    "id": "c-asus-dual-radeon-rx-9060-xt-white-edition-16384-mb-gddr6",
    "cat": "Grafikkarten",
    "sub": "Radeon RX 9060 XT",
@@ -132210,6 +132978,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-kingston-fury-renegade-rgb-32-gb-ddr5-6400-mt-s-cl32-dimm-ki",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 32 GB",
+   "name": "Kingston FURY Renegade RGB 32 GB DDR5 6400 MT/s CL32 DIMM Kit Schwarz/Silber",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/kingston-fury-renegade-rgb-32-gb-ddr5-6400-mt-s-cl32-dimm-kit-schwarz-silber-7954624/",
+   "stand": "2026-11-19T17:29",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 825.09,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/kingston-fury-renegade-rgb-32-gb-ddr5-6400-mt-s-cl32-dimm-kit-schwarz-silber-7954624/"
+    }
+   ],
+   "price": 825.09,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 825.09
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 32 gb kingston fury renegade rgb ddr5 6400 cl32 dimm kit schwarz silber",
+   "firstSeen": "2026-11-19"
+  },
+  {
    "id": "c-samsung-870-qvo-2-tb-ssd-2-5-sata-iii",
    "cat": "SSDs",
    "sub": "SATA 2 TB",
@@ -133532,6 +134329,35 @@
    "count": 1,
    "tags": "arbeitsspeicher ddr5 32 gb kingston fury beast ram 6800 mhz ddr5 cl34 dimm kit schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-kingston-fury-renegade-silver-32-gb-2-x-16-gb-ddr5-ram-6400-",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 32 GB",
+   "name": "Kingston FURY Renegade Silver 32 GB (2 x 16 GB) DDR5 RAM 6400 MT/s CL32 Silber/Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/kingston-fury-renegade-silver-32-gb-2-x-16-gb-ddr5-ram-6400-mt-s-cl32-silber-schwarz-7954625/",
+   "stand": "2026-11-19T17:29",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 861.83,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/kingston-fury-renegade-silver-32-gb-2-x-16-gb-ddr5-ram-6400-mt-s-cl32-silber-schwarz-7954625/"
+    }
+   ],
+   "price": 861.83,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 861.83
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 32 gb kingston fury renegade silver ddr5 ram 6400 cl32 silber schwarz",
+   "firstSeen": "2026-11-19"
   },
   {
    "id": "c-asus-rog-strix-oled-xg32uqdms-32-zoll-4k-gaming-monitor-240h",
@@ -134952,6 +135778,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asrock-rack-sienad8-2l2t-atx-mainboard-socket-sp6-amd-epyc-8",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "ASRock Rack SIENAD8-2L2T ATX Mainboard Socket SP6 AMD EPYC 8004 DDR5 bis 96 GB",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asrock-rack-sienad8-2l2t-atx-mainboard-socket-sp6-amd-epyc-8004-ddr5-bis-96-gb-100497887/",
+   "stand": "2026-11-19T17:29",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 908.72,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asrock-rack-sienad8-2l2t-atx-mainboard-socket-sp6-amd-epyc-8004-ddr5-bis-96-gb-100497887/"
+    }
+   ],
+   "price": 908.72,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 908.72
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards asrock rack sienad8 2l2t atx mainboard socket sp6 amd epyc 8004 ddr5 bis",
+   "firstSeen": "2026-11-19"
+  },
+  {
    "id": "c-supermicro-h12ssl-nt-o-server-mainboard-atx-sockel-sp3-ddr4",
    "cat": "Mainboards",
    "sub": "Mainboards",
@@ -135190,6 +136045,35 @@
    "count": 1,
    "tags": "mainboards supermicro mbd h13ssl server mainboard atx sockel sp5 amd epyc 9004 ddr5",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-adata-dimm-32-gb-ddr5-6400-2x-16-gb-dual-kit-arbeitsspeicher",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 32 GB",
+   "name": "ADATA DIMM 32 GB DDR5-6400 (2x 16 GB) Dual-Kit, Arbeitsspeicher",
+   "source": "crawler",
+   "url": "https://www.alternate.de/XPG/DIMM-32-GB-DDR5-6400-2x-16-GB-Dual-Kit-Arbeitsspeicher/html/product/100011569",
+   "stand": "2026-11-19T17:29",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 918,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/XPG/DIMM-32-GB-DDR5-6400-2x-16-GB-Dual-Kit-Arbeitsspeicher/html/product/100011569"
+    }
+   ],
+   "price": 918,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 918
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 32 gb adata dimm ddr5 6400 dual kit",
+   "firstSeen": "2026-11-19"
   },
   {
    "id": "c-synology-enterprise-series-snv5420-800g-800-gb-ssd-m-2-2280-",
@@ -140806,6 +141690,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-kingston-fury-beast-ddr5-64-gb-ram-2x32-gb-dimm-288-pin-5200",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 64 GB",
+   "name": "Kingston FURY Beast DDR5 64 GB RAM 2x32 GB DIMM 288-Pin 5200 MHz CL40 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/kingston-fury-beast-ddr5-64-gb-ram-2x32-gb-dimm-288-pin-5200-mhz-cl40-schwarz-7639414/",
+   "stand": "2026-11-19T17:29",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1338.01,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/kingston-fury-beast-ddr5-64-gb-ram-2x32-gb-dimm-288-pin-5200-mhz-cl40-schwarz-7639414/"
+    }
+   ],
+   "price": 1338.01,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 1338.01
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 64 gb kingston fury beast ddr5 ram 2x32 dimm 288 pin 5200 mhz cl40 schwarz",
+   "firstSeen": "2026-11-19"
+  },
+  {
    "id": "c-captiva-advanced-gaming-i98-646-pc-intel-core-i5-14400f-16-g",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5060",
@@ -141210,6 +142123,35 @@
    "count": 1,
    "tags": "grafikkarten geforce rtx 5060 captiva advanced gaming r98 174 ryzen 5700x nvidia geforce rtx 5060 ram ssd schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-kingston-fury-beast-ddr5-64-gb-ram-2x-32-gb-kit-5600-mt-s-cl",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 64 GB",
+   "name": "Kingston FURY Beast DDR5 64 GB RAM 2x 32 GB Kit 5600 MT/s CL40 DIMM Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/kingston-fury-beast-ddr5-64-gb-ram-2x-32-gb-kit-5600-mt-s-cl40-dimm-schwarz-7639418/",
+   "stand": "2026-11-19T17:29",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1401.17,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/kingston-fury-beast-ddr5-64-gb-ram-2x-32-gb-kit-5600-mt-s-cl40-dimm-schwarz-7639418/"
+    }
+   ],
+   "price": 1401.17,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 1401.17
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 64 gb kingston fury beast ddr5 ram kit 5600 cl40 dimm schwarz",
+   "firstSeen": "2026-11-19"
   },
   {
    "id": "c-wd-red-sn700-wds100t1r0c-1-tb-ssd-m-2-2280-pcie-3-0-x4-nvme",
@@ -141659,6 +142601,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-g-skill-trident-z5-rgb-ddr5-64-gb-ram-2x32-gb-6000-mhz-cl30-",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 64 GB",
+   "name": "G.Skill Trident Z5 RGB DDR5 64 GB RAM 2x32 GB 6000 MHz CL30 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/g-skill-trident-z5-rgb-ddr5-64-gb-ram-2x32-gb-6000-mhz-cl30-schwarz-7881937/",
+   "stand": "2026-11-19T17:29",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1476.43,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/g-skill-trident-z5-rgb-ddr5-64-gb-ram-2x32-gb-6000-mhz-cl30-schwarz-7881937/"
+    }
+   ],
+   "price": 1476.43,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 1476.43
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 64 gb skill trident rgb ddr5 ram 2x32 6000 mhz cl30 schwarz",
+   "firstSeen": "2026-11-19"
+  },
+  {
    "id": "c-g-skill-dimm-64-gb-ddr5-6000-2x-32-gb-dual-kit-arbeitsspeich",
    "cat": "Arbeitsspeicher",
    "sub": "DDR5 64 GB",
@@ -141884,6 +142855,35 @@
    "count": 1,
    "tags": "grafikkarten geforce rtx 5060 captiva advanced gaming r92 861 amd ryzen 5700x ram ssd nvidia geforce rtx 5060 schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-kingston-fury-beast-ddr5-64-gb-ram-5600-mt-s-cl36-dimm-288-p",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 64 GB",
+   "name": "Kingston FURY Beast DDR5 64 GB RAM 5600 MT/s CL36 DIMM 288-Pin Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/kingston-fury-beast-ddr5-64-gb-ram-5600-mt-s-cl36-dimm-288-pin-schwarz-100590629/",
+   "stand": "2026-11-19T17:29",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1494.06,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/kingston-fury-beast-ddr5-64-gb-ram-5600-mt-s-cl36-dimm-288-pin-schwarz-100590629/"
+    }
+   ],
+   "price": 1494.06,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 1494.06
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 64 gb kingston fury beast ddr5 ram 5600 cl36 dimm 288 pin schwarz",
+   "firstSeen": "2026-11-19"
   },
   {
    "id": "c-lg-ultragear-evo-g9-52g930b-b-52-zoll-wuhd-curved-gaming-mon",

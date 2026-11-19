@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T16:04:09.291Z",
+ "updated": "2026-11-19T17:29:43.954Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1198,6 +1198,10 @@
     },
     {
      "d": "2026-11-17",
+     "p": 23.9
+    },
+    {
+     "d": "2026-11-19",
      "p": 23.9
     }
    ],
@@ -3068,6 +3072,72 @@
    "source": "crawler"
   },
   {
+   "id": "c-bequiet-pure-rock-pro-3-lx-black-cpu-kuhler-mit-lufter",
+   "name": "BeQuiet PURE ROCK PRO 3 LX Black CPU-Kühler mit Lüfter",
+   "cat": "Kühlung",
+   "price": 41.17,
+   "ref": 50.9,
+   "shop": "Conrad",
+   "shopUrl": "https://www.conrad.de/de/p/bequiet-pure-rock-pro-3-lx-black-cpu-kuehler-mit-luefter-3540455.html",
+   "url": "https://www.conrad.de/de/p/bequiet-pure-rock-pro-3-lx-black-cpu-kuehler-mit-luefter-3540455.html",
+   "note": "19 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 44.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 44.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 44.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 50.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 50.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 50.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 50.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 50.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 50.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 50.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 50.9
+    },
+    {
+     "d": "2026-11-19",
+     "p": 41.17
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-19",
+   "updated": "2026-11-19",
+   "tags": "kuhlung luftkuhler bequiet pure rock pro black cpu kuhler mit lufter",
+   "source": "crawler"
+  },
+  {
    "id": "c-philips-p-line-346p1crh-34-curved-wqhd-monitor-3440-x-1440-1",
    "name": "Philips P-line 346P1CRH 34\" Curved WQHD Monitor 3440 x 1440 100 Hz VA HDMI DisplayPort USB-C Schwarz",
    "cat": "Monitore",
@@ -3848,6 +3918,52 @@
    "source": "crawler"
   },
   {
+   "id": "c-asus-proart-lc-420-aio-cooler-black",
+   "name": "ASUS ProArt LC 420 AIO Cooler - black",
+   "cat": "Prozessoren",
+   "price": 270,
+   "ref": 319.9,
+   "shop": "Conrad",
+   "shopUrl": "https://www.conrad.de/de/p/asus-proart-lc-420-prozessor-fluessigkeitskuehlsystem-kuehlergroesse-420-mm-fuer-am4-lga1200-lga1700-am5-lga115x-3059230.html",
+   "url": "https://www.conrad.de/de/p/asus-proart-lc-420-prozessor-fluessigkeitskuehlsystem-kuehlergroesse-420-mm-fuer-am4-lga1200-lga1700-am5-lga115x-3059230.html",
+   "note": "16 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-06",
+     "p": 319.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 319.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 319.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 319.9
+    },
+    {
+     "d": "2026-11-14",
+     "p": 319.9
+    },
+    {
+     "d": "2026-11-16",
+     "p": 319.9
+    },
+    {
+     "d": "2026-11-19",
+     "p": 270
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-19",
+   "updated": "2026-11-19",
+   "tags": "prozessoren asus proart 420 aio cooler black",
+   "source": "crawler"
+  },
+  {
    "id": "c-gigabyte-m27q3-27-zoll-qhd-gaming-monitor-300hz-ss-ips-panel",
    "name": "GIGABYTE M27Q3 27 Zoll QHD Gaming-Monitor, 300Hz, SS-IPS-Panel, G-Sync Compatible",
    "cat": "Monitore",
@@ -4602,6 +4718,72 @@
    "source": "crawler"
   },
   {
+   "id": "c-bequiet-dark-rock-pro-6-cpu-kuhler-passiv-135-04-m3-h-2000-u",
+   "name": "BeQuiet DARK ROCK PRO 6 CPU-Kühler passiv 135.04 m³/h 2000 U/min",
+   "cat": "Kühlung",
+   "price": 80.66,
+   "ref": 92.9,
+   "shop": "Conrad",
+   "shopUrl": "https://www.conrad.de/de/p/bequiet-dark-rock-pro-6-cpu-kuehler-passiv-135-04-m-h-2000-u-min-3779941.html",
+   "url": "https://www.conrad.de/de/p/bequiet-dark-rock-pro-6-cpu-kuehler-passiv-135-04-m-h-2000-u-min-3779941.html",
+   "note": "13 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 92.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 92.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 92.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 92.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 92.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 92.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 92.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 92.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 92.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 92.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 92.9
+    },
+    {
+     "d": "2026-11-19",
+     "p": 80.66
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-19",
+   "updated": "2026-11-19",
+   "tags": "kuhlung luftkuhler bequiet dark rock pro cpu kuhler passiv 135 2000 min",
+   "source": "crawler"
+  },
+  {
    "id": "c-adata-xpg-kyber-80-plus-gold-netzteil-atx-3-0-850-watt-schwa",
    "name": "ADATA XPG KYBER 80 PLUS Gold Netzteil, ATX 3.0 - 850 Watt, schwarz",
    "cat": "Netzteile",
@@ -5134,6 +5316,72 @@
    "source": "crawler"
   },
   {
+   "id": "c-be-quiet-pure-rock-slim-3-cpu-kuhler-130w-tdp-100mm-schwarz",
+   "name": "be quiet! Pure Rock Slim 3 CPU-Kühler, 130W TDP - 100mm, schwarz",
+   "cat": "Kühlung",
+   "price": 19.32,
+   "ref": 21.9,
+   "shop": "Conrad",
+   "shopUrl": "https://www.conrad.de/de/p/bequiet-pure-rock-slim-3-cpu-kuehler-mit-luefter-amd-am4-amd-am5-3532579.html",
+   "url": "https://www.conrad.de/de/p/bequiet-pure-rock-slim-3-cpu-kuehler-mit-luefter-amd-am4-amd-am5-3532579.html",
+   "note": "12 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 21.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 21.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 21.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 21.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 21.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 21.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 21.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 21.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 21.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 21.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 21.9
+    },
+    {
+     "d": "2026-11-19",
+     "p": 19.32
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-19",
+   "updated": "2026-11-19",
+   "tags": "kuhlung luftkuhler quiet pure rock slim cpu kuhler 130w tdp 100mm schwarz",
+   "source": "crawler"
+  },
+  {
    "id": "c-intel-core-i7-14700f-2-1-ghz-raptor-lake-refresh-sockel-1700",
    "name": "Intel Core i7-14700F 2,1 GHz (Raptor Lake Refresh) Sockel 1700 - boxed",
    "cat": "Prozessoren",
@@ -5647,226 +5895,6 @@
    "seen": "2026-11-19",
    "updated": "2026-11-19",
    "tags": "kuhlung luftkuhler alpenfohn matterhorn aurora max black cpu kuhler",
-   "source": "crawler"
-  },
-  {
-   "id": "c-msi-mpg-272urxde-qd-oled-gaming-monitor-27-3840x2160-240hz-s",
-   "name": "MSI MPG 272URXDE QD-OLED Gaming-Monitor 27\" 3840x2160 240Hz Schwarz",
-   "cat": "Monitore",
-   "price": 749.34,
-   "ref": 841.07,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/msi-mpg-272urxde-qd-oled-gaming-monitor-27-3840x2160-240hz-schwarz-100547589/",
-   "url": "https://www.jacob.de/produkt/msi-mpg-272urxde-qd-oled-gaming-monitor-27-3840x2160-240hz-schwarz-100547589/",
-   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 911.52
-    },
-    {
-     "d": "2026-10-31",
-     "p": 911.52
-    },
-    {
-     "d": "2026-11-01",
-     "p": 911.52
-    },
-    {
-     "d": "2026-11-02",
-     "p": 911.52
-    },
-    {
-     "d": "2026-11-04",
-     "p": 911.52
-    },
-    {
-     "d": "2026-11-06",
-     "p": 770.61
-    },
-    {
-     "d": "2026-11-08",
-     "p": 770.61
-    },
-    {
-     "d": "2026-11-11",
-     "p": 770.61
-    },
-    {
-     "d": "2026-11-13",
-     "p": 770.61
-    },
-    {
-     "d": "2026-11-16",
-     "p": 770.61
-    },
-    {
-     "d": "2026-11-19",
-     "p": 749.34
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-19",
-   "updated": "2026-11-19",
-   "tags": "monitore 27\" msi mpg 272urxde oled gaming monitor 3840x2160 240hz schwarz",
-   "source": "crawler"
-  },
-  {
-   "id": "c-alpenfohn-brocken-4-argb-cpu-kuhler",
-   "name": "Alpenföhn Brocken 4 ARGB, CPU-Kühler",
-   "cat": "Kühlung",
-   "price": 32.9,
-   "ref": 36.9,
-   "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-ARGB-CPU-K%C3%BChler/html/product/100070215",
-   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-ARGB-CPU-K%C3%BChler/html/product/100070215",
-   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-04",
-     "p": 36.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 36.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 36.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 36.9
-    },
-    {
-     "d": "2026-11-09",
-     "p": 36.9
-    },
-    {
-     "d": "2026-11-10",
-     "p": 36.9
-    },
-    {
-     "d": "2026-11-12",
-     "p": 36.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 32.9
-    },
-    {
-     "d": "2026-11-14",
-     "p": 32.9
-    },
-    {
-     "d": "2026-11-16",
-     "p": 32.9
-    },
-    {
-     "d": "2026-11-17",
-     "p": 32.9
-    },
-    {
-     "d": "2026-11-19",
-     "p": 32.9
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-19",
-   "updated": "2026-11-19",
-   "tags": "kuhlung luftkuhler alpenfohn brocken argb cpu kuhler",
-   "source": "crawler"
-  },
-  {
-   "id": "c-intel-core-i3-14100-3-5-ghz-raptor-lake-refresh-sockel-1700-",
-   "name": "Intel Core i3-14100 3,5 GHz (Raptor Lake Refresh) Sockel 1700 - boxed",
-   "cat": "Prozessoren",
-   "price": 111.9,
-   "ref": 124.9,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/intel-core-i3-14100-3-5-ghz-raptor-lake-refresh-sockel-1700-boxed/HPIT-817.html",
-   "url": "https://www.caseking.de/intel-core-i3-14100-3-5-ghz-raptor-lake-refresh-sockel-1700-boxed/HPIT-817.html",
-   "note": "10 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-02",
-     "p": 137.9
-    },
-    {
-     "d": "2026-11-03",
-     "p": 137.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 137.9
-    },
-    {
-     "d": "2026-11-07",
-     "p": 124.9
-    },
-    {
-     "d": "2026-11-10",
-     "p": 124.9
-    },
-    {
-     "d": "2026-11-12",
-     "p": 124.9
-    },
-    {
-     "d": "2026-11-14",
-     "p": 124.9
-    },
-    {
-     "d": "2026-11-17",
-     "p": 111.9
-    },
-    {
-     "d": "2026-11-19",
-     "p": 111.9
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-19",
-   "updated": "2026-11-19",
-   "tags": "prozessoren intel lga1700 intel core 14100 ghz raptor lake refresh sockel 1700 boxed",
-   "source": "crawler"
-  },
-  {
-   "id": "c-amd-ryzen-7-9800x3d-8-x-4-7-ghz-octa-core-prozessor-cpu-wof-",
-   "name": "AMD Ryzen 7 9800X3D 8 x 4.7 GHz Octa Core Prozessor (CPU) WOF Sockel (PC): AMD® AM5 120 W",
-   "cat": "Prozessoren",
-   "price": 357.14,
-   "ref": 398.32,
-   "shop": "Conrad",
-   "shopUrl": "https://www.conrad.de/de/p/amd-ryzen-7-9800x3d-8-x-4-7-ghz-octa-core-prozessor-cpu-wof-sockel-pc-amd-am5-120-w-3345881.html",
-   "url": "https://www.conrad.de/de/p/amd-ryzen-7-9800x3d-8-x-4-7-ghz-octa-core-prozessor-cpu-wof-sockel-pc-amd-am5-120-w-3345881.html",
-   "note": "10 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-13",
-     "p": 419.33
-    },
-    {
-     "d": "2026-11-16",
-     "p": 419.33
-    },
-    {
-     "d": "2026-11-17",
-     "p": 377.31
-    },
-    {
-     "d": "2026-11-18",
-     "p": 357.14
-    },
-    {
-     "d": "2026-11-19",
-     "p": 357.14
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-19",
-   "updated": "2026-11-19",
-   "tags": "prozessoren am5 amd ryzen 9800x3d ghz octa core prozessor cpu wof sockel 120",
    "source": "crawler"
   }
  ],
