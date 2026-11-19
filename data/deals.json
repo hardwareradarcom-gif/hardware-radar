@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T17:58:35.001Z",
+ "updated": "2026-11-19T20:08:37.203Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1260,6 +1260,10 @@
     },
     {
      "d": "2026-11-17",
+     "p": 254.04
+    },
+    {
+     "d": "2026-11-19",
      "p": 254.04
     }
    ],
@@ -2525,6 +2529,10 @@
     {
      "d": "2026-11-17",
      "p": 129.9
+    },
+    {
+     "d": "2026-11-19",
+     "p": 129.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -3650,6 +3658,68 @@
    "source": "crawler"
   },
   {
+   "id": "c-hp-series-3-pro-324pe-led-monitor-60-5-cm-23-8-full-hd-100hz",
+   "name": "HP Series 3 Pro 324pe - LED-Monitor - 60.5 cm (23.8\") - Full HD - 100Hz - IPS - Schwarz (B1GM5AA#ABB)",
+   "cat": "Monitore",
+   "price": 99.47,
+   "ref": 118.76,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/hp-series-3-pro-324pe-led-monitor-60-5-cm-23-8-full-hd-100hz-ips-schwarz-b1gm5aa-abb-100589654/",
+   "url": "https://www.jacob.de/produkt/hp-series-3-pro-324pe-led-monitor-60-5-cm-23-8-full-hd-100hz-ips-schwarz-b1gm5aa-abb-100589654/",
+   "note": "16 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 118.76
+    },
+    {
+     "d": "2026-10-31",
+     "p": 118.76
+    },
+    {
+     "d": "2026-11-01",
+     "p": 118.76
+    },
+    {
+     "d": "2026-11-02",
+     "p": 118.76
+    },
+    {
+     "d": "2026-11-04",
+     "p": 118.76
+    },
+    {
+     "d": "2026-11-07",
+     "p": 118.76
+    },
+    {
+     "d": "2026-11-09",
+     "p": 118.76
+    },
+    {
+     "d": "2026-11-11",
+     "p": 118.76
+    },
+    {
+     "d": "2026-11-14",
+     "p": 118.76
+    },
+    {
+     "d": "2026-11-17",
+     "p": 118.76
+    },
+    {
+     "d": "2026-11-19",
+     "p": 99.47
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-19",
+   "updated": "2026-11-19",
+   "tags": "monitore 23,8\" series pro 324pe led monitor full 100hz ips schwarz b1gm5aa abb",
+   "source": "crawler"
+  },
+  {
    "id": "c-noctua-nh-d15-chromax-black-cpu-kuhler",
    "name": "Noctua NH-D15 chromax.black, CPU-Kühler",
    "cat": "Kühlung",
@@ -3694,6 +3764,10 @@
     },
     {
      "d": "2026-11-18",
+     "p": 99.9
+    },
+    {
+     "d": "2026-11-19",
      "p": 99.9
     }
    ],
@@ -3846,7 +3920,7 @@
   {
    "id": "c-asus-proart-lc-420-aio-cooler-black",
    "name": "ASUS ProArt LC 420 AIO Cooler - black",
-   "cat": "Kühlung",
+   "cat": "Prozessoren",
    "price": 270,
    "ref": 319.9,
    "shop": "Conrad",
@@ -3886,7 +3960,7 @@
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
    "seen": "2026-11-19",
    "updated": "2026-11-19",
-   "tags": "kuhlung aio-wasserkuhlung asus proart 420 aio cooler black",
+   "tags": "prozessoren asus proart 420 aio cooler black",
    "source": "crawler"
   },
   {
@@ -5691,6 +5765,10 @@
     {
      "d": "2026-11-18",
      "p": 79.9
+    },
+    {
+     "d": "2026-11-19",
+     "p": 79.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -5817,72 +5895,6 @@
    "seen": "2026-11-19",
    "updated": "2026-11-19",
    "tags": "ssds sata 512 gb lenovo 00up450 interne ssd 512 sata iii",
-   "source": "crawler"
-  },
-  {
-   "id": "c-alpenfohn-matterhorn-2-aurora-max-black-cpu-kuhler",
-   "name": "Alpenföhn Matterhorn 2 Aurora Max black, CPU-Kühler",
-   "cat": "Kühlung",
-   "price": 48.9,
-   "ref": 54.9,
-   "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/Alpenf%C3%B6hn/Matterhorn-2-Aurora-Max-black-CPU-K%C3%BChler/html/product/100201706",
-   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Matterhorn-2-Aurora-Max-black-CPU-K%C3%BChler/html/product/100201706",
-   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-04",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-09",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-10",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-11",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 48.9
-    },
-    {
-     "d": "2026-11-14",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-15",
-     "p": 48.9
-    },
-    {
-     "d": "2026-11-17",
-     "p": 48.9
-    },
-    {
-     "d": "2026-11-19",
-     "p": 48.9
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-19",
-   "updated": "2026-11-19",
-   "tags": "kuhlung luftkuhler alpenfohn matterhorn aurora max black cpu kuhler",
    "source": "crawler"
   }
  ],
