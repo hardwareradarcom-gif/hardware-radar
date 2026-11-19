@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T17:29:43.954Z",
+ "updated": "2026-11-19T17:58:35.001Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -2540,8 +2540,8 @@
    "price": 114.9,
    "ref": 144.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/lian-li-sp850-v2-gold-netzteil-modular-atx-3.1-850-watt-schwarz/NELI-028.html",
-   "url": "https://www.caseking.de/lian-li-sp850-v2-gold-netzteil-modular-atx-3.1-850-watt-schwarz/NELI-028.html",
+   "shopUrl": "https://www.caseking.de/en/lian-li-sp850-v2-gold-power-supply-modular-atx-3.1-850-watts-black/NELI-028.html",
+   "url": "https://www.caseking.de/en/lian-li-sp850-v2-gold-power-supply-modular-atx-3.1-850-watts-black/NELI-028.html",
    "note": "21 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -2602,6 +2602,10 @@
     },
     {
      "d": "2026-11-17",
+     "p": 114.9
+    },
+    {
+     "d": "2026-11-19",
      "p": 114.9
     }
    ],
@@ -2991,84 +2995,6 @@
    "seen": "2026-11-19",
    "updated": "2026-11-19",
    "tags": "kuhlung luftkuhler thermalright axp120 x67 argb low profile cpu kuhler 120mm weiss",
-   "source": "crawler"
-  },
-  {
-   "id": "c-be-quiet-dark-rock-6-cpu-kuhler",
-   "name": "be quiet! Dark Rock 6, CPU-Kühler",
-   "cat": "Kühlung",
-   "price": 51.9,
-   "ref": 64.9,
-   "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/be-quiet/Dark-Rock-6-CPU-K%C3%BChler/html/product/100222123",
-   "url": "https://www.alternate.de/be-quiet/Dark-Rock-6-CPU-K%C3%BChler/html/product/100222123",
-   "note": "20 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-04",
-     "p": 66.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 66.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 64.9
-    },
-    {
-     "d": "2026-11-07",
-     "p": 64.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 64.9
-    },
-    {
-     "d": "2026-11-09",
-     "p": 66.9
-    },
-    {
-     "d": "2026-11-10",
-     "p": 64.9
-    },
-    {
-     "d": "2026-11-11",
-     "p": 64.9
-    },
-    {
-     "d": "2026-11-12",
-     "p": 66.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 59.9
-    },
-    {
-     "d": "2026-11-14",
-     "p": 64.9
-    },
-    {
-     "d": "2026-11-15",
-     "p": 64.9
-    },
-    {
-     "d": "2026-11-16",
-     "p": 74.9
-    },
-    {
-     "d": "2026-11-17",
-     "p": 51.9
-    },
-    {
-     "d": "2026-11-19",
-     "p": 51.9
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-19",
-   "updated": "2026-11-19",
-   "tags": "kuhlung luftkuhler quiet dark rock cpu kuhler",
    "source": "crawler"
   },
   {
@@ -3672,8 +3598,8 @@
    "price": 49.9,
    "ref": 59.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/hyte-x50-air-midi-tower-pitch-black/GEHY-060.html",
-   "url": "https://www.caseking.de/hyte-x50-air-midi-tower-pitch-black/GEHY-060.html",
+   "shopUrl": "https://www.caseking.de/en/hyte-x50-air-midi-tower-pitch-black/GEHY-060.html",
+   "url": "https://www.caseking.de/en/hyte-x50-air-midi-tower-pitch-black/GEHY-060.html",
    "note": "17 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -3920,7 +3846,7 @@
   {
    "id": "c-asus-proart-lc-420-aio-cooler-black",
    "name": "ASUS ProArt LC 420 AIO Cooler - black",
-   "cat": "Prozessoren",
+   "cat": "Kühlung",
    "price": 270,
    "ref": 319.9,
    "shop": "Conrad",
@@ -3960,7 +3886,7 @@
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
    "seen": "2026-11-19",
    "updated": "2026-11-19",
-   "tags": "prozessoren asus proart 420 aio cooler black",
+   "tags": "kuhlung aio-wasserkuhlung asus proart 420 aio cooler black",
    "source": "crawler"
   },
   {
@@ -4022,6 +3948,64 @@
    "source": "crawler"
   },
   {
+   "id": "c-hyte-y70-firefly-japan-edition-pc-gehause-midi-tower-e-atx-t",
+   "name": "HYTE Y70 Firefly Japan Edition PC-Gehäuse, Midi-Tower, E-ATX Tempered Glass - silber",
+   "cat": "Gehäuse",
+   "price": 299.9,
+   "ref": 349.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/hyte-y70-firefly-japan-edition-pc-gehaeuse-midi-tower-e-atx-tempered-glass-silber/GEHY-070.html",
+   "url": "https://www.caseking.de/hyte-y70-firefly-japan-edition-pc-gehaeuse-midi-tower-e-atx-tempered-glass-silber/GEHY-070.html",
+   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-01",
+     "p": 349.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 349.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 349.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 349.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 349.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 349.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 349.9
+    },
+    {
+     "d": "2026-11-14",
+     "p": 349.9
+    },
+    {
+     "d": "2026-11-17",
+     "p": 349.9
+    },
+    {
+     "d": "2026-11-19",
+     "p": 299.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-19",
+   "updated": "2026-11-19",
+   "tags": "gehause hyte y70 firefly japan edition midi tower atx tempered glass silber",
+   "source": "crawler"
+  },
+  {
    "id": "c-asus-zenscreen-mb17ahg-17-3-ips-monitor-1920-x-1080-144-hz-s",
    "name": "ASUS ZenScreen MB17AHG 17.3\" IPS Monitor 1920 x 1080 144 Hz Schwarz",
    "cat": "Monitore",
@@ -4070,6 +4054,10 @@
     },
     {
      "d": "2026-11-16",
+     "p": 334.82
+    },
+    {
+     "d": "2026-11-19",
      "p": 334.82
     }
    ],
