@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T10:11:59.262Z",
+ "updated": "2026-11-19T11:26:20.730Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -15568,6 +15568,35 @@
    "firstSeen": "2026-11-03"
   },
   {
+   "id": "c-amd-wraith-prism-cpu-luftkuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "AMD Wraith Prism - CPU-Luftkühler",
+   "source": "crawler",
+   "url": "https://www.proshop.de/CPU-Kuehler/AMD-Wraith-Prism-CPU-Luftkuehler/3533739",
+   "stand": "2026-11-19T11:26",
+   "offers": [
+    {
+     "shop": "proshop.de",
+     "price": 22.18,
+     "ship": 4.99,
+     "avail": "Vorbestellung",
+     "url": "https://www.proshop.de/CPU-Kuehler/AMD-Wraith-Prism-CPU-Luftkuehler/3533739"
+    }
+   ],
+   "price": 22.18,
+   "shop": "proshop.de",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 22.18
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler amd wraith prism cpu",
+   "firstSeen": "2026-11-19"
+  },
+  {
    "id": "c-titan-dc-ha21tz-rpw-cpu-kuhler-fur-intel-sockel-lga1700-low-",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -18622,6 +18651,35 @@
    "count": 1,
    "tags": "ssds nvme ubiquiti unifi uacc ssd tray fur cloud gateway max grau weiss",
    "firstSeen": "2026-11-16"
+  },
+  {
+   "id": "c-thermaltake-nic-l32-cpu-luftkuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Thermaltake NiC L32 - CPU-Luftkühler",
+   "source": "crawler",
+   "url": "https://www.proshop.de/CPU-Kuehler/Thermaltake-NiC-L32-CPU-Luftkuehler/3532303",
+   "stand": "2026-11-19T11:26",
+   "offers": [
+    {
+     "shop": "proshop.de",
+     "price": 27.54,
+     "ship": 4.99,
+     "avail": "Auf Lager",
+     "url": "https://www.proshop.de/CPU-Kuehler/Thermaltake-NiC-L32-CPU-Luftkuehler/3532303"
+    }
+   ],
+   "price": 27.54,
+   "shop": "proshop.de",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 27.54
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler thermaltake nic l32 cpu",
+   "firstSeen": "2026-11-19"
   },
   {
    "id": "c-endorfy-fera-5-black-cpu-kuhler",
@@ -26229,6 +26287,35 @@
    "firstSeen": "2026-11-14"
   },
   {
+   "id": "c-inter-tech-hipower-sp-650-netzteil-650-w-atx-80-plus-schwarz",
+   "cat": "Netzteile",
+   "sub": "650 W",
+   "name": "Inter-Tech HiPower SP-650 Netzteil 650 W ATX 80 PLUS Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/inter-tech-hipower-sp-650-netzteil-650-w-atx-80-plus-schwarz-6971269/",
+   "stand": "2026-11-19T11:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 42.67,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/inter-tech-hipower-sp-650-netzteil-650-w-atx-80-plus-schwarz-6971269/"
+    }
+   ],
+   "price": 42.67,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 42.67
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile 650 w inter tech hipower 650 netzteil atx plus schwarz",
+   "firstSeen": "2026-11-19"
+  },
+  {
    "id": "c-adata-xpg-probe-80-plus-bronze-netzteil-atx-2-4-600-watt-sch",
    "cat": "Netzteile",
    "sub": "bis 600 W",
@@ -30163,6 +30250,64 @@
    "firstSeen": "2026-11-06"
   },
   {
+   "id": "c-inter-tech-psu-ipc-flex-atx-gf-350-pc-netzteil",
+   "cat": "Netzteile",
+   "sub": "Netzteile",
+   "name": "Inter-Tech PSU IPC FLEX-ATX GF-350, PC-Netzteil",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Inter-Tech/PSU-IPC-FLEX-ATX-GF-350-PC-Netzteil/html/product/100095405",
+   "stand": "2026-11-19T11:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 49.99,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Inter-Tech/PSU-IPC-FLEX-ATX-GF-350-PC-Netzteil/html/product/100095405"
+    }
+   ],
+   "price": 49.99,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 49.99
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile inter tech psu ipc flex atx 350 netzteil",
+   "firstSeen": "2026-11-19"
+  },
+  {
+   "id": "c-be-quiet-system-power-11-450w-atx-netzteil-80-plus-bronze-sc",
+   "cat": "Netzteile",
+   "sub": "bis 600 W",
+   "name": "be quiet! System Power 11 450W ATX Netzteil 80 PLUS Bronze Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/be-quiet-system-power-11-450w-atx-netzteil-80-plus-bronze-schwarz-100579010/",
+   "stand": "2026-11-19T11:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 50.5,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/be-quiet-system-power-11-450w-atx-netzteil-80-plus-bronze-schwarz-100579010/"
+    }
+   ],
+   "price": 50.5,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 50.5
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile bis 600 w quiet system power 450w atx netzteil plus bronze schwarz",
+   "firstSeen": "2026-11-19"
+  },
+  {
    "id": "c-thermalright-axp120-x67-argb-low-profile-cpu-kuhler-120-mm-s",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -30872,6 +31017,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler scythe mugen dual fan black edition cpu kuhler",
    "firstSeen": "2026-11-02"
+  },
+  {
+   "id": "c-xilence-gaming-bronze-series-xp650r10-pc-netzteil-650-w-80-p",
+   "cat": "Netzteile",
+   "sub": "650 W",
+   "name": "Xilence Gaming Bronze Series XP650R10 PC-Netzteil 650 W 80 PLUS Bronze Schwarz, Rot",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/xilence-gaming-bronze-series-xp650r10-pc-netzteil-650-w-80-plus-bronze-schwarz-rot-8260377/",
+   "stand": "2026-11-19T11:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 53.01,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/xilence-gaming-bronze-series-xp650r10-pc-netzteil-650-w-80-plus-bronze-schwarz-rot-8260377/"
+    }
+   ],
+   "price": 53.01,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 53.01
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile 650 w xilence gaming bronze series xp650r10 netzteil 650 plus schwarz rot",
+   "firstSeen": "2026-11-19"
   },
   {
    "id": "c-gigabyte-p750bs-80-plus-bronze-netzteil-atx-750-w-schwarz",
@@ -34277,6 +34451,35 @@
    "count": 1,
    "tags": "netzteile bis 600 w silverstone sst tx300 tfx netzteil plus bronze 300 watt",
    "firstSeen": "2026-11-15"
+  },
+  {
+   "id": "c-fsp-sfx-pro-450w-pc-netzteil",
+   "cat": "Netzteile",
+   "sub": "SFX",
+   "name": "FSP SFX PRO 450W, PC-Netzteil",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Fortron/SFX-PRO-450W-PC-Netzteil/html/product/100221650",
+   "stand": "2026-11-19T11:26",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 59.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Fortron/SFX-PRO-450W-PC-Netzteil/html/product/100221650"
+    }
+   ],
+   "price": 59.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 59.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile sfx fsp pro 450w netzteil",
+   "firstSeen": "2026-11-19"
   },
   {
    "id": "c-be-quiet-dark-rock-pro-5-cpu-kuhler",
@@ -40138,6 +40341,35 @@
    "firstSeen": "2026-10-31"
   },
   {
+   "id": "c-chieftec-vita-series-bpx-850-s-netzteil-850-w-80-plus-bronze",
+   "cat": "Netzteile",
+   "sub": "850 W",
+   "name": "Chieftec VITA Series BPX-850-S Netzteil 850 W 80 PLUS Bronze Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/chieftec-vita-series-bpx-850-s-netzteil-850-w-80-plus-bronze-schwarz-100491305/",
+   "stand": "2026-11-19T11:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 78.43,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/chieftec-vita-series-bpx-850-s-netzteil-850-w-80-plus-bronze-schwarz-100491305/"
+    }
+   ],
+   "price": 78.43,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 78.43
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile 850 w chieftec vita series bpx 850 netzteil plus bronze schwarz",
+   "firstSeen": "2026-11-19"
+  },
+  {
    "id": "c-asus-prime-h610m-r-d4-mainboard-lga-1700-h610-ddr4-micro-atx",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 H610",
@@ -43438,6 +43670,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-corsair-cx-series-cx650-650-w-atx-netzteil-schwarz",
+   "cat": "Netzteile",
+   "sub": "650 W",
+   "name": "Corsair CX Series CX650 650 W ATX-Netzteil Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/corsair-cx-series-cx650-650-w-atx-netzteil-schwarz-100307935/",
+   "stand": "2026-11-19T11:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 85.57,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/corsair-cx-series-cx650-650-w-atx-netzteil-schwarz-100307935/"
+    }
+   ],
+   "price": 85.57,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 85.57
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile 650 w corsair series cx650 650 atx netzteil schwarz",
+   "firstSeen": "2026-11-19"
+  },
+  {
    "id": "c-biostar-b650mt-mainboard-amd-b650-socket-am5-micro-atx-ddr5",
    "cat": "Mainboards",
    "sub": "AM5 B650",
@@ -45616,6 +45877,35 @@
    "count": 1,
    "tags": "mainboards am4 b550 asus prime b550m argb mainboard amd b550 socket am4 ddr4 micro atx",
    "firstSeen": "2026-11-16"
+  },
+  {
+   "id": "c-thermaltake-smart-bm3-netzteil-550-w-atx-80-plus-bronze-schw",
+   "cat": "Netzteile",
+   "sub": "bis 600 W",
+   "name": "Thermaltake Smart BM3 Netzteil 550 W ATX 80 PLUS Bronze Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/thermaltake-smart-bm3-netzteil-550-w-atx-80-plus-bronze-schwarz-9236833/",
+   "stand": "2026-11-19T11:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 91.34,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/thermaltake-smart-bm3-netzteil-550-w-atx-80-plus-bronze-schwarz-9236833/"
+    }
+   ],
+   "price": 91.34,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 91.34
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile bis 600 w thermaltake smart bm3 netzteil 550 atx plus bronze schwarz",
+   "firstSeen": "2026-11-19"
   },
   {
    "id": "c-aoc-27b31h-27-zoll-full-hd-monitor-120-hz-adaptive-bildsynch",
@@ -54194,6 +54484,35 @@
    "count": 1,
    "tags": "monitore 27\" benq gw2791 ips 100 1920 1080 led monitor schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-montech-century-ii-850-w-atx-pc-netzteil-80-plus-gold-silber",
+   "cat": "Netzteile",
+   "sub": "850 W",
+   "name": "MONTECH Century II 850 W ATX PC-Netzteil 80 PLUS Gold Silber, Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/montech-century-ii-850-w-atx-pc-netzteil-80-plus-gold-silber-schwarz-100583531/",
+   "stand": "2026-11-19T11:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 113.74,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/montech-century-ii-850-w-atx-pc-netzteil-80-plus-gold-silber-schwarz-100583531/"
+    }
+   ],
+   "price": 113.74,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 113.74
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile 850 w montech century 850 atx netzteil plus gold silber schwarz",
+   "firstSeen": "2026-11-19"
   },
   {
    "id": "c-xiaomi-g27i-2026-gaming-monitor-68-6-cm-27-full-hd-200hz-1ms",
@@ -81768,6 +82087,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-gigabyte-ud1000gm-pg5-netzteil-1000-w-80-plus-gold-atx12v-3-",
+   "cat": "Netzteile",
+   "sub": "1000 W+",
+   "name": "Gigabyte UD1000GM PG5 Netzteil 1000 W 80 PLUS Gold ATX12V 3.0 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/gigabyte-ud1000gm-pg5-netzteil-1000-w-80-plus-gold-atx12v-3-0-schwarz-8263233/",
+   "stand": "2026-11-19T11:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 180.45,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/gigabyte-ud1000gm-pg5-netzteil-1000-w-80-plus-gold-atx12v-3-0-schwarz-8263233/"
+    }
+   ],
+   "price": 180.45,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 180.45
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile 1000 w+ gigabyte ud1000gm pg5 netzteil 1000 plus gold atx12v schwarz",
+   "firstSeen": "2026-11-19"
+  },
+  {
    "id": "c-philips-24b2g5200-24-full-hd-ips-monitor-100-hz-anthrazit",
    "cat": "Monitore",
    "sub": "24\"",
@@ -89520,6 +89868,35 @@
    "count": 1,
    "tags": "ssds nvme 512 gb lenovo 00up642 ssd 2280 512 pcie nvme",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-hp-omen-1000w-atx-netzteil-vollmodular-80-plus-gold-atx-3-1-",
+   "cat": "Netzteile",
+   "sub": "1000 W+",
+   "name": "HP OMEN 1000W ATX Netzteil – Vollmodular, 80 PLUS Gold, ATX 3.1 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/hp-omen-1000w-atx-netzteil-vollmodular-80-plus-gold-atx-3-1-schwarz-100672579/",
+   "stand": "2026-11-19T11:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 214.69,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/hp-omen-1000w-atx-netzteil-vollmodular-80-plus-gold-atx-3-1-schwarz-100672579/"
+    }
+   ],
+   "price": 214.69,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 214.69
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile 1000 w+ omen 1000w atx netzteil vollmodular plus gold schwarz",
+   "firstSeen": "2026-11-19"
   },
   {
    "id": "c-asus-rog-loki-850p-sfx-l-platinum-80-plus-platinum-netzteil-",
@@ -99695,6 +100072,35 @@
    "count": 1,
    "tags": "mainboards intel lga1851 b860 asus rog strix b860 gaming wifi mainboard sockel lga 1851 intel atx ddr5",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-cooler-master-x-silent-edge-platinum-1100-atx-netzteil-1100-",
+   "cat": "Netzteile",
+   "sub": "1000 W+",
+   "name": "Cooler Master X Silent Edge Platinum 1100 ATX-Netzteil 1100 W 80 PLUS Platinum Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/cooler-master-x-silent-edge-platinum-1100-atx-netzteil-1100-w-80-plus-platinum-schwarz-100677614/",
+   "stand": "2026-11-19T11:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 268.42,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/cooler-master-x-silent-edge-platinum-1100-atx-netzteil-1100-w-80-plus-platinum-schwarz-100677614/"
+    }
+   ],
+   "price": 268.42,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 268.42
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile 1000 w+ cooler master silent edge platinum 1100 atx netzteil plus schwarz",
+   "firstSeen": "2026-11-19"
   },
   {
    "id": "c-asus-tuf-gaming-vg32aqa1a-31-5-zoll-gaming-monitor-170-hz-va",
@@ -113004,6 +113410,35 @@
    "count": 1,
    "tags": "monitore 31,5\" acer monitor cb322qksemipruzx 80cm hdmi usb ips uhd energieklasse jb2ee 006",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-pro-ws-1600-w-atx-3-1-pcie-5-1-80-platinum-netzteil-sch",
+   "cat": "Netzteile",
+   "sub": "1000 W+",
+   "name": "ASUS Pro WS 1600 W ATX 3.1 PCIe 5.1 80+ Platinum Netzteil Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-pro-ws-1600-w-atx-3-1-pcie-5-1-80-platinum-netzteil-schwarz-100677096/",
+   "stand": "2026-11-19T11:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 401.32,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-pro-ws-1600-w-atx-3-1-pcie-5-1-80-platinum-netzteil-schwarz-100677096/"
+    }
+   ],
+   "price": 401.32,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-19",
+     "p": 401.32
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile 1000 w+ asus pro 1600 atx pcie platinum netzteil schwarz",
+   "firstSeen": "2026-11-19"
   },
   {
    "id": "c-kingston-fury-beast-rgb-16-gb-ram-ddr5-6000-mt-s-cl36-dimm-s",
