@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T20:08:37.203Z",
+ "updated": "2026-11-19T21:55:02.639Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -3920,7 +3920,7 @@
   {
    "id": "c-asus-proart-lc-420-aio-cooler-black",
    "name": "ASUS ProArt LC 420 AIO Cooler - black",
-   "cat": "Prozessoren",
+   "cat": "Kühlung",
    "price": 270,
    "ref": 319.9,
    "shop": "Conrad",
@@ -3960,7 +3960,7 @@
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
    "seen": "2026-11-19",
    "updated": "2026-11-19",
-   "tags": "prozessoren asus proart 420 aio cooler black",
+   "tags": "kuhlung aio-wasserkuhlung asus proart 420 aio cooler black",
    "source": "crawler"
   },
   {
@@ -4912,64 +4912,6 @@
    "source": "crawler"
   },
   {
-   "id": "c-asus-prime-b850-plus-wifi-mainboard-atx-sockel-am5-ddr5-wi-f",
-   "name": "ASUS Prime B850-PLUS WIFI Mainboard ATX Sockel AM5 DDR5 Wi-Fi 6E Schwarz",
-   "cat": "Mainboards",
-   "price": 194.57,
-   "ref": 222.32,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/asus-prime-b850-plus-wifi-mainboard-atx-sockel-am5-ddr5-wi-fi-6e-schwarz-100553583/",
-   "url": "https://www.jacob.de/produkt/asus-prime-b850-plus-wifi-mainboard-atx-sockel-am5-ddr5-wi-fi-6e-schwarz-100553583/",
-   "note": "12 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 222.32
-    },
-    {
-     "d": "2026-10-31",
-     "p": 222.32
-    },
-    {
-     "d": "2026-11-01",
-     "p": 222.32
-    },
-    {
-     "d": "2026-11-02",
-     "p": 222.32
-    },
-    {
-     "d": "2026-11-04",
-     "p": 222.32
-    },
-    {
-     "d": "2026-11-06",
-     "p": 240.94
-    },
-    {
-     "d": "2026-11-09",
-     "p": 240.94
-    },
-    {
-     "d": "2026-11-11",
-     "p": 189.79
-    },
-    {
-     "d": "2026-11-14",
-     "p": 193.28
-    },
-    {
-     "d": "2026-11-17",
-     "p": 194.57
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-19",
-   "updated": "2026-11-19",
-   "tags": "mainboards am5 b850 asus prime b850 plus wifi mainboard atx sockel am5 ddr5 schwarz",
-   "source": "crawler"
-  },
-  {
    "id": "c-gigabyte-g27q2-27-qhd-ss-ips-gaming-monitor-200-hz-schwarz",
    "name": "Gigabyte G27Q2 27\" QHD SS-IPS Gaming-Monitor 200 Hz Schwarz",
    "cat": "Monitore",
@@ -5032,6 +4974,68 @@
    "source": "crawler"
   },
   {
+   "id": "c-asus-prime-b850-plus-wifi-mainboard-atx-sockel-am5-ddr5-wi-f",
+   "name": "ASUS Prime B850-PLUS WIFI Mainboard ATX Sockel AM5 DDR5 Wi-Fi 6E Schwarz",
+   "cat": "Mainboards",
+   "price": 194.83,
+   "ref": 222.32,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/asus-prime-b850-plus-wifi-mainboard-atx-sockel-am5-ddr5-wi-fi-6e-schwarz-100553583/",
+   "url": "https://www.jacob.de/produkt/asus-prime-b850-plus-wifi-mainboard-atx-sockel-am5-ddr5-wi-fi-6e-schwarz-100553583/",
+   "note": "12 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 222.32
+    },
+    {
+     "d": "2026-10-31",
+     "p": 222.32
+    },
+    {
+     "d": "2026-11-01",
+     "p": 222.32
+    },
+    {
+     "d": "2026-11-02",
+     "p": 222.32
+    },
+    {
+     "d": "2026-11-04",
+     "p": 222.32
+    },
+    {
+     "d": "2026-11-06",
+     "p": 240.94
+    },
+    {
+     "d": "2026-11-09",
+     "p": 240.94
+    },
+    {
+     "d": "2026-11-11",
+     "p": 189.79
+    },
+    {
+     "d": "2026-11-14",
+     "p": 193.28
+    },
+    {
+     "d": "2026-11-17",
+     "p": 194.57
+    },
+    {
+     "d": "2026-11-19",
+     "p": 194.83
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-19",
+   "updated": "2026-11-19",
+   "tags": "mainboards am5 b850 asus prime b850 plus wifi mainboard atx sockel am5 ddr5 schwarz",
+   "source": "crawler"
+  },
+  {
    "id": "c-msi-pro-mp165de-e6-16-full-hd-ips-monitor-schwarz",
    "name": "MSI PRO MP165DE E6 16\" Full HD IPS Monitor Schwarz",
    "cat": "Monitore",
@@ -5080,6 +5084,10 @@
     },
     {
      "d": "2026-11-17",
+     "p": 92.94
+    },
+    {
+     "d": "2026-11-19",
      "p": 92.94
     }
    ],
