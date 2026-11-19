@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-19T14:24:16.766Z",
+ "updated": "2026-11-19T16:04:09.291Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1642,6 +1642,64 @@
    "source": "crawler"
   },
   {
+   "id": "c-hyte-x50-air-midi-tower-snow-white",
+   "name": "HYTE X50 Air Midi Tower - Snow White",
+   "cat": "Gehäuse",
+   "price": 39.9,
+   "ref": 59.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/hyte-x50-air-midi-tower-snow-white/GEHY-059.html",
+   "url": "https://www.caseking.de/en/hyte-x50-air-midi-tower-snow-white/GEHY-059.html",
+   "note": "33 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-01",
+     "p": 119.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 79.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 59.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 59.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 59.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 59.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 59.9
+    },
+    {
+     "d": "2026-11-14",
+     "p": 59.9
+    },
+    {
+     "d": "2026-11-17",
+     "p": 59.9
+    },
+    {
+     "d": "2026-11-19",
+     "p": 39.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-19",
+   "updated": "2026-11-19",
+   "tags": "gehause hyte x50 air midi tower snow white",
+   "source": "crawler"
+  },
+  {
    "id": "c-cooler-master-hyper-212-3dhp-cpu-cooler-intel-and-amd-argb-b",
    "name": "Cooler Master Hyper 212 3DHP CPU Cooler, Intel and AMD, ARGB - black",
    "cat": "Kühlung",
@@ -2775,6 +2833,10 @@
     {
      "d": "2026-11-18",
      "p": 299
+    },
+    {
+     "d": "2026-11-19",
+     "p": 299
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -3188,68 +3250,6 @@
    "source": "crawler"
   },
   {
-   "id": "c-alpenfohn-brocken-4-max-cpu-kuhler",
-   "name": "Alpenföhn Brocken 4 Max, CPU-Kühler",
-   "cat": "Kühlung",
-   "price": 40.9,
-   "ref": 49.9,
-   "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-Max-CPU-K%C3%BChler/html/product/1902711",
-   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-Max-CPU-K%C3%BChler/html/product/1902711",
-   "note": "18 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-05",
-     "p": 49.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 49.9
-    },
-    {
-     "d": "2026-11-07",
-     "p": 49.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 49.9
-    },
-    {
-     "d": "2026-11-09",
-     "p": 49.9
-    },
-    {
-     "d": "2026-11-10",
-     "p": 49.9
-    },
-    {
-     "d": "2026-11-12",
-     "p": 49.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 40.9
-    },
-    {
-     "d": "2026-11-14",
-     "p": 40.9
-    },
-    {
-     "d": "2026-11-16",
-     "p": 40.9
-    },
-    {
-     "d": "2026-11-17",
-     "p": 40.9
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-19",
-   "updated": "2026-11-19",
-   "tags": "kuhlung luftkuhler alpenfohn brocken max cpu kuhler",
-   "source": "crawler"
-  },
-  {
    "id": "c-adata-xpg-probe-80-plus-bronze-netzteil-atx-2-4-700-watt-sch",
    "name": "ADATA XPG PROBE 80 PLUS Bronze Netzteil, ATX 2.4 - 700 Watt, schwarz",
    "cat": "Netzteile",
@@ -3593,6 +3593,64 @@
    "seen": "2026-11-19",
    "updated": "2026-11-19",
    "tags": "netzteile seasonic core 650 atx3 netzteil",
+   "source": "crawler"
+  },
+  {
+   "id": "c-hyte-x50-air-midi-tower-pitch-black",
+   "name": "HYTE X50 Air Midi Tower - Pitch Black",
+   "cat": "Gehäuse",
+   "price": 49.9,
+   "ref": 59.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/hyte-x50-air-midi-tower-pitch-black/GEHY-060.html",
+   "url": "https://www.caseking.de/hyte-x50-air-midi-tower-pitch-black/GEHY-060.html",
+   "note": "17 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-01",
+     "p": 119.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 79.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 59.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 59.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 59.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 59.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 59.9
+    },
+    {
+     "d": "2026-11-14",
+     "p": 59.9
+    },
+    {
+     "d": "2026-11-17",
+     "p": 59.9
+    },
+    {
+     "d": "2026-11-19",
+     "p": 49.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-19",
+   "updated": "2026-11-19",
+   "tags": "gehause hyte x50 air midi tower pitch black",
    "source": "crawler"
   },
   {
@@ -4461,6 +4519,52 @@
    "seen": "2026-11-19",
    "updated": "2026-11-19",
    "tags": "kuhlung luftkuhler alpenfohn matterhorn aurora black cpu kuhler",
+   "source": "crawler"
+  },
+  {
+   "id": "c-arctic-liquid-freezer-iii-pro-280-aio-water-cooling-280mm-bl",
+   "name": "Arctic Liquid Freezer III Pro 280 AiO Water Cooling - 280mm, black",
+   "cat": "Kühlung",
+   "price": 64.9,
+   "ref": 74.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/arctic-liquid-freezer-iii-pro-280-aio-water-cooling-280mm-black/WASE-984.html",
+   "url": "https://www.caseking.de/en/arctic-liquid-freezer-iii-pro-280-aio-water-cooling-280mm-black/WASE-984.html",
+   "note": "13 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-06",
+     "p": 74.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 74.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 74.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 74.9
+    },
+    {
+     "d": "2026-11-14",
+     "p": 74.9
+    },
+    {
+     "d": "2026-11-17",
+     "p": 74.9
+    },
+    {
+     "d": "2026-11-19",
+     "p": 64.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-19",
+   "updated": "2026-11-19",
+   "tags": "kuhlung aio-wasserkuhlung arctic liquid freezer iii pro 280 aio water cooling 280mm black",
    "source": "crawler"
   },
   {
@@ -5680,8 +5784,8 @@
    "price": 111.9,
    "ref": 124.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/intel-core-i3-14100-3.5-ghz-raptor-lake-refresh-socket-1700-boxed/HPIT-817.html",
-   "url": "https://www.caseking.de/en/intel-core-i3-14100-3.5-ghz-raptor-lake-refresh-socket-1700-boxed/HPIT-817.html",
+   "shopUrl": "https://www.caseking.de/intel-core-i3-14100-3-5-ghz-raptor-lake-refresh-sockel-1700-boxed/HPIT-817.html",
+   "url": "https://www.caseking.de/intel-core-i3-14100-3-5-ghz-raptor-lake-refresh-sockel-1700-boxed/HPIT-817.html",
    "note": "10 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -5714,6 +5818,10 @@
     },
     {
      "d": "2026-11-17",
+     "p": 111.9
+    },
+    {
+     "d": "2026-11-19",
      "p": 111.9
     }
    ],
@@ -5749,74 +5857,16 @@
     {
      "d": "2026-11-18",
      "p": 357.14
+    },
+    {
+     "d": "2026-11-19",
+     "p": 357.14
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
    "seen": "2026-11-19",
    "updated": "2026-11-19",
    "tags": "prozessoren am5 amd ryzen 9800x3d ghz octa core prozessor cpu wof sockel 120",
-   "source": "crawler"
-  },
-  {
-   "id": "c-seasonic-focus-gx-80-plus-gold-netzteil-modular-pcie-5-1-850",
-   "name": "Seasonic Focus GX 80 PLUS Gold Netzteil, modular, PCIe 5.1 - 850 Watt, weiß",
-   "cat": "Netzteile",
-   "price": 134.9,
-   "ref": 149.9,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/seasonic-focus-gx-80-plus-gold-power-supply-modular-pcie-5.1-850-watts-white/NESE-179.html",
-   "url": "https://www.caseking.de/en/seasonic-focus-gx-80-plus-gold-power-supply-modular-pcie-5.1-850-watts-white/NESE-179.html",
-   "note": "10 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-29",
-     "p": 149.9
-    },
-    {
-     "d": "2026-10-30",
-     "p": 149.9
-    },
-    {
-     "d": "2026-10-31",
-     "p": 149.9
-    },
-    {
-     "d": "2026-11-02",
-     "p": 149.9
-    },
-    {
-     "d": "2026-11-04",
-     "p": 149.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 149.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 149.9
-    },
-    {
-     "d": "2026-11-10",
-     "p": 149.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 149.9
-    },
-    {
-     "d": "2026-11-15",
-     "p": 149.9
-    },
-    {
-     "d": "2026-11-18",
-     "p": 134.9
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-19",
-   "updated": "2026-11-19",
-   "tags": "netzteile 850 w seasonic focus plus gold netzteil modular pcie 850 watt weiss",
    "source": "crawler"
   }
  ],
