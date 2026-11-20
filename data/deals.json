@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T17:29:32.837Z",
+ "updated": "2026-11-20T18:00:11.005Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1472,80 +1472,6 @@
    "source": "crawler"
   },
   {
-   "id": "c-thermaltake-th240-v2-ultra-ex-argb-cpu-aio-liquid-cooler-was",
-   "name": "Thermaltake TH240 V2 Ultra EX ARGB CPU AIO Liquid Cooler , Wasserkühlung",
-   "cat": "Kühlung",
-   "price": 89.9,
-   "ref": 146.9,
-   "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/Thermaltake/TH240-V2-Ultra-EX-ARGB-CPU-AIO-Liquid-Cooler-Wasserk%C3%BChlung/html/product/100050237",
-   "url": "https://www.alternate.de/Thermaltake/TH240-V2-Ultra-EX-ARGB-CPU-AIO-Liquid-Cooler-Wasserk%C3%BChlung/html/product/100050237",
-   "note": "39 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-02",
-     "p": 146.9
-    },
-    {
-     "d": "2026-11-03",
-     "p": 146.9
-    },
-    {
-     "d": "2026-11-04",
-     "p": 146.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 146.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 146.9
-    },
-    {
-     "d": "2026-11-07",
-     "p": 146.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 146.9
-    },
-    {
-     "d": "2026-11-09",
-     "p": 146.9
-    },
-    {
-     "d": "2026-11-11",
-     "p": 146.9
-    },
-    {
-     "d": "2026-11-12",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-14",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-15",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-17",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-18",
-     "p": 89.9
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-20",
-   "updated": "2026-11-20",
-   "tags": "kuhlung aio-wasserkuhlung thermaltake th240 ultra argb cpu aio liquid cooler wasserkuhlung",
-   "source": "crawler"
-  },
-  {
    "id": "c-wd-red-sn700-wds500g1r0c-500-gb-m-2-nvme-ssd",
    "name": "WD Red SN700 WDS500G1R0C 500 GB M.2 NVMe SSD",
    "cat": "SSDs",
@@ -1789,6 +1715,10 @@
     {
      "d": "2026-11-18",
      "p": 19.9
+    },
+    {
+     "d": "2026-11-20",
+     "p": 19.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -1857,64 +1787,6 @@
    "seen": "2026-11-20",
    "updated": "2026-11-20",
    "tags": "ssds pcie 4.0 2 tb western digital black sn770m pcie nvme ssd",
-   "source": "crawler"
-  },
-  {
-   "id": "c-gigabyte-mo27q2a-ice-27-zoll-qhd-gaming-monitor-280hz-qd-ole",
-   "name": "GIGABYTE MO27Q2A ICE, 27 Zoll QHD Gaming Monitor, 280Hz, QD-OLED-Panel, G-Sync Compatible",
-   "cat": "Monitore",
-   "price": 349,
-   "ref": 499,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/gigabyte-mo27q2a-ice-27-inch-qhd-gaming-monitor-280hz-qd-oled-panel-g-sync-compatible/TFGB-102.html",
-   "url": "https://www.caseking.de/en/gigabyte-mo27q2a-ice-27-inch-qhd-gaming-monitor-280hz-qd-oled-panel-g-sync-compatible/TFGB-102.html",
-   "note": "30 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 499
-    },
-    {
-     "d": "2026-11-01",
-     "p": 499
-    },
-    {
-     "d": "2026-11-03",
-     "p": 499
-    },
-    {
-     "d": "2026-11-04",
-     "p": 499
-    },
-    {
-     "d": "2026-11-06",
-     "p": 499
-    },
-    {
-     "d": "2026-11-09",
-     "p": 499
-    },
-    {
-     "d": "2026-11-11",
-     "p": 499
-    },
-    {
-     "d": "2026-11-13",
-     "p": 499
-    },
-    {
-     "d": "2026-11-15",
-     "p": 499
-    },
-    {
-     "d": "2026-11-18",
-     "p": 349
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-20",
-   "updated": "2026-11-20",
-   "tags": "monitore 27\" gigabyte mo27q2a ice zoll qhd gaming monitor 280hz oled panel sync compatible",
    "source": "crawler"
   },
   {
@@ -2296,6 +2168,10 @@
     },
     {
      "d": "2026-11-18",
+     "p": 184.9
+    },
+    {
+     "d": "2026-11-20",
      "p": 184.9
     }
    ],
@@ -3647,6 +3523,10 @@
     {
      "d": "2026-11-18",
      "p": 339.9
+    },
+    {
+     "d": "2026-11-20",
+     "p": 339.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -3828,6 +3708,10 @@
     },
     {
      "d": "2026-11-18",
+     "p": 79.9
+    },
+    {
+     "d": "2026-11-20",
      "p": 79.9
     }
    ],
@@ -4861,52 +4745,6 @@
    "seen": "2026-11-20",
    "updated": "2026-11-20",
    "tags": "netzteile sfx sharkoon rebel p20 1000w netzteil",
-   "source": "crawler"
-  },
-  {
-   "id": "c-sharkoon-rebel-p20-sfx-850w-pc-netzteil",
-   "name": "Sharkoon Rebel P20 SFX 850W, PC-Netzteil",
-   "cat": "Netzteile",
-   "price": 147.9,
-   "ref": 169.9,
-   "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/Sharkoon/Rebel-P20-SFX-850W-PC-Netzteil/html/product/100227304",
-   "url": "https://www.alternate.de/Sharkoon/Rebel-P20-SFX-850W-PC-Netzteil/html/product/100227304",
-   "note": "13 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-11",
-     "p": 169.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 169.9
-    },
-    {
-     "d": "2026-11-14",
-     "p": 169.9
-    },
-    {
-     "d": "2026-11-15",
-     "p": 169.9
-    },
-    {
-     "d": "2026-11-17",
-     "p": 169.9
-    },
-    {
-     "d": "2026-11-18",
-     "p": 169.9
-    },
-    {
-     "d": "2026-11-20",
-     "p": 147.9
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-20",
-   "updated": "2026-11-20",
-   "tags": "netzteile sfx sharkoon rebel p20 850w netzteil",
    "source": "crawler"
   },
   {
@@ -5963,6 +5801,188 @@
    "seen": "2026-11-20",
    "updated": "2026-11-20",
    "tags": "kuhlung luftkuhler noctua d15 am4 cpu kuhler",
+   "source": "crawler"
+  },
+  {
+   "id": "c-zotac-gaming-geforce-rtx-5090-solid-oc-white-edition-32768-m",
+   "name": "ZOTAC GAMING GeForce RTX 5090 Solid OC White Edition, 32768 MB GDDR7",
+   "cat": "Grafikkarten",
+   "price": 7999,
+   "ref": 8999,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/zotac-gaming-geforce-rtx-5090-solid-oc-white-edition-32768-mb-gddr7/GCZT-279.html",
+   "url": "https://www.caseking.de/en/zotac-gaming-geforce-rtx-5090-solid-oc-white-edition-32768-mb-gddr7/GCZT-279.html",
+   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 8499
+    },
+    {
+     "d": "2026-10-31",
+     "p": 8499
+    },
+    {
+     "d": "2026-11-02",
+     "p": 8499
+    },
+    {
+     "d": "2026-11-04",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-06",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-08",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-10",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-13",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-15",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-18",
+     "p": 8199
+    },
+    {
+     "d": "2026-11-20",
+     "p": 7999
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-20",
+   "updated": "2026-11-20",
+   "tags": "grafikkarten geforce rtx 5090 zotac gaming geforce rtx 5090 solid white edition 32768 gddr7",
+   "source": "crawler"
+  },
+  {
+   "id": "c-lg-ultragear-g-27g610a-b-27-zoll-wqhd-gaming-monitor-200hz-i",
+   "name": "LG UltraGear G 27G610A-B 27 Zoll WQHD Gaming-Monitor, 200Hz, IPS, FreeSync Premium",
+   "cat": "Monitore",
+   "price": 169,
+   "ref": 189.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/lg-ultragear-g-27g610a-b-27-inch-wqhd-gaming-monitor-200hz-ips-freesync-premium/TFLG-186.html",
+   "url": "https://www.caseking.de/en/lg-ultragear-g-27g610a-b-27-inch-wqhd-gaming-monitor-200hz-ips-freesync-premium/TFLG-186.html",
+   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 189.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 189.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 189.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 189.9
+    },
+    {
+     "d": "2026-11-07",
+     "p": 189.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 189.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 169
+    },
+    {
+     "d": "2026-11-13",
+     "p": 169
+    },
+    {
+     "d": "2026-11-16",
+     "p": 169
+    },
+    {
+     "d": "2026-11-18",
+     "p": 169
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-20",
+   "updated": "2026-11-20",
+   "tags": "monitore 27\" ultragear 27g610a zoll wqhd gaming monitor 200hz ips freesync premium",
+   "source": "crawler"
+  },
+  {
+   "id": "c-lenovo-00up450-interne-ssd-m-2-512-gb-sata-iii",
+   "name": "Lenovo 00UP450 Interne SSD M.2 512 GB SATA III",
+   "cat": "SSDs",
+   "price": 188.38,
+   "ref": 211.63,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/lenovo-00up450-interne-ssd-m-2-512-gb-sata-iii-5836482/",
+   "url": "https://www.jacob.de/produkt/lenovo-00up450-interne-ssd-m-2-512-gb-sata-iii-5836482/",
+   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 234.54
+    },
+    {
+     "d": "2026-10-31",
+     "p": 234.54
+    },
+    {
+     "d": "2026-11-01",
+     "p": 234.54
+    },
+    {
+     "d": "2026-11-02",
+     "p": 188.38
+    },
+    {
+     "d": "2026-11-03",
+     "p": 211.63
+    },
+    {
+     "d": "2026-11-06",
+     "p": 214.69
+    },
+    {
+     "d": "2026-11-08",
+     "p": 214.69
+    },
+    {
+     "d": "2026-11-11",
+     "p": 188.38
+    },
+    {
+     "d": "2026-11-13",
+     "p": 191.42
+    },
+    {
+     "d": "2026-11-15",
+     "p": 200.62
+    },
+    {
+     "d": "2026-11-18",
+     "p": 188.38
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-20",
+   "updated": "2026-11-20",
+   "tags": "ssds sata 512 gb lenovo 00up450 interne ssd 512 sata iii",
    "source": "crawler"
   }
  ],
