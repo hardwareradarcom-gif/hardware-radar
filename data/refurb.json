@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T15:59:52.952Z",
+ "updated": "2026-11-20T17:29:32.837Z",
  "products": [
   {
    "id": "r-acer-b246hylbymiprx-23-8-full-hd-1920x1080-display-hdmi-disp",
@@ -2611,6 +2611,25 @@
    "url": "https://it-versand.com/products/hp-elitedesk-800-g5-desktop-mini-usdt-intel-six-core-i5-256gb-ssd-8gb-windows-11-pro-4",
    "avail": "Auf Lager",
    "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteDesk-800-G5-DM-0_de9ba378-0eb7-4797-9ec9-e7b1e66cfe46.jpg?v=1741660951",
+   "hist": [
+    {
+     "d": "2026-11-20",
+     "p": 259
+    }
+   ],
+   "firstSeen": "2026-11-20"
+  },
+  {
+   "id": "r-lenovo-thinkcentre-m920t-tower-intel-core-i5-8500-8gb-ram-25",
+   "cat": "PCs & Workstations",
+   "name": "Lenovo ThinkCentre M920t Tower, Intel Core i5 8500, 8GB RAM, 256GB SSD, Nvidia Quadro P620, Windows 11 Pro, ESET Internet Security",
+   "brand": "Lenovo",
+   "price": 259,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkcentre-m920t-tower-intel-six-core-i5-256gb-ssd-8gb-windows-11-pro-nvidia-quadro-p620",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkCentre-M920t-Tower-1.png?v=1770992651",
    "hist": [
     {
      "d": "2026-11-20",
@@ -37472,6 +37491,109 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "r-lenovo-thinkpad-t14-gen-2-14-fhd-display-intel-core-i7-1165g",
+   "cat": "Laptops",
+   "name": "Lenovo ThinkPad T14 Gen 2, 14\" FHD Display, Intel Core i7 1165G7, 16GB RAM, 512GB SSD, Webcam, Windows 11 Pro",
+   "brand": "Lenovo",
+   "price": 499,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkpad-t14-gen-2-14-fhd-display-intel-core-i7-1165g7-16gb-ram-512gb-ssd-webcam-windows-11-pro",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-T14-G2-0_a1f5931b-69ce-4552-a487-d05a95873803.jpg?v=1770993191",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 499
+    },
+    {
+     "d": "2026-10-31",
+     "p": 499
+    },
+    {
+     "d": "2026-11-01",
+     "p": 499
+    },
+    {
+     "d": "2026-11-02",
+     "p": 499
+    },
+    {
+     "d": "2026-11-03",
+     "p": 499
+    },
+    {
+     "d": "2026-11-04",
+     "p": 499
+    },
+    {
+     "d": "2026-11-05",
+     "p": 499
+    },
+    {
+     "d": "2026-11-06",
+     "p": 499
+    },
+    {
+     "d": "2026-11-07",
+     "p": 499
+    },
+    {
+     "d": "2026-11-08",
+     "p": 499
+    },
+    {
+     "d": "2026-11-09",
+     "p": 499
+    },
+    {
+     "d": "2026-11-10",
+     "p": 499
+    },
+    {
+     "d": "2026-11-11",
+     "p": 499
+    },
+    {
+     "d": "2026-11-12",
+     "p": 499
+    },
+    {
+     "d": "2026-11-13",
+     "p": 499
+    },
+    {
+     "d": "2026-11-14",
+     "p": 499
+    },
+    {
+     "d": "2026-11-15",
+     "p": 499
+    },
+    {
+     "d": "2026-11-16",
+     "p": 499
+    },
+    {
+     "d": "2026-11-17",
+     "p": 499
+    },
+    {
+     "d": "2026-11-18",
+     "p": 499
+    },
+    {
+     "d": "2026-11-19",
+     "p": 499
+    },
+    {
+     "d": "2026-11-20",
+     "p": 499
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "r-hp-elitebook-840-g7-14-zoll-1920x1080-full-hd-intel-core-i7-",
    "cat": "Laptops",
    "name": "HP EliteBook 840 G7 14 Zoll 1920x1080 Full HD Intel Core i7 512GB SSD 16GB Windows 11 Pro Fingerprint Webcam",
@@ -40419,109 +40541,6 @@
     {
      "d": "2026-11-20",
      "p": 518.99
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-lenovo-thinkpad-t14-gen-2-14-fhd-display-intel-core-i7-1165g",
-   "cat": "Laptops",
-   "name": "Lenovo ThinkPad T14 Gen 2, 14\" FHD Display, Intel Core i7 1165G7, 16GB RAM, 512GB SSD, Webcam, Windows 11 Pro",
-   "brand": "Lenovo",
-   "price": 518.99,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/lenovo-thinkpad-t14-gen-2-14-fhd-display-intel-core-i7-1165g7-16gb-ram-512gb-ssd-webcam-windows-11-pro",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-T14-G2-0_a1f5931b-69ce-4552-a487-d05a95873803.jpg?v=1770993191",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 499
-    },
-    {
-     "d": "2026-10-31",
-     "p": 499
-    },
-    {
-     "d": "2026-11-01",
-     "p": 499
-    },
-    {
-     "d": "2026-11-02",
-     "p": 499
-    },
-    {
-     "d": "2026-11-03",
-     "p": 499
-    },
-    {
-     "d": "2026-11-04",
-     "p": 499
-    },
-    {
-     "d": "2026-11-05",
-     "p": 499
-    },
-    {
-     "d": "2026-11-06",
-     "p": 499
-    },
-    {
-     "d": "2026-11-07",
-     "p": 499
-    },
-    {
-     "d": "2026-11-08",
-     "p": 499
-    },
-    {
-     "d": "2026-11-09",
-     "p": 499
-    },
-    {
-     "d": "2026-11-10",
-     "p": 499
-    },
-    {
-     "d": "2026-11-11",
-     "p": 499
-    },
-    {
-     "d": "2026-11-12",
-     "p": 499
-    },
-    {
-     "d": "2026-11-13",
-     "p": 499
-    },
-    {
-     "d": "2026-11-14",
-     "p": 499
-    },
-    {
-     "d": "2026-11-15",
-     "p": 499
-    },
-    {
-     "d": "2026-11-16",
-     "p": 499
-    },
-    {
-     "d": "2026-11-17",
-     "p": 499
-    },
-    {
-     "d": "2026-11-18",
-     "p": 499
-    },
-    {
-     "d": "2026-11-19",
-     "p": 499
-    },
-    {
-     "d": "2026-11-20",
-     "p": 499
     }
    ],
    "firstSeen": "2026-10-30"
