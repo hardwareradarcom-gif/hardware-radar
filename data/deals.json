@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T14:22:47.518Z",
+ "updated": "2026-11-20T15:59:52.952Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1334,6 +1334,10 @@
     },
     {
      "d": "2026-11-18",
+     "p": 16.9
+    },
+    {
+     "d": "2026-11-20",
      "p": 16.9
     }
    ],
@@ -3363,6 +3367,10 @@
     {
      "d": "2026-11-18",
      "p": 174.9
+    },
+    {
+     "d": "2026-11-20",
+     "p": 174.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -4131,6 +4139,10 @@
     {
      "d": "2026-11-17",
      "p": 367.98
+    },
+    {
+     "d": "2026-11-20",
+     "p": 367.98
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -4573,6 +4585,10 @@
     {
      "d": "2026-11-18",
      "p": 25.9
+    },
+    {
+     "d": "2026-11-20",
+     "p": 25.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -4625,6 +4641,72 @@
    "seen": "2026-11-20",
    "updated": "2026-11-20",
    "tags": "kuhlung aio-wasserkuhlung arctic liquid freezer iii pro 280 aio water cooling 280mm black",
+   "source": "crawler"
+  },
+  {
+   "id": "c-asus-prime-b760-plus-d4-mainboard-lga-1700-intel-b760-atx-dd",
+   "name": "ASUS PRIME B760-PLUS D4 Mainboard LGA 1700 Intel B760 ATX DDR4",
+   "cat": "Mainboards",
+   "price": 135.35,
+   "ref": 156.2,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/asus-prime-b760-plus-d4-mainboard-lga-1700-intel-b760-atx-ddr4-100684420/",
+   "url": "https://www.jacob.de/produkt/asus-prime-b760-plus-d4-mainboard-lga-1700-intel-b760-atx-ddr4-100684420/",
+   "note": "13 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 156.2
+    },
+    {
+     "d": "2026-10-31",
+     "p": 156.2
+    },
+    {
+     "d": "2026-11-01",
+     "p": 156.2
+    },
+    {
+     "d": "2026-11-02",
+     "p": 156.2
+    },
+    {
+     "d": "2026-11-03",
+     "p": 156.2
+    },
+    {
+     "d": "2026-11-05",
+     "p": 133.74
+    },
+    {
+     "d": "2026-11-07",
+     "p": 133.74
+    },
+    {
+     "d": "2026-11-10",
+     "p": 133.74
+    },
+    {
+     "d": "2026-11-12",
+     "p": 156.2
+    },
+    {
+     "d": "2026-11-15",
+     "p": 156.2
+    },
+    {
+     "d": "2026-11-17",
+     "p": 148.23
+    },
+    {
+     "d": "2026-11-20",
+     "p": 135.35
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-20",
+   "updated": "2026-11-20",
+   "tags": "mainboards intel lga1700 b760 asus prime b760 plus mainboard lga 1700 intel atx ddr4",
    "source": "crawler"
   },
   {
@@ -5750,6 +5832,68 @@
    "source": "crawler"
   },
   {
+   "id": "c-zotac-gaming-geforce-rtx-5090-solid-oc-white-edition-32768-m",
+   "name": "ZOTAC GAMING GeForce RTX 5090 Solid OC White Edition, 32768 MB GDDR7",
+   "cat": "Grafikkarten",
+   "price": 7999,
+   "ref": 8999,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/zotac-gaming-geforce-rtx-5090-solid-oc-white-edition-32768-mb-gddr7/GCZT-279.html",
+   "url": "https://www.caseking.de/en/zotac-gaming-geforce-rtx-5090-solid-oc-white-edition-32768-mb-gddr7/GCZT-279.html",
+   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 8499
+    },
+    {
+     "d": "2026-10-31",
+     "p": 8499
+    },
+    {
+     "d": "2026-11-02",
+     "p": 8499
+    },
+    {
+     "d": "2026-11-04",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-06",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-08",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-10",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-13",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-15",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-18",
+     "p": 8199
+    },
+    {
+     "d": "2026-11-20",
+     "p": 7999
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-20",
+   "updated": "2026-11-20",
+   "tags": "grafikkarten geforce rtx 5090 zotac gaming geforce rtx 5090 solid white edition 32768 gddr7",
+   "source": "crawler"
+  },
+  {
    "id": "c-lg-ultragear-g-27g610a-b-27-zoll-wqhd-gaming-monitor-200hz-i",
    "name": "LG UltraGear G 27G610A-B 27 Zoll WQHD Gaming-Monitor, 200Hz, IPS, FreeSync Premium",
    "cat": "Monitore",
@@ -5867,138 +6011,6 @@
    "seen": "2026-11-20",
    "updated": "2026-11-20",
    "tags": "ssds sata 512 gb lenovo 00up450 interne ssd 512 sata iii",
-   "source": "crawler"
-  },
-  {
-   "id": "c-alpenfohn-matterhorn-2-aurora-max-black-cpu-kuhler",
-   "name": "Alpenföhn Matterhorn 2 Aurora Max black, CPU-Kühler",
-   "cat": "Kühlung",
-   "price": 48.9,
-   "ref": 54.9,
-   "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/Alpenf%C3%B6hn/Matterhorn-2-Aurora-Max-black-CPU-K%C3%BChler/html/product/100201706",
-   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Matterhorn-2-Aurora-Max-black-CPU-K%C3%BChler/html/product/100201706",
-   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-04",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-09",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-10",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-11",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 48.9
-    },
-    {
-     "d": "2026-11-14",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-15",
-     "p": 48.9
-    },
-    {
-     "d": "2026-11-17",
-     "p": 48.9
-    },
-    {
-     "d": "2026-11-19",
-     "p": 48.9
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-20",
-   "updated": "2026-11-20",
-   "tags": "kuhlung luftkuhler alpenfohn matterhorn aurora max black cpu kuhler",
-   "source": "crawler"
-  },
-  {
-   "id": "c-alpenfohn-brocken-4-argb-cpu-kuhler",
-   "name": "Alpenföhn Brocken 4 ARGB, CPU-Kühler",
-   "cat": "Kühlung",
-   "price": 32.9,
-   "ref": 36.9,
-   "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-ARGB-CPU-K%C3%BChler/html/product/100070215",
-   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-ARGB-CPU-K%C3%BChler/html/product/100070215",
-   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-04",
-     "p": 36.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 36.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 36.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 36.9
-    },
-    {
-     "d": "2026-11-09",
-     "p": 36.9
-    },
-    {
-     "d": "2026-11-10",
-     "p": 36.9
-    },
-    {
-     "d": "2026-11-12",
-     "p": 36.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 32.9
-    },
-    {
-     "d": "2026-11-14",
-     "p": 32.9
-    },
-    {
-     "d": "2026-11-16",
-     "p": 32.9
-    },
-    {
-     "d": "2026-11-17",
-     "p": 32.9
-    },
-    {
-     "d": "2026-11-19",
-     "p": 32.9
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-20",
-   "updated": "2026-11-20",
-   "tags": "kuhlung luftkuhler alpenfohn brocken argb cpu kuhler",
    "source": "crawler"
   }
  ],
