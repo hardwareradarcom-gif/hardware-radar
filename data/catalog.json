@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T10:08:02.708Z",
+ "updated": "2026-11-20T11:28:15.017Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -1190,7 +1190,7 @@
    "name": "AMD Ryzen 7 9800X3D (boxed)",
    "url": "https://www.hardwaredealz.com/hardware/cpu/amd-ryzen-7-9800x3d-boxed/preisvergleich.23412",
    "source": "hardwaredealz",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-20T11:28",
    "offers": [
     {
      "shop": "Conrad",
@@ -1273,7 +1273,7 @@
    "name": "AMD Ryzen 7 7800X3D (tray)",
    "url": "https://www.hardwaredealz.com/hardware/cpu/amd-ryzen-7-7800x3d-tray/preisvergleich.1881",
    "source": "hardwaredealz",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-20T11:28",
    "offers": [
     {
      "shop": "reichelt.de",
@@ -4976,7 +4976,7 @@
    "name": "ARCTIC Freezer 36",
    "url": "https://geizhals.de/3144218",
    "source": "Geizhals",
-   "stand": "2026-11-20T10:08",
+   "stand": "2026-11-20T11:28",
    "offers": [
     {
      "shop": "Mindfactory",
@@ -5003,6 +5003,14 @@
      "avail": "ab 16.11."
     },
     {
+     "shop": "Conrad",
+     "price": 22.68,
+     "ship": 4.95,
+     "avail": "Auf Lager",
+     "url": "https://www.conrad.de/de/p/arctic-freezer-36-co-cpu-kuehler-mit-luefter-intel-lga-1700-amd-am5-amd-am4-3059334.html",
+     "crawler": true
+    },
+    {
      "shop": "caseking.de",
      "price": 22.9,
      "ship": null,
@@ -5016,14 +5024,6 @@
      "ship": 7.99,
      "avail": "Auf Lager",
      "url": "https://www.alternate.de/ARCTIC/Freezer-36-CO-CPU-K%C3%BChler/html/product/100060190",
-     "crawler": true
-    },
-    {
-     "shop": "Conrad",
-     "price": 23.52,
-     "ship": 4.95,
-     "avail": "Auf Lager",
-     "url": "https://www.conrad.de/de/p/arctic-freezer-36-co-cpu-kuehler-mit-luefter-intel-lga-1700-amd-am5-amd-am4-3059334.html",
      "crawler": true
     },
     {
@@ -8517,7 +8517,7 @@
    "name": "AMD Ryzen 7 5800X (boxed)",
    "url": "https://www.hardwaredealz.com/hardware/cpu/amd-ryzen-7-5800x-boxed/preisvergleich.1872",
    "source": "hardwaredealz",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-20T11:28",
    "offers": [
     {
      "shop": "Conrad",
@@ -11421,11 +11421,11 @@
    "name": "be quiet! Pure Rock Slim 3 CPU-Kühler, 130W TDP - 100mm, schwarz",
    "source": "crawler",
    "url": "https://www.conrad.de/de/p/bequiet-pure-rock-slim-3-cpu-kuehler-mit-luefter-amd-am4-amd-am5-3532579.html",
-   "stand": "2026-11-19T20:08",
+   "stand": "2026-11-20T11:28",
    "offers": [
     {
      "shop": "Conrad",
-     "price": 19.32,
+     "price": 21,
      "ship": 4.95,
      "avail": "Auf Lager",
      "url": "https://www.conrad.de/de/p/bequiet-pure-rock-slim-3-cpu-kuehler-mit-luefter-amd-am4-amd-am5-3532579.html"
@@ -11438,7 +11438,7 @@
      "url": "https://www.caseking.de/be-quiet-pure-rock-slim-3-cpu-kuehler-130w-tdp-100mm-schwarz/CPBQ-038.html"
     }
    ],
-   "price": 19.32,
+   "price": 21,
    "shop": "Conrad",
    "hist": [
     {
@@ -11488,6 +11488,10 @@
     {
      "d": "2026-11-19",
      "p": 19.32
+    },
+    {
+     "d": "2026-11-20",
+     "p": 21
     }
    ],
    "count": 2,
@@ -11501,11 +11505,11 @@
    "name": "BeQuiet PURE ROCK PRO 3 LX Black CPU-Kühler mit Lüfter",
    "source": "crawler",
    "url": "https://www.conrad.de/de/p/bequiet-pure-rock-pro-3-lx-black-cpu-kuehler-mit-luefter-3540455.html",
-   "stand": "2026-11-19T21:55",
+   "stand": "2026-11-20T11:28",
    "offers": [
     {
      "shop": "Conrad",
-     "price": 41.17,
+     "price": 40.33,
      "ship": 4.95,
      "avail": "Auf Lager",
      "url": "https://www.conrad.de/de/p/bequiet-pure-rock-pro-3-lx-black-cpu-kuehler-mit-luefter-3540455.html"
@@ -11518,7 +11522,7 @@
      "url": "https://www.caseking.de/be-quiet-pure-rock-pro-3-lx-cpu-kuehler-120mm-schwarz/CPBQ-035.html"
     }
    ],
-   "price": 41.17,
+   "price": 40.33,
    "shop": "Conrad",
    "hist": [
     {
@@ -11568,6 +11572,10 @@
     {
      "d": "2026-11-19",
      "p": 41.17
+    },
+    {
+     "d": "2026-11-20",
+     "p": 40.33
     }
    ],
    "count": 2,
@@ -11581,7 +11589,7 @@
    "name": "BeQuiet DARK ROCK PRO 6 CPU-Kühler passiv 135.04 m³/h 2000 U/min",
    "source": "crawler",
    "url": "https://www.conrad.de/de/p/bequiet-dark-rock-pro-6-cpu-kuehler-passiv-135-04-m-h-2000-u-min-3779941.html",
-   "stand": "2026-11-19T20:08",
+   "stand": "2026-11-20T11:28",
    "offers": [
     {
      "shop": "Conrad",
@@ -11648,6 +11656,10 @@
     {
      "d": "2026-11-19",
      "p": 80.66
+    },
+    {
+     "d": "2026-11-20",
+     "p": 80.66
     }
    ],
    "count": 2,
@@ -11660,26 +11672,26 @@
    "sub": "Luftkühler",
    "name": "Noctua NH-D15S chromax.black CPU-Kühler - 140mm",
    "source": "crawler",
-   "url": "https://www.conrad.de/de/p/noctua-nh-d15s-ch-bk-cpu-kuehler-mit-luefter-intel-lga-1150-intel-lga-1151-intel-lga-1151-v2-intel-lga-1156-intel-2373080.html",
-   "stand": "2026-11-19T21:55",
+   "url": "https://www.caseking.de/noctua-nh-d15s-chromax.black-cpu-kuehler-140mm/CPNA-065.html",
+   "stand": "2026-11-20T11:28",
    "offers": [
-    {
-     "shop": "Conrad",
-     "price": 100.83,
-     "ship": 0,
-     "avail": "Auf Lager",
-     "url": "https://www.conrad.de/de/p/noctua-nh-d15s-ch-bk-cpu-kuehler-mit-luefter-intel-lga-1150-intel-lga-1151-intel-lga-1151-v2-intel-lga-1156-intel-2373080.html"
-    },
     {
      "shop": "caseking.de",
      "price": 109.9,
      "ship": null,
      "avail": "Vorbestellung",
      "url": "https://www.caseking.de/noctua-nh-d15s-chromax.black-cpu-kuehler-140mm/CPNA-065.html"
+    },
+    {
+     "shop": "Conrad",
+     "price": 115.01,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.conrad.de/de/p/noctua-nh-d15s-ch-bk-cpu-kuehler-mit-luefter-intel-lga-1150-intel-lga-1151-intel-lga-1151-v2-intel-lga-1156-intel-2373080.html"
     }
    ],
-   "price": 100.83,
-   "shop": "Conrad",
+   "price": 109.9,
+   "shop": "caseking.de",
    "hist": [
     {
      "d": "2026-10-29",
@@ -11728,6 +11740,10 @@
     {
      "d": "2026-11-19",
      "p": 100.83
+    },
+    {
+     "d": "2026-11-20",
+     "p": 109.9
     }
    ],
    "count": 2,
@@ -11736,12 +11752,12 @@
   },
   {
    "id": "c-asus-proart-lc-420-aio-cooler-black",
-   "cat": "Kühlung",
-   "sub": "AiO-Wasserkühlung",
+   "cat": "Prozessoren",
+   "sub": "Prozessoren",
    "name": "ASUS ProArt LC 420 AIO Cooler - black",
    "source": "crawler",
    "url": "https://www.conrad.de/de/p/asus-proart-lc-420-prozessor-fluessigkeitskuehlsystem-kuehlergroesse-420-mm-fuer-am4-lga1200-lga1700-am5-lga115x-3059230.html",
-   "stand": "2026-11-19T20:08",
+   "stand": "2026-11-20T11:28",
    "offers": [
     {
      "shop": "Conrad",
@@ -11788,10 +11804,14 @@
     {
      "d": "2026-11-19",
      "p": 270
+    },
+    {
+     "d": "2026-11-20",
+     "p": 270
     }
    ],
    "count": 2,
-   "tags": "kuhlung aio-wasserkuhlung asus proart 420 aio cooler black",
+   "tags": "prozessoren asus proart 420 aio cooler black",
    "firstSeen": "2026-11-06"
   },
   {
@@ -13303,7 +13323,7 @@
    "name": "Xilence M704 CPU-Kühler mit Lüfter AMD® AM4, AMD® AM5, Intel® LGA 1150, Intel® LGA 1151, Intel® LGA 1155, Intel® LGA 115",
    "source": "crawler",
    "url": "https://www.conrad.de/de/p/xilence-m704-cpu-kuehler-mit-luefter-amd-am4-amd-am5-intel-lga-1150-intel-lga-1151-intel-lga-1155-intel-lga-115-2895988.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-20T11:28",
    "offers": [
     {
      "shop": "Conrad",
@@ -13334,6 +13354,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 17.64
+    },
+    {
+     "d": "2026-11-20",
      "p": 17.64
     }
    ],
@@ -15964,7 +15988,7 @@
    "name": "Noctua NF-F12 5V CPU-Kühler mit Lüfter Braun, Beige (B x H x T) 120 x 120 x 25 mm",
    "source": "crawler",
    "url": "https://www.conrad.de/de/p/noctua-nf-f12-5v-cpu-kuehler-mit-luefter-braun-beige-b-x-h-x-t-120-x-120-x-25-mm-2108186.html",
-   "stand": "2026-11-19T21:55",
+   "stand": "2026-11-20T11:28",
    "offers": [
     {
      "shop": "Conrad",
@@ -15979,6 +16003,10 @@
    "hist": [
     {
      "d": "2026-11-19",
+     "p": 21.84
+    },
+    {
+     "d": "2026-11-20",
      "p": 21.84
     }
    ],
@@ -16301,7 +16329,7 @@
    "name": "AMD Wraith Prism - CPU-Luftkühler",
    "source": "crawler",
    "url": "https://www.proshop.de/CPU-Kuehler/AMD-Wraith-Prism-CPU-Luftkuehler/3533739",
-   "stand": "2026-11-19T11:26",
+   "stand": "2026-11-20T11:28",
    "offers": [
     {
      "shop": "proshop.de",
@@ -16316,6 +16344,10 @@
    "hist": [
     {
      "d": "2026-11-19",
+     "p": 22.18
+    },
+    {
+     "d": "2026-11-20",
      "p": 22.18
     }
    ],
@@ -18447,7 +18479,7 @@
    "name": "QNAP QNAP ZUB Lüfter FAN-7CM-R01 70x70x25mm f CPU-Kühler mit Lüfter",
    "source": "crawler",
    "url": "https://www.conrad.de/de/p/qnap-qnap-zub-luefter-fan-7cm-r01-70x70x25mm-f-cpu-kuehler-mit-luefter-3766795.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-20T11:28",
    "offers": [
     {
      "shop": "Conrad",
@@ -18482,6 +18514,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 25.59
+    },
+    {
+     "d": "2026-11-20",
      "p": 25.59
     }
    ],
@@ -19479,22 +19515,26 @@
    "name": "Thermaltake NiC L32 - CPU-Luftkühler",
    "source": "crawler",
    "url": "https://www.proshop.de/CPU-Kuehler/Thermaltake-NiC-L32-CPU-Luftkuehler/3532303",
-   "stand": "2026-11-19T11:26",
+   "stand": "2026-11-20T11:28",
    "offers": [
     {
      "shop": "proshop.de",
-     "price": 27.54,
+     "price": 27.36,
      "ship": 4.99,
      "avail": "Auf Lager",
      "url": "https://www.proshop.de/CPU-Kuehler/Thermaltake-NiC-L32-CPU-Luftkuehler/3532303"
     }
    ],
-   "price": 27.54,
+   "price": 27.36,
    "shop": "proshop.de",
    "hist": [
     {
      "d": "2026-11-19",
      "p": 27.54
+    },
+    {
+     "d": "2026-11-20",
+     "p": 27.36
     }
    ],
    "count": 1,
@@ -22022,17 +22062,17 @@
    "name": "QNAP QNAP ZUB Lüfter FAN-7CM-T01 70x70x25mm f CPU-Kühler mit Lüfter",
    "source": "crawler",
    "url": "https://www.conrad.de/de/p/qnap-qnap-zub-luefter-fan-7cm-t01-70x70x25mm-f-cpu-kuehler-mit-luefter-3766794.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-20T11:28",
    "offers": [
     {
      "shop": "Conrad",
-     "price": 33.41,
+     "price": 33.38,
      "ship": null,
      "avail": "Begrenzt lieferbar",
      "url": "https://www.conrad.de/de/p/qnap-qnap-zub-luefter-fan-7cm-t01-70x70x25mm-f-cpu-kuehler-mit-luefter-3766794.html"
     }
    ],
-   "price": 33.41,
+   "price": 33.38,
    "shop": "Conrad",
    "hist": [
     {
@@ -22054,6 +22094,10 @@
     {
      "d": "2026-11-19",
      "p": 33.41
+    },
+    {
+     "d": "2026-11-20",
+     "p": 33.38
     }
    ],
    "count": 1,
@@ -22067,17 +22111,17 @@
    "name": "QNAP QNAP ZUB Lüfter FAN-8CM-T01 80x80x25mm f CPU-Kühler mit Lüfter",
    "source": "crawler",
    "url": "https://www.conrad.de/de/p/qnap-qnap-zub-luefter-fan-8cm-t01-80x80x25mm-f-cpu-kuehler-mit-luefter-3766796.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-20T11:28",
    "offers": [
     {
      "shop": "Conrad",
-     "price": 33.41,
+     "price": 33.38,
      "ship": null,
      "avail": "Begrenzt lieferbar",
      "url": "https://www.conrad.de/de/p/qnap-qnap-zub-luefter-fan-8cm-t01-80x80x25mm-f-cpu-kuehler-mit-luefter-3766796.html"
     }
    ],
-   "price": 33.41,
+   "price": 33.38,
    "shop": "Conrad",
    "hist": [
     {
@@ -22103,6 +22147,10 @@
     {
      "d": "2026-11-19",
      "p": 33.41
+    },
+    {
+     "d": "2026-11-20",
+     "p": 33.38
     }
    ],
    "count": 1,
@@ -27418,51 +27466,6 @@
    "firstSeen": "2026-11-13"
   },
   {
-   "id": "c-noctua-nh-l9i-17xx-cpu-kuhler-mit-lufter-intel-lga-1700",
-   "cat": "Kühlung",
-   "sub": "Luftkühler",
-   "name": "Noctua NH-L9i-17xx CPU-Kühler mit Lüfter Intel® LGA 1700",
-   "source": "crawler",
-   "url": "https://www.conrad.de/de/p/noctua-nh-l9i-17xx-cpu-kuehler-mit-luefter-intel-lga-1700-2498965.html",
-   "stand": "2026-11-19T17:58",
-   "offers": [
-    {
-     "shop": "Conrad",
-     "price": 43.69,
-     "ship": 4.95,
-     "avail": "Auf Lager",
-     "url": "https://www.conrad.de/de/p/noctua-nh-l9i-17xx-cpu-kuehler-mit-luefter-intel-lga-1700-2498965.html"
-    }
-   ],
-   "price": 43.69,
-   "shop": "Conrad",
-   "hist": [
-    {
-     "d": "2026-11-13",
-     "p": 43.69
-    },
-    {
-     "d": "2026-11-16",
-     "p": 43.69
-    },
-    {
-     "d": "2026-11-17",
-     "p": 43.69
-    },
-    {
-     "d": "2026-11-18",
-     "p": 43.69
-    },
-    {
-     "d": "2026-11-19",
-     "p": 43.69
-    }
-   ],
-   "count": 1,
-   "tags": "kuhlung luftkuhler noctua l9i 17xx cpu kuhler mit lufter intel lga 1700",
-   "firstSeen": "2026-11-13"
-  },
-  {
    "id": "c-thermalright-peerless-assassin-120-se-cpu-kuhler-120mm",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -31734,6 +31737,55 @@
    "firstSeen": "2026-11-20"
   },
   {
+   "id": "c-noctua-nh-l9i-17xx-cpu-kuhler-mit-lufter-intel-lga-1700",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Noctua NH-L9i-17xx CPU-Kühler mit Lüfter Intel® LGA 1700",
+   "source": "crawler",
+   "url": "https://www.conrad.de/de/p/noctua-nh-l9i-17xx-cpu-kuehler-mit-luefter-intel-lga-1700-2498965.html",
+   "stand": "2026-11-20T11:28",
+   "offers": [
+    {
+     "shop": "Conrad",
+     "price": 52.74,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.conrad.de/de/p/noctua-nh-l9i-17xx-cpu-kuehler-mit-luefter-intel-lga-1700-2498965.html"
+    }
+   ],
+   "price": 52.74,
+   "shop": "Conrad",
+   "hist": [
+    {
+     "d": "2026-11-13",
+     "p": 43.69
+    },
+    {
+     "d": "2026-11-16",
+     "p": 43.69
+    },
+    {
+     "d": "2026-11-17",
+     "p": 43.69
+    },
+    {
+     "d": "2026-11-18",
+     "p": 43.69
+    },
+    {
+     "d": "2026-11-19",
+     "p": 43.69
+    },
+    {
+     "d": "2026-11-20",
+     "p": 52.74
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler noctua l9i 17xx cpu kuhler mit lufter intel lga 1700",
+   "firstSeen": "2026-11-13"
+  },
+  {
    "id": "c-thermalright-peerless-assassin-120-se-white-argb-cpu-luftkuh",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -32233,6 +32285,35 @@
    ],
    "count": 1,
    "tags": "netzteile bis 600 w inter tech 350 bulk netzteil plus gold flex atx grau",
+   "firstSeen": "2026-11-20"
+  },
+  {
+   "id": "c-emtec-power-pro-x300-ssd-128-gb-m-2-2280-nvme-pcie-3-0-x4-in",
+   "cat": "SSDs",
+   "sub": "NVMe 128 GB",
+   "name": "EMTEC Power Pro X300 SSD 128 GB M.2 2280 NVMe PCIe 3.0 x4 Intern",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/emtec-power-pro-x300-ssd-128-gb-m-2-2280-nvme-pcie-3-0-x4-intern-6169949/",
+   "stand": "2026-11-20T11:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 54.73,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/emtec-power-pro-x300-ssd-128-gb-m-2-2280-nvme-pcie-3-0-x4-intern-6169949/"
+    }
+   ],
+   "price": 54.73,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-20",
+     "p": 54.73
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 128 gb emtec power pro x300 ssd 128 2280 nvme pcie intern",
    "firstSeen": "2026-11-20"
   },
   {
@@ -32918,6 +32999,35 @@
    "firstSeen": "2026-11-05"
   },
   {
+   "id": "c-patriot-p300-128-gb-ssd-m-2-2280-pcie-3-0-x4-nvme",
+   "cat": "SSDs",
+   "sub": "NVMe 128 GB",
+   "name": "Patriot P300 128 GB SSD M.2 2280 PCIe 3.0 x4 NVMe",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/patriot-p300-128-gb-ssd-m-2-2280-pcie-3-0-x4-nvme-6242903/",
+   "stand": "2026-11-20T11:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 55.19,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/patriot-p300-128-gb-ssd-m-2-2280-pcie-3-0-x4-nvme-6242903/"
+    }
+   ],
+   "price": 55.19,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-20",
+     "p": 55.19
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 128 gb patriot p300 128 ssd 2280 pcie nvme",
+   "firstSeen": "2026-11-20"
+  },
+  {
    "id": "c-chieftec-eon-series-zpu-700s-netzteil-700-w-80-plus-atx-eleg",
    "cat": "Netzteile",
    "sub": "650 W",
@@ -33241,7 +33351,7 @@
    "name": "Dynatron Q5 CPU-Kühler mit Lüfter Intel® LGA 1700",
    "source": "crawler",
    "url": "https://www.conrad.de/de/p/dynatron-q5-cpu-kuehler-mit-luefter-intel-lga-1700-2523961.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-20T11:28",
    "offers": [
     {
      "shop": "Conrad",
@@ -33272,6 +33382,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 57.13
+    },
+    {
+     "d": "2026-11-20",
      "p": 57.13
     }
    ],
@@ -33372,6 +33486,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler dynatron cpu kuhler",
    "firstSeen": "2026-11-09"
+  },
+  {
+   "id": "c-patriot-p210-ssd-256-gb-sata-6gb-s-2-5",
+   "cat": "SSDs",
+   "sub": "SATA 256 GB",
+   "name": "Patriot P210 SSD 256 GB SATA 6Gb/s 2.5\"",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/patriot-p210-ssd-256-gb-sata-6gb-s-2-5-6485173/",
+   "stand": "2026-11-20T11:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 58.18,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/patriot-p210-ssd-256-gb-sata-6gb-s-2-5-6485173/"
+    }
+   ],
+   "price": 58.18,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-20",
+     "p": 58.18
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 256 gb patriot p210 ssd 256 sata 6gb",
+   "firstSeen": "2026-11-20"
   },
   {
    "id": "c-alphacool-eisblock-xpx-aurora-edge-acryl-black-cpu-kuhler",
@@ -37190,13 +37333,100 @@
    "firstSeen": "2026-11-12"
   },
   {
+   "id": "c-silicon-power-p34a60-256-gb-ssd-m-2-2280-pcie-3-0-x4-nvme",
+   "cat": "SSDs",
+   "sub": "NVMe 256 GB",
+   "name": "Silicon Power P34A60 256 GB SSD M.2 2280 PCIe 3.0 x4 NVMe",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/silicon-power-p34a60-256-gb-ssd-m-2-2280-pcie-3-0-x4-nvme-6118374/",
+   "stand": "2026-11-20T11:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 67.25,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/silicon-power-p34a60-256-gb-ssd-m-2-2280-pcie-3-0-x4-nvme-6118374/"
+    }
+   ],
+   "price": 67.25,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-20",
+     "p": 67.25
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 256 gb silicon power p34a60 256 ssd 2280 pcie nvme",
+   "firstSeen": "2026-11-20"
+  },
+  {
+   "id": "c-patriot-p300-ssd-256-gb-m-2-2280-nvme-pcie-3-0-x4-intern",
+   "cat": "SSDs",
+   "sub": "NVMe 256 GB",
+   "name": "Patriot P300 SSD 256 GB M.2 2280 NVMe PCIe 3.0 x4 intern",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/patriot-p300-ssd-256-gb-m-2-2280-nvme-pcie-3-0-x4-intern-6242902/",
+   "stand": "2026-11-20T11:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 67.48,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/patriot-p300-ssd-256-gb-m-2-2280-nvme-pcie-3-0-x4-intern-6242902/"
+    }
+   ],
+   "price": 67.48,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-20",
+     "p": 67.48
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 256 gb patriot p300 ssd 256 2280 nvme pcie intern",
+   "firstSeen": "2026-11-20"
+  },
+  {
+   "id": "c-emtec-power-pro-x300-256-gb-ssd-m-2-2280-nvme-pcie-3-0-x4-in",
+   "cat": "SSDs",
+   "sub": "NVMe 256 GB",
+   "name": "EMTEC Power Pro X300 256 GB SSD M.2 2280 NVMe PCIe 3.0 x4 Intern",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/emtec-power-pro-x300-256-gb-ssd-m-2-2280-nvme-pcie-3-0-x4-intern-6169951/",
+   "stand": "2026-11-20T11:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 67.48,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/emtec-power-pro-x300-256-gb-ssd-m-2-2280-nvme-pcie-3-0-x4-intern-6169951/"
+    }
+   ],
+   "price": 67.48,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-20",
+     "p": 67.48
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 256 gb emtec power pro x300 256 ssd 2280 nvme pcie intern",
+   "firstSeen": "2026-11-20"
+  },
+  {
    "id": "c-inter-tech-b-13-cpu-kuhler-mit-lufter-intel-3647",
    "cat": "Kühlung",
    "sub": "Luftkühler",
    "name": "Inter-Tech B-13 CPU-Kühler mit Lüfter Intel® 3647",
    "source": "crawler",
    "url": "https://www.conrad.de/de/p/inter-tech-b-13-cpu-kuehler-mit-luefter-intel-3647-2895955.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-20T11:28",
    "offers": [
     {
      "shop": "Conrad",
@@ -37227,6 +37457,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 67.78
+    },
+    {
+     "d": "2026-11-20",
      "p": 67.78
     }
    ],
@@ -45427,6 +45661,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-verbatim-vi560-s3-ssd-512-gb-m-2-2280-sata-6gb-s-intern",
+   "cat": "SSDs",
+   "sub": "SATA 512 GB",
+   "name": "Verbatim Vi560 S3 SSD 512 GB M.2 2280 SATA 6Gb/s intern",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/verbatim-vi560-s3-ssd-512-gb-m-2-2280-sata-6gb-s-intern-6118342/",
+   "stand": "2026-11-20T11:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 88.93,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/verbatim-vi560-s3-ssd-512-gb-m-2-2280-sata-6gb-s-intern-6118342/"
+    }
+   ],
+   "price": 88.93,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-20",
+     "p": 88.93
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 512 gb verbatim vi560 ssd 512 2280 sata 6gb intern",
+   "firstSeen": "2026-11-20"
+  },
+  {
    "id": "c-asrock-b550m-pro4-amd-b550-mainboard-sockel-am4",
    "cat": "Mainboards",
    "sub": "AM4 B550",
@@ -47208,6 +47471,35 @@
    "firstSeen": "2026-11-16"
   },
   {
+   "id": "c-patriot-p300-512-gb-ssd-m-2-2280-pcie-3-0-x4-nvme",
+   "cat": "SSDs",
+   "sub": "NVMe 512 GB",
+   "name": "Patriot P300 512 GB SSD M.2 2280 PCIe 3.0 x4 (NVMe)",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/patriot-p300-512-gb-ssd-m-2-2280-pcie-3-0-x4-nvme-6242901/",
+   "stand": "2026-11-20T11:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 91.17,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/patriot-p300-512-gb-ssd-m-2-2280-pcie-3-0-x4-nvme-6242901/"
+    }
+   ],
+   "price": 91.17,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-20",
+     "p": 91.17
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 512 gb patriot p300 512 ssd 2280 pcie nvme",
+   "firstSeen": "2026-11-20"
+  },
+  {
    "id": "c-thermaltake-smart-bm3-netzteil-550-w-atx-80-plus-bronze-schw",
    "cat": "Netzteile",
    "sub": "bis 600 W",
@@ -48926,7 +49218,7 @@
    "name": "QNAP QNAP ZUB Lüfter FAN-12CM-T01 120x120x25m CPU-Kühler mit Lüfter",
    "source": "crawler",
    "url": "https://www.conrad.de/de/p/qnap-qnap-zub-luefter-fan-12cm-t01-120x120x25m-cpu-kuehler-mit-luefter-3766798.html",
-   "stand": "2026-11-19T20:08",
+   "stand": "2026-11-20T11:28",
    "offers": [
     {
      "shop": "Conrad",
@@ -48941,6 +49233,10 @@
    "hist": [
     {
      "d": "2026-11-19",
+     "p": 96.65
+    },
+    {
+     "d": "2026-11-20",
      "p": 96.65
     }
    ],
@@ -55769,6 +56065,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-emtec-power-pro-x300-512-gb-ssd-m-2-2280-nvme-pcie-3-0-x4-in",
+   "cat": "SSDs",
+   "sub": "NVMe 512 GB",
+   "name": "Emtec Power Pro X300 512 GB SSD M.2 2280 NVMe PCIe 3.0 x4 Intern",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/emtec-power-pro-x300-512-gb-ssd-m-2-2280-nvme-pcie-3-0-x4-intern-6169953/",
+   "stand": "2026-11-20T11:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 111.42,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/emtec-power-pro-x300-512-gb-ssd-m-2-2280-nvme-pcie-3-0-x4-intern-6169953/"
+    }
+   ],
+   "price": 111.42,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-20",
+     "p": 111.42
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 512 gb emtec power pro x300 512 ssd 2280 nvme pcie intern",
+   "firstSeen": "2026-11-20"
+  },
+  {
    "id": "c-intel-core-i3-14100-3-5-ghz-raptor-lake-refresh-sockel-1700-",
    "cat": "Prozessoren",
    "sub": "Intel LGA1700",
@@ -55828,6 +56153,35 @@
    "count": 1,
    "tags": "prozessoren intel lga1700 intel core 14100 ghz raptor lake refresh sockel 1700 boxed",
    "firstSeen": "2026-11-02"
+  },
+  {
+   "id": "c-apacer-as2280p4-512-gb-m-2-pcie-3-0-x4-nvme-ssd-2100-1500-mb",
+   "cat": "SSDs",
+   "sub": "NVMe 512 GB",
+   "name": "Apacer AS2280P4 512 GB M.2 PCIe 3.0 x4 NVMe SSD 2100/1500 MB/s",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/apacer-as2280p4-512-gb-m-2-pcie-3-0-x4-nvme-ssd-2100-1500-mb-s-100740610/",
+   "stand": "2026-11-20T11:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 112.32,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/apacer-as2280p4-512-gb-m-2-pcie-3-0-x4-nvme-ssd-2100-1500-mb-s-100740610/"
+    }
+   ],
+   "price": 112.32,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-20",
+     "p": 112.32
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 512 gb apacer as2280p4 512 pcie nvme ssd 2100 1500",
+   "firstSeen": "2026-11-20"
   },
   {
    "id": "c-gigabyte-b760m-ds3h-ddr4-mainboard-lga-1700-micro-atx-schwar",
@@ -66497,6 +66851,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-transcend-115s-ssd-500-gb-m-2-2280-pcie-gen3-x4-nvme",
+   "cat": "SSDs",
+   "sub": "NVMe 500 GB",
+   "name": "Transcend 115S SSD 500 GB M.2 2280 PCIe Gen3 x4 NVMe",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/transcend-115s-ssd-500-gb-m-2-2280-pcie-gen3-x4-nvme-8484293/",
+   "stand": "2026-11-20T11:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 136.05,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/transcend-115s-ssd-500-gb-m-2-2280-pcie-gen3-x4-nvme-8484293/"
+    }
+   ],
+   "price": 136.05,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-20",
+     "p": 136.05
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 500 gb transcend 115s ssd 500 2280 pcie gen3 nvme",
+   "firstSeen": "2026-11-20"
+  },
+  {
    "id": "c-aoc-27e4u-27-fhd-ips-monitor-120-hz-schwarz",
    "cat": "Monitore",
    "sub": "27\"",
@@ -70853,6 +71236,35 @@
    "firstSeen": "2026-11-16"
   },
   {
+   "id": "c-verbatim-vi550-s3-ssd-1-tb-2-5-sata-iii-intern",
+   "cat": "SSDs",
+   "sub": "SATA 1 TB",
+   "name": "Verbatim Vi550 S3 SSD 1 TB 2.5\" SATA III intern",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/verbatim-vi550-s3-ssd-1-tb-2-5-sata-iii-intern-6118334/",
+   "stand": "2026-11-20T11:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 146.06,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/verbatim-vi550-s3-ssd-1-tb-2-5-sata-iii-intern-6118334/"
+    }
+   ],
+   "price": 146.06,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-20",
+     "p": 146.06
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 1 tb verbatim vi550 ssd sata iii intern",
+   "firstSeen": "2026-11-20"
+  },
+  {
    "id": "c-asus-rog-ryuo-iii-240-argb-cpu-wasserkuhlung-240-mm-schwarz",
    "cat": "Kühlung",
    "sub": "AiO-Wasserkühlung",
@@ -71034,6 +71446,35 @@
    "count": 1,
    "tags": "mainboards intel lga1700 b760 msi b760 gaming plus wifi intel motherboard socket 1700 ddr4",
    "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-patriot-p300-m-2-ssd-1-tb-pcie-3-0-x4-nvme",
+   "cat": "SSDs",
+   "sub": "NVMe 1 TB",
+   "name": "Patriot P300 M.2 SSD 1 TB PCIe 3.0 x4 NVMe",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/patriot-p300-m-2-ssd-1-tb-pcie-3-0-x4-nvme-6242900/",
+   "stand": "2026-11-20T11:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 147.25,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/patriot-p300-m-2-ssd-1-tb-pcie-3-0-x4-nvme-6242900/"
+    }
+   ],
+   "price": 147.25,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-20",
+     "p": 147.25
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 1 tb patriot p300 ssd pcie nvme",
+   "firstSeen": "2026-11-20"
   },
   {
    "id": "c-asrock-b760m-steel-legend-wifi-intel-b760-mainboard-sockel-1",
@@ -84755,6 +85196,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-emtec-power-pro-x300-1-tb-m-2-2280-pcie-3-0-x4-nvme-ssd",
+   "cat": "SSDs",
+   "sub": "NVMe 1 TB",
+   "name": "EMTEC Power Pro X300 1 TB M.2 2280 PCIe 3.0 x4 NVMe SSD",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/emtec-power-pro-x300-1-tb-m-2-2280-pcie-3-0-x4-nvme-ssd-6169950/",
+   "stand": "2026-11-20T11:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 184.56,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/emtec-power-pro-x300-1-tb-m-2-2280-pcie-3-0-x4-nvme-ssd-6169950/"
+    }
+   ],
+   "price": 184.56,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-20",
+     "p": 184.56
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 1 tb emtec power pro x300 2280 pcie nvme ssd",
+   "firstSeen": "2026-11-20"
+  },
+  {
    "id": "c-asus-eye-care-vu249cfe-g-23-8-ips-full-hd-monitor-100-hz-gru",
    "cat": "Monitore",
    "sub": "23,8\"",
@@ -94237,6 +94707,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-transcend-mte410s-512-gb-ssd-pcie-4-0-x4-nvme-m-2-2242",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 512 GB",
+   "name": "Transcend MTE410S 512 GB SSD PCIe 4.0 x4 NVMe M.2 2242",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/transcend-mte410s-512-gb-ssd-pcie-4-0-x4-nvme-m-2-2242-100486533/",
+   "stand": "2026-11-20T11:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 220.39,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/transcend-mte410s-512-gb-ssd-pcie-4-0-x4-nvme-m-2-2242-100486533/"
+    }
+   ],
+   "price": 220.39,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-20",
+     "p": 220.39
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 512 gb transcend mte410s 512 ssd pcie nvme 2242",
+   "firstSeen": "2026-11-20"
+  },
+  {
    "id": "c-asus-proart-b760-creator-wifi-intel-b760-mainboard-sockel-lg",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 B760",
@@ -97720,7 +98219,7 @@
    "name": "Renkforce PC Tuning-Kit AMD Ryzen 5 5500 4.2 GHz 8 GB DDR4-RAM Micro-ATX",
    "source": "crawler",
    "url": "https://www.conrad.de/de/p/renkforce-pc-tuning-kit-amd-ryzen-5-5500-4-2-ghz-8-gb-ddr4-ram-micro-atx-2757367.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-20T11:28",
    "offers": [
     {
      "shop": "Conrad",
@@ -97751,6 +98250,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 239.5
+    },
+    {
+     "d": "2026-11-20",
      "p": 239.5
     }
    ],
@@ -101199,6 +101702,35 @@
    "count": 1,
    "tags": "gehause fractal design meshify ambience pro rgb big tower atx tempered glass weiss",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-coreparts-nt-1tbt-2280-1000-gb-m-2-pcie-nvme-ssd",
+   "cat": "SSDs",
+   "sub": "NVMe 1 TB",
+   "name": "CoreParts NT-1TBT/2280 1000 GB M.2 PCIe NVMe SSD",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/coreparts-nt-1tbt-2280-1000-gb-m-2-pcie-nvme-ssd-6421494/",
+   "stand": "2026-11-20T11:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 258.15,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/coreparts-nt-1tbt-2280-1000-gb-m-2-pcie-nvme-ssd-6421494/"
+    }
+   ],
+   "price": 258.15,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-20",
+     "p": 258.15
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 1 tb coreparts 1tbt 2280 1000 pcie nvme ssd",
+   "firstSeen": "2026-11-20"
   },
   {
    "id": "c-asus-tuf-gaming-b850-btf-wifi-w-mainboard-atx-sockel-am5-amd",
@@ -106066,7 +106598,7 @@
    "name": "Renkforce PC Tuning-Kit Intel® Core™ i5 12400 4.40 GHz DDR4-RAM M.2 PCIe NVMe 3.0 x4 Micro-ATX",
    "source": "crawler",
    "url": "https://www.conrad.de/de/p/renkforce-pc-tuning-kit-intel-core-i5-12400-4-40-ghz-ddr4-ram-m-2-pcie-nvme-3-0-x4-micro-atx-3639227.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-20T11:28",
    "offers": [
     {
      "shop": "Conrad",
@@ -106097,6 +106629,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 301.68
+    },
+    {
+     "d": "2026-11-20",
      "p": 301.68
     }
    ],
@@ -106448,7 +106984,7 @@
    "name": "AMD Ryzen 7 5800X3D 8 x 3.4 GHz Prozessor (CPU) Boxed Sockel (PC): AMD® AM4 105 W",
    "source": "crawler",
    "url": "https://www.conrad.de/de/p/amd-ryzen-7-5800x3d-8-x-3-4-ghz-prozessor-cpu-boxed-sockel-pc-amd-am4-105-w-3789054.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-20T11:28",
    "offers": [
     {
      "shop": "Conrad",
@@ -106479,6 +107015,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 306.72
+    },
+    {
+     "d": "2026-11-20",
      "p": 306.72
     }
    ],
@@ -112179,6 +112719,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-patriot-p210-2-tb-ssd-2-5-sata-6gb-s",
+   "cat": "SSDs",
+   "sub": "SATA 2 TB",
+   "name": "Patriot P210 2 TB SSD 2,5\" SATA 6Gb/s",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/patriot-p210-2-tb-ssd-2-5-sata-6gb-s-6485171/",
+   "stand": "2026-11-20T11:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 361.3,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/patriot-p210-2-tb-ssd-2-5-sata-6gb-s-6485171/"
+    }
+   ],
+   "price": 361.3,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-20",
+     "p": 361.3
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 2 tb patriot p210 ssd sata 6gb",
+   "firstSeen": "2026-11-20"
+  },
+  {
    "id": "c-samsung-odyssey-g7-s27dg702eu-27-4k-uhd-144hz-fast-ips-gamin",
    "cat": "Monitore",
    "sub": "27\"",
@@ -114967,6 +115536,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-emtec-power-pro-x300-2-tb-ssd-m-2-2280-nvme-pcie-3-0-x4-inte",
+   "cat": "SSDs",
+   "sub": "NVMe 2 TB",
+   "name": "EMTEC Power Pro X300 2 TB SSD M.2 2280 NVMe PCIe 3.0 x4 Intern",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/emtec-power-pro-x300-2-tb-ssd-m-2-2280-nvme-pcie-3-0-x4-intern-6169952/",
+   "stand": "2026-11-20T11:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 389.71,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/emtec-power-pro-x300-2-tb-ssd-m-2-2280-nvme-pcie-3-0-x4-intern-6169952/"
+    }
+   ],
+   "price": 389.71,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-20",
+     "p": 389.71
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 2 tb emtec power pro x300 ssd 2280 nvme pcie intern",
+   "firstSeen": "2026-11-20"
+  },
+  {
    "id": "c-be-quiet-dark-power-pro-13-netzteil-80-plus-titanium-atx-3-1",
    "cat": "Netzteile",
    "sub": "1000 W+",
@@ -117237,7 +117835,7 @@
    "name": "Renkforce PC Tuning-Kit Intel® Core™ i5-12400 4.4 GHz 16 GB DDR4-RAM M.2 PCIe Micro-ATX",
    "source": "crawler",
    "url": "https://www.conrad.de/de/p/renkforce-pc-tuning-kit-intel-core-i5-12400-4-4-ghz-16-gb-ddr4-ram-m-2-pcie-micro-atx-3333811.html",
-   "stand": "2026-11-19T20:08",
+   "stand": "2026-11-20T11:28",
    "offers": [
     {
      "shop": "Conrad",
@@ -117252,6 +117850,10 @@
    "hist": [
     {
      "d": "2026-11-19",
+     "p": 415.97
+    },
+    {
+     "d": "2026-11-20",
      "p": 415.97
     }
    ],
@@ -118637,6 +119239,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-hp-all-in-one-pc-aio-hp-all-in-one-touch-pc-24-cr0242ng-60-5",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "HP All-in-One PC AIO HP All-in-One Touch PC 24-cr0242ng 60.5 cm (23.8 Zoll) Full HD Intel® Core™ i3 i3-N300 3.8 GHz 8 GB",
+   "source": "crawler",
+   "url": "https://www.conrad.de/de/p/hp-all-in-one-pc-aio-hp-all-in-one-touch-pc-24-cr0242ng-60-5-cm-23-8-zoll-full-hd-intel-core-i3-i3-n300-3-8-ghz-8-gb-3839529.html",
+   "stand": "2026-11-20T11:28",
+   "offers": [
+    {
+     "shop": "Conrad",
+     "price": 444.54,
+     "ship": 0,
+     "avail": "Auf Lager",
+     "url": "https://www.conrad.de/de/p/hp-all-in-one-pc-aio-hp-all-in-one-touch-pc-24-cr0242ng-60-5-cm-23-8-zoll-full-hd-intel-core-i3-i3-n300-3-8-ghz-8-gb-3839529.html"
+    }
+   ],
+   "price": 444.54,
+   "shop": "Conrad",
+   "hist": [
+    {
+     "d": "2026-11-20",
+     "p": 444.54
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung all one aio touch cr0242ng zoll full intel core n300 ghz",
+   "firstSeen": "2026-11-20"
+  },
+  {
    "id": "c-gigabyte-geforce-rtx-5050-windforce-oc-8g-8192-mb-gddr6",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5050",
@@ -119603,7 +120234,7 @@
    "name": "Renkforce PC Tuning-Kit AMD Ryzen 5 5600GT 4.6 GHz 16 GB DDR4-RAM 1 TB M.2 PCIe Win 11 Pro Micro-ATX",
    "source": "crawler",
    "url": "https://www.conrad.de/de/p/renkforce-pc-tuning-kit-amd-ryzen-5-5600gt-4-6-ghz-16-gb-ddr4-ram-1-tb-m-2-pcie-win-11-pro-micro-atx-3399057.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-20T11:28",
    "offers": [
     {
      "shop": "Conrad",
@@ -119639,11 +120270,44 @@
     {
      "d": "2026-11-19",
      "p": 469.75
+    },
+    {
+     "d": "2026-11-20",
+     "p": 469.75
     }
    ],
    "count": 1,
    "tags": "arbeitsspeicher ddr4 16 gb renkforce tuning kit amd ryzen 5600gt ghz ddr4 ram pcie win pro micro atx",
    "firstSeen": "2026-11-13"
+  },
+  {
+   "id": "c-hp-all-in-one-pc-aio-hp-all-in-one-pc-27-cr0111ng-ryz3-7-68-",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "HP All-in-One PC AIO HP All-in-One PC 27-cr0111ng RYZ3 7 68.6 cm (27 Zoll) Full HD AMD Ryzen 3 7320U 4.1 GHz 8 GB RAM 51",
+   "source": "crawler",
+   "url": "https://www.conrad.de/de/p/hp-all-in-one-pc-aio-hp-all-in-one-pc-27-cr0111ng-ryz3-7-68-6-cm-27-zoll-full-hd-amd-ryzen-3-7320u-4-1-ghz-8-gb-ram-51-3839513.html",
+   "stand": "2026-11-20T11:28",
+   "offers": [
+    {
+     "shop": "Conrad",
+     "price": 469.75,
+     "ship": 0,
+     "avail": "Auf Lager",
+     "url": "https://www.conrad.de/de/p/hp-all-in-one-pc-aio-hp-all-in-one-pc-27-cr0111ng-ryz3-7-68-6-cm-27-zoll-full-hd-amd-ryzen-3-7320u-4-1-ghz-8-gb-ram-51-3839513.html"
+    }
+   ],
+   "price": 469.75,
+   "shop": "Conrad",
+   "hist": [
+    {
+     "d": "2026-11-20",
+     "p": 469.75
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung all one aio cr0111ng ryz3 zoll full amd ryzen 7320u ghz ram",
+   "firstSeen": "2026-11-20"
   },
   {
    "id": "c-samsung-9100-pro-series-nvme-ssd-pcie-5-0-m-2-typ-2280-2tb",
@@ -119965,7 +120629,7 @@
    "name": "INNOVATION IT - PC Intel i3-14100 SSD M.2 NVMe - Core i3 - Core i3 - 16 GB",
    "source": "crawler",
    "url": "https://www.conrad.de/de/p/innovation-it-pc-intel-i3-14100-ssd-m-2-nvme-core-i3-core-i3-16-gb-3839436.html",
-   "stand": "2026-11-19T20:08",
+   "stand": "2026-11-20T11:28",
    "offers": [
     {
      "shop": "Conrad",
@@ -119980,6 +120644,10 @@
    "hist": [
     {
      "d": "2026-11-19",
+     "p": 478.15
+    },
+    {
+     "d": "2026-11-20",
      "p": 478.15
     }
    ],
@@ -121648,7 +122316,7 @@
    "name": "Renkforce PC Tuning-Kit Intel® Core™ i5 14600K 5.3 GHz 16 GB DDR4-RAM Micro-ATX",
    "source": "crawler",
    "url": "https://www.conrad.de/de/p/renkforce-pc-tuning-kit-intel-core-i5-14600k-5-3-ghz-16-gb-ddr4-ram-micro-atx-3742054.html",
-   "stand": "2026-11-19T21:55",
+   "stand": "2026-11-20T11:28",
    "offers": [
     {
      "shop": "Conrad",
@@ -121663,6 +122331,10 @@
    "hist": [
     {
      "d": "2026-11-19",
+     "p": 516.81
+    },
+    {
+     "d": "2026-11-20",
      "p": 516.81
     }
    ],
@@ -122022,7 +122694,7 @@
    "name": "Intel® Xeon Gold 6134 8 x 3.2 GHz Octa Core Prozessor (CPU) Tray Sockel (PC): Intel® 3647 130 W CD 8067303330302",
    "source": "crawler",
    "url": "https://www.conrad.de/de/p/intel-xeon-gold-6134-8-x-3-2-ghz-octa-core-prozessor-cpu-tray-sockel-pc-intel-3647-130-w-cd-8067303330302-1834527.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-20T11:28",
    "offers": [
     {
      "shop": "Conrad",
@@ -122054,11 +122726,44 @@
     {
      "d": "2026-11-19",
      "p": 523.8
+    },
+    {
+     "d": "2026-11-20",
+     "p": 523.8
     }
    ],
    "count": 1,
    "tags": "prozessoren intel xeon gold 6134 ghz octa core prozessor cpu tray sockel 3647 130 8067303330302",
    "firstSeen": "2026-11-13"
+  },
+  {
+   "id": "c-hp-all-in-one-pc-aio-hp-all-in-one-pc-27-cr0109ng-27-i3-68-6",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "HP All-in-One PC AIO HP All-in-One PC 27-cr0109ng 27 i3 68.6 cm (27 Zoll) Full HD Intel® Core™ i3 i3-N300 3.8 GHz 8 GB R",
+   "source": "crawler",
+   "url": "https://www.conrad.de/de/p/hp-all-in-one-pc-aio-hp-all-in-one-pc-27-cr0109ng-27-i3-68-6-cm-27-zoll-full-hd-intel-core-i3-i3-n300-3-8-ghz-8-gb-r-3839531.html",
+   "stand": "2026-11-20T11:28",
+   "offers": [
+    {
+     "shop": "Conrad",
+     "price": 528.57,
+     "ship": 0,
+     "avail": "Auf Lager",
+     "url": "https://www.conrad.de/de/p/hp-all-in-one-pc-aio-hp-all-in-one-pc-27-cr0109ng-27-i3-68-6-cm-27-zoll-full-hd-intel-core-i3-i3-n300-3-8-ghz-8-gb-r-3839531.html"
+    }
+   ],
+   "price": 528.57,
+   "shop": "Conrad",
+   "hist": [
+    {
+     "d": "2026-11-20",
+     "p": 528.57
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung all one aio cr0109ng zoll full intel core n300 ghz",
+   "firstSeen": "2026-11-20"
   },
   {
    "id": "c-gigabyte-geforce-rtx-5060-eagle-max-oc-8g-8192-mb-gddr7",
@@ -123721,6 +124426,35 @@
    "count": 1,
    "tags": "grafikkarten geforce rtx 5060 asus prime geforce rtx 5060 edition 8192 gddr7",
    "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-lenovo-all-in-one-pc-aio-lenovo-ideacentre-a105-24-ryz5-40-8",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Lenovo All-in-One PC AIO Lenovo IdeaCentre A105 24 RYZ5 40/8 60.5 cm (23.8 Zoll) Full HD AMD Ryzen 5 40 4.3 GHz 8 GB RAM",
+   "source": "crawler",
+   "url": "https://www.conrad.de/de/p/lenovo-all-in-one-pc-aio-lenovo-ideacentre-a105-24-ryz5-40-8-60-5-cm-23-8-zoll-full-hd-amd-ryzen-5-40-4-3-ghz-8-gb-ram-3839593.html",
+   "stand": "2026-11-20T11:28",
+   "offers": [
+    {
+     "shop": "Conrad",
+     "price": 550.42,
+     "ship": 0,
+     "avail": "Auf Lager",
+     "url": "https://www.conrad.de/de/p/lenovo-all-in-one-pc-aio-lenovo-ideacentre-a105-24-ryz5-40-8-60-5-cm-23-8-zoll-full-hd-amd-ryzen-5-40-4-3-ghz-8-gb-ram-3839593.html"
+    }
+   ],
+   "price": 550.42,
+   "shop": "Conrad",
+   "hist": [
+    {
+     "d": "2026-11-20",
+     "p": 550.42
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung lenovo all one aio ideacentre a105 ryz5 zoll full amd ryzen ghz ram",
+   "firstSeen": "2026-11-20"
   },
   {
    "id": "c-asus-rog-strix-xg27acmeg-g-gaming-monitor-hatsune-miku-68-6-",
@@ -139276,6 +140010,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-hpe-p19890-b21-480-gb-sata-6gb-s-m-2-2280-ssd",
+   "cat": "SSDs",
+   "sub": "SATA 480 GB",
+   "name": "HPE P19890-B21 480 GB SATA 6Gb/s M.2 2280 SSD",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/hpe-p19890-b21-480-gb-sata-6gb-s-m-2-2280-ssd-6409116/",
+   "stand": "2026-11-20T11:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 985.37,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/hpe-p19890-b21-480-gb-sata-6gb-s-m-2-2280-ssd-6409116/"
+    }
+   ],
+   "price": 985.37,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-20",
+     "p": 985.37
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 480 gb hpe p19890 b21 480 sata 6gb 2280 ssd",
+   "firstSeen": "2026-11-20"
+  },
+  {
    "id": "c-samsung-9100-pro-ssd-4-tb-m-2-pcie-5-0-nvme-schwarz",
    "cat": "SSDs",
    "sub": "PCIe 5.0 4 TB",
@@ -140987,7 +141750,7 @@
    "name": "Renkforce PC Tuning-Kit AMD Ryzen 7 9800X3D 5.2 GHz 32 GB DDR5-RAM ATX",
    "source": "crawler",
    "url": "https://www.conrad.de/de/p/renkforce-pc-tuning-kit-amd-ryzen-7-9800x3d-5-2-ghz-32-gb-ddr5-ram-atx-3399055.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-20T11:28",
    "offers": [
     {
      "shop": "Conrad",
@@ -141018,6 +141781,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 1088.24
+    },
+    {
+     "d": "2026-11-20",
      "p": 1088.24
     }
    ],
