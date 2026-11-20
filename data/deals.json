@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T08:23:24.845Z",
+ "updated": "2026-11-20T10:08:02.708Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1947,6 +1947,10 @@
     {
      "d": "2026-11-17",
      "p": 69.9
+    },
+    {
+     "d": "2026-11-20",
+     "p": 69.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -2135,6 +2139,80 @@
    "seen": "2026-11-20",
    "updated": "2026-11-20",
    "tags": "monitore 27\" gigabyte m27up ice zoll uhd fhd gaming monitor 160 320hz ips panel freesync premium",
+   "source": "crawler"
+  },
+  {
+   "id": "c-corsair-icue-link-h170i-lcd-liquid-cpu-cooler-generaluberhol",
+   "name": "Corsair iCUE LINK H170i LCD Liquid CPU Cooler Generalüberholt, Wasserkühlung",
+   "cat": "Kühlung",
+   "price": 149.9,
+   "ref": 199.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/Corsair/iCUE-LINK-H170i-LCD-Liquid-CPU-Cooler-General%C3%BCberholt-Wasserk%C3%BChlung/html/product/100190717",
+   "url": "https://www.alternate.de/Corsair/iCUE-LINK-H170i-LCD-Liquid-CPU-Cooler-General%C3%BCberholt-Wasserk%C3%BChlung/html/product/100190717",
+   "note": "25 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-03",
+     "p": 199.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 199.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 199.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 199.9
+    },
+    {
+     "d": "2026-11-07",
+     "p": 199.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 199.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 199.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 199.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 199.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 199.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 199.9
+    },
+    {
+     "d": "2026-11-17",
+     "p": 199.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 199.9
+    },
+    {
+     "d": "2026-11-20",
+     "p": 149.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-20",
+   "updated": "2026-11-20",
+   "tags": "kuhlung aio-wasserkuhlung corsair icue link h170i lcd liquid cpu cooler generaluberholt wasserkuhlung",
    "source": "crawler"
   },
   {
@@ -5559,6 +5637,10 @@
     {
      "d": "2026-11-17",
      "p": 196.67
+    },
+    {
+     "d": "2026-11-20",
+     "p": 196.67
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -5849,64 +5931,6 @@
    "seen": "2026-11-20",
    "updated": "2026-11-20",
    "tags": "kuhlung luftkuhler noctua d15 am4 cpu kuhler",
-   "source": "crawler"
-  },
-  {
-   "id": "c-lg-ultragear-g-27g610a-b-27-zoll-wqhd-gaming-monitor-200hz-i",
-   "name": "LG UltraGear G 27G610A-B 27 Zoll WQHD Gaming-Monitor, 200Hz, IPS, FreeSync Premium",
-   "cat": "Monitore",
-   "price": 169,
-   "ref": 189.9,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/lg-ultragear-g-27g610a-b-27-inch-wqhd-gaming-monitor-200hz-ips-freesync-premium/TFLG-186.html",
-   "url": "https://www.caseking.de/en/lg-ultragear-g-27g610a-b-27-inch-wqhd-gaming-monitor-200hz-ips-freesync-premium/TFLG-186.html",
-   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 189.9
-    },
-    {
-     "d": "2026-11-01",
-     "p": 189.9
-    },
-    {
-     "d": "2026-11-03",
-     "p": 189.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 189.9
-    },
-    {
-     "d": "2026-11-07",
-     "p": 189.9
-    },
-    {
-     "d": "2026-11-09",
-     "p": 189.9
-    },
-    {
-     "d": "2026-11-11",
-     "p": 169
-    },
-    {
-     "d": "2026-11-13",
-     "p": 169
-    },
-    {
-     "d": "2026-11-16",
-     "p": 169
-    },
-    {
-     "d": "2026-11-18",
-     "p": 169
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-20",
-   "updated": "2026-11-20",
-   "tags": "monitore 27\" ultragear 27g610a zoll wqhd gaming monitor 200hz ips freesync premium",
    "source": "crawler"
   }
  ],
