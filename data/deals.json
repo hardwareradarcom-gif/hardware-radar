@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-20T11:28:15.017Z",
+ "updated": "2026-11-20T12:00:14.688Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1137,6 +1137,10 @@
     {
      "d": "2026-11-18",
      "p": 39.9
+    },
+    {
+     "d": "2026-11-20",
+     "p": 39.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -2075,6 +2079,10 @@
     {
      "d": "2026-11-17",
      "p": 821.85
+    },
+    {
+     "d": "2026-11-20",
+     "p": 821.85
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -2132,6 +2140,10 @@
     },
     {
      "d": "2026-11-18",
+     "p": 269
+    },
+    {
+     "d": "2026-11-20",
      "p": 269
     }
    ],
@@ -2583,6 +2595,10 @@
     {
      "d": "2026-11-18",
      "p": 34.9
+    },
+    {
+     "d": "2026-11-20",
+     "p": 34.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -2812,8 +2828,8 @@
    "price": 114.9,
    "ref": 144.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/lian-li-sp850-v2-gold-power-supply-modular-atx-3.1-850-watts-black/NELI-028.html",
-   "url": "https://www.caseking.de/en/lian-li-sp850-v2-gold-power-supply-modular-atx-3.1-850-watts-black/NELI-028.html",
+   "shopUrl": "https://www.caseking.de/lian-li-sp850-v2-gold-netzteil-modular-atx-3.1-850-watt-schwarz/NELI-028.html",
+   "url": "https://www.caseking.de/lian-li-sp850-v2-gold-netzteil-modular-atx-3.1-850-watt-schwarz/NELI-028.html",
    "note": "21 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -2878,6 +2894,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 114.9
+    },
+    {
+     "d": "2026-11-20",
      "p": 114.9
     }
    ],
@@ -3148,8 +3168,8 @@
    "price": 39.9,
    "ref": 49.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/thermalright-axp120-x67-argb-low-profile-cpu-cooler-120mm-white/CPTR-120.html",
-   "url": "https://www.caseking.de/en/thermalright-axp120-x67-argb-low-profile-cpu-cooler-120mm-white/CPTR-120.html",
+   "shopUrl": "https://www.caseking.de/thermalright-axp120-x67-argb-low-profile-cpu-kuehler-120mm-weiss/CPTR-120.html",
+   "url": "https://www.caseking.de/thermalright-axp120-x67-argb-low-profile-cpu-kuehler-120mm-weiss/CPTR-120.html",
    "note": "20 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -3194,6 +3214,10 @@
     },
     {
      "d": "2026-11-18",
+     "p": 39.9
+    },
+    {
+     "d": "2026-11-20",
      "p": 39.9
     }
    ],
@@ -3994,7 +4018,7 @@
   {
    "id": "c-asus-proart-lc-420-aio-cooler-black",
    "name": "ASUS ProArt LC 420 AIO Cooler - black",
-   "cat": "Prozessoren",
+   "cat": "Kühlung",
    "price": 270,
    "ref": 319.9,
    "shop": "Conrad",
@@ -4038,7 +4062,7 @@
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
    "seen": "2026-11-20",
    "updated": "2026-11-20",
-   "tags": "prozessoren asus proart 420 aio cooler black",
+   "tags": "kuhlung aio-wasserkuhlung asus proart 420 aio cooler black",
    "source": "crawler"
   },
   {
@@ -4500,6 +4524,10 @@
     },
     {
      "d": "2026-11-17",
+     "p": 1692.14
+    },
+    {
+     "d": "2026-11-20",
      "p": 1692.14
     }
    ],
@@ -5406,68 +5434,6 @@
    "source": "crawler"
   },
   {
-   "id": "c-asus-b850-max-gaming-wifi-w-mainboard-atx-sockel-am5-amd-b85",
-   "name": "ASUS B850 MAX GAMING WIFI W Mainboard ATX Sockel AM5 AMD B850 DDR5 Weiß",
-   "cat": "Mainboards",
-   "price": 223.87,
-   "ref": 254.16,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/asus-b850-max-gaming-wifi-w-mainboard-atx-sockel-am5-amd-b850-ddr5-weiss-100568096/",
-   "url": "https://www.jacob.de/produkt/asus-b850-max-gaming-wifi-w-mainboard-atx-sockel-am5-amd-b850-ddr5-weiss-100568096/",
-   "note": "12 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 254.16
-    },
-    {
-     "d": "2026-10-31",
-     "p": 254.16
-    },
-    {
-     "d": "2026-11-01",
-     "p": 254.16
-    },
-    {
-     "d": "2026-11-02",
-     "p": 254.16
-    },
-    {
-     "d": "2026-11-03",
-     "p": 254.16
-    },
-    {
-     "d": "2026-11-05",
-     "p": 254.16
-    },
-    {
-     "d": "2026-11-07",
-     "p": 254.16
-    },
-    {
-     "d": "2026-11-10",
-     "p": 225.86
-    },
-    {
-     "d": "2026-11-12",
-     "p": 225.09
-    },
-    {
-     "d": "2026-11-14",
-     "p": 222.88
-    },
-    {
-     "d": "2026-11-17",
-     "p": 223.87
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-20",
-   "updated": "2026-11-20",
-   "tags": "mainboards am5 b850 asus b850 max gaming wifi mainboard atx sockel am5 amd ddr5 weiss",
-   "source": "crawler"
-  },
-  {
    "id": "c-intel-core-i7-14700f-2-1-ghz-raptor-lake-refresh-sockel-1700",
    "name": "Intel Core i7-14700F 2,1 GHz (Raptor Lake Refresh) Sockel 1700 - boxed",
    "cat": "Prozessoren",
@@ -5593,6 +5559,72 @@
    "seen": "2026-11-20",
    "updated": "2026-11-20",
    "tags": "monitore 27\" gigabyte m27q2 qhd ips gaming monitor 200 schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-asus-b850-max-gaming-wifi-w-mainboard-atx-sockel-am5-amd-b85",
+   "name": "ASUS B850 MAX GAMING WIFI W Mainboard ATX Sockel AM5 AMD B850 DDR5 Weiß",
+   "cat": "Mainboards",
+   "price": 225.09,
+   "ref": 254.16,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/asus-b850-max-gaming-wifi-w-mainboard-atx-sockel-am5-amd-b850-ddr5-weiss-100568096/",
+   "url": "https://www.jacob.de/produkt/asus-b850-max-gaming-wifi-w-mainboard-atx-sockel-am5-amd-b850-ddr5-weiss-100568096/",
+   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 254.16
+    },
+    {
+     "d": "2026-10-31",
+     "p": 254.16
+    },
+    {
+     "d": "2026-11-01",
+     "p": 254.16
+    },
+    {
+     "d": "2026-11-02",
+     "p": 254.16
+    },
+    {
+     "d": "2026-11-03",
+     "p": 254.16
+    },
+    {
+     "d": "2026-11-05",
+     "p": 254.16
+    },
+    {
+     "d": "2026-11-07",
+     "p": 254.16
+    },
+    {
+     "d": "2026-11-10",
+     "p": 225.86
+    },
+    {
+     "d": "2026-11-12",
+     "p": 225.09
+    },
+    {
+     "d": "2026-11-14",
+     "p": 222.88
+    },
+    {
+     "d": "2026-11-17",
+     "p": 223.87
+    },
+    {
+     "d": "2026-11-20",
+     "p": 225.09
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-20",
+   "updated": "2026-11-20",
+   "tags": "mainboards am5 b850 asus b850 max gaming wifi mainboard atx sockel am5 amd ddr5 weiss",
    "source": "crawler"
   },
   {
