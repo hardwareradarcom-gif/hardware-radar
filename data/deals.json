@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T11:49:52.664Z",
+ "updated": "2026-11-21T14:03:21.866Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1405,6 +1405,10 @@
     {
      "d": "2026-11-18",
      "p": 1314.93
+    },
+    {
+     "d": "2026-11-21",
+     "p": 1314.93
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -1466,6 +1470,10 @@
     },
     {
      "d": "2026-11-18",
+     "p": 298.73
+    },
+    {
+     "d": "2026-11-21",
      "p": 298.73
     }
    ],
@@ -1722,6 +1730,10 @@
     },
     {
      "d": "2026-11-18",
+     "p": 394.56
+    },
+    {
+     "d": "2026-11-21",
      "p": 394.56
     }
    ],
@@ -4673,6 +4685,10 @@
     {
      "d": "2026-11-19",
      "p": 129.9
+    },
+    {
+     "d": "2026-11-21",
+     "p": 129.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -4899,52 +4915,6 @@
    "seen": "2026-11-21",
    "updated": "2026-11-21",
    "tags": "mainboards intel lga1700 z790 gigabyte z790 sockel lga 1700 intel atx ddr5",
-   "source": "crawler"
-  },
-  {
-   "id": "c-sharkoon-rebel-p20-sfx-1000w-pc-netzteil",
-   "name": "Sharkoon Rebel P20 SFX 1000W, PC-Netzteil",
-   "cat": "Netzteile",
-   "price": 173.9,
-   "ref": 199.9,
-   "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/Sharkoon/Rebel-P20-SFX-1000W-PC-Netzteil/html/product/100227474",
-   "url": "https://www.alternate.de/Sharkoon/Rebel-P20-SFX-1000W-PC-Netzteil/html/product/100227474",
-   "note": "13 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-12",
-     "p": 199.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 199.9
-    },
-    {
-     "d": "2026-11-14",
-     "p": 199.9
-    },
-    {
-     "d": "2026-11-16",
-     "p": 199.9
-    },
-    {
-     "d": "2026-11-17",
-     "p": 199.9
-    },
-    {
-     "d": "2026-11-19",
-     "p": 199.9
-    },
-    {
-     "d": "2026-11-20",
-     "p": 173.9
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-21",
-   "updated": "2026-11-21",
-   "tags": "netzteile sfx sharkoon rebel p20 1000w netzteil",
    "source": "crawler"
   },
   {
@@ -6071,6 +6041,68 @@
    "seen": "2026-11-21",
    "updated": "2026-11-21",
    "tags": "kuhlung luftkuhler noctua d15 am4 cpu kuhler",
+   "source": "crawler"
+  },
+  {
+   "id": "c-zotac-gaming-geforce-rtx-5090-solid-oc-white-edition-32768-m",
+   "name": "ZOTAC GAMING GeForce RTX 5090 Solid OC White Edition, 32768 MB GDDR7",
+   "cat": "Grafikkarten",
+   "price": 7999,
+   "ref": 8999,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/zotac-gaming-geforce-rtx-5090-solid-oc-white-edition-32768-mb-gddr7/GCZT-279.html",
+   "url": "https://www.caseking.de/en/zotac-gaming-geforce-rtx-5090-solid-oc-white-edition-32768-mb-gddr7/GCZT-279.html",
+   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 8499
+    },
+    {
+     "d": "2026-10-31",
+     "p": 8499
+    },
+    {
+     "d": "2026-11-02",
+     "p": 8499
+    },
+    {
+     "d": "2026-11-04",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-06",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-08",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-10",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-13",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-15",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-18",
+     "p": 8199
+    },
+    {
+     "d": "2026-11-20",
+     "p": 7999
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-21",
+   "updated": "2026-11-21",
+   "tags": "grafikkarten geforce rtx 5090 zotac gaming geforce rtx 5090 solid white edition 32768 gddr7",
    "source": "crawler"
   }
  ],
