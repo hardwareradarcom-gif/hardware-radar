@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T14:03:21.866Z",
+ "updated": "2026-11-21T15:50:18.923Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -5394,6 +5394,72 @@
    "source": "crawler"
   },
   {
+   "id": "c-lenovo-00up642-ssd-m-2-2280-512-gb-pcie-3-0-x4-nvme",
+   "name": "Lenovo 00UP642 SSD M.2 2280 512 GB PCIe 3.0 x4 NVMe",
+   "cat": "SSDs",
+   "price": 188.38,
+   "ref": 214.69,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/lenovo-00up642-ssd-m-2-2280-512-gb-pcie-3-0-x4-nvme-5836562/",
+   "url": "https://www.jacob.de/produkt/lenovo-00up642-ssd-m-2-2280-512-gb-pcie-3-0-x4-nvme-5836562/",
+   "note": "12 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 231.59
+    },
+    {
+     "d": "2026-10-31",
+     "p": 231.59
+    },
+    {
+     "d": "2026-11-01",
+     "p": 231.59
+    },
+    {
+     "d": "2026-11-02",
+     "p": 231.59
+    },
+    {
+     "d": "2026-11-03",
+     "p": 200.62
+    },
+    {
+     "d": "2026-11-06",
+     "p": 214.08
+    },
+    {
+     "d": "2026-11-08",
+     "p": 214.69
+    },
+    {
+     "d": "2026-11-11",
+     "p": 188.38
+    },
+    {
+     "d": "2026-11-13",
+     "p": 191.42
+    },
+    {
+     "d": "2026-11-15",
+     "p": 200.62
+    },
+    {
+     "d": "2026-11-18",
+     "p": 214.69
+    },
+    {
+     "d": "2026-11-21",
+     "p": 188.38
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-21",
+   "updated": "2026-11-21",
+   "tags": "ssds nvme 512 gb lenovo 00up642 ssd 2280 512 pcie nvme",
+   "source": "crawler"
+  },
+  {
    "id": "c-asus-b650e-max-gaming-wifi-mainboard-atx-sockel-am5-amd-b650",
    "name": "ASUS B650E MAX GAMING WIFI Mainboard ATX Sockel AM5 AMD B650 DDR5 Schwarz",
    "cat": "Mainboards",
@@ -6035,74 +6101,16 @@
     {
      "d": "2026-11-19",
      "p": 79.9
+    },
+    {
+     "d": "2026-11-21",
+     "p": 79.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
    "seen": "2026-11-21",
    "updated": "2026-11-21",
    "tags": "kuhlung luftkuhler noctua d15 am4 cpu kuhler",
-   "source": "crawler"
-  },
-  {
-   "id": "c-zotac-gaming-geforce-rtx-5090-solid-oc-white-edition-32768-m",
-   "name": "ZOTAC GAMING GeForce RTX 5090 Solid OC White Edition, 32768 MB GDDR7",
-   "cat": "Grafikkarten",
-   "price": 7999,
-   "ref": 8999,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/zotac-gaming-geforce-rtx-5090-solid-oc-white-edition-32768-mb-gddr7/GCZT-279.html",
-   "url": "https://www.caseking.de/en/zotac-gaming-geforce-rtx-5090-solid-oc-white-edition-32768-mb-gddr7/GCZT-279.html",
-   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 8499
-    },
-    {
-     "d": "2026-10-31",
-     "p": 8499
-    },
-    {
-     "d": "2026-11-02",
-     "p": 8499
-    },
-    {
-     "d": "2026-11-04",
-     "p": 8999
-    },
-    {
-     "d": "2026-11-06",
-     "p": 8999
-    },
-    {
-     "d": "2026-11-08",
-     "p": 8999
-    },
-    {
-     "d": "2026-11-10",
-     "p": 8999
-    },
-    {
-     "d": "2026-11-13",
-     "p": 8999
-    },
-    {
-     "d": "2026-11-15",
-     "p": 8999
-    },
-    {
-     "d": "2026-11-18",
-     "p": 8199
-    },
-    {
-     "d": "2026-11-20",
-     "p": 7999
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-21",
-   "updated": "2026-11-21",
-   "tags": "grafikkarten geforce rtx 5090 zotac gaming geforce rtx 5090 solid white edition 32768 gddr7",
    "source": "crawler"
   }
  ],
