@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T15:50:18.923Z",
+ "updated": "2026-11-21T17:18:11.745Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -3178,7 +3178,7 @@
    "name": "Lexar NM790 2 TB",
    "url": "https://geizhals.de/lexar-nm790-2tb-lnm790x002t-rn9ng-a3048709.html",
    "source": "Geizhals",
-   "stand": "2026-11-21T09:52",
+   "stand": "2026-11-21T17:18",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -5080,7 +5080,7 @@
    "name": "ARCTIC Freezer 36",
    "url": "https://geizhals.de/3144218",
    "source": "Geizhals",
-   "stand": "2026-11-20T21:53",
+   "stand": "2026-11-21T17:18",
    "offers": [
     {
      "shop": "Mindfactory",
@@ -7631,7 +7631,7 @@
    "name": "GIGABYTE AORUS GeForce RTX 5090 Master ICE 32G",
    "url": "https://www.hardwaredealz.com/hardware/gpu/nvidia-geforce-rtx-5090-32gb/gigabyte-aorus-master-ice-32gb-gddr7-hdmi-3x-dp/preisvergleich.26367",
    "source": "hardwaredealz",
-   "stand": "2026-11-21T14:03",
+   "stand": "2026-11-21T17:18",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
@@ -22034,6 +22034,35 @@
    "firstSeen": "2026-11-03"
   },
   {
+   "id": "c-jonsbo-cr-1000max-v2-argb-cpu-kuhler-230w-tdp-6x-6mm-heatpip",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Jonsbo CR-1000MAX V2 ARGB CPU-Kühler 230W TDP 6x 6mm Heatpipes 120mm PWM Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/jonsbo-cr-1000max-v2-argb-cpu-kuehler-230w-tdp-6x-6mm-heatpipes-120mm-pwm-weiss-100708176/",
+   "stand": "2026-11-21T17:18",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 30.44,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/jonsbo-cr-1000max-v2-argb-cpu-kuehler-230w-tdp-6x-6mm-heatpipes-120mm-pwm-weiss-100708176/"
+    }
+   ],
+   "price": 30.44,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-21",
+     "p": 30.44
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler jonsbo 1000max argb cpu kuhler 230w tdp 6mm heatpipes 120mm pwm weiss",
+   "firstSeen": "2026-11-21"
+  },
+  {
    "id": "c-silentware-bora-white-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -29843,6 +29872,35 @@
    "firstSeen": "2026-11-05"
   },
   {
+   "id": "c-jonsbo-ca80-dual-tower-cpu-kuhler-argb-260w-tdp-6-heatpipes-",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Jonsbo CA80 Dual-Tower CPU-Kühler ARGB 260W TDP 6 Heatpipes 2x 120mm PWM Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/jonsbo-ca80-dual-tower-cpu-kuehler-argb-260w-tdp-6-heatpipes-2x-120mm-pwm-schwarz-100706960/",
+   "stand": "2026-11-21T17:18",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 47.17,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/jonsbo-ca80-dual-tower-cpu-kuehler-argb-260w-tdp-6-heatpipes-2x-120mm-pwm-schwarz-100706960/"
+    }
+   ],
+   "price": 47.17,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-21",
+     "p": 47.17
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler jonsbo ca80 dual tower cpu kuhler argb 260w tdp heatpipes 120mm pwm schwarz",
+   "firstSeen": "2026-11-21"
+  },
+  {
    "id": "c-thermalright-axp120-x67-cpu-kuhler-120-mm-schwarz-grau-metal",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -30204,6 +30262,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler silverstone sst ar09 am4 cpu kuhler 1200 5000 rpm schwarz",
    "firstSeen": "2026-11-15"
+  },
+  {
+   "id": "c-jonsbo-ca90-dual-tower-cpu-kuhler-argb-6-heatpipes-270w-tdp-",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Jonsbo CA90 Dual-Tower CPU-Kühler ARGB 6 Heatpipes 270W TDP 1x 130mm 1x 120mm PWM Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/jonsbo-ca90-dual-tower-cpu-kuehler-argb-6-heatpipes-270w-tdp-1x-130mm-1x-120mm-pwm-schwarz-100706961/",
+   "stand": "2026-11-21T17:18",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 49.27,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/jonsbo-ca90-dual-tower-cpu-kuehler-argb-6-heatpipes-270w-tdp-1x-130mm-1x-120mm-pwm-schwarz-100706961/"
+    }
+   ],
+   "price": 49.27,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-21",
+     "p": 49.27
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler jonsbo ca90 dual tower cpu kuhler argb heatpipes 270w tdp 130mm 120mm pwm schwarz",
+   "firstSeen": "2026-11-21"
   },
   {
    "id": "c-jonsbo-hx6250-cpu-kuhler-140mm-schwarz",
@@ -32049,6 +32136,35 @@
    "count": 1,
    "tags": "kuhlung aio-wasserkuhlung hyte thicc q60 aio cooler 240 white",
    "firstSeen": "2026-11-18"
+  },
+  {
+   "id": "c-noctua-nh-l9i-cpu-kuhler-92mm",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Noctua NH-L9i CPU-Kühler - 92mm",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/noctua-nh-l9i-cpu-kuehler-92mm/CPNA-027.html",
+   "stand": "2026-11-21T17:18",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 49.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/noctua-nh-l9i-cpu-kuehler-92mm/CPNA-027.html"
+    }
+   ],
+   "price": 49.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-21",
+     "p": 49.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler noctua l9i cpu kuhler 92mm",
+   "firstSeen": "2026-11-21"
   },
   {
    "id": "c-sharkoon-a60-cpu-kuhler",
@@ -42810,6 +42926,35 @@
    "firstSeen": "2026-10-31"
   },
   {
+   "id": "c-sharkoon-s40-all-in-one-cpu-wasserkuhlung-360-mm-radiator-sc",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Sharkoon S40 All-in-One CPU-Wasserkühlung 360 mm Radiator Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/sharkoon-s40-all-in-one-cpu-wasserkuehlung-360-mm-radiator-schwarz-100692192/",
+   "stand": "2026-11-21T17:18",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 76.72,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/sharkoon-s40-all-in-one-cpu-wasserkuehlung-360-mm-radiator-schwarz-100692192/"
+    }
+   ],
+   "price": 76.72,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-21",
+     "p": 76.72
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung sharkoon s40 all one cpu wasserkuhlung 360 radiator schwarz",
+   "firstSeen": "2026-11-21"
+  },
+  {
    "id": "c-asus-prime-a520m-a-ii-csm-amd-a520-mainboard-sockel-socket-a",
    "cat": "Mainboards",
    "sub": "AM4 A520",
@@ -43356,6 +43501,35 @@
    "count": 1,
    "tags": "mainboards intel lga1851 h810 asrock h810m micro atx lga1851 intel h810 ddr5 schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-akasa-viper-h6l-m2-low-profile-cpu-kuhler-120mm-weiss",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Akasa VIPER H6L M2 Low-Profile CPU-Kühler 120mm Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/akasa-viper-h6l-m2-low-profile-cpu-kuehler-120mm-weiss-100709587/",
+   "stand": "2026-11-21T17:18",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 78.41,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/akasa-viper-h6l-m2-low-profile-cpu-kuehler-120mm-weiss-100709587/"
+    }
+   ],
+   "price": 78.41,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-21",
+     "p": 78.41
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler akasa viper h6l low profile cpu kuhler 120mm weiss",
+   "firstSeen": "2026-11-21"
   },
   {
    "id": "c-chieftec-vita-series-bpx-850-s-netzteil-850-w-80-plus-bronze",
@@ -48949,6 +49123,35 @@
    "count": 1,
    "tags": "netzteile seasonic focus 750 atx3 white edition netzteil",
    "firstSeen": "2026-11-17"
+  },
+  {
+   "id": "c-noctua-nh-u14s-cpu-kuhler-140mm",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Noctua NH-U14S CPU-Kühler - 140mm",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/noctua-nh-u14s-cpu-kuehler-140mm/CPNA-029.html",
+   "stand": "2026-11-21T17:18",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 89.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/noctua-nh-u14s-cpu-kuehler-140mm/CPNA-029.html"
+    }
+   ],
+   "price": 89.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-21",
+     "p": 89.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler noctua u14s cpu kuhler 140mm",
+   "firstSeen": "2026-11-21"
   },
   {
    "id": "c-be-quiet-dark-rock-elite-prozessor-luftkuhler-135-mm-schwarz",
@@ -64679,6 +64882,35 @@
    "count": 1,
    "tags": "gehause fractal design epoch white clear tint midi tower atx tempered glass weiss",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-akasa-soho-h6l-m2-low-profile-cpu-kuhler-argb-120mm-weiss-fp4co",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Akasa SOHO H6L M2 Low-Profile CPU-Kühler, ARGB, 120mm, Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/akasa-soho-h6l-m2-low-profile-cpu-kuehler-argb-120mm-weiss-100709588/",
+   "stand": "2026-11-21T17:18",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 126.35,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/akasa-soho-h6l-m2-low-profile-cpu-kuehler-argb-120mm-weiss-100709588/"
+    }
+   ],
+   "price": 126.35,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-21",
+     "p": 126.35
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler akasa soho h6l low profile cpu kuhler argb 120mm weiss",
+   "firstSeen": "2026-11-21"
   },
   {
    "id": "c-dell-p2225h-monitor-21-5-full-hd-ips-100-hz-hdmi-displayport",
@@ -109434,6 +109666,35 @@
    "firstSeen": "2026-11-06"
   },
   {
+   "id": "c-asus-rog-strix-1200-platinum-netzteil-80-plus-platinum-modul",
+   "cat": "Netzteile",
+   "sub": "1000 W+",
+   "name": "ASUS ROG Strix 1200 Platinum Netzteil, 80 PLUS Platinum, modular, PCIe 5.1 - 1.200 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-rog-strix-1200-platinum-power-supply-80-plus-platinum-modular-pcie-5.1-1-200-watts/NEAS-035.html",
+   "stand": "2026-11-21T17:18",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 299.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-rog-strix-1200-platinum-power-supply-80-plus-platinum-modular-pcie-5.1-1-200-watts/NEAS-035.html"
+    }
+   ],
+   "price": 299.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-21",
+     "p": 299.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile 1000 w+ asus rog strix 1200 platinum netzteil plus modular pcie 200 watt",
+   "firstSeen": "2026-11-21"
+  },
+  {
    "id": "c-hp-serie-7-pro-724pn-24-wuxga-ips-monitor-100-hz-schwarz-sil",
    "cat": "Monitore",
    "sub": "24\"",
@@ -111903,6 +112164,35 @@
    "count": 1,
    "tags": "monitore 27\" asus rog strix xg27ucs zoll gaming monitor 160hz ips sync compatible",
    "firstSeen": "2026-11-15"
+  },
+  {
+   "id": "c-asrock-arc-b570-challenger-10gb-oc-grafikkarte-10240-mb-gddr",
+   "cat": "Grafikkarten",
+   "sub": "Intel Arc B570",
+   "name": "ASRock Arc B570 Challenger 10GB OC Grafikkarte, 10240 MB GDDR6",
+   "source": "crawler",
+   "url": "https://www.caseking.de/asrock-arc-b570-challenger-10gb-oc-grafikkarte-10240-mb-gddr6/GCAR-028.html",
+   "stand": "2026-11-21T17:18",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 324.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/asrock-arc-b570-challenger-10gb-oc-grafikkarte-10240-mb-gddr6/GCAR-028.html"
+    }
+   ],
+   "price": 324.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-21",
+     "p": 324.9
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten intel arc b570 asrock arc b570 challenger 10gb grafikkarte 10240 gddr6",
+   "firstSeen": "2026-11-21"
   },
   {
    "id": "c-g-skill-flare-x5-ddr5-16-gb-2x8-gb-6000-mt-s-cl30-dimm-schwa",
@@ -117959,6 +118249,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-samsung-990-evo-series-nvme-ssd-pcie-4-0-m-2-typ-2280-2-tb",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 2 TB",
+   "name": "Samsung 990 EVO Series NVMe SSD, PCIe 4.0 M.2 Typ 2280 - 2 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/samsung-990-evo-series-nvme-ssd-pcie-4.0-m.2-type-2280-2-tb/SSSS-203.html",
+   "stand": "2026-11-21T17:18",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 381.29,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/samsung-990-evo-series-nvme-ssd-pcie-4.0-m.2-type-2280-2-tb/SSSS-203.html"
+    }
+   ],
+   "price": 381.29,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-21",
+     "p": 381.29
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 2 tb samsung 990 evo series nvme ssd pcie typ 2280",
+   "firstSeen": "2026-11-21"
+  },
+  {
    "id": "c-samsung-870-evo-1-tb-ssd-2-5-sata-iii-schwarz",
    "cat": "SSDs",
    "sub": "SATA 1 TB",
@@ -118030,6 +118349,35 @@
    "count": 1,
    "tags": "ssds sata 1 tb samsung 870 evo ssd sata iii schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-renkforce-pc-tuning-kit-intel-core-i5-12400-4-40-ghz-ddr4-ra-mdh7f",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR4",
+   "name": "Renkforce PC Tuning-Kit Intel Core i5 12400 4.40 GHz DDR4-RAM M.2 PCIe NVMe 3.0 x4 Micro-ATX",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/renkforce-pc-tuning-kit-intel-core-i5-12400-4-40-ghz-ddr4-ram-m-2-pcie-nvme-3-0-x4-micro-atx-100703865/",
+   "stand": "2026-11-21T17:18",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 381.56,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/renkforce-pc-tuning-kit-intel-core-i5-12400-4-40-ghz-ddr4-ram-m-2-pcie-nvme-3-0-x4-micro-atx-100703865/"
+    }
+   ],
+   "price": 381.56,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-21",
+     "p": 381.56
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr4 renkforce tuning kit intel core 12400 ghz ram pcie nvme micro atx",
+   "firstSeen": "2026-11-21"
   },
   {
    "id": "c-hp-omen-27qs-g2-27-qhd-280-hz-ips-gaming-monitor-schwarz",
@@ -119955,6 +120303,35 @@
    "count": 1,
    "tags": "gehause hyte y70 touch infinite midi tower atx tempered glass panda",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-patriot-viper-pv593-ssd-pcie-5-0-m-2-2280-2-tb",
+   "cat": "SSDs",
+   "sub": "PCIe 5.0 2 TB",
+   "name": "Patriot Viper PV593 SSD PCIe 5.0 M.2 2280 - 2 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/patriot-viper-pv593-ssd-pcie-5.0-m.2-2280-2-tb/MEPA-002.html",
+   "stand": "2026-11-21T17:18",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 399.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/patriot-viper-pv593-ssd-pcie-5.0-m.2-2280-2-tb/MEPA-002.html"
+    }
+   ],
+   "price": 399.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-21",
+     "p": 399.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 5.0 2 tb patriot viper pv593 ssd pcie 2280",
+   "firstSeen": "2026-11-21"
   },
   {
    "id": "c-acer-monitor-cb322qksemipruzx-80cm-31-5-16-09-hdmi-dp-usb-ip",
@@ -122680,6 +123057,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-renkforce-pc-tuning-kit-amd-ryzen-5-5600x-4-6-ghz-16-gb-ddr4",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR4 16 GB",
+   "name": "Renkforce PC Tuning-Kit AMD Ryzen 5 5600X 4.6 GHz 16 GB DDR4-RAM Micro-ATX",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/renkforce-pc-tuning-kit-amd-ryzen-5-5600x-4-6-ghz-16-gb-ddr4-ram-micro-atx-100725113/",
+   "stand": "2026-11-21T17:18",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 445.33,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/renkforce-pc-tuning-kit-amd-ryzen-5-5600x-4-6-ghz-16-gb-ddr4-ram-micro-atx-100725113/"
+    }
+   ],
+   "price": 445.33,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-21",
+     "p": 445.33
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr4 16 gb renkforce tuning kit amd ryzen 5600x ghz ddr4 ram micro atx",
+   "firstSeen": "2026-11-21"
+  },
+  {
    "id": "c-gigabyte-geforce-rtx-5050-windforce-oc-8g-8192-mb-gddr6",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5050",
@@ -122751,6 +123157,35 @@
    "count": 1,
    "tags": "grafikkarten geforce rtx 5050 gigabyte geforce rtx 5050 windforce 8192 gddr6",
    "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-western-digital-black-sn850x-nvme-m-2-ssd-pcie-4-0-m-2-typ-2",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 2 TB",
+   "name": "Western Digital Black SN850X NVMe M.2 SSD, PCIe 4.0 M.2 Typ 2280 - 2 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/western-digital-black-sn850x-nvme-m.2-ssd-pcie-4.0-m.2-typ-2280-2-tb/SSWD-051.html",
+   "stand": "2026-11-21T17:18",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 449.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/western-digital-black-sn850x-nvme-m.2-ssd-pcie-4.0-m.2-typ-2280-2-tb/SSWD-051.html"
+    }
+   ],
+   "price": 449.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-21",
+     "p": 449.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 2 tb western digital black sn850x nvme ssd pcie typ 2280",
+   "firstSeen": "2026-11-21"
   },
   {
    "id": "c-asus-dual-geforce-rtx-5050-oc-edition-8192-mb-gddr6",
@@ -125003,6 +125438,35 @@
    "count": 1,
    "tags": "arbeitsspeicher ddr5 32 gb patriot viper venom ddr5 6000 ram cl30 xmp and expo 32gb dual kit black",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-pro-ws-platinum-80-plus-platinum-netzteil-modular-atx-3-45his",
+   "cat": "Netzteile",
+   "sub": "1000 W+",
+   "name": "ASUS Pro WS Platinum, 80 PLUS Platinum Netzteil, modular, ATX 3.1, PCIe 5.1 - 2200 Watt",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/asus-pro-ws-platinum-80-plus-platinum-power-supply-modular-atx-3.1-pcie-5.1-2200-watts/NEAS-043.html",
+   "stand": "2026-11-21T17:18",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 499.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/asus-pro-ws-platinum-80-plus-platinum-power-supply-modular-atx-3.1-pcie-5.1-2200-watts/NEAS-043.html"
+    }
+   ],
+   "price": 499.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-21",
+     "p": 499.9
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile 1000 w+ asus pro platinum plus netzteil modular atx pcie 2200 watt",
+   "firstSeen": "2026-11-21"
   },
   {
    "id": "c-corsair-vengeance-cmk32gx5m2f6000z36-32-gb-ram-2x-16-gb-ddr5",
@@ -132478,6 +132942,35 @@
    "count": 1,
    "tags": "arbeitsspeicher ddr5 32 gb skill trident rgb ddr5 ram 6000 cl36 kit 2x16 schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-renkforce-pc-tuning-kit-intel-core-i5-14600k-5-3-ghz-16-gb-r",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR4 16 GB",
+   "name": "Renkforce PC Tuning-Kit Intel Core i5-14600K 5.3 GHz 16 GB RAM DDR4 Micro-ATX",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/renkforce-pc-tuning-kit-intel-core-i5-14600k-5-3-ghz-16-gb-ram-ddr4-micro-atx-100862940/",
+   "stand": "2026-11-21T17:18",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 653.66,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/renkforce-pc-tuning-kit-intel-core-i5-14600k-5-3-ghz-16-gb-ram-ddr4-micro-atx-100862940/"
+    }
+   ],
+   "price": 653.66,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-21",
+     "p": 653.66
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr4 16 gb renkforce tuning kit intel core 14600k ghz ram ddr4 micro atx",
+   "firstSeen": "2026-11-21"
   },
   {
    "id": "c-lenovo-legion-r45w-30-45-gebogener-led-monitor-5120-x-1440-1",
@@ -149173,6 +149666,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-renkforce-pc-tuning-kit-amd-ryzen-7-9800x3d-5-2-ghz-32-gb-dd-7rx4b",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 32 GB",
+   "name": "Renkforce PC Tuning-Kit AMD Ryzen 7 9800X3D 5.2 GHz 32 GB DDR5-RAM ATX",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/renkforce-pc-tuning-kit-amd-ryzen-7-9800x3d-5-2-ghz-32-gb-ddr5-ram-atx-100840201/",
+   "stand": "2026-11-21T17:18",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1465.65,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/renkforce-pc-tuning-kit-amd-ryzen-7-9800x3d-5-2-ghz-32-gb-ddr5-ram-atx-100840201/"
+    }
+   ],
+   "price": 1465.65,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-21",
+     "p": 1465.65
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 32 gb renkforce tuning kit amd ryzen 9800x3d ghz ddr5 ram atx",
+   "firstSeen": "2026-11-21"
+  },
+  {
    "id": "c-amd-ryzen-threadripper-9000-series-24-x-4-2-ghz-24-core-serv",
    "cat": "Prozessoren",
    "sub": "Prozessoren",
@@ -153924,6 +154446,35 @@
    "firstSeen": "2026-11-08"
   },
   {
+   "id": "c-sparkle-arc-pro-b70-blower-grafikkarte-32768-mb-gddr6",
+   "cat": "Grafikkarten",
+   "sub": "Grafikkarten",
+   "name": "Sparkle Arc Pro B70 Blower Grafikkarte, 32768 MB GDDR6",
+   "source": "crawler",
+   "url": "https://www.caseking.de/sparkle-arc-pro-b70-blower-grafikkarte-32768-mb-gddr6/GCSK-012.html",
+   "stand": "2026-11-21T17:18",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 2149,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/sparkle-arc-pro-b70-blower-grafikkarte-32768-mb-gddr6/GCSK-012.html"
+    }
+   ],
+   "price": 2149,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-21",
+     "p": 2149
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten sparkle arc pro b70 blower grafikkarte 32768 gddr6",
+   "firstSeen": "2026-11-21"
+  },
+  {
    "id": "c-gainward-geforce-rtx-5080-phoenix-v1-16384-mb-gddr7",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5080",
@@ -158619,6 +159170,35 @@
    "count": 1,
    "tags": "grafikkarten geforce rtx 5090 inno3d geforce rtx 5090 32768 gddr7",
    "firstSeen": "2026-11-08"
+  },
+  {
+   "id": "c-gigabyte-geforce-rtx-5090-windforce-oc-32g-32768-mb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5090",
+   "name": "GIGABYTE GeForce RTX 5090 Windforce OC 32G, 32768 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5090-windforce-oc-32g-32768-mb-gddr7/GCGB-544.html",
+   "stand": "2026-11-21T17:18",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 8499,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5090-windforce-oc-32g-32768-mb-gddr7/GCGB-544.html"
+    }
+   ],
+   "price": 8499,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-21",
+     "p": 8499
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5090 gigabyte geforce rtx 5090 windforce 32g 32768 gddr7",
+   "firstSeen": "2026-11-21"
   },
   {
    "id": "c-captiva-ultimate-gaming-i89-278-intel-core-ultra-9-285k-128-",
