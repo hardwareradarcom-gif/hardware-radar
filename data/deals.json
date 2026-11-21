@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T09:52:12.721Z",
+ "updated": "2026-11-21T11:49:52.664Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -2979,6 +2979,10 @@
     {
      "d": "2026-11-19",
      "p": 49.9
+    },
+    {
+     "d": "2026-11-21",
+     "p": 49.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -3268,14 +3272,84 @@
    "source": "crawler"
   },
   {
+   "id": "c-alpenfohn-brocken-4-max-cpu-kuhler",
+   "name": "Alpenföhn Brocken 4 Max, CPU-Kühler",
+   "cat": "Kühlung",
+   "price": 40.9,
+   "ref": 49.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-Max-CPU-K%C3%BChler/html/product/1902711",
+   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-Max-CPU-K%C3%BChler/html/product/1902711",
+   "note": "18 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 49.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 49.9
+    },
+    {
+     "d": "2026-11-07",
+     "p": 49.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 49.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 49.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 49.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 49.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 40.9
+    },
+    {
+     "d": "2026-11-14",
+     "p": 40.9
+    },
+    {
+     "d": "2026-11-16",
+     "p": 40.9
+    },
+    {
+     "d": "2026-11-17",
+     "p": 40.9
+    },
+    {
+     "d": "2026-11-19",
+     "p": 40.9
+    },
+    {
+     "d": "2026-11-21",
+     "p": 40.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-21",
+   "updated": "2026-11-21",
+   "tags": "kuhlung luftkuhler alpenfohn brocken max cpu kuhler",
+   "source": "crawler"
+  },
+  {
    "id": "c-adata-xpg-probe-80-plus-bronze-netzteil-atx-2-4-700-watt-sch",
    "name": "ADATA XPG PROBE 80 PLUS Bronze Netzteil, ATX 2.4 - 700 Watt, schwarz",
    "cat": "Netzteile",
    "price": 54.9,
    "ref": 66.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/adata-xpg-probe-80-plus-bronze-netzteil-atx-2.4-700-watt-schwarz/NEAD-017.html",
-   "url": "https://www.caseking.de/adata-xpg-probe-80-plus-bronze-netzteil-atx-2.4-700-watt-schwarz/NEAD-017.html",
+   "shopUrl": "https://www.caseking.de/en/adata-xpg-probe-80-plus-bronze-power-supply-atx-2.4-700-watts-black/NEAD-017.html",
+   "url": "https://www.caseking.de/en/adata-xpg-probe-80-plus-bronze-power-supply-atx-2.4-700-watts-black/NEAD-017.html",
    "note": "18 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -4005,6 +4079,10 @@
     {
      "d": "2026-11-20",
      "p": 270
+    },
+    {
+     "d": "2026-11-21",
+     "p": 270
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -4077,6 +4155,72 @@
    "seen": "2026-11-21",
    "updated": "2026-11-21",
    "tags": "grafikkarten radeon rx 9070 xt asus prime radeon 9070 edition grafikkarte 16384 gddr6",
+   "source": "crawler"
+  },
+  {
+   "id": "c-asus-tuf-gaming-b850m-plus-wifi7-amd-b850-mainboard-micro-at",
+   "name": "ASUS TUF GAMING B850M-PLUS WIFI7 AMD B850 Mainboard Micro ATX Sockel AM5 DDR5 Schwarz",
+   "cat": "Mainboards",
+   "price": 200.81,
+   "ref": 234.58,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/asus-tuf-gaming-b850m-plus-wifi7-amd-b850-mainboard-micro-atx-sockel-am5-ddr5-schwarz-100603649/",
+   "url": "https://www.jacob.de/produkt/asus-tuf-gaming-b850m-plus-wifi7-amd-b850-mainboard-micro-atx-sockel-am5-ddr5-schwarz-100603649/",
+   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 234.58
+    },
+    {
+     "d": "2026-10-31",
+     "p": 234.58
+    },
+    {
+     "d": "2026-11-01",
+     "p": 234.58
+    },
+    {
+     "d": "2026-11-02",
+     "p": 234.58
+    },
+    {
+     "d": "2026-11-03",
+     "p": 234.58
+    },
+    {
+     "d": "2026-11-06",
+     "p": 234.58
+    },
+    {
+     "d": "2026-11-08",
+     "p": 234.58
+    },
+    {
+     "d": "2026-11-10",
+     "p": 237.43
+    },
+    {
+     "d": "2026-11-13",
+     "p": 237.43
+    },
+    {
+     "d": "2026-11-15",
+     "p": 237.43
+    },
+    {
+     "d": "2026-11-18",
+     "p": 237.43
+    },
+    {
+     "d": "2026-11-21",
+     "p": 200.81
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-21",
+   "updated": "2026-11-21",
+   "tags": "mainboards am5 b850 asus tuf gaming b850m plus wifi7 amd b850 mainboard micro atx sockel am5 ddr5 schwarz",
    "source": "crawler"
   },
   {
@@ -4259,68 +4403,6 @@
    "seen": "2026-11-21",
    "updated": "2026-11-21",
    "tags": "arbeitsspeicher ddr4 16 gb kingston fury beast ram 3200 mhz ddr4 dimm schwarz",
-   "source": "crawler"
-  },
-  {
-   "id": "c-lexar-nm610-pro-nvme-ssd-pcie-3-0-m-2-typ-2280-500-gb",
-   "name": "Lexar NM610 Pro NVMe SSD, PCIe 3.0 M.2 Typ 2280 - 500 GB",
-   "cat": "SSDs",
-   "price": 84.9,
-   "ref": 98.76,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/lexar-nm610-pro-nvme-ssd-pcie-3.0-m.2-type-2280-500-gb/SSLX-021.html",
-   "url": "https://www.caseking.de/en/lexar-nm610-pro-nvme-ssd-pcie-3.0-m.2-type-2280-500-gb/SSLX-021.html",
-   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 98.76
-    },
-    {
-     "d": "2026-10-31",
-     "p": 98.76
-    },
-    {
-     "d": "2026-11-02",
-     "p": 98.76
-    },
-    {
-     "d": "2026-11-03",
-     "p": 98.76
-    },
-    {
-     "d": "2026-11-05",
-     "p": 98.76
-    },
-    {
-     "d": "2026-11-07",
-     "p": 98.76
-    },
-    {
-     "d": "2026-11-09",
-     "p": 84.9
-    },
-    {
-     "d": "2026-11-12",
-     "p": 84.9
-    },
-    {
-     "d": "2026-11-14",
-     "p": 84.9
-    },
-    {
-     "d": "2026-11-16",
-     "p": 84.9
-    },
-    {
-     "d": "2026-11-19",
-     "p": 84.9
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-21",
-   "updated": "2026-11-21",
-   "tags": "ssds nvme 500 gb lexar nm610 pro nvme ssd pcie typ 2280 500",
    "source": "crawler"
   },
   {
@@ -4863,6 +4945,72 @@
    "seen": "2026-11-21",
    "updated": "2026-11-21",
    "tags": "netzteile sfx sharkoon rebel p20 1000w netzteil",
+   "source": "crawler"
+  },
+  {
+   "id": "c-asus-rog-astral-geforce-rtx-5090-oc-edition-32-768-mb-gddr7",
+   "name": "ASUS ROG Astral GeForce RTX 5090 OC Edition, 32,768 MB GDDR7",
+   "cat": "Grafikkarten",
+   "price": 8199,
+   "ref": 9399,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/asus-rog-astral-geforce-rtx-5090-oc-edition-32-768-mb-gddr7/GCAS-699.html",
+   "url": "https://www.caseking.de/en/asus-rog-astral-geforce-rtx-5090-oc-edition-32-768-mb-gddr7/GCAS-699.html",
+   "note": "13 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 9399
+    },
+    {
+     "d": "2026-10-30",
+     "p": 9399
+    },
+    {
+     "d": "2026-11-01",
+     "p": 9399
+    },
+    {
+     "d": "2026-11-03",
+     "p": 9399
+    },
+    {
+     "d": "2026-11-05",
+     "p": 9399
+    },
+    {
+     "d": "2026-11-07",
+     "p": 9399
+    },
+    {
+     "d": "2026-11-09",
+     "p": 9399
+    },
+    {
+     "d": "2026-11-11",
+     "p": 9399
+    },
+    {
+     "d": "2026-11-14",
+     "p": 9399
+    },
+    {
+     "d": "2026-11-16",
+     "p": 9399
+    },
+    {
+     "d": "2026-11-19",
+     "p": 8499
+    },
+    {
+     "d": "2026-11-21",
+     "p": 8199
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-21",
+   "updated": "2026-11-21",
+   "tags": "grafikkarten geforce rtx 5090 asus rog astral geforce rtx 5090 edition 768 gddr7",
    "source": "crawler"
   },
   {
@@ -5584,6 +5732,72 @@
    "source": "crawler"
   },
   {
+   "id": "c-asus-tuf-gaming-vg27aql5a-27-qhd-fast-ips-210-hz-gaming-moni",
+   "name": "ASUS TUF Gaming VG27AQL5A 27\" QHD Fast IPS 210 Hz Gaming-Monitor Schwarz",
+   "cat": "Monitore",
+   "price": 155.12,
+   "ref": 174.8,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/asus-tuf-gaming-vg27aql5a-27-qhd-fast-ips-210-hz-gaming-monitor-schwarz-100593623/",
+   "url": "https://www.jacob.de/produkt/asus-tuf-gaming-vg27aql5a-27-qhd-fast-ips-210-hz-gaming-monitor-schwarz-100593623/",
+   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 175.19
+    },
+    {
+     "d": "2026-10-31",
+     "p": 175.19
+    },
+    {
+     "d": "2026-11-01",
+     "p": 174.8
+    },
+    {
+     "d": "2026-11-02",
+     "p": 174.8
+    },
+    {
+     "d": "2026-11-03",
+     "p": 174.88
+    },
+    {
+     "d": "2026-11-05",
+     "p": 175.23
+    },
+    {
+     "d": "2026-11-08",
+     "p": 174.49
+    },
+    {
+     "d": "2026-11-10",
+     "p": 174.49
+    },
+    {
+     "d": "2026-11-13",
+     "p": 174.49
+    },
+    {
+     "d": "2026-11-15",
+     "p": 174.49
+    },
+    {
+     "d": "2026-11-18",
+     "p": 166.78
+    },
+    {
+     "d": "2026-11-21",
+     "p": 155.12
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-21",
+   "updated": "2026-11-21",
+   "tags": "monitore 27\" asus tuf gaming vg27aql5a qhd fast ips 210 monitor schwarz",
+   "source": "crawler"
+  },
+  {
    "id": "c-acer-vero-b247we5bemiqpruzx-24-1920-x-1200-ips-office-monito",
    "name": "Acer Vero B247WE5bemiqpruzx 24\" 1920 x 1200 IPS Office Monitor Schwarz",
    "cat": "Monitore",
@@ -5857,192 +6071,6 @@
    "seen": "2026-11-21",
    "updated": "2026-11-21",
    "tags": "kuhlung luftkuhler noctua d15 am4 cpu kuhler",
-   "source": "crawler"
-  },
-  {
-   "id": "c-zotac-gaming-geforce-rtx-5090-solid-oc-white-edition-32768-m",
-   "name": "ZOTAC GAMING GeForce RTX 5090 Solid OC White Edition, 32768 MB GDDR7",
-   "cat": "Grafikkarten",
-   "price": 7999,
-   "ref": 8999,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/zotac-gaming-geforce-rtx-5090-solid-oc-white-edition-32768-mb-gddr7/GCZT-279.html",
-   "url": "https://www.caseking.de/en/zotac-gaming-geforce-rtx-5090-solid-oc-white-edition-32768-mb-gddr7/GCZT-279.html",
-   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 8499
-    },
-    {
-     "d": "2026-10-31",
-     "p": 8499
-    },
-    {
-     "d": "2026-11-02",
-     "p": 8499
-    },
-    {
-     "d": "2026-11-04",
-     "p": 8999
-    },
-    {
-     "d": "2026-11-06",
-     "p": 8999
-    },
-    {
-     "d": "2026-11-08",
-     "p": 8999
-    },
-    {
-     "d": "2026-11-10",
-     "p": 8999
-    },
-    {
-     "d": "2026-11-13",
-     "p": 8999
-    },
-    {
-     "d": "2026-11-15",
-     "p": 8999
-    },
-    {
-     "d": "2026-11-18",
-     "p": 8199
-    },
-    {
-     "d": "2026-11-20",
-     "p": 7999
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-21",
-   "updated": "2026-11-21",
-   "tags": "grafikkarten geforce rtx 5090 zotac gaming geforce rtx 5090 solid white edition 32768 gddr7",
-   "source": "crawler"
-  },
-  {
-   "id": "c-lg-ultragear-g-27g610a-b-27-zoll-wqhd-gaming-monitor-200hz-i",
-   "name": "LG UltraGear G 27G610A-B 27 Zoll WQHD Gaming-Monitor, 200Hz, IPS, FreeSync Premium",
-   "cat": "Monitore",
-   "price": 169,
-   "ref": 189.9,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/lg-ultragear-g-27g610a-b-27-inch-wqhd-gaming-monitor-200hz-ips-freesync-premium/TFLG-186.html",
-   "url": "https://www.caseking.de/en/lg-ultragear-g-27g610a-b-27-inch-wqhd-gaming-monitor-200hz-ips-freesync-premium/TFLG-186.html",
-   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 189.9
-    },
-    {
-     "d": "2026-11-01",
-     "p": 189.9
-    },
-    {
-     "d": "2026-11-03",
-     "p": 189.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 189.9
-    },
-    {
-     "d": "2026-11-07",
-     "p": 189.9
-    },
-    {
-     "d": "2026-11-09",
-     "p": 189.9
-    },
-    {
-     "d": "2026-11-11",
-     "p": 169
-    },
-    {
-     "d": "2026-11-13",
-     "p": 169
-    },
-    {
-     "d": "2026-11-16",
-     "p": 169
-    },
-    {
-     "d": "2026-11-18",
-     "p": 169
-    },
-    {
-     "d": "2026-11-20",
-     "p": 169
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-21",
-   "updated": "2026-11-21",
-   "tags": "monitore 27\" ultragear 27g610a zoll wqhd gaming monitor 200hz ips freesync premium",
-   "source": "crawler"
-  },
-  {
-   "id": "c-lenovo-00up450-interne-ssd-m-2-512-gb-sata-iii",
-   "name": "Lenovo 00UP450 Interne SSD M.2 512 GB SATA III",
-   "cat": "SSDs",
-   "price": 188.38,
-   "ref": 211.63,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/lenovo-00up450-interne-ssd-m-2-512-gb-sata-iii-5836482/",
-   "url": "https://www.jacob.de/produkt/lenovo-00up450-interne-ssd-m-2-512-gb-sata-iii-5836482/",
-   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 234.54
-    },
-    {
-     "d": "2026-10-31",
-     "p": 234.54
-    },
-    {
-     "d": "2026-11-01",
-     "p": 234.54
-    },
-    {
-     "d": "2026-11-02",
-     "p": 188.38
-    },
-    {
-     "d": "2026-11-03",
-     "p": 211.63
-    },
-    {
-     "d": "2026-11-06",
-     "p": 214.69
-    },
-    {
-     "d": "2026-11-08",
-     "p": 214.69
-    },
-    {
-     "d": "2026-11-11",
-     "p": 188.38
-    },
-    {
-     "d": "2026-11-13",
-     "p": 191.42
-    },
-    {
-     "d": "2026-11-15",
-     "p": 200.62
-    },
-    {
-     "d": "2026-11-18",
-     "p": 188.38
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-21",
-   "updated": "2026-11-21",
-   "tags": "ssds sata 512 gb lenovo 00up450 interne ssd 512 sata iii",
    "source": "crawler"
   }
  ],
