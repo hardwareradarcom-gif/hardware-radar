@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T06:28:28.541Z",
+ "updated": "2026-11-21T08:16:18.656Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -3407,6 +3407,10 @@
     {
      "d": "2026-11-19",
      "p": 55.9
+    },
+    {
+     "d": "2026-11-21",
+     "p": 55.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -3611,6 +3615,80 @@
    "seen": "2026-11-21",
    "updated": "2026-11-21",
    "tags": "kuhlung luftkuhler bequiet dark rock pro cpu kuhler passiv 135 2000 min",
+   "source": "crawler"
+  },
+  {
+   "id": "c-hyte-x50-midi-tower-snow-white",
+   "name": "HYTE X50 Midi Tower - Snow White",
+   "cat": "Gehäuse",
+   "price": 49.9,
+   "ref": 59.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/hyte-x50-midi-tower-snow-white/GEHY-053.html",
+   "url": "https://www.caseking.de/hyte-x50-midi-tower-snow-white/GEHY-053.html",
+   "note": "17 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 139.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 139.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 139.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 89.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 59.9
+    },
+    {
+     "d": "2026-11-07",
+     "p": 59.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 59.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 59.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 59.9
+    },
+    {
+     "d": "2026-11-14",
+     "p": 59.9
+    },
+    {
+     "d": "2026-11-16",
+     "p": 59.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 59.9
+    },
+    {
+     "d": "2026-11-19",
+     "p": 59.9
+    },
+    {
+     "d": "2026-11-21",
+     "p": 49.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-21",
+   "updated": "2026-11-21",
+   "tags": "gehause hyte x50 midi tower snow white",
    "source": "crawler"
   },
   {
@@ -4376,6 +4454,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 49.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 49.9
     }
    ],
@@ -5949,64 +6031,6 @@
    "seen": "2026-11-21",
    "updated": "2026-11-21",
    "tags": "kuhlung luftkuhler alpenfohn brocken argb cpu kuhler",
-   "source": "crawler"
-  },
-  {
-   "id": "c-intel-core-i3-14100-3-5-ghz-raptor-lake-refresh-sockel-1700-",
-   "name": "Intel Core i3-14100 3,5 GHz (Raptor Lake Refresh) Sockel 1700 - boxed",
-   "cat": "Prozessoren",
-   "price": 111.9,
-   "ref": 124.9,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/intel-core-i3-14100-3.5-ghz-raptor-lake-refresh-socket-1700-boxed/HPIT-817.html",
-   "url": "https://www.caseking.de/en/intel-core-i3-14100-3.5-ghz-raptor-lake-refresh-socket-1700-boxed/HPIT-817.html",
-   "note": "10 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-02",
-     "p": 137.9
-    },
-    {
-     "d": "2026-11-03",
-     "p": 137.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 137.9
-    },
-    {
-     "d": "2026-11-07",
-     "p": 124.9
-    },
-    {
-     "d": "2026-11-10",
-     "p": 124.9
-    },
-    {
-     "d": "2026-11-12",
-     "p": 124.9
-    },
-    {
-     "d": "2026-11-14",
-     "p": 124.9
-    },
-    {
-     "d": "2026-11-17",
-     "p": 111.9
-    },
-    {
-     "d": "2026-11-19",
-     "p": 111.9
-    },
-    {
-     "d": "2026-11-20",
-     "p": 111.9
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-21",
-   "updated": "2026-11-21",
-   "tags": "prozessoren intel lga1700 intel core 14100 ghz raptor lake refresh sockel 1700 boxed",
    "source": "crawler"
   }
  ],
