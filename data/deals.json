@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T17:18:11.745Z",
+ "updated": "2026-11-21T17:47:13.956Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1598,6 +1598,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 39.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 39.9
     }
    ],
@@ -3788,8 +3792,8 @@
    "price": 49.9,
    "ref": 59.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/hyte-x50-air-midi-tower-pitch-black/GEHY-060.html",
-   "url": "https://www.caseking.de/en/hyte-x50-air-midi-tower-pitch-black/GEHY-060.html",
+   "shopUrl": "https://www.caseking.de/hyte-x50-air-midi-tower-pitch-black/GEHY-060.html",
+   "url": "https://www.caseking.de/hyte-x50-air-midi-tower-pitch-black/GEHY-060.html",
    "note": "17 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -3830,6 +3834,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 49.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 49.9
     }
    ],
@@ -4356,68 +4364,6 @@
    "source": "crawler"
   },
   {
-   "id": "c-kingston-fury-beast-16-gb-ram-3200-mhz-ddr4-dimm-schwarz",
-   "name": "Kingston FURY Beast 16 GB RAM 3200 MHz DDR4 DIMM Schwarz",
-   "cat": "Arbeitsspeicher",
-   "price": 209.73,
-   "ref": 243.99,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/kingston-fury-beast-16-gb-ram-3200-mhz-ddr4-dimm-schwarz-7287426/",
-   "url": "https://www.jacob.de/produkt/kingston-fury-beast-16-gb-ram-3200-mhz-ddr4-dimm-schwarz-7287426/",
-   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 243.99
-    },
-    {
-     "d": "2026-10-31",
-     "p": 243.99
-    },
-    {
-     "d": "2026-11-01",
-     "p": 243.99
-    },
-    {
-     "d": "2026-11-02",
-     "p": 243.99
-    },
-    {
-     "d": "2026-11-03",
-     "p": 243.99
-    },
-    {
-     "d": "2026-11-06",
-     "p": 243.99
-    },
-    {
-     "d": "2026-11-08",
-     "p": 226.21
-    },
-    {
-     "d": "2026-11-11",
-     "p": 226.21
-    },
-    {
-     "d": "2026-11-13",
-     "p": 226.21
-    },
-    {
-     "d": "2026-11-16",
-     "p": 226.21
-    },
-    {
-     "d": "2026-11-18",
-     "p": 209.73
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-21",
-   "updated": "2026-11-21",
-   "tags": "arbeitsspeicher ddr4 16 gb kingston fury beast ram 3200 mhz ddr4 dimm schwarz",
-   "source": "crawler"
-  },
-  {
    "id": "c-asus-rog-strix-xg32wcs-31-5-zoll-curved-gaming-monitor-180hz",
    "name": "ASUS ROG Strix XG32WCS, 31,5 Zoll Curved Gaming Monitor, 180Hz, Fast VA, FreeSync",
    "cat": "Monitore",
@@ -4804,6 +4750,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 64.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 64.9
     }
    ],
@@ -6111,6 +6061,68 @@
    "seen": "2026-11-21",
    "updated": "2026-11-21",
    "tags": "kuhlung luftkuhler noctua d15 am4 cpu kuhler",
+   "source": "crawler"
+  },
+  {
+   "id": "c-zotac-gaming-geforce-rtx-5090-solid-oc-white-edition-32768-m",
+   "name": "ZOTAC GAMING GeForce RTX 5090 Solid OC White Edition, 32768 MB GDDR7",
+   "cat": "Grafikkarten",
+   "price": 7999,
+   "ref": 8999,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/zotac-gaming-geforce-rtx-5090-solid-oc-white-edition-32768-mb-gddr7/GCZT-279.html",
+   "url": "https://www.caseking.de/en/zotac-gaming-geforce-rtx-5090-solid-oc-white-edition-32768-mb-gddr7/GCZT-279.html",
+   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 8499
+    },
+    {
+     "d": "2026-10-31",
+     "p": 8499
+    },
+    {
+     "d": "2026-11-02",
+     "p": 8499
+    },
+    {
+     "d": "2026-11-04",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-06",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-08",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-10",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-13",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-15",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-18",
+     "p": 8199
+    },
+    {
+     "d": "2026-11-20",
+     "p": 7999
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-21",
+   "updated": "2026-11-21",
+   "tags": "grafikkarten geforce rtx 5090 zotac gaming geforce rtx 5090 solid white edition 32768 gddr7",
    "source": "crawler"
   }
  ],
