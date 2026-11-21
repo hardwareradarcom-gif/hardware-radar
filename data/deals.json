@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T08:16:18.656Z",
+ "updated": "2026-11-21T09:52:12.721Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -3274,8 +3274,8 @@
    "price": 54.9,
    "ref": 66.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/adata-xpg-probe-80-plus-bronze-power-supply-atx-2.4-700-watts-black/NEAD-017.html",
-   "url": "https://www.caseking.de/en/adata-xpg-probe-80-plus-bronze-power-supply-atx-2.4-700-watts-black/NEAD-017.html",
+   "shopUrl": "https://www.caseking.de/adata-xpg-probe-80-plus-bronze-netzteil-atx-2.4-700-watt-schwarz/NEAD-017.html",
+   "url": "https://www.caseking.de/adata-xpg-probe-80-plus-bronze-netzteil-atx-2.4-700-watt-schwarz/NEAD-017.html",
    "note": "18 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -3324,6 +3324,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 54.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 54.9
     }
    ],
@@ -3624,8 +3628,8 @@
    "price": 49.9,
    "ref": 59.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/hyte-x50-midi-tower-snow-white/GEHY-053.html",
-   "url": "https://www.caseking.de/hyte-x50-midi-tower-snow-white/GEHY-053.html",
+   "shopUrl": "https://www.caseking.de/en/hyte-x50-midi-tower-snow-white/GEHY-053.html",
+   "url": "https://www.caseking.de/en/hyte-x50-midi-tower-snow-white/GEHY-053.html",
    "note": "17 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -4803,6 +4807,10 @@
     {
      "d": "2026-11-18",
      "p": 129.9
+    },
+    {
+     "d": "2026-11-21",
+     "p": 129.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -4892,6 +4900,72 @@
    "source": "crawler"
   },
   {
+   "id": "c-dell-27-plus-qhd-usb-c-monitor-s2725dc-68-6-cm-27-ips-2560x1",
+   "name": "DELL 27 Plus QHD USB-C Monitor S2725DC - 68,6 cm (27\"), IPS, 2560x1440, 144Hz, USB-C, Weiß (DELL-S2725DC)",
+   "cat": "Monitore",
+   "price": 238.98,
+   "ref": 273.32,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/dell-27-plus-qhd-usb-c-monitor-s2725dc-68-6-cm-27-ips-2560x1440-144hz-usb-c-weiss-dell-s2725dc-100673693/",
+   "url": "https://www.jacob.de/produkt/dell-27-plus-qhd-usb-c-monitor-s2725dc-68-6-cm-27-ips-2560x1440-144hz-usb-c-weiss-dell-s2725dc-100673693/",
+   "note": "13 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 273.32
+    },
+    {
+     "d": "2026-10-31",
+     "p": 273.32
+    },
+    {
+     "d": "2026-11-01",
+     "p": 273.32
+    },
+    {
+     "d": "2026-11-02",
+     "p": 273.32
+    },
+    {
+     "d": "2026-11-03",
+     "p": 273.32
+    },
+    {
+     "d": "2026-11-05",
+     "p": 254.3
+    },
+    {
+     "d": "2026-11-08",
+     "p": 240.67
+    },
+    {
+     "d": "2026-11-10",
+     "p": 242.25
+    },
+    {
+     "d": "2026-11-12",
+     "p": 259.49
+    },
+    {
+     "d": "2026-11-15",
+     "p": 258.21
+    },
+    {
+     "d": "2026-11-18",
+     "p": 273.64
+    },
+    {
+     "d": "2026-11-21",
+     "p": 238.98
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-21",
+   "updated": "2026-11-21",
+   "tags": "monitore 27\" dell plus qhd usb monitor s2725dc ips 2560x1440 144hz weiss",
+   "source": "crawler"
+  },
+  {
    "id": "c-adata-xpg-kyber-80-plus-gold-netzteil-atx-3-0-850-watt-schwa",
    "name": "ADATA XPG KYBER 80 PLUS Gold Netzteil, ATX 3.0 - 850 Watt, schwarz",
    "cat": "Netzteile",
@@ -4948,6 +5022,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 69.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 69.9
     }
    ],
@@ -5687,6 +5765,10 @@
     {
      "d": "2026-11-19",
      "p": 79.9
+    },
+    {
+     "d": "2026-11-21",
+     "p": 79.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -5961,76 +6043,6 @@
    "seen": "2026-11-21",
    "updated": "2026-11-21",
    "tags": "ssds sata 512 gb lenovo 00up450 interne ssd 512 sata iii",
-   "source": "crawler"
-  },
-  {
-   "id": "c-alpenfohn-brocken-4-argb-cpu-kuhler",
-   "name": "Alpenföhn Brocken 4 ARGB, CPU-Kühler",
-   "cat": "Kühlung",
-   "price": 32.9,
-   "ref": 36.9,
-   "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-ARGB-CPU-K%C3%BChler/html/product/100070215",
-   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-ARGB-CPU-K%C3%BChler/html/product/100070215",
-   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-04",
-     "p": 36.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 36.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 36.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 36.9
-    },
-    {
-     "d": "2026-11-09",
-     "p": 36.9
-    },
-    {
-     "d": "2026-11-10",
-     "p": 36.9
-    },
-    {
-     "d": "2026-11-12",
-     "p": 36.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 32.9
-    },
-    {
-     "d": "2026-11-14",
-     "p": 32.9
-    },
-    {
-     "d": "2026-11-16",
-     "p": 32.9
-    },
-    {
-     "d": "2026-11-17",
-     "p": 32.9
-    },
-    {
-     "d": "2026-11-19",
-     "p": 32.9
-    },
-    {
-     "d": "2026-11-20",
-     "p": 32.9
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-21",
-   "updated": "2026-11-21",
-   "tags": "kuhlung luftkuhler alpenfohn brocken argb cpu kuhler",
    "source": "crawler"
   }
  ],
