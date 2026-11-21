@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-21T17:47:13.956Z",
+ "updated": "2026-11-21T19:51:19.301Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -3270,7 +3270,7 @@
    "name": "WD_BLACK SN7100 2 TB",
    "url": "https://www.mydealz.de/deals/my-mmsaturn-mwstaktion-wd-black-sn7100-ssd-2-tb-m2-2280-nvme-gen4-7250-mbs-lesen-6900-mbs-schreiben-fur-23529eur-1-tb-13865-2855044",
    "source": "mydealz",
-   "stand": "2026-11-21T17:47",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "MediaMarkt / Saturn",
@@ -5080,7 +5080,7 @@
    "name": "ARCTIC Freezer 36",
    "url": "https://geizhals.de/3144218",
    "source": "Geizhals",
-   "stand": "2026-11-21T17:47",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "Mindfactory",
@@ -5744,7 +5744,7 @@
    "name": "Sapphire Pulse Radeon RX 9070",
    "url": "https://www.hardwaredealz.com/hardware/gpu/amd-radeon-rx-9070-16gb/sapphire-pulse-radeon-16gb-gddr6-2x-hdmi-2x-dp-lite-retail/preisvergleich.25368",
    "source": "hardwaredealz",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
@@ -5958,7 +5958,7 @@
    "name": "ASUS Prime Radeon RX 9060 XT OC",
    "url": "https://www.hardwaredealz.com/hardware/gpu/amd-radeon-rx-9060-xt-16gb/asus-prime-radeon-oc-16gb-gddr6-hdmi-2x-dp/preisvergleich.29131",
    "source": "hardwaredealz",
-   "stand": "2026-11-21T08:16",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -6499,7 +6499,7 @@
    "name": "Sapphire Pulse Radeon RX 9060 XT",
    "url": "https://www.hardwaredealz.com/hardware/gpu/amd-radeon-rx-9060-xt-16gb/sapphire-pulse-radeon-16gb-gddr6-2x-hdmi-dp-lite-retail/preisvergleich.29141",
    "source": "hardwaredealz",
-   "stand": "2026-11-19T20:08",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
@@ -7269,7 +7269,7 @@
    "name": "Sapphire Nitro+ Radeon RX 9060 XT",
    "url": "https://www.hardwaredealz.com/hardware/gpu/amd-radeon-rx-9060-xt-16gb/sapphire-nitro+-radeon-16gb-gddr6-2x-hdmi-dp-lite-retail/preisvergleich.29140",
    "source": "hardwaredealz",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
@@ -12097,7 +12097,7 @@
    "name": "ASUS ROG Strix XG32WCMS Gaming Monitor 31.5-inch 280 Hz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-xg32wcms-31.5-inch-curved-gaming-monitor-280hz-va-adaptivesync/TFAS-278.html",
-   "stand": "2026-11-21T17:47",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -12325,7 +12325,7 @@
    "name": "Nitro Concepts SM1 Curved Monitor – 49 Zoll SimRacing",
    "source": "crawler",
    "url": "https://www.caseking.de/en/nitro-concepts-sm1-simracing-monitor-124-5-cm-49-zoll-curved-144hz-freesync-g-sync-hdmi-dp-usb/TFNI-001.html",
-   "stand": "2026-11-21T17:47",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -12565,7 +12565,7 @@
    "name": "Samsung Odyssey Neo G9 G95NC 57\" Gaming Monitor",
    "source": "crawler",
    "url": "https://www.sim-verse.com/en-de/samsung-odyssey-neo-g9-g95nc-57-gaming-monitor/TFSS-178.html",
-   "stand": "2026-11-21T17:47",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "sim-verse.com",
@@ -13594,7 +13594,7 @@
    "name": "Xilence I404T, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/Xilence/I404T-CPU-K%C3%BChler/html/product/1374999",
-   "stand": "2026-11-20T08:23",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -13657,6 +13657,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 16.99
+    },
+    {
+     "d": "2026-11-21",
      "p": 16.99
     }
    ],
@@ -14246,15 +14250,15 @@
    "sub": "Luftkühler",
    "name": "Jonsbo CR-1400 EVO Color CPU-Kühler",
    "source": "crawler",
-   "url": "https://www.caseking.de/jonsbo-cr-1400-evo-color-cpu-kuehler/CPJB-036.html",
-   "stand": "2026-11-20T14:22",
+   "url": "https://www.caseking.de/en/jonsbo-cr-1400-evo-color-cpu-cooler/CPJB-036.html",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 17.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/jonsbo-cr-1400-evo-color-cpu-kuehler/CPJB-036.html"
+     "url": "https://www.caseking.de/en/jonsbo-cr-1400-evo-color-cpu-cooler/CPJB-036.html"
     }
    ],
    "price": 17.9,
@@ -14310,6 +14314,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 17.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 17.9
     }
    ],
@@ -14393,7 +14401,7 @@
    "name": "Jonsbo CR-1400E CPU cooler, ARGB - white",
    "source": "crawler",
    "url": "https://www.caseking.de/en/jonsbo-cr-1400e-cpu-cooler-argb-white/CPJB-074.html",
-   "stand": "2026-11-19T20:08",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -14428,6 +14436,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 17.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 17.9
     }
    ],
@@ -15479,15 +15491,15 @@
    "sub": "Luftkühler",
    "name": "Jonsbo CR-1400 EVO ARGB CPU cooler, 92mm - black",
    "source": "crawler",
-   "url": "https://www.caseking.de/jonsbo-cr-1400-evo-argb-cpu-kuehler-92mm-schwarz/CPJB-038.html",
-   "stand": "2026-11-20T14:22",
+   "url": "https://www.caseking.de/en/jonsbo-cr-1400-evo-argb-cpu-cooler-92mm-black/CPJB-038.html",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 19.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/jonsbo-cr-1400-evo-argb-cpu-kuehler-92mm-schwarz/CPJB-038.html"
+     "url": "https://www.caseking.de/en/jonsbo-cr-1400-evo-argb-cpu-cooler-92mm-black/CPJB-038.html"
     }
    ],
    "price": 19.9,
@@ -15543,6 +15555,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 19.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 19.9
     }
    ],
@@ -15710,15 +15726,15 @@
    "sub": "Luftkühler",
    "name": "Jonsbo CR-1400 V2 ARGB CPU-Kühler, 92mm - weiß",
    "source": "crawler",
-   "url": "https://www.caseking.de/jonsbo-cr-1400-v2-argb-cpu-kuehler-92mm-weiss/CPJB-054.html",
-   "stand": "2026-11-20T14:22",
+   "url": "https://www.caseking.de/en/jonsbo-cr-1400-v2-argb-cpu-cooler-92mm-white/CPJB-054.html",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 19.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/jonsbo-cr-1400-v2-argb-cpu-kuehler-92mm-weiss/CPJB-054.html"
+     "url": "https://www.caseking.de/en/jonsbo-cr-1400-v2-argb-cpu-cooler-92mm-white/CPJB-054.html"
     }
    ],
    "price": 19.9,
@@ -15774,6 +15790,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 19.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 19.9
     }
    ],
@@ -15787,15 +15807,15 @@
    "sub": "Luftkühler",
    "name": "Jonsbo CA40 CPU Cooler PWM, RGB - black",
    "source": "crawler",
-   "url": "https://www.caseking.de/jonsbo-ca40-cpu-kuehler-pwm-rgb-schwarz/CPJB-084.html",
-   "stand": "2026-11-20T14:22",
+   "url": "https://www.caseking.de/en/jonsbo-ca40-cpu-cooler-pwm-rgb-black/CPJB-084.html",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 19.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/jonsbo-ca40-cpu-kuehler-pwm-rgb-schwarz/CPJB-084.html"
+     "url": "https://www.caseking.de/en/jonsbo-ca40-cpu-cooler-pwm-rgb-black/CPJB-084.html"
     }
    ],
    "price": 19.9,
@@ -15851,6 +15871,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 19.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 19.9
     }
    ],
@@ -15864,15 +15888,15 @@
    "sub": "Luftkühler",
    "name": "Jonsbo CB40 CPU Cooler, PWM, ARGB - black",
    "source": "crawler",
-   "url": "https://www.caseking.de/jonsbo-cb40-cpu-kuehler-pwm-argb-schwarz/CPJB-087.html",
-   "stand": "2026-11-20T14:22",
+   "url": "https://www.caseking.de/en/jonsbo-cb40-cpu-cooler-pwm-argb-black/CPJB-087.html",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 19.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/jonsbo-cb40-cpu-kuehler-pwm-argb-schwarz/CPJB-087.html"
+     "url": "https://www.caseking.de/en/jonsbo-cb40-cpu-cooler-pwm-argb-black/CPJB-087.html"
     }
    ],
    "price": 19.9,
@@ -15928,6 +15952,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 19.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 19.9
     }
    ],
@@ -15942,7 +15970,7 @@
    "name": "Thermaltake UX400 ARGB Sync, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/Thermaltake/UX400-ARGB-Sync-CPU-K%C3%BChler/html/product/100119564",
-   "stand": "2026-11-20T08:23",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -15989,6 +16017,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 19.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 19.9
     }
    ],
@@ -18023,7 +18055,7 @@
    "name": "be quiet! Pure Rock 3 Black, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/be-quiet/Pure-Rock-3-Black-CPU-K%C3%BChler/html/product/100118674",
-   "stand": "2026-11-20T08:23",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -18070,6 +18102,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 23.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 23.9
     }
    ],
@@ -18778,7 +18814,7 @@
    "name": "Sharkoon A40, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/Sharkoon/A40-CPU-K%C3%BChler/html/product/100065716",
-   "stand": "2026-11-19T21:55",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -18837,6 +18873,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 24.99
+    },
+    {
+     "d": "2026-11-21",
      "p": 24.99
     }
    ],
@@ -18928,7 +18968,7 @@
    "name": "UX400 ARGB Lighting CPU Kühler - Black",
    "source": "crawler",
    "url": "https://lcgs.thermaltake.de/en/products/ux400-argb-lighting-black-cpu-kuehler?variant=51662864941395",
-   "stand": "2026-11-21T17:47",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "Thermaltake LCGS",
@@ -19564,15 +19604,15 @@
    "sub": "Luftkühler",
    "name": "Jonsbo CR-1000 V3 PRO CPU cooler, PWM, ARGB - black",
    "source": "crawler",
-   "url": "https://www.caseking.de/jonsbo-cr-1000-v3-pro-cpu-kuehler-pwm-argb-schwarz/CPJB-077.html",
-   "stand": "2026-11-20T14:22",
+   "url": "https://www.caseking.de/en/jonsbo-cr-1000-v3-pro-cpu-cooler-pwm-argb-black/CPJB-077.html",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 25.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/jonsbo-cr-1000-v3-pro-cpu-kuehler-pwm-argb-schwarz/CPJB-077.html"
+     "url": "https://www.caseking.de/en/jonsbo-cr-1000-v3-pro-cpu-cooler-pwm-argb-black/CPJB-077.html"
     }
    ],
    "price": 25.9,
@@ -19629,6 +19669,10 @@
     {
      "d": "2026-11-20",
      "p": 25.9
+    },
+    {
+     "d": "2026-11-21",
+     "p": 25.9
     }
    ],
    "count": 1,
@@ -19642,7 +19686,7 @@
    "name": "be quiet! Pure Rock 3 LX, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/be-quiet/Pure-Rock-3-LX-CPU-K%C3%BChler/html/product/100118676",
-   "stand": "2026-11-20T08:23",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -19690,6 +19734,10 @@
     {
      "d": "2026-11-20",
      "p": 25.9
+    },
+    {
+     "d": "2026-11-21",
+     "p": 25.9
     }
    ],
    "count": 1,
@@ -19703,7 +19751,7 @@
    "name": "UGREEN 10Gbps M.2 NVMe SSD-behuizing",
    "source": "crawler",
    "url": "https://ai-eu.ugreen.com/nl-nl/products/ugreen-nas-10gbps-m2-nvme-ssd-enclosure",
-   "stand": "2026-11-21T17:47",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "UGREEN AIoT EU",
@@ -20211,7 +20259,7 @@
    "name": "Thermaltake NiC L32 - CPU-Luftkühler",
    "source": "crawler",
    "url": "https://www.proshop.de/CPU-Kuehler/Thermaltake-NiC-L32-CPU-Luftkuehler/3532303",
-   "stand": "2026-11-21T17:47",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "proshop.de",
@@ -21946,7 +21994,7 @@
    "name": "ENDORFY Fera 5 Dual, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/ENDORFY/Fera-5-Dual-CPU-K%C3%BChler/html/product/1878223",
-   "stand": "2026-11-19T21:55",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -22009,6 +22057,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 30
+    },
+    {
+     "d": "2026-11-21",
      "p": 30
     }
    ],
@@ -23852,15 +23904,15 @@
    "sub": "Luftkühler",
    "name": "Jonsbo CR-3000E CPU cooler, dual tower, 260W TDP - black, 120mm",
    "source": "crawler",
-   "url": "https://www.caseking.de/jonsbo-cr-3000e-cpu-kuehler-dual-tower-260w-tdp-schwarz-120mm/CPJB-063.html",
-   "stand": "2026-11-20T14:22",
+   "url": "https://www.caseking.de/en/jonsbo-cr-3000e-cpu-cooler-dual-tower-260w-tdp-black-120mm/CPJB-063.html",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 34.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/jonsbo-cr-3000e-cpu-kuehler-dual-tower-260w-tdp-schwarz-120mm/CPJB-063.html"
+     "url": "https://www.caseking.de/en/jonsbo-cr-3000e-cpu-cooler-dual-tower-260w-tdp-black-120mm/CPJB-063.html"
     }
    ],
    "price": 34.9,
@@ -23916,6 +23968,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 34.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 34.9
     }
    ],
@@ -24336,7 +24392,7 @@
    "name": "Jonsbo CR-1400 DV2 CPU Cooler - Black",
    "source": "crawler",
    "url": "https://www.caseking.de/en/jonsbo-cr-1400-dv2-cpu-cooler-black/CPJB-053.html",
-   "stand": "2026-11-19T20:08",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -24371,6 +24427,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 34.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 34.9
     }
    ],
@@ -25411,7 +25471,7 @@
    "name": "ENDORFY Fera 5 Black ARGB, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/ENDORFY/Fera-5-Black-ARGB-CPU-K%C3%BChler/html/product/100104989",
-   "stand": "2026-11-19T21:55",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -25458,6 +25518,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 37
+    },
+    {
+     "d": "2026-11-21",
      "p": 37
     }
    ],
@@ -26867,7 +26931,7 @@
    "name": "DeepCool AG620 G2, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/DeepCool/AG620-G2-CPU-K%C3%BChler/html/product/100204964",
-   "stand": "2026-11-19T21:55",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -26922,6 +26986,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 39.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 39.9
     }
    ],
@@ -27163,7 +27231,7 @@
    "name": "Ocypus Delta A62 EX Digital, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/Ocypus/DeltaA62EX-Digital-CPU-K%C3%BChler/html/product/100208146",
-   "stand": "2026-11-20T08:23",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -27222,6 +27290,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 39.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 39.9
     }
    ],
@@ -29739,7 +29811,7 @@
    "name": "ENDORFY Fortis 5 ARGB Black, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/ENDORFY/Fortis-5-ARGB-Black-CPU-K%C3%BChler/html/product/100105004",
-   "stand": "2026-11-19T21:55",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -29786,6 +29858,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 46.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 46.9
     }
    ],
@@ -31141,7 +31217,7 @@
    "name": "Scythe Fuma 3 SCMF-3000, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/Scythe/Fuma-3-SCMF-3000-CPU-K%C3%BChler/html/product/100010874",
-   "stand": "2026-11-20T08:23",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -31184,6 +31260,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 49.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 49.9
     }
    ],
@@ -31484,15 +31564,15 @@
    "sub": "Gehäuse",
    "name": "HYTE X50 Air Midi Tower - Pitch Black",
    "source": "crawler",
-   "url": "https://www.caseking.de/hyte-x50-air-midi-tower-pitch-black/GEHY-060.html",
-   "stand": "2026-11-21T17:47",
+   "url": "https://www.caseking.de/en/hyte-x50-air-midi-tower-pitch-black/GEHY-060.html",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 49.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/hyte-x50-air-midi-tower-pitch-black/GEHY-060.html"
+     "url": "https://www.caseking.de/en/hyte-x50-air-midi-tower-pitch-black/GEHY-060.html"
     }
    ],
    "price": 49.9,
@@ -36316,75 +36396,6 @@
    "firstSeen": "2026-11-04"
   },
   {
-   "id": "c-noctua-nh-l9a-am5-chromax-black-cpu-kuhler-emyyb",
-   "cat": "Kühlung",
-   "sub": "Luftkühler",
-   "name": "Noctua NH-L9a-AM5 chromax.black, CPU-Kühler",
-   "source": "crawler",
-   "url": "https://www.alternate.de/Noctua/NH-L9a-AM5-chromax-black-CPU-K%C3%BChler/html/product/1896389",
-   "stand": "2026-11-18T17:58",
-   "offers": [
-    {
-     "shop": "ALTERNATE",
-     "price": 59.9,
-     "ship": 7.99,
-     "avail": "Auf Lager",
-     "url": "https://www.alternate.de/Noctua/NH-L9a-AM5-chromax-black-CPU-K%C3%BChler/html/product/1896389"
-    }
-   ],
-   "price": 59.9,
-   "shop": "ALTERNATE",
-   "hist": [
-    {
-     "d": "2026-11-04",
-     "p": 59.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 59.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 59.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 59.9
-    },
-    {
-     "d": "2026-11-09",
-     "p": 59.9
-    },
-    {
-     "d": "2026-11-10",
-     "p": 59.9
-    },
-    {
-     "d": "2026-11-12",
-     "p": 59.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 59.9
-    },
-    {
-     "d": "2026-11-15",
-     "p": 59.9
-    },
-    {
-     "d": "2026-11-17",
-     "p": 59.9
-    },
-    {
-     "d": "2026-11-18",
-     "p": 59.9
-    }
-   ],
-   "count": 1,
-   "tags": "kuhlung luftkuhler noctua l9a am5 chromax black cpu kuhler",
-   "firstSeen": "2026-11-04"
-  },
-  {
    "id": "c-jonsbo-tg-240-aio-cooler-argb-240mm-black",
    "cat": "Kühlung",
    "sub": "AiO-Wasserkühlung",
@@ -36948,7 +36959,7 @@
    "name": "UGREEN ES UGREEN Caja SSD M.2 NVMe 40Gbps",
    "source": "crawler",
    "url": "https://eu.ugreen.com/products/m2-caja-ssd-nvme-40gbps?variant=58530980102492",
-   "stand": "2026-11-21T17:47",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "UGREEN EU",
@@ -36985,7 +36996,7 @@
    "name": "UGREEN ES UGREEN M.2 NVMe-SSD-behuizing 40 Gbps",
    "source": "crawler",
    "url": "https://eu.ugreen.com/nl/products/m-2-nvme-ssd-behuizing-40-gbps?variant=58530980102492",
-   "stand": "2026-11-21T17:47",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "UGREEN EU",
@@ -37022,7 +37033,7 @@
    "name": "UGREEN ES Boîtier SSD M.2 NVMe UGREEN 40 Gbit/s",
    "source": "crawler",
    "url": "https://eu.ugreen.com/fr/products/boitier-ssd-nvme-m-2-40-gbit-s?variant=58530980102492",
-   "stand": "2026-11-21T17:47",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "UGREEN EU",
@@ -37059,7 +37070,7 @@
    "name": "UGREEN ES Caixa SSD M.2 NVMe UGREEN 40Gbps",
    "source": "crawler",
    "url": "https://eu.ugreen.com/pt/products/caixa-m-2-para-ssd-nvme-de-40-gbps?variant=58530980102492",
-   "stand": "2026-11-21T17:47",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "UGREEN EU",
@@ -37357,7 +37368,7 @@
    "name": "MSI PRO H610M-G Mainboard micro ATX Intel H610 LGA 1700 DDR5 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/msi-pro-h610m-g-mainboard-micro-atx-intel-h610-lga-1700-ddr5-schwarz-100270968/",
-   "stand": "2026-11-18T21:56",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -37412,6 +37423,10 @@
     },
     {
      "d": "2026-11-18",
+     "p": 63.05
+    },
+    {
+     "d": "2026-11-21",
      "p": 63.05
     }
    ],
@@ -38408,7 +38423,7 @@
    "name": "UGREEN EU Caixa UGREEN M.2 NVMe SSD 40Gbps",
    "source": "crawler",
    "url": "https://eu.ugreen.com/pt/products/caixa-para-ssd-m-2-nvme-40-gbps?variant=55294527078748",
-   "stand": "2026-11-21T17:47",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "UGREEN EU",
@@ -38632,7 +38647,7 @@
    "name": "Jonsbo D400 PC-Gehäuse, Midi Tower, ATX, Tempered Glass - weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-d400-pc-gehaeuse-midi-tower-atx-tempered-glass-weiss/GEJB-172.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -38683,6 +38698,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 66.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 66.9
     }
    ],
@@ -40232,15 +40251,15 @@
    "sub": "Luftkühler",
    "name": "Jonsbo CC90 CPU Cooler, Dual Tower, 130mm PWM Fan, Segment Display - Black",
    "source": "crawler",
-   "url": "https://www.caseking.de/jonsbo-cc90-cpu-kuehler-dual-tower-130mm-pwm-luefter-segmentanzeige-schwarz/CPJB-091.html",
-   "stand": "2026-11-20T14:22",
+   "url": "https://www.caseking.de/en/jonsbo-cc90-cpu-cooler-dual-tower-130mm-pwm-fan-segment-display-black/CPJB-091.html",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 69.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/jonsbo-cc90-cpu-kuehler-dual-tower-130mm-pwm-luefter-segmentanzeige-schwarz/CPJB-091.html"
+     "url": "https://www.caseking.de/en/jonsbo-cc90-cpu-cooler-dual-tower-130mm-pwm-fan-segment-display-black/CPJB-091.html"
     }
    ],
    "price": 69.9,
@@ -40296,6 +40315,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 69.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 69.9
     }
    ],
@@ -40855,7 +40878,7 @@
    "name": "be quiet! SFX Power 3 450W, PC-Netzteil",
    "source": "crawler",
    "url": "https://www.alternate.de/be-quiet/SFX-Power-3-450W-PC-Netzteil/html/product/1743698",
-   "stand": "2026-11-20T08:23",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -40886,6 +40909,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 69.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 69.9
     }
    ],
@@ -42021,7 +42048,7 @@
    "name": "be quiet! Pure Power 12 Netzteil, 80 PLUS Gold, ATX 3.1, PCIe 5.1 - 550 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-pure-power-12-power-supply-80-plus-gold-atx-3.1-pcie-5.1-550-watts/NEBE-247.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -42080,6 +42107,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 74.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 74.9
     }
    ],
@@ -42845,7 +42876,7 @@
    "name": "AOC 22B2H - LED-Monitor - 54,6 cm (21.5\") - 1920 x 1080 Full HD (1080p) - VA - 200 cd/m² - 3000:1 - 6,5 ms - HDMI, VGA - Schwarz (22B2H)",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/aoc-22b2h-led-monitor-54-6-cm-21-5-1920-x-1080-full-hd-1080p-va-200-cd-m2-3000-1-6-5-ms-hdmi-vga-schwarz-22b2h-6226598/",
-   "stand": "2026-11-18T21:56",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -42900,6 +42931,10 @@
     },
     {
      "d": "2026-11-18",
+     "p": 76.01
+    },
+    {
+     "d": "2026-11-21",
      "p": 76.01
     }
    ],
@@ -44381,7 +44416,7 @@
    "name": "Jonsbo D400 PC-Gehäuse, Midi Tower, ATX, Tempered Glass - schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-d400-pc-gehaeuse-midi-tower-atx-tempered-glass-schwarz/GEJB-171.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -44432,6 +44467,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 79.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 79.9
     }
    ],
@@ -45251,7 +45290,7 @@
    "name": "Lenovo Small Form Factor Netzteil 80 PLUS Bronze 100-240 V AC",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/lenovo-small-form-factor-netzteil-80-plus-bronze-100-240-v-ac-7718333/",
-   "stand": "2026-11-19T06:29",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -45266,6 +45305,10 @@
    "hist": [
     {
      "d": "2026-11-19",
+     "p": 82.16
+    },
+    {
+     "d": "2026-11-21",
      "p": 82.16
     }
    ],
@@ -45902,7 +45945,7 @@
    "name": "Jonsbo RM2 PC-Gehäuse, Midi-Tower, ATX - silber",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-rm2-pc-gehaeuse-midi-tower-atx-silber/GEJB-015.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -45953,6 +45996,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 84.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 84.9
     }
    ],
@@ -46227,7 +46274,7 @@
    "name": "be quiet! Pure Loop 3 LX AIO Cooler - 240 mm",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-pure-loop-3-lx-aio-cooler-240-mm/WASE-1009.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -46274,6 +46321,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 84.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 84.9
     }
    ],
@@ -47824,15 +47875,15 @@
    "sub": "650 W",
    "name": "be quiet! Pure Power 12 Netzteil, 80 PLUS Gold, ATX 3.1, PCIe 5.1 - 650 Watt",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/be-quiet-pure-power-12-power-supply-80-plus-gold-atx-3.1-pcie-5.1-650-watts/NEBE-248.html",
-   "stand": "2026-11-19T20:08",
+   "url": "https://www.caseking.de/be-quiet-pure-power-12-netzteil-80-plus-gold-atx-3.1-pcie-5.1-650-watt/NEBE-248.html",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 89.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/be-quiet-pure-power-12-power-supply-80-plus-gold-atx-3.1-pcie-5.1-650-watts/NEBE-248.html"
+     "url": "https://www.caseking.de/be-quiet-pure-power-12-netzteil-80-plus-gold-atx-3.1-pcie-5.1-650-watt/NEBE-248.html"
     }
    ],
    "price": 89.9,
@@ -47884,6 +47935,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 89.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 89.9
     }
    ],
@@ -47971,7 +48026,7 @@
    "name": "Jonsbo D300 Midi-Tower, 270 Grad, Tempered Glass - schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-d300-midi-tower-270-grad-tempered-glass-schwarz/GEJB-147.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -48023,6 +48078,10 @@
     {
      "d": "2026-11-19",
      "p": 89.9
+    },
+    {
+     "d": "2026-11-21",
+     "p": 89.9
     }
    ],
    "count": 1,
@@ -48036,7 +48095,7 @@
    "name": "Jonsbo D300 Midi-Tower, 270 Grad, Tempered Glass - weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-d300-midi-tower-270-grad-tempered-glass-weiss/GEJB-148.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -48087,6 +48146,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 89.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 89.9
     }
    ],
@@ -50042,7 +50105,7 @@
    "name": "be quiet! Pure Power 13M 80 PLUS Gold Netzteil, ATX 3.1, PCIe 5.1 - 550 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-pure-power-13m-80-plus-gold-power-supply-atx-3.1-pcie-5.1-550-watt-black/NEBE-259.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -50089,6 +50152,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 92.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 92.9
     }
    ],
@@ -53026,7 +53093,7 @@
    "name": "Noctua NH-D12L, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/Noctua/NH-D12L-CPU-K%C3%BChler/html/product/1836137",
-   "stand": "2026-11-20T08:23",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -53110,6 +53177,10 @@
     {
      "d": "2026-11-20",
      "p": 99.9
+    },
+    {
+     "d": "2026-11-21",
+     "p": 99.9
     }
    ],
    "count": 1,
@@ -53192,7 +53263,7 @@
    "name": "Jonsbo TK-3 Gehäuse, Midi-Tower, ATX, Tempered Glass - schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-tk-3-gehaeuse-midi-tower-atx-tempered-glass-schwarz/GEJB-126.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -53244,6 +53315,10 @@
     {
      "d": "2026-11-19",
      "p": 99.9
+    },
+    {
+     "d": "2026-11-21",
+     "p": 99.9
     }
    ],
    "count": 1,
@@ -53257,7 +53332,7 @@
    "name": "Jonsbo TK-3 Gehäuse, Midi-Tower, ATX, Tempered Glass - weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-tk-3-gehaeuse-midi-tower-atx-tempered-glass-weiss/GEJB-127.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -53309,6 +53384,10 @@
     {
      "d": "2026-11-19",
      "p": 99.9
+    },
+    {
+     "d": "2026-11-21",
+     "p": 99.9
     }
    ],
    "count": 1,
@@ -53322,7 +53401,7 @@
    "name": "Jonsbo TK-2 2.0 Midi-Tower, Tempered Glass - weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-tk-2-2.0-midi-tower-tempered-glass-weiss/GEJB-142.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -53373,6 +53452,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 99.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 99.9
     }
    ],
@@ -55463,7 +55546,7 @@
    "name": "BenQ BL2490C 23,8\" IPS Office Monitor 1920 x 1080 144 Hz Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/benq-bl2490c-23-8-ips-office-monitor-1920-x-1080-144-hz-schwarz-100678764/",
-   "stand": "2026-11-18T21:56",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -55518,6 +55601,10 @@
     },
     {
      "d": "2026-11-18",
+     "p": 104.13
+    },
+    {
+     "d": "2026-11-21",
      "p": 104.13
     }
    ],
@@ -57838,7 +57925,7 @@
    "name": "be quiet! Pure Power 13M 80 PLUS Gold Netzteil, ATX 3.1, PCIe 5.1 - 650 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-pure-power-13m-80-plus-gold-power-supply-atx-3.1-pcie-5.1-650-watts-black/NEBE-260.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -57885,6 +57972,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 109.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 109.9
     }
    ],
@@ -58574,15 +58665,15 @@
    "sub": "850 W",
    "name": "Lian Li SP850 V2 Gold Netzteil, modular, ATX 3.1 - 850 Watt, schwarz",
    "source": "crawler",
-   "url": "https://www.caseking.de/lian-li-sp850-v2-gold-netzteil-modular-atx-3.1-850-watt-schwarz/NELI-028.html",
-   "stand": "2026-11-20T12:00",
+   "url": "https://www.caseking.de/en/lian-li-sp850-v2-gold-power-supply-modular-atx-3.1-850-watts-black/NELI-028.html",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 114.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/lian-li-sp850-v2-gold-netzteil-modular-atx-3.1-850-watt-schwarz/NELI-028.html"
+     "url": "https://www.caseking.de/en/lian-li-sp850-v2-gold-power-supply-modular-atx-3.1-850-watts-black/NELI-028.html"
     }
    ],
    "price": 114.9,
@@ -58654,6 +58745,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 114.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 114.9
     }
    ],
@@ -62594,7 +62689,7 @@
    "name": "Philips 3000 Series 24B2N3200J 24\" IPS Monitor 1920 x 1080 120 Hz Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/philips-3000-series-24b2n3200j-24-ips-monitor-1920-x-1080-120-hz-schwarz-100598666/",
-   "stand": "2026-11-18T21:56",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -62649,6 +62744,10 @@
     },
     {
      "d": "2026-11-18",
+     "p": 120.87
+    },
+    {
+     "d": "2026-11-21",
      "p": 120.87
     }
    ],
@@ -63377,7 +63476,7 @@
    "name": "MSI B550M PRO-VDH WIFI Mainboard Micro-ATX Sockel AM4 AMD B550 DDR4 WLAN Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/msi-b550m-pro-vdh-wifi-mainboard-micro-atx-sockel-am4-amd-b550-ddr4-wlan-schwarz-6472220/",
-   "stand": "2026-11-19T08:27",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -63396,6 +63495,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 122.92
+    },
+    {
+     "d": "2026-11-21",
      "p": 122.92
     }
    ],
@@ -63474,6 +63577,79 @@
    ],
    "count": 1,
    "tags": "mainboards am5 a620 asus tuf gaming a620m plus mainboard sockel am5 amd a620 micro atx ddr5 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-prime-b760m-a-wifi-mainboard-intel-b760-lga-1700-ddr5-m",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1700 B760",
+   "name": "ASUS PRIME B760M-A WIFI Mainboard Intel B760 LGA 1700 DDR5 micro ATX",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-prime-b760m-a-wifi-mainboard-intel-b760-lga-1700-ddr5-micro-atx-8273537/",
+   "stand": "2026-11-21T19:51",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 123.7,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-prime-b760m-a-wifi-mainboard-intel-b760-lga-1700-ddr5-micro-atx-8273537/"
+    }
+   ],
+   "price": 123.7,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 125.25
+    },
+    {
+     "d": "2026-10-31",
+     "p": 125.25
+    },
+    {
+     "d": "2026-11-01",
+     "p": 125.25
+    },
+    {
+     "d": "2026-11-02",
+     "p": 125.25
+    },
+    {
+     "d": "2026-11-03",
+     "p": 124.63
+    },
+    {
+     "d": "2026-11-06",
+     "p": 125.16
+    },
+    {
+     "d": "2026-11-08",
+     "p": 125.1
+    },
+    {
+     "d": "2026-11-11",
+     "p": 125.1
+    },
+    {
+     "d": "2026-11-13",
+     "p": 132.28
+    },
+    {
+     "d": "2026-11-16",
+     "p": 125.1
+    },
+    {
+     "d": "2026-11-18",
+     "p": 124.85
+    },
+    {
+     "d": "2026-11-21",
+     "p": 123.7
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1700 b760 asus prime b760m wifi mainboard intel b760 lga 1700 ddr5 micro atx",
    "firstSeen": "2026-10-30"
   },
   {
@@ -63936,89 +64112,20 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-asus-prime-b760m-a-wifi-mainboard-intel-b760-lga-1700-ddr5-m",
-   "cat": "Mainboards",
-   "sub": "Intel LGA1700 B760",
-   "name": "ASUS PRIME B760M-A WIFI Mainboard Intel B760 LGA 1700 DDR5 micro ATX",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/asus-prime-b760m-a-wifi-mainboard-intel-b760-lga-1700-ddr5-micro-atx-8273537/",
-   "stand": "2026-11-18T21:56",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 124.85,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/asus-prime-b760m-a-wifi-mainboard-intel-b760-lga-1700-ddr5-micro-atx-8273537/"
-    }
-   ],
-   "price": 124.85,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 125.25
-    },
-    {
-     "d": "2026-10-31",
-     "p": 125.25
-    },
-    {
-     "d": "2026-11-01",
-     "p": 125.25
-    },
-    {
-     "d": "2026-11-02",
-     "p": 125.25
-    },
-    {
-     "d": "2026-11-03",
-     "p": 124.63
-    },
-    {
-     "d": "2026-11-06",
-     "p": 125.16
-    },
-    {
-     "d": "2026-11-08",
-     "p": 125.1
-    },
-    {
-     "d": "2026-11-11",
-     "p": 125.1
-    },
-    {
-     "d": "2026-11-13",
-     "p": 132.28
-    },
-    {
-     "d": "2026-11-16",
-     "p": 125.1
-    },
-    {
-     "d": "2026-11-18",
-     "p": 124.85
-    }
-   ],
-   "count": 1,
-   "tags": "mainboards intel lga1700 b760 asus prime b760m wifi mainboard intel b760 lga 1700 ddr5 micro atx",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-lian-li-sp750-v2-gold-netzteil-modular-atx-3-1-750-watt-schw",
    "cat": "Netzteile",
    "sub": "750 W",
    "name": "Lian Li SP750 V2 Gold Netzteil, modular, ATX 3.1 - 750 Watt, schwarz",
    "source": "crawler",
-   "url": "https://www.caseking.de/lian-li-sp750-v2-gold-netzteil-modular-atx-3.1-750-watt-schwarz/NELI-026.html",
-   "stand": "2026-11-20T12:00",
+   "url": "https://www.caseking.de/en/lian-li-sp750-v2-gold-power-supply-modular-atx-3.1-750-watt-black/NELI-026.html",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 124.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/lian-li-sp750-v2-gold-netzteil-modular-atx-3.1-750-watt-schwarz/NELI-026.html"
+     "url": "https://www.caseking.de/en/lian-li-sp750-v2-gold-power-supply-modular-atx-3.1-750-watt-black/NELI-026.html"
     }
    ],
    "price": 124.9,
@@ -64090,6 +64197,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 124.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 124.9
     }
    ],
@@ -64103,15 +64214,15 @@
    "sub": "750 W",
    "name": "Lian Li SP750 V2 Gold Netzteil, modular, ATX 3.1 - 750 Watt, weiß",
    "source": "crawler",
-   "url": "https://www.caseking.de/lian-li-sp750-v2-gold-netzteil-modular-atx-3.1-750-watt-weiss/NELI-027.html",
-   "stand": "2026-11-20T12:00",
+   "url": "https://www.caseking.de/en/lian-li-sp750-v2-gold-power-supply-modular-atx-3.1-750-watts-white/NELI-027.html",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 124.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/lian-li-sp750-v2-gold-netzteil-modular-atx-3.1-750-watt-weiss/NELI-027.html"
+     "url": "https://www.caseking.de/en/lian-li-sp750-v2-gold-power-supply-modular-atx-3.1-750-watts-white/NELI-027.html"
     }
    ],
    "price": 124.9,
@@ -64183,6 +64294,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 124.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 124.9
     }
    ],
@@ -64855,7 +64970,7 @@
    "name": "MSI SPATIUM M450 SSD 500 GB M.2 PCIe 4.0 NVMe",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/msi-spatium-m450-ssd-500-gb-m-2-pcie-4-0-nvme-100593683/",
-   "stand": "2026-11-18T21:56",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -64874,6 +64989,10 @@
     },
     {
      "d": "2026-11-18",
+     "p": 125.85
+    },
+    {
+     "d": "2026-11-21",
      "p": 125.85
     }
    ],
@@ -65323,7 +65442,7 @@
    "name": "ASUS Prime B840M-A WIFI Mainboard AMD B840 Socket AM5 Micro-ATX DDR5",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-prime-b840m-a-wifi-mainboard-amd-b840-socket-am5-micro-atx-ddr5-100539496/",
-   "stand": "2026-11-19T08:27",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -65342,6 +65461,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 127.1
+    },
+    {
+     "d": "2026-11-21",
      "p": 127.1
     }
    ],
@@ -65707,39 +65830,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-msi-b840m-gaming-plus-wifi6e-mainboard-sockel-am5-amd-b840-d",
-   "cat": "Mainboards",
-   "sub": "AM5 B840",
-   "name": "MSI B840M Gaming Plus WiFi6E Mainboard Sockel AM5 AMD B840 DDR5 Micro ATX",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/msi-b840m-gaming-plus-wifi6e-mainboard-sockel-am5-amd-b840-ddr5-micro-atx-100590055/",
-   "stand": "2026-11-19T08:27",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 127.87,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/msi-b840m-gaming-plus-wifi6e-mainboard-sockel-am5-amd-b840-ddr5-micro-atx-100590055/"
-    }
-   ],
-   "price": 127.87,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-16",
-     "p": 127.45
-    },
-    {
-     "d": "2026-11-19",
-     "p": 127.87
-    }
-   ],
-   "count": 1,
-   "tags": "mainboards am5 b840 msi b840m gaming plus wifi6e mainboard sockel am5 amd b840 ddr5 micro atx",
-   "firstSeen": "2026-11-16"
-  },
-  {
    "id": "c-patriot-p410-ssd-pcie-4-0-m-2-2280-500-gb",
    "cat": "SSDs",
    "sub": "PCIe 4.0 500 GB",
@@ -65815,6 +65905,43 @@
    "count": 1,
    "tags": "ssds pcie 4.0 500 gb patriot p410 ssd pcie 2280 500",
    "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-msi-b840m-gaming-plus-wifi6e-mainboard-sockel-am5-amd-b840-d",
+   "cat": "Mainboards",
+   "sub": "AM5 B840",
+   "name": "MSI B840M Gaming Plus WiFi6E Mainboard Sockel AM5 AMD B840 DDR5 Micro ATX",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/msi-b840m-gaming-plus-wifi6e-mainboard-sockel-am5-amd-b840-ddr5-micro-atx-100590055/",
+   "stand": "2026-11-21T19:51",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 128.15,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/msi-b840m-gaming-plus-wifi6e-mainboard-sockel-am5-amd-b840-ddr5-micro-atx-100590055/"
+    }
+   ],
+   "price": 128.15,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-16",
+     "p": 127.45
+    },
+    {
+     "d": "2026-11-19",
+     "p": 127.87
+    },
+    {
+     "d": "2026-11-21",
+     "p": 128.15
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 b840 msi b840m gaming plus wifi6e mainboard sockel am5 amd b840 ddr5 micro atx",
+   "firstSeen": "2026-11-16"
   },
   {
    "id": "c-gigabyte-b860m-d3hp-mainboard-sockel-1851-intel-b860-matx-dd",
@@ -66172,7 +66299,7 @@
    "name": "MSI B550-A PRO Mainboard ATX AMD B550 Sockel AM4 DDR4 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/msi-b550-a-pro-mainboard-atx-amd-b550-sockel-am4-ddr4-schwarz-6472218/",
-   "stand": "2026-11-19T08:27",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -66191,6 +66318,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 129.7
+    },
+    {
+     "d": "2026-11-21",
      "p": 129.7
     }
    ],
@@ -66976,7 +67107,7 @@
    "name": "be quiet! Power Zone 2 80 PLUS Platinum Netzteil, vollmodular, ATX 3.1, PCIe 5.1 - 750 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-power-zone-2-80-plus-platinum-power-supply-fully-modular-atx-3.1-pcie-5.1-750-watts-black/NEBE-254.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -67023,6 +67154,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 129.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 129.9
     }
    ],
@@ -67379,7 +67514,7 @@
    "name": "Thermaltake LCGS TOUGHRAM DDR4 3600MHz CL18 16GB(2x8GB) Snow White RAM",
    "source": "crawler",
    "url": "https://lcgs.thermaltake.de/en/products/toughram-ddr4-3600mhz-cl18-16gb2x8gb-arbeitsspeicher-snow-white?variant=52740755358035",
-   "stand": "2026-11-21T17:47",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "Thermaltake LCGS",
@@ -68954,7 +69089,7 @@
    "name": "be quiet! Pure Power 13M 80 PLUS Gold Netzteil, ATX 3.1, PCIe 5.1 - 850 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-pure-power-13m-80-plus-gold-power-supply-atx-3.1-pcie-5.1-850-watts-black/NEBE-262.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -69001,6 +69136,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 134.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 134.9
     }
    ],
@@ -70515,7 +70654,7 @@
    "name": "MSI MPG B550 GAMING Plus Mainboard ATX Socket AM4 AMD B550 DDR4 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/msi-mpg-b550-gaming-plus-mainboard-atx-socket-am4-amd-b550-ddr4-schwarz-6472217/",
-   "stand": "2026-11-19T08:27",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -70534,6 +70673,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 139.24
+    },
+    {
+     "d": "2026-11-21",
      "p": 139.24
     }
    ],
@@ -71181,7 +71324,7 @@
    "name": "be quiet! Pure Power 12 Netzteil, 80 PLUS Gold, ATX 3.1, PCIe 5.1 - 1.000 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-pure-power-12-power-supply-80-plus-gold-atx-3.1-pcie-5.1-1-000-watts/NEBE-251.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -71228,6 +71371,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 139.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 139.9
     }
    ],
@@ -73109,15 +73256,15 @@
    "sub": "850 W",
    "name": "Lian Li SP850 V2 Gold Netzteil, modular, ATX 3.1 - 850 Watt, weiß",
    "source": "crawler",
-   "url": "https://www.caseking.de/lian-li-sp850-v2-gold-netzteil-modular-atx-3.1-850-watt-weiss/NELI-029.html",
-   "stand": "2026-11-20T12:00",
+   "url": "https://www.caseking.de/en/lian-li-sp850-v2-gold-power-supply-modular-atx-3.1-850-watt-white/NELI-029.html",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 144.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/lian-li-sp850-v2-gold-netzteil-modular-atx-3.1-850-watt-weiss/NELI-029.html"
+     "url": "https://www.caseking.de/en/lian-li-sp850-v2-gold-power-supply-modular-atx-3.1-850-watt-white/NELI-029.html"
     }
    ],
    "price": 144.9,
@@ -73189,6 +73336,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 144.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 144.9
     }
    ],
@@ -75635,7 +75786,7 @@
    "name": "Jonsbo TK-2 2.0 Midi-Tower, Tempered Glass - schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-tk-2-2.0-midi-tower-tempered-glass-schwarz/GEJB-141.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -75686,6 +75837,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 149.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 149.9
     }
    ],
@@ -77149,39 +77304,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-asus-tuf-gaming-b550-plus-wifi-ii-mainboard-atx-amd-b550-soc",
-   "cat": "Mainboards",
-   "sub": "AM4 B550",
-   "name": "ASUS TUF GAMING B550-PLUS WIFI II Mainboard ATX AMD B550 Socket AM4 DDR4 128 GB Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/asus-tuf-gaming-b550-plus-wifi-ii-mainboard-atx-amd-b550-socket-am4-ddr4-128-gb-schwarz-7468789/",
-   "stand": "2026-11-19T08:27",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 153.22,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/asus-tuf-gaming-b550-plus-wifi-ii-mainboard-atx-amd-b550-socket-am4-ddr4-128-gb-schwarz-7468789/"
-    }
-   ],
-   "price": 153.22,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-16",
-     "p": 154.09
-    },
-    {
-     "d": "2026-11-19",
-     "p": 153.22
-    }
-   ],
-   "count": 1,
-   "tags": "mainboards am4 b550 asus tuf gaming b550 plus wifi mainboard atx amd socket am4 ddr4 128 schwarz",
-   "firstSeen": "2026-11-16"
-  },
-  {
    "id": "c-asus-rog-strix-b550-a-gaming-mainboard-atx-amd-b550-am4-ddr4",
    "cat": "Mainboards",
    "sub": "AM4 B550",
@@ -77810,6 +77932,43 @@
    "count": 1,
    "tags": "monitore 27\" lenovo thinkvision t27 full ips led monitor finsternis schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-tuf-gaming-b550-plus-wifi-ii-mainboard-atx-amd-b550-soc",
+   "cat": "Mainboards",
+   "sub": "AM4 B550",
+   "name": "ASUS TUF GAMING B550-PLUS WIFI II Mainboard ATX AMD B550 Socket AM4 DDR4 128 GB Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-tuf-gaming-b550-plus-wifi-ii-mainboard-atx-amd-b550-socket-am4-ddr4-128-gb-schwarz-7468789/",
+   "stand": "2026-11-21T19:51",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 155.02,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-tuf-gaming-b550-plus-wifi-ii-mainboard-atx-amd-b550-socket-am4-ddr4-128-gb-schwarz-7468789/"
+    }
+   ],
+   "price": 155.02,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-16",
+     "p": 154.09
+    },
+    {
+     "d": "2026-11-19",
+     "p": 153.22
+    },
+    {
+     "d": "2026-11-21",
+     "p": 155.02
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am4 b550 asus tuf gaming b550 plus wifi mainboard atx amd socket am4 ddr4 128 schwarz",
+   "firstSeen": "2026-11-16"
   },
   {
    "id": "c-asus-tuf-gaming-vg27aql5a-27-qhd-fast-ips-210-hz-gaming-moni",
@@ -80311,7 +80470,7 @@
    "name": "UGREEN EU Boîtier SSD M.2 NVMe UGREEN 80Gbps avec Thunderbolt 5/4 et USB 4",
    "source": "crawler",
    "url": "https://eu.ugreen.com/pt/products/caixa-para-ssd-m-2-nvme-80-gbps-thunderbolt-5-e-usb-4?variant=54326032728412",
-   "stand": "2026-11-21T17:47",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "UGREEN EU",
@@ -80774,7 +80933,7 @@
    "name": "ASUS PRIME B860M-A WIFI Mainboard Intel B860 LGA 1851 mATX DDR5 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-prime-b860m-a-wifi-mainboard-intel-b860-lga-1851-matx-ddr5-schwarz-100541626/",
-   "stand": "2026-11-19T08:27",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -80793,6 +80952,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 161.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 161.9
     }
    ],
@@ -84161,7 +84324,7 @@
    "name": "HYTE Y70 PC-Gehäuse, Midi-Tower, E-ATX, Tempered Glass - matcha milk",
    "source": "crawler",
    "url": "https://www.caseking.de/hyte-y70-pc-gehaeuse-midi-tower-e-atx-tempered-glass-matcha-milk/GEHY-069.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -84212,6 +84375,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 169.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 169.9
     }
    ],
@@ -84722,7 +84889,7 @@
    "name": "MSI SPATIUM M450 1 TB SSD M.2 2280 PCIe 4.0 x4 NVMe",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/msi-spatium-m450-1-tb-ssd-m-2-2280-pcie-4-0-x4-nvme-100568088/",
-   "stand": "2026-11-18T21:56",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -84741,6 +84908,10 @@
     },
     {
      "d": "2026-11-18",
+     "p": 171.24
+    },
+    {
+     "d": "2026-11-21",
      "p": 171.24
     }
    ],
@@ -84816,6 +84987,43 @@
    "count": 1,
    "tags": "monitore 24\" aoc 24e4cv led monitor sichtbar 1920 1080 full 1080p energieklasse",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-msi-mag-b760-gaming-plus-wifi-ddr4-mainboard-atx-lga-1700-go",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1700 B760",
+   "name": "MSI MAG B760 Gaming Plus WiFi DDR4 Mainboard ATX LGA 1700 Gold",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/msi-mag-b760-gaming-plus-wifi-ddr4-mainboard-atx-lga-1700-gold-100500206/",
+   "stand": "2026-11-21T19:51",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 171.8,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/msi-mag-b760-gaming-plus-wifi-ddr4-mainboard-atx-lga-1700-gold-100500206/"
+    }
+   ],
+   "price": 171.8,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-16",
+     "p": 178.58
+    },
+    {
+     "d": "2026-11-19",
+     "p": 180.02
+    },
+    {
+     "d": "2026-11-21",
+     "p": 171.8
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1700 b760 msi mag b760 gaming plus wifi ddr4 mainboard atx lga 1700 gold",
+   "firstSeen": "2026-11-16"
   },
   {
    "id": "c-asus-va27dqsb-led-monitor-68-6-cm-27-1920-x-1080-full-hd-108",
@@ -84970,7 +85178,7 @@
    "name": "ASUS PRIME B850M-A WIFI Mainboard Micro ATX Sockel AM5 AMD B850 DDR5 Wi-Fi 6E",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-prime-b850m-a-wifi-mainboard-micro-atx-sockel-am5-amd-b850-ddr5-wi-fi-6e-100584346/",
-   "stand": "2026-11-19T08:27",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -84989,6 +85197,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 172.06
+    },
+    {
+     "d": "2026-11-21",
      "p": 172.06
     }
    ],
@@ -85725,7 +85937,7 @@
    "name": "Alphacool Eisbaer Aurora 360 CPU - Digital RGB V1.1, Wasserkühlung",
    "source": "crawler",
    "url": "https://www.alternate.de/Alphacool/Eisbaer-Aurora-360-CPU-Digital-RGB-V1-1-Wasserk%C3%BChlung/html/product/100144330",
-   "stand": "2026-11-20T08:23",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -85808,6 +86020,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 174.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 174.9
     }
    ],
@@ -86557,7 +86773,7 @@
    "name": "MSI PRO B860-P WIFI Mainboard ATX, Intel B860, LGA 1851, DDR5, Wi-Fi 7",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/msi-pro-b860-p-wifi-mainboard-atx-intel-b860-lga-1851-ddr5-wi-fi-7-100540323/",
-   "stand": "2026-11-19T08:27",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -86576,6 +86792,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 178.56
+    },
+    {
+     "d": "2026-11-21",
      "p": 178.56
     }
    ],
@@ -87252,7 +87472,7 @@
    "name": "Jonsbo TK-4 Gehäuse, Midi-Tower, ATX, Tempered Glass - schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-tk-4-gehaeuse-midi-tower-atx-tempered-glass-schwarz/GEJB-169.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -87304,6 +87524,10 @@
     {
      "d": "2026-11-19",
      "p": 179.9
+    },
+    {
+     "d": "2026-11-21",
+     "p": 179.9
     }
    ],
    "count": 1,
@@ -87317,7 +87541,7 @@
    "name": "Jonsbo TK-4 Case, Midi Tower, ATX, Tempered Glass - White",
    "source": "crawler",
    "url": "https://www.caseking.de/en/jonsbo-tk-4-case-midi-tower-atx-tempered-glass-white/GEJB-170.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -87368,6 +87592,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 179.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 179.9
     }
    ],
@@ -87525,39 +87753,6 @@
    "count": 1,
    "tags": "gehause fractal design torrent compact rgb midi tower light tint tempered glass schwarz",
    "firstSeen": "2026-11-11"
-  },
-  {
-   "id": "c-msi-mag-b760-gaming-plus-wifi-ddr4-mainboard-atx-lga-1700-go",
-   "cat": "Mainboards",
-   "sub": "Intel LGA1700 B760",
-   "name": "MSI MAG B760 Gaming Plus WiFi DDR4 Mainboard ATX LGA 1700 Gold",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/msi-mag-b760-gaming-plus-wifi-ddr4-mainboard-atx-lga-1700-gold-100500206/",
-   "stand": "2026-11-19T08:27",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 180.02,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/msi-mag-b760-gaming-plus-wifi-ddr4-mainboard-atx-lga-1700-gold-100500206/"
-    }
-   ],
-   "price": 180.02,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-16",
-     "p": 178.58
-    },
-    {
-     "d": "2026-11-19",
-     "p": 180.02
-    }
-   ],
-   "count": 1,
-   "tags": "mainboards intel lga1700 b760 msi mag b760 gaming plus wifi ddr4 mainboard atx lga 1700 gold",
-   "firstSeen": "2026-11-16"
   },
   {
    "id": "c-msi-b850-gaming-plus-wifi-mainboard-sockel-am5-amd-b850-atx-",
@@ -88090,17 +88285,17 @@
    "name": "Alphacool Eisbaer LT360 Aurora HPE CPU AIO 360mm, Wasserkühlung",
    "source": "crawler",
    "url": "https://www.alternate.de/Alphacool/Eisbaer-LT360-Aurora-HPE-CPU-AIO-360mm-Wasserk%C3%BChlung/html/product/1838983",
-   "stand": "2026-11-20T08:23",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "ALTERNATE",
-     "price": 181.9,
+     "price": 182.9,
      "ship": 7.99,
      "avail": "Auf Lager",
      "url": "https://www.alternate.de/Alphacool/Eisbaer-LT360-Aurora-HPE-CPU-AIO-360mm-Wasserk%C3%BChlung/html/product/1838983"
     }
    ],
-   "price": 181.9,
+   "price": 182.9,
    "shop": "ALTERNATE",
    "hist": [
     {
@@ -88174,11 +88369,52 @@
     {
      "d": "2026-11-20",
      "p": 181.9
+    },
+    {
+     "d": "2026-11-21",
+     "p": 182.9
     }
    ],
    "count": 1,
    "tags": "kuhlung aio-wasserkuhlung alphacool eisbaer lt360 aurora hpe cpu aio 360mm wasserkuhlung",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-prime-b860-plus-wifi-mainboard-atx-lga1851-ddr5-schwarz",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1851 B860",
+   "name": "ASUS Prime B860-PLUS WIFI Mainboard ATX LGA1851 DDR5 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-prime-b860-plus-wifi-mainboard-atx-lga1851-ddr5-schwarz-100541630/",
+   "stand": "2026-11-21T19:51",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 183.08,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-prime-b860-plus-wifi-mainboard-atx-lga1851-ddr5-schwarz-100541630/"
+    }
+   ],
+   "price": 183.08,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-16",
+     "p": 189.44
+    },
+    {
+     "d": "2026-11-19",
+     "p": 190.2
+    },
+    {
+     "d": "2026-11-21",
+     "p": 183.08
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1851 b860 asus prime b860 plus wifi mainboard atx lga1851 ddr5 schwarz",
+   "firstSeen": "2026-11-16"
   },
   {
    "id": "c-asus-prime-b860-plus-mainboard-sockel-lga-1851-intel-b860-at",
@@ -88642,7 +88878,7 @@
    "name": "Samsung 870 EVO 2,5 Zoll SSD, SATA 6G - 500 GB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/samsung-870-evo-2.5-inch-ssd-sata-6g-500-gb/SSSS-178.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -88697,6 +88933,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 185.74
+    },
+    {
+     "d": "2026-11-21",
      "p": 185.74
     }
    ],
@@ -88853,7 +89093,7 @@
    "name": "MSI PRO B860-P Mainboard ATX, Intel B860, LGA 1851, DDR5, 256 GB RAM",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/msi-pro-b860-p-mainboard-atx-intel-b860-lga-1851-ddr5-256-gb-ram-100540324/",
-   "stand": "2026-11-19T08:27",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -88872,6 +89112,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 187.32
+    },
+    {
+     "d": "2026-11-21",
      "p": 187.32
     }
    ],
@@ -89241,39 +89485,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-asus-prime-b850m-a-csm-mainboard-amd-b850-sockel-am5-ddr5-mi",
-   "cat": "Mainboards",
-   "sub": "AM5 B850",
-   "name": "ASUS PRIME B850M-A-CSM Mainboard AMD B850 Sockel AM5 DDR5 Micro ATX Grau",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/asus-prime-b850m-a-csm-mainboard-amd-b850-sockel-am5-ddr5-micro-atx-grau-100584075/",
-   "stand": "2026-11-19T08:27",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 188.71,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/asus-prime-b850m-a-csm-mainboard-amd-b850-sockel-am5-ddr5-micro-atx-grau-100584075/"
-    }
-   ],
-   "price": 188.71,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-16",
-     "p": 187.77
-    },
-    {
-     "d": "2026-11-19",
-     "p": 188.71
-    }
-   ],
-   "count": 1,
-   "tags": "mainboards am5 b850 asus prime b850m csm mainboard amd b850 sockel am5 ddr5 micro atx grau",
-   "firstSeen": "2026-11-16"
-  },
-  {
    "id": "c-fractal-design-north-xl-rc-chalk-tg-clear-pc-gehause-midi-to",
    "cat": "Gehäuse",
    "sub": "Gehäuse",
@@ -89510,6 +89721,43 @@
    "firstSeen": "2026-11-03"
   },
   {
+   "id": "c-asus-prime-b850m-a-csm-mainboard-amd-b850-sockel-am5-ddr5-mi",
+   "cat": "Mainboards",
+   "sub": "AM5 B850",
+   "name": "ASUS PRIME B850M-A-CSM Mainboard AMD B850 Sockel AM5 DDR5 Micro ATX Grau",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-prime-b850m-a-csm-mainboard-amd-b850-sockel-am5-ddr5-micro-atx-grau-100584075/",
+   "stand": "2026-11-21T19:51",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 189.56,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-prime-b850m-a-csm-mainboard-amd-b850-sockel-am5-ddr5-micro-atx-grau-100584075/"
+    }
+   ],
+   "price": 189.56,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-16",
+     "p": 187.77
+    },
+    {
+     "d": "2026-11-19",
+     "p": 188.71
+    },
+    {
+     "d": "2026-11-21",
+     "p": 189.56
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 b850 asus prime b850m csm mainboard amd b850 sockel am5 ddr5 micro atx grau",
+   "firstSeen": "2026-11-16"
+  },
+  {
    "id": "c-silverstone-sst-seq1b-seta-q1-midi-tower-schwarz",
    "cat": "Gehäuse",
    "sub": "Gehäuse",
@@ -89581,7 +89829,7 @@
    "name": "be quiet! Pure Power 13M 80 PLUS Gold Netzteil, ATX 3.1, PCIe 5.1 - 1.200 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-pure-power-13m-80-plus-gold-power-supply-atx-3.1-pcie-5.1-1-200-watts-black/NEBE-268.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -89628,6 +89876,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 189.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 189.9
     }
    ],
@@ -89799,36 +90051,40 @@
    "firstSeen": "2026-11-08"
   },
   {
-   "id": "c-asus-prime-b860-plus-wifi-mainboard-atx-lga1851-ddr5-schwarz",
+   "id": "c-asus-tuf-gaming-b850m-e-wifi-mainboard-socket-am5-amd-b850-d",
    "cat": "Mainboards",
-   "sub": "Intel LGA1851 B860",
-   "name": "ASUS Prime B860-PLUS WIFI Mainboard ATX LGA1851 DDR5 Schwarz",
+   "sub": "AM5 B850",
+   "name": "ASUS TUF GAMING B850M-E WIFI Mainboard Socket AM5 AMD B850 DDR5 Micro ATX Wi-Fi 6E Grau",
    "source": "crawler",
-   "url": "https://www.jacob.de/produkt/asus-prime-b860-plus-wifi-mainboard-atx-lga1851-ddr5-schwarz-100541630/",
-   "stand": "2026-11-19T08:27",
+   "url": "https://www.jacob.de/produkt/asus-tuf-gaming-b850m-e-wifi-mainboard-socket-am5-amd-b850-ddr5-micro-atx-wi-fi-6e-grau-100582128/",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
-     "price": 190.2,
+     "price": 190.33,
      "ship": null,
      "avail": null,
-     "url": "https://www.jacob.de/produkt/asus-prime-b860-plus-wifi-mainboard-atx-lga1851-ddr5-schwarz-100541630/"
+     "url": "https://www.jacob.de/produkt/asus-tuf-gaming-b850m-e-wifi-mainboard-socket-am5-amd-b850-ddr5-micro-atx-wi-fi-6e-grau-100582128/"
     }
    ],
-   "price": 190.2,
+   "price": 190.33,
    "shop": "JACOB Elektronik GmbH",
    "hist": [
     {
      "d": "2026-11-16",
-     "p": 189.44
+     "p": 194.42
     },
     {
      "d": "2026-11-19",
-     "p": 190.2
+     "p": 195.92
+    },
+    {
+     "d": "2026-11-21",
+     "p": 190.33
     }
    ],
    "count": 1,
-   "tags": "mainboards intel lga1851 b860 asus prime b860 plus wifi mainboard atx lga1851 ddr5 schwarz",
+   "tags": "mainboards am5 b850 asus tuf gaming b850m wifi mainboard socket am5 amd b850 ddr5 micro atx grau",
    "firstSeen": "2026-11-16"
   },
   {
@@ -89867,6 +90123,43 @@
    "count": 1,
    "tags": "netzteile 1000 w+ sharkoon rebel p30 gold 1000w atx3 netzteil",
    "firstSeen": "2026-11-17"
+  },
+  {
+   "id": "c-asus-tuf-gaming-b860-plus-wifi-mainboard-intel-b860-lga-1851",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1851 B860",
+   "name": "ASUS TUF Gaming B860-PLUS WIFI Mainboard Intel B860 LGA 1851 ATX DDR5 Wi-Fi 7 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-tuf-gaming-b860-plus-wifi-mainboard-intel-b860-lga-1851-atx-ddr5-wi-fi-7-schwarz-100541632/",
+   "stand": "2026-11-21T19:51",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 191.01,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-tuf-gaming-b860-plus-wifi-mainboard-intel-b860-lga-1851-atx-ddr5-wi-fi-7-schwarz-100541632/"
+    }
+   ],
+   "price": 191.01,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-16",
+     "p": 190.98
+    },
+    {
+     "d": "2026-11-19",
+     "p": 192.45
+    },
+    {
+     "d": "2026-11-21",
+     "p": 191.01
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1851 b860 asus tuf gaming b860 plus wifi mainboard intel lga 1851 atx ddr5 schwarz",
+   "firstSeen": "2026-11-16"
   },
   {
    "id": "c-kingston-fury-beast-ddr4-16-gb-ram-3200-mhz-dimm-cl16-schwar",
@@ -90009,39 +90302,6 @@
    "count": 1,
    "tags": "monitore 32\" philips line 325e1c 2560 1440 monitor textured black",
    "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-asus-tuf-gaming-b860-plus-wifi-mainboard-intel-b860-lga-1851",
-   "cat": "Mainboards",
-   "sub": "Intel LGA1851 B860",
-   "name": "ASUS TUF Gaming B860-PLUS WIFI Mainboard Intel B860 LGA 1851 ATX DDR5 Wi-Fi 7 Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/asus-tuf-gaming-b860-plus-wifi-mainboard-intel-b860-lga-1851-atx-ddr5-wi-fi-7-schwarz-100541632/",
-   "stand": "2026-11-19T08:27",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 192.45,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/asus-tuf-gaming-b860-plus-wifi-mainboard-intel-b860-lga-1851-atx-ddr5-wi-fi-7-schwarz-100541632/"
-    }
-   ],
-   "price": 192.45,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-16",
-     "p": 190.98
-    },
-    {
-     "d": "2026-11-19",
-     "p": 192.45
-    }
-   ],
-   "count": 1,
-   "tags": "mainboards intel lga1851 b860 asus tuf gaming b860 plus wifi mainboard intel lga 1851 atx ddr5 schwarz",
-   "firstSeen": "2026-11-16"
   },
   {
    "id": "c-asrock-b850i-lightning-wifi-mainboard-sockel-am5-amd-b850-mi",
@@ -90704,7 +90964,7 @@
    "name": "ASUS TUF Gaming 1200W Gold 80 PLUS Gold Netzteil, modular - 1200 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-tuf-gaming-1200w-gold-80-plus-gold-power-supply-modular-1200-watt/NEAS-027.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -90751,6 +91011,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 194.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 194.9
     }
    ],
@@ -90830,72 +91094,6 @@
    "count": 1,
    "tags": "ssds pcie 4.0 1 tb seagate firecuda x1070 pcie nvme ssd",
    "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-asus-prime-b860-plus-csm-mainboard-atx-intel-b860-lga-1851-d",
-   "cat": "Mainboards",
-   "sub": "Intel LGA1851 B860",
-   "name": "ASUS PRIME B860-PLUS-CSM Mainboard ATX, Intel B860, LGA 1851, DDR5",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/asus-prime-b860-plus-csm-mainboard-atx-intel-b860-lga-1851-ddr5-100541631/",
-   "stand": "2026-11-19T08:27",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 195.58,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/asus-prime-b860-plus-csm-mainboard-atx-intel-b860-lga-1851-ddr5-100541631/"
-    }
-   ],
-   "price": 195.58,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-16",
-     "p": 194.83
-    },
-    {
-     "d": "2026-11-19",
-     "p": 195.58
-    }
-   ],
-   "count": 1,
-   "tags": "mainboards intel lga1851 b860 asus prime b860 plus csm mainboard atx intel lga 1851 ddr5",
-   "firstSeen": "2026-11-16"
-  },
-  {
-   "id": "c-asus-tuf-gaming-b850m-e-wifi-mainboard-socket-am5-amd-b850-d",
-   "cat": "Mainboards",
-   "sub": "AM5 B850",
-   "name": "ASUS TUF GAMING B850M-E WIFI Mainboard Socket AM5 AMD B850 DDR5 Micro ATX Wi-Fi 6E Grau",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/asus-tuf-gaming-b850m-e-wifi-mainboard-socket-am5-amd-b850-ddr5-micro-atx-wi-fi-6e-grau-100582128/",
-   "stand": "2026-11-19T08:27",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 195.92,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/asus-tuf-gaming-b850m-e-wifi-mainboard-socket-am5-amd-b850-ddr5-micro-atx-wi-fi-6e-grau-100582128/"
-    }
-   ],
-   "price": 195.92,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-16",
-     "p": 194.42
-    },
-    {
-     "d": "2026-11-19",
-     "p": 195.92
-    }
-   ],
-   "count": 1,
-   "tags": "mainboards am5 b850 asus tuf gaming b850m wifi mainboard socket am5 amd b850 ddr5 micro atx grau",
-   "firstSeen": "2026-11-16"
   },
   {
    "id": "c-asus-rog-ryujin-iii-wb-cpu-kuhler",
@@ -91038,6 +91236,43 @@
    "count": 1,
    "tags": "kuhlung luftkuhler asus rog ryujin iii cpu kuhler",
    "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "c-asus-prime-b860-plus-csm-mainboard-atx-intel-b860-lga-1851-d",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1851 B860",
+   "name": "ASUS PRIME B860-PLUS-CSM Mainboard ATX, Intel B860, LGA 1851, DDR5",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-prime-b860-plus-csm-mainboard-atx-intel-b860-lga-1851-ddr5-100541631/",
+   "stand": "2026-11-21T19:51",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 196.02,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-prime-b860-plus-csm-mainboard-atx-intel-b860-lga-1851-ddr5-100541631/"
+    }
+   ],
+   "price": 196.02,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-16",
+     "p": 194.83
+    },
+    {
+     "d": "2026-11-19",
+     "p": 195.58
+    },
+    {
+     "d": "2026-11-21",
+     "p": 196.02
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1851 b860 asus prime b860 plus csm mainboard atx intel lga 1851 ddr5",
+   "firstSeen": "2026-11-16"
   },
   {
    "id": "c-kingston-fury-beast-8-gb-ram-5200-mhz-ddr5-cl40-dimm-black",
@@ -91290,7 +91525,7 @@
    "name": "Alphacool Eisbaer Aurora HPE Edition 360 CPU AIO 360mm, Wasserkühlung",
    "source": "crawler",
    "url": "https://www.alternate.de/Alphacool/Eisbaer-Aurora-HPE-Edition-360-CPU-AIO-360mm-Wasserk%C3%BChlung/html/product/1838984",
-   "stand": "2026-11-20T08:23",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -91373,6 +91608,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 196.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 196.9
     }
    ],
@@ -91631,7 +91870,7 @@
    "name": "Thermaltake Toughpower SFX Platinum 850W, PC-Netzteil",
    "source": "crawler",
    "url": "https://www.alternate.de/Thermaltake/Toughpower-SFX-Platinum-850W-PC-Netzteil/html/product/100050160",
-   "stand": "2026-11-20T08:23",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -91662,6 +91901,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 198.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 198.9
     }
    ],
@@ -92106,7 +92349,7 @@
    "name": "Bitspower RAM cooler, DDR5, transparent double-sided - 4 DIMMs",
    "source": "crawler",
    "url": "https://www.caseking.de/en/bitspower-ram-cooler-ddr5-transparent-double-sided-4-dimms/WAZU-1138.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -92161,6 +92404,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 199.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 199.9
     }
    ],
@@ -93284,7 +93531,7 @@
    "name": "ASUS TUF Gaming B850-PLUS WIFI Mainboard Sockel AM5 ATX DDR5 Wi-Fi 7 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-tuf-gaming-b850-plus-wifi-mainboard-sockel-am5-atx-ddr5-wi-fi-7-schwarz-100539495/",
-   "stand": "2026-11-19T08:27",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -93303,6 +93550,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 202.94
+    },
+    {
+     "d": "2026-11-21",
      "p": 202.94
     }
    ],
@@ -95114,7 +95365,7 @@
    "name": "Corsair iCUE XC7 RGB ELITE LCD CPU-Wasserkühler, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/Corsair/iCUE-XC7-RGB-ELITE-LCD-CPU-Wasserk%C3%BChler-CPU-K%C3%BChler/html/product/100012834",
-   "stand": "2026-11-20T08:23",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -95194,6 +95445,10 @@
     {
      "d": "2026-11-20",
      "p": 209.9
+    },
+    {
+     "d": "2026-11-21",
+     "p": 209.9
     }
    ],
    "count": 1,
@@ -95207,7 +95462,7 @@
    "name": "Corsair iCUE XC7 RGB ELITE LCD WHITE, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/Corsair/iCUE-XC7-RGB-ELITE-LCD-WHITE-CPU-K%C3%BChler/html/product/100012835",
-   "stand": "2026-11-20T08:23",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -95287,6 +95542,10 @@
     {
      "d": "2026-11-20",
      "p": 209.9
+    },
+    {
+     "d": "2026-11-21",
+     "p": 209.9
     }
    ],
    "count": 1,
@@ -95300,7 +95559,7 @@
    "name": "be quiet! Power Zone 2 80 PLUS Platinum Netzteil, vollmodular, ATX 3.1, PCIe 5.1 - 1.200 Watt, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-power-zone-2-80-plus-platinum-power-supply-fully-modular-atx-3.1-pcie-5.1-1-200-watts-black/NEBE-267.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -95347,6 +95606,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 209.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 209.9
     }
    ],
@@ -96276,7 +96539,7 @@
    "name": "be quiet! pure power 12M 80 PLUS Gold Netzteil, modular, ATX 3.1, PCIe 5.1 - 1.200 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-pure-power-12m-80-plus-gold-power-supply-modular-atx-3.1-pcie-5.1-1-200-watts/NEBE-269.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -96323,6 +96586,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 214.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 214.9
     }
    ],
@@ -98761,7 +99028,7 @@
    "name": "Thermaltake TT Toughpower SFX Platinum 1000W, PC-Netzteil",
    "source": "crawler",
    "url": "https://www.alternate.de/Thermaltake/TT-Toughpower-SFX-Platinum-1000W-PC-Netzteil/html/product/100050164",
-   "stand": "2026-11-20T08:23",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -98792,6 +99059,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 224.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 224.9
     }
    ],
@@ -99596,39 +99867,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-msi-mag-b860-tomahawk-wifi-mainboard-intel-b860-lga1851-atx-",
-   "cat": "Mainboards",
-   "sub": "Intel LGA1851 B860",
-   "name": "MSI MAG B860 TOMAHAWK WIFI Mainboard Intel B860 LGA1851 ATX DDR5 Wi-Fi 7 Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/msi-mag-b860-tomahawk-wifi-mainboard-intel-b860-lga1851-atx-ddr5-wi-fi-7-schwarz-100540003/",
-   "stand": "2026-11-19T08:27",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 229.12,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/msi-mag-b860-tomahawk-wifi-mainboard-intel-b860-lga1851-atx-ddr5-wi-fi-7-schwarz-100540003/"
-    }
-   ],
-   "price": 229.12,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-16",
-     "p": 229.12
-    },
-    {
-     "d": "2026-11-19",
-     "p": 229.12
-    }
-   ],
-   "count": 1,
-   "tags": "mainboards intel lga1851 b860 msi mag b860 tomahawk wifi mainboard intel lga1851 atx ddr5 schwarz",
-   "firstSeen": "2026-11-16"
-  },
-  {
    "id": "c-be-quiet-dark-power-14-80-plus-titanium-netzteil-atx-3-1-pci-l0hox",
    "cat": "Netzteile",
    "sub": "1000 W+",
@@ -99850,7 +100088,7 @@
    "name": "FSP Hydro PTM PRO ATX3.1(12V-2x6) 1350W, PC-Netzteil",
    "source": "crawler",
    "url": "https://www.alternate.de/FSP/Hydro-PTM-PRO-ATX3-1-12V-2x6-1350W-PC-Netzteil/html/product/100070574",
-   "stand": "2026-11-19T21:55",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -99873,6 +100111,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 230.85
+    },
+    {
+     "d": "2026-11-21",
      "p": 230.85
     }
    ],
@@ -100056,15 +100298,15 @@
    "sub": "SFX",
    "name": "SilverStone SST-EX850R-PM Extreme SFX Netzteil Platinum - 850 Watt",
    "source": "crawler",
-   "url": "https://www.caseking.de/silverstone-sst-ex850r-pm-extreme-sfx-netzteil-platinum-850-watt/NEST-210.html",
-   "stand": "2026-11-20T18:00",
+   "url": "https://www.caseking.de/en/silverstone-sst-ex850r-pm-extreme-sfx-power-supply-platinum-850-watt/NEST-210.html",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 232.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/silverstone-sst-ex850r-pm-extreme-sfx-netzteil-platinum-850-watt/NEST-210.html"
+     "url": "https://www.caseking.de/en/silverstone-sst-ex850r-pm-extreme-sfx-power-supply-platinum-850-watt/NEST-210.html"
     }
    ],
    "price": 232.9,
@@ -100148,6 +100390,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 232.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 232.9
     }
    ],
@@ -101229,7 +101475,7 @@
    "name": "SanDisk WD_BLACK SN8100 SSD 1TB M.2 2280 PCIe Gen5 NVMe Internes Solid-State-Module",
    "source": "crawler",
    "url": "https://www.notebooksbilliger.de/wd_black+sn8100+ssd+1tb+m2+2280+pcie+gen5+nvme+892674",
-   "stand": "2026-11-21T17:47",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "Notebooksbilliger",
@@ -101346,7 +101592,7 @@
    "name": "ASUS ROG Strix LC III 360 ARGB LCD All-in-One-Wasserkühlung - 360mm, weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/asus-rog-strix-lc-iii-360-argb-lcd-all-in-one-wasserkuehlung-360mm-weiss/WASE-888.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -101393,6 +101639,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 239
+    },
+    {
+     "d": "2026-11-21",
      "p": 239
     }
    ],
@@ -103177,7 +103427,7 @@
    "name": "FSP Hydro PTM PRO ATX3.1(12V-2x6) 1650W, PC-Netzteil",
    "source": "crawler",
    "url": "https://www.alternate.de/FSP/Hydro-PTM-PRO-ATX3-1-12V-2x6-1650W-PC-Netzteil/html/product/100070575",
-   "stand": "2026-11-19T21:55",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -103200,6 +103450,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 246.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 246.9
     }
    ],
@@ -104400,15 +104654,15 @@
    "sub": "Intel LGA1851 Z890",
    "name": "ASRock Z890 Lightning WiFi Mainboard, Sockel LGA 1851, Intel Z890, ATX, DDR5",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/asrock-z890-lightning-wifi-motherboard-socket-lga-1851-intel-z890-atx-ddr5/MBAR-496.html",
-   "stand": "2026-11-21T17:47",
+   "url": "https://www.caseking.de/asrock-z890-lightning-wifi-mainboard-sockel-lga-1851-intel-z890-atx-ddr5/MBAR-496.html",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 252.94,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/asrock-z890-lightning-wifi-motherboard-socket-lga-1851-intel-z890-atx-ddr5/MBAR-496.html"
+     "url": "https://www.caseking.de/asrock-z890-lightning-wifi-mainboard-sockel-lga-1851-intel-z890-atx-ddr5/MBAR-496.html"
     }
    ],
    "price": 252.94,
@@ -104762,7 +105016,7 @@
    "name": "ASUS ROG Strix B860-A GAMING WIFI Mainboard ATX LGA 1851 Intel B860 DDR5 Weiß",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-rog-strix-b860-a-gaming-wifi-mainboard-atx-lga-1851-intel-b860-ddr5-weiss-100541625/",
-   "stand": "2026-11-19T08:27",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -104781,6 +105035,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 255.89
+    },
+    {
+     "d": "2026-11-21",
      "p": 255.89
     }
    ],
@@ -105287,7 +105545,7 @@
    "name": "Jonsbo MOD3 Big-Tower Showcase, Tempered Glass - weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsbo-mod3-big-tower-showcase-tempered-glass-weiss/GEJB-010.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -105338,6 +105596,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 259.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 259.9
     }
    ],
@@ -105600,7 +105862,7 @@
    "name": "ASRock Z890 Riptide WiFi Mainboard, Sockel LGA 1851, Intel Z890, ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asrock-z890-riptide-wifi-motherboard-socket-lga-1851-intel-z890-atx-ddr5/MBAR-495.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -105655,6 +105917,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 262.34
+    },
+    {
+     "d": "2026-11-21",
      "p": 262.34
     }
    ],
@@ -107325,7 +107591,7 @@
    "name": "ASUS TUF GAMING Z790-PLUS WIFI Mainboard ATX LGA1700 Intel Z790 DDR5 Wi-Fi 6E Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-tuf-gaming-z790-plus-wifi-mainboard-atx-lga1700-intel-z790-ddr5-wi-fi-6e-schwarz-8114070/",
-   "stand": "2026-11-19T08:27",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -107344,6 +107610,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 276.81
+    },
+    {
+     "d": "2026-11-21",
      "p": 276.81
     }
    ],
@@ -107527,13 +107797,50 @@
    "firstSeen": "2026-11-16"
   },
   {
+   "id": "c-msi-mag-b860-tomahawk-wifi-mainboard-intel-b860-lga1851-atx-",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1851 B860",
+   "name": "MSI MAG B860 TOMAHAWK WIFI Mainboard Intel B860 LGA1851 ATX DDR5 Wi-Fi 7 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/msi-mag-b860-tomahawk-wifi-mainboard-intel-b860-lga1851-atx-ddr5-wi-fi-7-schwarz-100540003/",
+   "stand": "2026-11-21T19:51",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 279.79,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/msi-mag-b860-tomahawk-wifi-mainboard-intel-b860-lga1851-atx-ddr5-wi-fi-7-schwarz-100540003/"
+    }
+   ],
+   "price": 279.79,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-16",
+     "p": 229.12
+    },
+    {
+     "d": "2026-11-19",
+     "p": 229.12
+    },
+    {
+     "d": "2026-11-21",
+     "p": 279.79
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1851 b860 msi mag b860 tomahawk wifi mainboard intel lga1851 atx ddr5 schwarz",
+   "firstSeen": "2026-11-16"
+  },
+  {
    "id": "c-jonsplus-bo400-pc-gehause-midi-tower-atx-tempered-glass-gunm",
    "cat": "Gehäuse",
    "sub": "Gehäuse",
    "name": "Jonsplus BO400 PC-Gehäuse, Midi-Tower, ATX, Tempered Glass – gunmetal grey",
    "source": "crawler",
    "url": "https://www.caseking.de/jonsplus-bo400-pc-gehaeuse-midi-tower-atx-tempered-glass-gunmetal-grey/GEJB-167.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -107584,6 +107891,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 279.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 279.9
     }
    ],
@@ -107880,39 +108191,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-asus-prime-z890-p-wifi-mainboard-atx-lga1851-z890-ddr5-wi-fi",
-   "cat": "Mainboards",
-   "sub": "Intel LGA1851 Z890",
-   "name": "ASUS PRIME Z890-P WIFI Mainboard ATX LGA1851 Z890 DDR5 Wi-Fi 7 Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/asus-prime-z890-p-wifi-mainboard-atx-lga1851-z890-ddr5-wi-fi-7-schwarz-100514201/",
-   "stand": "2026-11-19T08:27",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 282.01,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/asus-prime-z890-p-wifi-mainboard-atx-lga1851-z890-ddr5-wi-fi-7-schwarz-100514201/"
-    }
-   ],
-   "price": 282.01,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-16",
-     "p": 282.01
-    },
-    {
-     "d": "2026-11-19",
-     "p": 282.01
-    }
-   ],
-   "count": 1,
-   "tags": "mainboards intel lga1851 z890 asus prime z890 wifi mainboard atx lga1851 ddr5 schwarz",
-   "firstSeen": "2026-11-16"
-  },
-  {
    "id": "c-amd-ryzen-7-5800xt-3-8-ghz-8-kerne-36-mb-cache-sockel-am4",
    "cat": "Prozessoren",
    "sub": "AM4",
@@ -108202,6 +108480,43 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asus-prime-z890-p-wifi-mainboard-atx-lga1851-z890-ddr5-wi-fi",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1851 Z890",
+   "name": "ASUS PRIME Z890-P WIFI Mainboard ATX LGA1851 Z890 DDR5 Wi-Fi 7 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-prime-z890-p-wifi-mainboard-atx-lga1851-z890-ddr5-wi-fi-7-schwarz-100514201/",
+   "stand": "2026-11-21T19:51",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 288.3,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-prime-z890-p-wifi-mainboard-atx-lga1851-z890-ddr5-wi-fi-7-schwarz-100514201/"
+    }
+   ],
+   "price": 288.3,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-16",
+     "p": 282.01
+    },
+    {
+     "d": "2026-11-19",
+     "p": 282.01
+    },
+    {
+     "d": "2026-11-21",
+     "p": 288.3
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1851 z890 asus prime z890 wifi mainboard atx lga1851 ddr5 schwarz",
+   "firstSeen": "2026-11-16"
+  },
+  {
    "id": "c-asus-zenscreen-go-mb16ahp-15-6-full-hd-ips-monitor-schwarz",
    "cat": "Monitore",
    "sub": "15,6\"",
@@ -108277,17 +108592,17 @@
    "name": "MSI PRO Z890-A WIFI Mainboard, Intel Z890, LGA1851, ATX, DDR5, Wi-Fi 7, Black",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/msi-pro-z890-a-wifi-mainboard-intel-z890-lga1851-atx-ddr5-wi-fi-7-black-100516853/",
-   "stand": "2026-11-19T08:27",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
-     "price": 288.81,
+     "price": 288.69,
      "ship": null,
      "avail": null,
      "url": "https://www.jacob.de/produkt/msi-pro-z890-a-wifi-mainboard-intel-z890-lga1851-atx-ddr5-wi-fi-7-black-100516853/"
     }
    ],
-   "price": 288.81,
+   "price": 288.69,
    "shop": "JACOB Elektronik GmbH",
    "hist": [
     {
@@ -108297,6 +108612,10 @@
     {
      "d": "2026-11-19",
      "p": 288.81
+    },
+    {
+     "d": "2026-11-21",
+     "p": 288.69
     }
    ],
    "count": 1,
@@ -108487,39 +108806,6 @@
    "firstSeen": "2026-11-15"
   },
   {
-   "id": "c-msi-mag-b850-tomahawk-max-wifi-mainboard-amd-b850-sockel-am5",
-   "cat": "Mainboards",
-   "sub": "AM5 B850",
-   "name": "MSI MAG B850 Tomahawk Max WiFi Mainboard AMD B850 Sockel AM5 DDR5 Weiß",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/msi-mag-b850-tomahawk-max-wifi-mainboard-amd-b850-sockel-am5-ddr5-weiss-100541621/",
-   "stand": "2026-11-19T08:27",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 289.46,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/msi-mag-b850-tomahawk-max-wifi-mainboard-amd-b850-sockel-am5-ddr5-weiss-100541621/"
-    }
-   ],
-   "price": 289.46,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-16",
-     "p": 289.46
-    },
-    {
-     "d": "2026-11-19",
-     "p": 289.46
-    }
-   ],
-   "count": 1,
-   "tags": "mainboards am5 b850 msi mag b850 tomahawk max wifi mainboard amd sockel am5 ddr5 weiss",
-   "firstSeen": "2026-11-16"
-  },
-  {
    "id": "c-jonsplus-bo400cg-pc-gehause-midi-tower-atx-tempered-glass-gu",
    "cat": "Gehäuse",
    "sub": "Gehäuse",
@@ -108693,6 +108979,43 @@
    "count": 1,
    "tags": "prozessoren intel lga1700 intel core 12700k prozessor ghz kerne cache lga 1700",
    "firstSeen": "2026-10-31"
+  },
+  {
+   "id": "c-msi-mag-b850-tomahawk-max-wifi-mainboard-amd-b850-sockel-am5",
+   "cat": "Mainboards",
+   "sub": "AM5 B850",
+   "name": "MSI MAG B850 Tomahawk Max WiFi Mainboard AMD B850 Sockel AM5 DDR5 Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/msi-mag-b850-tomahawk-max-wifi-mainboard-amd-b850-sockel-am5-ddr5-weiss-100541621/",
+   "stand": "2026-11-21T19:51",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 292.23,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/msi-mag-b850-tomahawk-max-wifi-mainboard-amd-b850-sockel-am5-ddr5-weiss-100541621/"
+    }
+   ],
+   "price": 292.23,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-16",
+     "p": 289.46
+    },
+    {
+     "d": "2026-11-19",
+     "p": 289.46
+    },
+    {
+     "d": "2026-11-21",
+     "p": 292.23
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 b850 msi mag b850 tomahawk max wifi mainboard amd sockel am5 ddr5 weiss",
+   "firstSeen": "2026-11-16"
   },
   {
    "id": "c-philips-5000-series-24b1u5301h-23-8-full-hd-monitor-75-hz-ip",
@@ -109200,7 +109523,7 @@
    "name": "Samsung 870 EVO 2,5 Zoll SSD, SATA 6G - 1 TB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/samsung-870-evo-2.5-inch-ssd-sata-6g-1-tb/SSSS-179.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -109255,6 +109578,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 297.05
+    },
+    {
+     "d": "2026-11-21",
      "p": 297.05
     }
    ],
@@ -109692,7 +110019,7 @@
    "name": "HYTE Y70 Firefly Japan Edition PC-Gehäuse, Midi-Tower, E-ATX Tempered Glass - silber",
    "source": "crawler",
    "url": "https://www.caseking.de/hyte-y70-firefly-japan-edition-pc-gehaeuse-midi-tower-e-atx-tempered-glass-silber/GEHY-070.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -109743,6 +110070,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 299.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 299.9
     }
    ],
@@ -111576,39 +111907,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-asus-rog-strix-b850-f-gaming-wifi-mainboard-atx-sockel-am5-d",
-   "cat": "Mainboards",
-   "sub": "AM5 B850",
-   "name": "ASUS ROG Strix B850-F Gaming WIFI Mainboard ATX Sockel AM5 DDR5 Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/asus-rog-strix-b850-f-gaming-wifi-mainboard-atx-sockel-am5-ddr5-schwarz-100539490/",
-   "stand": "2026-11-19T08:27",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 316.27,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/asus-rog-strix-b850-f-gaming-wifi-mainboard-atx-sockel-am5-ddr5-schwarz-100539490/"
-    }
-   ],
-   "price": 316.27,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-16",
-     "p": 308.21
-    },
-    {
-     "d": "2026-11-19",
-     "p": 316.27
-    }
-   ],
-   "count": 1,
-   "tags": "mainboards am5 b850 asus rog strix b850 gaming wifi mainboard atx sockel am5 ddr5 schwarz",
-   "firstSeen": "2026-11-16"
-  },
-  {
    "id": "c-samsung-viewfinity-s6-s32d600eau-32-qhd-ips-monitor-100-hz-h",
    "cat": "Monitore",
    "sub": "32\"",
@@ -112591,7 +112889,7 @@
    "name": "Crucial Pro DDR5 16 GB RAM 1 x 16 GB 6000 MHz CL48 288-PIN DIMM Low Profile Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/crucial-pro-ddr5-16-gb-ram-1-x-16-gb-6000-mhz-cl48-288-pin-dimm-low-profile-schwarz-100484371/",
-   "stand": "2026-11-19T08:27",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -112610,6 +112908,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 327.85
+    },
+    {
+     "d": "2026-11-21",
      "p": 327.85
     }
    ],
@@ -112760,6 +113062,43 @@
    "firstSeen": "2026-10-31"
   },
   {
+   "id": "c-asus-rog-strix-b850-f-gaming-wifi-mainboard-atx-sockel-am5-d",
+   "cat": "Mainboards",
+   "sub": "AM5 B850",
+   "name": "ASUS ROG Strix B850-F Gaming WIFI Mainboard ATX Sockel AM5 DDR5 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-rog-strix-b850-f-gaming-wifi-mainboard-atx-sockel-am5-ddr5-schwarz-100539490/",
+   "stand": "2026-11-21T19:51",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 328.33,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-rog-strix-b850-f-gaming-wifi-mainboard-atx-sockel-am5-ddr5-schwarz-100539490/"
+    }
+   ],
+   "price": 328.33,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-16",
+     "p": 308.21
+    },
+    {
+     "d": "2026-11-19",
+     "p": 316.27
+    },
+    {
+     "d": "2026-11-21",
+     "p": 328.33
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 b850 asus rog strix b850 gaming wifi mainboard atx sockel am5 ddr5 schwarz",
+   "firstSeen": "2026-11-16"
+  },
+  {
    "id": "c-hp-e14-g4-led-monitor-35-6-cm-14-14-sichtbar-tragbar-1920-x-",
    "cat": "Monitore",
    "sub": "14\"",
@@ -112839,7 +113178,7 @@
    "name": "INNO3D GeForce RTX 3050 Twin X2 V2 Special, 6144 MB GDDR6",
    "source": "crawler",
    "url": "https://www.caseking.de/en/inno3d-geforce-rtx-3050-twin-x2-v2-special-6144-mb-gddr6/GCI3-295.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -112894,6 +113233,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 329
+    },
+    {
+     "d": "2026-11-21",
      "p": 329
     }
    ],
@@ -112976,15 +113319,15 @@
    "sub": "1000 W+",
    "name": "Silverstone SST-HA1300R-PM Platinum Netzteil, modular - 1300 Watt",
    "source": "crawler",
-   "url": "https://www.caseking.de/silverstone-sst-ha1300r-pm-platinum-netzteil-modular-1300-watt/NEST-209.html",
-   "stand": "2026-11-20T18:00",
+   "url": "https://www.caseking.de/en/silverstone-sst-ha1300r-pm-platinum-power-supply-modular-1300-watt/NEST-209.html",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 329.9,
      "ship": null,
      "avail": "Vorbestellung",
-     "url": "https://www.caseking.de/silverstone-sst-ha1300r-pm-platinum-netzteil-modular-1300-watt/NEST-209.html"
+     "url": "https://www.caseking.de/en/silverstone-sst-ha1300r-pm-platinum-power-supply-modular-1300-watt/NEST-209.html"
     }
    ],
    "price": 329.9,
@@ -113068,6 +113411,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 329.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 329.9
     }
    ],
@@ -114476,17 +114823,17 @@
    "name": "ASUS ROG STRIX B850-E GAMING WIFI Mainboard ATX Sockel AM5 AMD B850 DDR5 Wi-Fi 7 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-rog-strix-b850-e-gaming-wifi-mainboard-atx-sockel-am5-amd-b850-ddr5-wi-fi-7-schwarz-100539489/",
-   "stand": "2026-11-19T08:27",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
-     "price": 343.96,
+     "price": 343.95,
      "ship": null,
      "avail": null,
      "url": "https://www.jacob.de/produkt/asus-rog-strix-b850-e-gaming-wifi-mainboard-atx-sockel-am5-amd-b850-ddr5-wi-fi-7-schwarz-100539489/"
     }
    ],
-   "price": 343.96,
+   "price": 343.95,
    "shop": "JACOB Elektronik GmbH",
    "hist": [
     {
@@ -114496,6 +114843,10 @@
     {
      "d": "2026-11-19",
      "p": 343.96
+    },
+    {
+     "d": "2026-11-21",
+     "p": 343.95
     }
    ],
    "count": 1,
@@ -115667,7 +116018,7 @@
    "name": "Samsung 980 SSD 250 GB M.2 2280 PCIe 3.0 x4 NVMe Intern",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/samsung-980-ssd-250-gb-m-2-2280-pcie-3-0-x4-nvme-intern-6983856/",
-   "stand": "2026-11-18T21:56",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -115686,6 +116037,10 @@
     },
     {
      "d": "2026-11-18",
+     "p": 357.04
+    },
+    {
+     "d": "2026-11-21",
      "p": 357.04
     }
    ],
@@ -115834,7 +116189,7 @@
    "name": "Sparkle Arc B570 Guardian OC Grafikkarte, 10240 MB GDDR6",
    "source": "crawler",
    "url": "https://www.caseking.de/sparkle-arc-b570-guardian-oc-grafikkarte-10240-mb-gddr6/GCSK-010.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -115889,6 +116244,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 359
+    },
+    {
+     "d": "2026-11-21",
      "p": 359
     }
    ],
@@ -116216,7 +116575,7 @@
    "name": "SanDisk WD_BLACK SN770M SSD 2TB M.2 2230 PCIe Gen4 NVMe B-Ware Internes Solid-State-Module",
    "source": "crawler",
    "url": "https://www.notebooksbilliger.de/wd_black+sn770m+ssd+2tb+m2+2230+pcie+gen4+nvme+b+ware+919699",
-   "stand": "2026-11-21T17:47",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "Notebooksbilliger",
@@ -119292,7 +119651,7 @@
    "name": "be quiet! Dark Power Pro 13 Netzteil 80 PLUS Titanium, ATX 3.1, PCIe 5.1 - 1300 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-dark-power-pro-13-power-supply-80-plus-titanium-atx-3.1-pcie-5.1-1300-watt/NEBE-234.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -119351,6 +119710,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 389.9
+    },
+    {
+     "d": "2026-11-21",
      "p": 389.9
     }
    ],
@@ -120612,7 +120975,7 @@
    "name": "Kingston FURY Beast RGB 16 GB RAM DDR5 6000 MT/s CL36 DIMM Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-beast-rgb-16-gb-ram-ddr5-6000-mt-s-cl36-dimm-schwarz-100499639/",
-   "stand": "2026-11-19T08:27",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -120631,6 +120994,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 402.64
+    },
+    {
+     "d": "2026-11-21",
      "p": 402.64
     }
    ],
@@ -121612,7 +121979,7 @@
    "name": "ASRock Z890 Taichi Mainboard, Sockel LGA 1851, Intel Z890, ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asrock-z890-taichi-motherboard-socket-lga-1851-intel-z890-atx-ddr5/MBAR-492.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -121667,6 +122034,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 414.73
+    },
+    {
+     "d": "2026-11-21",
      "p": 414.73
     }
    ],
@@ -122371,15 +122742,15 @@
    "sub": "1000 W+",
    "name": "be quiet! Dark Power Pro 13 80 PLUS Titanium Netzteil, ATX 3.1, PCIe 5.1 - 1.600 Watt",
    "source": "crawler",
-   "url": "https://www.caseking.de/be-quiet-dark-power-pro-13-80-plus-titanium-netzteil-atx-3.1-pcie-5.1-1.600-watt/NEBE-233.html",
-   "stand": "2026-11-21T14:03",
+   "url": "https://www.caseking.de/en/-be-quiet-dark-power-pro-13-80-plus-titanium-power-supply-atx-3.1-pcie-5.1-1-600-watts-/NEBE-233.html",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 424,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/be-quiet-dark-power-pro-13-80-plus-titanium-netzteil-atx-3.1-pcie-5.1-1.600-watt/NEBE-233.html"
+     "url": "https://www.caseking.de/en/-be-quiet-dark-power-pro-13-80-plus-titanium-power-supply-atx-3.1-pcie-5.1-1-600-watts-/NEBE-233.html"
     }
    ],
    "price": 424,
@@ -123542,7 +123913,7 @@
    "name": "MSI MPG X870E Carbon WiFi Mainboard AMD X870E AM5 ATX DDR5 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/msi-mpg-x870e-carbon-wifi-mainboard-amd-x870e-am5-atx-ddr5-schwarz-100509460/",
-   "stand": "2026-11-18T21:56",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -123597,6 +123968,10 @@
     },
     {
      "d": "2026-11-18",
+     "p": 458.03
+    },
+    {
+     "d": "2026-11-21",
      "p": 458.03
     }
    ],
@@ -123925,39 +124300,6 @@
    "count": 1,
    "tags": "monitore 28\" japannext gaming monitor 1cm ips uhd",
    "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-asus-pro-ws-z890-ace-se-mainboard-atx-intel-z890-lga1851-ddr",
-   "cat": "Mainboards",
-   "sub": "Intel LGA1851 Z890",
-   "name": "ASUS PRO WS Z890-ACE SE Mainboard ATX Intel Z890 LGA1851 DDR5 RAM Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/asus-pro-ws-z890-ace-se-mainboard-atx-intel-z890-lga1851-ddr5-ram-schwarz-100542577/",
-   "stand": "2026-11-19T08:27",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 464.06,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/asus-pro-ws-z890-ace-se-mainboard-atx-intel-z890-lga1851-ddr5-ram-schwarz-100542577/"
-    }
-   ],
-   "price": 464.06,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-16",
-     "p": 543.31
-    },
-    {
-     "d": "2026-11-19",
-     "p": 464.06
-    }
-   ],
-   "count": 1,
-   "tags": "mainboards intel lga1851 z890 asus pro z890 ace mainboard atx intel lga1851 ddr5 ram schwarz",
-   "firstSeen": "2026-11-16"
   },
   {
    "id": "c-asus-pro-ws-w680-ace-intel-w680-mainboard-sockel-1700-ddr5",
@@ -127578,6 +127920,43 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asus-pro-ws-z890-ace-se-mainboard-atx-intel-z890-lga1851-ddr",
+   "cat": "Mainboards",
+   "sub": "Intel LGA1851 Z890",
+   "name": "ASUS PRO WS Z890-ACE SE Mainboard ATX Intel Z890 LGA1851 DDR5 RAM Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-pro-ws-z890-ace-se-mainboard-atx-intel-z890-lga1851-ddr5-ram-schwarz-100542577/",
+   "stand": "2026-11-21T19:51",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 540.86,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-pro-ws-z890-ace-se-mainboard-atx-intel-z890-lga1851-ddr5-ram-schwarz-100542577/"
+    }
+   ],
+   "price": 540.86,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-16",
+     "p": 543.31
+    },
+    {
+     "d": "2026-11-19",
+     "p": 464.06
+    },
+    {
+     "d": "2026-11-21",
+     "p": 540.86
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards intel lga1851 z890 asus pro z890 ace mainboard atx intel lga1851 ddr5 ram schwarz",
+   "firstSeen": "2026-11-16"
+  },
+  {
    "id": "c-asus-pro-ws-z890-ace-se-mainboard-sockel-lga-1851-intel-z890",
    "cat": "Mainboards",
    "sub": "Intel LGA1851 Z890",
@@ -130024,7 +130403,7 @@
    "name": "Palit GeForce RTX 5060Ti Dual, 8192 MB GDDR7",
    "source": "crawler",
    "url": "https://www.caseking.de/en/palit-geforce-rtx-5060ti-dual-8192-mb-gddr7/GCPI-146.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -130079,6 +130458,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 589
+    },
+    {
+     "d": "2026-11-21",
      "p": 589
     }
    ],
@@ -130721,39 +131104,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-asus-pro-ws-w680-ace-ipmi-mainboard-lga-1700-intel-w680-ddr5",
-   "cat": "Mainboards",
-   "sub": "Mainboards",
-   "name": "ASUS Pro WS W680-ACE IPMI Mainboard LGA 1700 Intel W680 DDR5 ATX",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/asus-pro-ws-w680-ace-ipmi-mainboard-lga-1700-intel-w680-ddr5-atx-8114078/",
-   "stand": "2026-11-19T08:27",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 604.19,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/asus-pro-ws-w680-ace-ipmi-mainboard-lga-1700-intel-w680-ddr5-atx-8114078/"
-    }
-   ],
-   "price": 604.19,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-16",
-     "p": 600.7
-    },
-    {
-     "d": "2026-11-19",
-     "p": 604.19
-    }
-   ],
-   "count": 1,
-   "tags": "mainboards asus pro w680 ace ipmi mainboard lga 1700 intel ddr5 atx",
-   "firstSeen": "2026-11-16"
-  },
-  {
    "id": "c-crucial-pro-ddr5-5600-32-gb-ram-cl46-schwarz",
    "cat": "Arbeitsspeicher",
    "sub": "DDR5 32 GB",
@@ -130833,7 +131183,7 @@
    "name": "Samsung 870 EVO 2,5 Zoll SSD, SATA 6G - 2 TB",
    "source": "crawler",
    "url": "https://www.caseking.de/en/samsung-870-evo-2.5-inch-ssd-sata-6g-2-tb/SSSS-180.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -130888,6 +131238,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 605.66
+    },
+    {
+     "d": "2026-11-21",
      "p": 605.66
     }
    ],
@@ -134036,6 +134390,43 @@
    "firstSeen": "2026-11-18"
   },
   {
+   "id": "c-asus-pro-ws-w680-ace-ipmi-mainboard-lga-1700-intel-w680-ddr5",
+   "cat": "Mainboards",
+   "sub": "Mainboards",
+   "name": "ASUS Pro WS W680-ACE IPMI Mainboard LGA 1700 Intel W680 DDR5 ATX",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-pro-ws-w680-ace-ipmi-mainboard-lga-1700-intel-w680-ddr5-atx-8114078/",
+   "stand": "2026-11-21T19:51",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 669.92,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-pro-ws-w680-ace-ipmi-mainboard-lga-1700-intel-w680-ddr5-atx-8114078/"
+    }
+   ],
+   "price": 669.92,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-16",
+     "p": 600.7
+    },
+    {
+     "d": "2026-11-19",
+     "p": 604.19
+    },
+    {
+     "d": "2026-11-21",
+     "p": 669.92
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards asus pro w680 ace ipmi mainboard lga 1700 intel ddr5 atx",
+   "firstSeen": "2026-11-16"
+  },
+  {
    "id": "c-asus-s14na-u12-server-mainboard-ssi-ceb-socket-sp6-amd-epyc-",
    "cat": "Mainboards",
    "sub": "Mainboards",
@@ -134188,7 +134579,7 @@
    "name": "KLEVV CRAS V RGB DDR5-6000 RAM, CL28, XMP 3.0, EXPO - 32 GB Dual-Kit, schwarz",
    "source": "crawler",
    "url": "https://www.caseking.de/klevv-cras-v-rgb-ddr5-6000-ram-cl28-xmp-3.0-expo-32-gb-dual-kit-schwarz/MEKV-034.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -134243,6 +134634,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 673.98
+    },
+    {
+     "d": "2026-11-21",
      "p": 673.98
     }
    ],
@@ -137428,7 +137823,7 @@
    "name": "Sapphire Pure Radeon RX 9060 XT Gaming OC Grafikkarte, 16384 MB GDDR6",
    "source": "crawler",
    "url": "https://www.caseking.de/en/sapphire-pure-radeon-rx-9060-xt-gaming-oc-graphics-card-16384-mb-gddr6/GCSP-271.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -137483,6 +137878,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 749
+    },
+    {
+     "d": "2026-11-21",
      "p": 749
     }
    ],
@@ -139085,7 +139484,7 @@
    "name": "Nitro Concepts SM1 curved monitor – 144 Hz, 49\" sim racing display",
    "source": "crawler",
    "url": "https://nitro-concepts.com/products/sm1-curved-monitor-144-hz-49-sim-racing-display?variant=54339679781197",
-   "stand": "2026-11-21T17:47",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "Nitro Concepts",
@@ -141659,7 +142058,7 @@
    "name": "INNO3D GEFORCE RTX 5060 Ti Twin X2, 16384 MB GDDR7",
    "source": "crawler",
    "url": "https://www.caseking.de/en/inno3d-geforce-rtx-5060-ti-twin-x2-16384-mb-gddr7/GCI3-307.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -141714,6 +142113,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 869
+    },
+    {
+     "d": "2026-11-21",
      "p": 869
     }
    ],
@@ -142195,7 +142598,7 @@
    "name": "PNY GeForce RTX 5060 Ti OC Edition, 16384 MB GDDR7",
    "source": "crawler",
    "url": "https://www.caseking.de/en/pny-geforce-rtx-5060-ti-oc-edition-16384-mb-gddr7/GCPN-117.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -142250,6 +142653,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 879
+    },
+    {
+     "d": "2026-11-21",
      "p": 879
     }
    ],
@@ -142552,7 +142959,7 @@
    "name": "INNO3D GEFORCE RTX 5060 Ti Twin X2 OC, 16384 MB GDDR7",
    "source": "crawler",
    "url": "https://www.caseking.de/en/inno3d-geforce-rtx-5060-ti-twin-x2-oc-16384-mb-gddr7/GCI3-308.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -142607,6 +143014,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 899
+    },
+    {
+     "d": "2026-11-21",
      "p": 899
     }
    ],
@@ -142869,7 +143280,7 @@
    "name": "Patriot Viper Gaming RGB XTREME 5 DDR5-8000 RAM, CL 38, Intel XMP 3.0 - 32GB Dual-Kit, silber",
    "source": "crawler",
    "url": "https://www.caseking.de/patriot-viper-gaming-rgb-xtreme-5-ddr5-8000-ram-cl-38-intel-xmp-3.0-32gb-dual-kit-silber/MEPM-116.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -142924,6 +143335,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 914.41
+    },
+    {
+     "d": "2026-11-21",
      "p": 914.41
     }
    ],
@@ -145577,7 +145992,7 @@
    "name": "INNO3D GeForce RTX 5070 X3 OC, 12288 MB GDDR7",
    "source": "crawler",
    "url": "https://www.caseking.de/en/inno3d-geforce-rtx-5070-x3-oc-12288-mb-gddr7/GCI3-303.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -145632,6 +146047,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 1029
+    },
+    {
+     "d": "2026-11-21",
      "p": 1029
     }
    ],
@@ -145930,7 +146349,7 @@
    "name": "INNO3D GeForce RTX 5070 Twin X2, 12288 MB GDDR7",
    "source": "crawler",
    "url": "https://www.caseking.de/en/inno3d-geforce-rtx-5070-twin-x2-12288-mb-gddr7/GCI3-300.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -145986,6 +146405,10 @@
     {
      "d": "2026-11-19",
      "p": 1049
+    },
+    {
+     "d": "2026-11-21",
+     "p": 1049
     }
    ],
    "count": 1,
@@ -145999,7 +146422,7 @@
    "name": "INNO3D GeForce RTX 5070 Twin X2 OC, 12288 MB GDDR7",
    "source": "crawler",
    "url": "https://www.caseking.de/en/inno3d-geforce-rtx-5070-twin-x2-oc-12288-mb-gddr7/GCI3-301.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -146054,6 +146477,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 1049
+    },
+    {
+     "d": "2026-11-21",
      "p": 1049
     }
    ],
@@ -146360,7 +146787,7 @@
    "name": "Kingston FURY Renegade DDR5 48 GB RAM 2x 24 GB 288-pin DIMM 4200 MHz PC5-67200 CL40 Schwarz, Silber",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-renegade-ddr5-48-gb-ram-2x-24-gb-288-pin-dimm-4200-mhz-pc5-67200-cl40-schwarz-silber-100531001/",
-   "stand": "2026-11-18T21:56",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -146415,6 +146842,10 @@
     },
     {
      "d": "2026-11-18",
+     "p": 1086.41
+    },
+    {
+     "d": "2026-11-21",
      "p": 1086.41
     }
    ],
@@ -147370,15 +147801,15 @@
    "sub": "DDR5 48 GB",
    "name": "Patriot Viper Gaming RGB XTREME 5 DDR5-6000 RAM, CL 30, Intel XMP 3.0 - 48GB Dual-Kit, silber",
    "source": "crawler",
-   "url": "https://www.caseking.de/patriot-viper-gaming-rgb-xtreme-5-ddr5-6000-ram-cl-30-intel-xmp-3.0-48gb-dual-kit-silber/MEPM-115.html",
-   "stand": "2026-11-21T17:47",
+   "url": "https://www.caseking.de/en/patriot-viper-gaming-rgb-xtreme-5-ddr5-6000-ram-cl-30-intel-xmp-3.0-48gb-dual-kit-silver/MEPM-115.html",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 1136.29,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/patriot-viper-gaming-rgb-xtreme-5-ddr5-6000-ram-cl-30-intel-xmp-3.0-48gb-dual-kit-silber/MEPM-115.html"
+     "url": "https://www.caseking.de/en/patriot-viper-gaming-rgb-xtreme-5-ddr5-6000-ram-cl-30-intel-xmp-3.0-48gb-dual-kit-silver/MEPM-115.html"
     }
    ],
    "price": 1136.29,
@@ -148045,7 +148476,7 @@
    "name": "Samsung 870 EVO MZ-77E4T0B 4 TB SSD SATA 6Gb/s Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/samsung-870-evo-mz-77e4t0b-4-tb-ssd-sata-6gb-s-schwarz-6951390/",
-   "stand": "2026-11-18T21:56",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -148064,6 +148495,10 @@
     },
     {
      "d": "2026-11-18",
+     "p": 1244.01
+    },
+    {
+     "d": "2026-11-21",
      "p": 1244.01
     }
    ],
@@ -152220,7 +152655,7 @@
    "name": "Lenovo ThinkSystem M.2 7450 PRO 480 GB SSD M.2 2280 PCIe 4.0 x4 NVMe Enterprise",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/lenovo-thinksystem-m-2-7450-pro-480-gb-ssd-m-2-2280-pcie-4-0-x4-nvme-enterprise-8132880/",
-   "stand": "2026-11-18T21:56",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -152239,6 +152674,10 @@
     },
     {
      "d": "2026-11-18",
+     "p": 1734.37
+    },
+    {
+     "d": "2026-11-21",
      "p": 1734.37
     }
    ],
@@ -159737,7 +160176,7 @@
    "name": "INNO3D GeForce RTX 5090 iChill Frostbite, 32768MB GDDR7",
    "source": "crawler",
    "url": "https://www.caseking.de/en/inno3d-geforce-rtx-5090-ichill-frostbite-32768mb-gddr7/GCI3-291.html",
-   "stand": "2026-11-19T17:58",
+   "stand": "2026-11-21T19:51",
    "offers": [
     {
      "shop": "caseking.de",
@@ -159792,6 +160231,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-21",
      "p": 8999
     }
    ],
