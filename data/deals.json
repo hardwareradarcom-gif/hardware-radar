@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T19:53:38.483Z",
+ "updated": "2026-11-22T21:47:35.037Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1713,6 +1713,10 @@
     {
      "d": "2026-11-20",
      "p": 19.9
+    },
+    {
+     "d": "2026-11-22",
+     "p": 19.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -3358,6 +3362,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 40.9
+    },
+    {
+     "d": "2026-11-22",
      "p": 40.9
     }
    ],
@@ -5124,68 +5132,6 @@
    "source": "crawler"
   },
   {
-   "id": "c-asus-prime-b850-plus-wifi-mainboard-atx-sockel-am5-ddr5-wi-f",
-   "name": "ASUS Prime B850-PLUS WIFI Mainboard ATX Sockel AM5 DDR5 Wi-Fi 6E Schwarz",
-   "cat": "Mainboards",
-   "price": 194.83,
-   "ref": 222.32,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/asus-prime-b850-plus-wifi-mainboard-atx-sockel-am5-ddr5-wi-fi-6e-schwarz-100553583/",
-   "url": "https://www.jacob.de/produkt/asus-prime-b850-plus-wifi-mainboard-atx-sockel-am5-ddr5-wi-fi-6e-schwarz-100553583/",
-   "note": "12 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 222.32
-    },
-    {
-     "d": "2026-10-31",
-     "p": 222.32
-    },
-    {
-     "d": "2026-11-01",
-     "p": 222.32
-    },
-    {
-     "d": "2026-11-02",
-     "p": 222.32
-    },
-    {
-     "d": "2026-11-04",
-     "p": 222.32
-    },
-    {
-     "d": "2026-11-06",
-     "p": 240.94
-    },
-    {
-     "d": "2026-11-09",
-     "p": 240.94
-    },
-    {
-     "d": "2026-11-11",
-     "p": 189.79
-    },
-    {
-     "d": "2026-11-14",
-     "p": 193.28
-    },
-    {
-     "d": "2026-11-17",
-     "p": 194.57
-    },
-    {
-     "d": "2026-11-19",
-     "p": 194.83
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-22",
-   "updated": "2026-11-22",
-   "tags": "mainboards am5 b850 asus prime b850 plus wifi mainboard atx sockel am5 ddr5 schwarz",
-   "source": "crawler"
-  },
-  {
    "id": "c-asus-prime-b760m-r-d4-mainboard-intel-b760-lga-1700-ddr4-mic",
    "name": "ASUS PRIME B760M-R D4 Mainboard Intel B760 LGA 1700 DDR4 Micro ATX Schwarz",
    "cat": "Mainboards",
@@ -6187,6 +6133,80 @@
    "seen": "2026-11-22",
    "updated": "2026-11-22",
    "tags": "kuhlung luftkuhler alpenfohn matterhorn aurora max black cpu kuhler",
+   "source": "crawler"
+  },
+  {
+   "id": "c-alpenfohn-brocken-4-argb-cpu-kuhler",
+   "name": "Alpenföhn Brocken 4 ARGB, CPU-Kühler",
+   "cat": "Kühlung",
+   "price": 32.9,
+   "ref": 36.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-ARGB-CPU-K%C3%BChler/html/product/100070215",
+   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-ARGB-CPU-K%C3%BChler/html/product/100070215",
+   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 36.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 36.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 36.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 36.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 36.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 36.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 36.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 32.9
+    },
+    {
+     "d": "2026-11-14",
+     "p": 32.9
+    },
+    {
+     "d": "2026-11-16",
+     "p": 32.9
+    },
+    {
+     "d": "2026-11-17",
+     "p": 32.9
+    },
+    {
+     "d": "2026-11-19",
+     "p": 32.9
+    },
+    {
+     "d": "2026-11-20",
+     "p": 32.9
+    },
+    {
+     "d": "2026-11-22",
+     "p": 32.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-22",
+   "updated": "2026-11-22",
+   "tags": "kuhlung luftkuhler alpenfohn brocken argb cpu kuhler",
    "source": "crawler"
   }
  ],
