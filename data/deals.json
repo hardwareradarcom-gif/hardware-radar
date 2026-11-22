@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T11:17:51.316Z",
+ "updated": "2026-11-22T11:47:15.247Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1672,6 +1672,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 69.9
+    },
+    {
+     "d": "2026-11-22",
      "p": 69.9
     }
    ],
@@ -4658,6 +4662,60 @@
    "source": "crawler"
   },
   {
+   "id": "c-sharkoon-rebel-p20-sfx-1000w-pc-netzteil",
+   "name": "Sharkoon Rebel P20 SFX 1000W, PC-Netzteil",
+   "cat": "Netzteile",
+   "price": 173.9,
+   "ref": 199.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/Sharkoon/Rebel-P20-SFX-1000W-PC-Netzteil/html/product/100227474",
+   "url": "https://www.alternate.de/Sharkoon/Rebel-P20-SFX-1000W-PC-Netzteil/html/product/100227474",
+   "note": "13 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-12",
+     "p": 199.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 199.9
+    },
+    {
+     "d": "2026-11-14",
+     "p": 199.9
+    },
+    {
+     "d": "2026-11-16",
+     "p": 199.9
+    },
+    {
+     "d": "2026-11-17",
+     "p": 199.9
+    },
+    {
+     "d": "2026-11-19",
+     "p": 199.9
+    },
+    {
+     "d": "2026-11-20",
+     "p": 173.9
+    },
+    {
+     "d": "2026-11-21",
+     "p": 199.9
+    },
+    {
+     "d": "2026-11-22",
+     "p": 173.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-22",
+   "updated": "2026-11-22",
+   "tags": "netzteile sfx sharkoon rebel p20 1000w netzteil",
+   "source": "crawler"
+  },
+  {
    "id": "c-asus-rog-astral-geforce-rtx-5090-oc-edition-32-768-mb-gddr7",
    "name": "ASUS ROG Astral GeForce RTX 5090 OC Edition, 32,768 MB GDDR7",
    "cat": "Grafikkarten",
@@ -4748,6 +4806,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 130.9
+    },
+    {
+     "d": "2026-11-22",
      "p": 130.9
     }
    ],
@@ -5132,6 +5194,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 153.03
+    },
+    {
+     "d": "2026-11-22",
      "p": 153.03
     }
    ],
@@ -5932,6 +5998,80 @@
    "source": "crawler"
   },
   {
+   "id": "c-alpenfohn-matterhorn-2-aurora-max-black-cpu-kuhler",
+   "name": "Alpenföhn Matterhorn 2 Aurora Max black, CPU-Kühler",
+   "cat": "Kühlung",
+   "price": 48.9,
+   "ref": 54.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/Alpenf%C3%B6hn/Matterhorn-2-Aurora-Max-black-CPU-K%C3%BChler/html/product/100201706",
+   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Matterhorn-2-Aurora-Max-black-CPU-K%C3%BChler/html/product/100201706",
+   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 54.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 54.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 54.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 54.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 54.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 54.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 54.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 48.9
+    },
+    {
+     "d": "2026-11-14",
+     "p": 54.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 48.9
+    },
+    {
+     "d": "2026-11-17",
+     "p": 48.9
+    },
+    {
+     "d": "2026-11-19",
+     "p": 48.9
+    },
+    {
+     "d": "2026-11-20",
+     "p": 54.9
+    },
+    {
+     "d": "2026-11-22",
+     "p": 48.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-22",
+   "updated": "2026-11-22",
+   "tags": "kuhlung luftkuhler alpenfohn matterhorn aurora max black cpu kuhler",
+   "source": "crawler"
+  },
+  {
    "id": "c-alpenfohn-brocken-4-argb-cpu-kuhler",
    "name": "Alpenföhn Brocken 4 ARGB, CPU-Kühler",
    "cat": "Kühlung",
@@ -5999,138 +6139,6 @@
    "seen": "2026-11-22",
    "updated": "2026-11-22",
    "tags": "kuhlung luftkuhler alpenfohn brocken argb cpu kuhler",
-   "source": "crawler"
-  },
-  {
-   "id": "c-xiaomi-g27i-2026-gaming-monitor-68-6-cm-27-full-hd-200hz-1ms",
-   "name": "Xiaomi G27i 2026 Gaming Monitor 68,6 cm (27\") Full HD 200Hz 1ms FreeSync Premium Schwarz",
-   "cat": "Monitore",
-   "price": 113.48,
-   "ref": 127.18,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/xiaomi-g27i-2026-gaming-monitor-68-6-cm-27-full-hd-200hz-1ms-freesync-premium-schwarz-100697106/",
-   "url": "https://www.jacob.de/produkt/xiaomi-g27i-2026-gaming-monitor-68-6-cm-27-full-hd-200hz-1ms-freesync-premium-schwarz-100697106/",
-   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 152.89
-    },
-    {
-     "d": "2026-10-31",
-     "p": 127.45
-    },
-    {
-     "d": "2026-11-01",
-     "p": 127.4
-    },
-    {
-     "d": "2026-11-02",
-     "p": 127.4
-    },
-    {
-     "d": "2026-11-03",
-     "p": 126.74
-    },
-    {
-     "d": "2026-11-05",
-     "p": 127.29
-    },
-    {
-     "d": "2026-11-08",
-     "p": 126.75
-    },
-    {
-     "d": "2026-11-10",
-     "p": 127.52
-    },
-    {
-     "d": "2026-11-12",
-     "p": 127.07
-    },
-    {
-     "d": "2026-11-15",
-     "p": 127.02
-    },
-    {
-     "d": "2026-11-18",
-     "p": 114.61
-    },
-    {
-     "d": "2026-11-21",
-     "p": 113.48
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-22",
-   "updated": "2026-11-22",
-   "tags": "monitore 27\" xiaomi g27i 2026 gaming monitor full 200hz 1ms freesync premium schwarz",
-   "source": "crawler"
-  },
-  {
-   "id": "c-gigabyte-gs27qca-27-qhd-va-curved-gaming-monitor-180-hz-schw",
-   "name": "Gigabyte GS27QCA 27\" QHD VA Curved Gaming Monitor 180 Hz Schwarz",
-   "cat": "Monitore",
-   "price": 148.02,
-   "ref": 165.77,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/gigabyte-gs27qca-27-qhd-va-curved-gaming-monitor-180-hz-schwarz-100548302/",
-   "url": "https://www.jacob.de/produkt/gigabyte-gs27qca-27-qhd-va-curved-gaming-monitor-180-hz-schwarz-100548302/",
-   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 153.08
-    },
-    {
-     "d": "2026-10-31",
-     "p": 153.08
-    },
-    {
-     "d": "2026-11-01",
-     "p": 153.08
-    },
-    {
-     "d": "2026-11-02",
-     "p": 152.32
-    },
-    {
-     "d": "2026-11-04",
-     "p": 166.2
-    },
-    {
-     "d": "2026-11-06",
-     "p": 176.2
-    },
-    {
-     "d": "2026-11-09",
-     "p": 176.2
-    },
-    {
-     "d": "2026-11-11",
-     "p": 176.2
-    },
-    {
-     "d": "2026-11-13",
-     "p": 176.2
-    },
-    {
-     "d": "2026-11-16",
-     "p": 165.77
-    },
-    {
-     "d": "2026-11-19",
-     "p": 165.77
-    },
-    {
-     "d": "2026-11-22",
-     "p": 148.02
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-22",
-   "updated": "2026-11-22",
-   "tags": "monitore 27\" gigabyte gs27qca qhd curved gaming monitor 180 schwarz",
    "source": "crawler"
   }
  ],
