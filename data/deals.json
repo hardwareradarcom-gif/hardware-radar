@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T11:47:15.247Z",
+ "updated": "2026-11-22T14:01:18.892Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1145,6 +1145,10 @@
     {
      "d": "2026-11-20",
      "p": 39.9
+    },
+    {
+     "d": "2026-11-22",
+     "p": 39.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -1349,6 +1353,88 @@
    "seen": "2026-11-22",
    "updated": "2026-11-22",
    "tags": "kuhlung luftkuhler cooler master hyper 212 3dhp cpu kuhler intel und amd schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-thermaltake-th240-v2-ultra-ex-argb-cpu-aio-liquid-cooler-was",
+   "name": "Thermaltake TH240 V2 Ultra EX ARGB CPU AIO Liquid Cooler , Wasserkühlung",
+   "cat": "Kühlung",
+   "price": 89.9,
+   "ref": 146.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/Thermaltake/TH240-V2-Ultra-EX-ARGB-CPU-AIO-Liquid-Cooler-Wasserk%C3%BChlung/html/product/100050237",
+   "url": "https://www.alternate.de/Thermaltake/TH240-V2-Ultra-EX-ARGB-CPU-AIO-Liquid-Cooler-Wasserk%C3%BChlung/html/product/100050237",
+   "note": "39 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-02",
+     "p": 146.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 146.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 146.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 146.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 146.9
+    },
+    {
+     "d": "2026-11-07",
+     "p": 146.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 146.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 146.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 146.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 89.9
+    },
+    {
+     "d": "2026-11-14",
+     "p": 89.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 89.9
+    },
+    {
+     "d": "2026-11-17",
+     "p": 89.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 89.9
+    },
+    {
+     "d": "2026-11-20",
+     "p": 146.9
+    },
+    {
+     "d": "2026-11-22",
+     "p": 89.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-22",
+   "updated": "2026-11-22",
+   "tags": "kuhlung aio-wasserkuhlung thermaltake th240 ultra argb cpu aio liquid cooler wasserkuhlung",
    "source": "crawler"
   },
   {
@@ -1929,6 +2015,10 @@
     {
      "d": "2026-11-20",
      "p": 269
+    },
+    {
+     "d": "2026-11-22",
+     "p": 269
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -2391,6 +2481,10 @@
     {
      "d": "2026-11-20",
      "p": 34.9
+    },
+    {
+     "d": "2026-11-22",
+     "p": 34.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -2546,8 +2640,8 @@
    "price": 114.9,
    "ref": 144.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/lian-li-sp850-v2-gold-power-supply-modular-atx-3.1-850-watts-black/NELI-028.html",
-   "url": "https://www.caseking.de/en/lian-li-sp850-v2-gold-power-supply-modular-atx-3.1-850-watts-black/NELI-028.html",
+   "shopUrl": "https://www.caseking.de/lian-li-sp850-v2-gold-netzteil-modular-atx-3.1-850-watt-schwarz/NELI-028.html",
+   "url": "https://www.caseking.de/lian-li-sp850-v2-gold-netzteil-modular-atx-3.1-850-watt-schwarz/NELI-028.html",
    "note": "21 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -2620,6 +2714,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 114.9
+    },
+    {
+     "d": "2026-11-22",
      "p": 114.9
     }
    ],
@@ -2906,8 +3004,8 @@
    "price": 39.9,
    "ref": 49.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/thermalright-axp120-x67-argb-low-profile-cpu-cooler-120mm-white/CPTR-120.html",
-   "url": "https://www.caseking.de/en/thermalright-axp120-x67-argb-low-profile-cpu-cooler-120mm-white/CPTR-120.html",
+   "shopUrl": "https://www.caseking.de/thermalright-axp120-x67-argb-low-profile-cpu-kuehler-120mm-weiss/CPTR-120.html",
+   "url": "https://www.caseking.de/thermalright-axp120-x67-argb-low-profile-cpu-kuehler-120mm-weiss/CPTR-120.html",
    "note": "20 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -2956,6 +3054,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 39.9
+    },
+    {
+     "d": "2026-11-22",
      "p": 39.9
     }
    ],
@@ -6069,76 +6171,6 @@
    "seen": "2026-11-22",
    "updated": "2026-11-22",
    "tags": "kuhlung luftkuhler alpenfohn matterhorn aurora max black cpu kuhler",
-   "source": "crawler"
-  },
-  {
-   "id": "c-alpenfohn-brocken-4-argb-cpu-kuhler",
-   "name": "Alpenföhn Brocken 4 ARGB, CPU-Kühler",
-   "cat": "Kühlung",
-   "price": 32.9,
-   "ref": 36.9,
-   "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-ARGB-CPU-K%C3%BChler/html/product/100070215",
-   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-ARGB-CPU-K%C3%BChler/html/product/100070215",
-   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-04",
-     "p": 36.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 36.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 36.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 36.9
-    },
-    {
-     "d": "2026-11-09",
-     "p": 36.9
-    },
-    {
-     "d": "2026-11-10",
-     "p": 36.9
-    },
-    {
-     "d": "2026-11-12",
-     "p": 36.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 32.9
-    },
-    {
-     "d": "2026-11-14",
-     "p": 32.9
-    },
-    {
-     "d": "2026-11-16",
-     "p": 32.9
-    },
-    {
-     "d": "2026-11-17",
-     "p": 32.9
-    },
-    {
-     "d": "2026-11-19",
-     "p": 32.9
-    },
-    {
-     "d": "2026-11-20",
-     "p": 32.9
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-22",
-   "updated": "2026-11-22",
-   "tags": "kuhlung luftkuhler alpenfohn brocken argb cpu kuhler",
    "source": "crawler"
   }
  ],
