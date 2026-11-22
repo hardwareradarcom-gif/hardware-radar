@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T17:47:12.542Z",
+ "updated": "2026-11-22T19:53:38.483Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -5186,6 +5186,72 @@
    "source": "crawler"
   },
   {
+   "id": "c-asus-prime-b760m-r-d4-mainboard-intel-b760-lga-1700-ddr4-mic",
+   "name": "ASUS PRIME B760M-R D4 Mainboard Intel B760 LGA 1700 DDR4 Micro ATX Schwarz",
+   "cat": "Mainboards",
+   "price": 108.81,
+   "ref": 124.16,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/asus-prime-b760m-r-d4-mainboard-intel-b760-lga-1700-ddr4-micro-atx-schwarz-100359021/",
+   "url": "https://www.jacob.de/produkt/asus-prime-b760m-r-d4-mainboard-intel-b760-lga-1700-ddr4-micro-atx-schwarz-100359021/",
+   "note": "12 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 124.27
+    },
+    {
+     "d": "2026-10-31",
+     "p": 124.27
+    },
+    {
+     "d": "2026-11-01",
+     "p": 124.27
+    },
+    {
+     "d": "2026-11-02",
+     "p": 124.6
+    },
+    {
+     "d": "2026-11-04",
+     "p": 124.38
+    },
+    {
+     "d": "2026-11-06",
+     "p": 123.66
+    },
+    {
+     "d": "2026-11-09",
+     "p": 124.16
+    },
+    {
+     "d": "2026-11-11",
+     "p": 116.76
+    },
+    {
+     "d": "2026-11-14",
+     "p": 117.66
+    },
+    {
+     "d": "2026-11-17",
+     "p": 118.14
+    },
+    {
+     "d": "2026-11-19",
+     "p": 118.79
+    },
+    {
+     "d": "2026-11-22",
+     "p": 108.81
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-22",
+   "updated": "2026-11-22",
+   "tags": "mainboards intel lga1700 b760 asus prime b760m mainboard intel b760 lga 1700 ddr4 micro atx schwarz",
+   "source": "crawler"
+  },
+  {
    "id": "c-asus-b650e-max-gaming-wifi-mainboard-atx-sockel-am5-amd-b650",
    "name": "ASUS B650E MAX GAMING WIFI Mainboard ATX Sockel AM5 AMD B650 DDR5 Schwarz",
    "cat": "Mainboards",
@@ -5492,6 +5558,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 289
+    },
+    {
+     "d": "2026-11-22",
      "p": 289
     }
    ],
@@ -6117,80 +6187,6 @@
    "seen": "2026-11-22",
    "updated": "2026-11-22",
    "tags": "kuhlung luftkuhler alpenfohn matterhorn aurora max black cpu kuhler",
-   "source": "crawler"
-  },
-  {
-   "id": "c-alpenfohn-brocken-4-argb-cpu-kuhler",
-   "name": "Alpenföhn Brocken 4 ARGB, CPU-Kühler",
-   "cat": "Kühlung",
-   "price": 32.9,
-   "ref": 36.9,
-   "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-ARGB-CPU-K%C3%BChler/html/product/100070215",
-   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Brocken-4-ARGB-CPU-K%C3%BChler/html/product/100070215",
-   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-04",
-     "p": 36.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 36.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 36.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 36.9
-    },
-    {
-     "d": "2026-11-09",
-     "p": 36.9
-    },
-    {
-     "d": "2026-11-10",
-     "p": 36.9
-    },
-    {
-     "d": "2026-11-12",
-     "p": 36.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 32.9
-    },
-    {
-     "d": "2026-11-14",
-     "p": 32.9
-    },
-    {
-     "d": "2026-11-16",
-     "p": 32.9
-    },
-    {
-     "d": "2026-11-17",
-     "p": 32.9
-    },
-    {
-     "d": "2026-11-19",
-     "p": 32.9
-    },
-    {
-     "d": "2026-11-20",
-     "p": 32.9
-    },
-    {
-     "d": "2026-11-22",
-     "p": 32.9
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-22",
-   "updated": "2026-11-22",
-   "tags": "kuhlung luftkuhler alpenfohn brocken argb cpu kuhler",
    "source": "crawler"
   }
  ],
