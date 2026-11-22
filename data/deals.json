@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T14:01:18.892Z",
+ "updated": "2026-11-22T15:50:07.004Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1079,6 +1079,10 @@
     {
      "d": "2026-11-20",
      "p": 25.9
+    },
+    {
+     "d": "2026-11-22",
+     "p": 25.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -1561,6 +1565,10 @@
     {
      "d": "2026-11-20",
      "p": 22.9
+    },
+    {
+     "d": "2026-11-22",
+     "p": 22.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -1886,6 +1894,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 52.9
+    },
+    {
+     "d": "2026-11-22",
      "p": 52.9
     }
    ],
@@ -3004,8 +3016,8 @@
    "price": 39.9,
    "ref": 49.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/thermalright-axp120-x67-argb-low-profile-cpu-kuehler-120mm-weiss/CPTR-120.html",
-   "url": "https://www.caseking.de/thermalright-axp120-x67-argb-low-profile-cpu-kuehler-120mm-weiss/CPTR-120.html",
+   "shopUrl": "https://www.caseking.de/en/thermalright-axp120-x67-argb-low-profile-cpu-cooler-120mm-white/CPTR-120.html",
+   "url": "https://www.caseking.de/en/thermalright-axp120-x67-argb-low-profile-cpu-cooler-120mm-white/CPTR-120.html",
    "note": "20 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -3545,6 +3557,10 @@
     {
      "d": "2026-11-20",
      "p": 189
+    },
+    {
+     "d": "2026-11-22",
+     "p": 189
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -4074,6 +4090,72 @@
    "source": "crawler"
   },
   {
+   "id": "c-samsung-viewfinity-s6-s34c652vau-34-uwqhd-curved-monitor-100",
+   "name": "Samsung ViewFinity S6 S34C652VAU 34\" UWQHD Curved Monitor 100 Hz Schwarz",
+   "cat": "Monitore",
+   "price": 345.48,
+   "ref": 407.17,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/samsung-viewfinity-s6-s34c652vau-34-uwqhd-curved-monitor-100-hz-schwarz-9201963/",
+   "url": "https://www.jacob.de/produkt/samsung-viewfinity-s6-s34c652vau-34-uwqhd-curved-monitor-100-hz-schwarz-9201963/",
+   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 407.17
+    },
+    {
+     "d": "2026-10-31",
+     "p": 407.17
+    },
+    {
+     "d": "2026-11-01",
+     "p": 407.17
+    },
+    {
+     "d": "2026-11-02",
+     "p": 407.17
+    },
+    {
+     "d": "2026-11-04",
+     "p": 367.08
+    },
+    {
+     "d": "2026-11-07",
+     "p": 407.17
+    },
+    {
+     "d": "2026-11-09",
+     "p": 407.17
+    },
+    {
+     "d": "2026-11-11",
+     "p": 373.15
+    },
+    {
+     "d": "2026-11-14",
+     "p": 407.17
+    },
+    {
+     "d": "2026-11-16",
+     "p": 393.89
+    },
+    {
+     "d": "2026-11-19",
+     "p": 393.89
+    },
+    {
+     "d": "2026-11-22",
+     "p": 345.48
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-22",
+   "updated": "2026-11-22",
+   "tags": "monitore 34\" samsung viewfinity s34c652vau uwqhd curved monitor 100 schwarz",
+   "source": "crawler"
+  },
+  {
    "id": "c-asus-prime-radeon-rx-9070-xt-oc-edition-grafikkarte-16384-mb",
    "name": "ASUS Prime Radeon RX 9070 XT OC Edition Grafikkarte, 16384 MB GDDR6",
    "cat": "Grafikkarten",
@@ -4320,6 +4402,10 @@
     },
     {
      "d": "2026-11-19",
+     "p": 334.82
+    },
+    {
+     "d": "2026-11-22",
      "p": 334.82
     }
    ],
@@ -6097,80 +6183,6 @@
    "seen": "2026-11-22",
    "updated": "2026-11-22",
    "tags": "monitore 27\" ultragear 27g610a zoll wqhd gaming monitor 200hz ips freesync premium",
-   "source": "crawler"
-  },
-  {
-   "id": "c-alpenfohn-matterhorn-2-aurora-max-black-cpu-kuhler",
-   "name": "Alpenföhn Matterhorn 2 Aurora Max black, CPU-Kühler",
-   "cat": "Kühlung",
-   "price": 48.9,
-   "ref": 54.9,
-   "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/Alpenf%C3%B6hn/Matterhorn-2-Aurora-Max-black-CPU-K%C3%BChler/html/product/100201706",
-   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Matterhorn-2-Aurora-Max-black-CPU-K%C3%BChler/html/product/100201706",
-   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-04",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-09",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-10",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-11",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 48.9
-    },
-    {
-     "d": "2026-11-14",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-15",
-     "p": 48.9
-    },
-    {
-     "d": "2026-11-17",
-     "p": 48.9
-    },
-    {
-     "d": "2026-11-19",
-     "p": 48.9
-    },
-    {
-     "d": "2026-11-20",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-22",
-     "p": 48.9
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-22",
-   "updated": "2026-11-22",
-   "tags": "kuhlung luftkuhler alpenfohn matterhorn aurora max black cpu kuhler",
    "source": "crawler"
   }
  ],
