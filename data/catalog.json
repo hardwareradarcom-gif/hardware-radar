@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T15:50:07.004Z",
+ "updated": "2026-11-22T17:19:09.414Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -26646,6 +26646,35 @@
    "firstSeen": "2026-11-06"
   },
   {
+   "id": "c-chieftec-compact-series-ix-01b-mini-itx-gehause-ohne-netztei",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Chieftec Compact Series IX-01B Mini-ITX Gehäuse ohne Netzteil Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/chieftec-compact-series-ix-01b-mini-itx-gehaeuse-ohne-netzteil-schwarz-1497577/",
+   "stand": "2026-11-22T17:19",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 38.65,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/chieftec-compact-series-ix-01b-mini-itx-gehaeuse-ohne-netzteil-schwarz-1497577/"
+    }
+   ],
+   "price": 38.65,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-22",
+     "p": 38.65
+    }
+   ],
+   "count": 1,
+   "tags": "gehause chieftec compact series 01b mini itx ohne netzteil schwarz",
+   "firstSeen": "2026-11-22"
+  },
+  {
    "id": "c-alpenfohn-brocken-4-max-argb-cpu-kuhler-c5sli",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -48391,6 +48420,35 @@
    "count": 1,
    "tags": "mainboards am5 b650 biostar b650mt mainboard amd b650 socket am5 micro atx ddr5",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-fsp-fsp400-70pfl-atx-netzteil-400w-80-plus-bronze-aktiv-pfc-",
+   "cat": "Netzteile",
+   "sub": "bis 600 W",
+   "name": "FSP FSP400-70PFL ATX-Netzteil 400W 80 PLUS Bronze Aktiv-PFC Grau",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/fsp-fsp400-70pfl-atx-netzteil-400w-80-plus-bronze-aktiv-pfc-grau-4133149/",
+   "stand": "2026-11-22T17:19",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 86.26,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/fsp-fsp400-70pfl-atx-netzteil-400w-80-plus-bronze-aktiv-pfc-grau-4133149/"
+    }
+   ],
+   "price": 86.26,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-22",
+     "p": 86.26
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile bis 600 w fsp fsp400 70pfl atx netzteil 400w plus bronze aktiv pfc grau",
+   "firstSeen": "2026-11-22"
   },
   {
    "id": "c-benq-gw2791-27-ips-100-hz-1920-x-1080-led-monitor-schwarz",
