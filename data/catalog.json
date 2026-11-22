@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-22T09:51:47.922Z",
+ "updated": "2026-11-22T11:17:51.316Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -44120,6 +44120,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-dell-1100-w-80-plus-platinum-hot-plug-netzteil-fur-poweredge",
+   "cat": "Netzteile",
+   "sub": "1000 W+",
+   "name": "Dell 1100 W 80 PLUS Platinum Hot-Plug Netzteil für PowerEdge R530 R630 R730 R930",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/dell-1100-w-80-plus-platinum-hot-plug-netzteil-fuer-poweredge-r530-r630-r730-r930-6898817/",
+   "stand": "2026-11-22T11:17",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 78.04,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/dell-1100-w-80-plus-platinum-hot-plug-netzteil-fuer-poweredge-r530-r630-r730-r930-6898817/"
+    }
+   ],
+   "price": 78.04,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-22",
+     "p": 78.04
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile 1000 w+ dell 1100 plus platinum hot plug netzteil fur poweredge r530 r630 r730 r930",
+   "firstSeen": "2026-11-22"
+  },
+  {
    "id": "c-akasa-viper-h6l-m2-low-profile-cpu-kuhler-120mm-weiss",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -61357,6 +61386,35 @@
    "count": 1,
    "tags": "monitore 24,5\" gigabyte gs25f2a gaming monitor 1920 1080 240 schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-hp-netzteil-ent20-260-w-intern-80-plus-silber",
+   "cat": "Netzteile",
+   "sub": "bis 600 W",
+   "name": "HP Netzteil ENT20 260 W intern 80 PLUS Silber",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/hp-netzteil-ent20-260-w-intern-80-plus-silber-7421734/",
+   "stand": "2026-11-22T11:17",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 118.06,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/hp-netzteil-ent20-260-w-intern-80-plus-silber-7421734/"
+    }
+   ],
+   "price": 118.06,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-22",
+     "p": 118.06
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile bis 600 w netzteil ent20 260 intern plus silber",
+   "firstSeen": "2026-11-22"
   },
   {
    "id": "c-sharkoon-rebel-p20-750-w-atx-netzteil-80-plus-gold-schwarz",
@@ -87899,6 +87957,35 @@
    "count": 1,
    "tags": "mainboards am5 b850 msi b850m gaming plus wifi6e mainboard amd b850 am5 micro atx ddr5 schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-dell-netzteil-685-w-80-plus-gold",
+   "cat": "Netzteile",
+   "sub": "650 W",
+   "name": "Dell Netzteil 685 W 80 PLUS Gold",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/dell-netzteil-685-w-80-plus-gold-7334388/",
+   "stand": "2026-11-22T11:17",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 177.08,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/dell-netzteil-685-w-80-plus-gold-7334388/"
+    }
+   ],
+   "price": 177.08,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-22",
+     "p": 177.08
+    }
+   ],
+   "count": 1,
+   "tags": "netzteile 650 w dell netzteil 685 plus gold",
+   "firstSeen": "2026-11-22"
   },
   {
    "id": "c-lian-li-edge-eg1200g-netzteil-1200-w-80-plus-gold-atx-3-1-pc",
