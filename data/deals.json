@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T11:28:01.632Z",
+ "updated": "2026-11-23T11:59:15.943Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -2900,8 +2900,8 @@
    "price": 479,
    "ref": 599.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/asus-rog-strix-oled-xg27aqwmg-26.5-inch-wqhd-gaming-monitor-280hz-tandem-oled-panel-adaptive-sync/TFAS-317.html",
-   "url": "https://www.caseking.de/en/asus-rog-strix-oled-xg27aqwmg-26.5-inch-wqhd-gaming-monitor-280hz-tandem-oled-panel-adaptive-sync/TFAS-317.html",
+   "shopUrl": "https://www.caseking.de/asus-rog-strix-oled-xg27aqwmg-26-5-zoll-wqhd-gaming-monitor-280hz-tandem-oled-panel-adaptive-sync/TFAS-317.html",
+   "url": "https://www.caseking.de/asus-rog-strix-oled-xg27aqwmg-26-5-zoll-wqhd-gaming-monitor-280hz-tandem-oled-panel-adaptive-sync/TFAS-317.html",
    "note": "20 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -2974,6 +2974,10 @@
     },
     {
      "d": "2026-11-22",
+     "p": 479
+    },
+    {
+     "d": "2026-11-23",
      "p": 479
     }
    ],
@@ -3608,8 +3612,8 @@
    "price": 49.9,
    "ref": 59.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/hyte-x50-midi-tower-snow-white/GEHY-053.html",
-   "url": "https://www.caseking.de/en/hyte-x50-midi-tower-snow-white/GEHY-053.html",
+   "shopUrl": "https://www.caseking.de/hyte-x50-midi-tower-snow-white/GEHY-053.html",
+   "url": "https://www.caseking.de/hyte-x50-midi-tower-snow-white/GEHY-053.html",
    "note": "17 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -3666,6 +3670,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 49.9
+    },
+    {
+     "d": "2026-11-23",
      "p": 49.9
     }
    ],
@@ -4201,6 +4209,80 @@
    "seen": "2026-11-23",
    "updated": "2026-11-23",
    "tags": "kuhlung luftkuhler alphacool core cpu cooler black",
+   "source": "crawler"
+  },
+  {
+   "id": "c-alphacool-core-1-cpu-kuhler-silber",
+   "name": "Alphacool Core 1 CPU-Kühler - Silber",
+   "cat": "Kühlung",
+   "price": 90.01,
+   "ref": 105.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/alphacool-core-1-cpu-cooler-silver/WACP-534.html",
+   "url": "https://www.caseking.de/en/alphacool-core-1-cpu-cooler-silver/WACP-534.html",
+   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 105.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 105.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 105.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 105.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 105.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 105.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 105.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 105.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 105.9
+    },
+    {
+     "d": "2026-11-16",
+     "p": 105.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 105.9
+    },
+    {
+     "d": "2026-11-20",
+     "p": 105.9
+    },
+    {
+     "d": "2026-11-22",
+     "p": 105.9
+    },
+    {
+     "d": "2026-11-23",
+     "p": 90.01
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-23",
+   "updated": "2026-11-23",
+   "tags": "kuhlung luftkuhler alphacool core cpu kuhler silber",
    "source": "crawler"
   },
   {
@@ -4750,6 +4832,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 989
+    },
+    {
+     "d": "2026-11-23",
      "p": 989
     }
    ],
@@ -5999,6 +6085,10 @@
     {
      "d": "2026-11-20",
      "p": 225.09
+    },
+    {
+     "d": "2026-11-23",
+     "p": 225.09
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -6137,72 +6227,6 @@
    "seen": "2026-11-23",
    "updated": "2026-11-23",
    "tags": "monitore 24\" acer vero b247we5bemiqpruzx 1920 1200 ips office monitor schwarz",
-   "source": "crawler"
-  },
-  {
-   "id": "c-gigabyte-m27q2-qd-27-qhd-ss-ips-gaming-monitor-200-hz-schwar",
-   "name": "Gigabyte M27Q2 QD 27\" QHD SS-IPS Gaming-Monitor 200 Hz Schwarz",
-   "cat": "Monitore",
-   "price": 196.67,
-   "ref": 221.32,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/gigabyte-m27q2-qd-27-qhd-ss-ips-gaming-monitor-200-hz-schwarz-100677373/",
-   "url": "https://www.jacob.de/produkt/gigabyte-m27q2-qd-27-qhd-ss-ips-gaming-monitor-200-hz-schwarz-100677373/",
-   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 223.54
-    },
-    {
-     "d": "2026-10-31",
-     "p": 218.52
-    },
-    {
-     "d": "2026-11-01",
-     "p": 218.52
-    },
-    {
-     "d": "2026-11-02",
-     "p": 223.54
-    },
-    {
-     "d": "2026-11-04",
-     "p": 225.29
-    },
-    {
-     "d": "2026-11-07",
-     "p": 223.36
-    },
-    {
-     "d": "2026-11-09",
-     "p": 223.26
-    },
-    {
-     "d": "2026-11-12",
-     "p": 221.32
-    },
-    {
-     "d": "2026-11-14",
-     "p": 196.67
-    },
-    {
-     "d": "2026-11-17",
-     "p": 196.67
-    },
-    {
-     "d": "2026-11-20",
-     "p": 196.67
-    },
-    {
-     "d": "2026-11-23",
-     "p": 196.67
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-23",
-   "updated": "2026-11-23",
-   "tags": "monitore 27\" gigabyte m27q2 qhd ips gaming monitor 200 schwarz",
    "source": "crawler"
   }
  ],
