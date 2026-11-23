@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T18:03:52.475Z",
+ "updated": "2026-11-23T20:07:10.319Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -3888,6 +3888,96 @@
    "source": "crawler"
   },
   {
+   "id": "c-montech-nx600-argb-cpu-kuhler",
+   "name": "Montech NX600 ARGB, CPU-Kühler",
+   "cat": "Kühlung",
+   "price": 26.9,
+   "ref": 31.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/Montech/NX600-ARGB-CPU-K%C3%BChler/html/product/100158853",
+   "url": "https://www.alternate.de/Montech/NX600-ARGB-CPU-K%C3%BChler/html/product/100158853",
+   "note": "16 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-01",
+     "p": 31.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 31.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 31.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 31.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 31.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 31.9
+    },
+    {
+     "d": "2026-11-07",
+     "p": 31.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 31.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 31.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 31.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 31.9
+    },
+    {
+     "d": "2026-11-14",
+     "p": 26.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 26.9
+    },
+    {
+     "d": "2026-11-17",
+     "p": 26.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 26.9
+    },
+    {
+     "d": "2026-11-20",
+     "p": 26.9
+    },
+    {
+     "d": "2026-11-22",
+     "p": 31.9
+    },
+    {
+     "d": "2026-11-23",
+     "p": 26.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-23",
+   "updated": "2026-11-23",
+   "tags": "kuhlung luftkuhler montech nx600 argb cpu kuhler",
+   "source": "crawler"
+  },
+  {
    "id": "c-asus-proart-lc-420-aio-cooler-black",
    "name": "ASUS ProArt LC 420 AIO Cooler - black",
    "cat": "Kühlung",
@@ -5389,12 +5479,94 @@
     {
      "d": "2026-11-21",
      "p": 129.9
+    },
+    {
+     "d": "2026-11-23",
+     "p": 129.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
    "seen": "2026-11-23",
    "updated": "2026-11-23",
    "tags": "ssds nvme 1 tb patriot p300 nvme ssd pcie typ 2280 1tb",
+   "source": "crawler"
+  },
+  {
+   "id": "c-alpenfohn-matterhorn-2-aurora-black-cpu-kuhler",
+   "name": "Alpenföhn Matterhorn 2 AURORA black, CPU-Kühler",
+   "cat": "Kühlung",
+   "price": 25.9,
+   "ref": 29.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/Alpenf%C3%B6hn/Matterhorn-2-AURORA-black-CPU-K%C3%BChler/html/product/100201704",
+   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Matterhorn-2-AURORA-black-CPU-K%C3%BChler/html/product/100201704",
+   "note": "13 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 29.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 29.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 29.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 29.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 29.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 29.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 29.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 25.9
+    },
+    {
+     "d": "2026-11-14",
+     "p": 29.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 25.9
+    },
+    {
+     "d": "2026-11-17",
+     "p": 25.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 25.9
+    },
+    {
+     "d": "2026-11-20",
+     "p": 25.9
+    },
+    {
+     "d": "2026-11-22",
+     "p": 29.9
+    },
+    {
+     "d": "2026-11-23",
+     "p": 25.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-23",
+   "updated": "2026-11-23",
+   "tags": "kuhlung luftkuhler alpenfohn matterhorn aurora black cpu kuhler",
    "source": "crawler"
   },
   {
@@ -5995,138 +6167,6 @@
    "seen": "2026-11-23",
    "updated": "2026-11-23",
    "tags": "mainboards am5 b650 asus b650e max gaming wifi mainboard atx sockel am5 amd b650 ddr5 schwarz",
-   "source": "crawler"
-  },
-  {
-   "id": "c-asus-prime-b760m-r-d4-mainboard-intel-b760-lga-1700-ddr4-mic",
-   "name": "ASUS PRIME B760M-R D4 Mainboard Intel B760 LGA 1700 DDR4 Micro ATX Schwarz",
-   "cat": "Mainboards",
-   "price": 108.81,
-   "ref": 123.91,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/asus-prime-b760m-r-d4-mainboard-intel-b760-lga-1700-ddr4-micro-atx-schwarz-100359021/",
-   "url": "https://www.jacob.de/produkt/asus-prime-b760m-r-d4-mainboard-intel-b760-lga-1700-ddr4-micro-atx-schwarz-100359021/",
-   "note": "12 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 124.27
-    },
-    {
-     "d": "2026-10-31",
-     "p": 124.27
-    },
-    {
-     "d": "2026-11-01",
-     "p": 124.27
-    },
-    {
-     "d": "2026-11-02",
-     "p": 124.6
-    },
-    {
-     "d": "2026-11-04",
-     "p": 124.38
-    },
-    {
-     "d": "2026-11-06",
-     "p": 123.66
-    },
-    {
-     "d": "2026-11-09",
-     "p": 124.16
-    },
-    {
-     "d": "2026-11-11",
-     "p": 116.76
-    },
-    {
-     "d": "2026-11-14",
-     "p": 117.66
-    },
-    {
-     "d": "2026-11-17",
-     "p": 118.14
-    },
-    {
-     "d": "2026-11-19",
-     "p": 118.79
-    },
-    {
-     "d": "2026-11-22",
-     "p": 108.81
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-23",
-   "updated": "2026-11-23",
-   "tags": "mainboards intel lga1700 b760 asus prime b760m mainboard intel b760 lga 1700 ddr4 micro atx schwarz",
-   "source": "crawler"
-  },
-  {
-   "id": "c-lenovo-00up642-ssd-m-2-2280-512-gb-pcie-3-0-x4-nvme",
-   "name": "Lenovo 00UP642 SSD M.2 2280 512 GB PCIe 3.0 x4 NVMe",
-   "cat": "SSDs",
-   "price": 188.38,
-   "ref": 214.39,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/lenovo-00up642-ssd-m-2-2280-512-gb-pcie-3-0-x4-nvme-5836562/",
-   "url": "https://www.jacob.de/produkt/lenovo-00up642-ssd-m-2-2280-512-gb-pcie-3-0-x4-nvme-5836562/",
-   "note": "12 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 231.59
-    },
-    {
-     "d": "2026-10-31",
-     "p": 231.59
-    },
-    {
-     "d": "2026-11-01",
-     "p": 231.59
-    },
-    {
-     "d": "2026-11-02",
-     "p": 231.59
-    },
-    {
-     "d": "2026-11-03",
-     "p": 200.62
-    },
-    {
-     "d": "2026-11-06",
-     "p": 214.08
-    },
-    {
-     "d": "2026-11-08",
-     "p": 214.69
-    },
-    {
-     "d": "2026-11-11",
-     "p": 188.38
-    },
-    {
-     "d": "2026-11-13",
-     "p": 191.42
-    },
-    {
-     "d": "2026-11-15",
-     "p": 200.62
-    },
-    {
-     "d": "2026-11-18",
-     "p": 214.69
-    },
-    {
-     "d": "2026-11-21",
-     "p": 188.38
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-23",
-   "updated": "2026-11-23",
-   "tags": "ssds nvme 512 gb lenovo 00up642 ssd 2280 512 pcie nvme",
    "source": "crawler"
   }
  ],
