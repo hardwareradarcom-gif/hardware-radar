@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T17:28:53.161Z",
+ "updated": "2026-11-23T18:03:52.475Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -2516,7 +2516,7 @@
    "name": "Corsair Vengeance 32 GB Kit DDR5-6000 CL30",
    "url": "https://geizhals.de/2951609",
    "source": "Geizhals",
-   "stand": "2026-11-20T18:00",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "Proshop",
@@ -2544,7 +2544,7 @@
     },
     {
      "shop": "JACOB Elektronik GmbH",
-     "price": 694.17,
+     "price": 728.03,
      "ship": null,
      "avail": null,
      "url": "https://www.jacob.de/produkt/corsair-vengeance-rgb-ddr5-32-gb-ram-2x16-gb-6000-mhz-cl30-weiss-100006810/",
@@ -3018,7 +3018,7 @@
    "name": "WD_BLACK SN850X 2 TB",
    "url": "https://geizhals.de/2770177",
    "source": "Geizhals",
-   "stand": "2026-11-23T08:41",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -3422,7 +3422,7 @@
    "name": "WD_BLACK SN7100 2 TB",
    "url": "https://www.mydealz.de/deals/my-mmsaturn-mwstaktion-wd-black-sn7100-ssd-2-tb-m2-2280-nvme-gen4-7250-mbs-lesen-6900-mbs-schreiben-fur-23529eur-1-tb-13865-2855044",
    "source": "mydealz",
-   "stand": "2026-11-23T16:12",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "MediaMarkt / Saturn",
@@ -5339,14 +5339,6 @@
      "avail": "ab 16.11."
     },
     {
-     "shop": "Conrad",
-     "price": 22.68,
-     "ship": 4.95,
-     "avail": "Auf Lager",
-     "url": "https://www.conrad.de/de/p/arctic-freezer-36-co-cpu-kuehler-mit-luefter-intel-lga-1700-amd-am5-amd-am4-3059334.html",
-     "crawler": true
-    },
-    {
      "shop": "caseking.de",
      "price": 22.9,
      "ship": null,
@@ -5614,7 +5606,7 @@
    "name": "MSI GeForce RTX 5070 Ti 16G Gaming Trio OC",
    "url": "https://www.hardwaredealz.com/hardware/gpu/nvidia-geforce-rtx-5070-ti-16gb/msi-gaming-trio-oc-16gb-gddr7-hdmi-3x-dp/preisvergleich.26368",
    "source": "hardwaredealz",
-   "stand": "2026-11-21T14:03",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
@@ -7804,7 +7796,7 @@
    "name": "PowerColor Hellhound Radeon RX 9070 XT",
    "url": "https://www.hardwaredealz.com/hardware/gpu/amd-radeon-rx-9070-xt-16gb/powercolor-hellhound-radeon-16gb-gddr6-hdmi-3x-dp/preisvergleich.25383",
    "source": "hardwaredealz",
-   "stand": "2026-11-21T15:50",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
@@ -8060,7 +8052,7 @@
    "name": "ASUS ROG Astral GeForce RTX 5090 OC",
    "url": "https://www.hardwaredealz.com/hardware/gpu/nvidia-geforce-rtx-5090-32gb/asus-rog-astral-oc-32gb-gddr7-2x-hdmi-3x-dp/preisvergleich.26216",
    "source": "hardwaredealz",
-   "stand": "2026-11-23T11:59",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
@@ -12331,94 +12323,6 @@
    "firstSeen": "2026-10-29"
   },
   {
-   "id": "c-bequiet-pure-rock-pro-3-lx-black-cpu-kuhler-mit-lufter",
-   "cat": "Kühlung",
-   "sub": "Luftkühler",
-   "name": "BeQuiet PURE ROCK PRO 3 LX Black CPU-Kühler mit Lüfter",
-   "source": "crawler",
-   "url": "https://www.conrad.de/de/p/bequiet-pure-rock-pro-3-lx-black-cpu-kuehler-mit-luefter-3540455.html",
-   "stand": "2026-11-22T17:47",
-   "offers": [
-    {
-     "shop": "Conrad",
-     "price": 40.33,
-     "ship": 4.95,
-     "avail": "Auf Lager",
-     "url": "https://www.conrad.de/de/p/bequiet-pure-rock-pro-3-lx-black-cpu-kuehler-mit-luefter-3540455.html"
-    },
-    {
-     "shop": "caseking.de",
-     "price": 50.9,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.caseking.de/be-quiet-pure-rock-pro-3-lx-cpu-kuehler-120mm-schwarz/CPBQ-035.html"
-    }
-   ],
-   "price": 40.33,
-   "shop": "Conrad",
-   "hist": [
-    {
-     "d": "2026-10-29",
-     "p": 44.9
-    },
-    {
-     "d": "2026-10-30",
-     "p": 44.9
-    },
-    {
-     "d": "2026-11-01",
-     "p": 44.9
-    },
-    {
-     "d": "2026-11-03",
-     "p": 50.9
-    },
-    {
-     "d": "2026-11-04",
-     "p": 50.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 50.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 50.9
-    },
-    {
-     "d": "2026-11-11",
-     "p": 50.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 50.9
-    },
-    {
-     "d": "2026-11-15",
-     "p": 50.9
-    },
-    {
-     "d": "2026-11-18",
-     "p": 50.9
-    },
-    {
-     "d": "2026-11-19",
-     "p": 41.17
-    },
-    {
-     "d": "2026-11-20",
-     "p": 40.33
-    },
-    {
-     "d": "2026-11-22",
-     "p": 40.33
-    }
-   ],
-   "count": 2,
-   "tags": "kuhlung luftkuhler bequiet pure rock pro black cpu kuhler mit lufter",
-   "firstSeen": "2026-10-29"
-  },
-  {
    "id": "c-bequiet-dark-rock-pro-6-cpu-kuhler-passiv-135-04-m3-h-2000-u",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -12585,7 +12489,7 @@
    "name": "ASUS ROG Strix XG32WCMS Gaming Monitor 31.5-inch 280 Hz",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-xg32wcms-31.5-inch-curved-gaming-monitor-280hz-va-adaptivesync/TFAS-278.html",
-   "stand": "2026-11-23T16:12",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
@@ -12829,7 +12733,7 @@
    "name": "Nitro Concepts SM1 Curved Monitor – 49 Zoll SimRacing",
    "source": "crawler",
    "url": "https://www.caseking.de/en/nitro-concepts-sm1-simracing-monitor-124-5-cm-49-zoll-curved-144hz-freesync-g-sync-hdmi-dp-usb/TFNI-001.html",
-   "stand": "2026-11-23T16:12",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
@@ -13081,7 +12985,7 @@
    "name": "Samsung Odyssey Neo G9 G95NC 57\" Gaming Monitor",
    "source": "crawler",
    "url": "https://www.sim-verse.com/en-de/samsung-odyssey-neo-g9-g95nc-57-gaming-monitor/TFSS-178.html",
-   "stand": "2026-11-23T16:12",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "sim-verse.com",
@@ -13554,7 +13458,7 @@
    "name": "Thermaltake UX150-L ARGB Lighting, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/Thermaltake/UX150-L-ARGB-Lighting-CPU-K%C3%BChler/html/product/100110298",
-   "stand": "2026-11-21T21:45",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -13605,6 +13509,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 15.9
+    },
+    {
+     "d": "2026-11-23",
      "p": 15.9
     }
    ],
@@ -14093,7 +14001,7 @@
    "name": "SilverStone SST-NT09-115X, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/SilverStone/SST-NT09-115X-CPU-K%C3%BChler/html/product/1485300",
-   "stand": "2026-11-21T21:45",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -14160,6 +14068,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 16.99
+    },
+    {
+     "d": "2026-11-23",
      "p": 16.99
     }
    ],
@@ -15346,6 +15258,47 @@
    "count": 1,
    "tags": "kuhlung luftkuhler thermaltake ux400 cpu kuhler",
    "firstSeen": "2026-11-08"
+  },
+  {
+   "id": "c-ux400-argb-lighting-cpu-kuhler-black",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "UX400 ARGB Lighting CPU Kühler - Black",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/ux400-argb-lighting-black-cpu-kuehler?variant=51662864941395",
+   "stand": "2026-11-23T18:03",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 19.77,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/ux400-argb-lighting-black-cpu-kuehler?variant=51662864941395"
+    }
+   ],
+   "price": 19.77,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-20",
+     "p": 24.99
+    },
+    {
+     "d": "2026-11-21",
+     "p": 24.99
+    },
+    {
+     "d": "2026-11-22",
+     "p": 24.99
+    },
+    {
+     "d": "2026-11-23",
+     "p": 19.77
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler ux400 argb lighting cpu kuhler black",
+   "firstSeen": "2026-11-20"
   },
   {
    "id": "c-akasa-ak-cc6605ep01-low-profile-cpu-kuhler-intel-sockel-1700",
@@ -17201,39 +17154,6 @@
    "firstSeen": "2026-11-15"
   },
   {
-   "id": "c-noctua-nf-f12-5v-cpu-kuhler-mit-lufter-braun-beige-b-x-h-x-t",
-   "cat": "Kühlung",
-   "sub": "Luftkühler",
-   "name": "Noctua NF-F12 5V CPU-Kühler mit Lüfter Braun, Beige (B x H x T) 120 x 120 x 25 mm",
-   "source": "crawler",
-   "url": "https://www.conrad.de/de/p/noctua-nf-f12-5v-cpu-kuehler-mit-luefter-braun-beige-b-x-h-x-t-120-x-120-x-25-mm-2108186.html",
-   "stand": "2026-11-20T18:00",
-   "offers": [
-    {
-     "shop": "Conrad",
-     "price": 21.84,
-     "ship": 4.95,
-     "avail": "Auf Lager",
-     "url": "https://www.conrad.de/de/p/noctua-nf-f12-5v-cpu-kuehler-mit-luefter-braun-beige-b-x-h-x-t-120-x-120-x-25-mm-2108186.html"
-    }
-   ],
-   "price": 21.84,
-   "shop": "Conrad",
-   "hist": [
-    {
-     "d": "2026-11-19",
-     "p": 21.84
-    },
-    {
-     "d": "2026-11-20",
-     "p": 21.84
-    }
-   ],
-   "count": 1,
-   "tags": "kuhlung luftkuhler noctua f12 cpu kuhler mit lufter braun beige 120",
-   "firstSeen": "2026-11-19"
-  },
-  {
    "id": "c-akasa-ak-cce-7106hp-low-profile-cpu-kuhler-intel-74mm",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -18376,7 +18296,7 @@
    "name": "ARCTIC Freezer 8A CO Prozessor-Luftkühler AM4/AM5 Silber, Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/arctic-freezer-8a-co-prozessor-luftkuehler-am4-am5-silber-schwarz-100580771/",
-   "stand": "2026-11-20T18:00",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -18403,6 +18323,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 23.34
+    },
+    {
+     "d": "2026-11-23",
      "p": 23.34
     }
    ],
@@ -19878,47 +19802,6 @@
    "firstSeen": "2026-11-04"
   },
   {
-   "id": "c-ux400-argb-lighting-cpu-kuhler-black",
-   "cat": "Kühlung",
-   "sub": "Luftkühler",
-   "name": "UX400 ARGB Lighting CPU Kühler - Black",
-   "source": "crawler",
-   "url": "https://lcgs.thermaltake.de/en/products/ux400-argb-lighting-black-cpu-kuehler?variant=51662864941395",
-   "stand": "2026-11-23T16:12",
-   "offers": [
-    {
-     "shop": "Thermaltake LCGS",
-     "price": 24.99,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://lcgs.thermaltake.de/en/products/ux400-argb-lighting-black-cpu-kuehler?variant=51662864941395"
-    }
-   ],
-   "price": 24.99,
-   "shop": "Thermaltake LCGS",
-   "hist": [
-    {
-     "d": "2026-11-20",
-     "p": 24.99
-    },
-    {
-     "d": "2026-11-21",
-     "p": 24.99
-    },
-    {
-     "d": "2026-11-22",
-     "p": 24.99
-    },
-    {
-     "d": "2026-11-23",
-     "p": 24.99
-    }
-   ],
-   "count": 1,
-   "tags": "kuhlung luftkuhler ux400 argb lighting cpu kuhler black",
-   "firstSeen": "2026-11-20"
-  },
-  {
    "id": "c-endorfy-fera-5-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -20577,7 +20460,7 @@
    "name": "UGREEN 10Gbps M.2 NVMe SSD-behuizing",
    "source": "crawler",
    "url": "https://ai-eu.ugreen.com/nl-nl/products/ugreen-nas-10gbps-m2-nvme-ssd-enclosure",
-   "stand": "2026-11-23T16:12",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "UGREEN AIoT EU",
@@ -20667,7 +20550,7 @@
    "name": "Alpenföhn Black Ridge, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/Alpenf%C3%B6hn/Black-Ridge-CPU-K%C3%BChler/html/product/1485248",
-   "stand": "2026-11-21T21:45",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -20734,6 +20617,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 26.9
+    },
+    {
+     "d": "2026-11-23",
      "p": 26.9
     }
    ],
@@ -20976,7 +20863,7 @@
    "name": "ENDORFY Fera 5 Black, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/ENDORFY/Fera-5-Black-CPU-K%C3%BChler/html/product/100053913",
-   "stand": "2026-11-21T21:45",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -21043,6 +20930,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 27.7
+    },
+    {
+     "d": "2026-11-23",
      "p": 27.7
     }
    ],
@@ -22503,7 +22394,7 @@
    "name": "Ocypus Iota A40, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/Ocypus/Iota-A40-CPU-K%C3%BChler/html/product/100208136",
-   "stand": "2026-11-22T08:16",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -22566,6 +22457,10 @@
     },
     {
      "d": "2026-11-22",
+     "p": 29.9
+    },
+    {
+     "d": "2026-11-23",
      "p": 29.9
     }
    ],
@@ -22819,7 +22714,7 @@
    "name": "Sharkoon A40 RGB, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/Sharkoon/A40-RGB-CPU-K%C3%BChler/html/product/100065725",
-   "stand": "2026-11-21T21:45",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -22882,6 +22777,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 29.99
+    },
+    {
+     "d": "2026-11-23",
      "p": 29.99
     }
    ],
@@ -23747,7 +23646,7 @@
    "name": "DeepCool AG600 ARGB, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/DeepCool/AG600-ARGB-CPU-K%C3%BChler/html/product/100204966",
-   "stand": "2026-11-21T21:45",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -23806,6 +23705,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 32.9
+    },
+    {
+     "d": "2026-11-23",
      "p": 32.9
     }
    ],
@@ -23917,7 +23820,7 @@
    "name": "MSI MAG Corefrozr AA13, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/MSI/MAG-Corefrozr-AA13-CPU-K%C3%BChler/html/product/100172989",
-   "stand": "2026-11-22T08:16",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -23992,6 +23895,10 @@
     },
     {
      "d": "2026-11-22",
+     "p": 33
+    },
+    {
+     "d": "2026-11-23",
      "p": 33
     }
    ],
@@ -24071,7 +23978,7 @@
    "name": "Dynatron Z60 Prozessor-Luftkühler LGA1700/LGA1851 80mm Aluminium Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/dynatron-z60-prozessor-luftkuehler-lga1700-lga1851-80mm-aluminium-schwarz-100495643/",
-   "stand": "2026-11-20T18:00",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -24098,6 +24005,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 34.65
+    },
+    {
+     "d": "2026-11-23",
      "p": 34.65
     }
    ],
@@ -24613,15 +24524,15 @@
    "sub": "Luftkühler",
    "name": "be quiet! Pure Rock 3 CPU cooler - 120mm, black",
    "source": "crawler",
-   "url": "https://www.caseking.de/be-quiet-pure-rock-3-cpu-kuehler-120mm-schwarz/CPBQ-036.html",
-   "stand": "2026-11-22T19:53",
+   "url": "https://www.caseking.de/en/be-quiet-pure-rock-3-cpu-cooler-120mm-black/CPBQ-036.html",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 34.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/be-quiet-pure-rock-3-cpu-kuehler-120mm-schwarz/CPBQ-036.html"
+     "url": "https://www.caseking.de/en/be-quiet-pure-rock-3-cpu-cooler-120mm-black/CPBQ-036.html"
     }
    ],
    "price": 34.9,
@@ -24673,6 +24584,10 @@
     },
     {
      "d": "2026-11-22",
+     "p": 34.9
+    },
+    {
+     "d": "2026-11-23",
      "p": 34.9
     }
    ],
@@ -25579,7 +25494,7 @@
    "name": "Sharkoon A50, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/Sharkoon/A50-CPU-K%C3%BChler/html/product/100065727",
-   "stand": "2026-11-21T21:45",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -25642,6 +25557,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 34.99
+    },
+    {
+     "d": "2026-11-23",
      "p": 34.99
     }
    ],
@@ -25855,7 +25774,7 @@
    "name": "Xilence CRYON M806D.B CPU-Kühler Multisocket 12 cm Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/xilence-cryon-m806d-b-cpu-kuehler-multisocket-12-cm-schwarz-100555018/",
-   "stand": "2026-11-20T18:00",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -25882,6 +25801,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 36.28
+    },
+    {
+     "d": "2026-11-23",
      "p": 36.28
     }
    ],
@@ -26666,7 +26589,7 @@
    "name": "Inter-Tech IP-3 Passiver CPU-Kühler für Intel LGA 1150/1151/1155/1156/1200/1700",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/inter-tech-ip-3-passiver-cpu-kuehler-fuer-intel-lga-1150-1151-1155-1156-1200-1700-7639429/",
-   "stand": "2026-11-20T18:00",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -26693,6 +26616,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 37.21
+    },
+    {
+     "d": "2026-11-23",
      "p": 37.21
     }
    ],
@@ -29540,7 +29467,7 @@
    "name": "SilverStone SST-HYD120-ARGB-V2, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/SilverStone/SST-HYD120-ARGB-V2-CPU-K%C3%BChler/html/product/1826225",
-   "stand": "2026-11-22T08:16",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -29591,6 +29518,10 @@
     },
     {
      "d": "2026-11-22",
+     "p": 41.9
+    },
+    {
+     "d": "2026-11-23",
      "p": 41.9
     }
    ],
@@ -29658,7 +29589,7 @@
    "name": "Endorfy Fortis 5 Prozessor-Luftkühler 140 mm Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/endorfy-fortis-5-prozessor-luftkuehler-140-mm-schwarz-100546987/",
-   "stand": "2026-11-20T18:00",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -29685,6 +29616,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 41.9
+    },
+    {
+     "d": "2026-11-23",
      "p": 41.9
     }
    ],
@@ -31879,15 +31814,15 @@
    "sub": "Luftkühler",
    "name": "be quiet! Pure Rock Pro 3 CPU cooler - 120mm, black",
    "source": "crawler",
-   "url": "https://www.caseking.de/be-quiet-pure-rock-pro-3-cpu-kuehler-120mm-schwarz/CPBQ-034.html",
-   "stand": "2026-11-22T19:53",
+   "url": "https://www.caseking.de/en/be-quiet-pure-rock-pro-3-cpu-cooler-120mm-black/CPBQ-034.html",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 47.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/be-quiet-pure-rock-pro-3-cpu-kuehler-120mm-schwarz/CPBQ-034.html"
+     "url": "https://www.caseking.de/en/be-quiet-pure-rock-pro-3-cpu-cooler-120mm-black/CPBQ-034.html"
     }
    ],
    "price": 47.9,
@@ -31939,6 +31874,10 @@
     },
     {
      "d": "2026-11-22",
+     "p": 47.9
+    },
+    {
+     "d": "2026-11-23",
      "p": 47.9
     }
    ],
@@ -33875,7 +33814,7 @@
    "name": "Noctua NH-L9i, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/Noctua/NH-L9i-CPU-K%C3%BChler/html/product/1040695",
-   "stand": "2026-11-22T08:16",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -33927,6 +33866,10 @@
     {
      "d": "2026-11-22",
      "p": 49.9
+    },
+    {
+     "d": "2026-11-23",
+     "p": 49.9
     }
    ],
    "count": 1,
@@ -33940,7 +33883,7 @@
    "name": "Thermaltake TOUGHAIR 710 Black CPU Cooler, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/Thermaltake/TOUGHAIR-710-Black-CPU-Cooler-CPU-K%C3%BChler/html/product/100000136",
-   "stand": "2026-11-22T08:16",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -33991,6 +33934,10 @@
     },
     {
      "d": "2026-11-22",
+     "p": 49.9
+    },
+    {
+     "d": "2026-11-23",
      "p": 49.9
     }
    ],
@@ -34481,6 +34428,87 @@
    ],
    "count": 1,
    "tags": "kuhlung luftkuhler alpenfohn brocken max argb cpu kuhler 120mm weiss",
+   "firstSeen": "2026-10-29"
+  },
+  {
+   "id": "c-bequiet-pure-rock-pro-3-lx-black-cpu-kuhler-mit-lufter",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "BeQuiet PURE ROCK PRO 3 LX Black CPU-Kühler mit Lüfter",
+   "source": "crawler",
+   "url": "https://www.caseking.de/be-quiet-pure-rock-pro-3-lx-cpu-kuehler-120mm-schwarz/CPBQ-035.html",
+   "stand": "2026-11-22T17:47",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 50.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/be-quiet-pure-rock-pro-3-lx-cpu-kuehler-120mm-schwarz/CPBQ-035.html"
+    }
+   ],
+   "price": 50.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 44.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 44.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 44.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 50.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 50.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 50.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 50.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 50.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 50.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 50.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 50.9
+    },
+    {
+     "d": "2026-11-19",
+     "p": 41.17
+    },
+    {
+     "d": "2026-11-20",
+     "p": 40.33
+    },
+    {
+     "d": "2026-11-22",
+     "p": 40.33
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler bequiet pure rock pro black cpu kuhler mit lufter",
    "firstSeen": "2026-10-29"
   },
   {
@@ -36739,7 +36767,7 @@
    "name": "Inter-Tech A-35 Prozessor-Luftkühler 80 mm Aluminium Schwarz Silber",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/inter-tech-a-35-prozessor-luftkuehler-80-mm-aluminium-schwarz-silber-6158439/",
-   "stand": "2026-11-20T18:00",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -36766,6 +36794,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 59.83
+    },
+    {
+     "d": "2026-11-23",
      "p": 59.83
     }
    ],
@@ -38632,15 +38664,15 @@
    "sub": "Luftkühler",
    "name": "be quiet! Dark Rock Pro 5, CPU-Kühler",
    "source": "crawler",
-   "url": "https://www.alternate.de/be-quiet/Dark-Rock-Pro-5-CPU-K%C3%BChler/html/product/100218106",
-   "stand": "2026-11-22T21:47",
+   "url": "https://www.alternate.de/be-quiet/Dark-Rock-Pro-5-CPU-K%C3%BChler/html/product/100217572",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "ALTERNATE",
      "price": 59.99,
      "ship": 7.99,
      "avail": "Auf Lager",
-     "url": "https://www.alternate.de/be-quiet/Dark-Rock-Pro-5-CPU-K%C3%BChler/html/product/100218106"
+     "url": "https://www.alternate.de/be-quiet/Dark-Rock-Pro-5-CPU-K%C3%BChler/html/product/100217572"
     }
    ],
    "price": 59.99,
@@ -38716,6 +38748,10 @@
     },
     {
      "d": "2026-11-22",
+     "p": 59.99
+    },
+    {
+     "d": "2026-11-23",
      "p": 59.99
     }
    ],
@@ -38896,7 +38932,7 @@
    "name": "UGREEN ES UGREEN Caja SSD M.2 NVMe 40Gbps",
    "source": "crawler",
    "url": "https://eu.ugreen.com/products/m2-caja-ssd-nvme-40gbps?variant=58530980102492",
-   "stand": "2026-11-23T16:12",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "UGREEN EU",
@@ -38941,7 +38977,7 @@
    "name": "UGREEN ES UGREEN M.2 NVMe-SSD-behuizing 40 Gbps",
    "source": "crawler",
    "url": "https://eu.ugreen.com/nl/products/m-2-nvme-ssd-behuizing-40-gbps?variant=58530980102492",
-   "stand": "2026-11-23T16:12",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "UGREEN EU",
@@ -38986,7 +39022,7 @@
    "name": "UGREEN ES Boîtier SSD M.2 NVMe UGREEN 40 Gbit/s",
    "source": "crawler",
    "url": "https://eu.ugreen.com/fr/products/boitier-ssd-nvme-m-2-40-gbit-s?variant=58530980102492",
-   "stand": "2026-11-23T16:12",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "UGREEN EU",
@@ -39031,7 +39067,7 @@
    "name": "UGREEN ES Caixa SSD M.2 NVMe UGREEN 40Gbps",
    "source": "crawler",
    "url": "https://eu.ugreen.com/pt/products/caixa-m-2-para-ssd-nvme-de-40-gbps?variant=58530980102492",
-   "stand": "2026-11-23T16:12",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "UGREEN EU",
@@ -39459,7 +39495,7 @@
    "name": "DeepCool AK620 Digital SE Prozessor-Luftkühler Schwarz, Weiß",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/deepcool-ak620-digital-se-prozessor-luftkuehler-schwarz-weiss-100680165/",
-   "stand": "2026-11-20T18:00",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -39486,6 +39522,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 63.44
+    },
+    {
+     "d": "2026-11-23",
      "p": 63.44
     }
    ],
@@ -39623,7 +39663,7 @@
    "name": "Inter-Tech Q-3 CPU-Kühler 8 cm 7000 RPM Kupfer Schwarz – Silber",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/inter-tech-q-3-cpu-kuehler-8-cm-7000-rpm-kupfer-schwarz-silber-7670788/",
-   "stand": "2026-11-20T18:00",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -39650,6 +39690,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 64.19
+    },
+    {
+     "d": "2026-11-23",
      "p": 64.19
     }
    ],
@@ -40493,7 +40537,7 @@
    "name": "UGREEN EU Caixa UGREEN M.2 NVMe SSD 40Gbps",
    "source": "crawler",
    "url": "https://eu.ugreen.com/pt/products/caixa-para-ssd-m-2-nvme-40-gbps?variant=55294527078748",
-   "stand": "2026-11-23T16:12",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "UGREEN EU",
@@ -40611,7 +40655,7 @@
    "name": "Dynatron S-6-4710, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/Dynatron/S-6-4710-CPU-K%C3%BChler/html/product/100211794",
-   "stand": "2026-11-22T08:16",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -40674,6 +40718,10 @@
     },
     {
      "d": "2026-11-22",
+     "p": 65.9
+    },
+    {
+     "d": "2026-11-23",
      "p": 65.9
     }
    ],
@@ -41046,15 +41094,15 @@
    "sub": "Intel LGA1700 H610",
    "name": "GIGABYTE H610M K DDR4 Mainboard, Sockel 1700, Intel H610, Micro-ATX, DDR4",
    "source": "crawler",
-   "url": "https://www.caseking.de/gigabyte-h610m-k-ddr4-mainboard-sockel-1700-intel-h610-micro-atx-ddr4/MBGB-560.html",
-   "stand": "2026-11-22T11:47",
+   "url": "https://www.caseking.de/en/gigabyte-h610m-k-ddr4-motherboard-socket-1700-intel-h610-micro-atx-ddr4/MBGB-560.html",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 67.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/gigabyte-h610m-k-ddr4-mainboard-sockel-1700-intel-h610-micro-atx-ddr4/MBGB-560.html"
+     "url": "https://www.caseking.de/en/gigabyte-h610m-k-ddr4-motherboard-socket-1700-intel-h610-micro-atx-ddr4/MBGB-560.html"
     }
    ],
    "price": 67.9,
@@ -41118,6 +41166,10 @@
     },
     {
      "d": "2026-11-22",
+     "p": 67.9
+    },
+    {
+     "d": "2026-11-23",
      "p": 67.9
     }
    ],
@@ -42754,7 +42806,7 @@
    "name": "Dynatron A-49, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/Dynatron/A-49-CPU-K%C3%BChler/html/product/100211792",
-   "stand": "2026-11-22T08:16",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -42817,6 +42869,10 @@
     },
     {
      "d": "2026-11-22",
+     "p": 69.9
+    },
+    {
+     "d": "2026-11-23",
      "p": 69.9
     }
    ],
@@ -43912,7 +43968,7 @@
    "name": "Arctic Liquid Freezer III Pro 280 AIO CPU-Wasserkühler 280 mm Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/arctic-liquid-freezer-iii-pro-280-aio-cpu-wasserkuehler-280-mm-schwarz-100593628/",
-   "stand": "2026-11-20T18:00",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -43967,6 +44023,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 72.74
+    },
+    {
+     "d": "2026-11-23",
      "p": 72.74
     }
    ],
@@ -49344,15 +49404,15 @@
    "sub": "AiO-Wasserkühlung",
    "name": "Montech HyperFlow Silent AiO Wasserkühlung - 360mm, weiß",
    "source": "crawler",
-   "url": "https://www.caseking.de/montech-hyperflow-silent-aio-wasserkuehlung-360mm-weiss/WASE-915.html",
-   "stand": "2026-11-23T16:12",
+   "url": "https://www.caseking.de/en/montech-hyperflow-silent-aio-water-cooling-360mm-white/WASE-915.html",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 84.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/montech-hyperflow-silent-aio-wasserkuehlung-360mm-weiss/WASE-915.html"
+     "url": "https://www.caseking.de/en/montech-hyperflow-silent-aio-water-cooling-360mm-white/WASE-915.html"
     }
    ],
    "price": 84.9,
@@ -49992,7 +50052,7 @@
    "name": "SilverStone Permafrost PF240-ARGB V2, AIO Cooler - 240 mm",
    "source": "crawler",
    "url": "https://www.caseking.de/en/silverstone-permafrost-pf240-argb-v2-aio-cooler-240-mm/WASE-604.html",
-   "stand": "2026-11-21T14:03",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
@@ -50035,6 +50095,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 87.9
+    },
+    {
+     "d": "2026-11-23",
      "p": 87.9
     }
    ],
@@ -52257,7 +52321,7 @@
    "name": "be quiet! Dark Rock Elite Prozessor-Luftkühler 135 mm Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/be-quiet-dark-rock-elite-prozessor-luftkuehler-135-mm-schwarz-100272751/",
-   "stand": "2026-11-20T18:00",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -52284,6 +52348,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 90.01
+    },
+    {
+     "d": "2026-11-23",
      "p": 90.01
     }
    ],
@@ -53522,7 +53590,7 @@
    "name": "ARCTIC Liquid Freezer III Pro 420 A-RGB CPU-Wasserkühlung 420 mm 3x 140 mm Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/arctic-liquid-freezer-iii-pro-420-a-rgb-cpu-wasserkuehlung-420-mm-3x-140-mm-schwarz-100597789/",
-   "stand": "2026-11-20T18:00",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -53577,6 +53645,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 94.65
+    },
+    {
+     "d": "2026-11-23",
      "p": 94.65
     }
    ],
@@ -54294,46 +54366,13 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-qnap-qnap-zub-lufter-fan-12cm-t01-120x120x25m-cpu-kuhler-mit",
-   "cat": "Kühlung",
-   "sub": "Luftkühler",
-   "name": "QNAP QNAP ZUB Lüfter FAN-12CM-T01 120x120x25m CPU-Kühler mit Lüfter",
-   "source": "crawler",
-   "url": "https://www.conrad.de/de/p/qnap-qnap-zub-luefter-fan-12cm-t01-120x120x25m-cpu-kuehler-mit-luefter-3766798.html",
-   "stand": "2026-11-20T18:00",
-   "offers": [
-    {
-     "shop": "Conrad",
-     "price": 96.65,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.conrad.de/de/p/qnap-qnap-zub-luefter-fan-12cm-t01-120x120x25m-cpu-kuehler-mit-luefter-3766798.html"
-    }
-   ],
-   "price": 96.65,
-   "shop": "Conrad",
-   "hist": [
-    {
-     "d": "2026-11-19",
-     "p": 96.65
-    },
-    {
-     "d": "2026-11-20",
-     "p": 96.65
-    }
-   ],
-   "count": 1,
-   "tags": "kuhlung luftkuhler qnap zub lufter fan 12cm t01 120x120x25m cpu kuhler mit",
-   "firstSeen": "2026-11-19"
-  },
-  {
    "id": "c-hp-v24v-g5-23-8-full-hd-monitor-schwarz",
    "cat": "Monitore",
    "sub": "23,8\"",
    "name": "HP V24v G5 23.8\" Full HD Monitor Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/hp-v24v-g5-23-8-full-hd-monitor-schwarz-8098597/",
-   "stand": "2026-11-20T20:04",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -54392,6 +54431,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 96.72
+    },
+    {
+     "d": "2026-11-23",
      "p": 96.72
     }
    ],
@@ -55153,7 +55196,7 @@
    "name": "Gigabyte H810M S2H Mainboard LGA1851 Intel H810 Micro ATX DDR5 Dark Brown",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/gigabyte-h810m-s2h-mainboard-lga1851-intel-h810-micro-atx-ddr5-dark-brown-100553842/",
-   "stand": "2026-11-20T18:00",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -55212,6 +55255,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 99.32
+    },
+    {
+     "d": "2026-11-23",
      "p": 99.32
     }
    ],
@@ -57315,7 +57362,7 @@
    "name": "Thermalright Hyper Vision UB AiO Water Cooling, ARGB, Intel and AMD Socket - 360mm, black",
    "source": "crawler",
    "url": "https://www.caseking.de/en/thermalright-hyper-vision-ub-aio-water-cooling-argb-intel-and-amd-socket-360mm-black/WASE-931.html",
-   "stand": "2026-11-21T14:03",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
@@ -57358,6 +57405,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 99.9
+    },
+    {
+     "d": "2026-11-23",
      "p": 99.9
     }
    ],
@@ -59847,7 +59898,7 @@
    "name": "Noctua NH-D15, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/Noctua/NH-D15-CPU-K%C3%BChler/html/product/1136477",
-   "stand": "2026-11-22T08:16",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -59906,6 +59957,10 @@
     },
     {
      "d": "2026-11-22",
+     "p": 104.9
+    },
+    {
+     "d": "2026-11-23",
      "p": 104.9
     }
    ],
@@ -60358,7 +60413,7 @@
    "name": "be quiet! Dark Rock Elite, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/be-quiet/Dark-Rock-Elite-CPU-K%C3%BChler/html/product/100019324",
-   "stand": "2026-11-21T21:45",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -60437,6 +60492,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 107.9
+    },
+    {
+     "d": "2026-11-23",
      "p": 107.9
     }
    ],
@@ -61903,87 +61962,6 @@
    "firstSeen": "2026-11-20"
   },
   {
-   "id": "c-noctua-nh-d15s-chromax-black-cpu-kuhler-140mm",
-   "cat": "Kühlung",
-   "sub": "Luftkühler",
-   "name": "Noctua NH-D15S chromax.black CPU-Kühler - 140mm",
-   "source": "crawler",
-   "url": "https://www.conrad.de/de/p/noctua-nh-d15s-ch-bk-cpu-kuehler-mit-luefter-intel-lga-1150-intel-lga-1151-intel-lga-1151-v2-intel-lga-1156-intel-2373080.html",
-   "stand": "2026-11-20T18:00",
-   "offers": [
-    {
-     "shop": "Conrad",
-     "price": 111.51,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.conrad.de/de/p/noctua-nh-d15s-ch-bk-cpu-kuehler-mit-luefter-intel-lga-1150-intel-lga-1151-intel-lga-1151-v2-intel-lga-1156-intel-2373080.html"
-    }
-   ],
-   "price": 111.51,
-   "shop": "Conrad",
-   "hist": [
-    {
-     "d": "2026-10-29",
-     "p": 109.9
-    },
-    {
-     "d": "2026-10-30",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-01",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-03",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-07",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-09",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-11",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-16",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-18",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-19",
-     "p": 100.83
-    },
-    {
-     "d": "2026-11-20",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-22",
-     "p": 109.9
-    }
-   ],
-   "count": 1,
-   "tags": "kuhlung luftkuhler noctua d15s chromax black cpu kuhler 140mm",
-   "firstSeen": "2026-10-29"
-  },
-  {
    "id": "c-intel-core-i3-14100-3-5-ghz-raptor-lake-refresh-sockel-1700-",
    "cat": "Prozessoren",
    "sub": "Intel LGA1700",
@@ -62051,6 +62029,51 @@
    "count": 1,
    "tags": "prozessoren intel lga1700 intel core 14100 ghz raptor lake refresh sockel 1700 boxed",
    "firstSeen": "2026-11-02"
+  },
+  {
+   "id": "c-noctua-chromax-black-nh-d12l-prozessor-luftkuhler-120-mm-5-h",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Noctua chromax.black NH-D12L Prozessor-Luftkühler 120 mm 5 Heatpipes Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/noctua-chromax-black-nh-d12l-prozessor-luftkuehler-120-mm-5-heatpipes-schwarz-100457671/",
+   "stand": "2026-11-23T18:03",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 112.17,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/noctua-chromax-black-nh-d12l-prozessor-luftkuehler-120-mm-5-heatpipes-schwarz-100457671/"
+    }
+   ],
+   "price": 112.17,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-12",
+     "p": 112.44
+    },
+    {
+     "d": "2026-11-15",
+     "p": 123.22
+    },
+    {
+     "d": "2026-11-17",
+     "p": 123.22
+    },
+    {
+     "d": "2026-11-20",
+     "p": 113.55
+    },
+    {
+     "d": "2026-11-23",
+     "p": 112.17
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler noctua chromax black d12l prozessor 120 heatpipes schwarz",
+   "firstSeen": "2026-11-12"
   },
   {
    "id": "c-apacer-as2280p4-512-gb-m-2-pcie-3-0-x4-nvme-ssd-2100-1500-mb",
@@ -62230,47 +62253,6 @@
    "count": 1,
    "tags": "monitore 27\" xiaomi g27i 2026 gaming monitor full 200hz 1ms freesync premium schwarz",
    "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-noctua-chromax-black-nh-d12l-prozessor-luftkuhler-120-mm-5-h",
-   "cat": "Kühlung",
-   "sub": "Luftkühler",
-   "name": "Noctua chromax.black NH-D12L Prozessor-Luftkühler 120 mm 5 Heatpipes Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/noctua-chromax-black-nh-d12l-prozessor-luftkuehler-120-mm-5-heatpipes-schwarz-100457671/",
-   "stand": "2026-11-20T18:00",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 113.55,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/noctua-chromax-black-nh-d12l-prozessor-luftkuehler-120-mm-5-heatpipes-schwarz-100457671/"
-    }
-   ],
-   "price": 113.55,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-12",
-     "p": 112.44
-    },
-    {
-     "d": "2026-11-15",
-     "p": 123.22
-    },
-    {
-     "d": "2026-11-17",
-     "p": 123.22
-    },
-    {
-     "d": "2026-11-20",
-     "p": 113.55
-    }
-   ],
-   "count": 1,
-   "tags": "kuhlung luftkuhler noctua chromax black d12l prozessor 120 heatpipes schwarz",
-   "firstSeen": "2026-11-12"
   },
   {
    "id": "c-montech-century-ii-850-w-atx-pc-netzteil-80-plus-gold-silber",
@@ -62729,63 +62711,6 @@
    "count": 1,
    "tags": "kuhlung luftkuhler corsair icue link xc7 rgb elite cpu kuhler",
    "firstSeen": "2026-10-31"
-  },
-  {
-   "id": "c-silverstone-sst-tx500-g-tfx-netzteil-80-plus-gold-500-watt",
-   "cat": "Netzteile",
-   "sub": "bis 600 W",
-   "name": "SilverStone SST-TX500-G TFX Netzteil, 80 PLUS Gold - 500 Watt",
-   "source": "crawler",
-   "url": "https://www.caseking.de/en/silverstone-sst-tx500-g-tfx-power-supply-80-plus-gold-500-watt/NEST-165.html",
-   "stand": "2026-11-21T11:49",
-   "offers": [
-    {
-     "shop": "caseking.de",
-     "price": 114.9,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/silverstone-sst-tx500-g-tfx-power-supply-80-plus-gold-500-watt/NEST-165.html"
-    }
-   ],
-   "price": 114.9,
-   "shop": "caseking.de",
-   "hist": [
-    {
-     "d": "2026-11-05",
-     "p": 114.9
-    },
-    {
-     "d": "2026-11-07",
-     "p": 114.9
-    },
-    {
-     "d": "2026-11-09",
-     "p": 114.9
-    },
-    {
-     "d": "2026-11-11",
-     "p": 114.9
-    },
-    {
-     "d": "2026-11-14",
-     "p": 114.9
-    },
-    {
-     "d": "2026-11-16",
-     "p": 114.9
-    },
-    {
-     "d": "2026-11-19",
-     "p": 114.9
-    },
-    {
-     "d": "2026-11-21",
-     "p": 114.9
-    }
-   ],
-   "count": 1,
-   "tags": "netzteile bis 600 w silverstone sst tx500 tfx netzteil plus gold 500 watt",
-   "firstSeen": "2026-11-05"
   },
   {
    "id": "c-corsair-nautilus-ii-360-rs-argb-flussig-cpu-kuhler-wasserkuh",
@@ -63569,7 +63494,7 @@
    "name": "Kingston FURY Beast RGB 8 GB DDR4-3600 CL17 DIMM Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-beast-rgb-8-gb-ddr4-3600-cl17-dimm-schwarz-100049099/",
-   "stand": "2026-11-20T18:00",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -63628,6 +63553,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 116.25
+    },
+    {
+     "d": "2026-11-23",
      "p": 116.25
     }
    ],
@@ -66759,7 +66688,7 @@
    "name": "ASUS PRIME H810M-E-CSM Mainboard Intel H810 LGA 1851 DDR5 Micro ATX Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-prime-h810m-e-csm-mainboard-intel-h810-lga-1851-ddr5-micro-atx-schwarz-100692238/",
-   "stand": "2026-11-20T18:00",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -66818,6 +66747,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 122.37
+    },
+    {
+     "d": "2026-11-23",
      "p": 122.37
     }
    ],
@@ -68369,7 +68302,7 @@
    "name": "SilverStone Permafrost PF360-ARGB, V2 AIO Cooler, White - 360 mm",
    "source": "crawler",
    "url": "https://www.caseking.de/en/silverstone-permafrost-pf360-argb-v2-aio-cooler-white-360-mm/WASE-607.html",
-   "stand": "2026-11-21T14:03",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
@@ -68412,6 +68345,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 124.9
+    },
+    {
+     "d": "2026-11-23",
      "p": 124.9
     }
    ],
@@ -71282,7 +71219,7 @@
    "name": "Thermaltake LCGS TOUGHRAM DDR4 3600MHz CL18 16GB(2x8GB) Snow White RAM",
    "source": "crawler",
    "url": "https://lcgs.thermaltake.de/en/products/toughram-ddr4-3600mhz-cl18-16gb2x8gb-arbeitsspeicher-snow-white?variant=52740755358035",
-   "stand": "2026-11-23T16:12",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "Thermaltake LCGS",
@@ -72098,63 +72035,6 @@
    "count": 1,
    "tags": "mainboards intel lga1700 b760 msi b760 gaming plus wifi mainboard atx lga 1700 ddr5 schwarz",
    "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-be-quiet-light-loop-all-in-one-wasserkuhlung-argb-360-mm-sch",
-   "cat": "Kühlung",
-   "sub": "AiO-Wasserkühlung",
-   "name": "be quiet! Light Loop All-in-One-Wasserkühlung, ARGB - 360 mm, schwarz",
-   "source": "crawler",
-   "url": "https://www.caseking.de/be-quiet-light-loop-all-in-one-wasserkuehlung-argb-360-mm-schwarz/WASE-894.html",
-   "stand": "2026-11-21T11:49",
-   "offers": [
-    {
-     "shop": "caseking.de",
-     "price": 132.9,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.caseking.de/be-quiet-light-loop-all-in-one-wasserkuehlung-argb-360-mm-schwarz/WASE-894.html"
-    }
-   ],
-   "price": 132.9,
-   "shop": "caseking.de",
-   "hist": [
-    {
-     "d": "2026-11-05",
-     "p": 132.9
-    },
-    {
-     "d": "2026-11-07",
-     "p": 132.9
-    },
-    {
-     "d": "2026-11-09",
-     "p": 132.9
-    },
-    {
-     "d": "2026-11-11",
-     "p": 132.9
-    },
-    {
-     "d": "2026-11-14",
-     "p": 132.9
-    },
-    {
-     "d": "2026-11-16",
-     "p": 132.9
-    },
-    {
-     "d": "2026-11-19",
-     "p": 132.9
-    },
-    {
-     "d": "2026-11-21",
-     "p": 132.9
-    }
-   ],
-   "count": 1,
-   "tags": "kuhlung aio-wasserkuhlung quiet light loop all one wasserkuhlung argb 360 schwarz",
-   "firstSeen": "2026-11-05"
   },
   {
    "id": "c-hp-e22-g5-21-5-ips-full-hd-monitor-75-hz-schwarz",
@@ -74302,7 +74182,7 @@
    "name": "be quiet! Light Loop All-in-One-Wasserkühlung, ARGB - 360 mm, weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/be-quiet-light-loop-all-in-one-wasserkuehlung-argb-360-mm-weiss/WASE-895.html",
-   "stand": "2026-11-21T11:49",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
@@ -74345,6 +74225,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 137.9
+    },
+    {
+     "d": "2026-11-23",
      "p": 137.9
     }
    ],
@@ -75680,63 +75564,6 @@
    "firstSeen": "2026-11-04"
   },
   {
-   "id": "c-be-quiet-silent-loop-3-aio-cooler-argb-360mm-black",
-   "cat": "Kühlung",
-   "sub": "AiO-Wasserkühlung",
-   "name": "be quiet! Silent Loop 3 AIO Cooler, ARGB - 360mm, black",
-   "source": "crawler",
-   "url": "https://www.caseking.de/en/be-quiet-silent-loop-3-aio-cooler-argb-360mm-black/WASE-925.html",
-   "stand": "2026-11-21T14:03",
-   "offers": [
-    {
-     "shop": "caseking.de",
-     "price": 139.9,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/be-quiet-silent-loop-3-aio-cooler-argb-360mm-black/WASE-925.html"
-    }
-   ],
-   "price": 139.9,
-   "shop": "caseking.de",
-   "hist": [
-    {
-     "d": "2026-11-06",
-     "p": 139.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 139.9
-    },
-    {
-     "d": "2026-11-10",
-     "p": 139.9
-    },
-    {
-     "d": "2026-11-12",
-     "p": 139.9
-    },
-    {
-     "d": "2026-11-14",
-     "p": 139.9
-    },
-    {
-     "d": "2026-11-17",
-     "p": 139.9
-    },
-    {
-     "d": "2026-11-19",
-     "p": 139.9
-    },
-    {
-     "d": "2026-11-21",
-     "p": 139.9
-    }
-   ],
-   "count": 1,
-   "tags": "kuhlung aio-wasserkuhlung quiet silent loop aio cooler argb 360mm black",
-   "firstSeen": "2026-11-06"
-  },
-  {
    "id": "c-tryx-stage-argb-360-aio-water-cooling-dual-ips-display-360mm",
    "cat": "Kühlung",
    "sub": "AiO-Wasserkühlung",
@@ -76279,17 +76106,17 @@
    "name": "MSI PRO MP273DE E14A 27\" IPS Monitor 1920x1080 144 Hz Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/msi-pro-mp273de-e14a-27-ips-monitor-1920x1080-144-hz-schwarz-100845169/",
-   "stand": "2026-11-20T20:04",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
-     "price": 141.31,
+     "price": 141.29,
      "ship": null,
      "avail": null,
      "url": "https://www.jacob.de/produkt/msi-pro-mp273de-e14a-27-ips-monitor-1920x1080-144-hz-schwarz-100845169/"
     }
    ],
-   "price": 141.31,
+   "price": 141.29,
    "shop": "JACOB Elektronik GmbH",
    "hist": [
     {
@@ -76339,6 +76166,10 @@
     {
      "d": "2026-11-20",
      "p": 141.31
+    },
+    {
+     "d": "2026-11-23",
+     "p": 141.29
     }
    ],
    "count": 1,
@@ -78517,63 +78348,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-msi-b760-gaming-plus-wifi-intel-b760-motherboard-socket-1700",
-   "cat": "Mainboards",
-   "sub": "Intel LGA1700 B760",
-   "name": "MSI B760 Gaming Plus WiFi, Intel B760 motherboard - Socket 1700, DDR4",
-   "source": "crawler",
-   "url": "https://www.caseking.de/en/msi-b760-gaming-plus-wifi-intel-b760-motherboard-socket-1700-ddr4/MBMC-580.html",
-   "stand": "2026-11-21T11:49",
-   "offers": [
-    {
-     "shop": "caseking.de",
-     "price": 147.15,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/msi-b760-gaming-plus-wifi-intel-b760-motherboard-socket-1700-ddr4/MBMC-580.html"
-    }
-   ],
-   "price": 147.15,
-   "shop": "caseking.de",
-   "hist": [
-    {
-     "d": "2026-11-05",
-     "p": 147.15
-    },
-    {
-     "d": "2026-11-07",
-     "p": 147.15
-    },
-    {
-     "d": "2026-11-09",
-     "p": 147.15
-    },
-    {
-     "d": "2026-11-11",
-     "p": 147.15
-    },
-    {
-     "d": "2026-11-14",
-     "p": 147.15
-    },
-    {
-     "d": "2026-11-16",
-     "p": 147.15
-    },
-    {
-     "d": "2026-11-19",
-     "p": 147.15
-    },
-    {
-     "d": "2026-11-21",
-     "p": 147.15
-    }
-   ],
-   "count": 1,
-   "tags": "mainboards intel lga1700 b760 msi b760 gaming plus wifi intel motherboard socket 1700 ddr4",
-   "firstSeen": "2026-11-05"
-  },
-  {
    "id": "c-patriot-p300-m-2-ssd-1-tb-pcie-3-0-x4-nvme",
    "cat": "SSDs",
    "sub": "NVMe 1 TB",
@@ -79188,15 +78962,15 @@
    "sub": "1000 W+",
    "name": "ASUS TUF Gaming 1000W Gold 80 PLUS Gold Netzteil, modular - 1000 Watt",
    "source": "crawler",
-   "url": "https://www.caseking.de/asus-tuf-gaming-1000w-gold-80-plus-gold-netzteil-modular-1000-watt/NEAS-028.html",
-   "stand": "2026-11-23T16:12",
+   "url": "https://www.caseking.de/en/asus-tuf-gaming-1000w-gold-80-plus-gold-power-supply-modular-1000-watt/NEAS-028.html",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 149.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/asus-tuf-gaming-1000w-gold-80-plus-gold-netzteil-modular-1000-watt/NEAS-028.html"
+     "url": "https://www.caseking.de/en/asus-tuf-gaming-1000w-gold-80-plus-gold-power-supply-modular-1000-watt/NEAS-028.html"
     }
    ],
    "price": 149.9,
@@ -79947,7 +79721,7 @@
    "name": "Noctua NH-D15 G2 chromax.black, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/Noctua/NH-D15-G2-chromax-black-CPU-K%C3%BChler/html/product/100168397",
-   "stand": "2026-11-22T08:16",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -80002,6 +79776,10 @@
     },
     {
      "d": "2026-11-22",
+     "p": 149.9
+    },
+    {
+     "d": "2026-11-23",
      "p": 149.9
     }
    ],
@@ -80308,7 +80086,7 @@
    "name": "be quiet! Silent Loop 3 AIO Cooler, ARGB - 420mm, black",
    "source": "crawler",
    "url": "https://www.caseking.de/en/be-quiet-silent-loop-3-aio-cooler-argb-420mm-black/WASE-926.html",
-   "stand": "2026-11-21T14:03",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
@@ -80351,6 +80129,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 149.9
+    },
+    {
+     "d": "2026-11-23",
      "p": 149.9
     }
    ],
@@ -80661,15 +80443,15 @@
    "sub": "Intel LGA1851 B860",
    "name": "ASUS Prime B860M-A Mainboard, Sockel LGA 1851, Intel B860, Micro-ATX, DDR5",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/asus-prime-b860m-a-motherboard-socket-lga-1851-intel-b860-micro-atx-ddr5/MBAS-822.html",
-   "stand": "2026-11-23T16:12",
+   "url": "https://www.caseking.de/asus-prime-b860m-a-mainboard-sockel-lga-1851-intel-b860-micro-atx-ddr5/MBAS-822.html",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 150,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/asus-prime-b860m-a-motherboard-socket-lga-1851-intel-b860-micro-atx-ddr5/MBAS-822.html"
+     "url": "https://www.caseking.de/asus-prime-b860m-a-mainboard-sockel-lga-1851-intel-b860-micro-atx-ddr5/MBAS-822.html"
     }
    ],
    "price": 150,
@@ -81007,7 +80789,7 @@
    "name": "SilverStone Permafrost PF360-ARGB, V2 AIO Cooler - 360 mm",
    "source": "crawler",
    "url": "https://www.caseking.de/en/silverstone-permafrost-pf360-argb-v2-aio-cooler-360-mm/WASE-606.html",
-   "stand": "2026-11-21T14:03",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
@@ -81050,6 +80832,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 150.9
+    },
+    {
+     "d": "2026-11-23",
      "p": 150.9
     }
    ],
@@ -81206,71 +80992,6 @@
    "count": 1,
    "tags": "kuhlung luftkuhler alphacool apex cpu cooler lga 1700 1851 socket argb black",
    "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-asus-rog-ryujin-iii-240-argb-cpu-wasserkuhlung-240mm-schwarz",
-   "cat": "Kühlung",
-   "sub": "AiO-Wasserkühlung",
-   "name": "ASUS ROG RYUJIN III 240 ARGB CPU-Wasserkühlung 240mm Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/asus-rog-ryujin-iii-240-argb-cpu-wasserkuehlung-240mm-schwarz-8913111/",
-   "stand": "2026-11-20T18:00",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 152.34,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/asus-rog-ryujin-iii-240-argb-cpu-wasserkuehlung-240mm-schwarz-8913111/"
-    }
-   ],
-   "price": 152.34,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-31",
-     "p": 150.57
-    },
-    {
-     "d": "2026-11-01",
-     "p": 150.52
-    },
-    {
-     "d": "2026-11-03",
-     "p": 150.57
-    },
-    {
-     "d": "2026-11-05",
-     "p": 150.07
-    },
-    {
-     "d": "2026-11-07",
-     "p": 150.75
-    },
-    {
-     "d": "2026-11-10",
-     "p": 150.69
-    },
-    {
-     "d": "2026-11-12",
-     "p": 151.94
-    },
-    {
-     "d": "2026-11-15",
-     "p": 152.32
-    },
-    {
-     "d": "2026-11-17",
-     "p": 153.01
-    },
-    {
-     "d": "2026-11-20",
-     "p": 152.34
-    }
-   ],
-   "count": 1,
-   "tags": "kuhlung aio-wasserkuhlung asus rog ryujin iii 240 argb cpu wasserkuhlung 240mm schwarz",
-   "firstSeen": "2026-10-31"
   },
   {
    "id": "c-gigabyte-b550-aorus-elite-ax-v2-mainboard-atx-sockel-am4-ddr",
@@ -81454,6 +81175,75 @@
    "count": 1,
    "tags": "mainboards am5 b650 asus b650e max gaming wifi mainboard atx sockel am5 amd b650 ddr5 schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-rog-ryujin-iii-240-argb-cpu-wasserkuhlung-240mm-schwarz",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "ASUS ROG RYUJIN III 240 ARGB CPU-Wasserkühlung 240mm Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-rog-ryujin-iii-240-argb-cpu-wasserkuehlung-240mm-schwarz-8913111/",
+   "stand": "2026-11-23T18:03",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 153.06,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-rog-ryujin-iii-240-argb-cpu-wasserkuehlung-240mm-schwarz-8913111/"
+    }
+   ],
+   "price": 153.06,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 150.57
+    },
+    {
+     "d": "2026-11-01",
+     "p": 150.52
+    },
+    {
+     "d": "2026-11-03",
+     "p": 150.57
+    },
+    {
+     "d": "2026-11-05",
+     "p": 150.07
+    },
+    {
+     "d": "2026-11-07",
+     "p": 150.75
+    },
+    {
+     "d": "2026-11-10",
+     "p": 150.69
+    },
+    {
+     "d": "2026-11-12",
+     "p": 151.94
+    },
+    {
+     "d": "2026-11-15",
+     "p": 152.32
+    },
+    {
+     "d": "2026-11-17",
+     "p": 153.01
+    },
+    {
+     "d": "2026-11-20",
+     "p": 152.34
+    },
+    {
+     "d": "2026-11-23",
+     "p": 153.06
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung asus rog ryujin iii 240 argb cpu wasserkuhlung 240mm schwarz",
+   "firstSeen": "2026-10-31"
   },
   {
    "id": "c-aoc-q24g4re-gaming-monitor-60-5-cm-23-8-zoll-schwarz-matt-qh",
@@ -82299,7 +82089,7 @@
    "name": "AMD Ryzen 5 8500G 3,5 GHz 6 Kerne 16 MB Cache Sockel AM5",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/amd-ryzen-5-8500g-3-5-ghz-6-kerne-16-mb-cache-sockel-am5-100396811/",
-   "stand": "2026-11-20T20:04",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -82354,6 +82144,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 155.12
+    },
+    {
+     "d": "2026-11-23",
      "p": 155.12
     }
    ],
@@ -85204,15 +84998,15 @@
    "sub": "AiO-Wasserkühlung",
    "name": "SilverStone IceGem 360 AIO Cooler, ARGB - 360 mm",
    "source": "crawler",
-   "url": "https://www.caseking.de/silverstone-icegem-360-aio-wasserkuehlung-argb-360-mm/WASE-499.html",
-   "stand": "2026-11-23T16:12",
+   "url": "https://www.caseking.de/en/silverstone-icegem-360-aio-cooler-argb-360-mm/WASE-499.html",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 161.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/silverstone-icegem-360-aio-wasserkuehlung-argb-360-mm/WASE-499.html"
+     "url": "https://www.caseking.de/en/silverstone-icegem-360-aio-cooler-argb-360-mm/WASE-499.html"
     }
    ],
    "price": 161.9,
@@ -85380,7 +85174,7 @@
    "name": "ASUS PRIME B840M-A Mainboard, Sockel AM5, AMD B840, Micro-ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-prime-b840m-a-motherboard-am5-socket-amd-b840-micro-atx-ddr5/MBAS-811.html",
-   "stand": "2026-11-21T11:49",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
@@ -85435,6 +85229,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 162.52
+    },
+    {
+     "d": "2026-11-23",
      "p": 162.52
     }
    ],
@@ -87496,6 +87294,67 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-alphacool-eisbaer-pro-aurora-240-aio-cooler-d-rgb-240mm",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Alphacool Eisbaer Pro Aurora 240 AIO Cooler, D-RGB - 240mm",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/alphacool-eisbaer-pro-aurora-240-aio-cooler-d-rgb-240mm/WASE-540.html",
+   "stand": "2026-11-23T18:03",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 167.36,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/alphacool-eisbaer-pro-aurora-240-aio-cooler-d-rgb-240mm/WASE-540.html"
+    }
+   ],
+   "price": 167.36,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-06",
+     "p": 196.9
+    },
+    {
+     "d": "2026-11-07",
+     "p": 196.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 196.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 196.9
+    },
+    {
+     "d": "2026-11-14",
+     "p": 196.9
+    },
+    {
+     "d": "2026-11-17",
+     "p": 196.9
+    },
+    {
+     "d": "2026-11-19",
+     "p": 196.9
+    },
+    {
+     "d": "2026-11-21",
+     "p": 196.9
+    },
+    {
+     "d": "2026-11-23",
+     "p": 167.36
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung alphacool eisbaer pro aurora 240 aio cooler rgb 240mm",
+   "firstSeen": "2026-11-06"
+  },
+  {
    "id": "c-asus-prime-b650m-a-ii-csm-amd-b650-motherboard-socket-am5-dd",
    "cat": "Mainboards",
    "sub": "AM5 B650",
@@ -87574,15 +87433,15 @@
    "sub": "Intel LGA1851 B860",
    "name": "ASUS Prime B860-Plus WiFi Mainboard, Sockel LGA 1851, Intel B860, ATX, DDR5",
    "source": "crawler",
-   "url": "https://www.caseking.de/asus-prime-b860-plus-wifi-mainboard-sockel-lga-1851-intel-b860-atx-ddr5/MBAS-819.html",
-   "stand": "2026-11-22T11:47",
+   "url": "https://www.caseking.de/en/asus-prime-b860-plus-wifi-motherboard-socket-lga-1851-intel-b860-atx-ddr5/MBAS-819.html",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 167.66,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/asus-prime-b860-plus-wifi-mainboard-sockel-lga-1851-intel-b860-atx-ddr5/MBAS-819.html"
+     "url": "https://www.caseking.de/en/asus-prime-b860-plus-wifi-motherboard-socket-lga-1851-intel-b860-atx-ddr5/MBAS-819.html"
     }
    ],
    "price": 167.66,
@@ -87646,6 +87505,10 @@
     },
     {
      "d": "2026-11-22",
+     "p": 167.66
+    },
+    {
+     "d": "2026-11-23",
      "p": 167.66
     }
    ],
@@ -89047,13 +88910,13 @@
    "name": "MSI Pro B760-P WiFi, Sockel LGA 1700, Intel B760, ATX -DDR4",
    "source": "crawler",
    "url": "https://www.caseking.de/en/msi-pro-b760-p-wifi-socket-lga-1700-intel-b760-atx-ddr4/MBMC-529.html",
-   "stand": "2026-11-21T11:49",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 169.9,
      "ship": null,
-     "avail": "Vorbestellung",
+     "avail": "Auf Lager",
      "url": "https://www.caseking.de/en/msi-pro-b760-p-wifi-socket-lga-1700-intel-b760-atx-ddr4/MBMC-529.html"
     }
    ],
@@ -89090,6 +88953,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 169.9
+    },
+    {
+     "d": "2026-11-23",
      "p": 169.9
     }
    ],
@@ -89255,7 +89122,7 @@
    "name": "UGREEN EU Boîtier SSD M.2 NVMe UGREEN 80Gbps avec Thunderbolt 5/4 et USB 4",
    "source": "crawler",
    "url": "https://eu.ugreen.com/pt/products/caixa-para-ssd-m-2-nvme-80-gbps-thunderbolt-5-e-usb-4?variant=54326032728412",
-   "stand": "2026-11-23T16:12",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "UGREEN EU",
@@ -91680,7 +91547,7 @@
    "name": "ASUS ROG Strix 850 Platinum Netzteil, 80 PLUS Platinum, modular, PCIe 5.1 - 850 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-850-platinum-power-supply-80-plus-platinum-modular-pcie-5.1-850-watts/NEAS-037.html",
-   "stand": "2026-11-21T14:03",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
@@ -91743,6 +91610,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 179.9
+    },
+    {
+     "d": "2026-11-23",
      "p": 179.9
     }
    ],
@@ -94675,7 +94546,7 @@
    "name": "Kingston FURY Beast DDR4 16 GB RAM 3200 MHz DIMM CL16 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-beast-ddr4-16-gb-ram-3200-mhz-dimm-cl16-schwarz-7287400/",
-   "stand": "2026-11-20T18:00",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -94734,6 +94605,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 191.45
+    },
+    {
+     "d": "2026-11-23",
      "p": 191.45
     }
    ],
@@ -95751,7 +95626,7 @@
    "name": "ASUS ROG RYUJIN III WB, CPU-Kühler",
    "source": "crawler",
    "url": "https://www.alternate.de/ASUS/ROG-RYUJIN-III-WB-CPU-K%C3%BChler/html/product/100082541",
-   "stand": "2026-11-21T21:45",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -95810,6 +95685,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 196
+    },
+    {
+     "d": "2026-11-23",
      "p": 196
     }
    ],
@@ -96141,63 +96020,6 @@
    "count": 1,
    "tags": "kuhlung aio-wasserkuhlung alphacool eisbaer aurora hpe edition 360 cpu aio 360mm wasserkuhlung",
    "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-alphacool-eisbaer-pro-aurora-240-aio-cooler-d-rgb-240mm",
-   "cat": "Kühlung",
-   "sub": "AiO-Wasserkühlung",
-   "name": "Alphacool Eisbaer Pro Aurora 240 AIO Cooler, D-RGB - 240mm",
-   "source": "crawler",
-   "url": "https://www.caseking.de/en/alphacool-eisbaer-pro-aurora-240-aio-cooler-d-rgb-240mm/WASE-540.html",
-   "stand": "2026-11-21T14:03",
-   "offers": [
-    {
-     "shop": "caseking.de",
-     "price": 196.9,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/alphacool-eisbaer-pro-aurora-240-aio-cooler-d-rgb-240mm/WASE-540.html"
-    }
-   ],
-   "price": 196.9,
-   "shop": "caseking.de",
-   "hist": [
-    {
-     "d": "2026-11-06",
-     "p": 196.9
-    },
-    {
-     "d": "2026-11-07",
-     "p": 196.9
-    },
-    {
-     "d": "2026-11-10",
-     "p": 196.9
-    },
-    {
-     "d": "2026-11-12",
-     "p": 196.9
-    },
-    {
-     "d": "2026-11-14",
-     "p": 196.9
-    },
-    {
-     "d": "2026-11-17",
-     "p": 196.9
-    },
-    {
-     "d": "2026-11-19",
-     "p": 196.9
-    },
-    {
-     "d": "2026-11-21",
-     "p": 196.9
-    }
-   ],
-   "count": 1,
-   "tags": "kuhlung aio-wasserkuhlung alphacool eisbaer pro aurora 240 aio cooler rgb 240mm",
-   "firstSeen": "2026-11-06"
   },
   {
    "id": "c-asrock-z890-pro-rs-intel-z890-mainboard-sockel-lga-1851-inte",
@@ -98142,7 +97964,7 @@
    "name": "ASUS ZenScreen MB14AC Tragbarer Monitor 14\" Full HD IPS USB-C Dunkelgrau",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-zenscreen-mb14ac-tragbarer-monitor-14-full-hd-ips-usb-c-dunkelgrau-6492054/",
-   "stand": "2026-11-20T20:04",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -98201,6 +98023,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 202.85
+    },
+    {
+     "d": "2026-11-23",
      "p": 202.85
     }
    ],
@@ -98483,7 +98309,7 @@
    "name": "ASUS TUF Gaming B850M-Plus Mainboard, Sockel AM5, AMD B850, Micro-ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-tuf-gaming-b850m-plus-motherboard-socket-am5-amd-b850-micro-atx-ddr5/MBAS-808.html",
-   "stand": "2026-11-21T11:49",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
@@ -98538,6 +98364,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 203.86
+    },
+    {
+     "d": "2026-11-23",
      "p": 203.86
     }
    ],
@@ -99448,7 +99278,7 @@
    "name": "Kingston FURY Beast KF560C30BBE-8 8 GB RAM 6000 MHz DDR5 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-beast-kf560c30bbe-8-8-gb-ram-6000-mhz-ddr5-schwarz-100502469/",
-   "stand": "2026-11-20T18:00",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -99507,6 +99337,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 208.75
+    },
+    {
+     "d": "2026-11-23",
      "p": 208.75
     }
    ],
@@ -100433,7 +100267,7 @@
    "name": "GIGABYTE Z790 Aorus Elite AX, Sockel LGA 1700, Intel Z790, ATX - DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/gigabyte-z790-aorus-elite-ax-socket-lga-1700-intel-z790-atx-ddr5/MBGB-518.html",
-   "stand": "2026-11-21T11:49",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
@@ -100476,6 +100310,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 212.75
+    },
+    {
+     "d": "2026-11-23",
      "p": 212.75
     }
    ],
@@ -102047,6 +101885,83 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asrock-x870-pro-rs-wifi-am5-atx-ddr5-white",
+   "cat": "Mainboards",
+   "sub": "AM5 X870",
+   "name": "ASRock X870 Pro RS WiFi AM5 ATX DDR5 White",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asrock-x870-pro-rs-wifi-am5-atx-ddr5-white-100508668/",
+   "stand": "2026-11-23T18:03",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 218.89,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asrock-x870-pro-rs-wifi-am5-atx-ddr5-white-100508668/"
+    }
+   ],
+   "price": 218.89,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 218.34
+    },
+    {
+     "d": "2026-10-31",
+     "p": 218.34
+    },
+    {
+     "d": "2026-11-01",
+     "p": 218.34
+    },
+    {
+     "d": "2026-11-02",
+     "p": 218.34
+    },
+    {
+     "d": "2026-11-03",
+     "p": 216
+    },
+    {
+     "d": "2026-11-05",
+     "p": 216.06
+    },
+    {
+     "d": "2026-11-07",
+     "p": 216.76
+    },
+    {
+     "d": "2026-11-10",
+     "p": 220.82
+    },
+    {
+     "d": "2026-11-12",
+     "p": 219.95
+    },
+    {
+     "d": "2026-11-15",
+     "p": 220.82
+    },
+    {
+     "d": "2026-11-17",
+     "p": 220.82
+    },
+    {
+     "d": "2026-11-20",
+     "p": 220.82
+    },
+    {
+     "d": "2026-11-23",
+     "p": 218.89
+    }
+   ],
+   "count": 1,
+   "tags": "mainboards am5 x870 asrock x870 pro wifi am5 atx ddr5 white",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-asus-prime-b850-plus-wifi-mainboard-atx-sockel-am5-ddr5-wi-f",
    "cat": "Mainboards",
    "sub": "AM5 B850",
@@ -103180,79 +103095,6 @@
    ],
    "count": 1,
    "tags": "monitore 27\" dell se2725hm led monitor 1920 1080 full 1080p 100 ips 250 1000 hdmi vga mit years",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-asrock-x870-pro-rs-wifi-am5-atx-ddr5-white",
-   "cat": "Mainboards",
-   "sub": "AM5 X870",
-   "name": "ASRock X870 Pro RS WiFi AM5 ATX DDR5 White",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/asrock-x870-pro-rs-wifi-am5-atx-ddr5-white-100508668/",
-   "stand": "2026-11-20T18:00",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 220.82,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/asrock-x870-pro-rs-wifi-am5-atx-ddr5-white-100508668/"
-    }
-   ],
-   "price": 220.82,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 218.34
-    },
-    {
-     "d": "2026-10-31",
-     "p": 218.34
-    },
-    {
-     "d": "2026-11-01",
-     "p": 218.34
-    },
-    {
-     "d": "2026-11-02",
-     "p": 218.34
-    },
-    {
-     "d": "2026-11-03",
-     "p": 216
-    },
-    {
-     "d": "2026-11-05",
-     "p": 216.06
-    },
-    {
-     "d": "2026-11-07",
-     "p": 216.76
-    },
-    {
-     "d": "2026-11-10",
-     "p": 220.82
-    },
-    {
-     "d": "2026-11-12",
-     "p": 219.95
-    },
-    {
-     "d": "2026-11-15",
-     "p": 220.82
-    },
-    {
-     "d": "2026-11-17",
-     "p": 220.82
-    },
-    {
-     "d": "2026-11-20",
-     "p": 220.82
-    }
-   ],
-   "count": 1,
-   "tags": "mainboards am5 x870 asrock x870 pro wifi am5 atx ddr5 white",
    "firstSeen": "2026-10-30"
   },
   {
@@ -106341,7 +106183,7 @@
    "name": "SanDisk WD_BLACK SN8100 SSD 1TB M.2 2280 PCIe Gen5 NVMe Internes Solid-State-Module",
    "source": "crawler",
    "url": "https://www.notebooksbilliger.de/wd_black+sn8100+ssd+1tb+m2+2280+pcie+gen5+nvme+892674",
-   "stand": "2026-11-23T16:12",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "Notebooksbilliger",
@@ -106860,7 +106702,7 @@
    "name": "ASUS ROG Strix 1000 Platinum Netzteil, 80 PLUS Platinum, modular, PCIe 5.1 - 1.000 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-1000-platinum-power-supply-80-plus-platinum-modular-pcie-5.1-1-000-watts/NEAS-036.html",
-   "stand": "2026-11-21T14:03",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
@@ -106923,6 +106765,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 239.9
+    },
+    {
+     "d": "2026-11-23",
      "p": 239.9
     }
    ],
@@ -108739,7 +108585,7 @@
    "name": "ASUS ROG Strix B860-A Gaming WiFi Mainboard, Sockel LGA 1851, Intel B860, ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-b860-a-gaming-wifi-motherboard-socket-lga-1851-intel-b860-atx-ddr5/MBAS-813.html",
-   "stand": "2026-11-21T11:49",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
@@ -108794,6 +108640,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 249.08
+    },
+    {
+     "d": "2026-11-23",
      "p": 249.08
     }
    ],
@@ -108921,15 +108771,15 @@
    "sub": "1000 W+",
    "name": "ASUS ROG Strix 1000W Platinum, 80 PLUS Platinum Netzteil, modular, PCIe 5.1 - 1.000 Watt, weiß",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/asus-rog-strix-1000w-platinum-80-plus-platinum-power-supply-modular-pcie-5.1-1-000-watts-white/NEAS-041.html",
-   "stand": "2026-11-21T14:03",
+   "url": "https://www.caseking.de/asus-rog-strix-1000w-platinum-80-plus-platinum-netzteil-modular-pcie-5.1-1.000-watt-weiss/NEAS-041.html",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 249.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/asus-rog-strix-1000w-platinum-80-plus-platinum-power-supply-modular-pcie-5.1-1-000-watts-white/NEAS-041.html"
+     "url": "https://www.caseking.de/asus-rog-strix-1000w-platinum-80-plus-platinum-netzteil-modular-pcie-5.1-1.000-watt-weiss/NEAS-041.html"
     }
    ],
    "price": 249.9,
@@ -108985,6 +108835,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 249.9
+    },
+    {
+     "d": "2026-11-23",
      "p": 249.9
     }
    ],
@@ -109166,83 +109020,6 @@
    "count": 1,
    "tags": "mainboards am5 b850 msi mpg b850 edge wifi mainboard sockel am5 amd atx ddr5",
    "firstSeen": "2026-11-08"
-  },
-  {
-   "id": "c-patriot-p400-lite-ssd-pcie-4-0-m-2-typ-2280-2-tb",
-   "cat": "SSDs",
-   "sub": "PCIe 4.0 2 TB",
-   "name": "Patriot P400 Lite SSD, PCIe 4.0 M.2 Typ 2280 - 2 TB",
-   "source": "crawler",
-   "url": "https://www.caseking.de/en/patriot-p400-lite-ssd-pcie-4.0-m.2-type-2280-2-tb/SSPM-026.html",
-   "stand": "2026-11-21T14:03",
-   "offers": [
-    {
-     "shop": "caseking.de",
-     "price": 251.05,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/patriot-p400-lite-ssd-pcie-4.0-m.2-type-2280-2-tb/SSPM-026.html"
-    }
-   ],
-   "price": 251.05,
-   "shop": "caseking.de",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 251.05
-    },
-    {
-     "d": "2026-10-31",
-     "p": 251.05
-    },
-    {
-     "d": "2026-11-02",
-     "p": 251.05
-    },
-    {
-     "d": "2026-11-03",
-     "p": 251.05
-    },
-    {
-     "d": "2026-11-04",
-     "p": 251.05
-    },
-    {
-     "d": "2026-11-05",
-     "p": 251.05
-    },
-    {
-     "d": "2026-11-07",
-     "p": 251.05
-    },
-    {
-     "d": "2026-11-09",
-     "p": 251.05
-    },
-    {
-     "d": "2026-11-12",
-     "p": 251.05
-    },
-    {
-     "d": "2026-11-14",
-     "p": 251.05
-    },
-    {
-     "d": "2026-11-16",
-     "p": 251.05
-    },
-    {
-     "d": "2026-11-19",
-     "p": 251.05
-    },
-    {
-     "d": "2026-11-21",
-     "p": 251.05
-    }
-   ],
-   "count": 1,
-   "tags": "ssds pcie 4.0 2 tb patriot p400 lite ssd pcie typ 2280",
-   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-crucial-t700-nvme-ssd-pcie-5-0-m-2-typ-2280-1-tb-mit-kuhlkor",
@@ -111747,7 +111524,7 @@
    "name": "ASUS ROG Strix B860-F Gaming WiFi Mainboard, Sockel LGA 1851, Intel B860, ATX, DDR5",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-strix-b860-f-gaming-wifi-motherboard-socket-lga-1851-intel-b860-atx-ddr5/MBAS-812.html",
-   "stand": "2026-11-21T11:49",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
@@ -111802,6 +111579,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 268.05
+    },
+    {
+     "d": "2026-11-23",
      "p": 268.05
     }
    ],
@@ -113403,6 +113184,75 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-intel-core-i7-12700k-prozessor-3-6-ghz-12-kerne-25-mb-cache-",
+   "cat": "Prozessoren",
+   "sub": "Intel LGA1700",
+   "name": "Intel Core i7-12700K Prozessor 3.6 GHz 12 Kerne 25 MB Cache LGA 1700",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/intel-core-i7-12700k-prozessor-3-6-ghz-12-kerne-25-mb-cache-lga-1700-7383920/",
+   "stand": "2026-11-23T18:03",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 282.52,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/intel-core-i7-12700k-prozessor-3-6-ghz-12-kerne-25-mb-cache-lga-1700-7383920/"
+    }
+   ],
+   "price": 282.52,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 280.61
+    },
+    {
+     "d": "2026-11-01",
+     "p": 280.61
+    },
+    {
+     "d": "2026-11-03",
+     "p": 280.61
+    },
+    {
+     "d": "2026-11-05",
+     "p": 280.61
+    },
+    {
+     "d": "2026-11-07",
+     "p": 280.61
+    },
+    {
+     "d": "2026-11-10",
+     "p": 304.34
+    },
+    {
+     "d": "2026-11-12",
+     "p": 280.61
+    },
+    {
+     "d": "2026-11-15",
+     "p": 280.61
+    },
+    {
+     "d": "2026-11-17",
+     "p": 290.87
+    },
+    {
+     "d": "2026-11-20",
+     "p": 290.87
+    },
+    {
+     "d": "2026-11-23",
+     "p": 282.52
+    }
+   ],
+   "count": 1,
+   "tags": "prozessoren intel lga1700 intel core 12700k prozessor ghz kerne cache lga 1700",
+   "firstSeen": "2026-10-31"
+  },
+  {
    "id": "c-amd-ryzen-7-5800xt-3-8-ghz-8-kerne-36-mb-cache-sockel-am4",
    "cat": "Prozessoren",
    "sub": "AM4",
@@ -114160,71 +114010,6 @@
    "firstSeen": "2026-11-11"
   },
   {
-   "id": "c-intel-core-i7-12700k-prozessor-3-6-ghz-12-kerne-25-mb-cache-",
-   "cat": "Prozessoren",
-   "sub": "Intel LGA1700",
-   "name": "Intel Core i7-12700K Prozessor 3.6 GHz 12 Kerne 25 MB Cache LGA 1700",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/intel-core-i7-12700k-prozessor-3-6-ghz-12-kerne-25-mb-cache-lga-1700-7383920/",
-   "stand": "2026-11-20T18:00",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 290.87,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/intel-core-i7-12700k-prozessor-3-6-ghz-12-kerne-25-mb-cache-lga-1700-7383920/"
-    }
-   ],
-   "price": 290.87,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-31",
-     "p": 280.61
-    },
-    {
-     "d": "2026-11-01",
-     "p": 280.61
-    },
-    {
-     "d": "2026-11-03",
-     "p": 280.61
-    },
-    {
-     "d": "2026-11-05",
-     "p": 280.61
-    },
-    {
-     "d": "2026-11-07",
-     "p": 280.61
-    },
-    {
-     "d": "2026-11-10",
-     "p": 304.34
-    },
-    {
-     "d": "2026-11-12",
-     "p": 280.61
-    },
-    {
-     "d": "2026-11-15",
-     "p": 280.61
-    },
-    {
-     "d": "2026-11-17",
-     "p": 290.87
-    },
-    {
-     "d": "2026-11-20",
-     "p": 290.87
-    }
-   ],
-   "count": 1,
-   "tags": "prozessoren intel lga1700 intel core 12700k prozessor ghz kerne cache lga 1700",
-   "firstSeen": "2026-10-31"
-  },
-  {
    "id": "c-lenovo-ssd-512-gb-m-2-2242-pcie-4x4",
    "cat": "SSDs",
    "sub": "PCIe 4.0 512 GB",
@@ -114958,7 +114743,7 @@
    "name": "Intel Core Ultra 5 235 3.4 GHz Prozessor 14 Kerne 24 MB Cache",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/intel-core-ultra-5-235-3-4-ghz-prozessor-14-kerne-24-mb-cache-100678511/",
-   "stand": "2026-11-20T18:00",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -115013,6 +114798,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 297.15
+    },
+    {
+     "d": "2026-11-23",
      "p": 297.15
     }
    ],
@@ -117603,7 +117392,7 @@
    "name": "SanDisk WD_BLACK SN770M SSD 2TB M.2 2230 PCIe Gen4 NVMe B-Ware Internes Solid-State-Module",
    "source": "crawler",
    "url": "https://www.notebooksbilliger.de/wd_black+sn770m+ssd+2tb+m2+2230+pcie+gen4+nvme+b+ware+919699",
-   "stand": "2026-11-23T16:12",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "Notebooksbilliger",
@@ -119045,7 +118834,7 @@
    "name": "Hannspree HT240CUA 23,8\" Monitor 1920 x 1080 100 Hz Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/hannspree-ht240cua-23-8-monitor-1920-x-1080-100-hz-schwarz-100591719/",
-   "stand": "2026-11-20T18:00",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -119104,6 +118893,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 332.36
+    },
+    {
+     "d": "2026-11-23",
      "p": 332.36
     }
    ],
@@ -120426,7 +120219,7 @@
    "name": "Intel Xeon 6315P 2.8 GHz Quad-Core Prozessor 12 MB Cache FCLGA1700 OEM",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/intel-xeon-6315p-2-8-ghz-quad-core-prozessor-12-mb-cache-fclga1700-oem-100602965/",
-   "stand": "2026-11-20T18:00",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -120453,6 +120246,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 345.29
+    },
+    {
+     "d": "2026-11-23",
      "p": 345.29
     }
    ],
@@ -120800,7 +120597,7 @@
    "name": "ASUS ROG Loki SFX-L 1200W, 80 PLUS Titanium Netzteil, modular, PCIe 5.0 - 1200 Watt, weiß",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-loki-sfx-l-1200w-80-plus-titanium-power-supply-modular-pcie-5.0-1200-watt-white/NEAS-031.html",
-   "stand": "2026-11-21T14:03",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
@@ -120863,6 +120660,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 349.9
+    },
+    {
+     "d": "2026-11-23",
      "p": 349.9
     }
    ],
@@ -121222,7 +121023,7 @@
    "name": "Sonnet Fusion SSD M.2 4x4 PCIe Card, Schnittstellenkarte",
    "source": "crawler",
    "url": "https://www.alternate.de/Sonnet/Fusion-SSD-M-2-4x4-PCIe-Card-Schnittstellenkarte/html/product/1652769",
-   "stand": "2026-11-22T06:27",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "ALTERNATE",
@@ -121237,6 +121038,10 @@
    "hist": [
     {
      "d": "2026-11-22",
+     "p": 351
+    },
+    {
+     "d": "2026-11-23",
      "p": 351
     }
    ],
@@ -121426,6 +121231,51 @@
    "count": 1,
    "tags": "ssds pcie 5.0 1 tb sandisk optimus pro 8100 ssd pcie gen5 nvme",
    "firstSeen": "2026-11-15"
+  },
+  {
+   "id": "c-asus-rog-ryuo-iv-360-argb-all-in-one-cpu-wasserkuhlung-6-67-",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "ASUS ROG RYUO IV 360 ARGB All-in-One CPU-Wasserkühlung 6,67\" AMOLED Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-rog-ryuo-iv-360-argb-all-in-one-cpu-wasserkuehlung-6-67-amoled-schwarz-100692720/",
+   "stand": "2026-11-23T18:03",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 355.56,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-rog-ryuo-iv-360-argb-all-in-one-cpu-wasserkuehlung-6-67-amoled-schwarz-100692720/"
+    }
+   ],
+   "price": 355.56,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-12",
+     "p": 412.86
+    },
+    {
+     "d": "2026-11-15",
+     "p": 412.86
+    },
+    {
+     "d": "2026-11-17",
+     "p": 412.86
+    },
+    {
+     "d": "2026-11-20",
+     "p": 412.86
+    },
+    {
+     "d": "2026-11-23",
+     "p": 355.56
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung asus rog ryuo 360 argb all one cpu wasserkuhlung amoled schwarz",
+   "firstSeen": "2026-11-12"
   },
   {
    "id": "c-asus-rog-strix-x870-a-gaming-wifi-mainboard-amd-x870-am5-ddr",
@@ -124171,15 +124021,15 @@
    "sub": "AM5 X870",
    "name": "Gigabyte X870E AORUS Pro Mainboard, Sockel AM5, AMD X870E, ATX, DDR5",
    "source": "crawler",
-   "url": "https://www.caseking.de/gigabyte-x870e-aorus-pro-mainboard-sockel-am5-amd-x870e-atx-ddr5/MBGB-617.html",
-   "stand": "2026-11-22T11:47",
+   "url": "https://www.caseking.de/en/gigabyte-x870e-aorus-pro-motherboard-socket-am5-amd-x870e-atx-ddr5/MBGB-617.html",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 379.9,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/gigabyte-x870e-aorus-pro-mainboard-sockel-am5-amd-x870e-atx-ddr5/MBGB-617.html"
+     "url": "https://www.caseking.de/en/gigabyte-x870e-aorus-pro-motherboard-socket-am5-amd-x870e-atx-ddr5/MBGB-617.html"
     }
    ],
    "price": 379.9,
@@ -124243,6 +124093,10 @@
     },
     {
      "d": "2026-11-22",
+     "p": 379.9
+    },
+    {
+     "d": "2026-11-23",
      "p": 379.9
     }
    ],
@@ -124314,7 +124168,7 @@
    "name": "ASUS ROG STRIX Z890-E GAMING WIFI Mainboard ATX LGA1851 DDR5 Wi-Fi 7 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-rog-strix-z890-e-gaming-wifi-mainboard-atx-lga1851-ddr5-wi-fi-7-schwarz-100512728/",
-   "stand": "2026-11-20T18:00",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -124373,6 +124227,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 380.8
+    },
+    {
+     "d": "2026-11-23",
      "p": 380.8
     }
    ],
@@ -126813,7 +126671,7 @@
    "name": "ASUS ROG MAXIMUS Z890 HERO Mainboard ATX LGA1851 Intel Z890 DDR5 Wi-Fi 7 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-rog-maximus-z890-hero-mainboard-atx-lga1851-intel-z890-ddr5-wi-fi-7-schwarz-100510010/",
-   "stand": "2026-11-20T18:00",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -126872,6 +126730,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 408.82
+    },
+    {
+     "d": "2026-11-23",
      "p": 408.82
     }
    ],
@@ -127032,7 +126894,7 @@
    "name": "ASUS ROG Thor Platinum III, 80 PLUS Platinum Netzteil, modular, ATX 3.1, PCIe 5.1 - 1.000 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-thor-platinum-iii-80-plus-platinum-power-supply-modular-atx-3.1-pcie-5.1-1-000-watts/NEAS-040.html",
-   "stand": "2026-11-21T14:03",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
@@ -127095,6 +126957,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 409.9
+    },
+    {
+     "d": "2026-11-23",
      "p": 409.9
     }
    ],
@@ -127258,15 +127124,15 @@
    "sub": "Intel LGA1851 Z890",
    "name": "ASUS ROG Maximus Z890 Hero Mainboard, Sockel LGA 1851, Intel Z890, ATX, DDR5",
    "source": "crawler",
-   "url": "https://www.caseking.de/asus-rog-maximus-z890-hero-mainboard-sockel-lga-1851-intel-z890-atx-ddr5/MBAS-791.html",
-   "stand": "2026-11-22T11:47",
+   "url": "https://www.caseking.de/en/asus-rog-maximus-z890-hero-motherboard-socket-lga-1851-intel-z890-atx-ddr5/MBAS-791.html",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 410.54,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/asus-rog-maximus-z890-hero-mainboard-sockel-lga-1851-intel-z890-atx-ddr5/MBAS-791.html"
+     "url": "https://www.caseking.de/en/asus-rog-maximus-z890-hero-motherboard-socket-lga-1851-intel-z890-atx-ddr5/MBAS-791.html"
     }
    ],
    "price": 410.54,
@@ -127330,6 +127196,10 @@
     },
     {
      "d": "2026-11-22",
+     "p": 410.54
+    },
+    {
+     "d": "2026-11-23",
      "p": 410.54
     }
    ],
@@ -127409,47 +127279,6 @@
    "count": 1,
    "tags": "monitore 27\" aoc agon pro ag276fk gaming monitor 1920 1080 ips 520 matte gray",
    "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-asus-rog-ryuo-iv-360-argb-all-in-one-cpu-wasserkuhlung-6-67-",
-   "cat": "Kühlung",
-   "sub": "AiO-Wasserkühlung",
-   "name": "ASUS ROG RYUO IV 360 ARGB All-in-One CPU-Wasserkühlung 6,67\" AMOLED Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/asus-rog-ryuo-iv-360-argb-all-in-one-cpu-wasserkuehlung-6-67-amoled-schwarz-100692720/",
-   "stand": "2026-11-20T18:00",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 412.86,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/asus-rog-ryuo-iv-360-argb-all-in-one-cpu-wasserkuehlung-6-67-amoled-schwarz-100692720/"
-    }
-   ],
-   "price": 412.86,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-12",
-     "p": 412.86
-    },
-    {
-     "d": "2026-11-15",
-     "p": 412.86
-    },
-    {
-     "d": "2026-11-17",
-     "p": 412.86
-    },
-    {
-     "d": "2026-11-20",
-     "p": 412.86
-    }
-   ],
-   "count": 1,
-   "tags": "kuhlung aio-wasserkuhlung asus rog ryuo 360 argb all one cpu wasserkuhlung amoled schwarz",
-   "firstSeen": "2026-11-12"
   },
   {
    "id": "c-pny-xlr8-cs3150-2-tb-ssd-m-2-2280-pci-express-5-0-x4-nvme",
@@ -127743,39 +127572,6 @@
    "count": 1,
    "tags": "monitore 24,5\" aoc agon pro ag256fs gaming monitor zoll schwarz matt fullhd fast ips usb hub adaptive sync",
    "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-renkforce-pc-tuning-kit-intel-core-i5-12400-4-4-ghz-16-gb-dd",
-   "cat": "Arbeitsspeicher",
-   "sub": "DDR4 16 GB",
-   "name": "Renkforce PC Tuning-Kit Intel® Core™ i5-12400 4.4 GHz 16 GB DDR4-RAM M.2 PCIe Micro-ATX",
-   "source": "crawler",
-   "url": "https://www.conrad.de/de/p/renkforce-pc-tuning-kit-intel-core-i5-12400-4-4-ghz-16-gb-ddr4-ram-m-2-pcie-micro-atx-3333811.html",
-   "stand": "2026-11-20T18:00",
-   "offers": [
-    {
-     "shop": "Conrad",
-     "price": 415.97,
-     "ship": 0,
-     "avail": "Auf Lager",
-     "url": "https://www.conrad.de/de/p/renkforce-pc-tuning-kit-intel-core-i5-12400-4-4-ghz-16-gb-ddr4-ram-m-2-pcie-micro-atx-3333811.html"
-    }
-   ],
-   "price": 415.97,
-   "shop": "Conrad",
-   "hist": [
-    {
-     "d": "2026-11-19",
-     "p": 415.97
-    },
-    {
-     "d": "2026-11-20",
-     "p": 415.97
-    }
-   ],
-   "count": 1,
-   "tags": "arbeitsspeicher ddr4 16 gb renkforce tuning kit intel core 12400 ghz ddr4 ram pcie micro atx",
-   "firstSeen": "2026-11-19"
   },
   {
    "id": "c-asus-rog-strix-x870e-h-gaming-wifi7-mainboard-atx-sockel-am5",
@@ -128652,7 +128448,7 @@
    "name": "Kingston FURY Beast DDR5 16 GB RAM 6400 MHz DIMM Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/kingston-fury-beast-ddr5-16-gb-ram-6400-mhz-dimm-schwarz-100545272/",
-   "stand": "2026-11-20T18:00",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -128711,6 +128507,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 429.64
+    },
+    {
+     "d": "2026-11-23",
      "p": 429.64
     }
    ],
@@ -129148,7 +128948,7 @@
    "name": "ASUS ROG Thor Platinum III, 80 PLUS Platinum Netzteil, modular, ATX 3.1, PCIe 5.1 - 1.200 Watt",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-rog-thor-platinum-iii-80-plus-platinum-power-supply-modular-atx-3.1-pcie-5.1-1-200-watts/NEAS-039.html",
-   "stand": "2026-11-21T14:03",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
@@ -129211,6 +129011,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 439.9
+    },
+    {
+     "d": "2026-11-23",
      "p": 439.9
     }
    ],
@@ -129636,15 +129440,15 @@
    "sub": "GeForce RTX 5050",
    "name": "ASUS Dual GeForce RTX 5050 OC Edition, 8192 MB GDDR6",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/asus-dual-geforce-rtx-5050-oc-edition-8192-mb-gddr6/GCAS-697.html",
-   "stand": "2026-11-21T14:03",
+   "url": "https://www.caseking.de/asus-dual-geforce-rtx-5050-oc-edition-8192-mb-gddr6/GCAS-697.html",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 450.19,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/asus-dual-geforce-rtx-5050-oc-edition-8192-mb-gddr6/GCAS-697.html"
+     "url": "https://www.caseking.de/asus-dual-geforce-rtx-5050-oc-edition-8192-mb-gddr6/GCAS-697.html"
     }
    ],
    "price": 450.19,
@@ -129696,6 +129500,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 450.19
+    },
+    {
+     "d": "2026-11-23",
      "p": 450.19
     }
    ],
@@ -130840,39 +130648,6 @@
    "count": 1,
    "tags": "ssds pcie 4.0 1 tb lenovo ssd 2280 pcie 4x4 nvme opal",
    "firstSeen": "2026-11-22"
-  },
-  {
-   "id": "c-innovation-it-pc-intel-i3-14100-ssd-m-2-nvme-core-i3-core-i3",
-   "cat": "SSDs",
-   "sub": "NVMe",
-   "name": "INNOVATION IT - PC Intel i3-14100 SSD M.2 NVMe - Core i3 - Core i3 - 16 GB",
-   "source": "crawler",
-   "url": "https://www.conrad.de/de/p/innovation-it-pc-intel-i3-14100-ssd-m-2-nvme-core-i3-core-i3-16-gb-3839436.html",
-   "stand": "2026-11-20T18:00",
-   "offers": [
-    {
-     "shop": "Conrad",
-     "price": 478.15,
-     "ship": 0,
-     "avail": "Auf Lager",
-     "url": "https://www.conrad.de/de/p/innovation-it-pc-intel-i3-14100-ssd-m-2-nvme-core-i3-core-i3-16-gb-3839436.html"
-    }
-   ],
-   "price": 478.15,
-   "shop": "Conrad",
-   "hist": [
-    {
-     "d": "2026-11-19",
-     "p": 478.15
-    },
-    {
-     "d": "2026-11-20",
-     "p": 478.15
-    }
-   ],
-   "count": 1,
-   "tags": "ssds nvme innovation intel 14100 ssd core",
-   "firstSeen": "2026-11-19"
   },
   {
    "id": "c-asus-rog-strix-oled-xg27aqwmg-26-5-zoll-wqhd-gaming-monitor-",
@@ -133527,7 +133302,7 @@
    "name": "GIGABYTE GeForce RTX 5060 Windforce MAX OC 8G, 8192 MB GDDR7",
    "source": "crawler",
    "url": "https://www.caseking.de/en/gigabyte-geforce-rtx-5060-windforce-max-oc-8g-8192-mb-gddr7/GCGB-600.html",
-   "stand": "2026-11-21T14:03",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
@@ -133586,6 +133361,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 534.9
+    },
+    {
+     "d": "2026-11-23",
      "p": 534.9
     }
    ],
@@ -134416,7 +134195,7 @@
    "name": "ASUS Dual GeForce RTX 5060 OC Edition, 8192 MB GDDR7",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-dual-geforce-rtx-5060-oc-edition-8192-mb-gddr7/GCAS-686.html",
-   "stand": "2026-11-21T11:49",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
@@ -134475,6 +134254,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 549
+    },
+    {
+     "d": "2026-11-23",
      "p": 549
     }
    ],
@@ -134862,7 +134645,7 @@
    "name": "ASUS Prime GeForce RTX 5060 OC Edition, 8192 MB GDDR7",
    "source": "crawler",
    "url": "https://www.caseking.de/en/asus-prime-geforce-rtx-5060-oc-edition-8192-mb-gddr7/GCAS-688.html",
-   "stand": "2026-11-21T11:49",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
@@ -134921,6 +134704,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 549.9
+    },
+    {
+     "d": "2026-11-23",
      "p": 549.9
     }
    ],
@@ -135154,7 +134941,7 @@
    "name": "ADATA XPG Lancer BLADE RGB DDR5-6000 RAM, CL36-38-38, XMP 3.0, AMD EXPO - 32 GB Dual Kit, black",
    "source": "crawler",
    "url": "https://www.caseking.de/en/adata-xpg-lancer-blade-rgb-ddr5-6000-ram-cl36-38-38-xmp-3.0-amd-expo-32-gb-dual-kit-black/MEAD-140.html",
-   "stand": "2026-11-21T11:49",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
@@ -135213,6 +135000,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 560.47
+    },
+    {
+     "d": "2026-11-23",
      "p": 560.47
     }
    ],
@@ -135300,7 +135091,7 @@
    "name": "Intel Xeon Silver 4210R Prozessor 2.4 GHz 10-Core 13.75 MB Cache LGA 3647 Tray",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/intel-xeon-silver-4210r-prozessor-2-4-ghz-10-core-13-75-mb-cache-lga-3647-tray-6226204/",
-   "stand": "2026-11-20T18:00",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -135327,6 +135118,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 565.08
+    },
+    {
+     "d": "2026-11-23",
      "p": 565.08
     }
    ],
@@ -138853,7 +138648,7 @@
    "name": "Intel Xeon E-2356G Prozessor 3,2 GHz 6 Kerne LGA 1200",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/intel-xeon-e-2356g-prozessor-3-2-ghz-6-kerne-lga-1200-7373394/",
-   "stand": "2026-11-20T18:00",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -138904,6 +138699,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 630.75
+    },
+    {
+     "d": "2026-11-23",
      "p": 630.75
     }
    ],
@@ -139141,7 +138940,7 @@
    "name": "G.Skill Ripjaws S5 DDR5 32 GB RAM 2x16 GB 5600 MT/s CL40 DIMM 288-Pin Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/g-skill-ripjaws-s5-ddr5-32-gb-ram-2x16-gb-5600-mt-s-cl40-dimm-288-pin-schwarz-7540745/",
-   "stand": "2026-11-20T18:00",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -139200,6 +138999,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 639.61
+    },
+    {
+     "d": "2026-11-23",
      "p": 639.61
     }
    ],
@@ -140810,7 +140613,7 @@
    "name": "Corsair Vengeance DDR5 Kit 32 GB (2 x 16 GB) 6400 MT/s CL32 Grau",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/corsair-vengeance-ddr5-kit-32-gb-2-x-16-gb-6400-mt-s-cl32-grau-100531009/",
-   "stand": "2026-11-20T18:00",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -140869,6 +140672,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 673.14
+    },
+    {
+     "d": "2026-11-23",
      "p": 673.14
     }
    ],
@@ -141139,7 +140946,7 @@
    "name": "Intel Xeon Silver 4214R Server-Prozessor 2.4 GHz 12-Core 16.5 MB Cache LGA 3647 Tray",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/intel-xeon-silver-4214r-server-prozessor-2-4-ghz-12-core-16-5-mb-cache-lga-3647-tray-6226203/",
-   "stand": "2026-11-20T18:00",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -141166,6 +140973,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 677.67
+    },
+    {
+     "d": "2026-11-23",
      "p": 677.67
     }
    ],
@@ -143888,79 +143699,6 @@
    "firstSeen": "2026-11-16"
   },
   {
-   "id": "c-kingston-fury-beast-32-gb-ram-ddr5-6000-cl36-kit-weiss",
-   "cat": "Arbeitsspeicher",
-   "sub": "DDR5 32 GB",
-   "name": "Kingston FURY Beast 32 GB RAM DDR5-6000 CL36 Kit Weiß",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/kingston-fury-beast-32-gb-ram-ddr5-6000-cl36-kit-weiss-100518937/",
-   "stand": "2026-11-20T18:00",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 747.26,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/kingston-fury-beast-32-gb-ram-ddr5-6000-cl36-kit-weiss-100518937/"
-    }
-   ],
-   "price": 747.26,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 731.99
-    },
-    {
-     "d": "2026-10-31",
-     "p": 731.99
-    },
-    {
-     "d": "2026-11-01",
-     "p": 731.99
-    },
-    {
-     "d": "2026-11-02",
-     "p": 731.99
-    },
-    {
-     "d": "2026-11-03",
-     "p": 731.99
-    },
-    {
-     "d": "2026-11-05",
-     "p": 731.99
-    },
-    {
-     "d": "2026-11-08",
-     "p": 731.99
-    },
-    {
-     "d": "2026-11-10",
-     "p": 732.09
-    },
-    {
-     "d": "2026-11-12",
-     "p": 732.09
-    },
-    {
-     "d": "2026-11-15",
-     "p": 732.09
-    },
-    {
-     "d": "2026-11-17",
-     "p": 732.09
-    },
-    {
-     "d": "2026-11-20",
-     "p": 747.26
-    }
-   ],
-   "count": 1,
-   "tags": "arbeitsspeicher ddr5 32 gb kingston fury beast ram ddr5 6000 cl36 kit weiss",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-samsung-viewfinity-s9-ls49f950uauxen-49-curved-dqhd-va-monit",
    "cat": "Monitore",
    "sub": "49\"",
@@ -144040,7 +143778,7 @@
    "name": "PowerColor Hellhound Radeon RX 9060 XT OC Grafikkarte, 16384 MB GDDR6",
    "source": "crawler",
    "url": "https://www.caseking.de/en/powercolor-hellhound-radeon-rx-9060-xt-oc-graphics-card-16384-mb-gddr6/GCPC-071.html",
-   "stand": "2026-11-21T14:03",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
@@ -144099,6 +143837,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 749
+    },
+    {
+     "d": "2026-11-23",
      "p": 749
     }
    ],
@@ -144314,6 +144056,83 @@
    "firstSeen": "2026-11-05"
   },
   {
+   "id": "c-kingston-fury-beast-32-gb-ram-ddr5-6000-cl36-kit-weiss",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 32 GB",
+   "name": "Kingston FURY Beast 32 GB RAM DDR5-6000 CL36 Kit Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/kingston-fury-beast-32-gb-ram-ddr5-6000-cl36-kit-weiss-100518937/",
+   "stand": "2026-11-23T18:03",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 749.3,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/kingston-fury-beast-32-gb-ram-ddr5-6000-cl36-kit-weiss-100518937/"
+    }
+   ],
+   "price": 749.3,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 731.99
+    },
+    {
+     "d": "2026-10-31",
+     "p": 731.99
+    },
+    {
+     "d": "2026-11-01",
+     "p": 731.99
+    },
+    {
+     "d": "2026-11-02",
+     "p": 731.99
+    },
+    {
+     "d": "2026-11-03",
+     "p": 731.99
+    },
+    {
+     "d": "2026-11-05",
+     "p": 731.99
+    },
+    {
+     "d": "2026-11-08",
+     "p": 731.99
+    },
+    {
+     "d": "2026-11-10",
+     "p": 732.09
+    },
+    {
+     "d": "2026-11-12",
+     "p": 732.09
+    },
+    {
+     "d": "2026-11-15",
+     "p": 732.09
+    },
+    {
+     "d": "2026-11-17",
+     "p": 732.09
+    },
+    {
+     "d": "2026-11-20",
+     "p": 747.26
+    },
+    {
+     "d": "2026-11-23",
+     "p": 749.3
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 32 gb kingston fury beast ram ddr5 6000 cl36 kit weiss",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-msi-mpg-272urxde-qd-oled-gaming-monitor-27-3840x2160-240hz-s",
    "cat": "Monitore",
    "sub": "27\"",
@@ -144385,6 +144204,67 @@
    "count": 1,
    "tags": "monitore 27\" msi mpg 272urxde oled gaming monitor 3840x2160 240hz schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-samsung-990-pro-series-nvme-ssd-pcie-4-0-m-2-typ-2280-4-tb",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 4 TB",
+   "name": "Samsung 990 PRO Series NVMe SSD, PCIe 4.0 M.2 Typ 2280 - 4 TB",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/samsung-990-pro-series-nvme-ssd-pcie-4.0-m.2-type-2280-4-tb/SSSS-198.html",
+   "stand": "2026-11-23T18:03",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 749.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/samsung-990-pro-series-nvme-ssd-pcie-4.0-m.2-type-2280-4-tb/SSSS-198.html"
+    }
+   ],
+   "price": 749.9,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 699.9
+    },
+    {
+     "d": "2026-11-07",
+     "p": 699.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 699.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 699.9
+    },
+    {
+     "d": "2026-11-14",
+     "p": 699.9
+    },
+    {
+     "d": "2026-11-16",
+     "p": 749.9
+    },
+    {
+     "d": "2026-11-19",
+     "p": 749.9
+    },
+    {
+     "d": "2026-11-21",
+     "p": 749.9
+    },
+    {
+     "d": "2026-11-23",
+     "p": 749.9
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 4 tb samsung 990 pro series nvme ssd pcie typ 2280",
+   "firstSeen": "2026-11-05"
   },
   {
    "id": "c-alogic-edge-34-wqhd-monitor-3440-x-1440-ips-100-hz-silber",
@@ -144936,6 +144816,10 @@
     {
      "d": "2026-11-22",
      "p": 689
+    },
+    {
+     "d": "2026-11-23",
+     "p": 689
     }
    ],
    "count": 1,
@@ -145319,7 +145203,7 @@
    "name": "G.Skill Trident Z5 RGB DDR5 32 GB RAM 2x16 GB 6400 MHz CL32 Schwarz/Silber",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/g-skill-trident-z5-rgb-ddr5-32-gb-ram-2x16-gb-6400-mhz-cl32-schwarz-silber-7545473/",
-   "stand": "2026-11-20T18:00",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -145378,6 +145262,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 782.71
+    },
+    {
+     "d": "2026-11-23",
      "p": 782.71
     }
    ],
@@ -145692,7 +145580,7 @@
    "name": "Nitro Concepts SM1 curved monitor – 144 Hz, 49\" sim racing display",
    "source": "crawler",
    "url": "https://nitro-concepts.com/products/sm1-curved-monitor-144-hz-49-sim-racing-display?variant=54339679781197",
-   "stand": "2026-11-23T16:12",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "Nitro Concepts",
@@ -145840,6 +145728,83 @@
    "firstSeen": "2026-11-16"
   },
   {
+   "id": "c-kingston-fury-beast-32-gb-ddr5-dimm-6000-mhz-cl30-weiss",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 32 GB",
+   "name": "Kingston FURY Beast 32 GB DDR5 DIMM 6000 MHz CL30 Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/kingston-fury-beast-32-gb-ddr5-dimm-6000-mhz-cl30-weiss-100514595/",
+   "stand": "2026-11-23T18:03",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 804.15,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/kingston-fury-beast-32-gb-ddr5-dimm-6000-mhz-cl30-weiss-100514595/"
+    }
+   ],
+   "price": 804.15,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 788.76
+    },
+    {
+     "d": "2026-10-31",
+     "p": 788.76
+    },
+    {
+     "d": "2026-11-01",
+     "p": 788.76
+    },
+    {
+     "d": "2026-11-02",
+     "p": 788.76
+    },
+    {
+     "d": "2026-11-03",
+     "p": 789.55
+    },
+    {
+     "d": "2026-11-05",
+     "p": 784.73
+    },
+    {
+     "d": "2026-11-08",
+     "p": 788.07
+    },
+    {
+     "d": "2026-11-10",
+     "p": 787.19
+    },
+    {
+     "d": "2026-11-12",
+     "p": 797.67
+    },
+    {
+     "d": "2026-11-15",
+     "p": 798.48
+    },
+    {
+     "d": "2026-11-17",
+     "p": 802.67
+    },
+    {
+     "d": "2026-11-20",
+     "p": 805.12
+    },
+    {
+     "d": "2026-11-23",
+     "p": 804.15
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 32 gb kingston fury beast ddr5 dimm 6000 mhz cl30 weiss",
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "c-philips-49b2u5900c-49-curved-office-monitor-dual-qhd-5120x14",
    "cat": "Monitore",
    "sub": "49\"",
@@ -145910,79 +145875,6 @@
    ],
    "count": 1,
    "tags": "monitore 49\" philips 49b2u5900c curved office monitor dual qhd 5120x1440 75hz usb silber holzkohlefarben",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-kingston-fury-beast-32-gb-ddr5-dimm-6000-mhz-cl30-weiss",
-   "cat": "Arbeitsspeicher",
-   "sub": "DDR5 32 GB",
-   "name": "Kingston FURY Beast 32 GB DDR5 DIMM 6000 MHz CL30 Weiß",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/kingston-fury-beast-32-gb-ddr5-dimm-6000-mhz-cl30-weiss-100514595/",
-   "stand": "2026-11-20T18:00",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 805.12,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/kingston-fury-beast-32-gb-ddr5-dimm-6000-mhz-cl30-weiss-100514595/"
-    }
-   ],
-   "price": 805.12,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 788.76
-    },
-    {
-     "d": "2026-10-31",
-     "p": 788.76
-    },
-    {
-     "d": "2026-11-01",
-     "p": 788.76
-    },
-    {
-     "d": "2026-11-02",
-     "p": 788.76
-    },
-    {
-     "d": "2026-11-03",
-     "p": 789.55
-    },
-    {
-     "d": "2026-11-05",
-     "p": 784.73
-    },
-    {
-     "d": "2026-11-08",
-     "p": 788.07
-    },
-    {
-     "d": "2026-11-10",
-     "p": 787.19
-    },
-    {
-     "d": "2026-11-12",
-     "p": 797.67
-    },
-    {
-     "d": "2026-11-15",
-     "p": 798.48
-    },
-    {
-     "d": "2026-11-17",
-     "p": 802.67
-    },
-    {
-     "d": "2026-11-20",
-     "p": 805.12
-    }
-   ],
-   "count": 1,
-   "tags": "arbeitsspeicher ddr5 32 gb kingston fury beast ddr5 dimm 6000 mhz cl30 weiss",
    "firstSeen": "2026-10-30"
   },
   {
@@ -146690,7 +146582,7 @@
    "name": "Intel Xeon E-2478 2,8 GHz Prozessor 8 Kerne 24 MB Cache",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/intel-xeon-e-2478-2-8-ghz-prozessor-8-kerne-24-mb-cache-100437567/",
-   "stand": "2026-11-20T18:00",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -146745,6 +146637,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 827
+    },
+    {
+     "d": "2026-11-23",
      "p": 827
     }
    ],
@@ -148780,7 +148676,7 @@
    "name": "Gainward GeForce RTX 5060 Ti Python III, 16384 MB GDDR7",
    "source": "crawler",
    "url": "https://www.caseking.de/en/gainward-geforce-rtx-5060-ti-python-iii-16384-mb-gddr7/GCGW-144.html",
-   "stand": "2026-11-21T14:03",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
@@ -148839,6 +148735,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 879
+    },
+    {
+     "d": "2026-11-23",
      "p": 879
     }
    ],
@@ -149441,7 +149341,7 @@
    "name": "ASUS ProArt PA16USV 15,6\" 4K UHD IPS Monitor 3840x2160 Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/asus-proart-pa16usv-15-6-4k-uhd-ips-monitor-3840x2160-schwarz-100600304/",
-   "stand": "2026-11-20T20:04",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -149500,6 +149400,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 904.19
+    },
+    {
+     "d": "2026-11-23",
      "p": 904.19
     }
    ],
@@ -150805,7 +150709,7 @@
    "name": "Samsung 9100 PRO Series NVMe SSD, PCIe 5.0 M.2 Typ 2280, mit Kühlkörper - 4TB",
    "source": "crawler",
    "url": "https://www.caseking.de/samsung-9100-pro-series-nvme-ssd-pcie-5.0-m.2-typ-2280-mit-kuehlkoerper-4tb/SSSS-212.html",
-   "stand": "2026-11-21T11:49",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
@@ -150848,6 +150752,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 949.9
+    },
+    {
+     "d": "2026-11-23",
      "p": 949.9
     }
    ],
@@ -151718,7 +151626,7 @@
    "name": "Gainward GeForce RTX 5070 Python III, 12288 MB GDDR7",
    "source": "crawler",
    "url": "https://www.caseking.de/en/gainward-geforce-rtx-5070-python-iii-12288-mb-gddr7/GCGW-143.html",
-   "stand": "2026-11-21T14:03",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
@@ -151777,6 +151685,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 999
+    },
+    {
+     "d": "2026-11-23",
      "p": 999
     }
    ],
@@ -151863,15 +151775,15 @@
    "sub": "Radeon RX 9070 XT",
    "name": "PowerColor Reaper Radeon RX 9070 XT Grafikkarte, 16384 MB GDDR6",
    "source": "crawler",
-   "url": "https://www.caseking.de/en/powercolor-reaper-radeon-rx-9070-xt-graphics-card-16384-mb-gddr6/GCPC-075.html",
-   "stand": "2026-11-21T15:50",
+   "url": "https://www.caseking.de/powercolor-reaper-radeon-rx-9070-xt-grafikkarte-16384-mb-gddr6/GCPC-075.html",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
      "price": 999,
      "ship": null,
      "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/powercolor-reaper-radeon-rx-9070-xt-graphics-card-16384-mb-gddr6/GCPC-075.html"
+     "url": "https://www.caseking.de/powercolor-reaper-radeon-rx-9070-xt-grafikkarte-16384-mb-gddr6/GCPC-075.html"
     }
    ],
    "price": 999,
@@ -151923,6 +151835,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 999
+    },
+    {
+     "d": "2026-11-23",
      "p": 999
     }
    ],
@@ -157628,7 +157544,7 @@
    "name": "Gainward GeForce RTX 5070 Ti Phoenix-S GS, 16384 MB GDDR7",
    "source": "crawler",
    "url": "https://www.caseking.de/en/gainward-geforce-rtx-5070-ti-phoenix-s-gs-16384-mb-gddr7/GCGW-146.html",
-   "stand": "2026-11-21T14:03",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
@@ -157687,6 +157603,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 1549
+    },
+    {
+     "d": "2026-11-23",
      "p": 1549
     }
    ],
@@ -158971,7 +158891,7 @@
    "name": "Corsair Vengeance RGB 96 GB RAM (2x 48 GB) DDR5 7200 MHz CL40 DIMM Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/corsair-vengeance-rgb-96-gb-ram-2x-48-gb-ddr5-7200-mhz-cl40-dimm-schwarz-100533554/",
-   "stand": "2026-11-20T18:00",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -159030,6 +158950,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 1689.97
+    },
+    {
+     "d": "2026-11-23",
      "p": 1689.97
     }
    ],
@@ -159463,7 +159387,7 @@
    "name": "Captiva Advanced Gaming R98-128 Ryzen 5 5500 NVIDIA GeForce RTX 5060 Ti 32 GB RAM 1 TB SSD Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-r98-128-ryzen-5-5500-nvidia-geforce-rtx-5060-ti-32-gb-ram-1-tb-ssd-schwarz-100681618/",
-   "stand": "2026-11-20T18:00",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -159518,6 +159442,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 1767.51
+    },
+    {
+     "d": "2026-11-23",
      "p": 1767.51
     }
    ],
@@ -162148,7 +162076,7 @@
    "name": "Gainward GeForce RTX 5080 Phoenix V1, 16384 MB GDDR7",
    "source": "crawler",
    "url": "https://www.caseking.de/en/gainward-geforce-rtx-5080-phoenix-v1-16384-mb-gddr7/GCGW-140.html",
-   "stand": "2026-11-21T14:03",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "caseking.de",
@@ -162207,6 +162135,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 2169
+    },
+    {
+     "d": "2026-11-23",
      "p": 2169
     }
    ],
@@ -166634,7 +166566,7 @@
    "name": "Captiva Highend Gaming I89-010 Intel Core i7-14700KF NVIDIA GeForce RTX 5080 64 GB RAM 2 TB SSD Schwarz",
    "source": "crawler",
    "url": "https://www.jacob.de/produkt/captiva-highend-gaming-i89-010-intel-core-i7-14700kf-nvidia-geforce-rtx-5080-64-gb-ram-2-tb-ssd-schwarz-100548048/",
-   "stand": "2026-11-20T18:00",
+   "stand": "2026-11-23T18:03",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -166689,6 +166621,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 4403.49
+    },
+    {
+     "d": "2026-11-23",
      "p": 4403.49
     }
    ],

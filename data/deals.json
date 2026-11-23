@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T17:28:53.161Z",
+ "updated": "2026-11-23T18:03:52.475Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -2698,77 +2698,37 @@
    "source": "crawler"
   },
   {
-   "id": "c-bequiet-pure-rock-pro-3-lx-black-cpu-kuhler-mit-lufter",
-   "name": "BeQuiet PURE ROCK PRO 3 LX Black CPU-Kühler mit Lüfter",
+   "id": "c-ux400-argb-lighting-cpu-kuhler-black",
+   "name": "UX400 ARGB Lighting CPU Kühler - Black",
    "cat": "Kühlung",
-   "price": 40.33,
-   "ref": 50.9,
-   "shop": "Conrad",
-   "shopUrl": "https://www.conrad.de/de/p/bequiet-pure-rock-pro-3-lx-black-cpu-kuehler-mit-luefter-3540455.html",
-   "url": "https://www.conrad.de/de/p/bequiet-pure-rock-pro-3-lx-black-cpu-kuehler-mit-luefter-3540455.html",
+   "price": 19.77,
+   "ref": 24.99,
+   "shop": "Thermaltake LCGS",
+   "shopUrl": "https://lcgs.thermaltake.de/en/products/ux400-argb-lighting-black-cpu-kuehler?variant=51662864941395",
+   "url": "https://lcgs.thermaltake.de/en/products/ux400-argb-lighting-black-cpu-kuehler?variant=51662864941395",
    "note": "21 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
-     "d": "2026-10-29",
-     "p": 44.9
-    },
-    {
-     "d": "2026-10-30",
-     "p": 44.9
-    },
-    {
-     "d": "2026-11-01",
-     "p": 44.9
-    },
-    {
-     "d": "2026-11-03",
-     "p": 50.9
-    },
-    {
-     "d": "2026-11-04",
-     "p": 50.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 50.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 50.9
-    },
-    {
-     "d": "2026-11-11",
-     "p": 50.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 50.9
-    },
-    {
-     "d": "2026-11-15",
-     "p": 50.9
-    },
-    {
-     "d": "2026-11-18",
-     "p": 50.9
-    },
-    {
-     "d": "2026-11-19",
-     "p": 41.17
-    },
-    {
      "d": "2026-11-20",
-     "p": 40.33
+     "p": 24.99
+    },
+    {
+     "d": "2026-11-21",
+     "p": 24.99
     },
     {
      "d": "2026-11-22",
-     "p": 40.33
+     "p": 24.99
+    },
+    {
+     "d": "2026-11-23",
+     "p": 19.77
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
    "seen": "2026-11-23",
    "updated": "2026-11-23",
-   "tags": "kuhlung luftkuhler bequiet pure rock pro black cpu kuhler mit lufter",
+   "tags": "kuhlung luftkuhler ux400 argb lighting cpu kuhler black",
    "source": "crawler"
   },
   {
@@ -4880,6 +4840,60 @@
    "source": "crawler"
   },
   {
+   "id": "c-alphacool-eisbaer-pro-aurora-240-aio-cooler-d-rgb-240mm",
+   "name": "Alphacool Eisbaer Pro Aurora 240 AIO Cooler, D-RGB - 240mm",
+   "cat": "Kühlung",
+   "price": 167.36,
+   "ref": 196.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/alphacool-eisbaer-pro-aurora-240-aio-cooler-d-rgb-240mm/WASE-540.html",
+   "url": "https://www.caseking.de/en/alphacool-eisbaer-pro-aurora-240-aio-cooler-d-rgb-240mm/WASE-540.html",
+   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-06",
+     "p": 196.9
+    },
+    {
+     "d": "2026-11-07",
+     "p": 196.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 196.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 196.9
+    },
+    {
+     "d": "2026-11-14",
+     "p": 196.9
+    },
+    {
+     "d": "2026-11-17",
+     "p": 196.9
+    },
+    {
+     "d": "2026-11-19",
+     "p": 196.9
+    },
+    {
+     "d": "2026-11-21",
+     "p": 196.9
+    },
+    {
+     "d": "2026-11-23",
+     "p": 167.36
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-23",
+   "updated": "2026-11-23",
+   "tags": "kuhlung aio-wasserkuhlung alphacool eisbaer pro aurora 240 aio cooler rgb 240mm",
+   "source": "crawler"
+  },
+  {
    "id": "c-asus-prime-radeon-rx-9070-xt-oc-edition-grafikkarte-16384-mb",
    "name": "ASUS Prime Radeon RX 9070 XT OC Edition Grafikkarte, 16384 MB GDDR6",
    "cat": "Grafikkarten",
@@ -5211,6 +5225,44 @@
    "seen": "2026-11-23",
    "updated": "2026-11-23",
    "tags": "monitore 17,3\" asus zenscreen mb17ahg ips monitor 1920 1080 144 schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-asus-rog-ryuo-iv-360-argb-all-in-one-cpu-wasserkuhlung-6-67-",
+   "name": "ASUS ROG RYUO IV 360 ARGB All-in-One CPU-Wasserkühlung 6,67\" AMOLED Schwarz",
+   "cat": "Kühlung",
+   "price": 355.56,
+   "ref": 412.86,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/asus-rog-ryuo-iv-360-argb-all-in-one-cpu-wasserkuehlung-6-67-amoled-schwarz-100692720/",
+   "url": "https://www.jacob.de/produkt/asus-rog-ryuo-iv-360-argb-all-in-one-cpu-wasserkuehlung-6-67-amoled-schwarz-100692720/",
+   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-12",
+     "p": 412.86
+    },
+    {
+     "d": "2026-11-15",
+     "p": 412.86
+    },
+    {
+     "d": "2026-11-17",
+     "p": 412.86
+    },
+    {
+     "d": "2026-11-20",
+     "p": 412.86
+    },
+    {
+     "d": "2026-11-23",
+     "p": 355.56
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-23",
+   "updated": "2026-11-23",
+   "tags": "kuhlung aio-wasserkuhlung asus rog ryuo 360 argb all one cpu wasserkuhlung amoled schwarz",
    "source": "crawler"
   },
   {
@@ -5564,6 +5616,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 8199
+    },
+    {
+     "d": "2026-11-23",
      "p": 8199
     }
    ],
@@ -6071,150 +6127,6 @@
    "seen": "2026-11-23",
    "updated": "2026-11-23",
    "tags": "ssds nvme 512 gb lenovo 00up642 ssd 2280 512 pcie nvme",
-   "source": "crawler"
-  },
-  {
-   "id": "c-intel-core-i7-14700f-2-1-ghz-raptor-lake-refresh-sockel-1700",
-   "name": "Intel Core i7-14700F 2,1 GHz (Raptor Lake Refresh) Sockel 1700 - boxed",
-   "cat": "Prozessoren",
-   "price": 289,
-   "ref": 327.32,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/intel-core-i7-14700f-2.1-ghz-raptor-lake-refresh-socket-1700-boxed/HPIT-823.html",
-   "url": "https://www.caseking.de/en/intel-core-i7-14700f-2.1-ghz-raptor-lake-refresh-socket-1700-boxed/HPIT-823.html",
-   "note": "12 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-29",
-     "p": 327.32
-    },
-    {
-     "d": "2026-10-30",
-     "p": 327.32
-    },
-    {
-     "d": "2026-10-31",
-     "p": 327.32
-    },
-    {
-     "d": "2026-11-01",
-     "p": 327.32
-    },
-    {
-     "d": "2026-11-03",
-     "p": 327.32
-    },
-    {
-     "d": "2026-11-05",
-     "p": 327.32
-    },
-    {
-     "d": "2026-11-07",
-     "p": 327.32
-    },
-    {
-     "d": "2026-11-09",
-     "p": 327.32
-    },
-    {
-     "d": "2026-11-12",
-     "p": 327.32
-    },
-    {
-     "d": "2026-11-14",
-     "p": 327.32
-    },
-    {
-     "d": "2026-11-16",
-     "p": 327.32
-    },
-    {
-     "d": "2026-11-19",
-     "p": 289
-    },
-    {
-     "d": "2026-11-20",
-     "p": 289
-    },
-    {
-     "d": "2026-11-22",
-     "p": 289
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-23",
-   "updated": "2026-11-23",
-   "tags": "prozessoren intel lga1700 intel core 14700f ghz raptor lake refresh sockel 1700 boxed",
-   "source": "crawler"
-  },
-  {
-   "id": "c-asus-b850-max-gaming-wifi-w-mainboard-atx-sockel-am5-amd-b85",
-   "name": "ASUS B850 MAX GAMING WIFI W Mainboard ATX Sockel AM5 AMD B850 DDR5 Weiß",
-   "cat": "Mainboards",
-   "price": 225.09,
-   "ref": 254.16,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/asus-b850-max-gaming-wifi-w-mainboard-atx-sockel-am5-amd-b850-ddr5-weiss-100568096/",
-   "url": "https://www.jacob.de/produkt/asus-b850-max-gaming-wifi-w-mainboard-atx-sockel-am5-amd-b850-ddr5-weiss-100568096/",
-   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 254.16
-    },
-    {
-     "d": "2026-10-31",
-     "p": 254.16
-    },
-    {
-     "d": "2026-11-01",
-     "p": 254.16
-    },
-    {
-     "d": "2026-11-02",
-     "p": 254.16
-    },
-    {
-     "d": "2026-11-03",
-     "p": 254.16
-    },
-    {
-     "d": "2026-11-05",
-     "p": 254.16
-    },
-    {
-     "d": "2026-11-07",
-     "p": 254.16
-    },
-    {
-     "d": "2026-11-10",
-     "p": 225.86
-    },
-    {
-     "d": "2026-11-12",
-     "p": 225.09
-    },
-    {
-     "d": "2026-11-14",
-     "p": 222.88
-    },
-    {
-     "d": "2026-11-17",
-     "p": 223.87
-    },
-    {
-     "d": "2026-11-20",
-     "p": 225.09
-    },
-    {
-     "d": "2026-11-23",
-     "p": 225.09
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-23",
-   "updated": "2026-11-23",
-   "tags": "mainboards am5 b850 asus b850 max gaming wifi mainboard atx sockel am5 amd ddr5 weiss",
    "source": "crawler"
   }
  ],
