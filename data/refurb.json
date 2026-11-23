@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T20:07:10.319Z",
+ "updated": "2026-11-23T21:56:44.237Z",
  "products": [
   {
    "id": "r-acer-b246hylbymiprx-23-8-full-hd-1920x1080-display-hdmi-disp",
@@ -2651,29 +2651,6 @@
     }
    ],
    "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-dell-optiplex-5060-sff-intel-core-i5-8500-256gb-ssd-8gb-wind",
-   "cat": "PCs & Workstations",
-   "name": "Dell OptiPlex 5060 SFF Intel Core i5-8500 256GB SSD 8GB Windows 11 Pro",
-   "brand": "Dell",
-   "price": 229,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/dell-optiplex-5060-sff-intel-core-i5-8500-256gb-ssd-8gb-windows-11-pro",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Optiplex-5060-SFF-0_034762d8-375d-432c-8d51-d32d85ad8a8a.jpg?v=1757519894",
-   "hist": [
-    {
-     "d": "2026-11-19",
-     "p": 229
-    },
-    {
-     "d": "2026-11-20",
-     "p": 229
-    }
-   ],
-   "firstSeen": "2026-11-19"
   },
   {
    "id": "r-fujitsu-esprimo-q558-intel-core-i3-8100-8gb-ram-256gb-ssd-wi",
@@ -11531,81 +11508,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "r-lenovo-thinkpad-x1-yoga-gen-4-14-touch-display-intel-core-i7",
-   "cat": "Laptops",
-   "name": "Lenovo ThinkPad X1 Yoga Gen 4, 14\" Touch Display, Intel Core i7 8665U, 16GB RAM, 512GB SSD, Fingerprint Reader, Windows 11 Pro, Office & Media Software Suite",
-   "brand": "Lenovo",
-   "price": 359,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/lenovo-thinkpad-x1-yoga-gen-4-14-touch-display-intel-core-i7-8665u-16gb-ram-512gb-ssd-fingerprint-reader-windows-11-pro-office-media-software-suite-2",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-X1-Yoga-G4-0_25575644-c703-4272-a8ab-ac78e15284a5.jpg?v=1770990853",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 359
-    },
-    {
-     "d": "2026-10-31",
-     "p": 359
-    },
-    {
-     "d": "2026-11-01",
-     "p": 359
-    },
-    {
-     "d": "2026-11-02",
-     "p": 359
-    },
-    {
-     "d": "2026-11-03",
-     "p": 359
-    },
-    {
-     "d": "2026-11-11",
-     "p": 359
-    },
-    {
-     "d": "2026-11-12",
-     "p": 359
-    },
-    {
-     "d": "2026-11-13",
-     "p": 359
-    },
-    {
-     "d": "2026-11-14",
-     "p": 359
-    },
-    {
-     "d": "2026-11-15",
-     "p": 359
-    },
-    {
-     "d": "2026-11-16",
-     "p": 359
-    },
-    {
-     "d": "2026-11-17",
-     "p": 359
-    },
-    {
-     "d": "2026-11-18",
-     "p": 359
-    },
-    {
-     "d": "2026-11-19",
-     "p": 359
-    },
-    {
-     "d": "2026-11-20",
-     "p": 359
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "r-lenovo-thinkpad-x1-yoga-gen-5-14-touch-display-intel-core-i5",
    "cat": "Laptops",
    "name": "Lenovo ThinkPad X1 Yoga Gen 5, 14\" Touch Display, Intel Core i5 10310U, 8GB RAM, 256GB SSD, LTE 4G, Windows 11 Pro, Office & Media Software Suite",
@@ -13426,6 +13328,25 @@
     }
    ],
    "firstSeen": "2026-11-18"
+  },
+  {
+   "id": "r-lenovo-thinkpad-t14-gen-1-14-fhd-display-intel-core-i5-10310",
+   "cat": "Laptops",
+   "name": "Lenovo ThinkPad T14 Gen 1, 14\" FHD Display, Intel Core i5 10310U, 8GB RAM, 256GB SSD, Webcam, Windows 11 Pro, ESET Internet Security",
+   "brand": "Lenovo",
+   "price": 359,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkpad-t14-gen-1-14-fhd-display-intel-core-i5-10310u-8gb-ram-256gb-ssd-webcam-windows-11-pro-eset-internet-security-2",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-T14-G1-2_e51bed74-3e51-474d-aaa8-00242a1d7a71.jpg?v=1770990552",
+   "hist": [
+    {
+     "d": "2026-11-23",
+     "p": 359
+    }
+   ],
+   "firstSeen": "2026-11-23"
   },
   {
    "id": "r-hp-elitedesk-800-g5-desktop-mini-intel-core-i5-9500t-16gb-ra",
@@ -21317,85 +21238,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "r-hp-elitebook-840-g8-14-fhd-display-intel-core-i5-1135g7-16gb",
-   "cat": "Laptops",
-   "name": "HP EliteBook 840 G8, 14\" FHD Display, Intel Core i5 1135G7, 16GB RAM, 256GB SSD, Webcam, LTE 5G, Windows 11 Pro",
-   "brand": "HP",
-   "price": 399,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/hp-elitebook-840-g8-14-fhd-display-intel-core-i5-1135g7-16gb-ram-256gb-ssd-webcam-lte-5g-windows-11-pro",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-840-G8-0_df823264-3411-47c0-b3b1-6aeca79298d7.jpg?v=1770990672",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 399
-    },
-    {
-     "d": "2026-10-31",
-     "p": 399
-    },
-    {
-     "d": "2026-11-01",
-     "p": 399
-    },
-    {
-     "d": "2026-11-02",
-     "p": 399
-    },
-    {
-     "d": "2026-11-03",
-     "p": 399
-    },
-    {
-     "d": "2026-11-04",
-     "p": 399
-    },
-    {
-     "d": "2026-11-05",
-     "p": 399
-    },
-    {
-     "d": "2026-11-06",
-     "p": 399
-    },
-    {
-     "d": "2026-11-07",
-     "p": 399
-    },
-    {
-     "d": "2026-11-08",
-     "p": 399
-    },
-    {
-     "d": "2026-11-09",
-     "p": 399
-    },
-    {
-     "d": "2026-11-10",
-     "p": 399
-    },
-    {
-     "d": "2026-11-11",
-     "p": 399
-    },
-    {
-     "d": "2026-11-12",
-     "p": 399
-    },
-    {
-     "d": "2026-11-13",
-     "p": 399
-    },
-    {
-     "d": "2026-11-20",
-     "p": 399
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "r-lenovo-thinkpad-t490-14-zoll-touch-display-intel-core-i5-256",
    "cat": "Laptops",
    "name": "Lenovo ThinkPad T490 14 Zoll Touch Display Intel Core i5 256GB SSD 16GB Windows 11 Pro Webcam",
@@ -27898,6 +27740,25 @@
    "firstSeen": "2026-11-23"
   },
   {
+   "id": "r-hp-elitebook-850-g5-15-6-fhd-display-intel-core-i5-8250u-16g",
+   "cat": "Laptops",
+   "name": "HP EliteBook 850 G5, 15,6\" FHD Display, Intel Core i5 8250U, 16GB RAM, 512GB SSD, Webcam, Windows 11 Pro, ESET Internet Security",
+   "brand": "HP",
+   "price": 429,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/hp-elitebook-850-g5-15-6-fhd-display-intel-core-i5-8250u-16gb-ram-512gb-ssd-webcam-windows-11-pro-eset-internet-security",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-850-G5-0_2cec0f2a-fc78-4e5d-8fee-9054829ed178.jpg?v=1770990733",
+   "hist": [
+    {
+     "d": "2026-11-23",
+     "p": 429
+    }
+   ],
+   "firstSeen": "2026-11-23"
+  },
+  {
    "id": "r-lenovo-thinkpad-x13-yoga-gen-1-13-3-zoll-touch-display-intel",
    "cat": "Laptops",
    "name": "Lenovo ThinkPad X13 Yoga Gen 1 13,3 Zoll Touch Display Intel Core i5 256GB SSD 16GB Windows 11 Pro LTE",
@@ -32284,6 +32145,25 @@
    "url": "https://it-versand.com/products/dell-latitude-5520-15-6-zoll-1920x1080-full-hd-intel-core-i5-512gb-ssd-16gb-windows-11-pro-webcam-3",
    "avail": "Auf Lager",
    "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Latitude-5520-1_684e122d-bf64-4ec6-80ff-dba6d23816f9.png?v=1770992113",
+   "hist": [
+    {
+     "d": "2026-11-23",
+     "p": 449
+    }
+   ],
+   "firstSeen": "2026-11-23"
+  },
+  {
+   "id": "r-dell-latitude-5320-13-3-fhd-display-intel-core-i5-1145g7-16g",
+   "cat": "Laptops",
+   "name": "Dell Latitude 5320, 13,3\" FHD Display, Intel Core i5 1145G7, 16GB RAM, 256GB SSD, LTE 4G, Windows 11 Pro, ESET Internet Security",
+   "brand": "Dell",
+   "price": 449,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/dell-latitude-5320-13-3-fhd-display-intel-core-i5-1145g7-16gb-ram-256gb-ssd-lte-4g-windows-11-pro-eset-internet-security",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Latitude-5320-1_54ec19dd-605b-49a3-8436-1eec22cf34bc.png?v=1770990614",
    "hist": [
     {
      "d": "2026-11-23",
@@ -51418,109 +51298,6 @@
     },
     {
      "d": "2026-11-23",
-     "p": 559
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-hp-elitedesk-800-g6-desktop-mini-intel-core-i5-10500t-16gb-r",
-   "cat": "PCs & Workstations",
-   "name": "HP EliteDesk 800 G6 Desktop Mini, Intel Core i5 10500T, 16GB RAM, 256GB SSD, Windows 11 Pro",
-   "brand": "HP",
-   "price": 559,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/hp-elitedesk-800-g6-desktop-mini-intel-core-i5-10500t-16gb-ram-256gb-ssd-windows-11-pro-5",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteDesk-800-G6-DM-0_b17699f8-0e4b-4f0f-b536-8377a701978a.jpg?v=1757519131",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 559
-    },
-    {
-     "d": "2026-10-31",
-     "p": 559
-    },
-    {
-     "d": "2026-11-01",
-     "p": 559
-    },
-    {
-     "d": "2026-11-02",
-     "p": 559
-    },
-    {
-     "d": "2026-11-03",
-     "p": 559
-    },
-    {
-     "d": "2026-11-04",
-     "p": 559
-    },
-    {
-     "d": "2026-11-05",
-     "p": 559
-    },
-    {
-     "d": "2026-11-06",
-     "p": 559
-    },
-    {
-     "d": "2026-11-07",
-     "p": 559
-    },
-    {
-     "d": "2026-11-08",
-     "p": 559
-    },
-    {
-     "d": "2026-11-09",
-     "p": 559
-    },
-    {
-     "d": "2026-11-10",
-     "p": 559
-    },
-    {
-     "d": "2026-11-11",
-     "p": 559
-    },
-    {
-     "d": "2026-11-12",
-     "p": 559
-    },
-    {
-     "d": "2026-11-13",
-     "p": 559
-    },
-    {
-     "d": "2026-11-14",
-     "p": 559
-    },
-    {
-     "d": "2026-11-15",
-     "p": 559
-    },
-    {
-     "d": "2026-11-16",
-     "p": 559
-    },
-    {
-     "d": "2026-11-17",
-     "p": 559
-    },
-    {
-     "d": "2026-11-18",
-     "p": 559
-    },
-    {
-     "d": "2026-11-19",
-     "p": 559
-    },
-    {
-     "d": "2026-11-20",
      "p": 559
     }
    ],
