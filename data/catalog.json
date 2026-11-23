@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T10:17:57.314Z",
+ "updated": "2026-11-23T11:28:01.632Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -155798,6 +155798,35 @@
    "firstSeen": "2026-11-19"
   },
   {
+   "id": "c-acer-nitro-v-17-ai-anv17-41-17-3-ryzen-7-260-16-gb-ram-1-tb-",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5070",
+   "name": "Acer Nitro V 17 AI ANV17-41 17.3\" Ryzen 7 260 16 GB RAM 1 TB SSD GeForce RTX 5070 Obsidian Black",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/acer-nitro-v-17-ai-anv17-41-17-3-ryzen-7-260-16-gb-ram-1-tb-ssd-geforce-rtx-5070-obsidian-black-100676402/",
+   "stand": "2026-11-23T11:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1411.46,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/acer-nitro-v-17-ai-anv17-41-17-3-ryzen-7-260-16-gb-ram-1-tb-ssd-geforce-rtx-5070-obsidian-black-100676402/"
+    }
+   ],
+   "price": 1411.46,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-23",
+     "p": 1411.46
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5070 acer nitro anv17 ryzen 260 ram ssd geforce rtx 5070 obsidian black",
+   "firstSeen": "2026-11-23"
+  },
+  {
    "id": "c-captiva-entry-gaming-r10-2365-amd-ryzen-5-8400f-amd-radeon-r",
    "cat": "Grafikkarten",
    "sub": "Radeon RX 9060 XT",
@@ -158487,6 +158516,35 @@
    "count": 1,
    "tags": "grafikkarten geforce rtx 5060 ti captiva entry gaming r10 2380 amd ryzen 5500 nvidia geforce rtx 5060 ram ssd schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-captiva-advanced-gaming-r95-860-amd-ryzen-5-9500f-32-gb-ram-",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060",
+   "name": "CAPTIVA Advanced Gaming R95-860 AMD Ryzen 5 9500F 32 GB RAM 1 TB SSD NVIDIA GeForce RTX 5060 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-r95-860-amd-ryzen-5-9500f-32-gb-ram-1-tb-ssd-nvidia-geforce-rtx-5060-schwarz-100675963/",
+   "stand": "2026-11-23T11:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1751.7,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-r95-860-amd-ryzen-5-9500f-32-gb-ram-1-tb-ssd-nvidia-geforce-rtx-5060-schwarz-100675963/"
+    }
+   ],
+   "price": 1751.7,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-23",
+     "p": 1751.7
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 captiva advanced gaming r95 860 amd ryzen 9500f ram ssd nvidia geforce rtx 5060 schwarz",
+   "firstSeen": "2026-11-23"
   },
   {
    "id": "c-captiva-entry-gaming-r10-2378-amd-ryzen-7-8700f-32-gb-ram-1-",
@@ -161640,6 +161698,35 @@
    "count": 1,
    "tags": "grafikkarten geforce rtx 5070 captiva highend gaming r89 846 amd ryzen 7500f nvidia geforce rtx 5070 ram ssd schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-captiva-highend-gaming-r94-617-amd-ryzen-5-7600x-nvidia-gefo",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5070",
+   "name": "Captiva Highend Gaming R94-617 AMD Ryzen 5 7600X NVIDIA GeForce RTX 5070 32 GB RAM 1 TB SSD Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r94-617-amd-ryzen-5-7600x-nvidia-geforce-rtx-5070-32-gb-ram-1-tb-ssd-schwarz-100672340/",
+   "stand": "2026-11-23T11:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 2299.29,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r94-617-amd-ryzen-5-7600x-nvidia-geforce-rtx-5070-32-gb-ram-1-tb-ssd-schwarz-100672340/"
+    }
+   ],
+   "price": 2299.29,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-23",
+     "p": 2299.29
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5070 captiva highend gaming r94 617 amd ryzen 7600x nvidia geforce rtx 5070 ram ssd schwarz",
+   "firstSeen": "2026-11-23"
   },
   {
    "id": "c-captiva-entry-gaming-r10-2398-amd-ryzen-5-7500x3d-32-gb-ram-",
@@ -165079,6 +165166,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-captiva-highend-gaming-r88-872-amd-ryzen-7-7800x3d-nvidia-ge",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5080",
+   "name": "CAPTIVA Highend Gaming R88-872 AMD Ryzen 7 7800X3D NVIDIA GeForce RTX 5080 32 GB RAM 1 TB SSD Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r88-872-amd-ryzen-7-7800x3d-nvidia-geforce-rtx-5080-32-gb-ram-1-tb-ssd-schwarz-100547957/",
+   "stand": "2026-11-23T11:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 3778.29,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r88-872-amd-ryzen-7-7800x3d-nvidia-geforce-rtx-5080-32-gb-ram-1-tb-ssd-schwarz-100547957/"
+    }
+   ],
+   "price": 3778.29,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-23",
+     "p": 3778.29
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5080 captiva highend gaming r88 872 amd ryzen 7800x3d nvidia geforce rtx 5080 ram ssd schwarz",
+   "firstSeen": "2026-11-23"
+  },
+  {
    "id": "c-captiva-highend-gaming-r89-103-amd-ryzen-9-9950x-nvidia-gefo",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5080",
@@ -165288,6 +165404,35 @@
    "count": 1,
    "tags": "grafikkarten geforce rtx 5080 captiva highend gaming r89 102 amd ryzen 9950x nvidia geforce rtx 5080 ram ssd schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-captiva-highend-gaming-r90-239-amd-ryzen-9-9900x3d-nvidia-ge",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5070",
+   "name": "CAPTIVA Highend Gaming R90-239 AMD Ryzen 9 9900X3D NVIDIA GeForce RTX 5070 64 GB RAM 2 TB SSD Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r90-239-amd-ryzen-9-9900x3d-nvidia-geforce-rtx-5070-64-gb-ram-2-tb-ssd-schwarz-100559291/",
+   "stand": "2026-11-23T11:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 4028.32,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r90-239-amd-ryzen-9-9900x3d-nvidia-geforce-rtx-5070-64-gb-ram-2-tb-ssd-schwarz-100559291/"
+    }
+   ],
+   "price": 4028.32,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-23",
+     "p": 4028.32
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5070 captiva highend gaming r90 239 amd ryzen 9900x3d nvidia geforce rtx 5070 ram ssd schwarz",
+   "firstSeen": "2026-11-23"
   },
   {
    "id": "c-captiva-highend-gaming-r89-084-amd-ryzen-7-9800x3d-nvidia-ge",
