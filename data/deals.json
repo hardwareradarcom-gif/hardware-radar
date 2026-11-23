@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T08:41:04.226Z",
+ "updated": "2026-11-23T10:17:57.314Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1971,6 +1971,10 @@
     {
      "d": "2026-11-20",
      "p": 69.9
+    },
+    {
+     "d": "2026-11-23",
+     "p": 69.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -2036,6 +2040,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 821.85
+    },
+    {
+     "d": "2026-11-23",
      "p": 821.85
     }
    ],
@@ -3986,6 +3994,706 @@
    "source": "crawler"
   },
   {
+   "id": "c-alphacool-core-1-lt-cpu-cooler-black",
+   "name": "Alphacool Core 1 LT CPU Cooler - Black",
+   "cat": "Kühlung",
+   "price": 67.91,
+   "ref": 79.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/alphacool-core-1-lt-cpu-cooler-black/WACP-552.html",
+   "url": "https://www.caseking.de/en/alphacool-core-1-lt-cpu-cooler-black/WACP-552.html",
+   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 79.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 79.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 79.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 79.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 79.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 79.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 79.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 79.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 79.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 79.9
+    },
+    {
+     "d": "2026-11-20",
+     "p": 79.9
+    },
+    {
+     "d": "2026-11-22",
+     "p": 79.9
+    },
+    {
+     "d": "2026-11-23",
+     "p": 67.91
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-23",
+   "updated": "2026-11-23",
+   "tags": "kuhlung luftkuhler alphacool core cpu cooler black",
+   "source": "crawler"
+  },
+  {
+   "id": "c-alphacool-core-1-aurora-lt-cpu-kuhler-argb-acryl",
+   "name": "Alphacool Core 1 Aurora LT CPU-Kühler - ARGB, Acryl",
+   "cat": "Kühlung",
+   "price": 72.16,
+   "ref": 84.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/alphacool-core-1-aurora-lt-cpu-cooler-argb-acrylic/WACP-551.html",
+   "url": "https://www.caseking.de/en/alphacool-core-1-aurora-lt-cpu-cooler-argb-acrylic/WACP-551.html",
+   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 84.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 84.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 84.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 84.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 84.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 84.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 84.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 84.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 84.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 84.9
+    },
+    {
+     "d": "2026-11-20",
+     "p": 84.9
+    },
+    {
+     "d": "2026-11-22",
+     "p": 84.9
+    },
+    {
+     "d": "2026-11-23",
+     "p": 72.16
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-23",
+   "updated": "2026-11-23",
+   "tags": "kuhlung luftkuhler alphacool core aurora cpu kuhler argb acryl",
+   "source": "crawler"
+  },
+  {
+   "id": "c-alphacool-core-1-cpu-cooler-black",
+   "name": "Alphacool Core 1 CPU Cooler - Black",
+   "cat": "Kühlung",
+   "price": 90.01,
+   "ref": 105.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/alphacool-core-1-cpu-cooler-black/WACP-533.html",
+   "url": "https://www.caseking.de/en/alphacool-core-1-cpu-cooler-black/WACP-533.html",
+   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 105.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 105.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 105.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 105.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 105.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 105.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 105.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 105.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 105.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 105.9
+    },
+    {
+     "d": "2026-11-20",
+     "p": 105.9
+    },
+    {
+     "d": "2026-11-22",
+     "p": 105.9
+    },
+    {
+     "d": "2026-11-23",
+     "p": 90.01
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-23",
+   "updated": "2026-11-23",
+   "tags": "kuhlung luftkuhler alphacool core cpu cooler black",
+   "source": "crawler"
+  },
+  {
+   "id": "c-alphacool-core-1-cpu-kuhler-weiss",
+   "name": "Alphacool Core 1 CPU-Kühler - Weiß",
+   "cat": "Kühlung",
+   "price": 98.51,
+   "ref": 115.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/alphacool-core-1-cpu-cooler-white/WACP-535.html",
+   "url": "https://www.caseking.de/en/alphacool-core-1-cpu-cooler-white/WACP-535.html",
+   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 115.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 115.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 115.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 115.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 115.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 115.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 115.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 115.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 115.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 115.9
+    },
+    {
+     "d": "2026-11-20",
+     "p": 115.9
+    },
+    {
+     "d": "2026-11-22",
+     "p": 115.9
+    },
+    {
+     "d": "2026-11-23",
+     "p": 98.51
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-23",
+   "updated": "2026-11-23",
+   "tags": "kuhlung luftkuhler alphacool core cpu kuhler weiss",
+   "source": "crawler"
+  },
+  {
+   "id": "c-alphacool-core-1-aurora-cpu-cooler-argb-black",
+   "name": "Alphacool Core 1 Aurora CPU cooler, ARGB - Black",
+   "cat": "Kühlung",
+   "price": 101.91,
+   "ref": 119.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/alphacool-core-1-aurora-cpu-cooler-argb-black/WACP-536.html",
+   "url": "https://www.caseking.de/en/alphacool-core-1-aurora-cpu-cooler-argb-black/WACP-536.html",
+   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 119.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 119.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 119.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 119.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 119.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 119.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 119.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 119.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 119.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 119.9
+    },
+    {
+     "d": "2026-11-20",
+     "p": 119.9
+    },
+    {
+     "d": "2026-11-22",
+     "p": 119.9
+    },
+    {
+     "d": "2026-11-23",
+     "p": 101.91
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-23",
+   "updated": "2026-11-23",
+   "tags": "kuhlung luftkuhler alphacool core aurora cpu cooler argb black",
+   "source": "crawler"
+  },
+  {
+   "id": "c-alphacool-core-1-cpu-kuhler-carbon",
+   "name": "Alphacool Core 1 CPU-Kühler - Carbon",
+   "cat": "Kühlung",
+   "price": 101.91,
+   "ref": 119.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/alphacool-core-1-cpu-cooler-carbon/WACP-553.html",
+   "url": "https://www.caseking.de/en/alphacool-core-1-cpu-cooler-carbon/WACP-553.html",
+   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 119.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 119.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 119.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 119.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 119.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 119.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 119.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 119.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 119.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 119.9
+    },
+    {
+     "d": "2026-11-20",
+     "p": 119.9
+    },
+    {
+     "d": "2026-11-22",
+     "p": 119.9
+    },
+    {
+     "d": "2026-11-23",
+     "p": 101.91
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-23",
+   "updated": "2026-11-23",
+   "tags": "kuhlung luftkuhler alphacool core cpu kuhler carbon",
+   "source": "crawler"
+  },
+  {
+   "id": "c-alphacool-core-1-aurora-cpu-kuhler-argb-weiss",
+   "name": "Alphacool Core 1 Aurora CPU-Kühler, ARGB - weiß",
+   "cat": "Kühlung",
+   "price": 116.36,
+   "ref": 136.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/alphacool-core-1-aurora-cpu-cooler-argb-white/WACH-874.html",
+   "url": "https://www.caseking.de/en/alphacool-core-1-aurora-cpu-cooler-argb-white/WACH-874.html",
+   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 136.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 136.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 136.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 136.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 136.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 136.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 136.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 136.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 136.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 136.9
+    },
+    {
+     "d": "2026-11-20",
+     "p": 136.9
+    },
+    {
+     "d": "2026-11-22",
+     "p": 136.9
+    },
+    {
+     "d": "2026-11-23",
+     "p": 116.36
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-23",
+   "updated": "2026-11-23",
+   "tags": "kuhlung luftkuhler alphacool core aurora cpu kuhler argb weiss",
+   "source": "crawler"
+  },
+  {
+   "id": "c-alphacool-core-1-aurora-cpu-kuhler-a-rgb-carbon",
+   "name": "Alphacool Core 1 Aurora CPU-Kühler - A-RGB, Carbon",
+   "cat": "Kühlung",
+   "price": 116.36,
+   "ref": 136.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/alphacool-core-1-aurora-cpu-cooler-a-rgb-carbon/WACP-550.html",
+   "url": "https://www.caseking.de/en/alphacool-core-1-aurora-cpu-cooler-a-rgb-carbon/WACP-550.html",
+   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 136.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 136.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 136.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 136.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 136.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 136.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 136.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 136.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 136.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 136.9
+    },
+    {
+     "d": "2026-11-20",
+     "p": 136.9
+    },
+    {
+     "d": "2026-11-22",
+     "p": 136.9
+    },
+    {
+     "d": "2026-11-23",
+     "p": 116.36
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-23",
+   "updated": "2026-11-23",
+   "tags": "kuhlung luftkuhler alphacool core aurora cpu kuhler rgb carbon",
+   "source": "crawler"
+  },
+  {
+   "id": "c-alphacool-apex-1-cpu-cooler-am5-socket-argb-black",
+   "name": "Alphacool Apex 1 CPU cooler, AM5 socket, ARGB - black",
+   "cat": "Kühlung",
+   "price": 135.91,
+   "ref": 159.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/alphacool-apex-1-cpu-cooler-am5-socket-argb-black/WACP-562.html",
+   "url": "https://www.caseking.de/en/alphacool-apex-1-cpu-cooler-am5-socket-argb-black/WACP-562.html",
+   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 159.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 159.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 159.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 159.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 159.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 159.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 159.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 159.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 159.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 159.9
+    },
+    {
+     "d": "2026-11-20",
+     "p": 159.9
+    },
+    {
+     "d": "2026-11-22",
+     "p": 159.9
+    },
+    {
+     "d": "2026-11-23",
+     "p": 135.91
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-23",
+   "updated": "2026-11-23",
+   "tags": "kuhlung luftkuhler alphacool apex cpu cooler am5 socket argb black",
+   "source": "crawler"
+  },
+  {
+   "id": "c-alphacool-apex-1-cpu-cooler-lga-1700-1851-socket-argb-black",
+   "name": "Alphacool Apex 1 CPU cooler, LGA 1700/1851 socket, ARGB - black",
+   "cat": "Kühlung",
+   "price": 152.06,
+   "ref": 178.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/alphacool-apex-1-cpu-cooler-lga-1700-1851-socket-argb-black/WACP-563.html",
+   "url": "https://www.caseking.de/en/alphacool-apex-1-cpu-cooler-lga-1700-1851-socket-argb-black/WACP-563.html",
+   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 178.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 178.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 178.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 178.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 178.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 178.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 178.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 178.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 178.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 178.9
+    },
+    {
+     "d": "2026-11-20",
+     "p": 178.9
+    },
+    {
+     "d": "2026-11-22",
+     "p": 178.9
+    },
+    {
+     "d": "2026-11-23",
+     "p": 152.06
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-23",
+   "updated": "2026-11-23",
+   "tags": "kuhlung luftkuhler alphacool apex cpu cooler lga 1700 1851 socket argb black",
+   "source": "crawler"
+  },
+  {
    "id": "c-asus-prime-radeon-rx-9070-xt-oc-edition-grafikkarte-16384-mb",
    "name": "ASUS Prime Radeon RX 9070 XT OC Edition Grafikkarte, 16384 MB GDDR6",
    "cat": "Grafikkarten",
@@ -4298,6 +5006,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 249
+    },
+    {
+     "d": "2026-11-23",
      "p": 249
     }
    ],
@@ -5481,696 +6193,16 @@
     {
      "d": "2026-11-20",
      "p": 196.67
+    },
+    {
+     "d": "2026-11-23",
+     "p": 196.67
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
    "seen": "2026-11-23",
    "updated": "2026-11-23",
    "tags": "monitore 27\" gigabyte m27q2 qhd ips gaming monitor 200 schwarz",
-   "source": "crawler"
-  },
-  {
-   "id": "c-adata-xpg-core-reactor-ii-ve-80-plus-gold-netzteil-atx-3-1-8",
-   "name": "ADATA XPG CORE REACTOR II VE 80 PLUS Gold Netzteil, ATX 3.1 - 850 Watt, schwarz",
-   "cat": "Netzteile",
-   "price": 79.9,
-   "ref": 89.9,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/adata-xpg-core-reactor-ii-ve-80-plus-gold-power-supply-atx-3.1-850-watts-black/NEAD-011.html",
-   "url": "https://www.caseking.de/en/adata-xpg-core-reactor-ii-ve-80-plus-gold-power-supply-atx-3.1-850-watts-black/NEAD-011.html",
-   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-29",
-     "p": 89.9
-    },
-    {
-     "d": "2026-10-30",
-     "p": 89.9
-    },
-    {
-     "d": "2026-10-31",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-02",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-04",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-07",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-09",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-12",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-14",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-16",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-19",
-     "p": 79.9
-    },
-    {
-     "d": "2026-11-21",
-     "p": 79.9
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-23",
-   "updated": "2026-11-23",
-   "tags": "netzteile 850 w adata xpg core reactor plus gold netzteil atx 850 watt schwarz",
-   "source": "crawler"
-  },
-  {
-   "id": "c-noctua-nh-d15-se-am4-cpu-kuhler",
-   "name": "Noctua NH-D15 SE-AM4, CPU-Kühler",
-   "cat": "Kühlung",
-   "price": 79.9,
-   "ref": 89.9,
-   "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/Noctua/NH-D15-SE-AM4-CPU-K%C3%BChler/html/product/1332968",
-   "url": "https://www.alternate.de/Noctua/NH-D15-SE-AM4-CPU-K%C3%BChler/html/product/1332968",
-   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-01",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-02",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-03",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-04",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-07",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-09",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-11",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-12",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 79.9
-    },
-    {
-     "d": "2026-11-15",
-     "p": 79.9
-    },
-    {
-     "d": "2026-11-16",
-     "p": 79.9
-    },
-    {
-     "d": "2026-11-18",
-     "p": 79.9
-    },
-    {
-     "d": "2026-11-19",
-     "p": 79.9
-    },
-    {
-     "d": "2026-11-21",
-     "p": 79.9
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-23",
-   "updated": "2026-11-23",
-   "tags": "kuhlung luftkuhler noctua d15 am4 cpu kuhler",
-   "source": "crawler"
-  },
-  {
-   "id": "c-lg-ultragear-g-27g610a-b-27-zoll-wqhd-gaming-monitor-200hz-i",
-   "name": "LG UltraGear G 27G610A-B 27 Zoll WQHD Gaming-Monitor, 200Hz, IPS, FreeSync Premium",
-   "cat": "Monitore",
-   "price": 169,
-   "ref": 189.9,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/lg-ultragear-g-27g610a-b-27-inch-wqhd-gaming-monitor-200hz-ips-freesync-premium/TFLG-186.html",
-   "url": "https://www.caseking.de/en/lg-ultragear-g-27g610a-b-27-inch-wqhd-gaming-monitor-200hz-ips-freesync-premium/TFLG-186.html",
-   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 189.9
-    },
-    {
-     "d": "2026-11-01",
-     "p": 189.9
-    },
-    {
-     "d": "2026-11-03",
-     "p": 189.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 189.9
-    },
-    {
-     "d": "2026-11-07",
-     "p": 189.9
-    },
-    {
-     "d": "2026-11-09",
-     "p": 189.9
-    },
-    {
-     "d": "2026-11-11",
-     "p": 169
-    },
-    {
-     "d": "2026-11-13",
-     "p": 169
-    },
-    {
-     "d": "2026-11-16",
-     "p": 169
-    },
-    {
-     "d": "2026-11-18",
-     "p": 169
-    },
-    {
-     "d": "2026-11-20",
-     "p": 169
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-23",
-   "updated": "2026-11-23",
-   "tags": "monitore 27\" ultragear 27g610a zoll wqhd gaming monitor 200hz ips freesync premium",
-   "source": "crawler"
-  },
-  {
-   "id": "c-alpenfohn-matterhorn-2-aurora-max-black-cpu-kuhler",
-   "name": "Alpenföhn Matterhorn 2 Aurora Max black, CPU-Kühler",
-   "cat": "Kühlung",
-   "price": 48.9,
-   "ref": 54.9,
-   "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/Alpenf%C3%B6hn/Matterhorn-2-Aurora-Max-black-CPU-K%C3%BChler/html/product/100201706",
-   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Matterhorn-2-Aurora-Max-black-CPU-K%C3%BChler/html/product/100201706",
-   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-04",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-09",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-10",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-11",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 48.9
-    },
-    {
-     "d": "2026-11-14",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-15",
-     "p": 48.9
-    },
-    {
-     "d": "2026-11-17",
-     "p": 48.9
-    },
-    {
-     "d": "2026-11-19",
-     "p": 48.9
-    },
-    {
-     "d": "2026-11-20",
-     "p": 54.9
-    },
-    {
-     "d": "2026-11-22",
-     "p": 48.9
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-23",
-   "updated": "2026-11-23",
-   "tags": "kuhlung luftkuhler alpenfohn matterhorn aurora max black cpu kuhler",
-   "source": "crawler"
-  },
-  {
-   "id": "c-xiaomi-g27i-2026-gaming-monitor-68-6-cm-27-full-hd-200hz-1ms",
-   "name": "Xiaomi G27i 2026 Gaming Monitor 68,6 cm (27\") Full HD 200Hz 1ms FreeSync Premium Schwarz",
-   "cat": "Monitore",
-   "price": 113.48,
-   "ref": 127.18,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/xiaomi-g27i-2026-gaming-monitor-68-6-cm-27-full-hd-200hz-1ms-freesync-premium-schwarz-100697106/",
-   "url": "https://www.jacob.de/produkt/xiaomi-g27i-2026-gaming-monitor-68-6-cm-27-full-hd-200hz-1ms-freesync-premium-schwarz-100697106/",
-   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 152.89
-    },
-    {
-     "d": "2026-10-31",
-     "p": 127.45
-    },
-    {
-     "d": "2026-11-01",
-     "p": 127.4
-    },
-    {
-     "d": "2026-11-02",
-     "p": 127.4
-    },
-    {
-     "d": "2026-11-03",
-     "p": 126.74
-    },
-    {
-     "d": "2026-11-05",
-     "p": 127.29
-    },
-    {
-     "d": "2026-11-08",
-     "p": 126.75
-    },
-    {
-     "d": "2026-11-10",
-     "p": 127.52
-    },
-    {
-     "d": "2026-11-12",
-     "p": 127.07
-    },
-    {
-     "d": "2026-11-15",
-     "p": 127.02
-    },
-    {
-     "d": "2026-11-18",
-     "p": 114.61
-    },
-    {
-     "d": "2026-11-21",
-     "p": 113.48
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-23",
-   "updated": "2026-11-23",
-   "tags": "monitore 27\" xiaomi g27i 2026 gaming monitor full 200hz 1ms freesync premium schwarz",
-   "source": "crawler"
-  },
-  {
-   "id": "c-gigabyte-gs27qca-27-qhd-va-curved-gaming-monitor-180-hz-schw",
-   "name": "Gigabyte GS27QCA 27\" QHD VA Curved Gaming Monitor 180 Hz Schwarz",
-   "cat": "Monitore",
-   "price": 148.02,
-   "ref": 165.77,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/gigabyte-gs27qca-27-qhd-va-curved-gaming-monitor-180-hz-schwarz-100548302/",
-   "url": "https://www.jacob.de/produkt/gigabyte-gs27qca-27-qhd-va-curved-gaming-monitor-180-hz-schwarz-100548302/",
-   "note": "11 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 153.08
-    },
-    {
-     "d": "2026-10-31",
-     "p": 153.08
-    },
-    {
-     "d": "2026-11-01",
-     "p": 153.08
-    },
-    {
-     "d": "2026-11-02",
-     "p": 152.32
-    },
-    {
-     "d": "2026-11-04",
-     "p": 166.2
-    },
-    {
-     "d": "2026-11-06",
-     "p": 176.2
-    },
-    {
-     "d": "2026-11-09",
-     "p": 176.2
-    },
-    {
-     "d": "2026-11-11",
-     "p": 176.2
-    },
-    {
-     "d": "2026-11-13",
-     "p": 176.2
-    },
-    {
-     "d": "2026-11-16",
-     "p": 165.77
-    },
-    {
-     "d": "2026-11-19",
-     "p": 165.77
-    },
-    {
-     "d": "2026-11-22",
-     "p": 148.02
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-23",
-   "updated": "2026-11-23",
-   "tags": "monitore 27\" gigabyte gs27qca qhd curved gaming monitor 180 schwarz",
-   "source": "crawler"
-  },
-  {
-   "id": "c-intenso-performance-1-tb-ssd-2-5-sata",
-   "name": "Intenso performance 1 TB SSD 2.5\" SATA",
-   "cat": "SSDs",
-   "price": 142.78,
-   "ref": 159.41,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/intenso-performance-1-tb-ssd-2-5-sata-7895749/",
-   "url": "https://www.jacob.de/produkt/intenso-performance-1-tb-ssd-2-5-sata-7895749/",
-   "note": "10 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 159.41
-    },
-    {
-     "d": "2026-10-31",
-     "p": 159.41
-    },
-    {
-     "d": "2026-11-01",
-     "p": 159.41
-    },
-    {
-     "d": "2026-11-02",
-     "p": 159.41
-    },
-    {
-     "d": "2026-11-03",
-     "p": 159.41
-    },
-    {
-     "d": "2026-11-06",
-     "p": 159.41
-    },
-    {
-     "d": "2026-11-08",
-     "p": 144.25
-    },
-    {
-     "d": "2026-11-10",
-     "p": 144.25
-    },
-    {
-     "d": "2026-11-13",
-     "p": 144.25
-    },
-    {
-     "d": "2026-11-15",
-     "p": 144.25
-    },
-    {
-     "d": "2026-11-18",
-     "p": 159.41
-    },
-    {
-     "d": "2026-11-21",
-     "p": 142.78
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-23",
-   "updated": "2026-11-23",
-   "tags": "ssds sata 1 tb intenso performance ssd sata",
-   "source": "crawler"
-  },
-  {
-   "id": "c-intel-core-i3-14100-3-5-ghz-raptor-lake-refresh-sockel-1700-",
-   "name": "Intel Core i3-14100 3,5 GHz (Raptor Lake Refresh) Sockel 1700 - boxed",
-   "cat": "Prozessoren",
-   "price": 111.9,
-   "ref": 124.9,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/intel-core-i3-14100-3-5-ghz-raptor-lake-refresh-sockel-1700-boxed/HPIT-817.html",
-   "url": "https://www.caseking.de/intel-core-i3-14100-3-5-ghz-raptor-lake-refresh-sockel-1700-boxed/HPIT-817.html",
-   "note": "10 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-02",
-     "p": 137.9
-    },
-    {
-     "d": "2026-11-03",
-     "p": 137.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 137.9
-    },
-    {
-     "d": "2026-11-07",
-     "p": 124.9
-    },
-    {
-     "d": "2026-11-10",
-     "p": 124.9
-    },
-    {
-     "d": "2026-11-12",
-     "p": 124.9
-    },
-    {
-     "d": "2026-11-14",
-     "p": 124.9
-    },
-    {
-     "d": "2026-11-17",
-     "p": 111.9
-    },
-    {
-     "d": "2026-11-19",
-     "p": 111.9
-    },
-    {
-     "d": "2026-11-20",
-     "p": 111.9
-    },
-    {
-     "d": "2026-11-22",
-     "p": 111.9
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-23",
-   "updated": "2026-11-23",
-   "tags": "prozessoren intel lga1700 intel core 14100 ghz raptor lake refresh sockel 1700 boxed",
-   "source": "crawler"
-  },
-  {
-   "id": "c-aorus-fo27q5p-qd-oled-gaming-monitor-27-qhd-500-hz-schwarz",
-   "name": "AORUS FO27Q5P QD-OLED Gaming-Monitor 27\" QHD 500 Hz Schwarz",
-   "cat": "Monitore",
-   "price": 739.26,
-   "ref": 825,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/aorus-fo27q5p-qd-oled-gaming-monitor-27-qhd-500-hz-schwarz-100606628/",
-   "url": "https://www.jacob.de/produkt/aorus-fo27q5p-qd-oled-gaming-monitor-27-qhd-500-hz-schwarz-100606628/",
-   "note": "10 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 855.56
-    },
-    {
-     "d": "2026-10-31",
-     "p": 855.56
-    },
-    {
-     "d": "2026-11-01",
-     "p": 855.56
-    },
-    {
-     "d": "2026-11-02",
-     "p": 855.56
-    },
-    {
-     "d": "2026-11-04",
-     "p": 855.56
-    },
-    {
-     "d": "2026-11-07",
-     "p": 825
-    },
-    {
-     "d": "2026-11-09",
-     "p": 817.63
-    },
-    {
-     "d": "2026-11-12",
-     "p": 825
-    },
-    {
-     "d": "2026-11-14",
-     "p": 724.02
-    },
-    {
-     "d": "2026-11-17",
-     "p": 724.02
-    },
-    {
-     "d": "2026-11-20",
-     "p": 739.26
-    },
-    {
-     "d": "2026-11-22",
-     "p": 739.26
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-23",
-   "updated": "2026-11-23",
-   "tags": "monitore 27\" aorus fo27q5p oled gaming monitor qhd 500 schwarz",
-   "source": "crawler"
-  },
-  {
-   "id": "c-dell-27-plus-qhd-usb-c-monitor-s2725dc-68-6-cm-27-ips-2560x1",
-   "name": "DELL 27 Plus QHD USB-C Monitor S2725DC - 68,6 cm (27\"), IPS, 2560x1440, 144Hz, USB-C, Weiß (DELL-S2725DC)",
-   "cat": "Monitore",
-   "price": 238.98,
-   "ref": 266.4,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/dell-27-plus-qhd-usb-c-monitor-s2725dc-68-6-cm-27-ips-2560x1440-144hz-usb-c-weiss-dell-s2725dc-100673693/",
-   "url": "https://www.jacob.de/produkt/dell-27-plus-qhd-usb-c-monitor-s2725dc-68-6-cm-27-ips-2560x1440-144hz-usb-c-weiss-dell-s2725dc-100673693/",
-   "note": "10 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 273.32
-    },
-    {
-     "d": "2026-10-31",
-     "p": 273.32
-    },
-    {
-     "d": "2026-11-01",
-     "p": 273.32
-    },
-    {
-     "d": "2026-11-02",
-     "p": 273.32
-    },
-    {
-     "d": "2026-11-03",
-     "p": 273.32
-    },
-    {
-     "d": "2026-11-05",
-     "p": 254.3
-    },
-    {
-     "d": "2026-11-08",
-     "p": 240.67
-    },
-    {
-     "d": "2026-11-10",
-     "p": 242.25
-    },
-    {
-     "d": "2026-11-12",
-     "p": 259.49
-    },
-    {
-     "d": "2026-11-15",
-     "p": 258.21
-    },
-    {
-     "d": "2026-11-18",
-     "p": 273.64
-    },
-    {
-     "d": "2026-11-21",
-     "p": 238.98
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-23",
-   "updated": "2026-11-23",
-   "tags": "monitore 27\" dell plus qhd usb monitor s2725dc ips 2560x1440 144hz weiss",
    "source": "crawler"
   }
  ],
