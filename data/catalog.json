@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T16:12:35.908Z",
+ "updated": "2026-11-23T17:28:53.161Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -7767,13 +7767,21 @@
    "name": "GIGABYTE Radeon RX 9070 Gaming 16G",
    "url": "https://www.hardwaredealz.com/hardware/gpu/amd-radeon-rx-9070-16gb/gigabyte-radeon-gaming-16gb-gddr6-2x-hdmi-2x-dp/preisvergleich.31587",
    "source": "hardwaredealz",
-   "stand": "2026-10-29T15:40",
+   "stand": "2026-11-23T17:28",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
      "price": 739,
      "ship": null,
      "avail": null
+    },
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1158.7,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/gigabyte-radeon-rx-9070-gaming-16g-16-gb-gddr6-schwarz-100685740/",
+     "crawler": true
     }
    ],
    "price": 739,
@@ -7781,6 +7789,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 739
+    },
+    {
+     "d": "2026-11-23",
      "p": 739
     }
    ]
@@ -138660,6 +138672,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-inno3d-geforce-rtx-5060-8-gb-gddr7-schwarz",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060",
+   "name": "Inno3D GeForce RTX 5060 8 GB GDDR7 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/inno3d-geforce-rtx-5060-8-gb-gddr7-schwarz-100685135/",
+   "stand": "2026-11-23T17:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 621.81,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/inno3d-geforce-rtx-5060-8-gb-gddr7-schwarz-100685135/"
+    }
+   ],
+   "price": 621.81,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-23",
+     "p": 621.81
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 inno3d geforce rtx 5060 gddr7 schwarz",
+   "firstSeen": "2026-11-23"
+  },
+  {
    "id": "c-asus-rog-crosshair-x870e-hero-btf-mainboard-atx-am5-x870e-dd",
    "cat": "Mainboards",
    "sub": "AM5 X870",
@@ -156516,6 +156557,35 @@
    "firstSeen": "2026-11-19"
   },
   {
+   "id": "c-captiva-advanced-gaming-i93-340-intel-core-i5-14400f-geforce",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060",
+   "name": "Captiva Advanced Gaming I93-340 Intel Core i5-14400F GeForce RTX 5060 16 GB RAM 1 TB SSD Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-i93-340-intel-core-i5-14400f-geforce-rtx-5060-16-gb-ram-1-tb-ssd-weiss-100599741/",
+   "stand": "2026-11-23T17:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1409.64,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-i93-340-intel-core-i5-14400f-geforce-rtx-5060-16-gb-ram-1-tb-ssd-weiss-100599741/"
+    }
+   ],
+   "price": 1409.64,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-23",
+     "p": 1409.64
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 captiva advanced gaming i93 340 intel core 14400f geforce rtx 5060 ram ssd weiss",
+   "firstSeen": "2026-11-23"
+  },
+  {
    "id": "c-acer-nitro-v-17-ai-anv17-41-17-3-ryzen-7-260-16-gb-ram-1-tb-",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5070",
@@ -157988,6 +158058,35 @@
    "count": 1,
    "tags": "grafikkarten geforce rtx 5060 ti captiva advanced gaming i95 888 14400f ram ssd nvidia geforce rtx 5060 weiss",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-hp-omnibook-7-17-dc0179ng-17-3-fhd-ips-touch-intel-core-ultr",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 4050",
+   "name": "HP OmniBook 7 17-dc0179ng 17.3\" FHD IPS Touch Intel Core Ultra 7 258V 32 GB RAM 1 TB SSD NVIDIA GeForce RTX 4050 Silber",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/hp-omnibook-7-17-dc0179ng-17-3-fhd-ips-touch-intel-core-ultra-7-258v-32-gb-ram-1-tb-ssd-nvidia-geforce-rtx-4050-silber-100686574/",
+   "stand": "2026-11-23T17:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1580.19,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/hp-omnibook-7-17-dc0179ng-17-3-fhd-ips-touch-intel-core-ultra-7-258v-32-gb-ram-1-tb-ssd-nvidia-geforce-rtx-4050-silber-100686574/"
+    }
+   ],
+   "price": 1580.19,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-23",
+     "p": 1580.19
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 4050 omnibook dc0179ng fhd ips touch intel core ultra 258v ram ssd nvidia geforce rtx 4050 silber",
+   "firstSeen": "2026-11-23"
   },
   {
    "id": "c-seagate-firecuda-x1070-4-tb-m-2-nvme-ssd",
@@ -160465,6 +160564,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-captiva-advanced-gaming-r91-560-ryzen-9-7900x-nvidia-geforce",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060",
+   "name": "Captiva Advanced Gaming R91-560 Ryzen 9 7900X NVIDIA GeForce RTX 5060 32 GB RAM 1 TB SSD Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-r91-560-ryzen-9-7900x-nvidia-geforce-rtx-5060-32-gb-ram-1-tb-ssd-schwarz-100584292/",
+   "stand": "2026-11-23T17:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 2012.43,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-r91-560-ryzen-9-7900x-nvidia-geforce-rtx-5060-32-gb-ram-1-tb-ssd-schwarz-100584292/"
+    }
+   ],
+   "price": 2012.43,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-23",
+     "p": 2012.43
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 captiva advanced gaming r91 560 ryzen 7900x nvidia geforce rtx 5060 ram ssd schwarz",
+   "firstSeen": "2026-11-23"
+  },
+  {
    "id": "c-samsung-pm9a3-mz1l21t9hcls-ssd-1-92-tb-pcie-4-0-x4-nvme-m-2-",
    "cat": "SSDs",
    "sub": "PCIe 4.0 1,92 TB",
@@ -160780,6 +160908,35 @@
    "count": 1,
    "tags": "grafikkarten geforce rtx 5060 ti captiva advanced gaming i93 191 14700kf nvidia geforce rtx 5060 ram ssd black",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-captiva-highend-gaming-i93-207-i5-14600kf-nvidia-geforce-rtx",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5070",
+   "name": "Captiva Highend Gaming I93-207 i5-14600KF NVIDIA GeForce RTX 5070 16 GB RAM 1 TB SSD Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-i93-207-i5-14600kf-nvidia-geforce-rtx-5070-16-gb-ram-1-tb-ssd-schwarz-100596597/",
+   "stand": "2026-11-23T17:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 2049.79,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-i93-207-i5-14600kf-nvidia-geforce-rtx-5070-16-gb-ram-1-tb-ssd-schwarz-100596597/"
+    }
+   ],
+   "price": 2049.79,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-23",
+     "p": 2049.79
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5070 captiva highend gaming i93 207 14600kf nvidia geforce rtx 5070 ram ssd schwarz",
+   "firstSeen": "2026-11-23"
   },
   {
    "id": "c-captiva-highend-gaming-r92-883-amd-ryzen-7-5700x-nvidia-gefo",
@@ -161147,6 +161304,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-captiva-advanced-gaming-i92-688-intel-core-i5-14600kf-nvidia",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060 Ti",
+   "name": "CAPTIVA Advanced Gaming I92-688 Intel Core i5-14600KF NVIDIA GeForce RTX 5060 Ti 32 GB RAM 2 TB SSD Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-i92-688-intel-core-i5-14600kf-nvidia-geforce-rtx-5060-ti-32-gb-ram-2-tb-ssd-schwarz-100592653/",
+   "stand": "2026-11-23T17:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 2090.03,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-i92-688-intel-core-i5-14600kf-nvidia-geforce-rtx-5060-ti-32-gb-ram-2-tb-ssd-schwarz-100592653/"
+    }
+   ],
+   "price": 2090.03,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-23",
+     "p": 2090.03
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 ti captiva advanced gaming i92 688 intel core 14600kf nvidia geforce rtx 5060 ram ssd schwarz",
+   "firstSeen": "2026-11-23"
+  },
+  {
    "id": "c-lenovo-thinksystem-s4520-3-5-480-gb-ssd-sata-6gb-s",
    "cat": "SSDs",
    "sub": "SATA 480 GB",
@@ -161186,6 +161372,35 @@
    "count": 1,
    "tags": "ssds sata 480 gb lenovo thinksystem s4520 480 ssd sata 6gb",
    "firstSeen": "2026-11-13"
+  },
+  {
+   "id": "c-captiva-highend-gaming-i94-375ge-17-3-intel-core-i7-13620h-3",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5070",
+   "name": "CAPTIVA Highend Gaming I94-375GE 17,3\" Intel Core i7-13620H 32 GB RAM 2 TB SSD NVIDIA GeForce RTX 5070 Windows 11 Pro Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-i94-375ge-17-3-intel-core-i7-13620h-32-gb-ram-2-tb-ssd-nvidia-geforce-rtx-5070-windows-11-pro-schwarz-100609803/",
+   "stand": "2026-11-23T17:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 2115.9,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-i94-375ge-17-3-intel-core-i7-13620h-32-gb-ram-2-tb-ssd-nvidia-geforce-rtx-5070-windows-11-pro-schwarz-100609803/"
+    }
+   ],
+   "price": 2115.9,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-23",
+     "p": 2115.9
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5070 captiva highend gaming i94 375ge intel core 13620h ram ssd nvidia geforce rtx 5070 windows pro",
+   "firstSeen": "2026-11-23"
   },
   {
    "id": "c-zotac-gaming-geforce-rtx-5080-solid-oc-white-edition-16384-m",
@@ -162146,6 +162361,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-captiva-advanced-gaming-i93-192-i7-14700kf-nvidia-geforce-rt",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060 Ti",
+   "name": "CAPTIVA Advanced Gaming I93-192 i7-14700KF NVIDIA GeForce RTX 5060 Ti 32 GB RAM 1 TB SSD Black",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-i93-192-i7-14700kf-nvidia-geforce-rtx-5060-ti-32-gb-ram-1-tb-ssd-black-100596586/",
+   "stand": "2026-11-23T17:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 2203,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-i93-192-i7-14700kf-nvidia-geforce-rtx-5060-ti-32-gb-ram-1-tb-ssd-black-100596586/"
+    }
+   ],
+   "price": 2203,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-23",
+     "p": 2203
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 ti captiva advanced gaming i93 192 14700kf nvidia geforce rtx 5060 ram ssd black",
+   "firstSeen": "2026-11-23"
+  },
+  {
    "id": "c-captiva-highend-gaming-i93-208-intel-core-i5-14600kf-nvidia-",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5070",
@@ -162436,6 +162680,35 @@
    "count": 1,
    "tags": "grafikkarten geforce rtx 5070 captiva highend gaming r89 846 amd ryzen 7500f nvidia geforce rtx 5070 ram ssd schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-pny-geforce-rtx-5080-argb-oc-16-gb-gddr7-schwarz",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5080",
+   "name": "PNY GeForce RTX 5080 ARGB OC 16 GB GDDR7 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/pny-geforce-rtx-5080-argb-oc-16-gb-gddr7-schwarz-100554602/",
+   "stand": "2026-11-23T17:28",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 2283.03,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/pny-geforce-rtx-5080-argb-oc-16-gb-gddr7-schwarz-100554602/"
+    }
+   ],
+   "price": 2283.03,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-23",
+     "p": 2283.03
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5080 pny geforce rtx 5080 argb gddr7 schwarz",
+   "firstSeen": "2026-11-23"
   },
   {
    "id": "c-captiva-highend-gaming-r94-617-amd-ryzen-5-7600x-nvidia-gefo",
