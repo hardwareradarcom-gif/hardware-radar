@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T06:42:02.851Z",
+ "updated": "2026-11-23T08:41:04.226Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -2243,6 +2243,10 @@
     {
      "d": "2026-11-20",
      "p": 184.9
+    },
+    {
+     "d": "2026-11-23",
+     "p": 184.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -3437,6 +3441,10 @@
     {
      "d": "2026-11-20",
      "p": 339.9
+    },
+    {
+     "d": "2026-11-23",
+     "p": 339.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -3844,6 +3852,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 79.9
+    },
+    {
+     "d": "2026-11-23",
      "p": 79.9
     }
    ],
@@ -4579,60 +4591,6 @@
    "seen": "2026-11-23",
    "updated": "2026-11-23",
    "tags": "mainboards intel lga1700 z790 gigabyte z790 sockel lga 1700 intel atx ddr5",
-   "source": "crawler"
-  },
-  {
-   "id": "c-sharkoon-rebel-p20-sfx-1000w-pc-netzteil",
-   "name": "Sharkoon Rebel P20 SFX 1000W, PC-Netzteil",
-   "cat": "Netzteile",
-   "price": 173.9,
-   "ref": 199.9,
-   "shop": "ALTERNATE",
-   "shopUrl": "https://www.alternate.de/Sharkoon/Rebel-P20-SFX-1000W-PC-Netzteil/html/product/100227474",
-   "url": "https://www.alternate.de/Sharkoon/Rebel-P20-SFX-1000W-PC-Netzteil/html/product/100227474",
-   "note": "13 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-12",
-     "p": 199.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 199.9
-    },
-    {
-     "d": "2026-11-14",
-     "p": 199.9
-    },
-    {
-     "d": "2026-11-16",
-     "p": 199.9
-    },
-    {
-     "d": "2026-11-17",
-     "p": 199.9
-    },
-    {
-     "d": "2026-11-19",
-     "p": 199.9
-    },
-    {
-     "d": "2026-11-20",
-     "p": 173.9
-    },
-    {
-     "d": "2026-11-21",
-     "p": 199.9
-    },
-    {
-     "d": "2026-11-22",
-     "p": 173.9
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-23",
-   "updated": "2026-11-23",
-   "tags": "netzteile sfx sharkoon rebel p20 1000w netzteil",
    "source": "crawler"
   },
   {
@@ -6147,6 +6105,72 @@
    "seen": "2026-11-23",
    "updated": "2026-11-23",
    "tags": "monitore 27\" aorus fo27q5p oled gaming monitor qhd 500 schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-dell-27-plus-qhd-usb-c-monitor-s2725dc-68-6-cm-27-ips-2560x1",
+   "name": "DELL 27 Plus QHD USB-C Monitor S2725DC - 68,6 cm (27\"), IPS, 2560x1440, 144Hz, USB-C, Weiß (DELL-S2725DC)",
+   "cat": "Monitore",
+   "price": 238.98,
+   "ref": 266.4,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/dell-27-plus-qhd-usb-c-monitor-s2725dc-68-6-cm-27-ips-2560x1440-144hz-usb-c-weiss-dell-s2725dc-100673693/",
+   "url": "https://www.jacob.de/produkt/dell-27-plus-qhd-usb-c-monitor-s2725dc-68-6-cm-27-ips-2560x1440-144hz-usb-c-weiss-dell-s2725dc-100673693/",
+   "note": "10 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 273.32
+    },
+    {
+     "d": "2026-10-31",
+     "p": 273.32
+    },
+    {
+     "d": "2026-11-01",
+     "p": 273.32
+    },
+    {
+     "d": "2026-11-02",
+     "p": 273.32
+    },
+    {
+     "d": "2026-11-03",
+     "p": 273.32
+    },
+    {
+     "d": "2026-11-05",
+     "p": 254.3
+    },
+    {
+     "d": "2026-11-08",
+     "p": 240.67
+    },
+    {
+     "d": "2026-11-10",
+     "p": 242.25
+    },
+    {
+     "d": "2026-11-12",
+     "p": 259.49
+    },
+    {
+     "d": "2026-11-15",
+     "p": 258.21
+    },
+    {
+     "d": "2026-11-18",
+     "p": 273.64
+    },
+    {
+     "d": "2026-11-21",
+     "p": 238.98
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-23",
+   "updated": "2026-11-23",
+   "tags": "monitore 27\" dell plus qhd usb monitor s2725dc ips 2560x1440 144hz weiss",
    "source": "crawler"
   }
  ],
