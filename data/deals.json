@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T11:59:15.943Z",
+ "updated": "2026-11-23T14:29:54.602Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -3266,8 +3266,8 @@
    "price": 54.9,
    "ref": 66.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/adata-xpg-probe-80-plus-bronze-power-supply-atx-2.4-700-watts-black/NEAD-017.html",
-   "url": "https://www.caseking.de/en/adata-xpg-probe-80-plus-bronze-power-supply-atx-2.4-700-watts-black/NEAD-017.html",
+   "shopUrl": "https://www.caseking.de/adata-xpg-probe-80-plus-bronze-netzteil-atx-2.4-700-watt-schwarz/NEAD-017.html",
+   "url": "https://www.caseking.de/adata-xpg-probe-80-plus-bronze-netzteil-atx-2.4-700-watt-schwarz/NEAD-017.html",
    "note": "18 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -3320,6 +3320,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 54.9
+    },
+    {
+     "d": "2026-11-23",
      "p": 54.9
     }
    ],
@@ -3612,8 +3616,8 @@
    "price": 49.9,
    "ref": 59.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/hyte-x50-midi-tower-snow-white/GEHY-053.html",
-   "url": "https://www.caseking.de/hyte-x50-midi-tower-snow-white/GEHY-053.html",
+   "shopUrl": "https://www.caseking.de/en/hyte-x50-midi-tower-snow-white/GEHY-053.html",
+   "url": "https://www.caseking.de/en/hyte-x50-midi-tower-snow-white/GEHY-053.html",
    "note": "17 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -4846,6 +4850,76 @@
    "source": "crawler"
   },
   {
+   "id": "c-kingston-fury-beast-32-gb-ddr4-3600-mhz-cl18-dimm-schwarz",
+   "name": "Kingston FURY Beast 32 GB DDR4 3600 MHz CL18 DIMM Schwarz",
+   "cat": "Arbeitsspeicher",
+   "price": 364.93,
+   "ref": 426.61,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/kingston-fury-beast-32-gb-ddr4-3600-mhz-cl18-dimm-schwarz-7287442/",
+   "url": "https://www.jacob.de/produkt/kingston-fury-beast-32-gb-ddr4-3600-mhz-cl18-dimm-schwarz-7287442/",
+   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 428.38
+    },
+    {
+     "d": "2026-10-31",
+     "p": 429.54
+    },
+    {
+     "d": "2026-11-01",
+     "p": 424.84
+    },
+    {
+     "d": "2026-11-02",
+     "p": 428.38
+    },
+    {
+     "d": "2026-11-03",
+     "p": 429.54
+    },
+    {
+     "d": "2026-11-05",
+     "p": 432.66
+    },
+    {
+     "d": "2026-11-07",
+     "p": 434.65
+    },
+    {
+     "d": "2026-11-10",
+     "p": 358.75
+    },
+    {
+     "d": "2026-11-12",
+     "p": 358.75
+    },
+    {
+     "d": "2026-11-15",
+     "p": 356.74
+    },
+    {
+     "d": "2026-11-17",
+     "p": 367.98
+    },
+    {
+     "d": "2026-11-20",
+     "p": 367.98
+    },
+    {
+     "d": "2026-11-23",
+     "p": 364.93
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-23",
+   "updated": "2026-11-23",
+   "tags": "arbeitsspeicher ddr4 32 gb kingston fury beast ddr4 3600 mhz cl18 dimm schwarz",
+   "source": "crawler"
+  },
+  {
    "id": "c-asus-tuf-gaming-b850m-plus-wifi7-amd-b850-mainboard-micro-at",
    "name": "ASUS TUF GAMING B850M-PLUS WIFI7 AMD B850 Mainboard Micro ATX Sockel AM5 DDR5 Schwarz",
    "cat": "Mainboards",
@@ -5106,72 +5180,6 @@
    "source": "crawler"
   },
   {
-   "id": "c-kingston-fury-beast-32-gb-ddr4-3600-mhz-cl18-dimm-schwarz",
-   "name": "Kingston FURY Beast 32 GB DDR4 3600 MHz CL18 DIMM Schwarz",
-   "cat": "Arbeitsspeicher",
-   "price": 367.98,
-   "ref": 426.61,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/kingston-fury-beast-32-gb-ddr4-3600-mhz-cl18-dimm-schwarz-7287442/",
-   "url": "https://www.jacob.de/produkt/kingston-fury-beast-32-gb-ddr4-3600-mhz-cl18-dimm-schwarz-7287442/",
-   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 428.38
-    },
-    {
-     "d": "2026-10-31",
-     "p": 429.54
-    },
-    {
-     "d": "2026-11-01",
-     "p": 424.84
-    },
-    {
-     "d": "2026-11-02",
-     "p": 428.38
-    },
-    {
-     "d": "2026-11-03",
-     "p": 429.54
-    },
-    {
-     "d": "2026-11-05",
-     "p": 432.66
-    },
-    {
-     "d": "2026-11-07",
-     "p": 434.65
-    },
-    {
-     "d": "2026-11-10",
-     "p": 358.75
-    },
-    {
-     "d": "2026-11-12",
-     "p": 358.75
-    },
-    {
-     "d": "2026-11-15",
-     "p": 356.74
-    },
-    {
-     "d": "2026-11-17",
-     "p": 367.98
-    },
-    {
-     "d": "2026-11-20",
-     "p": 367.98
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-23",
-   "updated": "2026-11-23",
-   "tags": "arbeitsspeicher ddr4 32 gb kingston fury beast ddr4 3600 mhz cl18 dimm schwarz",
-   "source": "crawler"
-  },
-  {
    "id": "c-patriot-p300-nvme-ssd-pcie-3-0-m-2-typ-2280-1tb",
    "name": "Patriot P300 NVMe SSD, PCIe 3.0. M.2 Typ 2280 - 1TB",
    "cat": "SSDs",
@@ -5344,6 +5352,10 @@
     },
     {
      "d": "2026-11-20",
+     "p": 135.35
+    },
+    {
+     "d": "2026-11-23",
      "p": 135.35
     }
    ],
@@ -5556,6 +5568,10 @@
     },
     {
      "d": "2026-11-21",
+     "p": 69.9
+    },
+    {
+     "d": "2026-11-23",
      "p": 69.9
     }
    ],

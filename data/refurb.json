@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-23T11:59:15.943Z",
+ "updated": "2026-11-23T14:29:54.602Z",
  "products": [
   {
    "id": "r-acer-b246hylbymiprx-23-8-full-hd-1920x1080-display-hdmi-disp",
@@ -876,6 +876,53 @@
     }
    ],
    "firstSeen": "2026-11-10"
+  },
+  {
+   "id": "r-dell-p2417h-23-8-zoll-full-hd-1920x1080-hdmi-displayport-vga",
+   "cat": "Monitore",
+   "name": "Dell P2417H 23,8 Zoll Full HD 1920x1080 HDMI DisplayPort VGA Höhenverstellbar Schwarz",
+   "brand": "Dell",
+   "price": 129,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/dell-p2417h-23-8-zoll-full-hd-1920x1080-displayport-hdmi-vga-hohenverstellbar-schwarz",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-P2417H-0.jpg?v=1770990914",
+   "hist": [
+    {
+     "d": "2026-11-12",
+     "p": 129
+    },
+    {
+     "d": "2026-11-13",
+     "p": 129
+    },
+    {
+     "d": "2026-11-14",
+     "p": 129
+    },
+    {
+     "d": "2026-11-15",
+     "p": 129
+    },
+    {
+     "d": "2026-11-16",
+     "p": 129
+    },
+    {
+     "d": "2026-11-17",
+     "p": 129
+    },
+    {
+     "d": "2026-11-18",
+     "p": 129
+    },
+    {
+     "d": "2026-11-23",
+     "p": 129
+    }
+   ],
+   "firstSeen": "2026-11-12"
   },
   {
    "id": "r-lenovo-thinkvision-t24d-10-schwarz-24-zoll-wuxga-1920x1200-h",
@@ -2662,6 +2709,25 @@
     }
    ],
    "firstSeen": "2026-11-19"
+  },
+  {
+   "id": "r-dell-latitude-3510-15-6-zoll-1920x1080-full-hd-intel-core-i5",
+   "cat": "Laptops",
+   "name": "Dell Latitude 3510 15,6 Zoll 1920x1080 Full HD Intel Core i5 256GB SSD 8GB Windows 11 Pro Fingerprint",
+   "brand": "Dell",
+   "price": 229,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/dell-latitude-3510-15-6-zoll-1920x1080-full-hd-intel-core-i5-256gb-ssd-8gb-windows-11-pro-fingerprint",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Latitude-3510-0_e6ee5dae-443d-4bc2-a193-23a4e3469f14.jpg?v=1770991573",
+   "hist": [
+    {
+     "d": "2026-11-23",
+     "p": 229
+    }
+   ],
+   "firstSeen": "2026-11-23"
   },
   {
    "id": "r-lg-27bn65q-b-schwarz-27-zoll-qhd-2560x1440-displayport-hdmi-",
@@ -4641,109 +4707,6 @@
     },
     {
      "d": "2026-11-23",
-     "p": 299
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-lenovo-thinkpad-t480-14-zoll-1920x1080-full-hd-intel-core-i5",
-   "cat": "Laptops",
-   "name": "Lenovo ThinkPad T480 14 Zoll 1920x1080 Full HD Intel Core i5 256GB SSD 8GB Windows 11 Pro Webcam",
-   "brand": "Lenovo",
-   "price": 299,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/lenovo-thinkpad-t480-14-zoll-1920x1080-full-hd-intel-core-i5-256gb-ssd-8gb-windows-11-pro-webcam-11",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-T480-2_3dc25412-7f5c-4224-9b6e-b6194dddf669.png?v=1770992533",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 309
-    },
-    {
-     "d": "2026-10-31",
-     "p": 309
-    },
-    {
-     "d": "2026-11-01",
-     "p": 309
-    },
-    {
-     "d": "2026-11-02",
-     "p": 309
-    },
-    {
-     "d": "2026-11-03",
-     "p": 309
-    },
-    {
-     "d": "2026-11-04",
-     "p": 309
-    },
-    {
-     "d": "2026-11-05",
-     "p": 309
-    },
-    {
-     "d": "2026-11-06",
-     "p": 309
-    },
-    {
-     "d": "2026-11-07",
-     "p": 309
-    },
-    {
-     "d": "2026-11-08",
-     "p": 309
-    },
-    {
-     "d": "2026-11-09",
-     "p": 309
-    },
-    {
-     "d": "2026-11-10",
-     "p": 309
-    },
-    {
-     "d": "2026-11-11",
-     "p": 309
-    },
-    {
-     "d": "2026-11-12",
-     "p": 309
-    },
-    {
-     "d": "2026-11-13",
-     "p": 299
-    },
-    {
-     "d": "2026-11-14",
-     "p": 299
-    },
-    {
-     "d": "2026-11-15",
-     "p": 299
-    },
-    {
-     "d": "2026-11-16",
-     "p": 299
-    },
-    {
-     "d": "2026-11-17",
-     "p": 299
-    },
-    {
-     "d": "2026-11-18",
-     "p": 299
-    },
-    {
-     "d": "2026-11-19",
-     "p": 299
-    },
-    {
-     "d": "2026-11-20",
      "p": 299
     }
    ],
@@ -32311,6 +32274,25 @@
    "firstSeen": "2026-11-05"
   },
   {
+   "id": "r-dell-latitude-5520-15-6-fhd-display-intel-core-i5-1145g7-16g",
+   "cat": "Laptops",
+   "name": "Dell Latitude 5520, 15,6” FHD Display, Intel Core i5 1145G7, 16GB RAM, 512GB SSD, Webcam, Windows 11 Pro",
+   "brand": "Dell",
+   "price": 449,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/dell-latitude-5520-15-6-zoll-1920x1080-full-hd-intel-core-i5-512gb-ssd-16gb-windows-11-pro-webcam-3",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Latitude-5520-1_684e122d-bf64-4ec6-80ff-dba6d23816f9.png?v=1770992113",
+   "hist": [
+    {
+     "d": "2026-11-23",
+     "p": 449
+    }
+   ],
+   "firstSeen": "2026-11-23"
+  },
+  {
    "id": "r-dell-latitude-5320-13-3-zoll-1920x1080-full-hd-intel-core-i7",
    "cat": "Laptops",
    "name": "Dell Latitude 5320 13,3 Zoll 1920x1080 Full HD Intel Core i7 256GB SSD 16GB Windows 11 Pro Webcam",
@@ -33859,53 +33841,6 @@
     }
    ],
    "firstSeen": "2026-11-12"
-  },
-  {
-   "id": "r-hp-probook-650-g5-15-6-fhd-display-intel-core-i5-8265u-16gb-",
-   "cat": "Laptops",
-   "name": "HP ProBook 650 G5, 15,6” FHD Display, Intel Core i5 8265U, 16GB RAM, 256GB SSD, Webcam, LTE 4G, Windows 11 Pro, ESET Internet Security",
-   "brand": "HP",
-   "price": 458.99,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/hp-probook-650-g5-15-6-fhd-display-intel-core-i5-8365u-16gb-ram-512gb-ssd-webcam-windows-11-pro-eset-internet-security-kopie",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-ProBook-650-G5-0_4f6ad875-5b61-4181-aac4-20578e6931aa.jpg?v=1770992714",
-   "hist": [
-    {
-     "d": "2026-11-13",
-     "p": 458.99
-    },
-    {
-     "d": "2026-11-14",
-     "p": 458.99
-    },
-    {
-     "d": "2026-11-15",
-     "p": 458.99
-    },
-    {
-     "d": "2026-11-16",
-     "p": 458.99
-    },
-    {
-     "d": "2026-11-17",
-     "p": 458.99
-    },
-    {
-     "d": "2026-11-18",
-     "p": 458.99
-    },
-    {
-     "d": "2026-11-19",
-     "p": 458.99
-    },
-    {
-     "d": "2026-11-20",
-     "p": 458.99
-    }
-   ],
-   "firstSeen": "2026-11-13"
   },
   {
    "id": "r-hp-elitebook-830-g8-13-3-zoll-1920x1080-full-hd-intel-core-i",
@@ -46694,109 +46629,6 @@
     },
     {
      "d": "2026-11-23",
-     "p": 529
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-fujitsu-lifebook-u7410-14-touch-display-intel-core-i7-10510u",
-   "cat": "Laptops",
-   "name": "Fujitsu Lifebook U7410, 14\" Touch Display, Intel Core i7 10510U, 16GB RAM, 512GB SSD, Fingerprint Reader, LTE 4G, Windows 11 Pro",
-   "brand": "Fujitsu",
-   "price": 529,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/fujitsu-lifebook-u7410-14-touch-display-intel-core-i7-10510u-16gb-ram-512gb-ssd-fingerprint-reader-lte-4g-windows-11-pro-norton-internet-security",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Fujitsu-Lifebook-U7410-1_fe3cf48d-7c43-4f25-b619-d10d78be00d9.png?v=1770990677",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 529
-    },
-    {
-     "d": "2026-10-31",
-     "p": 529
-    },
-    {
-     "d": "2026-11-01",
-     "p": 529
-    },
-    {
-     "d": "2026-11-02",
-     "p": 529
-    },
-    {
-     "d": "2026-11-03",
-     "p": 529
-    },
-    {
-     "d": "2026-11-04",
-     "p": 529
-    },
-    {
-     "d": "2026-11-05",
-     "p": 529
-    },
-    {
-     "d": "2026-11-06",
-     "p": 529
-    },
-    {
-     "d": "2026-11-07",
-     "p": 529
-    },
-    {
-     "d": "2026-11-08",
-     "p": 529
-    },
-    {
-     "d": "2026-11-09",
-     "p": 529
-    },
-    {
-     "d": "2026-11-10",
-     "p": 529
-    },
-    {
-     "d": "2026-11-11",
-     "p": 529
-    },
-    {
-     "d": "2026-11-12",
-     "p": 529
-    },
-    {
-     "d": "2026-11-13",
-     "p": 529
-    },
-    {
-     "d": "2026-11-14",
-     "p": 529
-    },
-    {
-     "d": "2026-11-15",
-     "p": 529
-    },
-    {
-     "d": "2026-11-16",
-     "p": 529
-    },
-    {
-     "d": "2026-11-17",
-     "p": 529
-    },
-    {
-     "d": "2026-11-18",
-     "p": 529
-    },
-    {
-     "d": "2026-11-19",
-     "p": 529
-    },
-    {
-     "d": "2026-11-20",
      "p": 529
     }
    ],
@@ -59730,6 +59562,25 @@
    "firstSeen": "2026-11-18"
   },
   {
+   "id": "r-hp-elitebook-840-g8-14-zoll-1920x1080-full-hd-intel-core-i5-",
+   "cat": "Laptops",
+   "name": "HP EliteBook 840 G8 14 Zoll 1920x1080 Full HD Intel Core i5 256GB SSD 16GB Windows 11 Pro Fingerprint",
+   "brand": "HP",
+   "price": 599,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/hp-elitebook-840-g8-14-zoll-1920x1080-full-hd-intel-core-i5-256gb-ssd-16gb-windows-11-pro-fingerprint-2",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-840-G8-0_0e59ec8e-6204-445f-92f1-a34a9e5c8997.jpg?v=1770990732",
+   "hist": [
+    {
+     "d": "2026-11-23",
+     "p": 599
+    }
+   ],
+   "firstSeen": "2026-11-23"
+  },
+  {
    "id": "r-hp-prodesk-400-g7-sff-intel-core-i5-10500-512gb-ssd-16gb-win",
    "cat": "PCs & Workstations",
    "name": "HP ProDesk 400 G7 SFF Intel Core i5-10500 512GB SSD 16GB Windows 11 Pro inkl. W-Lan",
@@ -60299,109 +60150,6 @@
     },
     {
      "d": "2026-11-23",
-     "p": 619
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-hp-elite-mini-600-g9-intel-core-i5-12500t-16gb-ram-512gb-ssd",
-   "cat": "PCs & Workstations",
-   "name": "HP Elite Mini 600 G9, Intel Core i5 12500T, 16GB RAM, 512GB SSD, Wi-Fi, Bluetooth, Windows 11 Pro",
-   "brand": "HP",
-   "price": 619,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/hp-elite-mini-600-g9-intel-core-i5-12500t-512gb-ssd-16gb-windows-11-pro-inkl-w-lan",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-Elite-Mini-600-G9-1.jpg?v=1774975202",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 638.99
-    },
-    {
-     "d": "2026-10-31",
-     "p": 638.99
-    },
-    {
-     "d": "2026-11-01",
-     "p": 638.99
-    },
-    {
-     "d": "2026-11-02",
-     "p": 638.99
-    },
-    {
-     "d": "2026-11-03",
-     "p": 638.99
-    },
-    {
-     "d": "2026-11-04",
-     "p": 638.99
-    },
-    {
-     "d": "2026-11-05",
-     "p": 638.99
-    },
-    {
-     "d": "2026-11-06",
-     "p": 638.99
-    },
-    {
-     "d": "2026-11-07",
-     "p": 638.99
-    },
-    {
-     "d": "2026-11-08",
-     "p": 638.99
-    },
-    {
-     "d": "2026-11-09",
-     "p": 638.99
-    },
-    {
-     "d": "2026-11-10",
-     "p": 619
-    },
-    {
-     "d": "2026-11-11",
-     "p": 619
-    },
-    {
-     "d": "2026-11-12",
-     "p": 619
-    },
-    {
-     "d": "2026-11-13",
-     "p": 619
-    },
-    {
-     "d": "2026-11-14",
-     "p": 619
-    },
-    {
-     "d": "2026-11-15",
-     "p": 619
-    },
-    {
-     "d": "2026-11-16",
-     "p": 619
-    },
-    {
-     "d": "2026-11-17",
-     "p": 619
-    },
-    {
-     "d": "2026-11-18",
-     "p": 619
-    },
-    {
-     "d": "2026-11-19",
-     "p": 619
-    },
-    {
-     "d": "2026-11-20",
      "p": 619
     }
    ],
@@ -67652,121 +67400,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "r-fujitsu-esprimo-p9010-intel-core-i5-10600-512gb-ssd-16gb-win",
-   "cat": "PCs & Workstations",
-   "name": "Fujitsu Esprimo P9010 Intel Core i5-10600 512GB SSD 16GB Windows 11 Pro DVD Brenner",
-   "brand": "Fujitsu",
-   "price": 698.99,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/fujitsu-esprimo-p9010-intel-core-i5-10600-512gb-ssd-16gb-windows-11-pro-dvd-brenner-2",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Fujitsu-Esprimo-P9010-1.jpg?v=1772200469",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 698.99
-    },
-    {
-     "d": "2026-10-31",
-     "p": 698.99
-    },
-    {
-     "d": "2026-11-01",
-     "p": 698.99
-    },
-    {
-     "d": "2026-11-02",
-     "p": 698.99
-    },
-    {
-     "d": "2026-11-03",
-     "p": 698.99
-    },
-    {
-     "d": "2026-11-04",
-     "p": 698.99
-    },
-    {
-     "d": "2026-11-05",
-     "p": 698.99
-    },
-    {
-     "d": "2026-11-06",
-     "p": 698.99
-    },
-    {
-     "d": "2026-11-07",
-     "p": 698.99
-    },
-    {
-     "d": "2026-11-08",
-     "p": 698.99
-    },
-    {
-     "d": "2026-11-09",
-     "p": 698.99
-    },
-    {
-     "d": "2026-11-10",
-     "p": 698.99
-    },
-    {
-     "d": "2026-11-11",
-     "p": 698.99
-    },
-    {
-     "d": "2026-11-12",
-     "p": 698.99
-    },
-    {
-     "d": "2026-11-13",
-     "p": 698.99
-    },
-    {
-     "d": "2026-11-14",
-     "p": 698.99
-    },
-    {
-     "d": "2026-11-15",
-     "p": 698.99
-    },
-    {
-     "d": "2026-11-16",
-     "p": 698.99
-    },
-    {
-     "d": "2026-11-17",
-     "p": 698.99
-    },
-    {
-     "d": "2026-11-18",
-     "p": 698.99
-    },
-    {
-     "d": "2026-11-19",
-     "p": 698.99
-    },
-    {
-     "d": "2026-11-20",
-     "p": 698.99
-    },
-    {
-     "d": "2026-11-21",
-     "p": 698.99
-    },
-    {
-     "d": "2026-11-22",
-     "p": 698.99
-    },
-    {
-     "d": "2026-11-23",
-     "p": 698.99
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "r-dell-optiplex-7090-micro-intel-core-i5-11500t-16gb-ram-512gb",
    "cat": "PCs & Workstations",
    "name": "Dell OptiPlex 7090 Micro, Intel Core i5 11500T, 16GB RAM, 512GB SSD, Wi-Fi, Bluetooth, Windows 11 Pro, ESET Internet Security",
@@ -68673,6 +68306,121 @@
     {
      "d": "2026-11-23",
      "p": 709
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "r-fujitsu-esprimo-p9010-intel-core-i5-10600-512gb-ssd-16gb-win",
+   "cat": "PCs & Workstations",
+   "name": "Fujitsu Esprimo P9010 Intel Core i5-10600 512GB SSD 16GB Windows 11 Pro DVD Brenner",
+   "brand": "Fujitsu",
+   "price": 719,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/fujitsu-esprimo-p9010-intel-core-i5-10600-512gb-ssd-16gb-windows-11-pro-dvd-brenner-2",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Fujitsu-Esprimo-P9010-1.jpg?v=1772200469",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 698.99
+    },
+    {
+     "d": "2026-10-31",
+     "p": 698.99
+    },
+    {
+     "d": "2026-11-01",
+     "p": 698.99
+    },
+    {
+     "d": "2026-11-02",
+     "p": 698.99
+    },
+    {
+     "d": "2026-11-03",
+     "p": 698.99
+    },
+    {
+     "d": "2026-11-04",
+     "p": 698.99
+    },
+    {
+     "d": "2026-11-05",
+     "p": 698.99
+    },
+    {
+     "d": "2026-11-06",
+     "p": 698.99
+    },
+    {
+     "d": "2026-11-07",
+     "p": 698.99
+    },
+    {
+     "d": "2026-11-08",
+     "p": 698.99
+    },
+    {
+     "d": "2026-11-09",
+     "p": 698.99
+    },
+    {
+     "d": "2026-11-10",
+     "p": 698.99
+    },
+    {
+     "d": "2026-11-11",
+     "p": 698.99
+    },
+    {
+     "d": "2026-11-12",
+     "p": 698.99
+    },
+    {
+     "d": "2026-11-13",
+     "p": 698.99
+    },
+    {
+     "d": "2026-11-14",
+     "p": 698.99
+    },
+    {
+     "d": "2026-11-15",
+     "p": 698.99
+    },
+    {
+     "d": "2026-11-16",
+     "p": 698.99
+    },
+    {
+     "d": "2026-11-17",
+     "p": 698.99
+    },
+    {
+     "d": "2026-11-18",
+     "p": 698.99
+    },
+    {
+     "d": "2026-11-19",
+     "p": 698.99
+    },
+    {
+     "d": "2026-11-20",
+     "p": 698.99
+    },
+    {
+     "d": "2026-11-21",
+     "p": 698.99
+    },
+    {
+     "d": "2026-11-22",
+     "p": 698.99
+    },
+    {
+     "d": "2026-11-23",
+     "p": 698.99
     }
    ],
    "firstSeen": "2026-10-30"
