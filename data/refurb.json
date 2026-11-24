@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T06:26:54.410Z",
+ "updated": "2026-11-24T08:32:28.931Z",
  "products": [
   {
    "id": "r-acer-b246hylbymiprx-23-8-full-hd-1920x1080-display-hdmi-disp",
@@ -6622,6 +6622,25 @@
     }
    ],
    "firstSeen": "2026-11-20"
+  },
+  {
+   "id": "r-lenovo-thinkpad-t480-14-zoll-hd-intel-core-i5-256gb-ssd-8gb-",
+   "cat": "Laptops",
+   "name": "Lenovo ThinkPad T480 14 Zoll HD Intel Core i5 256GB SSD 8GB Windows 11 Pro Webcam",
+   "brand": "Lenovo",
+   "price": 319,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkpad-t480-14-zoll-hd-intel-core-i5-256gb-ssd-8gb-windows-11-pro-webcam",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-T480-2_0bb00621-7af1-4f77-b693-04a5507e3fb3.png?v=1770992172",
+   "hist": [
+    {
+     "d": "2026-11-24",
+     "p": 319
+    }
+   ],
+   "firstSeen": "2026-11-24"
   },
   {
    "id": "r-hp-prodesk-400-g4-desktop-mini-intel-core-i5-8400t-256gb-ssd",
@@ -23061,6 +23080,125 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "r-dell-latitude-5420-14-fhd-display-intel-core-i5-1145g7-16gb-",
+   "cat": "Laptops",
+   "name": "Dell Latitude 5420, 14” FHD Display, Intel Core i5 1145G7, 16GB RAM, 256GB SSD, Webcam, Windows 11 Pro, ESET Internet Security",
+   "brand": "Dell",
+   "price": 399,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/dell-latitude-5420-14-fhd-display-intel-core-i5-1145g7-16gb-ram-256gb-ssd-webcam-windows-11-pro",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Latitude-5420-0_84317121-aa28-4cd0-9323-9cce9894a259.jpg?v=1770992111",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 488.99
+    },
+    {
+     "d": "2026-10-31",
+     "p": 488.99
+    },
+    {
+     "d": "2026-11-01",
+     "p": 488.99
+    },
+    {
+     "d": "2026-11-02",
+     "p": 488.99
+    },
+    {
+     "d": "2026-11-03",
+     "p": 488.99
+    },
+    {
+     "d": "2026-11-04",
+     "p": 488.99
+    },
+    {
+     "d": "2026-11-05",
+     "p": 488.99
+    },
+    {
+     "d": "2026-11-06",
+     "p": 488.99
+    },
+    {
+     "d": "2026-11-07",
+     "p": 488.99
+    },
+    {
+     "d": "2026-11-08",
+     "p": 488.99
+    },
+    {
+     "d": "2026-11-09",
+     "p": 488.99
+    },
+    {
+     "d": "2026-11-10",
+     "p": 488.99
+    },
+    {
+     "d": "2026-11-11",
+     "p": 488.99
+    },
+    {
+     "d": "2026-11-12",
+     "p": 488.99
+    },
+    {
+     "d": "2026-11-13",
+     "p": 488.99
+    },
+    {
+     "d": "2026-11-14",
+     "p": 488.99
+    },
+    {
+     "d": "2026-11-15",
+     "p": 488.99
+    },
+    {
+     "d": "2026-11-16",
+     "p": 488.99
+    },
+    {
+     "d": "2026-11-17",
+     "p": 419
+    },
+    {
+     "d": "2026-11-18",
+     "p": 488.99
+    },
+    {
+     "d": "2026-11-19",
+     "p": 488.99
+    },
+    {
+     "d": "2026-11-20",
+     "p": 488.99
+    },
+    {
+     "d": "2026-11-21",
+     "p": 488.99
+    },
+    {
+     "d": "2026-11-22",
+     "p": 488.99
+    },
+    {
+     "d": "2026-11-23",
+     "p": 488.99
+    },
+    {
+     "d": "2026-11-24",
+     "p": 399
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "r-dell-latitude-5310-13-3-zoll-1920x1080-full-hd-intel-core-i5",
    "cat": "Laptops",
    "name": "Dell Latitude 5310 13,3 Zoll 1920x1080 Full HD, Intel Core i5 10310U, 8GB RAM, 256GB SSD, Windows 10 Pro inkl. Windows 11 Upgrade",
@@ -29497,6 +29635,125 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "r-hp-elitebook-830-g8-13-3-fhd-display-intel-core-i5-1145g7-16",
+   "cat": "Laptops",
+   "name": "HP EliteBook 830 G8, 13,3\" FHD Display, Intel Core i5 1145G7, 16GB RAM, 512GB SSD, Webcam, Windows 11 Pro, ESET Internet Security",
+   "brand": "HP",
+   "price": 439,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/hp-elitebook-830-g8-13-3-zoll-1920x1080-full-hd-intel-core-i5-512gb-ssd-16gb-windows-11-pro-webcam-1",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-830-G8-1_94f84095-939d-460a-a6e3-756124a6fbd1.png?v=1770991031",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 548.99
+    },
+    {
+     "d": "2026-10-31",
+     "p": 548.99
+    },
+    {
+     "d": "2026-11-01",
+     "p": 548.99
+    },
+    {
+     "d": "2026-11-02",
+     "p": 548.99
+    },
+    {
+     "d": "2026-11-03",
+     "p": 548.99
+    },
+    {
+     "d": "2026-11-04",
+     "p": 548.99
+    },
+    {
+     "d": "2026-11-05",
+     "p": 548.99
+    },
+    {
+     "d": "2026-11-06",
+     "p": 548.99
+    },
+    {
+     "d": "2026-11-07",
+     "p": 548.99
+    },
+    {
+     "d": "2026-11-08",
+     "p": 548.99
+    },
+    {
+     "d": "2026-11-09",
+     "p": 548.99
+    },
+    {
+     "d": "2026-11-10",
+     "p": 548.99
+    },
+    {
+     "d": "2026-11-11",
+     "p": 548.99
+    },
+    {
+     "d": "2026-11-12",
+     "p": 548.99
+    },
+    {
+     "d": "2026-11-13",
+     "p": 548.99
+    },
+    {
+     "d": "2026-11-14",
+     "p": 548.99
+    },
+    {
+     "d": "2026-11-15",
+     "p": 548.99
+    },
+    {
+     "d": "2026-11-16",
+     "p": 548.99
+    },
+    {
+     "d": "2026-11-17",
+     "p": 458.99
+    },
+    {
+     "d": "2026-11-18",
+     "p": 458.99
+    },
+    {
+     "d": "2026-11-19",
+     "p": 458.99
+    },
+    {
+     "d": "2026-11-20",
+     "p": 458.99
+    },
+    {
+     "d": "2026-11-21",
+     "p": 458.99
+    },
+    {
+     "d": "2026-11-22",
+     "p": 458.99
+    },
+    {
+     "d": "2026-11-23",
+     "p": 458.99
+    },
+    {
+     "d": "2026-11-24",
+     "p": 439
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "r-lenovo-thinkpad-t15-gen-1-15-6-fhd-display-intel-core-i5-103",
    "cat": "Laptops",
    "name": "Lenovo ThinkPad T15 Gen 1, 15,6” FHD Display, Intel Core i5 10310U, 16GB RAM, 256GB SSD, LTE 4G, Windows 11 Pro",
@@ -33673,125 +33930,6 @@
     {
      "d": "2026-11-16",
      "p": 458.99
-    },
-    {
-     "d": "2026-11-17",
-     "p": 458.99
-    },
-    {
-     "d": "2026-11-18",
-     "p": 458.99
-    },
-    {
-     "d": "2026-11-19",
-     "p": 458.99
-    },
-    {
-     "d": "2026-11-20",
-     "p": 458.99
-    },
-    {
-     "d": "2026-11-21",
-     "p": 458.99
-    },
-    {
-     "d": "2026-11-22",
-     "p": 458.99
-    },
-    {
-     "d": "2026-11-23",
-     "p": 458.99
-    },
-    {
-     "d": "2026-11-24",
-     "p": 458.99
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-hp-elitebook-830-g8-13-3-fhd-display-intel-core-i5-1145g7-16",
-   "cat": "Laptops",
-   "name": "HP EliteBook 830 G8, 13,3\" FHD Display, Intel Core i5 1145G7, 16GB RAM, 512GB SSD, Webcam, Windows 11 Pro, ESET Internet Security",
-   "brand": "HP",
-   "price": 458.99,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/hp-elitebook-830-g8-13-3-zoll-1920x1080-full-hd-intel-core-i5-512gb-ssd-16gb-windows-11-pro-webcam-1",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-830-G8-1_94f84095-939d-460a-a6e3-756124a6fbd1.png?v=1770991031",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 548.99
-    },
-    {
-     "d": "2026-10-31",
-     "p": 548.99
-    },
-    {
-     "d": "2026-11-01",
-     "p": 548.99
-    },
-    {
-     "d": "2026-11-02",
-     "p": 548.99
-    },
-    {
-     "d": "2026-11-03",
-     "p": 548.99
-    },
-    {
-     "d": "2026-11-04",
-     "p": 548.99
-    },
-    {
-     "d": "2026-11-05",
-     "p": 548.99
-    },
-    {
-     "d": "2026-11-06",
-     "p": 548.99
-    },
-    {
-     "d": "2026-11-07",
-     "p": 548.99
-    },
-    {
-     "d": "2026-11-08",
-     "p": 548.99
-    },
-    {
-     "d": "2026-11-09",
-     "p": 548.99
-    },
-    {
-     "d": "2026-11-10",
-     "p": 548.99
-    },
-    {
-     "d": "2026-11-11",
-     "p": 548.99
-    },
-    {
-     "d": "2026-11-12",
-     "p": 548.99
-    },
-    {
-     "d": "2026-11-13",
-     "p": 548.99
-    },
-    {
-     "d": "2026-11-14",
-     "p": 548.99
-    },
-    {
-     "d": "2026-11-15",
-     "p": 548.99
-    },
-    {
-     "d": "2026-11-16",
-     "p": 548.99
     },
     {
      "d": "2026-11-17",
@@ -39053,6 +39191,125 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "r-dell-latitude-7430-14-touch-display-intel-core-i5-1245u-16gb",
+   "cat": "Laptops",
+   "name": "Dell Latitude 7430, 14\" Touch Display, Intel Core i5 1245U, 16GB RAM, 256GB SSD, Webcam, Windows 11 Pro, ESET Internet Security",
+   "brand": "Dell",
+   "price": 479,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/dell-latitude-7430-14-zoll-touch-display-intel-core-i5-256gb-ssd-16gb-windows-11-pro-webcam",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Latitude-7430-schwarz-1.png?v=1770990617",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 599
+    },
+    {
+     "d": "2026-10-31",
+     "p": 599
+    },
+    {
+     "d": "2026-11-01",
+     "p": 599
+    },
+    {
+     "d": "2026-11-02",
+     "p": 599
+    },
+    {
+     "d": "2026-11-03",
+     "p": 599
+    },
+    {
+     "d": "2026-11-04",
+     "p": 599
+    },
+    {
+     "d": "2026-11-05",
+     "p": 599
+    },
+    {
+     "d": "2026-11-06",
+     "p": 599
+    },
+    {
+     "d": "2026-11-07",
+     "p": 599
+    },
+    {
+     "d": "2026-11-08",
+     "p": 599
+    },
+    {
+     "d": "2026-11-09",
+     "p": 599
+    },
+    {
+     "d": "2026-11-10",
+     "p": 599
+    },
+    {
+     "d": "2026-11-11",
+     "p": 599
+    },
+    {
+     "d": "2026-11-12",
+     "p": 599
+    },
+    {
+     "d": "2026-11-13",
+     "p": 599
+    },
+    {
+     "d": "2026-11-14",
+     "p": 599
+    },
+    {
+     "d": "2026-11-15",
+     "p": 599
+    },
+    {
+     "d": "2026-11-16",
+     "p": 599
+    },
+    {
+     "d": "2026-11-17",
+     "p": 499
+    },
+    {
+     "d": "2026-11-18",
+     "p": 599
+    },
+    {
+     "d": "2026-11-19",
+     "p": 599
+    },
+    {
+     "d": "2026-11-20",
+     "p": 599
+    },
+    {
+     "d": "2026-11-21",
+     "p": 599
+    },
+    {
+     "d": "2026-11-22",
+     "p": 599
+    },
+    {
+     "d": "2026-11-23",
+     "p": 599
+    },
+    {
+     "d": "2026-11-24",
+     "p": 479
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
    "id": "r-dell-latitude-5420-14-fhd-display-intel-core-i5-1145g7-16gb-",
    "cat": "Laptops",
    "name": "Dell Latitude 5420, 14\" FHD Display, Intel Core i5 1145G7, 16GB RAM, 512GB SSD, LTE 4G, Windows 11 Pro, ESET Internet Security",
@@ -40326,125 +40583,6 @@
     {
      "d": "2026-11-17",
      "p": 488.99
-    },
-    {
-     "d": "2026-11-18",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-19",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-20",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-21",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-22",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-23",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-24",
-     "p": 488.99
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-dell-latitude-5420-14-fhd-display-intel-core-i5-1145g7-16gb-",
-   "cat": "Laptops",
-   "name": "Dell Latitude 5420, 14” FHD Display, Intel Core i5 1145G7, 16GB RAM, 256GB SSD, Webcam, Windows 11 Pro, ESET Internet Security",
-   "brand": "Dell",
-   "price": 488.99,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/dell-latitude-5420-14-fhd-display-intel-core-i5-1145g7-16gb-ram-256gb-ssd-webcam-windows-11-pro",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Latitude-5420-0_84317121-aa28-4cd0-9323-9cce9894a259.jpg?v=1770992111",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 488.99
-    },
-    {
-     "d": "2026-10-31",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-01",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-02",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-03",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-04",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-05",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-06",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-07",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-08",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-09",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-10",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-11",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-12",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-13",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-14",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-15",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-16",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-17",
-     "p": 419
     },
     {
      "d": "2026-11-18",
@@ -41761,6 +41899,125 @@
     {
      "d": "2026-11-23",
      "p": 499
+    },
+    {
+     "d": "2026-11-24",
+     "p": 499
+    }
+   ],
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "r-lenovo-thinkpad-l14-gen-3-14-fhd-display-intel-core-i5-1245u",
+   "cat": "Laptops",
+   "name": "Lenovo ThinkPad L14 Gen 3, 14\" FHD Display, Intel Core i5 1245U, 16GB RAM, 256GB SSD, LTE 4G, Windows 11 Pro, ESET Internet Security",
+   "brand": "Lenovo",
+   "price": 499,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkpad-l14-gen-3-14-zoll-1920x1080-full-hd-intel-core-i5-256gb-ssd-16gb-windows-11-pro-lte-webcam",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-L14-G3-1_3379ce66-9435-4597-841f-8a2ab899150e.png?v=1770991155",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 638.99
+    },
+    {
+     "d": "2026-10-31",
+     "p": 638.99
+    },
+    {
+     "d": "2026-11-01",
+     "p": 638.99
+    },
+    {
+     "d": "2026-11-02",
+     "p": 638.99
+    },
+    {
+     "d": "2026-11-03",
+     "p": 638.99
+    },
+    {
+     "d": "2026-11-04",
+     "p": 638.99
+    },
+    {
+     "d": "2026-11-05",
+     "p": 638.99
+    },
+    {
+     "d": "2026-11-06",
+     "p": 638.99
+    },
+    {
+     "d": "2026-11-07",
+     "p": 638.99
+    },
+    {
+     "d": "2026-11-08",
+     "p": 638.99
+    },
+    {
+     "d": "2026-11-09",
+     "p": 638.99
+    },
+    {
+     "d": "2026-11-10",
+     "p": 638.99
+    },
+    {
+     "d": "2026-11-11",
+     "p": 638.99
+    },
+    {
+     "d": "2026-11-12",
+     "p": 638.99
+    },
+    {
+     "d": "2026-11-13",
+     "p": 638.99
+    },
+    {
+     "d": "2026-11-14",
+     "p": 638.99
+    },
+    {
+     "d": "2026-11-15",
+     "p": 638.99
+    },
+    {
+     "d": "2026-11-16",
+     "p": 638.99
+    },
+    {
+     "d": "2026-11-17",
+     "p": 529
+    },
+    {
+     "d": "2026-11-18",
+     "p": 529
+    },
+    {
+     "d": "2026-11-19",
+     "p": 529
+    },
+    {
+     "d": "2026-11-20",
+     "p": 529
+    },
+    {
+     "d": "2026-11-21",
+     "p": 529
+    },
+    {
+     "d": "2026-11-22",
+     "p": 529
+    },
+    {
+     "d": "2026-11-23",
+     "p": 529
     },
     {
      "d": "2026-11-24",
@@ -47763,125 +48020,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "r-lenovo-thinkpad-l14-gen-3-14-fhd-display-intel-core-i5-1245u",
-   "cat": "Laptops",
-   "name": "Lenovo ThinkPad L14 Gen 3, 14\" FHD Display, Intel Core i5 1245U, 16GB RAM, 256GB SSD, LTE 4G, Windows 11 Pro, ESET Internet Security",
-   "brand": "Lenovo",
-   "price": 529,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/lenovo-thinkpad-l14-gen-3-14-zoll-1920x1080-full-hd-intel-core-i5-256gb-ssd-16gb-windows-11-pro-lte-webcam",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-L14-G3-1_3379ce66-9435-4597-841f-8a2ab899150e.png?v=1770991155",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 638.99
-    },
-    {
-     "d": "2026-10-31",
-     "p": 638.99
-    },
-    {
-     "d": "2026-11-01",
-     "p": 638.99
-    },
-    {
-     "d": "2026-11-02",
-     "p": 638.99
-    },
-    {
-     "d": "2026-11-03",
-     "p": 638.99
-    },
-    {
-     "d": "2026-11-04",
-     "p": 638.99
-    },
-    {
-     "d": "2026-11-05",
-     "p": 638.99
-    },
-    {
-     "d": "2026-11-06",
-     "p": 638.99
-    },
-    {
-     "d": "2026-11-07",
-     "p": 638.99
-    },
-    {
-     "d": "2026-11-08",
-     "p": 638.99
-    },
-    {
-     "d": "2026-11-09",
-     "p": 638.99
-    },
-    {
-     "d": "2026-11-10",
-     "p": 638.99
-    },
-    {
-     "d": "2026-11-11",
-     "p": 638.99
-    },
-    {
-     "d": "2026-11-12",
-     "p": 638.99
-    },
-    {
-     "d": "2026-11-13",
-     "p": 638.99
-    },
-    {
-     "d": "2026-11-14",
-     "p": 638.99
-    },
-    {
-     "d": "2026-11-15",
-     "p": 638.99
-    },
-    {
-     "d": "2026-11-16",
-     "p": 638.99
-    },
-    {
-     "d": "2026-11-17",
-     "p": 529
-    },
-    {
-     "d": "2026-11-18",
-     "p": 529
-    },
-    {
-     "d": "2026-11-19",
-     "p": 529
-    },
-    {
-     "d": "2026-11-20",
-     "p": 529
-    },
-    {
-     "d": "2026-11-21",
-     "p": 529
-    },
-    {
-     "d": "2026-11-22",
-     "p": 529
-    },
-    {
-     "d": "2026-11-23",
-     "p": 529
-    },
-    {
-     "d": "2026-11-24",
-     "p": 529
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "r-hp-probook-440-g8-14-fhd-display-intel-core-i5-1135g7-16gb-r",
    "cat": "Laptops",
    "name": "HP ProBook 440 G8, 14\" FHD Display, Intel Core i5 1135G7, 16GB RAM, 512GB SSD, Webcam, LTE 4G, Windows 11 Pro, ESET Internet Security",
@@ -52702,45 +52840,6 @@
     }
    ],
    "firstSeen": "2026-11-14"
-  },
-  {
-   "id": "r-apple-macbook-pro-16-zoll-3072x1920-2019-intel-core-i7-512gb",
-   "cat": "Laptops",
-   "name": "Apple MacBook Pro 16 Zoll 3072x1920 2019 Intel Core i7 512GB SSD 16GB macOS Space Grau",
-   "brand": "Apple",
-   "price": 548.99,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/apple-macbook-pro-16-zoll-3072x1920-2019-intel-core-i7-512gb-ssd-16gb-macos-space-grau-1",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Apple-MacBook-Pro-16-Spacegrau-1_29d7bba9-1085-4aac-b48b-87d798009703.png?v=1770991992",
-   "hist": [
-    {
-     "d": "2026-11-16",
-     "p": 548.99
-    },
-    {
-     "d": "2026-11-17",
-     "p": 548.99
-    },
-    {
-     "d": "2026-11-18",
-     "p": 548.99
-    },
-    {
-     "d": "2026-11-19",
-     "p": 548.99
-    },
-    {
-     "d": "2026-11-20",
-     "p": 548.99
-    },
-    {
-     "d": "2026-11-21",
-     "p": 548.99
-    }
-   ],
-   "firstSeen": "2026-11-16"
   },
   {
    "id": "r-hp-elitebook-830-g8-13-3-fhd-display-intel-core-i5-1145g7-16",
@@ -60890,125 +60989,6 @@
     {
      "d": "2026-11-17",
      "p": 599
-    },
-    {
-     "d": "2026-11-18",
-     "p": 599
-    },
-    {
-     "d": "2026-11-19",
-     "p": 599
-    },
-    {
-     "d": "2026-11-20",
-     "p": 599
-    },
-    {
-     "d": "2026-11-21",
-     "p": 599
-    },
-    {
-     "d": "2026-11-22",
-     "p": 599
-    },
-    {
-     "d": "2026-11-23",
-     "p": 599
-    },
-    {
-     "d": "2026-11-24",
-     "p": 599
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-dell-latitude-7430-14-touch-display-intel-core-i5-1245u-16gb",
-   "cat": "Laptops",
-   "name": "Dell Latitude 7430, 14\" Touch Display, Intel Core i5 1245U, 16GB RAM, 256GB SSD, Webcam, Windows 11 Pro, ESET Internet Security",
-   "brand": "Dell",
-   "price": 599,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/dell-latitude-7430-14-zoll-touch-display-intel-core-i5-256gb-ssd-16gb-windows-11-pro-webcam",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Latitude-7430-schwarz-1.png?v=1770990617",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 599
-    },
-    {
-     "d": "2026-10-31",
-     "p": 599
-    },
-    {
-     "d": "2026-11-01",
-     "p": 599
-    },
-    {
-     "d": "2026-11-02",
-     "p": 599
-    },
-    {
-     "d": "2026-11-03",
-     "p": 599
-    },
-    {
-     "d": "2026-11-04",
-     "p": 599
-    },
-    {
-     "d": "2026-11-05",
-     "p": 599
-    },
-    {
-     "d": "2026-11-06",
-     "p": 599
-    },
-    {
-     "d": "2026-11-07",
-     "p": 599
-    },
-    {
-     "d": "2026-11-08",
-     "p": 599
-    },
-    {
-     "d": "2026-11-09",
-     "p": 599
-    },
-    {
-     "d": "2026-11-10",
-     "p": 599
-    },
-    {
-     "d": "2026-11-11",
-     "p": 599
-    },
-    {
-     "d": "2026-11-12",
-     "p": 599
-    },
-    {
-     "d": "2026-11-13",
-     "p": 599
-    },
-    {
-     "d": "2026-11-14",
-     "p": 599
-    },
-    {
-     "d": "2026-11-15",
-     "p": 599
-    },
-    {
-     "d": "2026-11-16",
-     "p": 599
-    },
-    {
-     "d": "2026-11-17",
-     "p": 499
     },
     {
      "d": "2026-11-18",
