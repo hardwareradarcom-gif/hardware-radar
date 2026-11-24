@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T10:14:58.851Z",
+ "updated": "2026-11-24T11:26:05.218Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -3374,7 +3374,7 @@
    "name": "Lexar NM790 2 TB",
    "url": "https://geizhals.de/lexar-nm790-2tb-lnm790x002t-rn9ng-a3048709.html",
    "source": "Geizhals",
-   "stand": "2026-11-24T08:32",
+   "stand": "2026-11-24T11:26",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
@@ -35494,6 +35494,35 @@
    "firstSeen": "2026-11-19"
   },
   {
+   "id": "c-innovationit-performance-ssd-256-gb-m-2-pcie-3-0-x4-nvme-3d-",
+   "cat": "SSDs",
+   "sub": "NVMe 256 GB",
+   "name": "InnovationIT Performance SSD 256 GB M.2 PCIe 3.0 x4 NVMe 3D TLC",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/innovationit-performance-ssd-256-gb-m-2-pcie-3-0-x4-nvme-3d-tlc-100359308/",
+   "stand": "2026-11-24T11:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 53.43,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/innovationit-performance-ssd-256-gb-m-2-pcie-3-0-x4-nvme-3d-tlc-100359308/"
+    }
+   ],
+   "price": 53.43,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-24",
+     "p": 53.43
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 256 gb innovationit performance ssd 256 pcie nvme tlc",
+   "firstSeen": "2026-11-24"
+  },
+  {
    "id": "c-gigabyte-p750bs-80-plus-bronze-netzteil-atx-750-w-schwarz",
    "cat": "Netzteile",
    "sub": "750 W",
@@ -43773,6 +43802,35 @@
    "count": 1,
    "tags": "ssds nvme ugreen caixa ssd 40gbps",
    "firstSeen": "2026-11-19"
+  },
+  {
+   "id": "c-delock-64252-usb-type-c-konverter-fur-m-2-nvme-ssd-und-sata-",
+   "cat": "SSDs",
+   "sub": "SATA",
+   "name": "Delock 64252 USB Type-C Konverter für M.2 NVMe SSD und SATA SSD/HDD mit Klonfunktion Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/delock-64252-usb-type-c-konverter-fuer-m-2-nvme-ssd-und-sata-ssd-hdd-mit-klonfunktion-schwarz-100372947/",
+   "stand": "2026-11-24T11:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 70.35,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/delock-64252-usb-type-c-konverter-fuer-m-2-nvme-ssd-und-sata-ssd-hdd-mit-klonfunktion-schwarz-100372947/"
+    }
+   ],
+   "price": 70.35,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-24",
+     "p": 70.35
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata delock 64252 usb type konverter fur nvme ssd und hdd mit klonfunktion schwarz",
+   "firstSeen": "2026-11-24"
   },
   {
    "id": "c-gigabyte-v2-256-gb-ssd-m-2-2280-pcie-3-0-x4-nvme",
@@ -54954,6 +55012,35 @@
    "count": 1,
    "tags": "gehause asus a23 plus case mini tower micro atx rgb tempered glass white",
    "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-lexar-nm610-pro-500-gb-m-2-ssd-pcie-3-0-x4-nvme",
+   "cat": "SSDs",
+   "sub": "NVMe 500 GB",
+   "name": "Lexar NM610 PRO 500 GB M.2 SSD PCIe 3.0 x4 NVMe",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/lexar-nm610-pro-500-gb-m-2-ssd-pcie-3-0-x4-nvme-100347440/",
+   "stand": "2026-11-24T11:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 95.81,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/lexar-nm610-pro-500-gb-m-2-ssd-pcie-3-0-x4-nvme-100347440/"
+    }
+   ],
+   "price": 95.81,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-24",
+     "p": 95.81
+    }
+   ],
+   "count": 1,
+   "tags": "ssds nvme 500 gb lexar nm610 pro 500 ssd pcie nvme",
+   "firstSeen": "2026-11-24"
   },
   {
    "id": "c-viewsonic-va270-h-2-27-ips-monitor-1920-x-1080-100-hz-schwar",
@@ -91815,6 +91902,35 @@
    "firstSeen": "2026-11-22"
   },
   {
+   "id": "c-silicon-power-ud90-ssd-500-gb-m-2-2230-pcie-4-0-nvme",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 500 GB",
+   "name": "Silicon Power UD90 SSD 500 GB M.2 2230 PCIe 4.0 NVMe",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/silicon-power-ud90-ssd-500-gb-m-2-2230-pcie-4-0-nvme-100371586/",
+   "stand": "2026-11-24T11:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 178.3,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/silicon-power-ud90-ssd-500-gb-m-2-2230-pcie-4-0-nvme-100371586/"
+    }
+   ],
+   "price": 178.3,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-24",
+     "p": 178.3
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 500 gb silicon power ud90 ssd 500 2230 pcie nvme",
+   "firstSeen": "2026-11-24"
+  },
+  {
    "id": "c-lian-li-edge-eg1200g-netzteil-1200-w-80-plus-gold-atx-3-1-pc",
    "cat": "Netzteile",
    "sub": "1000 W+",
@@ -95305,6 +95421,35 @@
    "count": 1,
    "tags": "mainboards intel lga1851 b860 asus tuf gaming b860 plus wifi mainboard intel lga 1851 atx ddr5 schwarz",
    "firstSeen": "2026-11-16"
+  },
+  {
+   "id": "c-transcend-mte560i-80-gb-m-2-pcie-4-0-nvme-3d-nand-ssd",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0",
+   "name": "Transcend MTE560I 80 GB M.2 PCIe 4.0 NVMe 3D NAND SSD",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/transcend-mte560i-80-gb-m-2-pcie-4-0-nvme-3d-nand-ssd-100494297/",
+   "stand": "2026-11-24T11:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 191.29,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/transcend-mte560i-80-gb-m-2-pcie-4-0-nvme-3d-nand-ssd-100494297/"
+    }
+   ],
+   "price": 191.29,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-24",
+     "p": 191.29
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 transcend mte560i pcie nvme nand ssd",
+   "firstSeen": "2026-11-24"
   },
   {
    "id": "c-kingston-fury-beast-ddr4-16-gb-ram-3200-mhz-dimm-cl16-schwar",
@@ -108435,6 +108580,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-goodram-cx400-gen-2-ssd-2-tb-2-5-sata-iii",
+   "cat": "SSDs",
+   "sub": "SATA 2 TB",
+   "name": "Goodram CX400 Gen 2 SSD 2 TB 2,5\" SATA III",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/goodram-cx400-gen-2-ssd-2-tb-2-5-sata-iii-100473493/",
+   "stand": "2026-11-24T11:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 243.49,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/goodram-cx400-gen-2-ssd-2-tb-2-5-sata-iii-100473493/"
+    }
+   ],
+   "price": 243.49,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-24",
+     "p": 243.49
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 2 tb goodram cx400 gen ssd sata iii",
+   "firstSeen": "2026-11-24"
+  },
+  {
    "id": "c-asrock-z890-steel-legend-wifi-mainboard-sockel-lga-1851-inte",
    "cat": "Mainboards",
    "sub": "Intel LGA1851 Z890",
@@ -110775,6 +110949,35 @@
    "count": 1,
    "tags": "monitore 34\" msi mag 345cqrde curved gaming monitor uwqhd 180 schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-crucial-t500-ssd-1-tb-m-2-pcie-4-0-nvme-tlc",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 1 TB",
+   "name": "Crucial T500 SSD 1 TB M.2 PCIe 4.0 NVMe TLC",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/crucial-t500-ssd-1-tb-m-2-pcie-4-0-nvme-tlc-100282407/",
+   "stand": "2026-11-24T11:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 254.73,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/crucial-t500-ssd-1-tb-m-2-pcie-4-0-nvme-tlc-100282407/"
+    }
+   ],
+   "price": 254.73,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-24",
+     "p": 254.73
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 1 tb crucial t500 ssd pcie nvme tlc",
+   "firstSeen": "2026-11-24"
   },
   {
    "id": "c-sapphire-pure-x870a-wifi7-mainboard-sockel-am5-amd-x870-atx-",
@@ -116837,6 +117040,35 @@
    "count": 1,
    "tags": "mainboards am5 b850 asus rog strix b850 gaming wifi mainboard sockel am5 amd mini itx ddr5",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-corsair-mp600-elite-1-tb-m-2-ssd-pcie-4-0-x4-nvme-black",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 1 TB",
+   "name": "Corsair MP600 ELITE 1 TB M.2 SSD PCIe 4.0 x4 NVMe Black",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/corsair-mp600-elite-1-tb-m-2-ssd-pcie-4-0-x4-nvme-black-100432066/",
+   "stand": "2026-11-24T11:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 306.07,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/corsair-mp600-elite-1-tb-m-2-ssd-pcie-4-0-x4-nvme-black-100432066/"
+    }
+   ],
+   "price": 306.07,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-24",
+     "p": 306.07
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 1 tb corsair mp600 elite ssd pcie nvme black",
+   "firstSeen": "2026-11-24"
   },
   {
    "id": "c-msi-mag-x870-tomahawk-wifi-mainboard-atx-sockel-am5-ddr5-sch",
@@ -129809,6 +130041,35 @@
    "firstSeen": "2026-11-11"
   },
   {
+   "id": "c-transcend-mte712a-ssd-256-gb-m-2-2280-pcie-4-0-x4-nvme-sed",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 256 GB",
+   "name": "Transcend MTE712A SSD 256 GB M.2 2280 PCIe 4.0 x4 NVMe SED",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/transcend-mte712a-ssd-256-gb-m-2-2280-pcie-4-0-x4-nvme-sed-100494296/",
+   "stand": "2026-11-24T11:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 430.45,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/transcend-mte712a-ssd-256-gb-m-2-2280-pcie-4-0-x4-nvme-sed-100494296/"
+    }
+   ],
+   "price": 430.45,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-24",
+     "p": 430.45
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 256 gb transcend mte712a ssd 256 2280 pcie nvme sed",
+   "firstSeen": "2026-11-24"
+  },
+  {
    "id": "c-lenovo-ssd-1-tb-m-2-2280-pcie-gen4-x4-nvme-opal",
    "cat": "SSDs",
    "sub": "PCIe 4.0 1 TB",
@@ -130758,6 +131019,35 @@
    "count": 1,
    "tags": "mainboards intel lga1851 z890 gigabyte z890 aorus master mainboard sockel lga 1851 intel atx ddr5",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-corsair-mp600-elite-2-tb-m-2-pcie-4-0-x4-nvme-ssd-black",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 2 TB",
+   "name": "Corsair MP600 ELITE 2 TB M.2 PCIe 4.0 x4 NVMe SSD Black",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/corsair-mp600-elite-2-tb-m-2-pcie-4-0-x4-nvme-ssd-black-100432417/",
+   "stand": "2026-11-24T11:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 456.28,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/corsair-mp600-elite-2-tb-m-2-pcie-4-0-x4-nvme-ssd-black-100432417/"
+    }
+   ],
+   "price": 456.28,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-24",
+     "p": 456.28
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 2 tb corsair mp600 elite pcie nvme ssd black",
+   "firstSeen": "2026-11-24"
   },
   {
    "id": "c-msi-mpg-x870e-carbon-wifi-mainboard-amd-x870e-am5-atx-ddr5-s",
@@ -132203,6 +132493,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-corsair-mp700-pro-2-tb-m-2-2280-pcie-5-0-x4-nvme-ssd",
+   "cat": "SSDs",
+   "sub": "PCIe 5.0 2 TB",
+   "name": "Corsair MP700 PRO 2 TB M.2 2280 PCIe 5.0 x4 NVMe SSD",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/corsair-mp700-pro-2-tb-m-2-2280-pcie-5-0-x4-nvme-ssd-100336558/",
+   "stand": "2026-11-24T11:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 489.17,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/corsair-mp700-pro-2-tb-m-2-2280-pcie-5-0-x4-nvme-ssd-100336558/"
+    }
+   ],
+   "price": 489.17,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-24",
+     "p": 489.17
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 5.0 2 tb corsair mp700 pro 2280 pcie nvme ssd",
+   "firstSeen": "2026-11-24"
+  },
+  {
    "id": "c-lian-li-o11d-evo-rgb-tryx-panorama-argb-komplett-wasserkuhlu",
    "cat": "Kühlung",
    "sub": "AiO-Wasserkühlung",
@@ -132262,6 +132581,35 @@
    "count": 1,
    "tags": "kuhlung aio-wasserkuhlung lian o11d evo rgb tryx panorama argb komplett wasserkuhlung schwarz 360mm",
    "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-corsair-mp600-elite-1-tb-ssd-pcie-4-0-x4-nvme-schwarz",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 1 TB",
+   "name": "Corsair MP600 ELITE 1 TB SSD PCIe 4.0 x4 NVMe Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/corsair-mp600-elite-1-tb-ssd-pcie-4-0-x4-nvme-schwarz-100432067/",
+   "stand": "2026-11-24T11:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 490.45,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/corsair-mp600-elite-1-tb-ssd-pcie-4-0-x4-nvme-schwarz-100432067/"
+    }
+   ],
+   "price": 490.45,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-24",
+     "p": 490.45
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 1 tb corsair mp600 elite ssd pcie nvme schwarz",
+   "firstSeen": "2026-11-24"
   },
   {
    "id": "c-transcend-msa372m-256-gb-msata-ssd",
@@ -140417,6 +140765,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-corsair-mp600-elite-2-tb-m-2-2280-pcie-4-0-x4-nvme-ssd-schwa",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 2 TB",
+   "name": "Corsair MP600 ELITE 2 TB M.2 2280 PCIe 4.0 x4 NVMe SSD Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/corsair-mp600-elite-2-tb-m-2-2280-pcie-4-0-x4-nvme-ssd-schwarz-100432068/",
+   "stand": "2026-11-24T11:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 643.72,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/corsair-mp600-elite-2-tb-m-2-2280-pcie-4-0-x4-nvme-ssd-schwarz-100432068/"
+    }
+   ],
+   "price": 643.72,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-24",
+     "p": 643.72
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 2 tb corsair mp600 elite 2280 pcie nvme ssd schwarz",
+   "firstSeen": "2026-11-24"
+  },
+  {
    "id": "c-intel-core-i9-13900-2-ghz-24-kerne-36-mb-cache",
    "cat": "Prozessoren",
    "sub": "Intel LGA1700",
@@ -141600,6 +141977,35 @@
    "count": 1,
    "tags": "monitore 27\" eizo flexscan ev2795 led monitor 2560 1440 ips hdmi displayport usb weiss",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-sandisk-ultra-3d-4-tb-2-5-sata-ssd",
+   "cat": "SSDs",
+   "sub": "SATA 4 TB",
+   "name": "SanDisk Ultra 3D 4 TB 2.5\" SATA SSD",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/sandisk-ultra-3d-4-tb-2-5-sata-ssd-8294851/",
+   "stand": "2026-11-24T11:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 663.62,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/sandisk-ultra-3d-4-tb-2-5-sata-ssd-8294851/"
+    }
+   ],
+   "price": 663.62,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-24",
+     "p": 663.62
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 4 tb sandisk ultra sata ssd",
+   "firstSeen": "2026-11-24"
   },
   {
    "id": "c-samsung-odyssey-oled-g8-s34dg850su-34-oled-monitor-3440-x-14",
@@ -159809,6 +160215,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-fujitsu-py-ss19nq-2-5-1-92-tb-ssd-sata-6gb-s",
+   "cat": "SSDs",
+   "sub": "SATA 1,92 TB",
+   "name": "Fujitsu PY-SS19NQ 2.5\" 1,92 TB SSD SATA 6Gb/s",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/fujitsu-py-ss19nq-2-5-1-92-tb-ssd-sata-6gb-s-100482613/",
+   "stand": "2026-11-24T11:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1587.71,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/fujitsu-py-ss19nq-2-5-1-92-tb-ssd-sata-6gb-s-100482613/"
+    }
+   ],
+   "price": 1587.71,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-24",
+     "p": 1587.71
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 1,92 tb fujitsu ss19nq ssd sata 6gb",
+   "firstSeen": "2026-11-24"
+  },
+  {
    "id": "c-captiva-advanced-gaming-i98-122-intel-core-i5-14400f-nvidia-",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5060 Ti",
@@ -161663,6 +162098,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-micron-7500-max-1-6-tb-ssd-u-3-pcie-4-0-nvme",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 1,6 TB",
+   "name": "Micron 7500 MAX 1.6 TB SSD U.3 PCIe 4.0 (NVMe)",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/micron-7500-max-1-6-tb-ssd-u-3-pcie-4-0-nvme-100473556/",
+   "stand": "2026-11-24T11:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1858.92,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/micron-7500-max-1-6-tb-ssd-u-3-pcie-4-0-nvme-100473556/"
+    }
+   ],
+   "price": 1858.92,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-24",
+     "p": 1858.92
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 1,6 tb micron 7500 max ssd pcie nvme",
+   "firstSeen": "2026-11-24"
+  },
+  {
    "id": "c-captiva-advanced-gaming-r92-877-amd-ryzen-7-5700x-nvidia-gef",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5060 Ti",
@@ -161734,6 +162198,35 @@
    "count": 1,
    "tags": "grafikkarten geforce rtx 5060 ti captiva advanced gaming r92 877 amd ryzen 5700x nvidia geforce rtx 5060 ram ssd schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-fujitsu-py-ss48nq-480-gb-ssd-2-5-sata-iii",
+   "cat": "SSDs",
+   "sub": "SATA 480 GB",
+   "name": "Fujitsu PY-SS48NQ 480 GB SSD 2.5\" SATA III",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/fujitsu-py-ss48nq-480-gb-ssd-2-5-sata-iii-100482398/",
+   "stand": "2026-11-24T11:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1867.06,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/fujitsu-py-ss48nq-480-gb-ssd-2-5-sata-iii-100482398/"
+    }
+   ],
+   "price": 1867.06,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-24",
+     "p": 1867.06
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 480 gb fujitsu ss48nq 480 ssd sata iii",
+   "firstSeen": "2026-11-24"
   },
   {
    "id": "c-captiva-advanced-gaming-r98-147-amd-ryzen-7-5700x-nvidia-gef",
@@ -164660,6 +165153,35 @@
    "count": 1,
    "tags": "grafikkarten geforce rtx 5060 ti captiva advanced gaming r98 260 amd ryzen 7500x3d ram ssd nvidia geforce rtx 5060 weiss",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-kioxia-cm7-v-1-6-tb-2-5-ssd-pcie-5-0-x4-nvme-u-3",
+   "cat": "SSDs",
+   "sub": "PCIe 5.0 1,6 TB",
+   "name": "Kioxia CM7-V 1,6 TB 2.5\" SSD PCIe 5.0 x4 NVMe U.3",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/kioxia-cm7-v-1-6-tb-2-5-ssd-pcie-5-0-x4-nvme-u-3-100361186/",
+   "stand": "2026-11-24T11:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 2355.97,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/kioxia-cm7-v-1-6-tb-2-5-ssd-pcie-5-0-x4-nvme-u-3-100361186/"
+    }
+   ],
+   "price": 2355.97,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-24",
+     "p": 2355.97
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 5.0 1,6 tb kioxia cm7 ssd pcie nvme",
+   "firstSeen": "2026-11-24"
   },
   {
    "id": "c-captiva-advanced-gaming-r95-857-amd-ryzen-7-7800x3d-32-gb-ra",
