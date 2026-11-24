@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T08:32:28.931Z",
+ "updated": "2026-11-24T10:14:58.851Z",
  "products": [
   {
    "id": "r-acer-b246hylbymiprx-23-8-full-hd-1920x1080-display-hdmi-disp",
@@ -6134,113 +6134,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "r-lenovo-thinkpad-x1-yoga-gen-3-14-touch-display-intel-core-i7",
-   "cat": "Laptops",
-   "name": "Lenovo ThinkPad X1 Yoga Gen 3, 14” Touch Display, Intel Core i7 8650U, 16GB RAM, 512GB SSD, Fingerprint Reader, Windows 11 Pro, Office & Media Software Suite",
-   "brand": "Lenovo",
-   "price": 319,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/lenovo-thinkpad-x1-yoga-gen-3-14-touch-display-intel-core-i7-8650u-16gb-ram-512gb-ssd-fingerprint-reader-windows-11-pro-office-media-software-suite-1",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-X1-Yoga-G3-1_c430f0bd-27be-4ec3-a0f6-909542634193.png?v=1770990672",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 319
-    },
-    {
-     "d": "2026-10-31",
-     "p": 319
-    },
-    {
-     "d": "2026-11-01",
-     "p": 319
-    },
-    {
-     "d": "2026-11-02",
-     "p": 319
-    },
-    {
-     "d": "2026-11-03",
-     "p": 319
-    },
-    {
-     "d": "2026-11-04",
-     "p": 319
-    },
-    {
-     "d": "2026-11-05",
-     "p": 319
-    },
-    {
-     "d": "2026-11-06",
-     "p": 319
-    },
-    {
-     "d": "2026-11-07",
-     "p": 319
-    },
-    {
-     "d": "2026-11-08",
-     "p": 319
-    },
-    {
-     "d": "2026-11-09",
-     "p": 319
-    },
-    {
-     "d": "2026-11-10",
-     "p": 319
-    },
-    {
-     "d": "2026-11-11",
-     "p": 319
-    },
-    {
-     "d": "2026-11-12",
-     "p": 319
-    },
-    {
-     "d": "2026-11-13",
-     "p": 319
-    },
-    {
-     "d": "2026-11-14",
-     "p": 319
-    },
-    {
-     "d": "2026-11-15",
-     "p": 319
-    },
-    {
-     "d": "2026-11-16",
-     "p": 319
-    },
-    {
-     "d": "2026-11-17",
-     "p": 319
-    },
-    {
-     "d": "2026-11-18",
-     "p": 319
-    },
-    {
-     "d": "2026-11-19",
-     "p": 319
-    },
-    {
-     "d": "2026-11-20",
-     "p": 319
-    },
-    {
-     "d": "2026-11-21",
-     "p": 319
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "r-hp-elitebook-850-g5-15-6-zoll-1920x1080-full-hd-intel-core-i",
    "cat": "Laptops",
    "name": "HP EliteBook 850 G5 15,6 Zoll 1920x1080 Full HD Intel Core i5 256GB SSD 8GB Windows 11 Pro Webcam",
@@ -8243,6 +8136,10 @@
     },
     {
      "d": "2026-11-23",
+     "p": 339
+    },
+    {
+     "d": "2026-11-24",
      "p": 339
     }
    ],
@@ -28720,6 +28617,49 @@
   {
    "id": "r-lenovo-thinkpad-t15-gen-1-15-6-fhd-display-intel-core-i5-103",
    "cat": "Laptops",
+   "name": "Lenovo ThinkPad T15 Gen 1, 15,6” FHD Display, Intel Core i5 10310U, 16GB RAM, 256GB SSD, LTE 4G, Windows 11 Home",
+   "brand": "Lenovo",
+   "price": 429,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkpad-t15-gen-1-15-6-fhd-display-intel-core-i5-10310u-16gb-ram-256gb-ssd-lte-4g-windows-11-pro-norton-internet-security-kopie",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-T15-G1-2_76a3150f-177d-4ece-8559-7f31c6746b4c.jpg?v=1770990673",
+   "hist": [
+    {
+     "d": "2026-11-11",
+     "p": 429
+    },
+    {
+     "d": "2026-11-12",
+     "p": 429
+    },
+    {
+     "d": "2026-11-13",
+     "p": 429
+    },
+    {
+     "d": "2026-11-14",
+     "p": 429
+    },
+    {
+     "d": "2026-11-15",
+     "p": 429
+    },
+    {
+     "d": "2026-11-16",
+     "p": 429
+    },
+    {
+     "d": "2026-11-24",
+     "p": 429
+    }
+   ],
+   "firstSeen": "2026-11-11"
+  },
+  {
+   "id": "r-lenovo-thinkpad-t15-gen-1-15-6-fhd-display-intel-core-i5-103",
+   "cat": "Laptops",
    "name": "Lenovo ThinkPad T15 Gen 1, 15,6” FHD Display, Intel Core i5 10310U, 16GB RAM, 256GB SSD, LTE 4G, Windows 11 Home, GDATA Internet Security",
    "brand": "Lenovo",
    "price": 429,
@@ -39918,6 +39858,44 @@
    "firstSeen": "2026-11-23"
   },
   {
+   "id": "r-dell-optiplex-5090-micro-intel-core-i5-10500t-16gb-ram-256gb",
+   "cat": "PCs & Workstations",
+   "name": "Dell Optiplex 5090 Micro, Intel Core i5 10500T, 16GB RAM, 256GB SSD, Windows 11 Pro, ESET Internet Security",
+   "brand": "Dell",
+   "price": 479,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/dell-optiplex-5090-micro-intel-core-i5-10500t-16gb-ram-256gb-ssd-windows-11-pro-eset-internet-security",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Optiplex-5090-Micro-1.png?v=1770990553",
+   "hist": [
+    {
+     "d": "2026-11-24",
+     "p": 479
+    }
+   ],
+   "firstSeen": "2026-11-24"
+  },
+  {
+   "id": "r-dell-optiplex-5080-micro-intel-core-i5-10500t-16gb-ram-256gb",
+   "cat": "PCs & Workstations",
+   "name": "Dell OptiPlex 5080 Micro, Intel Core i5 10500T, 16GB RAM, 256GB SSD, Windows 11 Pro, ESET Internet Security",
+   "brand": "Dell",
+   "price": 479,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/dell-optiplex-5080-micro-intel-core-i5-10500t-16gb-ram-256gb-ssd-windows-11-pro",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Optiplex-5080-Micro-1.png?v=1770990554",
+   "hist": [
+    {
+     "d": "2026-11-24",
+     "p": 479
+    }
+   ],
+   "firstSeen": "2026-11-24"
+  },
+  {
    "id": "r-hp-elitedesk-800-g4-desktop-mini-intel-core-i5-8500t-512gb-s",
    "cat": "PCs & Workstations",
    "name": "HP EliteDesk 800 G4 Desktop Mini Intel Core i5-8500T 512GB SSD 16GB Windows 11 Pro inkl. W-Lan",
@@ -43088,113 +43066,6 @@
     },
     {
      "d": "2026-11-24",
-     "p": 499
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-hp-elitebook-840-g8-14-zoll-1920x1080-full-hd-intel-core-i5-",
-   "cat": "Laptops",
-   "name": "HP EliteBook 840 G8 14 Zoll 1920x1080 Full HD Intel Core i5 256GB SSD 16GB Windows 11 Pro Fingerprint",
-   "brand": "HP",
-   "price": 499,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/hp-elitebook-840-g8-14-zoll-1920x1080-full-hd-intel-core-i5-256gb-ssd-16gb-windows-11-pro-fingerprint-1",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-840-G8-0_cda675e1-a1db-4307-bfa5-569205ca198d.jpg?v=1770991694",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 499
-    },
-    {
-     "d": "2026-10-31",
-     "p": 499
-    },
-    {
-     "d": "2026-11-01",
-     "p": 499
-    },
-    {
-     "d": "2026-11-02",
-     "p": 499
-    },
-    {
-     "d": "2026-11-03",
-     "p": 499
-    },
-    {
-     "d": "2026-11-04",
-     "p": 499
-    },
-    {
-     "d": "2026-11-05",
-     "p": 499
-    },
-    {
-     "d": "2026-11-06",
-     "p": 499
-    },
-    {
-     "d": "2026-11-07",
-     "p": 499
-    },
-    {
-     "d": "2026-11-08",
-     "p": 499
-    },
-    {
-     "d": "2026-11-09",
-     "p": 499
-    },
-    {
-     "d": "2026-11-10",
-     "p": 499
-    },
-    {
-     "d": "2026-11-11",
-     "p": 499
-    },
-    {
-     "d": "2026-11-12",
-     "p": 499
-    },
-    {
-     "d": "2026-11-13",
-     "p": 499
-    },
-    {
-     "d": "2026-11-14",
-     "p": 499
-    },
-    {
-     "d": "2026-11-15",
-     "p": 499
-    },
-    {
-     "d": "2026-11-16",
-     "p": 499
-    },
-    {
-     "d": "2026-11-17",
-     "p": 499
-    },
-    {
-     "d": "2026-11-18",
-     "p": 499
-    },
-    {
-     "d": "2026-11-19",
-     "p": 499
-    },
-    {
-     "d": "2026-11-20",
-     "p": 499
-    },
-    {
-     "d": "2026-11-21",
      "p": 499
     }
    ],
