@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T20:07:28.835Z",
+ "updated": "2026-11-24T22:01:55.953Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1083,6 +1083,10 @@
     {
      "d": "2026-11-22",
      "p": 25.9
+    },
+    {
+     "d": "2026-11-24",
+     "p": 25.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -1230,6 +1234,10 @@
     },
     {
      "d": "2026-11-22",
+     "p": 23.9
+    },
+    {
+     "d": "2026-11-24",
      "p": 23.9
     }
    ],
@@ -3673,6 +3681,10 @@
     {
      "d": "2026-11-22",
      "p": 189
+    },
+    {
+     "d": "2026-11-24",
+     "p": 189
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -3749,6 +3761,72 @@
    "seen": "2026-11-24",
    "updated": "2026-11-24",
    "tags": "ssds pcie 5.0 2 tb adata xpg mars 980 blade nvme ssd pcie typ 2280",
+   "source": "crawler"
+  },
+  {
+   "id": "c-phanteks-evolv-x2-matrix-pc-gehause-midi-tower-e-atx-tempere",
+   "name": "Phanteks Evolv X2 Matrix PC-Gehäuse, Midi-Tower, E-ATX, Tempered Glass, Matrix LED - schwarz",
+   "cat": "Gehäuse",
+   "price": 119.9,
+   "ref": 144.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/phanteks-evolv-x2-matrix-pc-gehaeuse-midi-tower-e-atx-tempered-glass-matrix-led-schwarz/GEPH-207.html",
+   "url": "https://www.caseking.de/phanteks-evolv-x2-matrix-pc-gehaeuse-midi-tower-e-atx-tempered-glass-matrix-led-schwarz/GEPH-207.html",
+   "note": "17 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-01",
+     "p": 199.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 144.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 144.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 144.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 144.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 144.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 144.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 144.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 144.9
+    },
+    {
+     "d": "2026-11-20",
+     "p": 144.9
+    },
+    {
+     "d": "2026-11-22",
+     "p": 144.9
+    },
+    {
+     "d": "2026-11-24",
+     "p": 119.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "tags": "gehause phanteks evolv matrix midi tower atx tempered glass led schwarz",
    "source": "crawler"
   },
   {
@@ -6317,72 +6395,6 @@
    "seen": "2026-11-24",
    "updated": "2026-11-24",
    "tags": "gehause lian vector v100 case midi tower atx rgb tempered glass black",
-   "source": "crawler"
-  },
-  {
-   "id": "c-lian-li-vector-v100-pc-case-midi-tower-atx-rgb-tempered-glas-8ldey",
-   "name": "Lian Li Vector V100 PC Case, Midi Tower, ATX, RGB, Tempered Glass - White",
-   "cat": "Gehäuse",
-   "price": 69.9,
-   "ref": 79.9,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/lian-li-vector-v100-pc-case-midi-tower-atx-rgb-tempered-glass-white/GELI-976.html",
-   "url": "https://www.caseking.de/en/lian-li-vector-v100-pc-case-midi-tower-atx-rgb-tempered-glass-white/GELI-976.html",
-   "note": "13 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-01",
-     "p": 79.9
-    },
-    {
-     "d": "2026-11-02",
-     "p": 79.9
-    },
-    {
-     "d": "2026-11-04",
-     "p": 79.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 79.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 79.9
-    },
-    {
-     "d": "2026-11-10",
-     "p": 79.9
-    },
-    {
-     "d": "2026-11-12",
-     "p": 79.9
-    },
-    {
-     "d": "2026-11-15",
-     "p": 79.9
-    },
-    {
-     "d": "2026-11-17",
-     "p": 79.9
-    },
-    {
-     "d": "2026-11-20",
-     "p": 69.9
-    },
-    {
-     "d": "2026-11-22",
-     "p": 69.9
-    },
-    {
-     "d": "2026-11-24",
-     "p": 69.9
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-24",
-   "updated": "2026-11-24",
-   "tags": "gehause lian vector v100 case midi tower atx rgb tempered glass white",
    "source": "crawler"
   }
  ],
