@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T16:15:38.612Z",
+ "updated": "2026-11-24T17:57:43.697Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1153,6 +1153,10 @@
     {
      "d": "2026-11-22",
      "p": 39.9
+    },
+    {
+     "d": "2026-11-24",
+     "p": 39.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -1798,6 +1802,10 @@
     },
     {
      "d": "2026-11-22",
+     "p": 69.9
+    },
+    {
+     "d": "2026-11-24",
      "p": 69.9
     }
    ],
@@ -2703,6 +2711,10 @@
     {
      "d": "2026-11-22",
      "p": 34.9
+    },
+    {
+     "d": "2026-11-24",
+     "p": 34.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -3182,8 +3194,8 @@
    "price": 39.9,
    "ref": 49.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/thermalright-axp120-x67-argb-low-profile-cpu-cooler-120mm-white/CPTR-120.html",
-   "url": "https://www.caseking.de/en/thermalright-axp120-x67-argb-low-profile-cpu-cooler-120mm-white/CPTR-120.html",
+   "shopUrl": "https://www.caseking.de/thermalright-axp120-x67-argb-low-profile-cpu-kuehler-120mm-weiss/CPTR-120.html",
+   "url": "https://www.caseking.de/thermalright-axp120-x67-argb-low-profile-cpu-kuehler-120mm-weiss/CPTR-120.html",
    "note": "20 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -3236,6 +3248,10 @@
     },
     {
      "d": "2026-11-22",
+     "p": 39.9
+    },
+    {
+     "d": "2026-11-24",
      "p": 39.9
     }
    ],
@@ -4367,6 +4383,138 @@
    "seen": "2026-11-24",
    "updated": "2026-11-24",
    "tags": "arbeitsspeicher ddr5 alphacool core ram module pieces black",
+   "source": "crawler"
+  },
+  {
+   "id": "c-alphacool-hdx-apex-m-2-2280-ssd-cooler-argb-acrylic",
+   "name": "Alphacool HDX Apex M.2 2280 SSD Cooler, ARGB - Acrylic",
+   "cat": "SSDs",
+   "price": 29.66,
+   "ref": 34.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/alphacool-hdx-apex-m.2-2280-ssd-cooler-argb-acrylic/ZUWE-495.html",
+   "url": "https://www.caseking.de/en/alphacool-hdx-apex-m.2-2280-ssd-cooler-argb-acrylic/ZUWE-495.html",
+   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 34.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 34.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 34.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 34.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 34.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 34.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 34.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 34.9
+    },
+    {
+     "d": "2026-11-17",
+     "p": 34.9
+    },
+    {
+     "d": "2026-11-20",
+     "p": 34.9
+    },
+    {
+     "d": "2026-11-22",
+     "p": 34.9
+    },
+    {
+     "d": "2026-11-24",
+     "p": 29.66
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "tags": "ssds nvme alphacool hdx apex 2280 ssd cooler argb acrylic",
+   "source": "crawler"
+  },
+  {
+   "id": "c-alphacool-hdx-apex-m-2-2280-ssd-cooler-acetal",
+   "name": "Alphacool HDX Apex M.2 2280 SSD Cooler - Acetal",
+   "cat": "SSDs",
+   "price": 29.66,
+   "ref": 34.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/alphacool-hdx-apex-m.2-2280-ssd-cooler-acetal/ZUWE-496.html",
+   "url": "https://www.caseking.de/en/alphacool-hdx-apex-m.2-2280-ssd-cooler-acetal/ZUWE-496.html",
+   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-31",
+     "p": 34.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 34.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 34.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 34.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 34.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 34.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 34.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 34.9
+    },
+    {
+     "d": "2026-11-17",
+     "p": 34.9
+    },
+    {
+     "d": "2026-11-20",
+     "p": 34.9
+    },
+    {
+     "d": "2026-11-22",
+     "p": 34.9
+    },
+    {
+     "d": "2026-11-24",
+     "p": 29.66
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "tags": "ssds nvme alphacool hdx apex 2280 ssd cooler acetal",
    "source": "crawler"
   },
   {
@@ -6219,138 +6367,6 @@
    "seen": "2026-11-24",
    "updated": "2026-11-24",
    "tags": "gehause lian vector v100 case midi tower atx rgb tempered glass black",
-   "source": "crawler"
-  },
-  {
-   "id": "c-lian-li-vector-v100-pc-case-midi-tower-atx-rgb-tempered-glas-8ldey",
-   "name": "Lian Li Vector V100 PC Case, Midi Tower, ATX, RGB, Tempered Glass - White",
-   "cat": "Gehäuse",
-   "price": 69.9,
-   "ref": 79.9,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/lian-li-vector-v100-pc-case-midi-tower-atx-rgb-tempered-glass-white/GELI-976.html",
-   "url": "https://www.caseking.de/en/lian-li-vector-v100-pc-case-midi-tower-atx-rgb-tempered-glass-white/GELI-976.html",
-   "note": "13 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-01",
-     "p": 79.9
-    },
-    {
-     "d": "2026-11-02",
-     "p": 79.9
-    },
-    {
-     "d": "2026-11-04",
-     "p": 79.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 79.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 79.9
-    },
-    {
-     "d": "2026-11-10",
-     "p": 79.9
-    },
-    {
-     "d": "2026-11-12",
-     "p": 79.9
-    },
-    {
-     "d": "2026-11-15",
-     "p": 79.9
-    },
-    {
-     "d": "2026-11-17",
-     "p": 79.9
-    },
-    {
-     "d": "2026-11-20",
-     "p": 69.9
-    },
-    {
-     "d": "2026-11-22",
-     "p": 69.9
-    },
-    {
-     "d": "2026-11-24",
-     "p": 69.9
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-24",
-   "updated": "2026-11-24",
-   "tags": "gehause lian vector v100 case midi tower atx rgb tempered glass white",
-   "source": "crawler"
-  },
-  {
-   "id": "c-gigabyte-g27q2-27-qhd-ss-ips-gaming-monitor-200-hz-schwarz",
-   "name": "Gigabyte G27Q2 27\" QHD SS-IPS Gaming-Monitor 200 Hz Schwarz",
-   "cat": "Monitore",
-   "price": 143.54,
-   "ref": 163.66,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/gigabyte-g27q2-27-qhd-ss-ips-gaming-monitor-200-hz-schwarz-100672879/",
-   "url": "https://www.jacob.de/produkt/gigabyte-g27q2-27-qhd-ss-ips-gaming-monitor-200-hz-schwarz-100672879/",
-   "note": "12 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 154.16
-    },
-    {
-     "d": "2026-10-31",
-     "p": 163.45
-    },
-    {
-     "d": "2026-11-01",
-     "p": 163.86
-    },
-    {
-     "d": "2026-11-02",
-     "p": 163.86
-    },
-    {
-     "d": "2026-11-04",
-     "p": 163.86
-    },
-    {
-     "d": "2026-11-06",
-     "p": 163.86
-    },
-    {
-     "d": "2026-11-09",
-     "p": 163.86
-    },
-    {
-     "d": "2026-11-11",
-     "p": 163.86
-    },
-    {
-     "d": "2026-11-13",
-     "p": 154.18
-    },
-    {
-     "d": "2026-11-16",
-     "p": 154.18
-    },
-    {
-     "d": "2026-11-19",
-     "p": 143.54
-    },
-    {
-     "d": "2026-11-22",
-     "p": 143.54
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-24",
-   "updated": "2026-11-24",
-   "tags": "monitore 27\" gigabyte g27q2 qhd ips gaming monitor 200 schwarz",
    "source": "crawler"
   }
  ],
