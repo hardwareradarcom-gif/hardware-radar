@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-24T11:26:05.218Z",
+ "updated": "2026-11-24T12:02:13.147Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -3068,8 +3068,8 @@
    "price": 479,
    "ref": 599.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/asus-rog-strix-oled-xg27aqwmg-26-5-zoll-wqhd-gaming-monitor-280hz-tandem-oled-panel-adaptive-sync/TFAS-317.html",
-   "url": "https://www.caseking.de/asus-rog-strix-oled-xg27aqwmg-26-5-zoll-wqhd-gaming-monitor-280hz-tandem-oled-panel-adaptive-sync/TFAS-317.html",
+   "shopUrl": "https://www.caseking.de/en/asus-rog-strix-oled-xg27aqwmg-26.5-inch-wqhd-gaming-monitor-280hz-tandem-oled-panel-adaptive-sync/TFAS-317.html",
+   "url": "https://www.caseking.de/en/asus-rog-strix-oled-xg27aqwmg-26.5-inch-wqhd-gaming-monitor-280hz-tandem-oled-panel-adaptive-sync/TFAS-317.html",
    "note": "20 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -3146,6 +3146,10 @@
     },
     {
      "d": "2026-11-23",
+     "p": 479
+    },
+    {
+     "d": "2026-11-24",
      "p": 479
     }
    ],
@@ -3701,6 +3705,76 @@
    "seen": "2026-11-24",
    "updated": "2026-11-24",
    "tags": "ssds pcie 5.0 2 tb adata xpg mars 980 blade nvme ssd pcie typ 2280",
+   "source": "crawler"
+  },
+  {
+   "id": "c-asus-tuf-gaming-b850m-plus-wifi7-amd-b850-mainboard-micro-at",
+   "name": "ASUS TUF GAMING B850M-PLUS WIFI7 AMD B850 Mainboard Micro ATX Sockel AM5 DDR5 Schwarz",
+   "cat": "Mainboards",
+   "price": 194.45,
+   "ref": 234.58,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/asus-tuf-gaming-b850m-plus-wifi7-amd-b850-mainboard-micro-atx-sockel-am5-ddr5-schwarz-100603649/",
+   "url": "https://www.jacob.de/produkt/asus-tuf-gaming-b850m-plus-wifi7-amd-b850-mainboard-micro-atx-sockel-am5-ddr5-schwarz-100603649/",
+   "note": "17 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 234.58
+    },
+    {
+     "d": "2026-10-31",
+     "p": 234.58
+    },
+    {
+     "d": "2026-11-01",
+     "p": 234.58
+    },
+    {
+     "d": "2026-11-02",
+     "p": 234.58
+    },
+    {
+     "d": "2026-11-03",
+     "p": 234.58
+    },
+    {
+     "d": "2026-11-06",
+     "p": 234.58
+    },
+    {
+     "d": "2026-11-08",
+     "p": 234.58
+    },
+    {
+     "d": "2026-11-10",
+     "p": 237.43
+    },
+    {
+     "d": "2026-11-13",
+     "p": 237.43
+    },
+    {
+     "d": "2026-11-15",
+     "p": 237.43
+    },
+    {
+     "d": "2026-11-18",
+     "p": 237.43
+    },
+    {
+     "d": "2026-11-21",
+     "p": 200.81
+    },
+    {
+     "d": "2026-11-24",
+     "p": 194.45
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-24",
+   "updated": "2026-11-24",
+   "tags": "mainboards am5 b850 asus tuf gaming b850m plus wifi7 amd b850 mainboard micro atx sockel am5 ddr5 schwarz",
    "source": "crawler"
   },
   {
@@ -5225,72 +5299,6 @@
    "seen": "2026-11-24",
    "updated": "2026-11-24",
    "tags": "grafikkarten radeon rx 9070 xt asus prime radeon 9070 edition grafikkarte 16384 gddr6",
-   "source": "crawler"
-  },
-  {
-   "id": "c-asus-tuf-gaming-b850m-plus-wifi7-amd-b850-mainboard-micro-at",
-   "name": "ASUS TUF GAMING B850M-PLUS WIFI7 AMD B850 Mainboard Micro ATX Sockel AM5 DDR5 Schwarz",
-   "cat": "Mainboards",
-   "price": 200.81,
-   "ref": 234.58,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/asus-tuf-gaming-b850m-plus-wifi7-amd-b850-mainboard-micro-atx-sockel-am5-ddr5-schwarz-100603649/",
-   "url": "https://www.jacob.de/produkt/asus-tuf-gaming-b850m-plus-wifi7-amd-b850-mainboard-micro-atx-sockel-am5-ddr5-schwarz-100603649/",
-   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 234.58
-    },
-    {
-     "d": "2026-10-31",
-     "p": 234.58
-    },
-    {
-     "d": "2026-11-01",
-     "p": 234.58
-    },
-    {
-     "d": "2026-11-02",
-     "p": 234.58
-    },
-    {
-     "d": "2026-11-03",
-     "p": 234.58
-    },
-    {
-     "d": "2026-11-06",
-     "p": 234.58
-    },
-    {
-     "d": "2026-11-08",
-     "p": 234.58
-    },
-    {
-     "d": "2026-11-10",
-     "p": 237.43
-    },
-    {
-     "d": "2026-11-13",
-     "p": 237.43
-    },
-    {
-     "d": "2026-11-15",
-     "p": 237.43
-    },
-    {
-     "d": "2026-11-18",
-     "p": 237.43
-    },
-    {
-     "d": "2026-11-21",
-     "p": 200.81
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-24",
-   "updated": "2026-11-24",
-   "tags": "mainboards am5 b850 asus tuf gaming b850m plus wifi7 amd b850 mainboard micro atx sockel am5 ddr5 schwarz",
    "source": "crawler"
   },
   {
