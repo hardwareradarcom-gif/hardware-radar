@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T20:00:27.341Z",
+ "updated": "2026-11-25T22:00:26.680Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1462,6 +1462,76 @@
    "source": "crawler"
   },
   {
+   "id": "c-japannext-gaming-monitor-62-2cm-24-5-ips-fhd",
+   "name": "JAPANNEXT Gaming Monitor 62,2cm (24,5“) | IPS | FHD",
+   "cat": "Monitore",
+   "price": 189.89,
+   "ref": 281.98,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/japannext-gaming-monitor-62-2cm-24-5-ips-fhd-320hz-hsp-tft-lcd-jn-ips245g320f-hsp-100609117/",
+   "url": "https://www.jacob.de/produkt/japannext-gaming-monitor-62-2cm-24-5-ips-fhd-320hz-hsp-tft-lcd-jn-ips245g320f-hsp-100609117/",
+   "note": "33 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 189.89
+    },
+    {
+     "d": "2026-10-31",
+     "p": 189.89
+    },
+    {
+     "d": "2026-11-01",
+     "p": 189.89
+    },
+    {
+     "d": "2026-11-02",
+     "p": 189.89
+    },
+    {
+     "d": "2026-11-04",
+     "p": 281.98
+    },
+    {
+     "d": "2026-11-07",
+     "p": 281.98
+    },
+    {
+     "d": "2026-11-09",
+     "p": 281.98
+    },
+    {
+     "d": "2026-11-12",
+     "p": 281.98
+    },
+    {
+     "d": "2026-11-14",
+     "p": 281.98
+    },
+    {
+     "d": "2026-11-17",
+     "p": 281.98
+    },
+    {
+     "d": "2026-11-19",
+     "p": 281.98
+    },
+    {
+     "d": "2026-11-22",
+     "p": 281.98
+    },
+    {
+     "d": "2026-11-25",
+     "p": 189.89
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-25",
+   "updated": "2026-11-25",
+   "tags": "monitore japannext gaming monitor 2cm ips fhd",
+   "source": "crawler"
+  },
+  {
    "id": "c-cooler-master-hyper-212-3dhp-cpu-cooler-intel-and-amd-argb-b",
    "name": "Cooler Master Hyper 212 3DHP CPU Cooler, Intel and AMD, ARGB - black",
    "cat": "Kühlung",
@@ -2524,6 +2594,10 @@
     },
     {
      "d": "2026-11-23",
+     "p": 49.9
+    },
+    {
+     "d": "2026-11-25",
      "p": 49.9
     }
    ],
@@ -4088,6 +4162,80 @@
    "source": "crawler"
   },
   {
+   "id": "c-msi-geforce-rtx-5070-ti-16g-gaming-trio-oc-16384-mb-gddr7",
+   "name": "MSI GeForce RTX 5070 Ti 16G Gaming Trio OC, 16384 MB GDDR7",
+   "cat": "Grafikkarten",
+   "price": 1499,
+   "ref": 1799,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/msi-geforce-rtx-5070-ti-16g-gaming-trio-oc-16384-mb-gddr7/GCMC-426.html",
+   "url": "https://www.caseking.de/en/msi-geforce-rtx-5070-ti-16g-gaming-trio-oc-16384-mb-gddr7/GCMC-426.html",
+   "note": "17 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 1499
+    },
+    {
+     "d": "2026-10-31",
+     "p": 1499
+    },
+    {
+     "d": "2026-11-02",
+     "p": 1499
+    },
+    {
+     "d": "2026-11-04",
+     "p": 1549
+    },
+    {
+     "d": "2026-11-06",
+     "p": 1549
+    },
+    {
+     "d": "2026-11-08",
+     "p": 1549
+    },
+    {
+     "d": "2026-11-10",
+     "p": 1799
+    },
+    {
+     "d": "2026-11-12",
+     "p": 1799
+    },
+    {
+     "d": "2026-11-14",
+     "p": 1799
+    },
+    {
+     "d": "2026-11-17",
+     "p": 1799
+    },
+    {
+     "d": "2026-11-19",
+     "p": 1799
+    },
+    {
+     "d": "2026-11-21",
+     "p": 1799
+    },
+    {
+     "d": "2026-11-23",
+     "p": 1799
+    },
+    {
+     "d": "2026-11-25",
+     "p": 1499
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-25",
+   "updated": "2026-11-25",
+   "tags": "grafikkarten geforce rtx 5070 ti msi geforce rtx 5070 16g gaming trio 16384 gddr7",
+   "source": "crawler"
+  },
+  {
    "id": "c-hp-series-3-pro-324pe-led-monitor-60-5-cm-23-8-full-hd-100hz",
    "name": "HP Series 3 Pro 324pe - LED-Monitor - 60.5 cm (23.8\") - Full HD - 100Hz - IPS - Schwarz (B1GM5AA#ABB)",
    "cat": "Monitore",
@@ -4323,6 +4471,80 @@
    "seen": "2026-11-25",
    "updated": "2026-11-25",
    "tags": "kuhlung luftkuhler montech nx600 argb cpu kuhler",
+   "source": "crawler"
+  },
+  {
+   "id": "c-gainward-geforce-rtx-5070-python-iii-12288-mb-gddr7",
+   "name": "Gainward GeForce RTX 5070 Python III, 12288 MB GDDR7",
+   "cat": "Grafikkarten",
+   "price": 849,
+   "ref": 999,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/gainward-geforce-rtx-5070-python-iii-12288-mb-gddr7/GCGW-143.html",
+   "url": "https://www.caseking.de/en/gainward-geforce-rtx-5070-python-iii-12288-mb-gddr7/GCGW-143.html",
+   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 999
+    },
+    {
+     "d": "2026-10-31",
+     "p": 999
+    },
+    {
+     "d": "2026-11-02",
+     "p": 999
+    },
+    {
+     "d": "2026-11-04",
+     "p": 999
+    },
+    {
+     "d": "2026-11-06",
+     "p": 999
+    },
+    {
+     "d": "2026-11-08",
+     "p": 999
+    },
+    {
+     "d": "2026-11-10",
+     "p": 999
+    },
+    {
+     "d": "2026-11-12",
+     "p": 999
+    },
+    {
+     "d": "2026-11-14",
+     "p": 999
+    },
+    {
+     "d": "2026-11-17",
+     "p": 999
+    },
+    {
+     "d": "2026-11-19",
+     "p": 999
+    },
+    {
+     "d": "2026-11-21",
+     "p": 999
+    },
+    {
+     "d": "2026-11-23",
+     "p": 999
+    },
+    {
+     "d": "2026-11-25",
+     "p": 849
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-25",
+   "updated": "2026-11-25",
+   "tags": "grafikkarten geforce rtx 5070 gainward geforce rtx 5070 python iii 12288 gddr7",
    "source": "crawler"
   },
   {
@@ -5948,8 +6170,8 @@
    "price": 167.36,
    "ref": 196.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/alphacool-eisbaer-pro-aurora-240-aio-cooler-d-rgb-240mm/WASE-540.html",
-   "url": "https://www.caseking.de/en/alphacool-eisbaer-pro-aurora-240-aio-cooler-d-rgb-240mm/WASE-540.html",
+   "shopUrl": "https://www.caseking.de/alphacool-eisbaer-pro-aurora-240-aio-wasserkuehlung-d-rgb-240mm/WASE-540.html",
+   "url": "https://www.caseking.de/alphacool-eisbaer-pro-aurora-240-aio-wasserkuehlung-d-rgb-240mm/WASE-540.html",
    "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -5986,6 +6208,10 @@
     },
     {
      "d": "2026-11-23",
+     "p": 167.36
+    },
+    {
+     "d": "2026-11-25",
      "p": 167.36
     }
    ],
@@ -6417,180 +6643,6 @@
    "seen": "2026-11-25",
    "updated": "2026-11-25",
    "tags": "grafikkarten radeon rx 9070 xt asus prime radeon 9070 edition grafikkarte 16384 gddr6",
-   "source": "crawler"
-  },
-  {
-   "id": "c-hyte-y70-firefly-japan-edition-pc-gehause-midi-tower-e-atx-t",
-   "name": "HYTE Y70 Firefly Japan Edition PC-Gehäuse, Midi-Tower, E-ATX Tempered Glass - silber",
-   "cat": "Gehäuse",
-   "price": 299.9,
-   "ref": 349.9,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/hyte-y70-firefly-japan-edition-pc-gehaeuse-midi-tower-e-atx-tempered-glass-silber/GEHY-070.html",
-   "url": "https://www.caseking.de/hyte-y70-firefly-japan-edition-pc-gehaeuse-midi-tower-e-atx-tempered-glass-silber/GEHY-070.html",
-   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-01",
-     "p": 349.9
-    },
-    {
-     "d": "2026-11-02",
-     "p": 349.9
-    },
-    {
-     "d": "2026-11-04",
-     "p": 349.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 349.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 349.9
-    },
-    {
-     "d": "2026-11-10",
-     "p": 349.9
-    },
-    {
-     "d": "2026-11-12",
-     "p": 349.9
-    },
-    {
-     "d": "2026-11-14",
-     "p": 349.9
-    },
-    {
-     "d": "2026-11-17",
-     "p": 349.9
-    },
-    {
-     "d": "2026-11-19",
-     "p": 299.9
-    },
-    {
-     "d": "2026-11-21",
-     "p": 299.9
-    },
-    {
-     "d": "2026-11-24",
-     "p": 299.9
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
-   "tags": "gehause hyte y70 firefly japan edition midi tower atx tempered glass silber",
-   "source": "crawler"
-  },
-  {
-   "id": "c-kingston-fury-beast-32-gb-ddr4-3600-mhz-cl18-dimm-schwarz",
-   "name": "Kingston FURY Beast 32 GB DDR4 3600 MHz CL18 DIMM Schwarz",
-   "cat": "Arbeitsspeicher",
-   "price": 364.93,
-   "ref": 424.84,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/kingston-fury-beast-32-gb-ddr4-3600-mhz-cl18-dimm-schwarz-7287442/",
-   "url": "https://www.jacob.de/produkt/kingston-fury-beast-32-gb-ddr4-3600-mhz-cl18-dimm-schwarz-7287442/",
-   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 428.38
-    },
-    {
-     "d": "2026-10-31",
-     "p": 429.54
-    },
-    {
-     "d": "2026-11-01",
-     "p": 424.84
-    },
-    {
-     "d": "2026-11-02",
-     "p": 428.38
-    },
-    {
-     "d": "2026-11-03",
-     "p": 429.54
-    },
-    {
-     "d": "2026-11-05",
-     "p": 432.66
-    },
-    {
-     "d": "2026-11-07",
-     "p": 434.65
-    },
-    {
-     "d": "2026-11-10",
-     "p": 358.75
-    },
-    {
-     "d": "2026-11-12",
-     "p": 358.75
-    },
-    {
-     "d": "2026-11-15",
-     "p": 356.74
-    },
-    {
-     "d": "2026-11-17",
-     "p": 367.98
-    },
-    {
-     "d": "2026-11-20",
-     "p": 367.98
-    },
-    {
-     "d": "2026-11-23",
-     "p": 364.93
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
-   "tags": "arbeitsspeicher ddr4 32 gb kingston fury beast ddr4 3600 mhz cl18 dimm schwarz",
-   "source": "crawler"
-  },
-  {
-   "id": "c-asus-rog-ryuo-iv-360-argb-all-in-one-cpu-wasserkuhlung-6-67-",
-   "name": "ASUS ROG RYUO IV 360 ARGB All-in-One CPU-Wasserkühlung 6,67\" AMOLED Schwarz",
-   "cat": "Kühlung",
-   "price": 355.56,
-   "ref": 412.86,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/asus-rog-ryuo-iv-360-argb-all-in-one-cpu-wasserkuehlung-6-67-amoled-schwarz-100692720/",
-   "url": "https://www.jacob.de/produkt/asus-rog-ryuo-iv-360-argb-all-in-one-cpu-wasserkuehlung-6-67-amoled-schwarz-100692720/",
-   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-12",
-     "p": 412.86
-    },
-    {
-     "d": "2026-11-15",
-     "p": 412.86
-    },
-    {
-     "d": "2026-11-17",
-     "p": 412.86
-    },
-    {
-     "d": "2026-11-20",
-     "p": 412.86
-    },
-    {
-     "d": "2026-11-23",
-     "p": 355.56
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
-   "tags": "kuhlung aio-wasserkuhlung asus rog ryuo 360 argb all one cpu wasserkuhlung amoled schwarz",
    "source": "crawler"
   }
  ],
