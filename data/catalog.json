@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T10:17:07.008Z",
+ "updated": "2026-11-25T11:30:19.791Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -6228,13 +6228,21 @@
    "name": "Sapphire Pulse Radeon RX 9070",
    "url": "https://www.hardwaredealz.com/hardware/gpu/amd-radeon-rx-9070-16gb/sapphire-pulse-radeon-16gb-gddr6-2x-hdmi-2x-dp-lite-retail/preisvergleich.25368",
    "source": "hardwaredealz",
-   "stand": "2026-11-24T10:14",
+   "stand": "2026-11-25T11:30",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
      "price": 849,
      "ship": null,
      "avail": null
+    },
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 995.58,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/sapphire-pulse-radeon-rx-9070-16-gb-gddr6-schwarz-100555760/",
+     "crawler": true
     },
     {
      "shop": "caseking.de",
@@ -7059,7 +7067,7 @@
    "name": "Sapphire Pulse Radeon RX 9060 XT",
    "url": "https://www.hardwaredealz.com/hardware/gpu/amd-radeon-rx-9060-xt-16gb/sapphire-pulse-radeon-16gb-gddr6-2x-hdmi-dp-lite-retail/preisvergleich.29141",
    "source": "hardwaredealz",
-   "stand": "2026-11-24T12:02",
+   "stand": "2026-11-25T11:30",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
@@ -7073,6 +7081,14 @@
      "ship": null,
      "avail": "Auf Lager",
      "url": "https://www.caseking.de/en/sapphire-pulse-radeon-rx-9060-xt-gaming-oc-graphics-card-16384-mb-gddr6/GCSP-272.html",
+     "crawler": true
+    },
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 802.49,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/sapphire-pulse-radeon-rx-9060-xt-16-gb-gddr6-grafikkarte-schwarz-100587023/",
      "crawler": true
     }
    ],
@@ -7200,13 +7216,21 @@
    "name": "Sapphire Pure Radeon RX 9070 XT",
    "url": "https://www.hardwaredealz.com/hardware/gpu/amd-radeon-rx-9070-xt-16gb/sapphire-pure-radeon-16gb-gddr6-2x-hdmi-2x-dp-lite-retail/preisvergleich.25401",
    "source": "hardwaredealz",
-   "stand": "2026-11-17T14:23",
+   "stand": "2026-11-25T11:30",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
      "price": 919,
      "ship": null,
      "avail": null
+    },
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1128.12,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/sapphire-pure-radeon-rx-9070-xt-16-gb-gddr6-100556207/",
+     "crawler": true
     }
    ],
    "price": 919,
@@ -7299,6 +7323,10 @@
     {
      "d": "2026-11-19",
      "p": 919
+    },
+    {
+     "d": "2026-11-25",
+     "p": 919
     }
    ]
   },
@@ -7309,7 +7337,7 @@
    "name": "PowerColor Reaper Radeon RX 9060 XT",
    "url": "https://www.hardwaredealz.com/hardware/gpu/amd-radeon-rx-9060-xt-16gb/powercolor-reaper-radeon-16gb-gddr6-hdmi-2x-dp/preisvergleich.29138",
    "source": "hardwaredealz",
-   "stand": "2026-11-23T20:07",
+   "stand": "2026-11-25T11:30",
    "offers": [
     {
      "shop": "caseking.de",
@@ -7324,6 +7352,14 @@
      "price": 661.51,
      "ship": null,
      "avail": null
+    },
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 802.49,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/powercolor-reaper-radeon-rx-9060-xt-16-gb-gddr6-schwarz-100587020/",
+     "crawler": true
     }
    ],
    "price": 569,
@@ -47708,35 +47744,6 @@
    "firstSeen": "2026-10-31"
   },
   {
-   "id": "c-dell-1100-w-80-plus-platinum-hot-plug-netzteil-fur-poweredge",
-   "cat": "Netzteile",
-   "sub": "1000 W+",
-   "name": "Dell 1100 W 80 PLUS Platinum Hot-Plug Netzteil für PowerEdge R530 R630 R730 R930",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/dell-1100-w-80-plus-platinum-hot-plug-netzteil-fuer-poweredge-r530-r630-r730-r930-6898817/",
-   "stand": "2026-11-22T11:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 78.04,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/dell-1100-w-80-plus-platinum-hot-plug-netzteil-fuer-poweredge-r530-r630-r730-r930-6898817/"
-    }
-   ],
-   "price": 78.04,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-22",
-     "p": 78.04
-    }
-   ],
-   "count": 1,
-   "tags": "netzteile 1000 w+ dell 1100 plus platinum hot plug netzteil fur poweredge r530 r630 r730 r930",
-   "firstSeen": "2026-11-22"
-  },
-  {
    "id": "c-noctua-nh-d9l-chromax-black-cpu-kuhler-92-mm-400-2000-rpm-sc",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -57549,6 +57556,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-endorfy-arx-700-argb-midi-tower-pc-gehause-atx-schwarz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Endorfy Arx 700 ARGB Midi-Tower PC-Gehäuse ATX Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/endorfy-arx-700-argb-midi-tower-pc-gehaeuse-atx-schwarz-9201455/",
+   "stand": "2026-11-25T11:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 99.56,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/endorfy-arx-700-argb-midi-tower-pc-gehaeuse-atx-schwarz-9201455/"
+    }
+   ],
+   "price": 99.56,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-25",
+     "p": 99.56
+    }
+   ],
+   "count": 1,
+   "tags": "gehause endorfy arx 700 argb midi tower atx schwarz",
+   "firstSeen": "2026-11-25"
+  },
+  {
    "id": "c-noctua-nh-d12l-cpu-kuhler-120mm",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -66650,35 +66686,6 @@
    "count": 1,
    "tags": "monitore 24,5\" gigabyte gs25f2a gaming monitor 1920 1080 240 schwarz",
    "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-hp-netzteil-ent20-260-w-intern-80-plus-silber",
-   "cat": "Netzteile",
-   "sub": "bis 600 W",
-   "name": "HP Netzteil ENT20 260 W intern 80 PLUS Silber",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/hp-netzteil-ent20-260-w-intern-80-plus-silber-7421734/",
-   "stand": "2026-11-22T11:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 118.06,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/hp-netzteil-ent20-260-w-intern-80-plus-silber-7421734/"
-    }
-   ],
-   "price": 118.06,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-22",
-     "p": 118.06
-    }
-   ],
-   "count": 1,
-   "tags": "netzteile bis 600 w netzteil ent20 260 intern plus silber",
-   "firstSeen": "2026-11-22"
   },
   {
    "id": "c-sharkoon-rebel-p20-750-w-atx-netzteil-80-plus-gold-schwarz",
@@ -93683,35 +93690,6 @@
    "count": 1,
    "tags": "mainboards am5 b850 msi b850m gaming plus wifi6e mainboard amd b850 am5 micro atx ddr5 schwarz",
    "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-dell-netzteil-685-w-80-plus-gold",
-   "cat": "Netzteile",
-   "sub": "650 W",
-   "name": "Dell Netzteil 685 W 80 PLUS Gold",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/dell-netzteil-685-w-80-plus-gold-7334388/",
-   "stand": "2026-11-22T11:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 177.08,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/dell-netzteil-685-w-80-plus-gold-7334388/"
-    }
-   ],
-   "price": 177.08,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-22",
-     "p": 177.08
-    }
-   ],
-   "count": 1,
-   "tags": "netzteile 650 w dell netzteil 685 plus gold",
-   "firstSeen": "2026-11-22"
   },
   {
    "id": "c-silicon-power-ud90-ssd-500-gb-m-2-2230-pcie-4-0-nvme",
@@ -156100,6 +156078,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-sapphire-pure-radeon-rx-9070-16-gb-gddr6-grafikkarte-weiss",
+   "cat": "Grafikkarten",
+   "sub": "Radeon RX 9070",
+   "name": "Sapphire Pure Radeon RX 9070 16 GB GDDR6 Grafikkarte Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/sapphire-pure-radeon-rx-9070-16-gb-gddr6-grafikkarte-weiss-100556209/",
+   "stand": "2026-11-25T11:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1001.42,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/sapphire-pure-radeon-rx-9070-16-gb-gddr6-grafikkarte-weiss-100556209/"
+    }
+   ],
+   "price": 1001.42,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-25",
+     "p": 1001.42
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten radeon rx 9070 sapphire pure radeon 9070 gddr6 grafikkarte weiss",
+   "firstSeen": "2026-11-25"
+  },
+  {
    "id": "c-gainward-geforce-rtx-5070-python-iii-oc-12288-mb-gddr7",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5070",
@@ -158721,6 +158728,35 @@
    "count": 1,
    "tags": "arbeitsspeicher ddr5 48 gb skill trident rgb 8400c4052g24gx2 tz5crk ram ddr5 8400 cl40 schwarz",
    "firstSeen": "2026-11-24"
+  },
+  {
+   "id": "c-powercolor-red-devil-radeon-rx-9070-xt-16-gb-gddr6-oc-pcie-5",
+   "cat": "Grafikkarten",
+   "sub": "Radeon RX 9070 XT",
+   "name": "PowerColor Red Devil Radeon RX 9070 XT 16 GB GDDR6 OC PCIe 5.0 Schwarz, Rot",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/powercolor-red-devil-radeon-rx-9070-xt-16-gb-gddr6-oc-pcie-5-0-schwarz-rot-100556374/",
+   "stand": "2026-11-25T11:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1177.79,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/powercolor-red-devil-radeon-rx-9070-xt-16-gb-gddr6-oc-pcie-5-0-schwarz-rot-100556374/"
+    }
+   ],
+   "price": 1177.79,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-25",
+     "p": 1177.79
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten radeon rx 9070 xt powercolor red devil radeon 9070 gddr6 pcie schwarz rot",
+   "firstSeen": "2026-11-25"
   },
   {
    "id": "c-asus-rog-crosshair-x870e-glacial-gaming-mainboard-e-atx-sock",
@@ -162306,6 +162342,35 @@
    "firstSeen": "2026-11-23"
   },
   {
+   "id": "c-captiva-advanced-gaming-r93-094-amd-ryzen-7-5700x-nvidia-gef",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060 Ti",
+   "name": "Captiva Advanced Gaming R93-094 AMD Ryzen 7 5700X NVIDIA GeForce RTX 5060 Ti 32 GB RAM 1 TB SSD Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-r93-094-amd-ryzen-7-5700x-nvidia-geforce-rtx-5060-ti-32-gb-ram-1-tb-ssd-weiss-100663083/",
+   "stand": "2026-11-25T11:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1582.12,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-r93-094-amd-ryzen-7-5700x-nvidia-geforce-rtx-5060-ti-32-gb-ram-1-tb-ssd-weiss-100663083/"
+    }
+   ],
+   "price": 1582.12,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-25",
+     "p": 1582.12
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 ti captiva advanced gaming r93 094 amd ryzen 5700x nvidia geforce rtx 5060 ram ssd weiss",
+   "firstSeen": "2026-11-25"
+  },
+  {
    "id": "c-fujitsu-py-ss19nq-2-5-1-92-tb-ssd-sata-6gb-s",
    "cat": "SSDs",
    "sub": "SATA 1,92 TB",
@@ -163012,6 +163077,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-captiva-advanced-gaming-r93-096-amd-ryzen-7-9700x-nvidia-gef",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060 Ti",
+   "name": "CAPTIVA Advanced Gaming R93-096 AMD Ryzen 7 9700X NVIDIA GeForce RTX 5060 Ti 16 GB RAM 1 TB SSD Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-r93-096-amd-ryzen-7-9700x-nvidia-geforce-rtx-5060-ti-16-gb-ram-1-tb-ssd-weiss-100663084/",
+   "stand": "2026-11-25T11:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1676.97,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-r93-096-amd-ryzen-7-9700x-nvidia-geforce-rtx-5060-ti-16-gb-ram-1-tb-ssd-weiss-100663084/"
+    }
+   ],
+   "price": 1676.97,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-25",
+     "p": 1676.97
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 ti captiva advanced gaming r93 096 amd ryzen 9700x nvidia geforce rtx 5060 ram ssd weiss",
+   "firstSeen": "2026-11-25"
+  },
+  {
    "id": "c-g-skill-trident-z5-rgb-ddr5-6400-ram-cl32-xmp-64-gb-dual-kit",
    "cat": "Arbeitsspeicher",
    "sub": "DDR5 64 GB",
@@ -163491,6 +163585,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-captiva-advanced-gaming-i94-411ge-15-3-amd-ryzen-7-255-16-gb",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060",
+   "name": "CAPTIVA Advanced Gaming I94-411GE 15,3\" AMD Ryzen 7 255 16 GB RAM 1 TB SSD GeForce RTX 5060 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-i94-411ge-15-3-amd-ryzen-7-255-16-gb-ram-1-tb-ssd-geforce-rtx-5060-schwarz-100609811/",
+   "stand": "2026-11-25T11:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1748.82,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-i94-411ge-15-3-amd-ryzen-7-255-16-gb-ram-1-tb-ssd-geforce-rtx-5060-schwarz-100609811/"
+    }
+   ],
+   "price": 1748.82,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-25",
+     "p": 1748.82
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 captiva advanced gaming i94 411ge amd ryzen 255 ram ssd geforce rtx 5060 schwarz",
+   "firstSeen": "2026-11-25"
+  },
+  {
    "id": "c-captiva-advanced-gaming-r95-860-amd-ryzen-5-9500f-32-gb-ram-",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5060",
@@ -163664,6 +163787,35 @@
    "count": 1,
    "tags": "grafikkarten geforce rtx 5060 ti captiva advanced gaming r98 128 ryzen 5500 nvidia geforce rtx 5060 ram ssd schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-captiva-advanced-gaming-i90-839-i5-14600kf-32-gb-ram-2-tb-ss",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060 Ti",
+   "name": "CAPTIVA Advanced Gaming I90-839 i5-14600KF 32 GB RAM 2 TB SSD NVIDIA GeForce RTX 5060 Ti Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-i90-839-i5-14600kf-32-gb-ram-2-tb-ssd-nvidia-geforce-rtx-5060-ti-schwarz-100582070/",
+   "stand": "2026-11-25T11:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1775.28,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-i90-839-i5-14600kf-32-gb-ram-2-tb-ssd-nvidia-geforce-rtx-5060-ti-schwarz-100582070/"
+    }
+   ],
+   "price": 1775.28,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-25",
+     "p": 1775.28
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 ti captiva advanced gaming i90 839 14600kf ram ssd nvidia geforce rtx 5060 schwarz",
+   "firstSeen": "2026-11-25"
   },
   {
    "id": "c-kingston-fury-dimm-64-gb-ddr5-6000-2x-32-gb-dual-kit-arbeits",
@@ -167270,6 +167422,35 @@
    "firstSeen": "2026-11-25"
   },
   {
+   "id": "c-captiva-highend-gaming-r90-180-intel-core-i5-14600kf-32-gb-r",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5070",
+   "name": "CAPTIVA Highend Gaming R90-180 Intel Core i5-14600KF 32 GB RAM 1 TB SSD NVIDIA GeForce RTX 5070 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r90-180-intel-core-i5-14600kf-32-gb-ram-1-tb-ssd-nvidia-geforce-rtx-5070-schwarz-100581621/",
+   "stand": "2026-11-25T11:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 2350.17,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r90-180-intel-core-i5-14600kf-32-gb-ram-1-tb-ssd-nvidia-geforce-rtx-5070-schwarz-100581621/"
+    }
+   ],
+   "price": 2350.17,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-25",
+     "p": 2350.17
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5070 captiva highend gaming r90 180 intel core 14600kf ram ssd nvidia geforce rtx 5070 schwarz",
+   "firstSeen": "2026-11-25"
+  },
+  {
    "id": "c-kioxia-cm7-v-1-6-tb-2-5-ssd-pcie-5-0-x4-nvme-u-3",
    "cat": "SSDs",
    "sub": "PCIe 5.0 1,6 TB",
@@ -167370,6 +167551,35 @@
    "count": 1,
    "tags": "grafikkarten geforce rtx 5060 ti captiva advanced gaming r95 857 amd ryzen 7800x3d ram ssd nvidia geforce rtx 5060 schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-captiva-highend-gaming-r88-789-amd-ryzen-5-9600x-radeon-rx-9",
+   "cat": "Grafikkarten",
+   "sub": "Radeon RX 9070 XT",
+   "name": "CAPTIVA Highend Gaming R88-789 AMD Ryzen 5 9600X Radeon RX 9070 XT 32 GB RAM 2 TB SSD Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r88-789-amd-ryzen-5-9600x-radeon-rx-9070-xt-32-gb-ram-2-tb-ssd-schwarz-100558041/",
+   "stand": "2026-11-25T11:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 2437.27,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r88-789-amd-ryzen-5-9600x-radeon-rx-9070-xt-32-gb-ram-2-tb-ssd-schwarz-100558041/"
+    }
+   ],
+   "price": 2437.27,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-25",
+     "p": 2437.27
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten radeon rx 9070 xt captiva highend gaming r88 789 amd ryzen 9600x radeon 9070 ram ssd schwarz",
+   "firstSeen": "2026-11-25"
   },
   {
    "id": "c-captiva-advanced-gaming-r93-166-amd-ryzen-9-9900x-nvidia-gef",
@@ -169818,6 +170028,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-captiva-highend-gaming-r94-999-amd-ryzen-7-7800x3d-nvidia-ge",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5070",
+   "name": "Captiva Highend Gaming R94-999 AMD Ryzen 7 7800X3D NVIDIA GeForce RTX 5070 64 GB RAM 1 TB SSD Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r94-999-amd-ryzen-7-7800x3d-nvidia-geforce-rtx-5070-64-gb-ram-1-tb-ssd-schwarz-100670145/",
+   "stand": "2026-11-25T11:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 3193.27,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r94-999-amd-ryzen-7-7800x3d-nvidia-geforce-rtx-5070-64-gb-ram-1-tb-ssd-schwarz-100670145/"
+    }
+   ],
+   "price": 3193.27,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-25",
+     "p": 3193.27
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5070 captiva highend gaming r94 999 amd ryzen 7800x3d nvidia geforce rtx 5070 ram ssd schwarz",
+   "firstSeen": "2026-11-25"
+  },
+  {
    "id": "c-asus-rog-zephyrus-g16-gu606ap-tb039w-16-intel-core-ultra-9-3",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5070",
@@ -170756,6 +170995,64 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-captiva-highend-gaming-r98-070ch-16-amd-ryzen-9-9955hx-16-gb",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5080",
+   "name": "CAPTIVA Highend Gaming R98-070CH 16\" AMD Ryzen 9 9955HX 16 GB RAM 2 TB SSD GeForce RTX 5080 Windows 11 Pro Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r98-070ch-16-amd-ryzen-9-9955hx-16-gb-ram-2-tb-ssd-geforce-rtx-5080-windows-11-pro-schwarz-100726883/",
+   "stand": "2026-11-25T11:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 4496.14,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r98-070ch-16-amd-ryzen-9-9955hx-16-gb-ram-2-tb-ssd-geforce-rtx-5080-windows-11-pro-schwarz-100726883/"
+    }
+   ],
+   "price": 4496.14,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-25",
+     "p": 4496.14
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5080 captiva highend gaming r98 070ch amd ryzen 9955hx ram ssd geforce rtx 5080 windows pro schwarz",
+   "firstSeen": "2026-11-25"
+  },
+  {
+   "id": "c-captiva-ultimate-gaming-r90-955-amd-ryzen-5-7600x-32-gb-ram-",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5090",
+   "name": "Captiva Ultimate Gaming R90-955 AMD Ryzen 5 7600X 32 GB RAM 1 TB SSD NVIDIA GeForce RTX 5090 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-ultimate-gaming-r90-955-amd-ryzen-5-7600x-32-gb-ram-1-tb-ssd-nvidia-geforce-rtx-5090-schwarz-100581713/",
+   "stand": "2026-11-25T11:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 6357.23,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-ultimate-gaming-r90-955-amd-ryzen-5-7600x-32-gb-ram-1-tb-ssd-nvidia-geforce-rtx-5090-schwarz-100581713/"
+    }
+   ],
+   "price": 6357.23,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-25",
+     "p": 6357.23
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5090 captiva ultimate gaming r90 955 amd ryzen 7600x ram ssd nvidia geforce rtx 5090 schwarz",
+   "firstSeen": "2026-11-25"
+  },
+  {
    "id": "c-captiva-ultimate-gaming-i89-261-intel-core-ultra-9-285kf-nvi",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5090",
@@ -170827,6 +171124,35 @@
    "count": 1,
    "tags": "grafikkarten geforce rtx 5090 captiva ultimate gaming i89 261 intel core ultra 285kf nvidia geforce rtx 5090 ram ssd schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-captiva-ultimate-gaming-r90-640-amd-ryzen-9-7900x-64-gb-ram-",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5090",
+   "name": "CAPTIVA Ultimate Gaming R90-640, AMD Ryzen 9 7900X, 64 GB RAM, 2 TB SSD, NVIDIA GeForce RTX 5090, Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-ultimate-gaming-r90-640-amd-ryzen-9-7900x-64-gb-ram-2-tb-ssd-nvidia-geforce-rtx-5090-schwarz-100581651/",
+   "stand": "2026-11-25T11:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 7343.19,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-ultimate-gaming-r90-640-amd-ryzen-9-7900x-64-gb-ram-2-tb-ssd-nvidia-geforce-rtx-5090-schwarz-100581651/"
+    }
+   ],
+   "price": 7343.19,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-25",
+     "p": 7343.19
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5090 captiva ultimate gaming r90 640 amd ryzen 7900x ram ssd nvidia geforce rtx 5090 schwarz",
+   "firstSeen": "2026-11-25"
   },
   {
    "id": "c-captiva-ultimate-gaming-r89-360-amd-ryzen-9-9900x-nvidia-gef",
