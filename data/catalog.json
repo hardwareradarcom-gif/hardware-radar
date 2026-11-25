@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T16:15:12.937Z",
+ "updated": "2026-11-25T17:24:55.209Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -28028,35 +28028,6 @@
    "firstSeen": "2026-11-14"
   },
   {
-   "id": "c-chieftec-compact-series-ix-01b-mini-itx-gehause-ohne-netztei",
-   "cat": "Gehäuse",
-   "sub": "Gehäuse",
-   "name": "Chieftec Compact Series IX-01B Mini-ITX Gehäuse ohne Netzteil Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/chieftec-compact-series-ix-01b-mini-itx-gehaeuse-ohne-netzteil-schwarz-1497577/",
-   "stand": "2026-11-22T17:19",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 38.65,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/chieftec-compact-series-ix-01b-mini-itx-gehaeuse-ohne-netzteil-schwarz-1497577/"
-    }
-   ],
-   "price": 38.65,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-22",
-     "p": 38.65
-    }
-   ],
-   "count": 1,
-   "tags": "gehause chieftec compact series 01b mini itx ohne netzteil schwarz",
-   "firstSeen": "2026-11-22"
-  },
-  {
    "id": "c-alpenfohn-brocken-4-max-argb-cpu-kuhler-c5sli",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -52284,35 +52255,6 @@
    "count": 1,
    "tags": "netzteile dell nfx6t server netzteil plus bronze",
    "firstSeen": "2026-11-23"
-  },
-  {
-   "id": "c-fsp-fsp400-70pfl-atx-netzteil-400w-80-plus-bronze-aktiv-pfc-",
-   "cat": "Netzteile",
-   "sub": "bis 600 W",
-   "name": "FSP FSP400-70PFL ATX-Netzteil 400W 80 PLUS Bronze Aktiv-PFC Grau",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/fsp-fsp400-70pfl-atx-netzteil-400w-80-plus-bronze-aktiv-pfc-grau-4133149/",
-   "stand": "2026-11-22T17:19",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 86.26,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/fsp-fsp400-70pfl-atx-netzteil-400w-80-plus-bronze-aktiv-pfc-grau-4133149/"
-    }
-   ],
-   "price": 86.26,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-22",
-     "p": 86.26
-    }
-   ],
-   "count": 1,
-   "tags": "netzteile bis 600 w fsp fsp400 70pfl atx netzteil 400w plus bronze aktiv pfc grau",
-   "firstSeen": "2026-11-22"
   },
   {
    "id": "c-cer-nitro-vg0-vg240yp6bip-full-hd-gaming-monitor-60-5-cm-23-",
@@ -163918,6 +163860,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-captiva-highend-gaming-i94-362ge-17-3-intel-core-i7-13620h-1",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5070",
+   "name": "Captiva Highend Gaming I94-362GE 17,3\" Intel Core i7-13620H 16 GB RAM 1 TB SSD NVIDIA GeForce RTX 5070 Windows 11 Home Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-i94-362ge-17-3-intel-core-i7-13620h-16-gb-ram-1-tb-ssd-nvidia-geforce-rtx-5070-windows-11-home-schwarz-100609795/",
+   "stand": "2026-11-25T17:24",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1618.61,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-i94-362ge-17-3-intel-core-i7-13620h-16-gb-ram-1-tb-ssd-nvidia-geforce-rtx-5070-windows-11-home-schwarz-100609795/"
+    }
+   ],
+   "price": 1618.61,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-25",
+     "p": 1618.61
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5070 captiva highend gaming i94 362ge intel core 13620h ram ssd nvidia geforce rtx 5070 windows home",
+   "firstSeen": "2026-11-25"
+  },
+  {
    "id": "c-lenovo-ssd-2-tb-m-2-2280-pcie-4-0-nvme-tcg-opal-encryption-2",
    "cat": "SSDs",
    "sub": "PCIe 4.0 2 TB",
@@ -164107,6 +164078,35 @@
    "count": 1,
    "tags": "monitore 31,5\" ultragear 32gq950p gaming monitor uhd nano ips 144 grau schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-captiva-entry-gaming-i10-0566-intel-core-i7-14700f-nvidia-ge",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060",
+   "name": "Captiva Entry Gaming I10-0566 Intel Core i7-14700F NVIDIA GeForce RTX 5060 16 GB RAM 250 GB SSD 4 TB HDD Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-entry-gaming-i10-0566-intel-core-i7-14700f-nvidia-geforce-rtx-5060-16-gb-ram-250-gb-ssd-4-tb-hdd-weiss-100706055/",
+   "stand": "2026-11-25T17:24",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1661.16,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-entry-gaming-i10-0566-intel-core-i7-14700f-nvidia-geforce-rtx-5060-16-gb-ram-250-gb-ssd-4-tb-hdd-weiss-100706055/"
+    }
+   ],
+   "price": 1661.16,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-25",
+     "p": 1661.16
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 captiva entry gaming i10 0566 intel core 14700f nvidia geforce rtx 5060 ram 250 ssd hdd",
+   "firstSeen": "2026-11-25"
   },
   {
    "id": "c-kingston-fury-dimm-64-gb-ddr5-5600-2x-32-gb-dual-kit-arbeits",
@@ -164612,6 +164612,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-captiva-highend-gaming-i94-358ge-17-3-intel-core-i7-13620h-1",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5070",
+   "name": "CAPTIVA Highend Gaming I94-358GE 17,3\" Intel Core i7-13620H 16 GB RAM 500 GB SSD GeForce RTX 5070 Windows 11 Pro Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-i94-358ge-17-3-intel-core-i7-13620h-16-gb-ram-500-gb-ssd-geforce-rtx-5070-windows-11-pro-schwarz-100609792/",
+   "stand": "2026-11-25T17:24",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1701.97,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-i94-358ge-17-3-intel-core-i7-13620h-16-gb-ram-500-gb-ssd-geforce-rtx-5070-windows-11-pro-schwarz-100609792/"
+    }
+   ],
+   "price": 1701.97,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-25",
+     "p": 1701.97
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5070 captiva highend gaming i94 358ge intel core 13620h ram 500 ssd geforce rtx 5070 windows pro",
+   "firstSeen": "2026-11-25"
+  },
+  {
    "id": "c-captiva-entry-gaming-r10-2365-amd-ryzen-5-8400f-amd-radeon-r",
    "cat": "Grafikkarten",
    "sub": "Radeon RX 9060 XT",
@@ -164940,6 +164969,35 @@
    "count": 1,
    "tags": "grafikkarten geforce rtx 5060 captiva advanced gaming r95 860 amd ryzen 9500f ram ssd nvidia geforce rtx 5060 schwarz",
    "firstSeen": "2026-11-23"
+  },
+  {
+   "id": "c-captiva-highend-gaming-i94-363ge-17-3-full-hd-144-hz-intel-c",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5070",
+   "name": "Captiva Highend Gaming I94-363GE 17,3\" Full HD 144 Hz Intel Core i7-13620H 16 GB RAM 1 TB SSD NVIDIA GeForce RTX 5070 Windows 11 Pro Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-i94-363ge-17-3-full-hd-144-hz-intel-core-i7-13620h-16-gb-ram-1-tb-ssd-nvidia-geforce-rtx-5070-windows-11-pro-schwarz-100609796/",
+   "stand": "2026-11-25T17:24",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1752.29,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-i94-363ge-17-3-full-hd-144-hz-intel-core-i7-13620h-16-gb-ram-1-tb-ssd-nvidia-geforce-rtx-5070-windows-11-pro-schwarz-100609796/"
+    }
+   ],
+   "price": 1752.29,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-25",
+     "p": 1752.29
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5070 captiva highend gaming i94 363ge full 144 intel core 13620h ram ssd nvidia geforce rtx 5070",
+   "firstSeen": "2026-11-25"
   },
   {
    "id": "c-captiva-advanced-gaming-r98-128-ryzen-5-5500-nvidia-geforce-",
@@ -165368,6 +165426,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-captiva-highend-gaming-i94-368ge-17-3-intel-core-i7-13620h-3",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5070",
+   "name": "Captiva Highend Gaming I94-368GE 17.3\" Intel Core i7-13620H 32 GB RAM 1 TB SSD NVIDIA GeForce RTX 5070 Windows 11 Home Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-i94-368ge-17-3-intel-core-i7-13620h-32-gb-ram-1-tb-ssd-nvidia-geforce-rtx-5070-windows-11-home-schwarz-100609798/",
+   "stand": "2026-11-25T17:24",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1851.45,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-i94-368ge-17-3-intel-core-i7-13620h-32-gb-ram-1-tb-ssd-nvidia-geforce-rtx-5070-windows-11-home-schwarz-100609798/"
+    }
+   ],
+   "price": 1851.45,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-25",
+     "p": 1851.45
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5070 captiva highend gaming i94 368ge intel core 13620h ram ssd nvidia geforce rtx 5070 windows home",
+   "firstSeen": "2026-11-25"
+  },
+  {
    "id": "c-micron-7500-max-1-6-tb-ssd-u-3-pcie-4-0-nvme",
    "cat": "SSDs",
    "sub": "PCIe 4.0 1,6 TB",
@@ -165793,6 +165880,35 @@
    "count": 1,
    "tags": "ssds pcie 5.0 8 tb western digital black sn8100 ssd 2280 pcie nvme",
    "firstSeen": "2026-11-03"
+  },
+  {
+   "id": "c-captiva-highend-gaming-i94-374ge-17-3-intel-core-i7-13620h-3",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5070",
+   "name": "CAPTIVA Highend Gaming I94-374GE 17.3\" Intel Core i7-13620H 32 GB RAM 2 TB SSD GeForce RTX 5070 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-i94-374ge-17-3-intel-core-i7-13620h-32-gb-ram-2-tb-ssd-geforce-rtx-5070-schwarz-100609802/",
+   "stand": "2026-11-25T17:24",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1982.23,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-i94-374ge-17-3-intel-core-i7-13620h-32-gb-ram-2-tb-ssd-geforce-rtx-5070-schwarz-100609802/"
+    }
+   ],
+   "price": 1982.23,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-25",
+     "p": 1982.23
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5070 captiva highend gaming i94 374ge intel core 13620h ram ssd geforce rtx 5070 schwarz",
+   "firstSeen": "2026-11-25"
   },
   {
    "id": "c-captiva-advanced-gaming-r98-248-amd-ryzen-5-7500x3d-32-gb-ra",
@@ -170697,6 +170813,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-captiva-highend-gaming-r99-341-amd-ryzen-7-9850x3d-64-gb-ram",
+   "cat": "Grafikkarten",
+   "sub": "Radeon RX 9070",
+   "name": "Captiva Highend Gaming R99-341 AMD Ryzen 7 9850X3D 64 GB RAM 2 TB SSD Radeon RX 9070 16 GB Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r99-341-amd-ryzen-7-9850x3d-64-gb-ram-2-tb-ssd-radeon-rx-9070-16-gb-schwarz-100693916/",
+   "stand": "2026-11-25T17:24",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 2966.75,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r99-341-amd-ryzen-7-9850x3d-64-gb-ram-2-tb-ssd-radeon-rx-9070-16-gb-schwarz-100693916/"
+    }
+   ],
+   "price": 2966.75,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-25",
+     "p": 2966.75
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten radeon rx 9070 captiva highend gaming r99 341 amd ryzen 9850x3d ram ssd radeon 9070 schwarz",
+   "firstSeen": "2026-11-25"
+  },
+  {
    "id": "c-captiva-advanced-gaming-i97-984ch-15-3-32-gb-ram-2-tb-ssd-ge",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5060",
@@ -170768,6 +170913,35 @@
    "count": 1,
    "tags": "grafikkarten geforce rtx 5060 captiva advanced gaming i97 984ch ram ssd geforce rtx 5060 schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-captiva-highend-gaming-r92-234-16-amd-ryzen-9-9955hx-16-gb-r",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5080",
+   "name": "CAPTIVA Highend Gaming R92-234 16\" AMD Ryzen 9 9955HX 16 GB RAM 1 TB SSD NVIDIA GeForce RTX 5080 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r92-234-16-amd-ryzen-9-9955hx-16-gb-ram-1-tb-ssd-nvidia-geforce-rtx-5080-schwarz-100586945/",
+   "stand": "2026-11-25T17:24",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 3091.22,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r92-234-16-amd-ryzen-9-9955hx-16-gb-ram-1-tb-ssd-nvidia-geforce-rtx-5080-schwarz-100586945/"
+    }
+   ],
+   "price": 3091.22,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-25",
+     "p": 3091.22
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5080 captiva highend gaming r92 234 amd ryzen 9955hx ram ssd nvidia geforce rtx 5080 schwarz",
+   "firstSeen": "2026-11-25"
   },
   {
    "id": "c-captiva-highend-gaming-i89-590-intel-core-i7-14700f-nvidia-g",
@@ -171322,6 +171496,180 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-captiva-ultimate-gaming-r92-196-16-amd-ryzen-9-9955hx-16-gb-",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5090",
+   "name": "Captiva Ultimate Gaming R92-196 16\" AMD Ryzen 9 9955HX 16 GB RAM 2 TB SSD NVIDIA GeForce RTX 5090 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-ultimate-gaming-r92-196-16-amd-ryzen-9-9955hx-16-gb-ram-2-tb-ssd-nvidia-geforce-rtx-5090-schwarz-100586921/",
+   "stand": "2026-11-25T17:24",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 3384.85,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-ultimate-gaming-r92-196-16-amd-ryzen-9-9955hx-16-gb-ram-2-tb-ssd-nvidia-geforce-rtx-5090-schwarz-100586921/"
+    }
+   ],
+   "price": 3384.85,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-25",
+     "p": 3384.85
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5090 captiva ultimate gaming r92 196 amd ryzen 9955hx ram ssd nvidia geforce rtx 5090 schwarz",
+   "firstSeen": "2026-11-25"
+  },
+  {
+   "id": "c-captiva-highend-gaming-r92-240-16-amd-ryzen-9-9955hx-16-gb-r",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5080",
+   "name": "CAPTIVA Highend Gaming R92-240 16\" AMD Ryzen 9 9955HX 16 GB RAM 2 TB SSD GeForce RTX 5080 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r92-240-16-amd-ryzen-9-9955hx-16-gb-ram-2-tb-ssd-geforce-rtx-5080-schwarz-100586949/",
+   "stand": "2026-11-25T17:24",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 3391.61,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r92-240-16-amd-ryzen-9-9955hx-16-gb-ram-2-tb-ssd-geforce-rtx-5080-schwarz-100586949/"
+    }
+   ],
+   "price": 3391.61,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-25",
+     "p": 3391.61
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5080 captiva highend gaming r92 240 amd ryzen 9955hx ram ssd geforce rtx 5080 schwarz",
+   "firstSeen": "2026-11-25"
+  },
+  {
+   "id": "c-captiva-highend-gaming-r92-249-16-amd-ryzen-9-9955hx-32-gb-r",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5080",
+   "name": "CAPTIVA Highend Gaming R92-249 16\" AMD Ryzen 9 9955HX 32 GB RAM 1 TB SSD NVIDIA GeForce RTX 5080 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r92-249-16-amd-ryzen-9-9955hx-32-gb-ram-1-tb-ssd-nvidia-geforce-rtx-5080-schwarz-100586954/",
+   "stand": "2026-11-25T17:24",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 3447.67,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r92-249-16-amd-ryzen-9-9955hx-32-gb-ram-1-tb-ssd-nvidia-geforce-rtx-5080-schwarz-100586954/"
+    }
+   ],
+   "price": 3447.67,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-25",
+     "p": 3447.67
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5080 captiva highend gaming r92 249 amd ryzen 9955hx ram ssd nvidia geforce rtx 5080 schwarz",
+   "firstSeen": "2026-11-25"
+  },
+  {
+   "id": "c-captiva-ultimate-gaming-r92-200-16-amd-ryzen-9-9955hx-32-gb-",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5090",
+   "name": "CAPTIVA Ultimate Gaming R92-200 16\" AMD Ryzen 9 9955HX 32 GB RAM 500 GB SSD NVIDIA GeForce RTX 5090 24 GB Windows 11 Home Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-ultimate-gaming-r92-200-16-amd-ryzen-9-9955hx-32-gb-ram-500-gb-ssd-nvidia-geforce-rtx-5090-24-gb-windows-11-home-schwarz-100586925/",
+   "stand": "2026-11-25T17:24",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 3459.53,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-ultimate-gaming-r92-200-16-amd-ryzen-9-9955hx-32-gb-ram-500-gb-ssd-nvidia-geforce-rtx-5090-24-gb-windows-11-home-schwarz-100586925/"
+    }
+   ],
+   "price": 3459.53,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-25",
+     "p": 3459.53
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5090 captiva ultimate gaming r92 200 amd ryzen 9955hx ram 500 ssd nvidia geforce rtx 5090 windows",
+   "firstSeen": "2026-11-25"
+  },
+  {
+   "id": "c-captiva-ultimate-gaming-r92-203-16-ryzen-9-9955hx-32-gb-ram-",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5090",
+   "name": "Captiva Ultimate Gaming R92-203 16\" Ryzen 9 9955HX 32 GB RAM 1 TB SSD GeForce RTX 5090 Windows 11 Home Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-ultimate-gaming-r92-203-16-ryzen-9-9955hx-32-gb-ram-1-tb-ssd-geforce-rtx-5090-windows-11-home-schwarz-100586928/",
+   "stand": "2026-11-25T17:24",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 3531.4,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-ultimate-gaming-r92-203-16-ryzen-9-9955hx-32-gb-ram-1-tb-ssd-geforce-rtx-5090-windows-11-home-schwarz-100586928/"
+    }
+   ],
+   "price": 3531.4,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-25",
+     "p": 3531.4
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5090 captiva ultimate gaming r92 203 ryzen 9955hx ram ssd geforce rtx 5090 windows home schwarz",
+   "firstSeen": "2026-11-25"
+  },
+  {
+   "id": "c-captiva-highend-gaming-r92-257-16-amd-ryzen-9-9955hx-32-gb-r",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5080",
+   "name": "CAPTIVA Highend Gaming R92-257 16\" AMD Ryzen 9 9955HX 32 GB RAM 2 TB SSD NVIDIA GeForce RTX 5080 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r92-257-16-amd-ryzen-9-9955hx-32-gb-ram-2-tb-ssd-nvidia-geforce-rtx-5080-schwarz-100586956/",
+   "stand": "2026-11-25T17:24",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 3533.9,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r92-257-16-amd-ryzen-9-9955hx-32-gb-ram-2-tb-ssd-nvidia-geforce-rtx-5080-schwarz-100586956/"
+    }
+   ],
+   "price": 3533.9,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-25",
+     "p": 3533.9
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5080 captiva highend gaming r92 257 amd ryzen 9955hx ram ssd nvidia geforce rtx 5080 schwarz",
+   "firstSeen": "2026-11-25"
+  },
+  {
    "id": "c-captiva-advanced-gaming-i97-994ch-15-3-amd-ryzen-7-255-64-gb",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5060",
@@ -171399,6 +171747,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-captiva-ultimate-gaming-r92-198-16-ryzen-9-9955hx-16-gb-ram-",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5090",
+   "name": "CAPTIVA Ultimate Gaming R92-198 16\" Ryzen 9 9955HX 16 GB RAM 2 TB SSD GeForce RTX 5090 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-ultimate-gaming-r92-198-16-ryzen-9-9955hx-16-gb-ram-2-tb-ssd-geforce-rtx-5090-schwarz-100586923/",
+   "stand": "2026-11-25T17:24",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 3549.71,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-ultimate-gaming-r92-198-16-ryzen-9-9955hx-16-gb-ram-2-tb-ssd-geforce-rtx-5090-schwarz-100586923/"
+    }
+   ],
+   "price": 3549.71,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-25",
+     "p": 3549.71
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5090 captiva ultimate gaming r92 198 ryzen 9955hx ram ssd geforce rtx 5090 schwarz",
+   "firstSeen": "2026-11-25"
+  },
+  {
    "id": "c-captiva-highend-gaming-i95-712-intel-core-i9-14900kf-32-gb-r",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5080",
@@ -171474,6 +171851,35 @@
    "count": 1,
    "tags": "grafikkarten geforce rtx 5080 captiva highend gaming i95 712 intel core 14900kf ram ssd nvidia geforce rtx 5080 schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-captiva-ultimate-gaming-r92-205-16-amd-ryzen-9-9955hx-32-gb-",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5090",
+   "name": "Captiva Ultimate Gaming R92-205 16\" AMD Ryzen 9 9955HX 32 GB RAM 2 TB SSD GeForce RTX 5090 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-ultimate-gaming-r92-205-16-amd-ryzen-9-9955hx-32-gb-ram-2-tb-ssd-geforce-rtx-5090-schwarz-100586930/",
+   "stand": "2026-11-25T17:24",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 3611.71,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-ultimate-gaming-r92-205-16-amd-ryzen-9-9955hx-32-gb-ram-2-tb-ssd-geforce-rtx-5090-schwarz-100586930/"
+    }
+   ],
+   "price": 3611.71,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-25",
+     "p": 3611.71
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5090 captiva ultimate gaming r92 205 amd ryzen 9955hx ram ssd geforce rtx 5090 schwarz",
+   "firstSeen": "2026-11-25"
   },
   {
    "id": "c-captiva-advanced-gaming-i97-999ch-15-3-amd-ryzen-7-255-64-gb",
