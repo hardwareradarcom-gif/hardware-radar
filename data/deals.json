@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T14:27:10.967Z",
+ "updated": "2026-11-25T16:15:12.937Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -3922,8 +3922,8 @@
    "price": 49.9,
    "ref": 59.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/hyte-x50-midi-tower-snow-white/GEHY-053.html",
-   "url": "https://www.caseking.de/en/hyte-x50-midi-tower-snow-white/GEHY-053.html",
+   "shopUrl": "https://www.caseking.de/hyte-x50-midi-tower-snow-white/GEHY-053.html",
+   "url": "https://www.caseking.de/hyte-x50-midi-tower-snow-white/GEHY-053.html",
    "note": "17 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -3984,6 +3984,10 @@
     },
     {
      "d": "2026-11-23",
+     "p": 49.9
+    },
+    {
+     "d": "2026-11-25",
      "p": 49.9
     }
    ],
@@ -4298,72 +4302,6 @@
    "source": "crawler"
   },
   {
-   "id": "c-samsung-viewfinity-s6-s34c652vau-34-uwqhd-curved-monitor-100",
-   "name": "Samsung ViewFinity S6 S34C652VAU 34\" UWQHD Curved Monitor 100 Hz Schwarz",
-   "cat": "Monitore",
-   "price": 345.48,
-   "ref": 407.17,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/samsung-viewfinity-s6-s34c652vau-34-uwqhd-curved-monitor-100-hz-schwarz-9201963/",
-   "url": "https://www.jacob.de/produkt/samsung-viewfinity-s6-s34c652vau-34-uwqhd-curved-monitor-100-hz-schwarz-9201963/",
-   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 407.17
-    },
-    {
-     "d": "2026-10-31",
-     "p": 407.17
-    },
-    {
-     "d": "2026-11-01",
-     "p": 407.17
-    },
-    {
-     "d": "2026-11-02",
-     "p": 407.17
-    },
-    {
-     "d": "2026-11-04",
-     "p": 367.08
-    },
-    {
-     "d": "2026-11-07",
-     "p": 407.17
-    },
-    {
-     "d": "2026-11-09",
-     "p": 407.17
-    },
-    {
-     "d": "2026-11-11",
-     "p": 373.15
-    },
-    {
-     "d": "2026-11-14",
-     "p": 407.17
-    },
-    {
-     "d": "2026-11-16",
-     "p": 393.89
-    },
-    {
-     "d": "2026-11-19",
-     "p": 393.89
-    },
-    {
-     "d": "2026-11-22",
-     "p": 345.48
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
-   "tags": "monitore 34\" samsung viewfinity s34c652vau uwqhd curved monitor 100 schwarz",
-   "source": "crawler"
-  },
-  {
    "id": "c-alphacool-core-ddr5-ram-module-2-pieces-black",
    "name": "Alphacool Core DDR5 RAM module, 2 pieces - black",
    "cat": "Arbeitsspeicher",
@@ -4562,64 +4500,6 @@
    "source": "crawler"
   },
   {
-   "id": "c-jonsbo-c6-pc-gehause-mini-tower-micro-atx-weiss",
-   "name": "Jonsbo C6 PC-Gehäuse, Mini-Tower, Micro-ATX - weiß",
-   "cat": "Gehäuse",
-   "price": 38.16,
-   "ref": 44.9,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/jonsbo-c6-pc-case-mini-tower-micro-atx-white/GEJB-125-A1.html",
-   "url": "https://www.caseking.de/en/jonsbo-c6-pc-case-mini-tower-micro-atx-white/GEJB-125-A1.html",
-   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-05",
-     "p": 44.9
-    },
-    {
-     "d": "2026-11-07",
-     "p": 44.9
-    },
-    {
-     "d": "2026-11-09",
-     "p": 44.9
-    },
-    {
-     "d": "2026-11-11",
-     "p": 44.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 44.9
-    },
-    {
-     "d": "2026-11-16",
-     "p": 44.9
-    },
-    {
-     "d": "2026-11-18",
-     "p": 44.9
-    },
-    {
-     "d": "2026-11-20",
-     "p": 44.9
-    },
-    {
-     "d": "2026-11-23",
-     "p": 44.9
-    },
-    {
-     "d": "2026-11-25",
-     "p": 38.16
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
-   "tags": "gehause jonsbo mini tower micro atx weiss",
-   "source": "crawler"
-  },
-  {
    "id": "c-be-quiet-system-power-11-80-plus-bronze-netzteil-atx-3-1-pci",
    "name": "be quiet! System Power 11 80 PLUS Bronze Netzteil, ATX 3.1, PCIe 5.1 - 450 Watt, schwarz",
    "cat": "Netzteile",
@@ -4708,8 +4588,8 @@
    "price": 67.91,
    "ref": 79.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/alphacool-core-1-lt-cpu-kuehler-schwarz/WACP-552.html",
-   "url": "https://www.caseking.de/alphacool-core-1-lt-cpu-kuehler-schwarz/WACP-552.html",
+   "shopUrl": "https://www.caseking.de/en/alphacool-core-1-lt-cpu-cooler-black/WACP-552.html",
+   "url": "https://www.caseking.de/en/alphacool-core-1-lt-cpu-cooler-black/WACP-552.html",
    "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -4782,8 +4662,8 @@
    "price": 72.16,
    "ref": 84.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/alphacool-core-1-aurora-lt-cpu-kuehler-argb-acryl/WACP-551.html",
-   "url": "https://www.caseking.de/alphacool-core-1-aurora-lt-cpu-kuehler-argb-acryl/WACP-551.html",
+   "shopUrl": "https://www.caseking.de/en/alphacool-core-1-aurora-lt-cpu-cooler-argb-acrylic/WACP-551.html",
+   "url": "https://www.caseking.de/en/alphacool-core-1-aurora-lt-cpu-cooler-argb-acrylic/WACP-551.html",
    "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -5004,8 +4884,8 @@
    "price": 90.01,
    "ref": 105.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/alphacool-core-1-cpu-kuehler-schwarz/WACP-533.html",
-   "url": "https://www.caseking.de/alphacool-core-1-cpu-kuehler-schwarz/WACP-533.html",
+   "shopUrl": "https://www.caseking.de/en/alphacool-core-1-cpu-cooler-black/WACP-533.html",
+   "url": "https://www.caseking.de/en/alphacool-core-1-cpu-cooler-black/WACP-533.html",
    "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -5312,8 +5192,8 @@
    "price": 98.51,
    "ref": 115.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/alphacool-core-1-cpu-kuehler-weiss/WACP-535.html",
-   "url": "https://www.caseking.de/alphacool-core-1-cpu-kuehler-weiss/WACP-535.html",
+   "shopUrl": "https://www.caseking.de/en/alphacool-core-1-cpu-cooler-white/WACP-535.html",
+   "url": "https://www.caseking.de/en/alphacool-core-1-cpu-cooler-white/WACP-535.html",
    "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -5386,8 +5266,8 @@
    "price": 101.91,
    "ref": 119.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/alphacool-core-1-aurora-cpu-kuehler-argb-schwarz/WACP-536.html",
-   "url": "https://www.caseking.de/alphacool-core-1-aurora-cpu-kuehler-argb-schwarz/WACP-536.html",
+   "shopUrl": "https://www.caseking.de/en/alphacool-core-1-aurora-cpu-cooler-argb-black/WACP-536.html",
+   "url": "https://www.caseking.de/en/alphacool-core-1-aurora-cpu-cooler-argb-black/WACP-536.html",
    "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -5460,8 +5340,8 @@
    "price": 101.91,
    "ref": 119.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/alphacool-core-1-cpu-kuehler-carbon/WACP-553.html",
-   "url": "https://www.caseking.de/alphacool-core-1-cpu-kuehler-carbon/WACP-553.html",
+   "shopUrl": "https://www.caseking.de/en/alphacool-core-1-cpu-cooler-carbon/WACP-553.html",
+   "url": "https://www.caseking.de/en/alphacool-core-1-cpu-cooler-carbon/WACP-553.html",
    "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -5534,8 +5414,8 @@
    "price": 116.36,
    "ref": 136.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/alphacool-core-1-aurora-cpu-kuehler-argb-weiss/WACH-874.html",
-   "url": "https://www.caseking.de/alphacool-core-1-aurora-cpu-kuehler-argb-weiss/WACH-874.html",
+   "shopUrl": "https://www.caseking.de/en/alphacool-core-1-aurora-cpu-cooler-argb-white/WACH-874.html",
+   "url": "https://www.caseking.de/en/alphacool-core-1-aurora-cpu-cooler-argb-white/WACH-874.html",
    "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -5608,8 +5488,8 @@
    "price": 116.36,
    "ref": 136.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/alphacool-core-1-aurora-cpu-kuehler-a-rgb-carbon/WACP-550.html",
-   "url": "https://www.caseking.de/alphacool-core-1-aurora-cpu-kuehler-a-rgb-carbon/WACP-550.html",
+   "shopUrl": "https://www.caseking.de/en/alphacool-core-1-aurora-cpu-cooler-a-rgb-carbon/WACP-550.html",
+   "url": "https://www.caseking.de/en/alphacool-core-1-aurora-cpu-cooler-a-rgb-carbon/WACP-550.html",
    "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -5760,8 +5640,8 @@
    "price": 135.91,
    "ref": 159.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/alphacool-apex-1-cpu-kuehler-am5-sockel-argb-schwarz/WACP-562.html",
-   "url": "https://www.caseking.de/alphacool-apex-1-cpu-kuehler-am5-sockel-argb-schwarz/WACP-562.html",
+   "shopUrl": "https://www.caseking.de/en/alphacool-apex-1-cpu-cooler-am5-socket-argb-black/WACP-562.html",
+   "url": "https://www.caseking.de/en/alphacool-apex-1-cpu-cooler-am5-socket-argb-black/WACP-562.html",
    "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -5888,8 +5768,8 @@
    "price": 152.06,
    "ref": 178.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/alphacool-apex-1-cpu-kuehler-lga-1700-1851-sockel-argb-schwarz/WACP-563.html",
-   "url": "https://www.caseking.de/alphacool-apex-1-cpu-kuehler-lga-1700-1851-sockel-argb-schwarz/WACP-563.html",
+   "shopUrl": "https://www.caseking.de/en/alphacool-apex-1-cpu-cooler-lga-1700-1851-socket-argb-black/WACP-563.html",
+   "url": "https://www.caseking.de/en/alphacool-apex-1-cpu-cooler-lga-1700-1851-socket-argb-black/WACP-563.html",
    "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -6571,6 +6451,114 @@
    "seen": "2026-11-25",
    "updated": "2026-11-25",
    "tags": "gehause hyte y70 firefly japan edition midi tower atx tempered glass silber",
+   "source": "crawler"
+  },
+  {
+   "id": "c-kingston-fury-beast-32-gb-ddr4-3600-mhz-cl18-dimm-schwarz",
+   "name": "Kingston FURY Beast 32 GB DDR4 3600 MHz CL18 DIMM Schwarz",
+   "cat": "Arbeitsspeicher",
+   "price": 364.93,
+   "ref": 424.84,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/kingston-fury-beast-32-gb-ddr4-3600-mhz-cl18-dimm-schwarz-7287442/",
+   "url": "https://www.jacob.de/produkt/kingston-fury-beast-32-gb-ddr4-3600-mhz-cl18-dimm-schwarz-7287442/",
+   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 428.38
+    },
+    {
+     "d": "2026-10-31",
+     "p": 429.54
+    },
+    {
+     "d": "2026-11-01",
+     "p": 424.84
+    },
+    {
+     "d": "2026-11-02",
+     "p": 428.38
+    },
+    {
+     "d": "2026-11-03",
+     "p": 429.54
+    },
+    {
+     "d": "2026-11-05",
+     "p": 432.66
+    },
+    {
+     "d": "2026-11-07",
+     "p": 434.65
+    },
+    {
+     "d": "2026-11-10",
+     "p": 358.75
+    },
+    {
+     "d": "2026-11-12",
+     "p": 358.75
+    },
+    {
+     "d": "2026-11-15",
+     "p": 356.74
+    },
+    {
+     "d": "2026-11-17",
+     "p": 367.98
+    },
+    {
+     "d": "2026-11-20",
+     "p": 367.98
+    },
+    {
+     "d": "2026-11-23",
+     "p": 364.93
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-25",
+   "updated": "2026-11-25",
+   "tags": "arbeitsspeicher ddr4 32 gb kingston fury beast ddr4 3600 mhz cl18 dimm schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-asus-rog-ryuo-iv-360-argb-all-in-one-cpu-wasserkuhlung-6-67-",
+   "name": "ASUS ROG RYUO IV 360 ARGB All-in-One CPU-Wasserkühlung 6,67\" AMOLED Schwarz",
+   "cat": "Kühlung",
+   "price": 355.56,
+   "ref": 412.86,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/asus-rog-ryuo-iv-360-argb-all-in-one-cpu-wasserkuehlung-6-67-amoled-schwarz-100692720/",
+   "url": "https://www.jacob.de/produkt/asus-rog-ryuo-iv-360-argb-all-in-one-cpu-wasserkuehlung-6-67-amoled-schwarz-100692720/",
+   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-12",
+     "p": 412.86
+    },
+    {
+     "d": "2026-11-15",
+     "p": 412.86
+    },
+    {
+     "d": "2026-11-17",
+     "p": 412.86
+    },
+    {
+     "d": "2026-11-20",
+     "p": 412.86
+    },
+    {
+     "d": "2026-11-23",
+     "p": 355.56
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-25",
+   "updated": "2026-11-25",
+   "tags": "kuhlung aio-wasserkuhlung asus rog ryuo 360 argb all one cpu wasserkuhlung amoled schwarz",
    "source": "crawler"
   }
  ],
