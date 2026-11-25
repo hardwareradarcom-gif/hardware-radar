@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T08:36:45.082Z",
+ "updated": "2026-11-25T10:17:07.008Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1523,6 +1523,10 @@
     {
      "d": "2026-11-22",
      "p": 19.9
+    },
+    {
+     "d": "2026-11-25",
+     "p": 19.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -1940,6 +1944,10 @@
     },
     {
      "d": "2026-11-23",
+     "p": 149.9
+    },
+    {
+     "d": "2026-11-25",
      "p": 149.9
     }
    ],
@@ -3180,6 +3188,76 @@
    "source": "crawler"
   },
   {
+   "id": "c-philips-p-line-346p1crh-34-curved-wqhd-monitor-3440-x-1440-1",
+   "name": "Philips P-line 346P1CRH 34\" Curved WQHD Monitor 3440 x 1440 100 Hz VA HDMI DisplayPort USB-C Schwarz",
+   "cat": "Monitore",
+   "price": 610.52,
+   "ref": 751.69,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/philips-p-line-346p1crh-34-curved-wqhd-monitor-3440-x-1440-100-hz-va-hdmi-displayport-usb-c-schwarz-6225264/",
+   "url": "https://www.jacob.de/produkt/philips-p-line-346p1crh-34-curved-wqhd-monitor-3440-x-1440-100-hz-va-hdmi-displayport-usb-c-schwarz-6225264/",
+   "note": "19 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 751.69
+    },
+    {
+     "d": "2026-10-31",
+     "p": 751.69
+    },
+    {
+     "d": "2026-11-01",
+     "p": 751.69
+    },
+    {
+     "d": "2026-11-02",
+     "p": 751.69
+    },
+    {
+     "d": "2026-11-03",
+     "p": 751.69
+    },
+    {
+     "d": "2026-11-06",
+     "p": 751.69
+    },
+    {
+     "d": "2026-11-08",
+     "p": 751.69
+    },
+    {
+     "d": "2026-11-11",
+     "p": 610.52
+    },
+    {
+     "d": "2026-11-13",
+     "p": 610.52
+    },
+    {
+     "d": "2026-11-16",
+     "p": 610.52
+    },
+    {
+     "d": "2026-11-19",
+     "p": 610.52
+    },
+    {
+     "d": "2026-11-22",
+     "p": 610.52
+    },
+    {
+     "d": "2026-11-25",
+     "p": 610.52
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-25",
+   "updated": "2026-11-25",
+   "tags": "monitore 34\" philips line 346p1crh curved wqhd monitor 3440 1440 100 hdmi displayport usb schwarz",
+   "source": "crawler"
+  },
+  {
    "id": "c-seasonic-focus-gx-80-plus-gold-netzteil-modular-1000-watt-we",
    "name": "Seasonic Focus GX 80 PLUS Gold Netzteil, modular - 1000 Watt, weiß",
    "cat": "Netzteile",
@@ -3675,72 +3753,6 @@
    "seen": "2026-11-25",
    "updated": "2026-11-25",
    "tags": "mainboards am5 b850 asus tuf gaming b850m plus wifi7 amd b850 mainboard micro atx sockel am5 ddr5 schwarz",
-   "source": "crawler"
-  },
-  {
-   "id": "c-lg-ultragear-39gx90sa-w-oled-monitor-gaming-gebogen-99-1-cm-",
-   "name": "LG UltraGear 39GX90SA-W - OLED-Monitor - Gaming - gebogen - 99.1 cm (39\") (39GX90SA-W.AEU)",
-   "cat": "Monitore",
-   "price": 960.02,
-   "ref": 1156.36,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/lg-ultragear-39gx90sa-w-oled-monitor-gaming-gebogen-99-1-cm-39-39gx90sa-w-aeu-100583714/",
-   "url": "https://www.jacob.de/produkt/lg-ultragear-39gx90sa-w-oled-monitor-gaming-gebogen-99-1-cm-39-39gx90sa-w-aeu-100583714/",
-   "note": "17 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 1079.62
-    },
-    {
-     "d": "2026-10-31",
-     "p": 1156.36
-    },
-    {
-     "d": "2026-11-01",
-     "p": 1156.36
-    },
-    {
-     "d": "2026-11-02",
-     "p": 1156.36
-    },
-    {
-     "d": "2026-11-04",
-     "p": 1156.36
-    },
-    {
-     "d": "2026-11-06",
-     "p": 1156.36
-    },
-    {
-     "d": "2026-11-09",
-     "p": 1156.36
-    },
-    {
-     "d": "2026-11-11",
-     "p": 1156.36
-    },
-    {
-     "d": "2026-11-13",
-     "p": 1156.36
-    },
-    {
-     "d": "2026-11-16",
-     "p": 1156.36
-    },
-    {
-     "d": "2026-11-19",
-     "p": 1046.74
-    },
-    {
-     "d": "2026-11-22",
-     "p": 960.02
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
-   "tags": "monitore 39\" ultragear 39gx90sa oled monitor gaming gebogen aeu",
    "source": "crawler"
   },
   {
