@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T11:30:19.791Z",
+ "updated": "2026-11-25T12:07:52.621Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -3480,6 +3480,84 @@
    "source": "crawler"
   },
   {
+   "id": "c-intel-core-i9-12900k-3-20-ghz-alder-lake-s-sockel-1700-boxed",
+   "name": "Intel Core i9-12900K 3,20 GHz (Alder Lake-S) Sockel 1700 - boxed",
+   "cat": "Prozessoren",
+   "price": 324.9,
+   "ref": 394.53,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/intel-core-i9-12900k-3.20-ghz-alder-lake-s-socket-1700-boxed/HPIT-747.html",
+   "url": "https://www.caseking.de/en/intel-core-i9-12900k-3.20-ghz-alder-lake-s-socket-1700-boxed/HPIT-747.html",
+   "note": "18 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 394.53
+    },
+    {
+     "d": "2026-10-30",
+     "p": 394.53
+    },
+    {
+     "d": "2026-10-31",
+     "p": 394.53
+    },
+    {
+     "d": "2026-11-01",
+     "p": 394.53
+    },
+    {
+     "d": "2026-11-03",
+     "p": 394.53
+    },
+    {
+     "d": "2026-11-05",
+     "p": 394.53
+    },
+    {
+     "d": "2026-11-07",
+     "p": 394.53
+    },
+    {
+     "d": "2026-11-09",
+     "p": 394.53
+    },
+    {
+     "d": "2026-11-11",
+     "p": 394.53
+    },
+    {
+     "d": "2026-11-13",
+     "p": 394.53
+    },
+    {
+     "d": "2026-11-16",
+     "p": 394.53
+    },
+    {
+     "d": "2026-11-18",
+     "p": 394.53
+    },
+    {
+     "d": "2026-11-20",
+     "p": 394.53
+    },
+    {
+     "d": "2026-11-22",
+     "p": 394.53
+    },
+    {
+     "d": "2026-11-25",
+     "p": 324.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-25",
+   "updated": "2026-11-25",
+   "tags": "prozessoren intel lga1700 intel core 12900k ghz alder lake sockel 1700 boxed",
+   "source": "crawler"
+  },
+  {
    "id": "c-gigabyte-m27q2-qd-ice-27-zoll-qhd-gaming-monitor-200hz-ss-ip",
    "name": "GIGABYTE M27Q2 QD ICE 27 Zoll QHD Gaming-Monitor, 200Hz, SS-IPS-Panel, G-Sync Compatible",
    "cat": "Monitore",
@@ -3753,6 +3831,76 @@
    "seen": "2026-11-25",
    "updated": "2026-11-25",
    "tags": "mainboards am5 b850 asus tuf gaming b850m plus wifi7 amd b850 mainboard micro atx sockel am5 ddr5 schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-lg-ultragear-39gx90sa-w-oled-monitor-gaming-gebogen-99-1-cm-",
+   "name": "LG UltraGear 39GX90SA-W - OLED-Monitor - Gaming - gebogen - 99.1 cm (39\") (39GX90SA-W.AEU)",
+   "cat": "Monitore",
+   "price": 960.02,
+   "ref": 1156.36,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/lg-ultragear-39gx90sa-w-oled-monitor-gaming-gebogen-99-1-cm-39-39gx90sa-w-aeu-100583714/",
+   "url": "https://www.jacob.de/produkt/lg-ultragear-39gx90sa-w-oled-monitor-gaming-gebogen-99-1-cm-39-39gx90sa-w-aeu-100583714/",
+   "note": "17 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 1079.62
+    },
+    {
+     "d": "2026-10-31",
+     "p": 1156.36
+    },
+    {
+     "d": "2026-11-01",
+     "p": 1156.36
+    },
+    {
+     "d": "2026-11-02",
+     "p": 1156.36
+    },
+    {
+     "d": "2026-11-04",
+     "p": 1156.36
+    },
+    {
+     "d": "2026-11-06",
+     "p": 1156.36
+    },
+    {
+     "d": "2026-11-09",
+     "p": 1156.36
+    },
+    {
+     "d": "2026-11-11",
+     "p": 1156.36
+    },
+    {
+     "d": "2026-11-13",
+     "p": 1156.36
+    },
+    {
+     "d": "2026-11-16",
+     "p": 1156.36
+    },
+    {
+     "d": "2026-11-19",
+     "p": 1046.74
+    },
+    {
+     "d": "2026-11-22",
+     "p": 960.02
+    },
+    {
+     "d": "2026-11-25",
+     "p": 960.02
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-25",
+   "updated": "2026-11-25",
+   "tags": "monitore 39\" ultragear 39gx90sa oled monitor gaming gebogen aeu",
    "source": "crawler"
   },
   {
@@ -4540,8 +4688,8 @@
    "price": 67.91,
    "ref": 79.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/alphacool-core-1-lt-cpu-cooler-black/WACP-552.html",
-   "url": "https://www.caseking.de/en/alphacool-core-1-lt-cpu-cooler-black/WACP-552.html",
+   "shopUrl": "https://www.caseking.de/alphacool-core-1-lt-cpu-kuehler-schwarz/WACP-552.html",
+   "url": "https://www.caseking.de/alphacool-core-1-lt-cpu-kuehler-schwarz/WACP-552.html",
    "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -4595,6 +4743,10 @@
     {
      "d": "2026-11-23",
      "p": 67.91
+    },
+    {
+     "d": "2026-11-25",
+     "p": 67.91
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -4610,8 +4762,8 @@
    "price": 72.16,
    "ref": 84.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/alphacool-core-1-aurora-lt-cpu-cooler-argb-acrylic/WACP-551.html",
-   "url": "https://www.caseking.de/en/alphacool-core-1-aurora-lt-cpu-cooler-argb-acrylic/WACP-551.html",
+   "shopUrl": "https://www.caseking.de/alphacool-core-1-aurora-lt-cpu-kuehler-argb-acryl/WACP-551.html",
+   "url": "https://www.caseking.de/alphacool-core-1-aurora-lt-cpu-kuehler-argb-acryl/WACP-551.html",
    "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -4664,6 +4816,10 @@
     },
     {
      "d": "2026-11-23",
+     "p": 72.16
+    },
+    {
+     "d": "2026-11-25",
      "p": 72.16
     }
    ],
@@ -4828,8 +4984,8 @@
    "price": 90.01,
    "ref": 105.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/alphacool-core-1-cpu-cooler-black/WACP-533.html",
-   "url": "https://www.caseking.de/en/alphacool-core-1-cpu-cooler-black/WACP-533.html",
+   "shopUrl": "https://www.caseking.de/alphacool-core-1-cpu-kuehler-schwarz/WACP-533.html",
+   "url": "https://www.caseking.de/alphacool-core-1-cpu-kuehler-schwarz/WACP-533.html",
    "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -4883,6 +5039,10 @@
     {
      "d": "2026-11-23",
      "p": 90.01
+    },
+    {
+     "d": "2026-11-25",
+     "p": 90.01
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -4898,8 +5058,8 @@
    "price": 90.01,
    "ref": 105.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/alphacool-core-1-cpu-cooler-silver/WACP-534.html",
-   "url": "https://www.caseking.de/en/alphacool-core-1-cpu-cooler-silver/WACP-534.html",
+   "shopUrl": "https://www.caseking.de/alphacool-core-1-cpu-kuehler-silber/WACP-534.html",
+   "url": "https://www.caseking.de/alphacool-core-1-cpu-kuehler-silber/WACP-534.html",
    "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -4956,6 +5116,10 @@
     },
     {
      "d": "2026-11-23",
+     "p": 90.01
+    },
+    {
+     "d": "2026-11-25",
      "p": 90.01
     }
    ],
@@ -5128,8 +5292,8 @@
    "price": 98.51,
    "ref": 115.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/alphacool-core-1-cpu-cooler-white/WACP-535.html",
-   "url": "https://www.caseking.de/en/alphacool-core-1-cpu-cooler-white/WACP-535.html",
+   "shopUrl": "https://www.caseking.de/alphacool-core-1-cpu-kuehler-weiss/WACP-535.html",
+   "url": "https://www.caseking.de/alphacool-core-1-cpu-kuehler-weiss/WACP-535.html",
    "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -5183,6 +5347,10 @@
     {
      "d": "2026-11-23",
      "p": 98.51
+    },
+    {
+     "d": "2026-11-25",
+     "p": 98.51
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -5198,8 +5366,8 @@
    "price": 101.91,
    "ref": 119.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/alphacool-core-1-aurora-cpu-cooler-argb-black/WACP-536.html",
-   "url": "https://www.caseking.de/en/alphacool-core-1-aurora-cpu-cooler-argb-black/WACP-536.html",
+   "shopUrl": "https://www.caseking.de/alphacool-core-1-aurora-cpu-kuehler-argb-schwarz/WACP-536.html",
+   "url": "https://www.caseking.de/alphacool-core-1-aurora-cpu-kuehler-argb-schwarz/WACP-536.html",
    "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -5252,6 +5420,10 @@
     },
     {
      "d": "2026-11-23",
+     "p": 101.91
+    },
+    {
+     "d": "2026-11-25",
      "p": 101.91
     }
    ],
@@ -5268,8 +5440,8 @@
    "price": 101.91,
    "ref": 119.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/alphacool-core-1-cpu-cooler-carbon/WACP-553.html",
-   "url": "https://www.caseking.de/en/alphacool-core-1-cpu-cooler-carbon/WACP-553.html",
+   "shopUrl": "https://www.caseking.de/alphacool-core-1-cpu-kuehler-carbon/WACP-553.html",
+   "url": "https://www.caseking.de/alphacool-core-1-cpu-kuehler-carbon/WACP-553.html",
    "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -5323,6 +5495,10 @@
     {
      "d": "2026-11-23",
      "p": 101.91
+    },
+    {
+     "d": "2026-11-25",
+     "p": 101.91
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -5338,8 +5514,8 @@
    "price": 116.36,
    "ref": 136.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/alphacool-core-1-aurora-cpu-cooler-argb-white/WACH-874.html",
-   "url": "https://www.caseking.de/en/alphacool-core-1-aurora-cpu-cooler-argb-white/WACH-874.html",
+   "shopUrl": "https://www.caseking.de/alphacool-core-1-aurora-cpu-kuehler-argb-weiss/WACH-874.html",
+   "url": "https://www.caseking.de/alphacool-core-1-aurora-cpu-kuehler-argb-weiss/WACH-874.html",
    "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -5393,6 +5569,10 @@
     {
      "d": "2026-11-23",
      "p": 116.36
+    },
+    {
+     "d": "2026-11-25",
+     "p": 116.36
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -5408,8 +5588,8 @@
    "price": 116.36,
    "ref": 136.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/alphacool-core-1-aurora-cpu-cooler-a-rgb-carbon/WACP-550.html",
-   "url": "https://www.caseking.de/en/alphacool-core-1-aurora-cpu-cooler-a-rgb-carbon/WACP-550.html",
+   "shopUrl": "https://www.caseking.de/alphacool-core-1-aurora-cpu-kuehler-a-rgb-carbon/WACP-550.html",
+   "url": "https://www.caseking.de/alphacool-core-1-aurora-cpu-kuehler-a-rgb-carbon/WACP-550.html",
    "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -5462,6 +5642,10 @@
     },
     {
      "d": "2026-11-23",
+     "p": 116.36
+    },
+    {
+     "d": "2026-11-25",
      "p": 116.36
     }
    ],
@@ -5630,8 +5814,8 @@
    "price": 135.91,
    "ref": 159.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/alphacool-apex-1-cpu-cooler-am5-socket-argb-black/WACP-562.html",
-   "url": "https://www.caseking.de/en/alphacool-apex-1-cpu-cooler-am5-socket-argb-black/WACP-562.html",
+   "shopUrl": "https://www.caseking.de/alphacool-apex-1-cpu-kuehler-am5-sockel-argb-schwarz/WACP-562.html",
+   "url": "https://www.caseking.de/alphacool-apex-1-cpu-kuehler-am5-sockel-argb-schwarz/WACP-562.html",
    "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -5684,6 +5868,10 @@
     },
     {
      "d": "2026-11-23",
+     "p": 135.91
+    },
+    {
+     "d": "2026-11-25",
      "p": 135.91
     }
    ],
@@ -5754,8 +5942,8 @@
    "price": 152.06,
    "ref": 178.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/alphacool-apex-1-cpu-cooler-lga-1700-1851-socket-argb-black/WACP-563.html",
-   "url": "https://www.caseking.de/en/alphacool-apex-1-cpu-cooler-lga-1700-1851-socket-argb-black/WACP-563.html",
+   "shopUrl": "https://www.caseking.de/alphacool-apex-1-cpu-kuehler-lga-1700-1851-sockel-argb-schwarz/WACP-563.html",
+   "url": "https://www.caseking.de/alphacool-apex-1-cpu-kuehler-lga-1700-1851-sockel-argb-schwarz/WACP-563.html",
    "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -5808,6 +5996,10 @@
     },
     {
      "d": "2026-11-23",
+     "p": 152.06
+    },
+    {
+     "d": "2026-11-25",
      "p": 152.06
     }
    ],
@@ -6327,142 +6519,6 @@
    "seen": "2026-11-25",
    "updated": "2026-11-25",
    "tags": "kuhlung aio-wasserkuhlung asus rog ryuo 360 argb all one cpu wasserkuhlung amoled schwarz",
-   "source": "crawler"
-  },
-  {
-   "id": "c-asus-rog-strix-xg32wcs-31-5-zoll-curved-gaming-monitor-180hz",
-   "name": "ASUS ROG Strix XG32WCS, 31,5 Zoll Curved Gaming Monitor, 180Hz, Fast VA, FreeSync",
-   "cat": "Monitore",
-   "price": 249,
-   "ref": 289,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/asus-rog-strix-xg32wcs-31.5-inch-curved-gaming-monitor-180hz-fast-va-freesync/TFAS-291.html",
-   "url": "https://www.caseking.de/en/asus-rog-strix-xg32wcs-31.5-inch-curved-gaming-monitor-180hz-fast-va-freesync/TFAS-291.html",
-   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 289
-    },
-    {
-     "d": "2026-11-01",
-     "p": 289
-    },
-    {
-     "d": "2026-11-02",
-     "p": 289
-    },
-    {
-     "d": "2026-11-04",
-     "p": 289
-    },
-    {
-     "d": "2026-11-06",
-     "p": 289
-    },
-    {
-     "d": "2026-11-08",
-     "p": 359.9
-    },
-    {
-     "d": "2026-11-11",
-     "p": 294.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 294.9
-    },
-    {
-     "d": "2026-11-15",
-     "p": 294.9
-    },
-    {
-     "d": "2026-11-18",
-     "p": 249
-    },
-    {
-     "d": "2026-11-20",
-     "p": 249
-    },
-    {
-     "d": "2026-11-23",
-     "p": 249
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
-   "tags": "monitore 31,5\" asus rog strix xg32wcs zoll curved gaming monitor 180hz fast freesync",
-   "source": "crawler"
-  },
-  {
-   "id": "c-patriot-p300-nvme-ssd-pcie-3-0-m-2-typ-2280-1tb",
-   "name": "Patriot P300 NVMe SSD, PCIe 3.0. M.2 Typ 2280 - 1TB",
-   "cat": "SSDs",
-   "price": 129.9,
-   "ref": 150.39,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/patriot-p300-nvme-ssd-pcie-3.0.-m.2-type-2280-1tb/SSPM-031.html",
-   "url": "https://www.caseking.de/en/patriot-p300-nvme-ssd-pcie-3.0.-m.2-type-2280-1tb/SSPM-031.html",
-   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 150.39
-    },
-    {
-     "d": "2026-10-31",
-     "p": 150.39
-    },
-    {
-     "d": "2026-11-02",
-     "p": 150.39
-    },
-    {
-     "d": "2026-11-04",
-     "p": 150.39
-    },
-    {
-     "d": "2026-11-05",
-     "p": 150.39
-    },
-    {
-     "d": "2026-11-07",
-     "p": 150.39
-    },
-    {
-     "d": "2026-11-09",
-     "p": 150.39
-    },
-    {
-     "d": "2026-11-12",
-     "p": 150.39
-    },
-    {
-     "d": "2026-11-14",
-     "p": 150.39
-    },
-    {
-     "d": "2026-11-16",
-     "p": 150.39
-    },
-    {
-     "d": "2026-11-19",
-     "p": 129.9
-    },
-    {
-     "d": "2026-11-21",
-     "p": 129.9
-    },
-    {
-     "d": "2026-11-23",
-     "p": 129.9
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
-   "tags": "ssds nvme 1 tb patriot p300 nvme ssd pcie typ 2280 1tb",
    "source": "crawler"
   }
  ],
