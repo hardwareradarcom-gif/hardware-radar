@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T12:07:52.621Z",
+ "updated": "2026-11-25T14:27:10.967Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1723,6 +1723,10 @@
     {
      "d": "2026-11-23",
      "p": 69.9
+    },
+    {
+     "d": "2026-11-25",
+     "p": 69.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -2014,6 +2018,10 @@
     },
     {
      "d": "2026-11-23",
+     "p": 184.9
+    },
+    {
+     "d": "2026-11-25",
      "p": 184.9
     }
    ],
@@ -3689,6 +3697,10 @@
     {
      "d": "2026-11-23",
      "p": 339.9
+    },
+    {
+     "d": "2026-11-25",
+     "p": 339.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -4179,6 +4191,10 @@
     {
      "d": "2026-11-23",
      "p": 79.9
+    },
+    {
+     "d": "2026-11-25",
+     "p": 79.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -4268,6 +4284,10 @@
     },
     {
      "d": "2026-11-23",
+     "p": 26.9
+    },
+    {
+     "d": "2026-11-25",
      "p": 26.9
     }
    ],
@@ -5734,80 +5754,6 @@
    "source": "crawler"
   },
   {
-   "id": "c-silverstone-sst-sx700-pt-sfx-netzteil-80-plus-platinum-modul",
-   "name": "SilverStone SST-SX700-PT SFX Netzteil 80 PLUS Platinum, modular - 700 Watt",
-   "cat": "Netzteile",
-   "price": 135.91,
-   "ref": 159.9,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/silverstone-sst-sx700-pt-sfx-power-supply-80-plus-platinum-modular-700-watt/NEST-142-A1.html",
-   "url": "https://www.caseking.de/en/silverstone-sst-sx700-pt-sfx-power-supply-80-plus-platinum-modular-700-watt/NEST-142-A1.html",
-   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-29",
-     "p": 159.9
-    },
-    {
-     "d": "2026-10-30",
-     "p": 159.9
-    },
-    {
-     "d": "2026-10-31",
-     "p": 159.9
-    },
-    {
-     "d": "2026-11-02",
-     "p": 159.9
-    },
-    {
-     "d": "2026-11-04",
-     "p": 159.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 159.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 159.9
-    },
-    {
-     "d": "2026-11-11",
-     "p": 159.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 159.9
-    },
-    {
-     "d": "2026-11-15",
-     "p": 159.9
-    },
-    {
-     "d": "2026-11-18",
-     "p": 159.9
-    },
-    {
-     "d": "2026-11-20",
-     "p": 159.9
-    },
-    {
-     "d": "2026-11-23",
-     "p": 159.9
-    },
-    {
-     "d": "2026-11-25",
-     "p": 135.91
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
-   "tags": "netzteile sfx silverstone sst sx700 netzteil plus platinum modular 700 watt",
-   "source": "crawler"
-  },
-  {
    "id": "c-alphacool-apex-1-cpu-cooler-am5-socket-argb-black",
    "name": "Alphacool Apex 1 CPU cooler, AM5 socket, ARGB - black",
    "cat": "Kühlung",
@@ -6142,6 +6088,286 @@
    "source": "crawler"
   },
   {
+   "id": "c-alphacool-core-geforce-rtx-5090-reference-gpu-wasserkuhlung-",
+   "name": "Alphacool Core Geforce RTX 5090 Reference GPU Wasserkühlung, ARGB, mit Backplate - Acryl",
+   "cat": "Kühlung",
+   "price": 178.41,
+   "ref": 209.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/alphacool-core-geforce-rtx-5090-reference-gpu-wasserkuehlung-argb-mit-backplate-acryl/WACH-911.html",
+   "url": "https://www.caseking.de/alphacool-core-geforce-rtx-5090-reference-gpu-wasserkuehlung-argb-mit-backplate-acryl/WACH-911.html",
+   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 209.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 209.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 209.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 209.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 209.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 209.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 209.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 209.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 209.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 209.9
+    },
+    {
+     "d": "2026-11-20",
+     "p": 209.9
+    },
+    {
+     "d": "2026-11-23",
+     "p": 209.9
+    },
+    {
+     "d": "2026-11-25",
+     "p": 178.41
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-25",
+   "updated": "2026-11-25",
+   "tags": "kuhlung aio-wasserkuhlung alphacool core geforce rtx 5090 reference gpu wasserkuhlung argb mit backplate acryl",
+   "source": "crawler"
+  },
+  {
+   "id": "c-alphacool-core-geforce-rtx-5080-phantom-gamerock-gpu-wasserk",
+   "name": "Alphacool Core Geforce RTX 5080 Phantom / GameRock GPU Wasserkühlung, ARGB, mit Backplate - Acryl",
+   "cat": "Kühlung",
+   "price": 186.91,
+   "ref": 219.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/alphacool-core-geforce-rtx-5080-phantom-gamerock-gpu-wasserkuehlung-argb-mit-backplate-acryl/WACH-916.html",
+   "url": "https://www.caseking.de/alphacool-core-geforce-rtx-5080-phantom-gamerock-gpu-wasserkuehlung-argb-mit-backplate-acryl/WACH-916.html",
+   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 219.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-20",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-23",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-25",
+     "p": 186.91
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-25",
+   "updated": "2026-11-25",
+   "tags": "kuhlung aio-wasserkuhlung alphacool core geforce rtx 5080 phantom gamerock gpu wasserkuhlung argb mit backplate acryl",
+   "source": "crawler"
+  },
+  {
+   "id": "c-alphacool-core-geforce-rtx-5080-und-5070-ti-tuf-gpu-wasserku",
+   "name": "Alphacool Core Geforce RTX 5080 und 5070 Ti TUF GPU Wasserkühlung, ARGB, mit Backplate - Acryl",
+   "cat": "Kühlung",
+   "price": 186.91,
+   "ref": 219.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/alphacool-core-geforce-rtx-5080-und-5070-ti-tuf-gpu-wasserkuehlung-argb-mit-backplate-acryl/WACH-919.html",
+   "url": "https://www.caseking.de/alphacool-core-geforce-rtx-5080-und-5070-ti-tuf-gpu-wasserkuehlung-argb-mit-backplate-acryl/WACH-919.html",
+   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 219.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-20",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-23",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-25",
+     "p": 186.91
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-25",
+   "updated": "2026-11-25",
+   "tags": "kuhlung aio-wasserkuhlung alphacool core geforce rtx 5080 und 5070 tuf gpu wasserkuhlung argb mit backplate acryl",
+   "source": "crawler"
+  },
+  {
+   "id": "c-alphacool-core-rtx-5080-rog-astral-gpu-wasserkuhlung-argb-mi",
+   "name": "Alphacool Core RTX 5080 ROG Astral GPU Wasserkühlung, ARGB, mit Backplate - Acryl",
+   "cat": "Kühlung",
+   "price": 186.91,
+   "ref": 219.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/alphacool-core-rtx-5080-rog-astral-gpu-wasserkuehlung-argb-mit-backplate-acryl/WACH-920.html",
+   "url": "https://www.caseking.de/alphacool-core-rtx-5080-rog-astral-gpu-wasserkuehlung-argb-mit-backplate-acryl/WACH-920.html",
+   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 219.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-20",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-23",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-25",
+     "p": 186.91
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-25",
+   "updated": "2026-11-25",
+   "tags": "kuhlung aio-wasserkuhlung alphacool core rtx 5080 rog astral gpu wasserkuhlung argb mit backplate acryl",
+   "source": "crawler"
+  },
+  {
    "id": "c-zotac-gaming-geforce-rtx-5060-ti-twin-edge-oc-8192-mb-gddr7",
    "name": "ZOTAC GAMING GeForce RTX 5060 Ti Twin Edge OC, 8192 MB GDDR7",
    "cat": "Grafikkarten",
@@ -6345,180 +6571,6 @@
    "seen": "2026-11-25",
    "updated": "2026-11-25",
    "tags": "gehause hyte y70 firefly japan edition midi tower atx tempered glass silber",
-   "source": "crawler"
-  },
-  {
-   "id": "c-asus-zenscreen-mb17ahg-17-3-ips-monitor-1920-x-1080-144-hz-s",
-   "name": "ASUS ZenScreen MB17AHG 17.3\" IPS Monitor 1920 x 1080 144 Hz Schwarz",
-   "cat": "Monitore",
-   "price": 334.82,
-   "ref": 389.99,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/asus-zenscreen-mb17ahg-17-3-ips-monitor-1920-x-1080-144-hz-schwarz-8913116/",
-   "url": "https://www.jacob.de/produkt/asus-zenscreen-mb17ahg-17-3-ips-monitor-1920-x-1080-144-hz-schwarz-8913116/",
-   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 389.99
-    },
-    {
-     "d": "2026-10-31",
-     "p": 389.99
-    },
-    {
-     "d": "2026-11-01",
-     "p": 389.99
-    },
-    {
-     "d": "2026-11-02",
-     "p": 389.99
-    },
-    {
-     "d": "2026-11-04",
-     "p": 389.99
-    },
-    {
-     "d": "2026-11-07",
-     "p": 389.99
-    },
-    {
-     "d": "2026-11-09",
-     "p": 389.99
-    },
-    {
-     "d": "2026-11-11",
-     "p": 334.95
-    },
-    {
-     "d": "2026-11-14",
-     "p": 334.82
-    },
-    {
-     "d": "2026-11-16",
-     "p": 334.82
-    },
-    {
-     "d": "2026-11-19",
-     "p": 334.82
-    },
-    {
-     "d": "2026-11-22",
-     "p": 334.82
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
-   "tags": "monitore 17,3\" asus zenscreen mb17ahg ips monitor 1920 1080 144 schwarz",
-   "source": "crawler"
-  },
-  {
-   "id": "c-kingston-fury-beast-32-gb-ddr4-3600-mhz-cl18-dimm-schwarz",
-   "name": "Kingston FURY Beast 32 GB DDR4 3600 MHz CL18 DIMM Schwarz",
-   "cat": "Arbeitsspeicher",
-   "price": 364.93,
-   "ref": 424.84,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/kingston-fury-beast-32-gb-ddr4-3600-mhz-cl18-dimm-schwarz-7287442/",
-   "url": "https://www.jacob.de/produkt/kingston-fury-beast-32-gb-ddr4-3600-mhz-cl18-dimm-schwarz-7287442/",
-   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 428.38
-    },
-    {
-     "d": "2026-10-31",
-     "p": 429.54
-    },
-    {
-     "d": "2026-11-01",
-     "p": 424.84
-    },
-    {
-     "d": "2026-11-02",
-     "p": 428.38
-    },
-    {
-     "d": "2026-11-03",
-     "p": 429.54
-    },
-    {
-     "d": "2026-11-05",
-     "p": 432.66
-    },
-    {
-     "d": "2026-11-07",
-     "p": 434.65
-    },
-    {
-     "d": "2026-11-10",
-     "p": 358.75
-    },
-    {
-     "d": "2026-11-12",
-     "p": 358.75
-    },
-    {
-     "d": "2026-11-15",
-     "p": 356.74
-    },
-    {
-     "d": "2026-11-17",
-     "p": 367.98
-    },
-    {
-     "d": "2026-11-20",
-     "p": 367.98
-    },
-    {
-     "d": "2026-11-23",
-     "p": 364.93
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
-   "tags": "arbeitsspeicher ddr4 32 gb kingston fury beast ddr4 3600 mhz cl18 dimm schwarz",
-   "source": "crawler"
-  },
-  {
-   "id": "c-asus-rog-ryuo-iv-360-argb-all-in-one-cpu-wasserkuhlung-6-67-",
-   "name": "ASUS ROG RYUO IV 360 ARGB All-in-One CPU-Wasserkühlung 6,67\" AMOLED Schwarz",
-   "cat": "Kühlung",
-   "price": 355.56,
-   "ref": 412.86,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/asus-rog-ryuo-iv-360-argb-all-in-one-cpu-wasserkuehlung-6-67-amoled-schwarz-100692720/",
-   "url": "https://www.jacob.de/produkt/asus-rog-ryuo-iv-360-argb-all-in-one-cpu-wasserkuehlung-6-67-amoled-schwarz-100692720/",
-   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-12",
-     "p": 412.86
-    },
-    {
-     "d": "2026-11-15",
-     "p": 412.86
-    },
-    {
-     "d": "2026-11-17",
-     "p": 412.86
-    },
-    {
-     "d": "2026-11-20",
-     "p": 412.86
-    },
-    {
-     "d": "2026-11-23",
-     "p": 355.56
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
-   "tags": "kuhlung aio-wasserkuhlung asus rog ryuo 360 argb all one cpu wasserkuhlung amoled schwarz",
    "source": "crawler"
   }
  ],
