@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-25T22:00:26.680Z",
+ "updated": "2026-11-26T06:27:18.150Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1090,8 +1090,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "kuhlung luftkuhler akasa soho plus cpu kuhler ar12 reverse lufter rgb schwarz",
    "source": "crawler"
   },
@@ -1164,8 +1164,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "kuhlung luftkuhler akasa soho dual tower cpu kuhler argb 120 schwarz",
    "source": "crawler"
   },
@@ -1234,8 +1234,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "monitore 34\" msi mag 345cqrde curved gaming monitor uwqhd 180 schwarz",
    "source": "crawler"
   },
@@ -1320,8 +1320,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "kuhlung aio-wasserkuhlung thermaltake th240 ultra argb cpu aio liquid cooler wasserkuhlung",
    "source": "crawler"
   },
@@ -1390,8 +1390,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "ssds nvme 500 gb red sn700 wds500g1r0c 500 nvme ssd",
    "source": "crawler"
   },
@@ -1456,8 +1456,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "gehause hyte x50 air midi tower snow white",
    "source": "crawler"
   },
@@ -1526,99 +1526,21 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "monitore japannext gaming monitor 2cm ips fhd",
-   "source": "crawler"
-  },
-  {
-   "id": "c-cooler-master-hyper-212-3dhp-cpu-cooler-intel-and-amd-argb-b",
-   "name": "Cooler Master Hyper 212 3DHP CPU Cooler, Intel and AMD, ARGB - black",
-   "cat": "Kühlung",
-   "price": 19.9,
-   "ref": 29,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/cooler-master-hyper-212-3dhp-cpu-cooler-intel-and-amd-argb-black/GECO-372.html",
-   "url": "https://www.caseking.de/en/cooler-master-hyper-212-3dhp-cpu-cooler-intel-and-amd-argb-black/GECO-372.html",
-   "note": "31 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-29",
-     "p": 29
-    },
-    {
-     "d": "2026-10-30",
-     "p": 29
-    },
-    {
-     "d": "2026-10-31",
-     "p": 29
-    },
-    {
-     "d": "2026-11-01",
-     "p": 29
-    },
-    {
-     "d": "2026-11-03",
-     "p": 29
-    },
-    {
-     "d": "2026-11-05",
-     "p": 29
-    },
-    {
-     "d": "2026-11-07",
-     "p": 29
-    },
-    {
-     "d": "2026-11-09",
-     "p": 29
-    },
-    {
-     "d": "2026-11-11",
-     "p": 29
-    },
-    {
-     "d": "2026-11-13",
-     "p": 19.9
-    },
-    {
-     "d": "2026-11-15",
-     "p": 19.9
-    },
-    {
-     "d": "2026-11-18",
-     "p": 19.9
-    },
-    {
-     "d": "2026-11-20",
-     "p": 19.9
-    },
-    {
-     "d": "2026-11-22",
-     "p": 19.9
-    },
-    {
-     "d": "2026-11-25",
-     "p": 19.9
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
-   "tags": "kuhlung luftkuhler cooler master hyper 212 3dhp cpu intel and amd argb black",
    "source": "crawler"
   },
   {
    "id": "c-sandisk-wd-black-sn770m-ssd-2tb-m-2-2230-pcie-gen4-nvme-b-wa",
    "name": "SanDisk WD_BLACK SN770M SSD 2TB M.2 2230 PCIe Gen4 NVMe B-Ware Internes Solid-State-Module",
    "cat": "SSDs",
-   "price": 322.99,
-   "ref": 449.49,
+   "price": 302.99,
+   "ref": 445.99,
    "shop": "Notebooksbilliger",
    "shopUrl": "https://www.notebooksbilliger.de/wd_black+sn770m+ssd+2tb+m2+2230+pcie+gen4+nvme+b+ware+919699",
    "url": "https://www.notebooksbilliger.de/wd_black+sn770m+ssd+2tb+m2+2230+pcie+gen4+nvme+b+ware+919699",
-   "note": "28 % unter dem mittleren Preis der letzten 30 Tage.",
+   "note": "32 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
      "d": "2026-10-30",
@@ -1727,12 +1649,94 @@
     {
      "d": "2026-11-25",
      "p": 322.99
+    },
+    {
+     "d": "2026-11-26",
+     "p": 302.99
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "ssds pcie 4.0 2 tb sandisk black sn770m ssd 2tb 2230 pcie gen4 nvme ware internes solid state module",
+   "source": "crawler"
+  },
+  {
+   "id": "c-cooler-master-hyper-212-3dhp-cpu-cooler-intel-and-amd-argb-b",
+   "name": "Cooler Master Hyper 212 3DHP CPU Cooler, Intel and AMD, ARGB - black",
+   "cat": "Kühlung",
+   "price": 19.9,
+   "ref": 29,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/cooler-master-hyper-212-3dhp-cpu-cooler-intel-and-amd-argb-black/GECO-372.html",
+   "url": "https://www.caseking.de/en/cooler-master-hyper-212-3dhp-cpu-cooler-intel-and-amd-argb-black/GECO-372.html",
+   "note": "31 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 29
+    },
+    {
+     "d": "2026-10-30",
+     "p": 29
+    },
+    {
+     "d": "2026-10-31",
+     "p": 29
+    },
+    {
+     "d": "2026-11-01",
+     "p": 29
+    },
+    {
+     "d": "2026-11-03",
+     "p": 29
+    },
+    {
+     "d": "2026-11-05",
+     "p": 29
+    },
+    {
+     "d": "2026-11-07",
+     "p": 29
+    },
+    {
+     "d": "2026-11-09",
+     "p": 29
+    },
+    {
+     "d": "2026-11-11",
+     "p": 29
+    },
+    {
+     "d": "2026-11-13",
+     "p": 19.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 19.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 19.9
+    },
+    {
+     "d": "2026-11-20",
+     "p": 19.9
+    },
+    {
+     "d": "2026-11-22",
+     "p": 19.9
+    },
+    {
+     "d": "2026-11-25",
+     "p": 19.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
+   "tags": "kuhlung luftkuhler cooler master hyper 212 3dhp cpu intel and amd argb black",
    "source": "crawler"
   },
   {
@@ -1804,8 +1808,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "gehause cooler master masterbox 600 argb midi tower atx rgb tempered glass schwarz",
    "source": "crawler"
   },
@@ -1874,8 +1878,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "mainboards supermicro h12ssl server mainboard atx socket sp3 amd epyc ddr4 ecc bis",
    "source": "crawler"
   },
@@ -1944,8 +1948,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "monitore 27\" gigabyte m27up ice zoll uhd fhd gaming monitor 160 320hz ips panel freesync premium",
    "source": "crawler"
   },
@@ -2030,8 +2034,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "kuhlung aio-wasserkuhlung corsair icue link h170i lcd liquid cpu cooler generaluberholt wasserkuhlung",
    "source": "crawler"
   },
@@ -2100,8 +2104,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "monitore 27\" gigabyte g27q3 zoll qhd gaming monitor 320hz ips freesync premium",
    "source": "crawler"
   },
@@ -2194,8 +2198,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "netzteile seasonic core 750 atx3 netzteil",
    "source": "crawler"
   },
@@ -2260,8 +2264,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "gehause lian o11 vision compact midi tower atx tempered glass schwarz",
    "source": "crawler"
   },
@@ -2326,8 +2330,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "gehause lian o11 vision compact midi tower atx tempered glass weiss",
    "source": "crawler"
   },
@@ -2420,8 +2424,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "netzteile seasonic core 850 atx3 netzteil",
    "source": "crawler"
   },
@@ -2454,8 +2458,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "kuhlung luftkuhler noctua secufirm2 i17xx mp83 upgrade kit fur prozessorkuhler lga1700 silber",
    "source": "crawler"
   },
@@ -2528,8 +2532,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "kuhlung luftkuhler akasa alucia h4i low profile cpu kuhler fur intel",
    "source": "crawler"
   },
@@ -2602,8 +2606,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "ssds nvme 128 gb patriot p300 nvme ssd pcie typ 2280 128",
    "source": "crawler"
   },
@@ -2704,8 +2708,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "monitore 26,5\" asus rog strix oled xg27aqwmg zoll wqhd gaming monitor 280hz tandem panel adaptive sync",
    "source": "crawler"
   },
@@ -2770,8 +2774,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "gehause jonsbo midi tower tempered glass weiss",
    "source": "crawler"
   },
@@ -2844,8 +2848,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "ssds sata 1 tb western digital blue sa510 ssd sata",
    "source": "crawler"
   },
@@ -2922,8 +2926,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "netzteile 650 w quiet pure power netzteil plus gold atx pcie 650 watt",
    "source": "crawler"
   },
@@ -3000,8 +3004,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "netzteile 650 w lian series plus bronze netzteil teilmodular pcie atx 650 watt schwarz",
    "source": "crawler"
   },
@@ -3078,8 +3082,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "netzteile 650 w seasonic prime fanless netzteil plus titanium modular 700 watt",
    "source": "crawler"
   },
@@ -3156,8 +3160,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "netzteile 750 w seasonic focus sgx plus gold netzteil modular 750 watt",
    "source": "crawler"
   },
@@ -3222,8 +3226,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "netzteile 650 w quiet pure power 13m plus gold netzteil atx pcie 650 watt schwarz",
    "source": "crawler"
   },
@@ -3280,8 +3284,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "netzteile bis 600 w silverstone sst tx500 tfx netzteil plus gold 500 watt",
    "source": "crawler"
   },
@@ -3350,8 +3354,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "monitore 34\" philips line 346p1crh curved wqhd monitor 3440 1440 100 hdmi displayport usb schwarz",
    "source": "crawler"
   },
@@ -3424,8 +3428,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "netzteile 1000 w+ seasonic focus plus gold netzteil modular 1000 watt weiss",
    "source": "crawler"
   },
@@ -3502,8 +3506,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "netzteile 650 w adata xpg probe plus bronze netzteil atx 700 watt schwarz",
    "source": "crawler"
   },
@@ -3576,8 +3580,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "netzteile 750 w kolink regulator plus gold psu atx pcie modular 750 watts",
    "source": "crawler"
   },
@@ -3654,8 +3658,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "prozessoren intel lga1700 intel core 12900k ghz alder lake sockel 1700 boxed",
    "source": "crawler"
   },
@@ -3724,83 +3728,9 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "monitore 27\" gigabyte m27q2 ice zoll qhd gaming monitor 200hz ips panel sync compatible",
-   "source": "crawler"
-  },
-  {
-   "id": "c-adata-xpg-mars-980-blade-nvme-ssd-pcie-5-0-m-2-typ-2280-2-tb",
-   "name": "ADATA XPG MARS 980 BLADE NVMe SSD, PCIe 5.0 M.2 Typ 2280 - 2 TB",
-   "cat": "SSDs",
-   "price": 339.9,
-   "ref": 411.07,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/adata-xpg-mars-980-blade-nvme-ssd-pcie-5.0-m.2-type-2280-2tb/SSAD-062.html",
-   "url": "https://www.caseking.de/en/adata-xpg-mars-980-blade-nvme-ssd-pcie-5.0-m.2-type-2280-2tb/SSAD-062.html",
-   "note": "17 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-29",
-     "p": 411.07
-    },
-    {
-     "d": "2026-10-30",
-     "p": 411.07
-    },
-    {
-     "d": "2026-10-31",
-     "p": 411.07
-    },
-    {
-     "d": "2026-11-02",
-     "p": 411.07
-    },
-    {
-     "d": "2026-11-04",
-     "p": 411.07
-    },
-    {
-     "d": "2026-11-06",
-     "p": 411.07
-    },
-    {
-     "d": "2026-11-08",
-     "p": 411.07
-    },
-    {
-     "d": "2026-11-11",
-     "p": 339.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 339.9
-    },
-    {
-     "d": "2026-11-15",
-     "p": 339.9
-    },
-    {
-     "d": "2026-11-18",
-     "p": 339.9
-    },
-    {
-     "d": "2026-11-20",
-     "p": 339.9
-    },
-    {
-     "d": "2026-11-23",
-     "p": 339.9
-    },
-    {
-     "d": "2026-11-25",
-     "p": 339.9
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
-   "tags": "ssds pcie 5.0 2 tb adata xpg mars 980 blade nvme ssd pcie typ 2280",
    "source": "crawler"
   },
   {
@@ -3864,8 +3794,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "gehause phanteks evolv matrix midi tower atx tempered glass led schwarz",
    "source": "crawler"
   },
@@ -3934,8 +3864,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "mainboards am5 b850 asus tuf gaming b850m plus wifi7 amd b850 mainboard micro atx sockel am5 ddr5 schwarz",
    "source": "crawler"
   },
@@ -4004,8 +3934,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "monitore 39\" ultragear 39gx90sa oled monitor gaming gebogen aeu",
    "source": "crawler"
   },
@@ -4086,8 +4016,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "gehause hyte x50 midi tower snow white",
    "source": "crawler"
   },
@@ -4156,83 +4086,9 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "gehause hyte x50 air midi tower pitch black",
-   "source": "crawler"
-  },
-  {
-   "id": "c-msi-geforce-rtx-5070-ti-16g-gaming-trio-oc-16384-mb-gddr7",
-   "name": "MSI GeForce RTX 5070 Ti 16G Gaming Trio OC, 16384 MB GDDR7",
-   "cat": "Grafikkarten",
-   "price": 1499,
-   "ref": 1799,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/msi-geforce-rtx-5070-ti-16g-gaming-trio-oc-16384-mb-gddr7/GCMC-426.html",
-   "url": "https://www.caseking.de/en/msi-geforce-rtx-5070-ti-16g-gaming-trio-oc-16384-mb-gddr7/GCMC-426.html",
-   "note": "17 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 1499
-    },
-    {
-     "d": "2026-10-31",
-     "p": 1499
-    },
-    {
-     "d": "2026-11-02",
-     "p": 1499
-    },
-    {
-     "d": "2026-11-04",
-     "p": 1549
-    },
-    {
-     "d": "2026-11-06",
-     "p": 1549
-    },
-    {
-     "d": "2026-11-08",
-     "p": 1549
-    },
-    {
-     "d": "2026-11-10",
-     "p": 1799
-    },
-    {
-     "d": "2026-11-12",
-     "p": 1799
-    },
-    {
-     "d": "2026-11-14",
-     "p": 1799
-    },
-    {
-     "d": "2026-11-17",
-     "p": 1799
-    },
-    {
-     "d": "2026-11-19",
-     "p": 1799
-    },
-    {
-     "d": "2026-11-21",
-     "p": 1799
-    },
-    {
-     "d": "2026-11-23",
-     "p": 1799
-    },
-    {
-     "d": "2026-11-25",
-     "p": 1499
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
-   "tags": "grafikkarten geforce rtx 5070 ti msi geforce rtx 5070 16g gaming trio 16384 gddr7",
    "source": "crawler"
   },
   {
@@ -4300,8 +4156,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "monitore 23,8\" series pro 324pe led monitor full 100hz ips schwarz b1gm5aa abb",
    "source": "crawler"
   },
@@ -4374,8 +4230,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "netzteile 650 w seasonic core plus gold netzteil modular atx pcie 650 watt schwarz",
    "source": "crawler"
   },
@@ -4468,8 +4324,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "kuhlung luftkuhler montech nx600 argb cpu kuhler",
    "source": "crawler"
   },
@@ -4542,8 +4398,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "grafikkarten geforce rtx 5070 gainward geforce rtx 5070 python iii 12288 gddr7",
    "source": "crawler"
   },
@@ -4608,8 +4464,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "arbeitsspeicher ddr5 alphacool core ram module pieces black",
    "source": "crawler"
   },
@@ -4674,8 +4530,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "ssds nvme alphacool hdx apex 2280 ssd cooler argb acrylic",
    "source": "crawler"
   },
@@ -4740,8 +4596,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "ssds nvme alphacool hdx apex 2280 ssd cooler acetal",
    "source": "crawler"
   },
@@ -4822,8 +4678,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "netzteile bis 600 w quiet system power plus bronze netzteil atx pcie 450 watt schwarz",
    "source": "crawler"
   },
@@ -4896,8 +4752,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "kuhlung luftkuhler alphacool core cpu cooler black",
    "source": "crawler"
   },
@@ -4970,8 +4826,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "kuhlung luftkuhler alphacool core aurora cpu kuhler argb acryl",
    "source": "crawler"
   },
@@ -5040,8 +4896,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "gehause lian lancool 216 rgb atx midi tower schwarz",
    "source": "crawler"
   },
@@ -5118,8 +4974,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "netzteile 850 w lian edge gold 850 plus netzteil pcie atx watt schwarz",
    "source": "crawler"
   },
@@ -5192,8 +5048,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "kuhlung luftkuhler alphacool core cpu cooler black",
    "source": "crawler"
   },
@@ -5270,8 +5126,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "kuhlung luftkuhler alphacool core cpu kuhler silber",
    "source": "crawler"
   },
@@ -5348,8 +5204,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "netzteile 1000 w+ montech century plus gold netzteil vollmodular atx pcie 050 watt",
    "source": "crawler"
   },
@@ -5426,8 +5282,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "netzteile 850 w phanteks amp 850w plus gold netzteil pcie atx 850 watt schwarz",
    "source": "crawler"
   },
@@ -5500,8 +5356,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "kuhlung luftkuhler alphacool core cpu kuhler weiss",
    "source": "crawler"
   },
@@ -5574,8 +5430,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "kuhlung luftkuhler alphacool core aurora cpu cooler argb black",
    "source": "crawler"
   },
@@ -5648,8 +5504,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "kuhlung luftkuhler alphacool core cpu kuhler carbon",
    "source": "crawler"
   },
@@ -5722,8 +5578,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "kuhlung luftkuhler alphacool core aurora cpu kuhler argb weiss",
    "source": "crawler"
   },
@@ -5796,8 +5652,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "kuhlung luftkuhler alphacool core aurora cpu kuhler rgb carbon",
    "source": "crawler"
   },
@@ -5874,8 +5730,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "netzteile 1000 w+ lian series plus platinum netzteil vollmodular pcie atx 200 watt weiss",
    "source": "crawler"
   },
@@ -5948,8 +5804,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "kuhlung luftkuhler alphacool apex cpu cooler am5 socket argb black",
    "source": "crawler"
   },
@@ -6006,8 +5862,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "kuhlung aio-wasserkuhlung alphacool eisbaer aurora 360 aio cooler digital rgb 360mm",
    "source": "crawler"
   },
@@ -6080,8 +5936,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "kuhlung luftkuhler alphacool apex cpu cooler lga 1700 1851 socket argb black",
    "source": "crawler"
   },
@@ -6158,8 +6014,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "netzteile 850 w quiet dark power plus titanium netzteil atx pcie 850 watt",
    "source": "crawler"
   },
@@ -6216,8 +6072,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "kuhlung aio-wasserkuhlung alphacool eisbaer pro aurora 240 aio cooler rgb 240mm",
    "source": "crawler"
   },
@@ -6286,8 +6142,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "kuhlung aio-wasserkuhlung alphacool core geforce rtx 5090 reference gpu wasserkuhlung argb mit backplate acryl",
    "source": "crawler"
   },
@@ -6356,8 +6212,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "kuhlung aio-wasserkuhlung alphacool core geforce rtx 5080 phantom gamerock gpu wasserkuhlung argb mit backplate acryl",
    "source": "crawler"
   },
@@ -6426,8 +6282,8 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "kuhlung aio-wasserkuhlung alphacool core geforce rtx 5080 und 5070 tuf gpu wasserkuhlung argb mit backplate acryl",
    "source": "crawler"
   },
@@ -6496,79 +6352,9 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "kuhlung aio-wasserkuhlung alphacool core rtx 5080 rog astral gpu wasserkuhlung argb mit backplate acryl",
-   "source": "crawler"
-  },
-  {
-   "id": "c-zotac-gaming-geforce-rtx-5060-ti-twin-edge-oc-8192-mb-gddr7",
-   "name": "ZOTAC GAMING GeForce RTX 5060 Ti Twin Edge OC, 8192 MB GDDR7",
-   "cat": "Grafikkarten",
-   "price": 549,
-   "ref": 644,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/zotac-gaming-geforce-rtx-5060-ti-twin-edge-oc-8192-mb-gddr7/GCZT-289.html",
-   "url": "https://www.caseking.de/en/zotac-gaming-geforce-rtx-5060-ti-twin-edge-oc-8192-mb-gddr7/GCZT-289.html",
-   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 629
-    },
-    {
-     "d": "2026-10-31",
-     "p": 629
-    },
-    {
-     "d": "2026-11-02",
-     "p": 629
-    },
-    {
-     "d": "2026-11-04",
-     "p": 629
-    },
-    {
-     "d": "2026-11-06",
-     "p": 629
-    },
-    {
-     "d": "2026-11-08",
-     "p": 629
-    },
-    {
-     "d": "2026-11-10",
-     "p": 659
-    },
-    {
-     "d": "2026-11-13",
-     "p": 659
-    },
-    {
-     "d": "2026-11-15",
-     "p": 659
-    },
-    {
-     "d": "2026-11-18",
-     "p": 659
-    },
-    {
-     "d": "2026-11-20",
-     "p": 659
-    },
-    {
-     "d": "2026-11-22",
-     "p": 659
-    },
-    {
-     "d": "2026-11-25",
-     "p": 549
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
-   "tags": "grafikkarten geforce rtx 5060 ti zotac gaming geforce rtx 5060 twin edge 8192 gddr7",
    "source": "crawler"
   },
   {
@@ -6640,9 +6426,183 @@
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-25",
-   "updated": "2026-11-25",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
    "tags": "grafikkarten radeon rx 9070 xt asus prime radeon 9070 edition grafikkarte 16384 gddr6",
+   "source": "crawler"
+  },
+  {
+   "id": "c-hyte-y70-firefly-japan-edition-pc-gehause-midi-tower-e-atx-t",
+   "name": "HYTE Y70 Firefly Japan Edition PC-Gehäuse, Midi-Tower, E-ATX Tempered Glass - silber",
+   "cat": "Gehäuse",
+   "price": 299.9,
+   "ref": 349.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/hyte-y70-firefly-japan-edition-pc-gehaeuse-midi-tower-e-atx-tempered-glass-silber/GEHY-070.html",
+   "url": "https://www.caseking.de/hyte-y70-firefly-japan-edition-pc-gehaeuse-midi-tower-e-atx-tempered-glass-silber/GEHY-070.html",
+   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-01",
+     "p": 349.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 349.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 349.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 349.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 349.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 349.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 349.9
+    },
+    {
+     "d": "2026-11-14",
+     "p": 349.9
+    },
+    {
+     "d": "2026-11-17",
+     "p": 349.9
+    },
+    {
+     "d": "2026-11-19",
+     "p": 299.9
+    },
+    {
+     "d": "2026-11-21",
+     "p": 299.9
+    },
+    {
+     "d": "2026-11-24",
+     "p": 299.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
+   "tags": "gehause hyte y70 firefly japan edition midi tower atx tempered glass silber",
+   "source": "crawler"
+  },
+  {
+   "id": "c-kingston-fury-beast-32-gb-ddr4-3600-mhz-cl18-dimm-schwarz",
+   "name": "Kingston FURY Beast 32 GB DDR4 3600 MHz CL18 DIMM Schwarz",
+   "cat": "Arbeitsspeicher",
+   "price": 364.93,
+   "ref": 424.84,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/kingston-fury-beast-32-gb-ddr4-3600-mhz-cl18-dimm-schwarz-7287442/",
+   "url": "https://www.jacob.de/produkt/kingston-fury-beast-32-gb-ddr4-3600-mhz-cl18-dimm-schwarz-7287442/",
+   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 428.38
+    },
+    {
+     "d": "2026-10-31",
+     "p": 429.54
+    },
+    {
+     "d": "2026-11-01",
+     "p": 424.84
+    },
+    {
+     "d": "2026-11-02",
+     "p": 428.38
+    },
+    {
+     "d": "2026-11-03",
+     "p": 429.54
+    },
+    {
+     "d": "2026-11-05",
+     "p": 432.66
+    },
+    {
+     "d": "2026-11-07",
+     "p": 434.65
+    },
+    {
+     "d": "2026-11-10",
+     "p": 358.75
+    },
+    {
+     "d": "2026-11-12",
+     "p": 358.75
+    },
+    {
+     "d": "2026-11-15",
+     "p": 356.74
+    },
+    {
+     "d": "2026-11-17",
+     "p": 367.98
+    },
+    {
+     "d": "2026-11-20",
+     "p": 367.98
+    },
+    {
+     "d": "2026-11-23",
+     "p": 364.93
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
+   "tags": "arbeitsspeicher ddr4 32 gb kingston fury beast ddr4 3600 mhz cl18 dimm schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-asus-rog-ryuo-iv-360-argb-all-in-one-cpu-wasserkuhlung-6-67-",
+   "name": "ASUS ROG RYUO IV 360 ARGB All-in-One CPU-Wasserkühlung 6,67\" AMOLED Schwarz",
+   "cat": "Kühlung",
+   "price": 355.56,
+   "ref": 412.86,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/asus-rog-ryuo-iv-360-argb-all-in-one-cpu-wasserkuehlung-6-67-amoled-schwarz-100692720/",
+   "url": "https://www.jacob.de/produkt/asus-rog-ryuo-iv-360-argb-all-in-one-cpu-wasserkuehlung-6-67-amoled-schwarz-100692720/",
+   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-12",
+     "p": 412.86
+    },
+    {
+     "d": "2026-11-15",
+     "p": 412.86
+    },
+    {
+     "d": "2026-11-17",
+     "p": 412.86
+    },
+    {
+     "d": "2026-11-20",
+     "p": 412.86
+    },
+    {
+     "d": "2026-11-23",
+     "p": 355.56
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
+   "tags": "kuhlung aio-wasserkuhlung asus rog ryuo 360 argb all one cpu wasserkuhlung amoled schwarz",
    "source": "crawler"
   }
  ],
