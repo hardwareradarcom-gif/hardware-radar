@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T10:16:05.253Z",
+ "updated": "2026-11-26T11:27:40.141Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -17477,6 +17477,64 @@
    "firstSeen": "2026-11-08"
   },
   {
+   "id": "c-thermaltake-lcgs-ux400-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Thermaltake LCGS UX400 CPU Kühler",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/ux400?variant=51267176792403",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 19.99,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/ux400?variant=51267176792403"
+    }
+   ],
+   "price": 19.99,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 19.99
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler thermaltake lcgs ux400 cpu kuhler",
+   "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "c-thermaltake-lcgs-gravity-i3-intel-95w-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Thermaltake LCGS Gravity i3 Intel 95W CPU Kühler",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/gravity-i3-intel-95w-cpu-cooler?variant=50721077887315",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 19.99,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/gravity-i3-intel-95w-cpu-cooler?variant=50721077887315"
+    }
+   ],
+   "price": 19.99,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 19.99
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler thermaltake lcgs gravity intel 95w cpu kuhler",
+   "firstSeen": "2026-11-26"
+  },
+  {
    "id": "c-pccooler-e90-cpu-kuhler-8-cm-1000-2000-rpm-blau",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -25154,6 +25212,35 @@
    "firstSeen": "2026-11-05"
   },
   {
+   "id": "c-delock-3-5-mobile-rack-fur-1-x-2-5-sata-hdd-ssd-schwarz",
+   "cat": "SSDs",
+   "sub": "SATA",
+   "name": "Delock 3.5\" Mobile Rack für 1 x 2.5\" SATA HDD / SSD Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/delock-3-5-mobile-rack-fuer-1-x-2-5-sata-hdd-ssd-schwarz-1949665/",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 32.96,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/delock-3-5-mobile-rack-fuer-1-x-2-5-sata-hdd-ssd-schwarz-1949665/"
+    }
+   ],
+   "price": 32.96,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 32.96
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata delock mobile rack fur hdd ssd schwarz",
+   "firstSeen": "2026-11-26"
+  },
+  {
    "id": "c-silverstone-sst-ar10-115xp-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -30622,6 +30709,64 @@
    "firstSeen": "2026-11-04"
   },
   {
+   "id": "c-thermaltake-lcgs-astria-200-argb-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Thermaltake LCGS ASTRIA 200 ARGB CPU Kühler",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/astria-200-argb-lighting-cpu-cooler?variant=49116195127635",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 39.99,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/astria-200-argb-lighting-cpu-cooler?variant=49116195127635"
+    }
+   ],
+   "price": 39.99,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 39.99
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler thermaltake lcgs astria 200 argb cpu kuhler",
+   "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "c-thermaltake-lcgs-astria-200-argb-snow-white-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Thermaltake LCGS ASTRIA 200 ARGB Snow White CPU Kühler",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/astria-200-argb-cpu-kuhler-kopie?variant=51124667449683",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 39.99,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/astria-200-argb-cpu-kuhler-kopie?variant=51124667449683"
+    }
+   ],
+   "price": 39.99,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 39.99
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler thermaltake lcgs astria 200 argb snow white cpu kuhler",
+   "firstSeen": "2026-11-26"
+  },
+  {
    "id": "c-silentware-titan-performance-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -33126,6 +33271,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler quiet pure rock pro black cpu kuhler",
    "firstSeen": "2026-11-08"
+  },
+  {
+   "id": "c-thermaltake-lcgs-astria-400-argb-lighting-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Thermaltake LCGS ASTRIA 400 ARGB Lighting CPU Kühler",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/astria-400-argb-lighting-cpu-cooler?variant=49116196110675",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 44.99,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/astria-400-argb-lighting-cpu-cooler?variant=49116196110675"
+    }
+   ],
+   "price": 44.99,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 44.99
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler thermaltake lcgs astria 400 argb lighting cpu kuhler",
+   "firstSeen": "2026-11-26"
   },
   {
    "id": "c-silentware-titan-cpu-kuhler",
@@ -36283,6 +36457,35 @@
    "firstSeen": "2026-11-19"
   },
   {
+   "id": "c-thermaltake-lcgs-astria-400-argb-snow-white-lighting-cpu-kuh",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Thermaltake LCGS ASTRIA 400 ARGB Snow White Lighting CPU Kühler",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/astria-400-argb-snow-white-lighting-cpu-kuhler?variant=51120421110099",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 49.99,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/astria-400-argb-snow-white-lighting-cpu-kuhler?variant=51120421110099"
+    }
+   ],
+   "price": 49.99,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 49.99
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler thermaltake lcgs astria 400 argb snow white lighting cpu kuhler",
+   "firstSeen": "2026-11-26"
+  },
+  {
    "id": "c-emtec-ssd-power-plus-x160-256-gb-2-5-sata-iii",
    "cat": "SSDs",
    "sub": "SATA 256 GB",
@@ -37645,39 +37848,6 @@
    "firstSeen": "2026-11-20"
   },
   {
-   "id": "c-emtec-power-pro-x300-ssd-128-gb-m-2-2280-nvme-pcie-3-0-x4-in",
-   "cat": "SSDs",
-   "sub": "NVMe 128 GB",
-   "name": "EMTEC Power Pro X300 SSD 128 GB M.2 2280 NVMe PCIe 3.0 x4 Intern",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/emtec-power-pro-x300-ssd-128-gb-m-2-2280-nvme-pcie-3-0-x4-intern-6169949/",
-   "stand": "2026-11-23T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 54.73,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/emtec-power-pro-x300-ssd-128-gb-m-2-2280-nvme-pcie-3-0-x4-intern-6169949/"
-    }
-   ],
-   "price": 54.73,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-20",
-     "p": 54.73
-    },
-    {
-     "d": "2026-11-23",
-     "p": 54.73
-    }
-   ],
-   "count": 1,
-   "tags": "ssds nvme 128 gb emtec power pro x300 ssd 128 2280 nvme pcie intern",
-   "firstSeen": "2026-11-20"
-  },
-  {
    "id": "c-noctua-nh-u12s-redux-cpu-kuhler-120mm",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -38391,39 +38561,6 @@
    "firstSeen": "2026-11-05"
   },
   {
-   "id": "c-patriot-p300-128-gb-ssd-m-2-2280-pcie-3-0-x4-nvme",
-   "cat": "SSDs",
-   "sub": "NVMe 128 GB",
-   "name": "Patriot P300 128 GB SSD M.2 2280 PCIe 3.0 x4 NVMe",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/patriot-p300-128-gb-ssd-m-2-2280-pcie-3-0-x4-nvme-6242903/",
-   "stand": "2026-11-23T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 55.19,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/patriot-p300-128-gb-ssd-m-2-2280-pcie-3-0-x4-nvme-6242903/"
-    }
-   ],
-   "price": 55.19,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-20",
-     "p": 55.19
-    },
-    {
-     "d": "2026-11-23",
-     "p": 55.19
-    }
-   ],
-   "count": 1,
-   "tags": "ssds nvme 128 gb patriot p300 128 ssd 2280 pcie nvme",
-   "firstSeen": "2026-11-20"
-  },
-  {
    "id": "c-team-group-t-force-vulcan-z-256-gb-2-5-sata-ssd",
    "cat": "SSDs",
    "sub": "SATA 256 GB",
@@ -38871,37 +39008,33 @@
    "firstSeen": "2026-11-13"
   },
   {
-   "id": "c-patriot-p210-ssd-256-gb-sata-6gb-s-2-5",
+   "id": "c-delock-47189-3-5-laufwerksschachtadapter-fur-2-x-2-5-sata-hd",
    "cat": "SSDs",
-   "sub": "SATA 256 GB",
-   "name": "Patriot P210 SSD 256 GB SATA 6Gb/s 2.5\"",
+   "sub": "SATA",
+   "name": "Delock 47189 3.5\" Laufwerksschachtadapter für 2 x 2.5\" SATA HDD/SSD Schwarz",
    "source": "crawler",
-   "url": "https://www.jacob.de/produkt/patriot-p210-ssd-256-gb-sata-6gb-s-2-5-6485173/",
-   "stand": "2026-11-23T10:17",
+   "url": "https://www.jacob.de/produkt/delock-47189-3-5-laufwerksschachtadapter-fuer-2-x-2-5-sata-hdd-ssd-schwarz-197841/",
+   "stand": "2026-11-26T11:27",
    "offers": [
     {
      "shop": "JACOB Elektronik GmbH",
-     "price": 58.18,
+     "price": 58.75,
      "ship": null,
      "avail": null,
-     "url": "https://www.jacob.de/produkt/patriot-p210-ssd-256-gb-sata-6gb-s-2-5-6485173/"
+     "url": "https://www.jacob.de/produkt/delock-47189-3-5-laufwerksschachtadapter-fuer-2-x-2-5-sata-hdd-ssd-schwarz-197841/"
     }
    ],
-   "price": 58.18,
+   "price": 58.75,
    "shop": "JACOB Elektronik GmbH",
    "hist": [
     {
-     "d": "2026-11-20",
-     "p": 58.18
-    },
-    {
-     "d": "2026-11-23",
-     "p": 58.18
+     "d": "2026-11-26",
+     "p": 58.75
     }
    ],
    "count": 1,
-   "tags": "ssds sata 256 gb patriot p210 ssd 256 sata 6gb",
-   "firstSeen": "2026-11-20"
+   "tags": "ssds sata delock 47189 laufwerksschachtadapter fur hdd ssd schwarz",
+   "firstSeen": "2026-11-26"
   },
   {
    "id": "c-alphacool-eisblock-xpx-aurora-edge-acryl-black-cpu-kuhler",
@@ -40999,6 +41132,35 @@
    "firstSeen": "2026-11-19"
   },
   {
+   "id": "c-thermaltake-lcgs-astria-600-argb-lighting-cpu-kuhler",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Thermaltake LCGS ASTRIA 600 ARGB Lighting CPU Kühler",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/astria-600-argb-lighting-cpu-cooler?variant=49116207087955",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 59.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/astria-600-argb-lighting-cpu-cooler?variant=49116207087955"
+    }
+   ],
+   "price": 59.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 59.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler thermaltake lcgs astria 600 argb lighting cpu kuhler",
+   "firstSeen": "2026-11-26"
+  },
+  {
    "id": "c-b-ware-b1-adata-xpg-kyber-80-plus-gold-netzteil-atx-3-0-750-",
    "cat": "Netzteile",
    "sub": "750 W",
@@ -42921,6 +43083,35 @@
    "firstSeen": "2026-11-20"
   },
   {
+   "id": "c-thermaltake-lcgs-la240-argb-aio-wasserkuhlung",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS LA240 ARGB AIO Wasserkühlung",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/la240-argb-aio-wasserkuehlung?variant=51267175055699",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 64.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/la240-argb-aio-wasserkuehlung?variant=51267175055699"
+    }
+   ],
+   "price": 64.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 64.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs la240 argb aio wasserkuhlung",
+   "firstSeen": "2026-11-26"
+  },
+  {
    "id": "c-ugreen-eu-caixa-ugreen-m-2-nvme-ssd-40gbps",
    "cat": "SSDs",
    "sub": "NVMe",
@@ -43314,105 +43505,6 @@
    "count": 1,
    "tags": "gehause jonsbo d400 midi tower atx tempered glass weiss",
    "firstSeen": "2026-11-01"
-  },
-  {
-   "id": "c-silicon-power-p34a60-256-gb-ssd-m-2-2280-pcie-3-0-x4-nvme",
-   "cat": "SSDs",
-   "sub": "NVMe 256 GB",
-   "name": "Silicon Power P34A60 256 GB SSD M.2 2280 PCIe 3.0 x4 NVMe",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/silicon-power-p34a60-256-gb-ssd-m-2-2280-pcie-3-0-x4-nvme-6118374/",
-   "stand": "2026-11-23T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 67.25,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/silicon-power-p34a60-256-gb-ssd-m-2-2280-pcie-3-0-x4-nvme-6118374/"
-    }
-   ],
-   "price": 67.25,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-20",
-     "p": 67.25
-    },
-    {
-     "d": "2026-11-23",
-     "p": 67.25
-    }
-   ],
-   "count": 1,
-   "tags": "ssds nvme 256 gb silicon power p34a60 256 ssd 2280 pcie nvme",
-   "firstSeen": "2026-11-20"
-  },
-  {
-   "id": "c-patriot-p300-ssd-256-gb-m-2-2280-nvme-pcie-3-0-x4-intern",
-   "cat": "SSDs",
-   "sub": "NVMe 256 GB",
-   "name": "Patriot P300 SSD 256 GB M.2 2280 NVMe PCIe 3.0 x4 intern",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/patriot-p300-ssd-256-gb-m-2-2280-nvme-pcie-3-0-x4-intern-6242902/",
-   "stand": "2026-11-23T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 67.48,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/patriot-p300-ssd-256-gb-m-2-2280-nvme-pcie-3-0-x4-intern-6242902/"
-    }
-   ],
-   "price": 67.48,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-20",
-     "p": 67.48
-    },
-    {
-     "d": "2026-11-23",
-     "p": 67.48
-    }
-   ],
-   "count": 1,
-   "tags": "ssds nvme 256 gb patriot p300 ssd 256 2280 nvme pcie intern",
-   "firstSeen": "2026-11-20"
-  },
-  {
-   "id": "c-emtec-power-pro-x300-256-gb-ssd-m-2-2280-nvme-pcie-3-0-x4-in",
-   "cat": "SSDs",
-   "sub": "NVMe 256 GB",
-   "name": "EMTEC Power Pro X300 256 GB SSD M.2 2280 NVMe PCIe 3.0 x4 Intern",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/emtec-power-pro-x300-256-gb-ssd-m-2-2280-nvme-pcie-3-0-x4-intern-6169951/",
-   "stand": "2026-11-23T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 67.48,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/emtec-power-pro-x300-256-gb-ssd-m-2-2280-nvme-pcie-3-0-x4-intern-6169951/"
-    }
-   ],
-   "price": 67.48,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-20",
-     "p": 67.48
-    },
-    {
-     "d": "2026-11-23",
-     "p": 67.48
-    }
-   ],
-   "count": 1,
-   "tags": "ssds nvme 256 gb emtec power pro x300 256 ssd 2280 nvme pcie intern",
-   "firstSeen": "2026-11-20"
   },
   {
    "id": "c-gigabyte-h610m-k-ddr4-mainboard-sockel-1700-intel-h610-micro",
@@ -45764,6 +45856,180 @@
    "count": 1,
    "tags": "netzteile sfx quiet power 450w netzteil",
    "firstSeen": "2026-11-14"
+  },
+  {
+   "id": "c-thermaltake-lcgs-th240-v2-argb-aio-wasserkuhlung",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS TH240 V2 ARGB AIO Wasserkühlung",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/th240-argb-v2-cpu-aio-liquid-cooler?variant=49770175988051",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 69.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/th240-argb-v2-cpu-aio-liquid-cooler?variant=49770175988051"
+    }
+   ],
+   "price": 69.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 69.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs th240 argb aio wasserkuhlung",
+   "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "c-thermaltake-lcgs-astria-600-argb-snow-white-lighting-cpu-kuh",
+   "cat": "Kühlung",
+   "sub": "Luftkühler",
+   "name": "Thermaltake LCGS ASTRIA 600 ARGB Snow White Lighting CPU Kühler",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/astria-600-argb-lighting-cpu-kuhler-kopie?variant=51124860322131",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 69.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/astria-600-argb-lighting-cpu-kuhler-kopie?variant=51124860322131"
+    }
+   ],
+   "price": 69.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 69.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung luftkuhler thermaltake lcgs astria 600 argb snow white lighting cpu kuhler",
+   "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "c-thermaltake-lcgs-la360-argb-aio-wasserkuhlung",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS LA360 ARGB AIO Wasserkühlung",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/la360-argb-aio-wasserkuehlung?variant=51267175121235",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 69.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/la360-argb-aio-wasserkuehlung?variant=51267175121235"
+    }
+   ],
+   "price": 69.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 69.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs la360 argb aio wasserkuhlung",
+   "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "c-thermaltake-lcgs-la240-s-argb-aio-wasserkuhlung",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS LA240-S ARGB AIO Wasserkühlung",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/la240-s-argb-aio-wasserkuehlung?variant=51267175186771",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 69.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/la240-s-argb-aio-wasserkuehlung?variant=51267175186771"
+    }
+   ],
+   "price": 69.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 69.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs la240 argb aio wasserkuhlung",
+   "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "c-thermaltake-lcgs-th240-argb-snow-white-aio-wasserkuhlung",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS TH240 ARGB Snow White AIO Wasserkühlung",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/it/products/th240-argb-snow-white-aio-wasserkuehlung?variant=54649699893587",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 69.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/it/products/th240-argb-snow-white-aio-wasserkuehlung?variant=54649699893587"
+    }
+   ],
+   "price": 69.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 69.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs th240 argb snow white aio wasserkuhlung",
+   "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "c-thermaltake-lcgs-th240-argb-aio-wasserkuhlung",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS TH240 ARGB AIO Wasserkühlung",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/it/products/th240-argb-aio-wasserkuehlung?variant=54649829785939",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 69.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/it/products/th240-argb-aio-wasserkuehlung?variant=54649829785939"
+    }
+   ],
+   "price": 69.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 69.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs th240 argb aio wasserkuhlung",
+   "firstSeen": "2026-11-26"
   },
   {
    "id": "c-ugreen-es-ugreen-caja-ssd-m-2-nvme-40gbps",
@@ -48267,6 +48533,122 @@
    "firstSeen": "2026-11-25"
   },
   {
+   "id": "c-thermaltake-lcgs-th240-v2-argb-snow-white-aio-wasserkuhlung",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS TH240 V2 ARGB Snow White AIO Wasserkühlung",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/th240-argb-v2-snow-cpu-aio-liquid-cooler?variant=49772129288531",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 74.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/th240-argb-v2-snow-cpu-aio-liquid-cooler?variant=49772129288531"
+    }
+   ],
+   "price": 74.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 74.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs th240 argb snow white aio wasserkuhlung",
+   "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "c-thermaltake-lcgs-th280-v2-argb-snow-white-aio-wasserkuhlung",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS TH280 V2 ARGB Snow White AIO Wasserkühlung",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/th280-v2-argb-snow-white-aio-wasserkuhlung?variant=51119925756243",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 74.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/th280-v2-argb-snow-white-aio-wasserkuhlung?variant=51119925756243"
+    }
+   ],
+   "price": 74.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 74.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs th280 argb snow white aio wasserkuhlung",
+   "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "c-thermaltake-lcgs-la360-s-argb-aio-wasserkuhlung",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS LA360-S ARGB AIO Wasserkühlung",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/la360-s-argb-aio-wasserkuehlung?variant=51267175252307",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 74.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/la360-s-argb-aio-wasserkuehlung?variant=51267175252307"
+    }
+   ],
+   "price": 74.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 74.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs la360 argb aio wasserkuhlung",
+   "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "c-thermaltake-lcgs-th360-argb-snow-white-aio-wasserkuhlung",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS TH360 ARGB Snow White AIO Wasserkühlung",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/it/products/th360-argb-snow-white-aio-wasserkuehlung?variant=54649627083091",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 74.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/it/products/th360-argb-snow-white-aio-wasserkuehlung?variant=54649627083091"
+    }
+   ],
+   "price": 74.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 74.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs th360 argb snow white aio wasserkuhlung",
+   "firstSeen": "2026-11-26"
+  },
+  {
    "id": "c-montech-sky-3-pc-gehause-midi-tower-atx-argb-tempered-glass-",
    "cat": "Gehäuse",
    "sub": "Gehäuse",
@@ -48638,6 +49020,64 @@
    "count": 1,
    "tags": "gehause lian lancool 216 rgb atx midi tower schwarz",
    "firstSeen": "2026-11-01"
+  },
+  {
+   "id": "c-thermaltake-lcgs-th420-argb-aio-wasserkuhlung",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS TH420 ARGB AIO Wasserkühlung",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/th420-argb-black-aio-wasserkuehlung?variant=49139420594515",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 76.49,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/th420-argb-black-aio-wasserkuehlung?variant=49139420594515"
+    }
+   ],
+   "price": 76.49,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 76.49
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs th420 argb aio wasserkuhlung",
+   "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "c-thermaltake-lcgs-th420-argb-snow-white-aio-wasserkuhlung",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS TH420 ARGB Snow White AIO Wasserkühlung",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/th420-argb-snow-white-aio-wasserkuehlung?variant=50513983865171",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 76.49,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/th420-argb-snow-white-aio-wasserkuehlung?variant=50513983865171"
+    }
+   ],
+   "price": 76.49,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 76.49
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs th420 argb snow white aio wasserkuhlung",
+   "firstSeen": "2026-11-26"
   },
   {
    "id": "c-asus-prime-a520m-a-ii-csm-amd-a520-mainboard-sockel-socket-a",
@@ -51192,6 +51632,35 @@
    "firstSeen": "2026-11-12"
   },
   {
+   "id": "c-thermaltake-lcgs-th280-v2-argb-matcha-green-aio-wasserkuhlun",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS TH280 V2 ARGB Matcha Green AIO Wasserkühlung",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/th280-v2-argb-aio-wasserkuhlung-matcha-green?variant=51074480865619",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 79.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/th280-v2-argb-aio-wasserkuhlung-matcha-green?variant=51074480865619"
+    }
+   ],
+   "price": 79.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 79.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs th280 argb matcha green aio wasserkuhlung",
+   "firstSeen": "2026-11-26"
+  },
+  {
    "id": "c-dell-1100-w-80-plus-platinum-hot-plug-netzteil-fur-poweredge",
    "cat": "Netzteile",
    "sub": "1000 W+",
@@ -51969,6 +52438,35 @@
    "count": 1,
    "tags": "prozessoren inter tech prozessor luftkuhler am4 aluminium schwarz silber",
    "firstSeen": "2026-11-13"
+  },
+  {
+   "id": "c-intenso-top-performance-ssd-512-gb-2-5-sata-iii",
+   "cat": "SSDs",
+   "sub": "SATA 512 GB",
+   "name": "Intenso Top Performance SSD 512 GB 2.5\" SATA III",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/intenso-top-performance-ssd-512-gb-2-5-sata-iii-1631100/",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 83.79,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/intenso-top-performance-ssd-512-gb-2-5-sata-iii-1631100/"
+    }
+   ],
+   "price": 83.79,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 83.79
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 512 gb intenso top performance ssd 512 sata iii",
+   "firstSeen": "2026-11-26"
   },
   {
    "id": "c-silverstone-sst-ex500-b-extreme-sfx-netzteil-80-plus-bronze-",
@@ -53080,6 +53578,35 @@
    "firstSeen": "2026-11-06"
   },
   {
+   "id": "c-thermaltake-lcgs-th360-v2-argb-snow-white-aio-wasserkuhlung",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS TH360 V2 ARGB Snow White AIO Wasserkühlung",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/th360-argb-v2-snow-cpu-aio-liquid-cooler?variant=49772149277011",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 84.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/th360-argb-v2-snow-cpu-aio-liquid-cooler?variant=49772149277011"
+    }
+   ],
+   "price": 84.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 84.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs th360 argb snow white aio wasserkuhlung",
+   "firstSeen": "2026-11-26"
+  },
+  {
    "id": "c-lenovo-l24-41-led-monitor-23-8-full-hd-ips-100hz-hdmi-vga-67",
    "cat": "Monitore",
    "sub": "23,8\"",
@@ -53921,37 +54448,33 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-verbatim-vi560-s3-ssd-512-gb-m-2-2280-sata-6gb-s-intern",
-   "cat": "SSDs",
-   "sub": "SATA 512 GB",
-   "name": "Verbatim Vi560 S3 SSD 512 GB M.2 2280 SATA 6Gb/s intern",
+   "id": "c-itx-all-in-one-wasserkuhlung-th280-v2-argb-sync-cpu-liquid-c",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "ITX All in One Wasserkühlung - TH280 V2 ARGB Sync CPU Liquid Cooler All-In-One (684348)",
    "source": "crawler",
-   "url": "https://www.jacob.de/produkt/verbatim-vi560-s3-ssd-512-gb-m-2-2280-sata-6gb-s-intern-6118342/",
-   "stand": "2026-11-23T10:17",
+   "url": "https://lcgs.thermaltake.de/products/itx-all-in-one-wasserkuhlung-2?variant=50528457163091",
+   "stand": "2026-11-26T11:27",
    "offers": [
     {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 88.93,
+     "shop": "Thermaltake LCGS",
+     "price": 89,
      "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/verbatim-vi560-s3-ssd-512-gb-m-2-2280-sata-6gb-s-intern-6118342/"
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/products/itx-all-in-one-wasserkuhlung-2?variant=50528457163091"
     }
    ],
-   "price": 88.93,
-   "shop": "JACOB Elektronik GmbH",
+   "price": 89,
+   "shop": "Thermaltake LCGS",
    "hist": [
     {
-     "d": "2026-11-20",
-     "p": 88.93
-    },
-    {
-     "d": "2026-11-23",
-     "p": 88.93
+     "d": "2026-11-26",
+     "p": 89
     }
    ],
    "count": 1,
-   "tags": "ssds sata 512 gb verbatim vi560 ssd 512 2280 sata 6gb intern",
-   "firstSeen": "2026-11-20"
+   "tags": "kuhlung aio-wasserkuhlung itx all one wasserkuhlung th280 argb sync cpu liquid cooler 684348",
+   "firstSeen": "2026-11-26"
   },
   {
    "id": "c-gigabyte-a620m-ds3h-mainboard-sockel-am5-amd-a620-micro-atx-",
@@ -55734,6 +56257,35 @@
    "firstSeen": "2026-11-21"
   },
   {
+   "id": "c-th240-v3-argb-aio-wasserkuhlung-black",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "TH240 V3 ARGB AIO Wasserkühlung - Black",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/it/products/th240-v3-argb-aio-wasserkuehlung?variant=52627041288531",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 89.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/it/products/th240-v3-argb-aio-wasserkuehlung?variant=52627041288531"
+    }
+   ],
+   "price": 89.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 89.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung th240 argb aio wasserkuhlung black",
+   "firstSeen": "2026-11-26"
+  },
+  {
    "id": "c-alphacool-core-1-cpu-cooler-black",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -56057,39 +56609,6 @@
    "count": 1,
    "tags": "arbeitsspeicher ddr4 corsair vengeance lpx ram 3200 mhz cl16 dimm 288 pin schwarz",
    "firstSeen": "2026-11-19"
-  },
-  {
-   "id": "c-patriot-p300-512-gb-ssd-m-2-2280-pcie-3-0-x4-nvme",
-   "cat": "SSDs",
-   "sub": "NVMe 512 GB",
-   "name": "Patriot P300 512 GB SSD M.2 2280 PCIe 3.0 x4 (NVMe)",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/patriot-p300-512-gb-ssd-m-2-2280-pcie-3-0-x4-nvme-6242901/",
-   "stand": "2026-11-23T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 91.17,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/patriot-p300-512-gb-ssd-m-2-2280-pcie-3-0-x4-nvme-6242901/"
-    }
-   ],
-   "price": 91.17,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-20",
-     "p": 91.17
-    },
-    {
-     "d": "2026-11-23",
-     "p": 91.17
-    }
-   ],
-   "count": 1,
-   "tags": "ssds nvme 512 gb patriot p300 512 ssd 2280 pcie nvme",
-   "firstSeen": "2026-11-20"
   },
   {
    "id": "c-asrock-phantom-gaming-b550m-phantom-gaming-4-mainboard-micro",
@@ -58024,6 +58543,35 @@
    "count": 1,
    "tags": "gehause asus a23 plus case mini tower micro atx rgb tempered glass white",
    "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "c-thermaltake-lcgs-th240-v2-ultra-argb-aio-wasserkuhlung-lcd-d",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS TH240 V2 Ultra ARGB AIO Wasserkühlung - LCD-Display",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/th240-v2-ultra-argb-sync-cpu-liquid-cooler-all-in-one?variant=49067782242643",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 94.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/th240-v2-ultra-argb-sync-cpu-liquid-cooler-all-in-one?variant=49067782242643"
+    }
+   ],
+   "price": 94.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 94.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs th240 ultra argb aio wasserkuhlung lcd display",
+   "firstSeen": "2026-11-26"
   },
   {
    "id": "c-lexar-nm610-pro-500-gb-m-2-ssd-pcie-3-0-x4-nvme",
@@ -61681,6 +62229,209 @@
    "firstSeen": "2026-11-15"
   },
   {
+   "id": "c-thermaltake-lcgs-th240-v2-ultra-argb-snow-white-aio-wasserku",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS TH240 V2 Ultra ARGB Snow White AIO Wasserkühlung - LCD-Display",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/th240-v2-ultra-argb-sync-cpu-liquid-cooler-snow-edition-all-in-one?variant=49068120965459",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 99.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/th240-v2-ultra-argb-sync-cpu-liquid-cooler-snow-edition-all-in-one?variant=49068120965459"
+    }
+   ],
+   "price": 99.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 99.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs th240 ultra argb snow white aio wasserkuhlung lcd display",
+   "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "c-thermaltake-lcgs-th240-v2-ultra-ex-argb-aio-wasserkuhlung-lc",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS TH240 V2 Ultra EX ARGB AIO Wasserkühlung - LCD-Display",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/th240-v2-ultra-ex-argb-aio?variant=50443069030739",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 99.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/th240-v2-ultra-ex-argb-aio?variant=50443069030739"
+    }
+   ],
+   "price": 99.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 99.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs th240 ultra argb aio wasserkuhlung lcd display",
+   "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "c-thermaltake-lcgs-toughliquid-240-ex-pro-argb-aio-wasserkuhlu",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS TOUGHLIQUID 240 EX Pro ARGB AIO Wasserkühlung",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/toughliquid-240-ex-pro-argb-aio?variant=50443072176467",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 99.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/toughliquid-240-ex-pro-argb-aio?variant=50443072176467"
+    }
+   ],
+   "price": 99.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 99.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs toughliquid 240 pro argb aio wasserkuhlung",
+   "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "c-thermaltake-lcgs-toughliquid-280-ex-pro-argb-aio-wasserkuhlu",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS TOUGHLIQUID 280 EX Pro ARGB AIO Wasserkühlung",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/toughliquid-280-ex-pro-argb-aio?variant=50443072307539",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 99.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/toughliquid-280-ex-pro-argb-aio?variant=50443072307539"
+    }
+   ],
+   "price": 99.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 99.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs toughliquid 280 pro argb aio wasserkuhlung",
+   "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "c-thermaltake-lcgs-toughliquid-ultra-240-aio-wasserkuhlung",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS TOUGHLIQUID Ultra 240 AIO Wasserkühlung",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/toughliquid-ultra-240-cpu-aio-liquid-cooler?variant=50478671561043",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 99.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/toughliquid-ultra-240-cpu-aio-liquid-cooler?variant=50478671561043"
+    }
+   ],
+   "price": 99.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 99.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs toughliquid ultra 240 aio wasserkuhlung",
+   "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "c-th360-v3-argb-aio-wasserkuhlung-black",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "TH360 V3 ARGB AIO Wasserkühlung - Black",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/it/products/th360-v3-argb-aio-wasserkuehlung?variant=52627041386835",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 99.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/it/products/th360-v3-argb-aio-wasserkuehlung?variant=52627041386835"
+    }
+   ],
+   "price": 99.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 99.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung th360 argb aio wasserkuhlung black",
+   "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "c-th240-s-v3-argb-aio-wasserkuhlung-segment-lcd-display-black",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "TH240-S V3 ARGB AIO Wasserkühlung - Segment-LCD-Display - Black",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/it/products/th240-s-v3-argb-aio-wasserkuehlung?variant=52627041485139",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 99.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/it/products/th240-s-v3-argb-aio-wasserkuehlung?variant=52627041485139"
+    }
+   ],
+   "price": 99.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 99.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung th240 argb aio wasserkuhlung segment lcd display black",
+   "firstSeen": "2026-11-26"
+  },
+  {
    "id": "c-lian-li-o11-vision-compact-pc-gehause-midi-tower-e-atx-tempe",
    "cat": "Gehäuse",
    "sub": "Gehäuse",
@@ -63059,83 +63810,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-asrock-a620am-pro-a-amd-a620-micro-atx-sockel-am5-ddr5-schwa",
-   "cat": "Mainboards",
-   "sub": "AM5 A620",
-   "name": "ASRock A620AM PRO-A AMD A620 micro ATX Sockel AM5 DDR5 Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/asrock-a620am-pro-a-amd-a620-micro-atx-sockel-am5-ddr5-schwarz-100596073/",
-   "stand": "2026-11-23T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 104.11,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/asrock-a620am-pro-a-amd-a620-micro-atx-sockel-am5-ddr5-schwarz-100596073/"
-    }
-   ],
-   "price": 104.11,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 101.98
-    },
-    {
-     "d": "2026-10-31",
-     "p": 101.98
-    },
-    {
-     "d": "2026-11-01",
-     "p": 101.98
-    },
-    {
-     "d": "2026-11-02",
-     "p": 101.98
-    },
-    {
-     "d": "2026-11-03",
-     "p": 101.98
-    },
-    {
-     "d": "2026-11-05",
-     "p": 101.8
-    },
-    {
-     "d": "2026-11-07",
-     "p": 102.2
-    },
-    {
-     "d": "2026-11-09",
-     "p": 102.65
-    },
-    {
-     "d": "2026-11-12",
-     "p": 103.35
-    },
-    {
-     "d": "2026-11-14",
-     "p": 103.46
-    },
-    {
-     "d": "2026-11-17",
-     "p": 103.97
-    },
-    {
-     "d": "2026-11-20",
-     "p": 104.11
-    },
-    {
-     "d": "2026-11-23",
-     "p": 104.11
-    }
-   ],
-   "count": 1,
-   "tags": "mainboards am5 a620 asrock a620am pro amd a620 micro atx sockel am5 ddr5 schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-benq-bl2490c-23-8-ips-office-monitor-1920-x-1080-144-hz-schw",
    "cat": "Monitore",
    "sub": "23,8\"",
@@ -64208,6 +64882,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler noctua d15 cpu kuhler",
    "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "c-thermaltake-lcgs-th240-v2-ultra-ex-argb-snow-white-aio-wasse",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS TH240 V2 Ultra EX ARGB Snow White AIO Wasserkühlung - LCD-Display",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/th240-v2-ultra-ex-argb-snow-aio?variant=50443070079315",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 104.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/th240-v2-ultra-ex-argb-snow-aio?variant=50443070079315"
+    }
+   ],
+   "price": 104.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 104.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs th240 ultra argb snow white aio wasserkuhlung lcd display",
+   "firstSeen": "2026-11-26"
   },
   {
    "id": "c-philips-1000-series-27e1n1200a-27-ips-led-monitor-full-hd-19",
@@ -66033,6 +66736,151 @@
    "firstSeen": "2026-11-10"
   },
   {
+   "id": "c-thermaltake-lcgs-th280-v2-ultra-argb-aio-wasserkuhlung-lcd-d",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS TH280 V2 Ultra ARGB AIO Wasserkühlung - LCD-Display",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/th360-v2-ultra-argb-sync-cpu-liquid-cooler-all-in-one-kopie?variant=49067849777491",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 109.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/th360-v2-ultra-argb-sync-cpu-liquid-cooler-all-in-one-kopie?variant=49067849777491"
+    }
+   ],
+   "price": 109.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 109.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs th280 ultra argb aio wasserkuhlung lcd display",
+   "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "c-thermaltake-lcgs-th280-v2-ultra-argb-snow-white-aio-wasserku",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS TH280 V2 Ultra ARGB Snow White AIO Wasserkühlung - LCD-Display",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/th280-v2-ultra-argb-sync-cpu-liquid-cooler-snow-edition-all-in-one?variant=49068277793107",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 109.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/th280-v2-ultra-argb-sync-cpu-liquid-cooler-snow-edition-all-in-one?variant=49068277793107"
+    }
+   ],
+   "price": 109.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 109.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs th280 ultra argb snow white aio wasserkuhlung lcd display",
+   "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "c-thermaltake-lcgs-th420-v2-argb-aio-wasserkuhlung",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS TH420 V2 ARGB AIO Wasserkühlung",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/th420-argb-v2-cpu-aio-liquid-cooler?variant=49772058247507",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 109.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/th420-argb-v2-cpu-aio-liquid-cooler?variant=49772058247507"
+    }
+   ],
+   "price": 109.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 109.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs th420 argb aio wasserkuhlung",
+   "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "c-thermaltake-lcgs-th420-v2-argb-snow-white-aio-wasserkuhlung",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS TH420 V2 ARGB Snow White AIO Wasserkühlung",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/th420-argb-v2-snow-cpu-aio-liquid-cooler?variant=49772160188755",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 109.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/th420-argb-v2-snow-cpu-aio-liquid-cooler?variant=49772160188755"
+    }
+   ],
+   "price": 109.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 109.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs th420 argb snow white aio wasserkuhlung",
+   "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "c-th360-s-v3-argb-aio-wasserkuhlung-segment-lcd-display-black",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "TH360-S V3 ARGB AIO Wasserkühlung - Segment-LCD-Display - Black",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/it/products/th360-s-v3-argb-aio-wasserkuehlung?variant=52627041714515",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 109.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/it/products/th360-s-v3-argb-aio-wasserkuehlung?variant=52627041714515"
+    }
+   ],
+   "price": 109.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 109.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung th360 argb aio wasserkuhlung segment lcd display black",
+   "firstSeen": "2026-11-26"
+  },
+  {
    "id": "c-asus-prime-h610m-a-wifi-intel-h610-mainboard-sockel-1700-ddr",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 H610",
@@ -66108,39 +66956,6 @@
    "count": 1,
    "tags": "mainboards intel lga1700 h610 asus prime h610m wifi intel h610 mainboard sockel 1700 ddr5",
    "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-emtec-power-pro-x300-512-gb-ssd-m-2-2280-nvme-pcie-3-0-x4-in",
-   "cat": "SSDs",
-   "sub": "NVMe 512 GB",
-   "name": "Emtec Power Pro X300 512 GB SSD M.2 2280 NVMe PCIe 3.0 x4 Intern",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/emtec-power-pro-x300-512-gb-ssd-m-2-2280-nvme-pcie-3-0-x4-intern-6169953/",
-   "stand": "2026-11-23T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 111.06,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/emtec-power-pro-x300-512-gb-ssd-m-2-2280-nvme-pcie-3-0-x4-intern-6169953/"
-    }
-   ],
-   "price": 111.06,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-20",
-     "p": 111.42
-    },
-    {
-     "d": "2026-11-23",
-     "p": 111.06
-    }
-   ],
-   "count": 1,
-   "tags": "ssds nvme 512 gb emtec power pro x300 512 ssd 2280 nvme pcie intern",
-   "firstSeen": "2026-11-20"
   },
   {
    "id": "c-lenovo-thinkvision-e27-40-27-monitor-full-hd-ips-100-hz-rave",
@@ -66336,39 +67151,6 @@
    "count": 1,
    "tags": "kuhlung luftkuhler noctua chromax black d12l prozessor 120 heatpipes schwarz",
    "firstSeen": "2026-11-12"
-  },
-  {
-   "id": "c-apacer-as2280p4-512-gb-m-2-pcie-3-0-x4-nvme-ssd-2100-1500-mb",
-   "cat": "SSDs",
-   "sub": "NVMe 512 GB",
-   "name": "Apacer AS2280P4 512 GB M.2 PCIe 3.0 x4 NVMe SSD 2100/1500 MB/s",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/apacer-as2280p4-512-gb-m-2-pcie-3-0-x4-nvme-ssd-2100-1500-mb-s-100740610/",
-   "stand": "2026-11-23T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 112.32,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/apacer-as2280p4-512-gb-m-2-pcie-3-0-x4-nvme-ssd-2100-1500-mb-s-100740610/"
-    }
-   ],
-   "price": 112.32,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-20",
-     "p": 112.32
-    },
-    {
-     "d": "2026-11-23",
-     "p": 112.32
-    }
-   ],
-   "count": 1,
-   "tags": "ssds nvme 512 gb apacer as2280p4 512 pcie nvme ssd 2100 1500",
-   "firstSeen": "2026-11-20"
   },
   {
    "id": "c-asus-prime-b550-plus-mainboard-sockel-am4-amd-b550-atx-ddr4",
@@ -67522,6 +68304,64 @@
    "firstSeen": "2026-11-25"
   },
   {
+   "id": "c-thermaltake-lcgs-th280-v2-ultra-ex-argb-aio-wasserkuhlung-lc",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS TH280 V2 Ultra EX ARGB AIO Wasserkühlung - LCD-Display",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/th280-v2-ultra-ex-argb-aio?variant=50443069161811",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 114.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/th280-v2-ultra-ex-argb-aio?variant=50443069161811"
+    }
+   ],
+   "price": 114.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 114.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs th280 ultra argb aio wasserkuhlung lcd display",
+   "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "c-thermaltake-lcgs-th280-v2-ultra-ex-argb-snow-white-aio-wasse",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS TH280 V2 Ultra EX ARGB Snow White AIO Wasserkühlung - LCD-Display",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/th280-v2-ultra-ex-argb-snow-aio?variant=50443070177619",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 114.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/th280-v2-ultra-ex-argb-snow-aio?variant=50443070177619"
+    }
+   ],
+   "price": 114.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 114.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs th280 ultra argb snow white aio wasserkuhlung lcd display",
+   "firstSeen": "2026-11-26"
+  },
+  {
    "id": "c-gigabyte-b760m-ds3h-ddr4-mainboard-lga-1700-micro-atx-schwar",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 B760",
@@ -67832,6 +68672,35 @@
    "count": 1,
    "tags": "mainboards am5 b840 gigabyte b840m ds3h mainboard sockel am5 amd b840 micro atx ddr5",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-thermaltake-lcgs-toughliquid-420-ex-pro-argb-aio-wasserkuhlu",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS TOUGHLIQUID 420 EX Pro ARGB AIO Wasserkühlung",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/toughliquid-420-ex-pro-argb-aio?variant=50443073159507",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 115.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/toughliquid-420-ex-pro-argb-aio?variant=50443073159507"
+    }
+   ],
+   "price": 115.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 115.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs toughliquid 420 pro argb aio wasserkuhlung",
+   "firstSeen": "2026-11-26"
   },
   {
    "id": "c-b-ware-b1-asus-tuf-gaming-850w-gold-80-plus-gold-netzteil-mo",
@@ -70803,6 +71672,64 @@
    "firstSeen": "2026-11-08"
   },
   {
+   "id": "c-thermaltake-lcgs-toughliquid-360-ex-pro-argb-aio-wasserkuhlu",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS TOUGHLIQUID 360 EX Pro ARGB AIO Wasserkühlung",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/toughliquid-360-ex-pro-argb-aio?variant=50443073093971",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 119.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/toughliquid-360-ex-pro-argb-aio?variant=50443073093971"
+    }
+   ],
+   "price": 119.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 119.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs toughliquid 360 pro argb aio wasserkuhlung",
+   "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "c-thermaltake-lcgs-th360-v2-ultra-argb-hydrangea-blue-aio-wass",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS TH360 V2 Ultra ARGB Hydrangea Blue AIO Wasserkühlung",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/it/products/th360-v2-ultra-argb-hydrangea-blue-aio-wasserkuehlung?variant=54649530286419",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 119.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/it/products/th360-v2-ultra-argb-hydrangea-blue-aio-wasserkuehlung?variant=54649530286419"
+    }
+   ],
+   "price": 119.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 119.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs th360 ultra argb hydrangea blue aio wasserkuhlung",
+   "firstSeen": "2026-11-26"
+  },
+  {
    "id": "c-aoc-24g4ha-gaming-monitor-60-5-cm-23-8-zoll-schwarz-matt-ful",
    "cat": "Monitore",
    "sub": "23,8\"",
@@ -73341,6 +74268,93 @@
    "firstSeen": "2026-11-11"
   },
   {
+   "id": "c-thermaltake-lcgs-th360-v2-ultra-argb-aio-wasserkuhlung-lcd-d",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS TH360 V2 Ultra ARGB AIO Wasserkühlung - LCD-Display",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/th360-v2-ultra-argb-sync-cpu-liquid-cooler-all-in-one?variant=49067841290579",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 124.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/th360-v2-ultra-argb-sync-cpu-liquid-cooler-all-in-one?variant=49067841290579"
+    }
+   ],
+   "price": 124.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 124.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs th360 ultra argb aio wasserkuhlung lcd display",
+   "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "c-thermaltake-lcgs-th360-v2-ultra-argb-snow-white-aio-wasserku",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS TH360 V2 Ultra ARGB Snow White AIO Wasserkühlung - LCD-Display",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/th360-v2-ultra-argb-sync-cpu-liquid-cooler-snow-edition-all-in-one?variant=49068207669587",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 124.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/th360-v2-ultra-argb-sync-cpu-liquid-cooler-snow-edition-all-in-one?variant=49068207669587"
+    }
+   ],
+   "price": 124.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 124.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs th360 ultra argb snow white aio wasserkuhlung lcd display",
+   "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "c-thermaltake-lcgs-th360-v2-ultra-ex-argb-snow-white-aio-wasse",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS TH360 V2 Ultra EX ARGB Snow White AIO Wasserkühlung - LCD-Display",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/th360-v2-ultra-ex-argb-snow-aio?variant=50443070931283",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 124.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/th360-v2-ultra-ex-argb-snow-aio?variant=50443070931283"
+    }
+   ],
+   "price": 124.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 124.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs th360 ultra argb snow white aio wasserkuhlung lcd display",
+   "firstSeen": "2026-11-26"
+  },
+  {
    "id": "c-asus-prime-b760m-a-csm-mainboard-intel-b760-lga1700-ddr5-mat",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 B760",
@@ -73493,6 +74507,35 @@
    "count": 1,
    "tags": "mainboards intel lga1700 h610 asus prime h610i plus csm mainboard mini itx intel h610 lga 1700 ddr5 gold",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-thermaltake-lcgs-toughliquid-ultra-280-aio-wasserkuhlung",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS TOUGHLIQUID Ultra 280 AIO Wasserkühlung",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/toughliquid-ultra-280-cpu-aio-liquid-cooler?variant=50478671593811",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 125.49,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/toughliquid-ultra-280-cpu-aio-liquid-cooler?variant=50478671593811"
+    }
+   ],
+   "price": 125.49,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 125.49
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs toughliquid ultra 280 aio wasserkuhlung",
+   "firstSeen": "2026-11-26"
   },
   {
    "id": "c-msi-spatium-m450-ssd-500-gb-m-2-pcie-4-0-nvme",
@@ -76145,6 +77188,35 @@
    "firstSeen": "2026-11-25"
   },
   {
+   "id": "c-thermaltake-lcgs-th420-v2-ultra-argb-snow-white-aio-refroidi",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS TH420 V2 Ultra ARGB Snow White AIO Refroidissement liquide",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/th420-v2-ultra-argb-sync-cpu-liquid-cooler-snow-edition-all-in-one?variant=49068400148819",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 129.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/th420-v2-ultra-argb-sync-cpu-liquid-cooler-snow-edition-all-in-one?variant=49068400148819"
+    }
+   ],
+   "price": 129.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 129.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs th420 ultra argb snow white aio refroidissement liquide",
+   "firstSeen": "2026-11-26"
+  },
+  {
    "id": "c-lenovo-thinkvision-t22i-30-21-5-full-hd-ips-monitor-raven-bl",
    "cat": "Monitore",
    "sub": "21,5\"",
@@ -76912,79 +77984,6 @@
    ],
    "count": 1,
    "tags": "mainboards intel lga1851 b860 gigabyte b860 ds3h mainboard sockel lga 1851 intel atx ddr5",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-msi-pro-mp245pg-23-8-full-hd-ips-100-hz-monitor-schwarz",
-   "cat": "Monitore",
-   "sub": "23,8\"",
-   "name": "MSI PRO MP245PG 23.8\" Full HD IPS 100 Hz Monitor Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/msi-pro-mp245pg-23-8-full-hd-ips-100-hz-monitor-schwarz-100677369/",
-   "stand": "2026-11-23T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 132.9,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/msi-pro-mp245pg-23-8-full-hd-ips-100-hz-monitor-schwarz-100677369/"
-    }
-   ],
-   "price": 132.9,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 147.66
-    },
-    {
-     "d": "2026-10-31",
-     "p": 147.66
-    },
-    {
-     "d": "2026-11-01",
-     "p": 147.66
-    },
-    {
-     "d": "2026-11-02",
-     "p": 147.66
-    },
-    {
-     "d": "2026-11-04",
-     "p": 132.9
-    },
-    {
-     "d": "2026-11-07",
-     "p": 132.9
-    },
-    {
-     "d": "2026-11-09",
-     "p": 132.9
-    },
-    {
-     "d": "2026-11-12",
-     "p": 132.9
-    },
-    {
-     "d": "2026-11-14",
-     "p": 132.9
-    },
-    {
-     "d": "2026-11-17",
-     "p": 132.9
-    },
-    {
-     "d": "2026-11-20",
-     "p": 132.9
-    },
-    {
-     "d": "2026-11-23",
-     "p": 132.9
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 23,8\" msi pro mp245pg full ips 100 monitor schwarz",
    "firstSeen": "2026-10-30"
   },
   {
@@ -78392,6 +79391,64 @@
    "firstSeen": "2026-11-11"
   },
   {
+   "id": "c-thermaltake-lcgs-th420-v2-ultra-argb-aio-wasserkuhlung-lcd-d",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS TH420 V2 Ultra ARGB AIO Wasserkühlung - LCD-Display",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/th420-v2-ultra-argb-sync-cpu-liquid-cooler-all-in-one?variant=49068015550803",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 134.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/th420-v2-ultra-argb-sync-cpu-liquid-cooler-all-in-one?variant=49068015550803"
+    }
+   ],
+   "price": 134.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 134.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs th420 ultra argb aio wasserkuhlung lcd display",
+   "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "c-thermaltake-lcgs-th420-v2-ultra-ex-argb-snow-white-aio-wasse",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS TH420 V2 Ultra EX ARGB Snow White AIO Wasserkühlung - LCD-Display",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/th420-v2-ultra-ex-argb-snow-aio?variant=50443070996819",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 134.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/th420-v2-ultra-ex-argb-snow-aio?variant=50443070996819"
+    }
+   ],
+   "price": 134.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 134.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs th420 ultra argb snow white aio wasserkuhlung lcd display",
+   "firstSeen": "2026-11-26"
+  },
+  {
    "id": "c-asus-prime-b760m-plus-intel-b760-mainboard-sockel-1700-ddr5",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 B760",
@@ -78978,39 +80035,6 @@
    "count": 1,
    "tags": "netzteile 1000 w+ ware kolink regulator plus gold netzteil atx pcie modular 1200 watt",
    "firstSeen": "2026-11-25"
-  },
-  {
-   "id": "c-transcend-115s-ssd-500-gb-m-2-2280-pcie-gen3-x4-nvme",
-   "cat": "SSDs",
-   "sub": "NVMe 500 GB",
-   "name": "Transcend 115S SSD 500 GB M.2 2280 PCIe Gen3 x4 NVMe",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/transcend-115s-ssd-500-gb-m-2-2280-pcie-gen3-x4-nvme-8484293/",
-   "stand": "2026-11-23T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 136.05,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/transcend-115s-ssd-500-gb-m-2-2280-pcie-gen3-x4-nvme-8484293/"
-    }
-   ],
-   "price": 136.05,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-20",
-     "p": 136.05
-    },
-    {
-     "d": "2026-11-23",
-     "p": 136.05
-    }
-   ],
-   "count": 1,
-   "tags": "ssds nvme 500 gb transcend 115s ssd 500 2280 pcie gen3 nvme",
-   "firstSeen": "2026-11-20"
   },
   {
    "id": "c-aoc-27e4u-27-fhd-ips-monitor-120-hz-schwarz",
@@ -81310,6 +82334,35 @@
    "firstSeen": "2026-11-25"
   },
   {
+   "id": "c-thermaltake-lcgs-retro-240-ultra-argb-aio-wasserkuhlung",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS Retro 240 Ultra ARGB AIO Wasserkühlung",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/it/products/retro-240-ultra-argb-aio-wasserkuhlung?variant=54916220551507",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 139.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/it/products/retro-240-ultra-argb-aio-wasserkuhlung?variant=54916220551507"
+    }
+   ],
+   "price": 139.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 139.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs retro 240 ultra argb aio wasserkuhlung",
+   "firstSeen": "2026-11-26"
+  },
+  {
    "id": "c-asrock-b860-pro-rs-atx-lga1851-intel-b860-ddr5-weiss",
    "cat": "Mainboards",
    "sub": "Intel LGA1851 B860",
@@ -81462,6 +82515,35 @@
    "count": 1,
    "tags": "mainboards intel lga1851 b860 asus prime b860m mainboard sockel lga 1851 intel b860 micro atx ddr5",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-transcend-msa370-msata-ssd-32-gb",
+   "cat": "SSDs",
+   "sub": "SATA",
+   "name": "Transcend MSA370 mSATA SSD 32 GB",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/transcend-msa370-msata-ssd-32-gb-2025291/",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 140.66,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/transcend-msa370-msata-ssd-32-gb-2025291/"
+    }
+   ],
+   "price": 140.66,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 140.66
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata transcend msa370 msata ssd",
+   "firstSeen": "2026-11-26"
   },
   {
    "id": "c-iiyama-prolite-e1980s-b1-48-3cm-19-5-4-office-monitor-hdmi-d",
@@ -82483,83 +83565,6 @@
    "count": 1,
    "tags": "netzteile 1000 w+ enermax revolution atx 1200w netzteil",
    "firstSeen": "2026-10-31"
-  },
-  {
-   "id": "c-gigabyte-b650e-eagle-wf6e-amd-b650-atx-ddr5-mainboard-braun",
-   "cat": "Mainboards",
-   "sub": "AM5 B650",
-   "name": "Gigabyte B650E EAGLE WF6E AMD B650 ATX DDR5 Mainboard Braun",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/gigabyte-b650e-eagle-wf6e-amd-b650-atx-ddr5-mainboard-braun-100674450/",
-   "stand": "2026-11-23T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 144.25,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/gigabyte-b650e-eagle-wf6e-amd-b650-atx-ddr5-mainboard-braun-100674450/"
-    }
-   ],
-   "price": 144.25,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 148.29
-    },
-    {
-     "d": "2026-10-31",
-     "p": 148.21
-    },
-    {
-     "d": "2026-11-01",
-     "p": 148.11
-    },
-    {
-     "d": "2026-11-02",
-     "p": 148.01
-    },
-    {
-     "d": "2026-11-03",
-     "p": 150.83
-    },
-    {
-     "d": "2026-11-05",
-     "p": 150.83
-    },
-    {
-     "d": "2026-11-07",
-     "p": 148.17
-    },
-    {
-     "d": "2026-11-09",
-     "p": 148.17
-    },
-    {
-     "d": "2026-11-12",
-     "p": 148.17
-    },
-    {
-     "d": "2026-11-14",
-     "p": 148.17
-    },
-    {
-     "d": "2026-11-17",
-     "p": 144.25
-    },
-    {
-     "d": "2026-11-20",
-     "p": 144.25
-    },
-    {
-     "d": "2026-11-23",
-     "p": 144.25
-    }
-   ],
-   "count": 1,
-   "tags": "mainboards am5 b650 gigabyte b650e eagle wf6e amd b650 atx ddr5 mainboard braun",
-   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-alphacool-eisbaer-aurora-360-aio-cooler-digital-rgb-360mm",
@@ -83734,39 +84739,6 @@
    "firstSeen": "2026-11-08"
   },
   {
-   "id": "c-verbatim-vi550-s3-ssd-1-tb-2-5-sata-iii-intern",
-   "cat": "SSDs",
-   "sub": "SATA 1 TB",
-   "name": "Verbatim Vi550 S3 SSD 1 TB 2.5\" SATA III intern",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/verbatim-vi550-s3-ssd-1-tb-2-5-sata-iii-intern-6118334/",
-   "stand": "2026-11-23T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 146.06,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/verbatim-vi550-s3-ssd-1-tb-2-5-sata-iii-intern-6118334/"
-    }
-   ],
-   "price": 146.06,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-20",
-     "p": 146.06
-    },
-    {
-     "d": "2026-11-23",
-     "p": 146.06
-    }
-   ],
-   "count": 1,
-   "tags": "ssds sata 1 tb verbatim vi550 ssd sata iii intern",
-   "firstSeen": "2026-11-20"
-  },
-  {
    "id": "c-fractal-design-meshify-3-tg-light-tint-pc-gehause-midi-tower",
    "cat": "Gehäuse",
    "sub": "Gehäuse",
@@ -83911,39 +84883,6 @@
    "count": 1,
    "tags": "mainboards intel lga1700 b760 msi b760 gaming plus wifi intel motherboard socket 1700 ddr4",
    "firstSeen": "2026-11-05"
-  },
-  {
-   "id": "c-patriot-p300-m-2-ssd-1-tb-pcie-3-0-x4-nvme",
-   "cat": "SSDs",
-   "sub": "NVMe 1 TB",
-   "name": "Patriot P300 M.2 SSD 1 TB PCIe 3.0 x4 NVMe",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/patriot-p300-m-2-ssd-1-tb-pcie-3-0-x4-nvme-6242900/",
-   "stand": "2026-11-23T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 147.25,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/patriot-p300-m-2-ssd-1-tb-pcie-3-0-x4-nvme-6242900/"
-    }
-   ],
-   "price": 147.25,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-20",
-     "p": 147.25
-    },
-    {
-     "d": "2026-11-23",
-     "p": 147.25
-    }
-   ],
-   "count": 1,
-   "tags": "ssds nvme 1 tb patriot p300 ssd pcie nvme",
-   "firstSeen": "2026-11-20"
   },
   {
    "id": "c-asrock-b760m-steel-legend-wifi-intel-b760-mainboard-sockel-1",
@@ -84196,79 +85135,6 @@
    "count": 1,
    "tags": "netzteile 1000 w+ ware asus tuf gaming 1000w gold plus netzteil modular 1000 watt weiss",
    "firstSeen": "2026-11-25"
-  },
-  {
-   "id": "c-dell-se2726d-27-ips-qhd-monitor-2560-x-1440-144-hz-schwarz",
-   "cat": "Monitore",
-   "sub": "27\"",
-   "name": "Dell SE2726D 27\" IPS QHD Monitor 2560 x 1440 144 Hz Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/dell-se2726d-27-ips-qhd-monitor-2560-x-1440-144-hz-schwarz-100865279/",
-   "stand": "2026-11-23T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 148.76,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/dell-se2726d-27-ips-qhd-monitor-2560-x-1440-144-hz-schwarz-100865279/"
-    }
-   ],
-   "price": 148.76,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 155.43
-    },
-    {
-     "d": "2026-10-31",
-     "p": 155.43
-    },
-    {
-     "d": "2026-11-01",
-     "p": 155.43
-    },
-    {
-     "d": "2026-11-02",
-     "p": 149.86
-    },
-    {
-     "d": "2026-11-04",
-     "p": 149.86
-    },
-    {
-     "d": "2026-11-07",
-     "p": 149.77
-    },
-    {
-     "d": "2026-11-09",
-     "p": 149.77
-    },
-    {
-     "d": "2026-11-12",
-     "p": 148.76
-    },
-    {
-     "d": "2026-11-14",
-     "p": 148.76
-    },
-    {
-     "d": "2026-11-17",
-     "p": 148.76
-    },
-    {
-     "d": "2026-11-20",
-     "p": 148.76
-    },
-    {
-     "d": "2026-11-23",
-     "p": 148.76
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 27\" dell se2726d ips qhd monitor 2560 1440 144 schwarz",
-   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-benq-bl2490tc-23-8-ips-monitor-1920-x-1080-144-hz-schwarz",
@@ -86097,6 +86963,35 @@
    "count": 1,
    "tags": "kuhlung aio-wasserkuhlung corsair nautilus 360 lcd flussig cpu kuhler wasserkuhlung",
    "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "c-thermaltake-lcgs-retro-360-ultra-argb-aio-wasserkuhlung",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS Retro 360 Ultra ARGB AIO Wasserkühlung",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/it/products/retro-360-ultra-argb-aio-wasserkuhlung?variant=54916271898963",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 149.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/it/products/retro-360-ultra-argb-aio-wasserkuhlung?variant=54916271898963"
+    }
+   ],
+   "price": 149.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 149.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs retro 360 ultra argb aio wasserkuhlung",
+   "firstSeen": "2026-11-26"
   },
   {
    "id": "c-asus-prime-b850-plus-wifi-mainboard-sockel-am5-amd-b850-atx-",
@@ -90697,6 +91592,35 @@
    "count": 1,
    "tags": "netzteile nzxt c1200 gold atx netzteil",
    "firstSeen": "2026-11-15"
+  },
+  {
+   "id": "c-th360-v3-ultra-argb-aio-wasserkuhlung-lcd-display-black",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "TH360 V3 Ultra ARGB AIO Wasserkühlung - LCD-Display - Black",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/it/products/th360-v3-ultra-argb-aio-wasserkuehlung?variant=52627041780051",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 159.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/it/products/th360-v3-ultra-argb-aio-wasserkuehlung?variant=52627041780051"
+    }
+   ],
+   "price": 159.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 159.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung th360 ultra argb aio wasserkuhlung lcd display black",
+   "firstSeen": "2026-11-26"
   },
   {
    "id": "c-western-digital-blue-sa510-m-2-ssd-sata-6g-1-tb",
@@ -99691,39 +100615,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-emtec-power-pro-x300-1-tb-m-2-2280-pcie-3-0-x4-nvme-ssd",
-   "cat": "SSDs",
-   "sub": "NVMe 1 TB",
-   "name": "EMTEC Power Pro X300 1 TB M.2 2280 PCIe 3.0 x4 NVMe SSD",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/emtec-power-pro-x300-1-tb-m-2-2280-pcie-3-0-x4-nvme-ssd-6169950/",
-   "stand": "2026-11-23T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 184.56,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/emtec-power-pro-x300-1-tb-m-2-2280-pcie-3-0-x4-nvme-ssd-6169950/"
-    }
-   ],
-   "price": 184.56,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-20",
-     "p": 184.56
-    },
-    {
-     "d": "2026-11-23",
-     "p": 184.56
-    }
-   ],
-   "count": 1,
-   "tags": "ssds nvme 1 tb emtec power pro x300 2280 pcie nvme ssd",
-   "firstSeen": "2026-11-20"
-  },
-  {
    "id": "c-msi-mag-b760-gaming-plus-wifi-ddr4-mainboard-atx-lga-1700-go",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 B760",
@@ -102159,79 +103050,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-philips-e-line-325e1c-32-2560-x-1440-va-monitor-textured-bla",
-   "cat": "Monitore",
-   "sub": "32\"",
-   "name": "Philips E-line 325E1C 32\" 2560 x 1440 VA Monitor Textured Black",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/philips-e-line-325e1c-32-2560-x-1440-va-monitor-textured-black-5821917/",
-   "stand": "2026-11-23T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 191.8,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/philips-e-line-325e1c-32-2560-x-1440-va-monitor-textured-black-5821917/"
-    }
-   ],
-   "price": 191.8,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 199.23
-    },
-    {
-     "d": "2026-10-31",
-     "p": 199.23
-    },
-    {
-     "d": "2026-11-01",
-     "p": 199.23
-    },
-    {
-     "d": "2026-11-02",
-     "p": 199.23
-    },
-    {
-     "d": "2026-11-04",
-     "p": 199.23
-    },
-    {
-     "d": "2026-11-07",
-     "p": 198.18
-    },
-    {
-     "d": "2026-11-09",
-     "p": 198.18
-    },
-    {
-     "d": "2026-11-12",
-     "p": 191.8
-    },
-    {
-     "d": "2026-11-14",
-     "p": 191.8
-    },
-    {
-     "d": "2026-11-17",
-     "p": 191.8
-    },
-    {
-     "d": "2026-11-20",
-     "p": 191.8
-    },
-    {
-     "d": "2026-11-23",
-     "p": 191.8
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 32\" philips line 325e1c 2560 1440 monitor textured black",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-kingston-fury-beast-16-gb-kit-2-x-8-gb-ddr4-3600-mt-s-cl17-d",
    "cat": "Arbeitsspeicher",
    "sub": "DDR4 16 GB",
@@ -103564,79 +104382,6 @@
    ],
    "count": 1,
    "tags": "mainboards intel lga1851 b860 gigabyte b860m aorus elite wifi6e mainboard sockel 1851 intel b860 matx ddr5",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-gigabyte-m27q2-qd-27-qhd-ss-ips-gaming-monitor-200-hz-schwar",
-   "cat": "Monitore",
-   "sub": "27\"",
-   "name": "Gigabyte M27Q2 QD 27\" QHD SS-IPS Gaming-Monitor 200 Hz Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/gigabyte-m27q2-qd-27-qhd-ss-ips-gaming-monitor-200-hz-schwarz-100677373/",
-   "stand": "2026-11-23T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 196.67,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/gigabyte-m27q2-qd-27-qhd-ss-ips-gaming-monitor-200-hz-schwarz-100677373/"
-    }
-   ],
-   "price": 196.67,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 223.54
-    },
-    {
-     "d": "2026-10-31",
-     "p": 218.52
-    },
-    {
-     "d": "2026-11-01",
-     "p": 218.52
-    },
-    {
-     "d": "2026-11-02",
-     "p": 223.54
-    },
-    {
-     "d": "2026-11-04",
-     "p": 225.29
-    },
-    {
-     "d": "2026-11-07",
-     "p": 223.36
-    },
-    {
-     "d": "2026-11-09",
-     "p": 223.26
-    },
-    {
-     "d": "2026-11-12",
-     "p": 221.32
-    },
-    {
-     "d": "2026-11-14",
-     "p": 196.67
-    },
-    {
-     "d": "2026-11-17",
-     "p": 196.67
-    },
-    {
-     "d": "2026-11-20",
-     "p": 196.67
-    },
-    {
-     "d": "2026-11-23",
-     "p": 196.67
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 27\" gigabyte m27q2 qhd ips gaming monitor 200 schwarz",
    "firstSeen": "2026-10-30"
   },
   {
@@ -105378,6 +106123,35 @@
    "count": 1,
    "tags": "kuhlung aio-wasserkuhlung lian hydroshift lcd 360 argb aio cooler white",
    "firstSeen": "2026-11-11"
+  },
+  {
+   "id": "c-thermaltake-lcgs-toughliquid-ultra-280-rgb-aio-wasserkuhlung",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS TOUGHLIQUID Ultra 280 RGB AIO Wasserkühlung",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/toughliquid-ultra-280-rgb-cpu-aio-liquid-cooler?variant=50478671659347",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 199.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/toughliquid-ultra-280-rgb-cpu-aio-liquid-cooler?variant=50478671659347"
+    }
+   ],
+   "price": 199.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 199.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs toughliquid ultra 280 rgb aio wasserkuhlung",
+   "firstSeen": "2026-11-26"
   },
   {
    "id": "c-seasonic-prime-fanless-tx-netzteil-80-plus-titanium-modular-",
@@ -110231,39 +111005,6 @@
    "count": 1,
    "tags": "mainboards intel lga1851 b860 msi mag b860 tomahawk wifi mainboard sockel lga 1851 intel atx ddr5",
    "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-transcend-mte410s-512-gb-ssd-pcie-4-0-x4-nvme-m-2-2242",
-   "cat": "SSDs",
-   "sub": "PCIe 4.0 512 GB",
-   "name": "Transcend MTE410S 512 GB SSD PCIe 4.0 x4 NVMe M.2 2242",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/transcend-mte410s-512-gb-ssd-pcie-4-0-x4-nvme-m-2-2242-100486533/",
-   "stand": "2026-11-23T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 220.39,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/transcend-mte410s-512-gb-ssd-pcie-4-0-x4-nvme-m-2-2242-100486533/"
-    }
-   ],
-   "price": 220.39,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-20",
-     "p": 220.39
-    },
-    {
-     "d": "2026-11-23",
-     "p": 220.39
-    }
-   ],
-   "count": 1,
-   "tags": "ssds pcie 4.0 512 gb transcend mte410s 512 ssd pcie nvme 2242",
-   "firstSeen": "2026-11-20"
   },
   {
    "id": "c-asus-prime-z890-p-mainboard-atx-lga-1851-ddr5-z890-chipsatz-",
@@ -116732,6 +117473,64 @@
    "firstSeen": "2026-11-08"
   },
   {
+   "id": "c-thermaltake-lcgs-toughliquid-ultra-420-rgb-aio-wasserkuhlung",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "Thermaltake LCGS TOUGHLIQUID Ultra 420 RGB AIO Wasserkühlung",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/toughliquid-ultra-420-rgb-cpu-aio-liquid-cooler?variant=50478671692115",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 249.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/toughliquid-ultra-420-rgb-cpu-aio-liquid-cooler?variant=50478671692115"
+    }
+   ],
+   "price": 249.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 249.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung thermaltake lcgs toughliquid ultra 420 rgb aio wasserkuhlung",
+   "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "c-magfloe-360-ultra-aio-wasserkuhlung-lcd-display-black",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "MAGFloe 360 Ultra AIO Wasserkühlung - LCD-Display - Black",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/magfloe-360-ultra-all-in-one-wasserkuehlung?variant=50481165336915",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 249.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/magfloe-360-ultra-all-in-one-wasserkuehlung?variant=50481165336915"
+    }
+   ],
+   "price": 249.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 249.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung magfloe 360 ultra aio wasserkuhlung lcd display black",
+   "firstSeen": "2026-11-26"
+  },
+  {
    "id": "c-kingston-fury-beast-rgb-8-gb-ram-ddr5-6000-mt-s-cl36-schwarz",
    "cat": "Arbeitsspeicher",
    "sub": "DDR5",
@@ -117894,39 +118693,6 @@
    "count": 1,
    "tags": "gehause fractal design meshify ambience pro rgb big tower atx tempered glass weiss",
    "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-coreparts-nt-1tbt-2280-1000-gb-m-2-pcie-nvme-ssd",
-   "cat": "SSDs",
-   "sub": "NVMe 1 TB",
-   "name": "CoreParts NT-1TBT/2280 1000 GB M.2 PCIe NVMe SSD",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/coreparts-nt-1tbt-2280-1000-gb-m-2-pcie-nvme-ssd-6421494/",
-   "stand": "2026-11-23T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 258.15,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/coreparts-nt-1tbt-2280-1000-gb-m-2-pcie-nvme-ssd-6421494/"
-    }
-   ],
-   "price": 258.15,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-20",
-     "p": 258.15
-    },
-    {
-     "d": "2026-11-23",
-     "p": 258.15
-    }
-   ],
-   "count": 1,
-   "tags": "ssds nvme 1 tb coreparts 1tbt 2280 1000 pcie nvme ssd",
-   "firstSeen": "2026-11-20"
   },
   {
    "id": "c-philips-b-line-276b1-27-quad-hd-ips-led-monitor-usb-c-black-",
@@ -120950,6 +121716,35 @@
    "firstSeen": "2026-11-01"
   },
   {
+   "id": "c-magfloe-420-ultra-aio-wasserkuhlung-lcd-display-black",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "MAGFloe 420 Ultra AIO Wasserkühlung - LCD-Display - Black",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/magfloe-420-ultra-all-in-one-wasserkuehlung?variant=50481084105043",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 279.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/magfloe-420-ultra-all-in-one-wasserkuehlung?variant=50481084105043"
+    }
+   ],
+   "price": 279.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 279.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung magfloe 420 ultra aio wasserkuhlung lcd display black",
+   "firstSeen": "2026-11-26"
+  },
+  {
    "id": "c-acer-vero-cb273u-27-ips-wqhd-monitor-100-hz-schwarz",
    "cat": "Monitore",
    "sub": "27\"",
@@ -123953,83 +124748,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-asus-rog-strix-b850-f-gaming-wifi7-neo-mainboard-amd-am5-atx",
-   "cat": "Mainboards",
-   "sub": "AM5 B850",
-   "name": "ASUS ROG STRIX B850-F GAMING WIFI7 NEO Mainboard AMD AM5 ATX DDR5",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/asus-rog-strix-b850-f-gaming-wifi7-neo-mainboard-amd-am5-atx-ddr5-100703392/",
-   "stand": "2026-11-23T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 303.01,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/asus-rog-strix-b850-f-gaming-wifi7-neo-mainboard-amd-am5-atx-ddr5-100703392/"
-    }
-   ],
-   "price": 303.01,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 303.01
-    },
-    {
-     "d": "2026-10-31",
-     "p": 303.01
-    },
-    {
-     "d": "2026-11-01",
-     "p": 303.01
-    },
-    {
-     "d": "2026-11-02",
-     "p": 303.01
-    },
-    {
-     "d": "2026-11-03",
-     "p": 303.01
-    },
-    {
-     "d": "2026-11-05",
-     "p": 303.01
-    },
-    {
-     "d": "2026-11-07",
-     "p": 303.01
-    },
-    {
-     "d": "2026-11-09",
-     "p": 303.01
-    },
-    {
-     "d": "2026-11-12",
-     "p": 303.01
-    },
-    {
-     "d": "2026-11-14",
-     "p": 303.01
-    },
-    {
-     "d": "2026-11-17",
-     "p": 303.01
-    },
-    {
-     "d": "2026-11-20",
-     "p": 300.59
-    },
-    {
-     "d": "2026-11-23",
-     "p": 303.01
-    }
-   ],
-   "count": 1,
-   "tags": "mainboards am5 b850 asus rog strix b850 gaming wifi7 neo mainboard amd am5 atx ddr5",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-asus-rog-strix-z890-f-mainboard-sockel-lga-1851-intel-z890-a",
    "cat": "Mainboards",
    "sub": "Intel LGA1851 Z890",
@@ -124696,6 +125414,35 @@
    "firstSeen": "2026-11-05"
   },
   {
+   "id": "c-minecube-360-ultra-argb-aio-wasserkuhlung-quad-lcd-cube-disp",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "MINECUBE 360 Ultra ARGB AIO Wasserkühlung - Quad-LCD-Cube-Display - Black",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/minecube-360-ultra-argb-aio-wasserkuehlung?variant=52474127483219",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 309.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/minecube-360-ultra-argb-aio-wasserkuehlung?variant=52474127483219"
+    }
+   ],
+   "price": 309.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 309.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung minecube 360 ultra argb aio wasserkuhlung quad lcd cube display black",
+   "firstSeen": "2026-11-26"
+  },
+  {
    "id": "c-msi-mpg-z890-edge-ti-wifi-mainboard-sockel-lga-1851-intel-z8",
    "cat": "Mainboards",
    "sub": "Intel LGA1851 Z890",
@@ -124770,83 +125517,6 @@
    ],
    "count": 1,
    "tags": "mainboards intel lga1851 z890 msi mpg z890 edge wifi mainboard sockel lga 1851 intel atx ddr5",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-gigabyte-aorus-b850-stealth-atx-amd-b850-lga1851-ddr5-schwar",
-   "cat": "Mainboards",
-   "sub": "AM5 B850",
-   "name": "Gigabyte AORUS B850 STEALTH ATX AMD B850 LGA1851 DDR5 Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/gigabyte-aorus-b850-stealth-atx-amd-b850-lga1851-ddr5-schwarz-100683311/",
-   "stand": "2026-11-23T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 311.34,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/gigabyte-aorus-b850-stealth-atx-amd-b850-lga1851-ddr5-schwarz-100683311/"
-    }
-   ],
-   "price": 311.34,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 307.86
-    },
-    {
-     "d": "2026-10-31",
-     "p": 307.88
-    },
-    {
-     "d": "2026-11-01",
-     "p": 307.88
-    },
-    {
-     "d": "2026-11-02",
-     "p": 307.88
-    },
-    {
-     "d": "2026-11-03",
-     "p": 307.88
-    },
-    {
-     "d": "2026-11-05",
-     "p": 307
-    },
-    {
-     "d": "2026-11-07",
-     "p": 306.06
-    },
-    {
-     "d": "2026-11-09",
-     "p": 307.88
-    },
-    {
-     "d": "2026-11-12",
-     "p": 307.88
-    },
-    {
-     "d": "2026-11-14",
-     "p": 307.88
-    },
-    {
-     "d": "2026-11-17",
-     "p": 311.34
-    },
-    {
-     "d": "2026-11-20",
-     "p": 311.34
-    },
-    {
-     "d": "2026-11-23",
-     "p": 311.34
-    }
-   ],
-   "count": 1,
-   "tags": "mainboards am5 b850 gigabyte aorus b850 stealth atx amd lga1851 ddr5 schwarz",
    "firstSeen": "2026-10-30"
   },
   {
@@ -126067,79 +126737,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-asus-be24ecsnk-60-5cm-tft-led-monitor-5ms-gtg-1x-hdmi-1-4-60",
-   "cat": "Monitore",
-   "sub": "Monitore",
-   "name": "ASUS BE24ECSNK 60.5cm TFT LED-Monitor, 5ms (GtG), 1x HDMI 1.4 60Hz@1920x1080, 1x DisplayPort 1.2 60Hz@1920x1080, 1x USB-C 3.0 mit DisplayPort 1.2 Daisy Chain [Energieklasse E] (90LM05M1-B0A370)",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/asus-be24ecsnk-60-5cm-tft-led-monitor-5ms-gtg-1x-hdmi-1-4-60hzat1920x1080-1x-displayport-1-2-60hzat1920x1080-1x-usb-c-3-0-mit-displayport-1-2-daisy-chain-energieklasse-e-90lm05m1-b0a370-7981621/",
-   "stand": "2026-11-23T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 323.53,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/asus-be24ecsnk-60-5cm-tft-led-monitor-5ms-gtg-1x-hdmi-1-4-60hzat1920x1080-1x-displayport-1-2-60hzat1920x1080-1x-usb-c-3-0-mit-displayport-1-2-daisy-chain-energieklasse-e-90lm05m1-b0a370-7981621/"
-    }
-   ],
-   "price": 323.53,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 323.53
-    },
-    {
-     "d": "2026-10-31",
-     "p": 323.53
-    },
-    {
-     "d": "2026-11-01",
-     "p": 323.53
-    },
-    {
-     "d": "2026-11-02",
-     "p": 323.53
-    },
-    {
-     "d": "2026-11-04",
-     "p": 323.53
-    },
-    {
-     "d": "2026-11-07",
-     "p": 323.53
-    },
-    {
-     "d": "2026-11-09",
-     "p": 323.53
-    },
-    {
-     "d": "2026-11-12",
-     "p": 323.53
-    },
-    {
-     "d": "2026-11-14",
-     "p": 323.53
-    },
-    {
-     "d": "2026-11-17",
-     "p": 323.53
-    },
-    {
-     "d": "2026-11-20",
-     "p": 323.53
-    },
-    {
-     "d": "2026-11-23",
-     "p": 323.53
-    }
-   ],
-   "count": 1,
-   "tags": "monitore asus be24ecsnk 5cm tft led monitor 5ms gtg hdmi 60hz 1920x1080 displayport usb mit daisy chain energieklasse",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-samsung-essential-s3-s32d396gau-32-curved-full-hd-monitor-10",
    "cat": "Monitore",
    "sub": "32\"",
@@ -126500,6 +127097,35 @@
    "count": 1,
    "tags": "grafikkarten intel arc b570 asrock arc b570 challenger 10gb grafikkarte 10240 gddr6",
    "firstSeen": "2026-11-21"
+  },
+  {
+   "id": "c-fujitsu-enterprise-240-gb-ssd-2-5-sata-6gb-s",
+   "cat": "SSDs",
+   "sub": "SATA 240 GB",
+   "name": "Fujitsu enterprise 240 GB SSD 2.5\" SATA 6Gb/s",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/fujitsu-enterprise-240-gb-ssd-2-5-sata-6gb-s-496578/",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 324.95,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/fujitsu-enterprise-240-gb-ssd-2-5-sata-6gb-s-496578/"
+    }
+   ],
+   "price": 324.95,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 324.95
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 240 gb fujitsu enterprise 240 ssd sata 6gb",
+   "firstSeen": "2026-11-26"
   },
   {
    "id": "c-g-skill-flare-x5-ddr5-16-gb-2x8-gb-6000-mt-s-cl30-dimm-schwa",
@@ -126877,79 +127503,6 @@
    ],
    "count": 1,
    "tags": "arbeitsspeicher ddr5 16 gb kingston fury beast rgb ram ddr5 6400 mhz dimm weiss",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-lenovo-thinkvision-t32h-30-31-5-2560-x-1440-ips-led-monitor-",
-   "cat": "Monitore",
-   "sub": "31,5\"",
-   "name": "Lenovo ThinkVision T32h-30 31.5\" 2560 x 1440 IPS LED-Monitor Raven Black",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/lenovo-thinkvision-t32h-30-31-5-2560-x-1440-ips-led-monitor-raven-black-8222113/",
-   "stand": "2026-11-23T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 327.58,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/lenovo-thinkvision-t32h-30-31-5-2560-x-1440-ips-led-monitor-raven-black-8222113/"
-    }
-   ],
-   "price": 327.58,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 329.15
-    },
-    {
-     "d": "2026-10-31",
-     "p": 329.15
-    },
-    {
-     "d": "2026-11-01",
-     "p": 329.15
-    },
-    {
-     "d": "2026-11-02",
-     "p": 329.15
-    },
-    {
-     "d": "2026-11-04",
-     "p": 329.15
-    },
-    {
-     "d": "2026-11-07",
-     "p": 329.15
-    },
-    {
-     "d": "2026-11-09",
-     "p": 329.15
-    },
-    {
-     "d": "2026-11-12",
-     "p": 332.64
-    },
-    {
-     "d": "2026-11-14",
-     "p": 329.15
-    },
-    {
-     "d": "2026-11-17",
-     "p": 332.64
-    },
-    {
-     "d": "2026-11-20",
-     "p": 332.64
-    },
-    {
-     "d": "2026-11-23",
-     "p": 327.58
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 31,5\" lenovo thinkvision t32h 2560 1440 ips led monitor raven black",
    "firstSeen": "2026-10-30"
   },
   {
@@ -129842,6 +130395,35 @@
    "firstSeen": "2026-11-05"
   },
   {
+   "id": "c-magcurve-360-ultra-argb-aio-wasserkuhlung-amoled-display-bla",
+   "cat": "Kühlung",
+   "sub": "AiO-Wasserkühlung",
+   "name": "MAGCurve 360 Ultra ARGB AIO Wasserkühlung - AMOLED-Display - Black",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/it/products/magcurve-360-ultra-system-argb-fan-aio-wasserkuehlung?variant=52627041911123",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 349.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/it/products/magcurve-360-ultra-system-argb-fan-aio-wasserkuehlung?variant=52627041911123"
+    }
+   ],
+   "price": 349.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 349.9
+    }
+   ],
+   "count": 1,
+   "tags": "kuhlung aio-wasserkuhlung magcurve 360 ultra argb aio wasserkuhlung amoled display black",
+   "firstSeen": "2026-11-26"
+  },
+  {
    "id": "c-sonnet-fusion-ssd-m-2-4x4-pcie-card-schnittstellenkarte",
    "cat": "SSDs",
    "sub": "NVMe",
@@ -130611,39 +131193,6 @@
    "firstSeen": "2026-11-18"
   },
   {
-   "id": "c-patriot-p210-2-tb-ssd-2-5-sata-6gb-s",
-   "cat": "SSDs",
-   "sub": "SATA 2 TB",
-   "name": "Patriot P210 2 TB SSD 2,5\" SATA 6Gb/s",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/patriot-p210-2-tb-ssd-2-5-sata-6gb-s-6485171/",
-   "stand": "2026-11-23T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 361.3,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/patriot-p210-2-tb-ssd-2-5-sata-6gb-s-6485171/"
-    }
-   ],
-   "price": 361.3,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-20",
-     "p": 361.3
-    },
-    {
-     "d": "2026-11-23",
-     "p": 361.3
-    }
-   ],
-   "count": 1,
-   "tags": "ssds sata 2 tb patriot p210 ssd sata 6gb",
-   "firstSeen": "2026-11-20"
-  },
-  {
    "id": "c-samsung-odyssey-g7-s27dg702eu-27-4k-uhd-144hz-fast-ips-gamin",
    "cat": "Monitore",
    "sub": "27\"",
@@ -131265,79 +131814,6 @@
    ],
    "count": 1,
    "tags": "mainboards am5 x870 sapphire nitro x870ea phantomlink polar edition mainboard amd x870e sockel am5 ddr5",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-corsair-vengeance-rgb-rt-32-gb-ram-2x16-gb-ddr4-3200-mhz-cl1",
-   "cat": "Arbeitsspeicher",
-   "sub": "DDR4 32 GB",
-   "name": "CORSAIR Vengeance RGB RT 32 GB RAM 2x16 GB DDR4 3200 MHz CL16 Schwarz, Grau",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/corsair-vengeance-rgb-rt-32-gb-ram-2x16-gb-ddr4-3200-mhz-cl16-schwarz-grau-7342994/",
-   "stand": "2026-11-23T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 367.1,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/corsair-vengeance-rgb-rt-32-gb-ram-2x16-gb-ddr4-3200-mhz-cl16-schwarz-grau-7342994/"
-    }
-   ],
-   "price": 367.1,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 367.1
-    },
-    {
-     "d": "2026-10-31",
-     "p": 367.1
-    },
-    {
-     "d": "2026-11-01",
-     "p": 367.1
-    },
-    {
-     "d": "2026-11-02",
-     "p": 367.1
-    },
-    {
-     "d": "2026-11-04",
-     "p": 367.1
-    },
-    {
-     "d": "2026-11-06",
-     "p": 367.1
-    },
-    {
-     "d": "2026-11-09",
-     "p": 367.1
-    },
-    {
-     "d": "2026-11-11",
-     "p": 367.1
-    },
-    {
-     "d": "2026-11-14",
-     "p": 367.1
-    },
-    {
-     "d": "2026-11-17",
-     "p": 367.1
-    },
-    {
-     "d": "2026-11-20",
-     "p": 367.1
-    },
-    {
-     "d": "2026-11-23",
-     "p": 367.1
-    }
-   ],
-   "count": 1,
-   "tags": "arbeitsspeicher ddr4 32 gb corsair vengeance rgb ram 2x16 ddr4 3200 mhz cl16 schwarz grau",
    "firstSeen": "2026-10-30"
   },
   {
@@ -134166,6 +134642,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-startech-satdup11-2-5-3-5-sata-hdd-ssd-duplikator-schwarz",
+   "cat": "SSDs",
+   "sub": "SATA",
+   "name": "StarTech SATDUP11 2.5\"/3.5\" SATA HDD/SSD Duplikator Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/startech-satdup11-2-5-3-5-sata-hdd-ssd-duplikator-schwarz-1923965/",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 387.61,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/startech-satdup11-2-5-3-5-sata-hdd-ssd-duplikator-schwarz-1923965/"
+    }
+   ],
+   "price": 387.61,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 387.61
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata startech satdup11 hdd ssd duplikator schwarz",
+   "firstSeen": "2026-11-26"
+  },
+  {
    "id": "c-asus-p12r-e-server-mainboard-atx-lga-1200-intel-c256-ddr4",
    "cat": "Mainboards",
    "sub": "Mainboards",
@@ -134245,39 +134750,6 @@
    "count": 1,
    "tags": "mainboards asus p12r server mainboard atx lga 1200 intel c256 ddr4",
    "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-emtec-power-pro-x300-2-tb-ssd-m-2-2280-nvme-pcie-3-0-x4-inte",
-   "cat": "SSDs",
-   "sub": "NVMe 2 TB",
-   "name": "EMTEC Power Pro X300 2 TB SSD M.2 2280 NVMe PCIe 3.0 x4 Intern",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/emtec-power-pro-x300-2-tb-ssd-m-2-2280-nvme-pcie-3-0-x4-intern-6169952/",
-   "stand": "2026-11-23T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 389.71,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/emtec-power-pro-x300-2-tb-ssd-m-2-2280-nvme-pcie-3-0-x4-intern-6169952/"
-    }
-   ],
-   "price": 389.71,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-20",
-     "p": 389.71
-    },
-    {
-     "d": "2026-11-23",
-     "p": 389.71
-    }
-   ],
-   "count": 1,
-   "tags": "ssds nvme 2 tb emtec power pro x300 ssd 2280 nvme pcie intern",
-   "firstSeen": "2026-11-20"
   },
   {
    "id": "c-be-quiet-dark-power-pro-13-netzteil-80-plus-titanium-atx-3-1",
@@ -137556,6 +138028,35 @@
    "count": 1,
    "tags": "mainboards am5 x870 asus rog strix x870 gaming wifi mainboard amd sockel am5 ddr5",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-fujitsu-enterprise-ssd-480-gb-m-2-sata-6gb-s",
+   "cat": "SSDs",
+   "sub": "SATA 480 GB",
+   "name": "Fujitsu Enterprise SSD 480 GB M.2 SATA 6Gb/s",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/fujitsu-enterprise-ssd-480-gb-m-2-sata-6gb-s-6794304/",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 424.91,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/fujitsu-enterprise-ssd-480-gb-m-2-sata-6gb-s-6794304/"
+    }
+   ],
+   "price": 424.91,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 424.91
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 480 gb fujitsu enterprise ssd 480 sata 6gb",
+   "firstSeen": "2026-11-26"
   },
   {
    "id": "c-kingston-fury-beast-ddr5-16-gb-ram-6400-mhz-dimm-schwarz",
@@ -141612,156 +142113,6 @@
    ],
    "count": 1,
    "tags": "monitore 27\" benq ma270u uhd led monitor weiss",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-asus-p13r-e-server-mainboard-atx-intel-c266-lga1700-4x-ddr5-",
-   "cat": "Mainboards",
-   "sub": "Mainboards",
-   "name": "ASUS P13R-E Server Mainboard ATX Intel C266 LGA1700 4x DDR5 2x M.2 Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/asus-p13r-e-server-mainboard-atx-intel-c266-lga1700-4x-ddr5-2x-m-2-schwarz-100499296/",
-   "stand": "2026-11-23T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 512.9,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/asus-p13r-e-server-mainboard-atx-intel-c266-lga1700-4x-ddr5-2x-m-2-schwarz-100499296/"
-    }
-   ],
-   "price": 512.9,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 482.84
-    },
-    {
-     "d": "2026-10-31",
-     "p": 482.84
-    },
-    {
-     "d": "2026-11-01",
-     "p": 482.84
-    },
-    {
-     "d": "2026-11-02",
-     "p": 482.84
-    },
-    {
-     "d": "2026-11-03",
-     "p": 482.84
-    },
-    {
-     "d": "2026-11-05",
-     "p": 482.84
-    },
-    {
-     "d": "2026-11-07",
-     "p": 482.84
-    },
-    {
-     "d": "2026-11-10",
-     "p": 482.84
-    },
-    {
-     "d": "2026-11-12",
-     "p": 507.64
-    },
-    {
-     "d": "2026-11-14",
-     "p": 521.9
-    },
-    {
-     "d": "2026-11-17",
-     "p": 510.37
-    },
-    {
-     "d": "2026-11-20",
-     "p": 513.12
-    },
-    {
-     "d": "2026-11-23",
-     "p": 512.9
-    }
-   ],
-   "count": 1,
-   "tags": "mainboards asus p13r server mainboard atx intel c266 lga1700 ddr5 schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-eizo-flexscan-ev2495-wt-mit-flexstand-led-monitor-61-1-cm-24",
-   "cat": "Monitore",
-   "sub": "24,1\"",
-   "name": "EIZO FlexScan EV2495-WT - Mit FlexStand - LED-Monitor - 61.1 cm (24.1\") - 1920 x 1200 - IPS - 350 cd/m² - 1000:1 - 5 ms - HDMI, DisplayPort, USB-C - Lautsprecher - weiß [Energieklasse C]",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/eizo-flexscan-ev2495-wt-mit-flexstand-led-monitor-61-1-cm-24-1-1920-x-1200-ips-350-cd-m2-1000-1-5-ms-hdmi-displayport-usb-c-lautsprecher-weiss-energieklasse-c-6795091/",
-   "stand": "2026-11-23T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 513.34,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/eizo-flexscan-ev2495-wt-mit-flexstand-led-monitor-61-1-cm-24-1-1920-x-1200-ips-350-cd-m2-1000-1-5-ms-hdmi-displayport-usb-c-lautsprecher-weiss-energieklasse-c-6795091/"
-    }
-   ],
-   "price": 513.34,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 535.3
-    },
-    {
-     "d": "2026-10-31",
-     "p": 535.3
-    },
-    {
-     "d": "2026-11-01",
-     "p": 535.3
-    },
-    {
-     "d": "2026-11-02",
-     "p": 535.3
-    },
-    {
-     "d": "2026-11-04",
-     "p": 535.3
-    },
-    {
-     "d": "2026-11-07",
-     "p": 535.3
-    },
-    {
-     "d": "2026-11-09",
-     "p": 474.69
-    },
-    {
-     "d": "2026-11-12",
-     "p": 475.64
-    },
-    {
-     "d": "2026-11-14",
-     "p": 474.69
-    },
-    {
-     "d": "2026-11-17",
-     "p": 541.34
-    },
-    {
-     "d": "2026-11-20",
-     "p": 513.34
-    },
-    {
-     "d": "2026-11-23",
-     "p": 513.34
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 24,1\" eizo flexscan ev2495 mit flexstand led monitor 1920 1200 ips 350 1000 hdmi displayport usb lautsprecher",
    "firstSeen": "2026-10-30"
   },
   {
@@ -148840,79 +149191,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-eizo-flexscan-ev2795-bk-led-monitor-27-wqhd-ips-usb-c-hdmi-d",
-   "cat": "Monitore",
-   "sub": "27\"",
-   "name": "EIZO FlexScan EV2795-BK LED-Monitor 27\" WQHD IPS USB-C HDMI DisplayPort Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/eizo-flexscan-ev2795-bk-led-monitor-27-wqhd-ips-usb-c-hdmi-displayport-schwarz-6791491/",
-   "stand": "2026-11-23T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 640.64,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/eizo-flexscan-ev2795-bk-led-monitor-27-wqhd-ips-usb-c-hdmi-displayport-schwarz-6791491/"
-    }
-   ],
-   "price": 640.64,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 649.03
-    },
-    {
-     "d": "2026-10-31",
-     "p": 649.03
-    },
-    {
-     "d": "2026-11-01",
-     "p": 649.03
-    },
-    {
-     "d": "2026-11-02",
-     "p": 645.67
-    },
-    {
-     "d": "2026-11-04",
-     "p": 646.55
-    },
-    {
-     "d": "2026-11-07",
-     "p": 648.3
-    },
-    {
-     "d": "2026-11-09",
-     "p": 648.3
-    },
-    {
-     "d": "2026-11-12",
-     "p": 648.3
-    },
-    {
-     "d": "2026-11-14",
-     "p": 648.3
-    },
-    {
-     "d": "2026-11-17",
-     "p": 647.29
-    },
-    {
-     "d": "2026-11-20",
-     "p": 645.84
-    },
-    {
-     "d": "2026-11-23",
-     "p": 640.64
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 27\" eizo flexscan ev2795 led monitor wqhd ips usb hdmi displayport schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-lenovo-1-tb-ssd-m-2-2242-pcie-gen4-x4",
    "cat": "SSDs",
    "sub": "PCIe 4.0 1 TB",
@@ -151500,79 +151778,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-eizo-coloredge-cs2400s-led-monitor-24-1-1920-x-1200-ips-hdmi",
-   "cat": "Monitore",
-   "sub": "24,1\"",
-   "name": "EIZO ColorEdge CS2400S LED-Monitor 24.1\" 1920 x 1200 IPS HDMI DisplayPort USB-C Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/eizo-coloredge-cs2400s-led-monitor-24-1-1920-x-1200-ips-hdmi-displayport-usb-c-schwarz-9152686/",
-   "stand": "2026-11-23T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 690.6,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/eizo-coloredge-cs2400s-led-monitor-24-1-1920-x-1200-ips-hdmi-displayport-usb-c-schwarz-9152686/"
-    }
-   ],
-   "price": 690.6,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 675.82
-    },
-    {
-     "d": "2026-10-31",
-     "p": 675.82
-    },
-    {
-     "d": "2026-11-01",
-     "p": 675.82
-    },
-    {
-     "d": "2026-11-02",
-     "p": 675.82
-    },
-    {
-     "d": "2026-11-04",
-     "p": 675.82
-    },
-    {
-     "d": "2026-11-07",
-     "p": 675.82
-    },
-    {
-     "d": "2026-11-09",
-     "p": 675.82
-    },
-    {
-     "d": "2026-11-12",
-     "p": 675.82
-    },
-    {
-     "d": "2026-11-14",
-     "p": 675.82
-    },
-    {
-     "d": "2026-11-17",
-     "p": 675.82
-    },
-    {
-     "d": "2026-11-20",
-     "p": 698.64
-    },
-    {
-     "d": "2026-11-23",
-     "p": 690.6
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 24,1\" eizo coloredge cs2400s led monitor 1920 1200 ips hdmi displayport usb schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-asrock-nuc-box-155h-intel-core-ultra-7-155h-64-gb-ram-ddr5",
    "cat": "Arbeitsspeicher",
    "sub": "DDR5 64 GB",
@@ -153685,6 +153890,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-hpe-value-endurance-enterprise-value-300-gb-2-5-sata-ssd-alu",
+   "cat": "SSDs",
+   "sub": "SATA 300 GB",
+   "name": "HPE Value Endurance Enterprise Value 300 GB 2.5\" SATA SSD Aluminium, Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/hpe-value-endurance-enterprise-value-300-gb-2-5-sata-ssd-aluminium-schwarz-1892781/",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 741.79,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/hpe-value-endurance-enterprise-value-300-gb-2-5-sata-ssd-aluminium-schwarz-1892781/"
+    }
+   ],
+   "price": 741.79,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 741.79
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 300 gb hpe value endurance enterprise 300 sata ssd aluminium schwarz",
+   "firstSeen": "2026-11-26"
+  },
+  {
    "id": "c-kingston-fury-renegade-rgb-ddr5-24-gb-dimm-4200-mhz-cl40-wei",
    "cat": "Arbeitsspeicher",
    "sub": "DDR5 24 GB",
@@ -155454,6 +155688,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-intel-dc-s3710-800-gb-ssd-2-5-sata-6gb-s",
+   "cat": "SSDs",
+   "sub": "SATA 800 GB",
+   "name": "Intel DC S3710 800 GB SSD 2.5\" SATA 6Gb/s",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/intel-dc-s3710-800-gb-ssd-2-5-sata-6gb-s-2282292/",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 780.24,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/intel-dc-s3710-800-gb-ssd-2-5-sata-6gb-s-2282292/"
+    }
+   ],
+   "price": 780.24,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 780.24
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 800 gb intel s3710 800 ssd sata 6gb",
+   "firstSeen": "2026-11-26"
+  },
+  {
    "id": "c-g-skill-trident-z5-rgb-ddr5-32-gb-ram-2x16-gb-6400-mhz-cl32-",
    "cat": "Arbeitsspeicher",
    "sub": "DDR5 32 GB",
@@ -156739,83 +157002,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-supermicro-h12ssl-c-server-mainboard-atx-socket-sp3-amd-epyc",
-   "cat": "Mainboards",
-   "sub": "Mainboards",
-   "name": "Supermicro H12SSL-C Server-Mainboard ATX, Socket SP3, AMD EPYC, DDR4 ECC bis 2 TB",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/supermicro-h12ssl-c-server-mainboard-atx-socket-sp3-amd-epyc-ddr4-ecc-bis-2-tb-6484913/",
-   "stand": "2026-11-23T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 821.85,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/supermicro-h12ssl-c-server-mainboard-atx-socket-sp3-amd-epyc-ddr4-ecc-bis-2-tb-6484913/"
-    }
-   ],
-   "price": 821.85,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 919.72
-    },
-    {
-     "d": "2026-10-31",
-     "p": 1103.32
-    },
-    {
-     "d": "2026-11-01",
-     "p": 1103.32
-    },
-    {
-     "d": "2026-11-02",
-     "p": 1103.32
-    },
-    {
-     "d": "2026-11-03",
-     "p": 1103.32
-    },
-    {
-     "d": "2026-11-05",
-     "p": 1103.32
-    },
-    {
-     "d": "2026-11-07",
-     "p": 1103.32
-    },
-    {
-     "d": "2026-11-10",
-     "p": 1103.32
-    },
-    {
-     "d": "2026-11-12",
-     "p": 1103.32
-    },
-    {
-     "d": "2026-11-14",
-     "p": 1103.32
-    },
-    {
-     "d": "2026-11-17",
-     "p": 821.85
-    },
-    {
-     "d": "2026-11-20",
-     "p": 821.85
-    },
-    {
-     "d": "2026-11-23",
-     "p": 821.85
-    }
-   ],
-   "count": 1,
-   "tags": "mainboards supermicro h12ssl server mainboard atx socket sp3 amd epyc ddr4 ecc bis",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-intel-xeon-e-2478-2-8-ghz-prozessor-8-kerne-24-mb-cache",
    "cat": "Prozessoren",
    "sub": "Prozessoren",
@@ -157373,79 +157559,6 @@
    "firstSeen": "2026-11-24"
   },
   {
-   "id": "c-alogic-clarity-pro-27c4kpdw-68-6cm-27-4k-uhd-ips-monitor-hdm",
-   "cat": "Monitore",
-   "sub": "27\"",
-   "name": "Alogic CLARITY Pro 27C4KPDW 68,6cm (27\") 4K UHD IPS Monitor HDMI/DP/USB-C [Energieklasse F] (27C4KPDW)",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/alogic-clarity-pro-27c4kpdw-68-6cm-27-4k-uhd-ips-monitor-hdmi-dp-usb-c-energieklasse-f-27c4kpdw-100506554/",
-   "stand": "2026-11-23T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 836.78,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/alogic-clarity-pro-27c4kpdw-68-6cm-27-4k-uhd-ips-monitor-hdmi-dp-usb-c-energieklasse-f-27c4kpdw-100506554/"
-    }
-   ],
-   "price": 836.78,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 836.81
-    },
-    {
-     "d": "2026-10-31",
-     "p": 836.78
-    },
-    {
-     "d": "2026-11-01",
-     "p": 836.78
-    },
-    {
-     "d": "2026-11-02",
-     "p": 836.81
-    },
-    {
-     "d": "2026-11-04",
-     "p": 836.81
-    },
-    {
-     "d": "2026-11-07",
-     "p": 836.81
-    },
-    {
-     "d": "2026-11-09",
-     "p": 836.81
-    },
-    {
-     "d": "2026-11-12",
-     "p": 836.78
-    },
-    {
-     "d": "2026-11-14",
-     "p": 836.81
-    },
-    {
-     "d": "2026-11-17",
-     "p": 836.81
-    },
-    {
-     "d": "2026-11-20",
-     "p": 836.78
-    },
-    {
-     "d": "2026-11-23",
-     "p": 836.78
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 27\" alogic clarity pro 27c4kpdw 6cm uhd ips monitor hdmi usb energieklasse",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-lenovo-4xb1s30112-ssd-1-tb-m-2-2280-pci-express-5-0-x4-nvme",
    "cat": "SSDs",
    "sub": "NVMe 1 TB",
@@ -157781,6 +157894,35 @@
    "count": 1,
    "tags": "arbeitsspeicher ddr5 32 gb skill trident neo rgb ddr5 ram 6000 mhz cl30 weiss",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-hpe-value-endurance-enterprise-value-ssd-480-gb-sata-6gb-s-2-xz5k2",
+   "cat": "SSDs",
+   "sub": "SATA 480 GB",
+   "name": "HPE Value Endurance Enterprise Value SSD 480 GB SATA 6Gb/s 2,5\"",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/hpe-value-endurance-enterprise-value-ssd-480-gb-sata-6gb-s-2-5-504457/",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 848.72,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/hpe-value-endurance-enterprise-value-ssd-480-gb-sata-6gb-s-2-5-504457/"
+    }
+   ],
+   "price": 848.72,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 848.72
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 480 gb hpe value endurance enterprise ssd 480 sata 6gb",
+   "firstSeen": "2026-11-26"
   },
   {
    "id": "c-asus-dual-geforce-rtx-5060-ti-white-oc-edition-16384-mb-gddr",
@@ -160858,83 +161000,6 @@
    "firstSeen": "2026-11-26"
   },
   {
-   "id": "c-supermicro-h12ssl-ct-server-mainboard-atx-socket-sp3-amd-epy",
-   "cat": "Mainboards",
-   "sub": "Mainboards",
-   "name": "Supermicro H12SSL-CT Server-Mainboard ATX Socket SP3 AMD EPYC 7002 DDR4 Bulk",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/supermicro-h12ssl-ct-server-mainboard-atx-socket-sp3-amd-epyc-7002-ddr4-bulk-6484915/",
-   "stand": "2026-11-23T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 934,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/supermicro-h12ssl-ct-server-mainboard-atx-socket-sp3-amd-epyc-7002-ddr4-bulk-6484915/"
-    }
-   ],
-   "price": 934,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 941.79
-    },
-    {
-     "d": "2026-10-31",
-     "p": 941.79
-    },
-    {
-     "d": "2026-11-01",
-     "p": 941.79
-    },
-    {
-     "d": "2026-11-02",
-     "p": 941.79
-    },
-    {
-     "d": "2026-11-03",
-     "p": 941.79
-    },
-    {
-     "d": "2026-11-05",
-     "p": 941.79
-    },
-    {
-     "d": "2026-11-07",
-     "p": 955.11
-    },
-    {
-     "d": "2026-11-10",
-     "p": 955.11
-    },
-    {
-     "d": "2026-11-12",
-     "p": 955.11
-    },
-    {
-     "d": "2026-11-14",
-     "p": 955.11
-    },
-    {
-     "d": "2026-11-17",
-     "p": 955.11
-    },
-    {
-     "d": "2026-11-20",
-     "p": 941.79
-    },
-    {
-     "d": "2026-11-23",
-     "p": 934
-    }
-   ],
-   "count": 1,
-   "tags": "mainboards supermicro h12ssl server mainboard atx socket sp3 amd epyc 7002 ddr4 bulk",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-wd-red-sn700-wds100t1r0c-1-tb-ssd-m-2-2280-pcie-3-0-x4-nvme",
    "cat": "SSDs",
    "sub": "NVMe 1 TB",
@@ -162212,6 +162277,35 @@
    "firstSeen": "2026-11-26"
   },
   {
+   "id": "c-hpe-value-endurance-enterprise-value-ssd-480-gb-sata-6gb-s-2",
+   "cat": "SSDs",
+   "sub": "SATA 480 GB",
+   "name": "HPE Value Endurance Enterprise Value SSD 480 GB SATA 6Gb/s 2.5\" SFF Hot-Swap Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/hpe-value-endurance-enterprise-value-ssd-480-gb-sata-6gb-s-2-5-sff-hot-swap-schwarz-1729154/",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 965.92,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/hpe-value-endurance-enterprise-value-ssd-480-gb-sata-6gb-s-2-5-sff-hot-swap-schwarz-1729154/"
+    }
+   ],
+   "price": 965.92,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 965.92
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 480 gb hpe value endurance enterprise ssd 480 sata 6gb sff hot swap schwarz",
+   "firstSeen": "2026-11-26"
+  },
+  {
    "id": "c-gigabyte-geforce-rtx-5060-ti-eagle-oc-16384-mb-gddr7",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5060 Ti",
@@ -162474,39 +162568,6 @@
    "count": 1,
    "tags": "mainboards supermicro mbd h13ssl server mainboard atx sockel sp5 amd epyc 9004 ddr5",
    "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-hpe-p19890-b21-480-gb-sata-6gb-s-m-2-2280-ssd",
-   "cat": "SSDs",
-   "sub": "SATA 480 GB",
-   "name": "HPE P19890-B21 480 GB SATA 6Gb/s M.2 2280 SSD",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/hpe-p19890-b21-480-gb-sata-6gb-s-m-2-2280-ssd-6409116/",
-   "stand": "2026-11-23T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 985.37,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/hpe-p19890-b21-480-gb-sata-6gb-s-m-2-2280-ssd-6409116/"
-    }
-   ],
-   "price": 985.37,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-20",
-     "p": 985.37
-    },
-    {
-     "d": "2026-11-23",
-     "p": 985.37
-    }
-   ],
-   "count": 1,
-   "tags": "ssds sata 480 gb hpe p19890 b21 480 sata 6gb 2280 ssd",
-   "firstSeen": "2026-11-20"
   },
   {
    "id": "c-samsung-9100-pro-ssd-4-tb-m-2-pcie-5-0-nvme-schwarz",
@@ -164556,79 +164617,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-alogic-32c4kpdw-led-monitor-81-3-cm-32-3840-x-2160-pixel-4k-",
-   "cat": "Monitore",
-   "sub": "32\"",
-   "name": "ALOGIC 32C4KPDW LED-Monitor 81,3 cm (32\") 3840 x 2160 Pixel 4K Ultra HD Aluminium - Schwarz (32C4KPDW)",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/alogic-32c4kpdw-led-monitor-81-3-cm-32-3840-x-2160-pixel-4k-ultra-hd-aluminium-schwarz-32c4kpdw-100506556/",
-   "stand": "2026-11-23T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 1102.99,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/alogic-32c4kpdw-led-monitor-81-3-cm-32-3840-x-2160-pixel-4k-ultra-hd-aluminium-schwarz-32c4kpdw-100506556/"
-    }
-   ],
-   "price": 1102.99,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 1102.99
-    },
-    {
-     "d": "2026-10-31",
-     "p": 1102.99
-    },
-    {
-     "d": "2026-11-01",
-     "p": 1102.99
-    },
-    {
-     "d": "2026-11-02",
-     "p": 1102.99
-    },
-    {
-     "d": "2026-11-04",
-     "p": 1102.99
-    },
-    {
-     "d": "2026-11-07",
-     "p": 1102.99
-    },
-    {
-     "d": "2026-11-09",
-     "p": 1102.99
-    },
-    {
-     "d": "2026-11-12",
-     "p": 1102.99
-    },
-    {
-     "d": "2026-11-14",
-     "p": 1102.99
-    },
-    {
-     "d": "2026-11-17",
-     "p": 1102.99
-    },
-    {
-     "d": "2026-11-20",
-     "p": 1102.99
-    },
-    {
-     "d": "2026-11-23",
-     "p": 1102.99
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 32\" alogic 32c4kpdw led monitor 3840 2160 pixel ultra aluminium schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-asus-rog-crosshair-x870e-extreme-mainboard-sockel-am5-amd-x8",
    "cat": "Mainboards",
    "sub": "AM5 X870",
@@ -165288,6 +165276,35 @@
    "count": 1,
    "tags": "grafikkarten radeon rx 9070 xt xfx quicksilver radeon 9070 gaming edition grafikkarte 16384 gddr6",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-thermaltake-lcgs-tgm-v49cdq-49-dqhd-curved-gaming-monitor",
+   "cat": "Monitore",
+   "sub": "49\"",
+   "name": "Thermaltake LCGS TGM-V49CDQ 49\" DQHD Curved Gaming Monitor",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/tgm-v49cdq-49-gaming-monitor-curve-49inch-black-eu?variant=53164605243731",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 1149.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/tgm-v49cdq-49-gaming-monitor-curve-49inch-black-eu?variant=53164605243731"
+    }
+   ],
+   "price": 1149.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 1149.9
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 49\" thermaltake lcgs tgm v49cdq dqhd curved gaming monitor",
+   "firstSeen": "2026-11-26"
   },
   {
    "id": "c-corsair-vengeance-rgb-64-gb-2x32-gb-ddr5-5600-mhz-cl40-dimm-",
@@ -167739,6 +167756,35 @@
    "firstSeen": "2026-11-13"
   },
   {
+   "id": "c-transcend-mts600-256-gb-ssd-m-2-2260-sata-6gb-s",
+   "cat": "SSDs",
+   "sub": "SATA 256 GB",
+   "name": "Transcend MTS600 256 GB SSD M.2 2260 SATA 6Gb/s",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/transcend-mts600-256-gb-ssd-m-2-2260-sata-6gb-s-2039145/",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1407.83,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/transcend-mts600-256-gb-ssd-m-2-2260-sata-6gb-s-2039145/"
+    }
+   ],
+   "price": 1407.83,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 1407.83
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 256 gb transcend mts600 256 ssd 2260 sata 6gb",
+   "firstSeen": "2026-11-26"
+  },
+  {
    "id": "c-captiva-advanced-gaming-i93-340-intel-core-i5-14400f-geforce",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5060",
@@ -169438,6 +169484,35 @@
    "firstSeen": "2026-10-29"
   },
   {
+   "id": "c-thermaltake-lcgs-tpm-o49cdq-49-dqhd-curved-gaming-monitor",
+   "cat": "Monitore",
+   "sub": "49\"",
+   "name": "Thermaltake LCGS TPM-O49CDQ 49\" DQHD Curved Gaming Monitor",
+   "source": "crawler",
+   "url": "https://lcgs.thermaltake.de/en/products/tpm-o49cdq-49-inch-oled-gaming-monitor-black?variant=53164605014355",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "Thermaltake LCGS",
+     "price": 1599.9,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://lcgs.thermaltake.de/en/products/tpm-o49cdq-49-inch-oled-gaming-monitor-black?variant=53164605014355"
+    }
+   ],
+   "price": 1599.9,
+   "shop": "Thermaltake LCGS",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 1599.9
+    }
+   ],
+   "count": 1,
+   "tags": "monitore 49\" thermaltake lcgs tpm o49cdq dqhd curved gaming monitor",
+   "firstSeen": "2026-11-26"
+  },
+  {
    "id": "c-captiva-advanced-gaming-r98-124-amd-ryzen-5-5500-nvidia-gefo",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5060 Ti",
@@ -169732,79 +169807,6 @@
    ],
    "count": 1,
    "tags": "grafikkarten geforce rtx 5070 ti msi geforce rtx 5070 ventus 16384 gddr7",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-lg-ultragear-32gq950p-b-gaming-monitor-31-5-uhd-nano-ips-1-m",
-   "cat": "Monitore",
-   "sub": "31,5\"",
-   "name": "LG UltraGear 32GQ950P-B Gaming Monitor 31,5\" UHD Nano IPS 1 ms 144 Hz Grau, Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/lg-ultragear-32gq950p-b-gaming-monitor-31-5-uhd-nano-ips-1-ms-144-hz-grau-schwarz-8271400/",
-   "stand": "2026-11-23T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 1651.83,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/lg-ultragear-32gq950p-b-gaming-monitor-31-5-uhd-nano-ips-1-ms-144-hz-grau-schwarz-8271400/"
-    }
-   ],
-   "price": 1651.83,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 696.21
-    },
-    {
-     "d": "2026-10-31",
-     "p": 696.21
-    },
-    {
-     "d": "2026-11-01",
-     "p": 1034.1
-    },
-    {
-     "d": "2026-11-02",
-     "p": 1468.45
-    },
-    {
-     "d": "2026-11-04",
-     "p": 1651.83
-    },
-    {
-     "d": "2026-11-07",
-     "p": 1651.83
-    },
-    {
-     "d": "2026-11-09",
-     "p": 1651.83
-    },
-    {
-     "d": "2026-11-12",
-     "p": 1651.83
-    },
-    {
-     "d": "2026-11-14",
-     "p": 1651.83
-    },
-    {
-     "d": "2026-11-17",
-     "p": 1651.83
-    },
-    {
-     "d": "2026-11-20",
-     "p": 1651.83
-    },
-    {
-     "d": "2026-11-23",
-     "p": 1651.83
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 31,5\" ultragear 32gq950p gaming monitor uhd nano ips 144 grau schwarz",
    "firstSeen": "2026-10-30"
   },
   {
@@ -170570,6 +170572,35 @@
    "count": 1,
    "tags": "ssds pcie 4.0 480 gb lenovo thinksystem 7450 pro 480 ssd 2280 pcie nvme enterprise",
    "firstSeen": "2026-11-16"
+  },
+  {
+   "id": "c-hp-enterprise-739898-b21-ssd-600-gb-2-5-sata-6gb-s-mlc",
+   "cat": "SSDs",
+   "sub": "SATA 600 GB",
+   "name": "HP Enterprise 739898-B21 SSD 600 GB 2.5\" SATA 6Gb/s MLC",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/hp-enterprise-739898-b21-ssd-600-gb-2-5-sata-6gb-s-mlc-504458/",
+   "stand": "2026-11-26T11:27",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1737.14,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/hp-enterprise-739898-b21-ssd-600-gb-2-5-sata-6gb-s-mlc-504458/"
+    }
+   ],
+   "price": 1737.14,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 1737.14
+    }
+   ],
+   "count": 1,
+   "tags": "ssds sata 600 gb enterprise 739898 b21 ssd 600 sata 6gb mlc",
+   "firstSeen": "2026-11-26"
   },
   {
    "id": "c-captiva-entry-gaming-r10-2380-amd-ryzen-5-5500-nvidia-geforc",
@@ -176704,2041 +176735,6 @@
    ],
    "count": 1,
    "tags": "ssds sata 8 tb samsung 870 evo ssd sata iii schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-captiva-highend-gaming-r89-935-amd-ryzen-7-9800x3d-32-gb-ram",
-   "cat": "Grafikkarten",
-   "sub": "GeForce RTX 5070",
-   "name": "CAPTIVA Highend Gaming R89-935 AMD Ryzen 7 9800X3D 32 GB RAM 1 TB SSD NVIDIA GeForce RTX 5070 Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r89-935-amd-ryzen-7-9800x3d-32-gb-ram-1-tb-ssd-nvidia-geforce-rtx-5070-schwarz-100556112/",
-   "stand": "2026-11-25T12:07",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 2767.84,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r89-935-amd-ryzen-7-9800x3d-32-gb-ram-1-tb-ssd-nvidia-geforce-rtx-5070-schwarz-100556112/"
-    }
-   ],
-   "price": 2767.84,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 2728.18
-    },
-    {
-     "d": "2026-10-31",
-     "p": 2728.18
-    },
-    {
-     "d": "2026-11-01",
-     "p": 2728.18
-    },
-    {
-     "d": "2026-11-02",
-     "p": 2728.18
-    },
-    {
-     "d": "2026-11-04",
-     "p": 2731.91
-    },
-    {
-     "d": "2026-11-06",
-     "p": 2731.91
-    },
-    {
-     "d": "2026-11-09",
-     "p": 2731.91
-    },
-    {
-     "d": "2026-11-11",
-     "p": 2731.91
-    },
-    {
-     "d": "2026-11-13",
-     "p": 2734.77
-    },
-    {
-     "d": "2026-11-16",
-     "p": 2734.77
-    },
-    {
-     "d": "2026-11-19",
-     "p": 2734.77
-    },
-    {
-     "d": "2026-11-22",
-     "p": 2767.84
-    },
-    {
-     "d": "2026-11-25",
-     "p": 2767.84
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten geforce rtx 5070 captiva highend gaming r89 935 amd ryzen 9800x3d ram ssd nvidia geforce rtx 5070 schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-captiva-power-starter-i99-264ch-15-3-intel-core-ultra-7-255h",
-   "cat": "Grafikkarten",
-   "sub": "Grafikkarten",
-   "name": "CAPTIVA Power Starter I99-264CH 15.3\" Intel Core Ultra 7 255H 64 GB RAM 2 TB SSD Intel Arc Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/captiva-power-starter-i99-264ch-15-3-intel-core-ultra-7-255h-64-gb-ram-2-tb-ssd-intel-arc-schwarz-100703137/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 2775.51,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/captiva-power-starter-i99-264ch-15-3-intel-core-ultra-7-255h-64-gb-ram-2-tb-ssd-intel-arc-schwarz-100703137/"
-    }
-   ],
-   "price": 2775.51,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-03",
-     "p": 2775.51
-    },
-    {
-     "d": "2026-11-05",
-     "p": 2775.51
-    },
-    {
-     "d": "2026-11-08",
-     "p": 2775.51
-    },
-    {
-     "d": "2026-11-10",
-     "p": 2775.51
-    },
-    {
-     "d": "2026-11-12",
-     "p": 2775.51
-    },
-    {
-     "d": "2026-11-15",
-     "p": 2775.51
-    },
-    {
-     "d": "2026-11-18",
-     "p": 2775.51
-    },
-    {
-     "d": "2026-11-21",
-     "p": 2775.51
-    },
-    {
-     "d": "2026-11-24",
-     "p": 2775.51
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten captiva power starter i99 264ch intel core ultra 255h ram ssd arc schwarz",
-   "firstSeen": "2026-11-03"
-  },
-  {
-   "id": "c-captiva-highend-gaming-r90-116-amd-ryzen-9-9950x-nvidia-gefo",
-   "cat": "Grafikkarten",
-   "sub": "GeForce RTX 5070",
-   "name": "Captiva Highend Gaming R90-116 AMD Ryzen 9 9950X NVIDIA GeForce RTX 5070 32 GB RAM 1 TB SSD Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r90-116-amd-ryzen-9-9950x-nvidia-geforce-rtx-5070-32-gb-ram-1-tb-ssd-schwarz-100559266/",
-   "stand": "2026-11-25T17:54",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 2815.28,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r90-116-amd-ryzen-9-9950x-nvidia-geforce-rtx-5070-32-gb-ram-1-tb-ssd-schwarz-100559266/"
-    }
-   ],
-   "price": 2815.28,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 2912.13
-    },
-    {
-     "d": "2026-10-31",
-     "p": 2922.21
-    },
-    {
-     "d": "2026-11-01",
-     "p": 2922.21
-    },
-    {
-     "d": "2026-11-02",
-     "p": 2922.21
-    },
-    {
-     "d": "2026-11-04",
-     "p": 2925.94
-    },
-    {
-     "d": "2026-11-07",
-     "p": 2925.94
-    },
-    {
-     "d": "2026-11-09",
-     "p": 2925.94
-    },
-    {
-     "d": "2026-11-11",
-     "p": 2925.94
-    },
-    {
-     "d": "2026-11-14",
-     "p": 2815.28
-    },
-    {
-     "d": "2026-11-16",
-     "p": 2815.28
-    },
-    {
-     "d": "2026-11-19",
-     "p": 2815.28
-    },
-    {
-     "d": "2026-11-22",
-     "p": 2815.28
-    },
-    {
-     "d": "2026-11-25",
-     "p": 2815.28
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten geforce rtx 5070 captiva highend gaming r90 116 amd ryzen 9950x nvidia geforce rtx 5070 ram ssd schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-asus-zenscreen-fold-oled-mq17qh-oled-monitor-43-9-cm-17-3-90",
-   "cat": "Monitore",
-   "sub": "17,3\"",
-   "name": "ASUS ZenScreen Fold OLED MQ17QH - OLED-Monitor - 43.9 cm (17.3\") (90LM09EV-B01170)",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/asus-zenscreen-fold-oled-mq17qh-oled-monitor-43-9-cm-17-3-90lm09ev-b01170-100542817/",
-   "stand": "2026-11-25T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 2853.2,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/asus-zenscreen-fold-oled-mq17qh-oled-monitor-43-9-cm-17-3-90lm09ev-b01170-100542817/"
-    }
-   ],
-   "price": 2853.2,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 2424.7
-    },
-    {
-     "d": "2026-10-31",
-     "p": 2424.7
-    },
-    {
-     "d": "2026-11-01",
-     "p": 2424.7
-    },
-    {
-     "d": "2026-11-02",
-     "p": 2424.7
-    },
-    {
-     "d": "2026-11-04",
-     "p": 2424.7
-    },
-    {
-     "d": "2026-11-06",
-     "p": 2424.7
-    },
-    {
-     "d": "2026-11-09",
-     "p": 2424.7
-    },
-    {
-     "d": "2026-11-11",
-     "p": 2424.7
-    },
-    {
-     "d": "2026-11-13",
-     "p": 2424.7
-    },
-    {
-     "d": "2026-11-16",
-     "p": 2424.7
-    },
-    {
-     "d": "2026-11-19",
-     "p": 2853.2
-    },
-    {
-     "d": "2026-11-22",
-     "p": 2853.2
-    },
-    {
-     "d": "2026-11-25",
-     "p": 2853.2
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 17,3\" asus zenscreen fold oled mq17qh monitor 90lm09ev b01170",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-captiva-highend-gaming-i95-619-intel-core-i9-13900kf-nvidia-",
-   "cat": "Grafikkarten",
-   "sub": "GeForce RTX 5070",
-   "name": "Captiva Highend Gaming I95-619 Intel Core i9-13900KF NVIDIA GeForce RTX 5070 12 GB 64 GB RAM 2 TB SSD Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-i95-619-intel-core-i9-13900kf-nvidia-geforce-rtx-5070-12-gb-64-gb-ram-2-tb-ssd-schwarz-100671284/",
-   "stand": "2026-11-23T20:07",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 2876.21,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-i95-619-intel-core-i9-13900kf-nvidia-geforce-rtx-5070-12-gb-64-gb-ram-2-tb-ssd-schwarz-100671284/"
-    }
-   ],
-   "price": 2876.21,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 2876.21
-    },
-    {
-     "d": "2026-10-31",
-     "p": 2876.21
-    },
-    {
-     "d": "2026-11-01",
-     "p": 2876.21
-    },
-    {
-     "d": "2026-11-03",
-     "p": 2876.21
-    },
-    {
-     "d": "2026-11-05",
-     "p": 2876.21
-    },
-    {
-     "d": "2026-11-07",
-     "p": 2876.21
-    },
-    {
-     "d": "2026-11-10",
-     "p": 2876.21
-    },
-    {
-     "d": "2026-11-12",
-     "p": 2876.21
-    },
-    {
-     "d": "2026-11-15",
-     "p": 2876.21
-    },
-    {
-     "d": "2026-11-17",
-     "p": 2876.21
-    },
-    {
-     "d": "2026-11-20",
-     "p": 2876.21
-    },
-    {
-     "d": "2026-11-23",
-     "p": 2876.21
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten geforce rtx 5070 captiva highend gaming i95 619 intel core 13900kf nvidia geforce rtx 5070 ram ssd schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-captiva-advanced-gaming-i97-981ch-15-3-amd-ryzen-7-255-32-gb",
-   "cat": "Grafikkarten",
-   "sub": "GeForce RTX 5060",
-   "name": "Captiva Advanced Gaming I97-981CH 15.3\" AMD Ryzen 7 255 32 GB RAM 1 TB SSD NVIDIA GeForce RTX 5060 Black",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-i97-981ch-15-3-amd-ryzen-7-255-32-gb-ram-1-tb-ssd-nvidia-geforce-rtx-5060-black-100678191/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 2891.69,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-i97-981ch-15-3-amd-ryzen-7-255-32-gb-ram-1-tb-ssd-nvidia-geforce-rtx-5060-black-100678191/"
-    }
-   ],
-   "price": 2891.69,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 2747.88
-    },
-    {
-     "d": "2026-10-31",
-     "p": 2747.88
-    },
-    {
-     "d": "2026-11-01",
-     "p": 2747.88
-    },
-    {
-     "d": "2026-11-02",
-     "p": 2747.88
-    },
-    {
-     "d": "2026-11-03",
-     "p": 2747.88
-    },
-    {
-     "d": "2026-11-05",
-     "p": 2747.88
-    },
-    {
-     "d": "2026-11-08",
-     "p": 2747.88
-    },
-    {
-     "d": "2026-11-10",
-     "p": 2747.88
-    },
-    {
-     "d": "2026-11-12",
-     "p": 2747.88
-    },
-    {
-     "d": "2026-11-15",
-     "p": 2747.88
-    },
-    {
-     "d": "2026-11-18",
-     "p": 2891.69
-    },
-    {
-     "d": "2026-11-21",
-     "p": 2891.69
-    },
-    {
-     "d": "2026-11-24",
-     "p": 2891.69
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten geforce rtx 5060 captiva advanced gaming i97 981ch amd ryzen 255 ram ssd nvidia geforce rtx 5060 black",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-captiva-highend-gaming-r88-676-ryzen-9-9900x-radeon-rx-9070-",
-   "cat": "Grafikkarten",
-   "sub": "Radeon RX 9070 XT",
-   "name": "Captiva Highend Gaming R88-676 Ryzen 9 9900X Radeon RX 9070 XT 32 GB RAM 2 TB SSD Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r88-676-ryzen-9-9900x-radeon-rx-9070-xt-32-gb-ram-2-tb-ssd-schwarz-100557996/",
-   "stand": "2026-11-25T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 2901.51,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r88-676-ryzen-9-9900x-radeon-rx-9070-xt-32-gb-ram-2-tb-ssd-schwarz-100557996/"
-    }
-   ],
-   "price": 2901.51,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 2902.09
-    },
-    {
-     "d": "2026-10-31",
-     "p": 2902.09
-    },
-    {
-     "d": "2026-11-01",
-     "p": 2902.09
-    },
-    {
-     "d": "2026-11-02",
-     "p": 2902.09
-    },
-    {
-     "d": "2026-11-04",
-     "p": 2902.09
-    },
-    {
-     "d": "2026-11-06",
-     "p": 2901.51
-    },
-    {
-     "d": "2026-11-09",
-     "p": 2901.51
-    },
-    {
-     "d": "2026-11-11",
-     "p": 2901.51
-    },
-    {
-     "d": "2026-11-13",
-     "p": 2901.51
-    },
-    {
-     "d": "2026-11-16",
-     "p": 2901.51
-    },
-    {
-     "d": "2026-11-19",
-     "p": 2901.51
-    },
-    {
-     "d": "2026-11-22",
-     "p": 2901.51
-    },
-    {
-     "d": "2026-11-25",
-     "p": 2901.51
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten radeon rx 9070 xt captiva highend gaming r88 676 ryzen 9900x radeon 9070 ram ssd schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-samsung-pm9a3-mz1l23t8hbla-ssd-3-84-tb-m-2-22110-pcie-4-0-x4",
-   "cat": "SSDs",
-   "sub": "PCIe 4.0 3,84 TB",
-   "name": "Samsung PM9A3 MZ1L23T8HBLA SSD 3.84 TB M.2 22110 PCIe 4.0 x4 NVMe Bulk",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/samsung-pm9a3-mz1l23t8hbla-ssd-3-84-tb-m-2-22110-pcie-4-0-x4-nvme-bulk-6972454/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 2916.1,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/samsung-pm9a3-mz1l23t8hbla-ssd-3-84-tb-m-2-22110-pcie-4-0-x4-nvme-bulk-6972454/"
-    }
-   ],
-   "price": 2916.1,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-16",
-     "p": 2923.2
-    },
-    {
-     "d": "2026-11-18",
-     "p": 2933.27
-    },
-    {
-     "d": "2026-11-21",
-     "p": 2929.7
-    },
-    {
-     "d": "2026-11-24",
-     "p": 2916.1
-    }
-   ],
-   "count": 1,
-   "tags": "ssds pcie 4.0 3,84 tb samsung pm9a3 mz1l23t8hbla ssd 22110 pcie nvme bulk",
-   "firstSeen": "2026-11-16"
-  },
-  {
-   "id": "c-captiva-highend-gaming-i95-790-intel-core-i7-14700kf-nvidia-",
-   "cat": "Grafikkarten",
-   "sub": "GeForce RTX 5070 Ti",
-   "name": "CAPTIVA Highend Gaming I95-790 Intel Core i7-14700KF NVIDIA GeForce RTX 5070 Ti 32 GB RAM 1 TB SSD Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-i95-790-intel-core-i7-14700kf-nvidia-geforce-rtx-5070-ti-32-gb-ram-1-tb-ssd-schwarz-100674782/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 2940.89,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-i95-790-intel-core-i7-14700kf-nvidia-geforce-rtx-5070-ti-32-gb-ram-1-tb-ssd-schwarz-100674782/"
-    }
-   ],
-   "price": 2940.89,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 2940.89
-    },
-    {
-     "d": "2026-10-31",
-     "p": 2940.89
-    },
-    {
-     "d": "2026-11-01",
-     "p": 2940.89
-    },
-    {
-     "d": "2026-11-02",
-     "p": 2940.89
-    },
-    {
-     "d": "2026-11-03",
-     "p": 2940.89
-    },
-    {
-     "d": "2026-11-05",
-     "p": 2940.89
-    },
-    {
-     "d": "2026-11-08",
-     "p": 2940.89
-    },
-    {
-     "d": "2026-11-10",
-     "p": 2940.89
-    },
-    {
-     "d": "2026-11-12",
-     "p": 2940.89
-    },
-    {
-     "d": "2026-11-15",
-     "p": 2940.89
-    },
-    {
-     "d": "2026-11-18",
-     "p": 2940.89
-    },
-    {
-     "d": "2026-11-21",
-     "p": 2940.89
-    },
-    {
-     "d": "2026-11-24",
-     "p": 2940.89
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten geforce rtx 5070 ti captiva highend gaming i95 790 intel core 14700kf nvidia geforce rtx 5070 ram ssd schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-captiva-advanced-gaming-i97-983ch-15-3-amd-ryzen-7-255-32-gb",
-   "cat": "Grafikkarten",
-   "sub": "GeForce RTX 5060",
-   "name": "Captiva Advanced Gaming I97-983CH 15.3\" AMD Ryzen 7 255 32 GB RAM 1 TB SSD NVIDIA GeForce RTX 5060 Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-i97-983ch-15-3-amd-ryzen-7-255-32-gb-ram-1-tb-ssd-nvidia-geforce-rtx-5060-schwarz-100678193/",
-   "stand": "2026-11-23T20:07",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 2963.09,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-i97-983ch-15-3-amd-ryzen-7-255-32-gb-ram-1-tb-ssd-nvidia-geforce-rtx-5060-schwarz-100678193/"
-    }
-   ],
-   "price": 2963.09,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 2957.98
-    },
-    {
-     "d": "2026-10-31",
-     "p": 2957.98
-    },
-    {
-     "d": "2026-11-01",
-     "p": 2957.98
-    },
-    {
-     "d": "2026-11-03",
-     "p": 2957.98
-    },
-    {
-     "d": "2026-11-05",
-     "p": 2957.98
-    },
-    {
-     "d": "2026-11-07",
-     "p": 2957.98
-    },
-    {
-     "d": "2026-11-10",
-     "p": 2957.98
-    },
-    {
-     "d": "2026-11-12",
-     "p": 2957.98
-    },
-    {
-     "d": "2026-11-15",
-     "p": 2752.97
-    },
-    {
-     "d": "2026-11-17",
-     "p": 2752.97
-    },
-    {
-     "d": "2026-11-20",
-     "p": 2963.09
-    },
-    {
-     "d": "2026-11-23",
-     "p": 2963.09
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten geforce rtx 5060 captiva advanced gaming i97 983ch amd ryzen 255 ram ssd nvidia geforce rtx 5060 schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-captiva-highend-gaming-r99-341-amd-ryzen-7-9850x3d-64-gb-ram",
-   "cat": "Grafikkarten",
-   "sub": "Radeon RX 9070",
-   "name": "Captiva Highend Gaming R99-341 AMD Ryzen 7 9850X3D 64 GB RAM 2 TB SSD Radeon RX 9070 16 GB Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r99-341-amd-ryzen-7-9850x3d-64-gb-ram-2-tb-ssd-radeon-rx-9070-16-gb-schwarz-100693916/",
-   "stand": "2026-11-25T17:24",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 2966.75,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r99-341-amd-ryzen-7-9850x3d-64-gb-ram-2-tb-ssd-radeon-rx-9070-16-gb-schwarz-100693916/"
-    }
-   ],
-   "price": 2966.75,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-25",
-     "p": 2966.75
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten radeon rx 9070 captiva highend gaming r99 341 amd ryzen 9850x3d ram ssd radeon 9070 schwarz",
-   "firstSeen": "2026-11-25"
-  },
-  {
-   "id": "c-captiva-advanced-gaming-i97-984ch-15-3-32-gb-ram-2-tb-ssd-ge",
-   "cat": "Grafikkarten",
-   "sub": "GeForce RTX 5060",
-   "name": "Captiva Advanced Gaming I97-984CH 15.3\" 32 GB RAM 2 TB SSD GeForce RTX 5060 Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-i97-984ch-15-3-32-gb-ram-2-tb-ssd-geforce-rtx-5060-schwarz-100678194/",
-   "stand": "2026-11-23T20:07",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 3071.2,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-i97-984ch-15-3-32-gb-ram-2-tb-ssd-geforce-rtx-5060-schwarz-100678194/"
-    }
-   ],
-   "price": 3071.2,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 2928.41
-    },
-    {
-     "d": "2026-10-31",
-     "p": 2928.41
-    },
-    {
-     "d": "2026-11-01",
-     "p": 2928.41
-    },
-    {
-     "d": "2026-11-03",
-     "p": 2928.41
-    },
-    {
-     "d": "2026-11-05",
-     "p": 2928.41
-    },
-    {
-     "d": "2026-11-07",
-     "p": 2928.41
-    },
-    {
-     "d": "2026-11-10",
-     "p": 2928.41
-    },
-    {
-     "d": "2026-11-12",
-     "p": 2928.41
-    },
-    {
-     "d": "2026-11-15",
-     "p": 2928.41
-    },
-    {
-     "d": "2026-11-17",
-     "p": 2928.41
-    },
-    {
-     "d": "2026-11-20",
-     "p": 3071.2
-    },
-    {
-     "d": "2026-11-23",
-     "p": 3071.2
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten geforce rtx 5060 captiva advanced gaming i97 984ch ram ssd geforce rtx 5060 schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-captiva-highend-gaming-r92-234-16-amd-ryzen-9-9955hx-16-gb-r",
-   "cat": "Grafikkarten",
-   "sub": "GeForce RTX 5080",
-   "name": "CAPTIVA Highend Gaming R92-234 16\" AMD Ryzen 9 9955HX 16 GB RAM 1 TB SSD NVIDIA GeForce RTX 5080 Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r92-234-16-amd-ryzen-9-9955hx-16-gb-ram-1-tb-ssd-nvidia-geforce-rtx-5080-schwarz-100586945/",
-   "stand": "2026-11-25T17:24",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 3091.22,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r92-234-16-amd-ryzen-9-9955hx-16-gb-ram-1-tb-ssd-nvidia-geforce-rtx-5080-schwarz-100586945/"
-    }
-   ],
-   "price": 3091.22,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-25",
-     "p": 3091.22
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten geforce rtx 5080 captiva highend gaming r92 234 amd ryzen 9955hx ram ssd nvidia geforce rtx 5080 schwarz",
-   "firstSeen": "2026-11-25"
-  },
-  {
-   "id": "c-captiva-highend-gaming-i89-590-intel-core-i7-14700f-nvidia-g",
-   "cat": "Grafikkarten",
-   "sub": "GeForce RTX 5070 Ti",
-   "name": "CAPTIVA Highend Gaming I89-590 Intel Core i7-14700F NVIDIA GeForce RTX 5070 Ti 32 GB RAM 2 TB SSD Windows 11 Home Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-i89-590-intel-core-i7-14700f-nvidia-geforce-rtx-5070-ti-32-gb-ram-2-tb-ssd-windows-11-home-schwarz-100552564/",
-   "stand": "2026-11-23T20:07",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 3098.4,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-i89-590-intel-core-i7-14700f-nvidia-geforce-rtx-5070-ti-32-gb-ram-2-tb-ssd-windows-11-home-schwarz-100552564/"
-    }
-   ],
-   "price": 3098.4,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 2972.51
-    },
-    {
-     "d": "2026-10-31",
-     "p": 2972.51
-    },
-    {
-     "d": "2026-11-01",
-     "p": 2972.51
-    },
-    {
-     "d": "2026-11-03",
-     "p": 2976.24
-    },
-    {
-     "d": "2026-11-05",
-     "p": 2976.24
-    },
-    {
-     "d": "2026-11-07",
-     "p": 2976.24
-    },
-    {
-     "d": "2026-11-10",
-     "p": 2976.24
-    },
-    {
-     "d": "2026-11-12",
-     "p": 2976.24
-    },
-    {
-     "d": "2026-11-15",
-     "p": 2976.24
-    },
-    {
-     "d": "2026-11-17",
-     "p": 3124.27
-    },
-    {
-     "d": "2026-11-20",
-     "p": 3098.4
-    },
-    {
-     "d": "2026-11-23",
-     "p": 3098.4
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten geforce rtx 5070 ti captiva highend gaming i89 590 intel core 14700f nvidia geforce rtx 5070 ram ssd windows home",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-captiva-advanced-gaming-i97-990ch-ryzen-7-255-15-3-32-gb-ram",
-   "cat": "Grafikkarten",
-   "sub": "GeForce RTX 5060",
-   "name": "CAPTIVA Advanced Gaming I97-990CH Ryzen 7 255 15,3\" 32 GB RAM 2 TB SSD GeForce RTX 5060 8 GB Windows 11 Pro Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-i97-990ch-ryzen-7-255-15-3-32-gb-ram-2-tb-ssd-geforce-rtx-5060-8-gb-windows-11-pro-schwarz-100678200/",
-   "stand": "2026-11-25T12:07",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 3142.61,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-i97-990ch-ryzen-7-255-15-3-32-gb-ram-2-tb-ssd-geforce-rtx-5060-8-gb-windows-11-pro-schwarz-100678200/"
-    }
-   ],
-   "price": 3142.61,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 3137.51
-    },
-    {
-     "d": "2026-10-31",
-     "p": 3137.51
-    },
-    {
-     "d": "2026-11-01",
-     "p": 3137.51
-    },
-    {
-     "d": "2026-11-02",
-     "p": 3137.51
-    },
-    {
-     "d": "2026-11-04",
-     "p": 3137.51
-    },
-    {
-     "d": "2026-11-06",
-     "p": 3137.51
-    },
-    {
-     "d": "2026-11-09",
-     "p": 3137.51
-    },
-    {
-     "d": "2026-11-11",
-     "p": 3137.51
-    },
-    {
-     "d": "2026-11-13",
-     "p": 3137.51
-    },
-    {
-     "d": "2026-11-16",
-     "p": 2933.52
-    },
-    {
-     "d": "2026-11-19",
-     "p": 3142.61
-    },
-    {
-     "d": "2026-11-22",
-     "p": 3142.61
-    },
-    {
-     "d": "2026-11-25",
-     "p": 3142.61
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten geforce rtx 5060 captiva advanced gaming i97 990ch ryzen 255 ram ssd geforce rtx 5060 windows pro schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-pny-nvidia-rtx-pro-4000-blackwell-grafikkarte-24-gb-gddr7-pc",
-   "cat": "Grafikkarten",
-   "sub": "Grafikkarten",
-   "name": "PNY NVIDIA RTX PRO 4000 Blackwell Grafikkarte 24 GB GDDR7 PCIe 5.0 x16",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/pny-nvidia-rtx-pro-4000-blackwell-grafikkarte-24-gb-gddr7-pcie-5-0-x16-100673568/",
-   "stand": "2026-11-25T20:00",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 3171.93,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/pny-nvidia-rtx-pro-4000-blackwell-grafikkarte-24-gb-gddr7-pcie-5-0-x16-100673568/"
-    }
-   ],
-   "price": 3171.93,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 3213.35
-    },
-    {
-     "d": "2026-10-31",
-     "p": 3213.35
-    },
-    {
-     "d": "2026-11-01",
-     "p": 3213.35
-    },
-    {
-     "d": "2026-11-02",
-     "p": 3231.52
-    },
-    {
-     "d": "2026-11-04",
-     "p": 3217.07
-    },
-    {
-     "d": "2026-11-06",
-     "p": 3217.07
-    },
-    {
-     "d": "2026-11-09",
-     "p": 3217.07
-    },
-    {
-     "d": "2026-11-11",
-     "p": 3217.07
-    },
-    {
-     "d": "2026-11-14",
-     "p": 3217.07
-    },
-    {
-     "d": "2026-11-16",
-     "p": 3217.07
-    },
-    {
-     "d": "2026-11-19",
-     "p": 3229.68
-    },
-    {
-     "d": "2026-11-22",
-     "p": 3231.52
-    },
-    {
-     "d": "2026-11-25",
-     "p": 3171.93
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten pny nvidia rtx pro 4000 blackwell grafikkarte gddr7 pcie x16",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-captiva-highend-gaming-r94-999-amd-ryzen-7-7800x3d-nvidia-ge",
-   "cat": "Grafikkarten",
-   "sub": "GeForce RTX 5070",
-   "name": "Captiva Highend Gaming R94-999 AMD Ryzen 7 7800X3D NVIDIA GeForce RTX 5070 64 GB RAM 1 TB SSD Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r94-999-amd-ryzen-7-7800x3d-nvidia-geforce-rtx-5070-64-gb-ram-1-tb-ssd-schwarz-100670145/",
-   "stand": "2026-11-25T11:30",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 3193.27,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r94-999-amd-ryzen-7-7800x3d-nvidia-geforce-rtx-5070-64-gb-ram-1-tb-ssd-schwarz-100670145/"
-    }
-   ],
-   "price": 3193.27,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-25",
-     "p": 3193.27
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten geforce rtx 5070 captiva highend gaming r94 999 amd ryzen 7800x3d nvidia geforce rtx 5070 ram ssd schwarz",
-   "firstSeen": "2026-11-25"
-  },
-  {
-   "id": "c-asus-rog-zephyrus-g16-gu606ap-tb039w-16-intel-core-ultra-9-3",
-   "cat": "Grafikkarten",
-   "sub": "GeForce RTX 5070",
-   "name": "ASUS ROG Zephyrus G16 GU606AP-TB039W 16\" Intel Core Ultra 9 386H 32 GB RAM 1 TB SSD NVIDIA GeForce RTX 5070 WQXGA 240 Hz Platinum White",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/asus-rog-zephyrus-g16-gu606ap-tb039w-16-intel-core-ultra-9-386h-32-gb-ram-1-tb-ssd-nvidia-geforce-rtx-5070-wqxga-240-hz-platinum-white-100876115/",
-   "stand": "2026-11-25T10:17",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 3199.01,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/asus-rog-zephyrus-g16-gu606ap-tb039w-16-intel-core-ultra-9-386h-32-gb-ram-1-tb-ssd-nvidia-geforce-rtx-5070-wqxga-240-hz-platinum-white-100876115/"
-    }
-   ],
-   "price": 3199.01,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 3199.01
-    },
-    {
-     "d": "2026-10-31",
-     "p": 3199.01
-    },
-    {
-     "d": "2026-11-01",
-     "p": 3199.01
-    },
-    {
-     "d": "2026-11-02",
-     "p": 3199.01
-    },
-    {
-     "d": "2026-11-04",
-     "p": 3199.01
-    },
-    {
-     "d": "2026-11-06",
-     "p": 3199.01
-    },
-    {
-     "d": "2026-11-09",
-     "p": 3199.01
-    },
-    {
-     "d": "2026-11-11",
-     "p": 3199.01
-    },
-    {
-     "d": "2026-11-13",
-     "p": 3199.01
-    },
-    {
-     "d": "2026-11-16",
-     "p": 3199.01
-    },
-    {
-     "d": "2026-11-19",
-     "p": 3199.01
-    },
-    {
-     "d": "2026-11-22",
-     "p": 3199.01
-    },
-    {
-     "d": "2026-11-25",
-     "p": 3199.01
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten geforce rtx 5070 asus rog zephyrus g16 gu606ap tb039w intel core ultra 386h ram ssd nvidia geforce rtx 5070",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-pny-rtx-pro-4000-blackwell-24-gb-gddr7-grafikkarte-schwarz",
-   "cat": "Grafikkarten",
-   "sub": "Grafikkarten",
-   "name": "PNY RTX PRO 4000 Blackwell 24 GB GDDR7 Grafikkarte Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/pny-rtx-pro-4000-blackwell-24-gb-gddr7-grafikkarte-schwarz-100588702/",
-   "stand": "2026-11-25T12:07",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 3211.6,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/pny-rtx-pro-4000-blackwell-24-gb-gddr7-grafikkarte-schwarz-100588702/"
-    }
-   ],
-   "price": 3211.6,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 3118.22
-    },
-    {
-     "d": "2026-10-31",
-     "p": 3117.68
-    },
-    {
-     "d": "2026-11-01",
-     "p": 3117.68
-    },
-    {
-     "d": "2026-11-02",
-     "p": 3117.68
-    },
-    {
-     "d": "2026-11-04",
-     "p": 3117.68
-    },
-    {
-     "d": "2026-11-06",
-     "p": 3117.68
-    },
-    {
-     "d": "2026-11-09",
-     "p": 3117.68
-    },
-    {
-     "d": "2026-11-11",
-     "p": 3118.22
-    },
-    {
-     "d": "2026-11-13",
-     "p": 3118.22
-    },
-    {
-     "d": "2026-11-16",
-     "p": 3118.22
-    },
-    {
-     "d": "2026-11-19",
-     "p": 3118.22
-    },
-    {
-     "d": "2026-11-22",
-     "p": 3222.84
-    },
-    {
-     "d": "2026-11-25",
-     "p": 3211.6
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten pny rtx pro 4000 blackwell gddr7 grafikkarte schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-captiva-highend-gaming-r89-502-amd-ryzen-7-7800x3d-nvidia-ge",
-   "cat": "Grafikkarten",
-   "sub": "GeForce RTX 5070 Ti",
-   "name": "CAPTIVA Highend Gaming R89-502 AMD Ryzen 7 7800X3D NVIDIA GeForce RTX 5070 Ti 32 GB RAM 2 TB SSD Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r89-502-amd-ryzen-7-7800x3d-nvidia-geforce-rtx-5070-ti-32-gb-ram-2-tb-ssd-schwarz-100552506/",
-   "stand": "2026-11-23T14:29",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 3311.12,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r89-502-amd-ryzen-7-7800x3d-nvidia-geforce-rtx-5070-ti-32-gb-ram-2-tb-ssd-schwarz-100552506/"
-    }
-   ],
-   "price": 3311.12,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 3091.8
-    },
-    {
-     "d": "2026-10-31",
-     "p": 3091.8
-    },
-    {
-     "d": "2026-11-01",
-     "p": 3091.8
-    },
-    {
-     "d": "2026-11-03",
-     "p": 3095.54
-    },
-    {
-     "d": "2026-11-05",
-     "p": 3095.54
-    },
-    {
-     "d": "2026-11-07",
-     "p": 3095.54
-    },
-    {
-     "d": "2026-11-10",
-     "p": 3095.54
-    },
-    {
-     "d": "2026-11-12",
-     "p": 3095.54
-    },
-    {
-     "d": "2026-11-14",
-     "p": 3095.54
-    },
-    {
-     "d": "2026-11-17",
-     "p": 3095.54
-    },
-    {
-     "d": "2026-11-20",
-     "p": 3239.25
-    },
-    {
-     "d": "2026-11-23",
-     "p": 3311.12
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten geforce rtx 5070 ti captiva highend gaming r89 502 amd ryzen 7800x3d nvidia geforce rtx 5070 ram ssd schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-captiva-pc-highend-gaming-i89-535-intel-core-ultra-7-265kf-n",
-   "cat": "Grafikkarten",
-   "sub": "GeForce RTX 5070 Ti",
-   "name": "CAPTIVA PC Highend Gaming I89-535 Intel Core Ultra 7 265KF NVIDIA GeForce RTX 5070 Ti 32 GB RAM 2 TB SSD Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/captiva-pc-highend-gaming-i89-535-intel-core-ultra-7-265kf-nvidia-geforce-rtx-5070-ti-32-gb-ram-2-tb-ssd-schwarz-100552525/",
-   "stand": "2026-11-23T14:29",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 3314,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/captiva-pc-highend-gaming-i89-535-intel-core-ultra-7-265kf-nvidia-geforce-rtx-5070-ti-32-gb-ram-2-tb-ssd-schwarz-100552525/"
-    }
-   ],
-   "price": 3314,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 3160.78
-    },
-    {
-     "d": "2026-10-31",
-     "p": 3160.78
-    },
-    {
-     "d": "2026-11-01",
-     "p": 3160.78
-    },
-    {
-     "d": "2026-11-03",
-     "p": 3164.52
-    },
-    {
-     "d": "2026-11-05",
-     "p": 3164.52
-    },
-    {
-     "d": "2026-11-07",
-     "p": 3164.52
-    },
-    {
-     "d": "2026-11-10",
-     "p": 3164.52
-    },
-    {
-     "d": "2026-11-12",
-     "p": 3164.52
-    },
-    {
-     "d": "2026-11-14",
-     "p": 3164.52
-    },
-    {
-     "d": "2026-11-17",
-     "p": 3314
-    },
-    {
-     "d": "2026-11-20",
-     "p": 3314
-    },
-    {
-     "d": "2026-11-23",
-     "p": 3314
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten geforce rtx 5070 ti captiva highend gaming i89 535 intel core ultra 265kf nvidia geforce rtx 5070 ram ssd schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-captiva-ultimate-gaming-r92-196-16-amd-ryzen-9-9955hx-16-gb-",
-   "cat": "Grafikkarten",
-   "sub": "GeForce RTX 5090",
-   "name": "Captiva Ultimate Gaming R92-196 16\" AMD Ryzen 9 9955HX 16 GB RAM 2 TB SSD NVIDIA GeForce RTX 5090 Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/captiva-ultimate-gaming-r92-196-16-amd-ryzen-9-9955hx-16-gb-ram-2-tb-ssd-nvidia-geforce-rtx-5090-schwarz-100586921/",
-   "stand": "2026-11-25T17:24",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 3384.85,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/captiva-ultimate-gaming-r92-196-16-amd-ryzen-9-9955hx-16-gb-ram-2-tb-ssd-nvidia-geforce-rtx-5090-schwarz-100586921/"
-    }
-   ],
-   "price": 3384.85,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-25",
-     "p": 3384.85
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten geforce rtx 5090 captiva ultimate gaming r92 196 amd ryzen 9955hx ram ssd nvidia geforce rtx 5090 schwarz",
-   "firstSeen": "2026-11-25"
-  },
-  {
-   "id": "c-captiva-highend-gaming-r92-240-16-amd-ryzen-9-9955hx-16-gb-r",
-   "cat": "Grafikkarten",
-   "sub": "GeForce RTX 5080",
-   "name": "CAPTIVA Highend Gaming R92-240 16\" AMD Ryzen 9 9955HX 16 GB RAM 2 TB SSD GeForce RTX 5080 Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r92-240-16-amd-ryzen-9-9955hx-16-gb-ram-2-tb-ssd-geforce-rtx-5080-schwarz-100586949/",
-   "stand": "2026-11-25T17:24",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 3391.61,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r92-240-16-amd-ryzen-9-9955hx-16-gb-ram-2-tb-ssd-geforce-rtx-5080-schwarz-100586949/"
-    }
-   ],
-   "price": 3391.61,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-25",
-     "p": 3391.61
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten geforce rtx 5080 captiva highend gaming r92 240 amd ryzen 9955hx ram ssd geforce rtx 5080 schwarz",
-   "firstSeen": "2026-11-25"
-  },
-  {
-   "id": "c-captiva-highend-gaming-r92-249-16-amd-ryzen-9-9955hx-32-gb-r",
-   "cat": "Grafikkarten",
-   "sub": "GeForce RTX 5080",
-   "name": "CAPTIVA Highend Gaming R92-249 16\" AMD Ryzen 9 9955HX 32 GB RAM 1 TB SSD NVIDIA GeForce RTX 5080 Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r92-249-16-amd-ryzen-9-9955hx-32-gb-ram-1-tb-ssd-nvidia-geforce-rtx-5080-schwarz-100586954/",
-   "stand": "2026-11-25T17:24",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 3447.67,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r92-249-16-amd-ryzen-9-9955hx-32-gb-ram-1-tb-ssd-nvidia-geforce-rtx-5080-schwarz-100586954/"
-    }
-   ],
-   "price": 3447.67,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-25",
-     "p": 3447.67
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten geforce rtx 5080 captiva highend gaming r92 249 amd ryzen 9955hx ram ssd nvidia geforce rtx 5080 schwarz",
-   "firstSeen": "2026-11-25"
-  },
-  {
-   "id": "c-captiva-ultimate-gaming-r92-200-16-amd-ryzen-9-9955hx-32-gb-",
-   "cat": "Grafikkarten",
-   "sub": "GeForce RTX 5090",
-   "name": "CAPTIVA Ultimate Gaming R92-200 16\" AMD Ryzen 9 9955HX 32 GB RAM 500 GB SSD NVIDIA GeForce RTX 5090 24 GB Windows 11 Home Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/captiva-ultimate-gaming-r92-200-16-amd-ryzen-9-9955hx-32-gb-ram-500-gb-ssd-nvidia-geforce-rtx-5090-24-gb-windows-11-home-schwarz-100586925/",
-   "stand": "2026-11-25T17:24",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 3459.53,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/captiva-ultimate-gaming-r92-200-16-amd-ryzen-9-9955hx-32-gb-ram-500-gb-ssd-nvidia-geforce-rtx-5090-24-gb-windows-11-home-schwarz-100586925/"
-    }
-   ],
-   "price": 3459.53,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-25",
-     "p": 3459.53
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten geforce rtx 5090 captiva ultimate gaming r92 200 amd ryzen 9955hx ram 500 ssd nvidia geforce rtx 5090 windows",
-   "firstSeen": "2026-11-25"
-  },
-  {
-   "id": "c-captiva-ultimate-gaming-r92-203-16-ryzen-9-9955hx-32-gb-ram-",
-   "cat": "Grafikkarten",
-   "sub": "GeForce RTX 5090",
-   "name": "Captiva Ultimate Gaming R92-203 16\" Ryzen 9 9955HX 32 GB RAM 1 TB SSD GeForce RTX 5090 Windows 11 Home Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/captiva-ultimate-gaming-r92-203-16-ryzen-9-9955hx-32-gb-ram-1-tb-ssd-geforce-rtx-5090-windows-11-home-schwarz-100586928/",
-   "stand": "2026-11-25T17:24",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 3531.4,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/captiva-ultimate-gaming-r92-203-16-ryzen-9-9955hx-32-gb-ram-1-tb-ssd-geforce-rtx-5090-windows-11-home-schwarz-100586928/"
-    }
-   ],
-   "price": 3531.4,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-25",
-     "p": 3531.4
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten geforce rtx 5090 captiva ultimate gaming r92 203 ryzen 9955hx ram ssd geforce rtx 5090 windows home schwarz",
-   "firstSeen": "2026-11-25"
-  },
-  {
-   "id": "c-captiva-highend-gaming-r92-257-16-amd-ryzen-9-9955hx-32-gb-r",
-   "cat": "Grafikkarten",
-   "sub": "GeForce RTX 5080",
-   "name": "CAPTIVA Highend Gaming R92-257 16\" AMD Ryzen 9 9955HX 32 GB RAM 2 TB SSD NVIDIA GeForce RTX 5080 Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r92-257-16-amd-ryzen-9-9955hx-32-gb-ram-2-tb-ssd-nvidia-geforce-rtx-5080-schwarz-100586956/",
-   "stand": "2026-11-25T17:24",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 3533.9,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r92-257-16-amd-ryzen-9-9955hx-32-gb-ram-2-tb-ssd-nvidia-geforce-rtx-5080-schwarz-100586956/"
-    }
-   ],
-   "price": 3533.9,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-25",
-     "p": 3533.9
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten geforce rtx 5080 captiva highend gaming r92 257 amd ryzen 9955hx ram ssd nvidia geforce rtx 5080 schwarz",
-   "firstSeen": "2026-11-25"
-  },
-  {
-   "id": "c-captiva-advanced-gaming-i97-994ch-15-3-amd-ryzen-7-255-64-gb",
-   "cat": "Grafikkarten",
-   "sub": "GeForce RTX 5060",
-   "name": "CAPTIVA Advanced Gaming I97-994CH 15.3\" AMD Ryzen 7 255 64 GB RAM 2 TB SSD NVIDIA GeForce RTX 5060 Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-i97-994ch-15-3-amd-ryzen-7-255-64-gb-ram-2-tb-ssd-nvidia-geforce-rtx-5060-schwarz-100678203/",
-   "stand": "2026-11-25T12:07",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 3545.51,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-i97-994ch-15-3-amd-ryzen-7-255-64-gb-ram-2-tb-ssd-nvidia-geforce-rtx-5060-schwarz-100678203/"
-    }
-   ],
-   "price": 3545.51,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 3545.51
-    },
-    {
-     "d": "2026-10-31",
-     "p": 3545.51
-    },
-    {
-     "d": "2026-11-01",
-     "p": 3545.51
-    },
-    {
-     "d": "2026-11-02",
-     "p": 3545.51
-    },
-    {
-     "d": "2026-11-04",
-     "p": 3545.51
-    },
-    {
-     "d": "2026-11-06",
-     "p": 3545.51
-    },
-    {
-     "d": "2026-11-09",
-     "p": 3545.51
-    },
-    {
-     "d": "2026-11-11",
-     "p": 3545.51
-    },
-    {
-     "d": "2026-11-13",
-     "p": 3545.51
-    },
-    {
-     "d": "2026-11-16",
-     "p": 3545.51
-    },
-    {
-     "d": "2026-11-19",
-     "p": 3545.51
-    },
-    {
-     "d": "2026-11-22",
-     "p": 3545.51
-    },
-    {
-     "d": "2026-11-25",
-     "p": 3545.51
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten geforce rtx 5060 captiva advanced gaming i97 994ch amd ryzen 255 ram ssd nvidia geforce rtx 5060 schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-captiva-ultimate-gaming-r92-198-16-ryzen-9-9955hx-16-gb-ram-",
-   "cat": "Grafikkarten",
-   "sub": "GeForce RTX 5090",
-   "name": "CAPTIVA Ultimate Gaming R92-198 16\" Ryzen 9 9955HX 16 GB RAM 2 TB SSD GeForce RTX 5090 Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/captiva-ultimate-gaming-r92-198-16-ryzen-9-9955hx-16-gb-ram-2-tb-ssd-geforce-rtx-5090-schwarz-100586923/",
-   "stand": "2026-11-25T17:24",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 3549.71,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/captiva-ultimate-gaming-r92-198-16-ryzen-9-9955hx-16-gb-ram-2-tb-ssd-geforce-rtx-5090-schwarz-100586923/"
-    }
-   ],
-   "price": 3549.71,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-25",
-     "p": 3549.71
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten geforce rtx 5090 captiva ultimate gaming r92 198 ryzen 9955hx ram ssd geforce rtx 5090 schwarz",
-   "firstSeen": "2026-11-25"
-  },
-  {
-   "id": "c-captiva-highend-gaming-i95-712-intel-core-i9-14900kf-32-gb-r",
-   "cat": "Grafikkarten",
-   "sub": "GeForce RTX 5080",
-   "name": "CAPTIVA Highend Gaming I95-712 Intel Core i9-14900KF 32 GB RAM 2 TB SSD NVIDIA GeForce RTX 5080 Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-i95-712-intel-core-i9-14900kf-32-gb-ram-2-tb-ssd-nvidia-geforce-rtx-5080-schwarz-100674726/",
-   "stand": "2026-11-25T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 3550.29,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-i95-712-intel-core-i9-14900kf-32-gb-ram-2-tb-ssd-nvidia-geforce-rtx-5080-schwarz-100674726/"
-    }
-   ],
-   "price": 3550.29,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 3550.29
-    },
-    {
-     "d": "2026-10-31",
-     "p": 3550.29
-    },
-    {
-     "d": "2026-11-01",
-     "p": 3550.29
-    },
-    {
-     "d": "2026-11-02",
-     "p": 3550.29
-    },
-    {
-     "d": "2026-11-04",
-     "p": 3550.29
-    },
-    {
-     "d": "2026-11-06",
-     "p": 3550.29
-    },
-    {
-     "d": "2026-11-09",
-     "p": 3550.29
-    },
-    {
-     "d": "2026-11-11",
-     "p": 3550.29
-    },
-    {
-     "d": "2026-11-14",
-     "p": 3550.29
-    },
-    {
-     "d": "2026-11-16",
-     "p": 3550.29
-    },
-    {
-     "d": "2026-11-19",
-     "p": 3550.29
-    },
-    {
-     "d": "2026-11-22",
-     "p": 3550.29
-    },
-    {
-     "d": "2026-11-25",
-     "p": 3550.29
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten geforce rtx 5080 captiva highend gaming i95 712 intel core 14900kf ram ssd nvidia geforce rtx 5080 schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-captiva-ultimate-gaming-r92-205-16-amd-ryzen-9-9955hx-32-gb-",
-   "cat": "Grafikkarten",
-   "sub": "GeForce RTX 5090",
-   "name": "Captiva Ultimate Gaming R92-205 16\" AMD Ryzen 9 9955HX 32 GB RAM 2 TB SSD GeForce RTX 5090 Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/captiva-ultimate-gaming-r92-205-16-amd-ryzen-9-9955hx-32-gb-ram-2-tb-ssd-geforce-rtx-5090-schwarz-100586930/",
-   "stand": "2026-11-25T17:24",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 3611.71,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/captiva-ultimate-gaming-r92-205-16-amd-ryzen-9-9955hx-32-gb-ram-2-tb-ssd-geforce-rtx-5090-schwarz-100586930/"
-    }
-   ],
-   "price": 3611.71,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-25",
-     "p": 3611.71
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten geforce rtx 5090 captiva ultimate gaming r92 205 amd ryzen 9955hx ram ssd geforce rtx 5090 schwarz",
-   "firstSeen": "2026-11-25"
-  },
-  {
-   "id": "c-captiva-advanced-gaming-i97-999ch-15-3-amd-ryzen-7-255-64-gb",
-   "cat": "Grafikkarten",
-   "sub": "GeForce RTX 5060",
-   "name": "CAPTIVA Advanced Gaming I97-999CH 15,3\" AMD Ryzen 7 255 64 GB RAM 2 TB SSD NVIDIA GeForce RTX 5060 Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-i97-999ch-15-3-amd-ryzen-7-255-64-gb-ram-2-tb-ssd-nvidia-geforce-rtx-5060-schwarz-100678207/",
-   "stand": "2026-11-25T12:07",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 3619.97,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-i97-999ch-15-3-amd-ryzen-7-255-64-gb-ram-2-tb-ssd-nvidia-geforce-rtx-5060-schwarz-100678207/"
-    }
-   ],
-   "price": 3619.97,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 3755.63
-    },
-    {
-     "d": "2026-10-31",
-     "p": 3755.63
-    },
-    {
-     "d": "2026-11-01",
-     "p": 3755.63
-    },
-    {
-     "d": "2026-11-02",
-     "p": 3755.63
-    },
-    {
-     "d": "2026-11-04",
-     "p": 3755.63
-    },
-    {
-     "d": "2026-11-06",
-     "p": 3755.63
-    },
-    {
-     "d": "2026-11-09",
-     "p": 3755.63
-    },
-    {
-     "d": "2026-11-11",
-     "p": 3755.63
-    },
-    {
-     "d": "2026-11-14",
-     "p": 3550.6
-    },
-    {
-     "d": "2026-11-16",
-     "p": 3550.6
-    },
-    {
-     "d": "2026-11-19",
-     "p": 3619.97
-    },
-    {
-     "d": "2026-11-22",
-     "p": 3619.97
-    },
-    {
-     "d": "2026-11-25",
-     "p": 3619.97
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten geforce rtx 5060 captiva advanced gaming i97 999ch amd ryzen 255 ram ssd nvidia geforce rtx 5060 schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-captiva-highend-gaming-r88-872-amd-ryzen-7-7800x3d-nvidia-ge",
-   "cat": "Grafikkarten",
-   "sub": "GeForce RTX 5080",
-   "name": "CAPTIVA Highend Gaming R88-872 AMD Ryzen 7 7800X3D NVIDIA GeForce RTX 5080 32 GB RAM 1 TB SSD Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r88-872-amd-ryzen-7-7800x3d-nvidia-geforce-rtx-5080-32-gb-ram-1-tb-ssd-schwarz-100547957/",
-   "stand": "2026-11-23T11:28",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 3778.29,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r88-872-amd-ryzen-7-7800x3d-nvidia-geforce-rtx-5080-32-gb-ram-1-tb-ssd-schwarz-100547957/"
-    }
-   ],
-   "price": 3778.29,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-23",
-     "p": 3778.29
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten geforce rtx 5080 captiva highend gaming r88 872 amd ryzen 7800x3d nvidia geforce rtx 5080 ram ssd schwarz",
-   "firstSeen": "2026-11-23"
-  },
-  {
-   "id": "c-captiva-highend-gaming-r89-103-amd-ryzen-9-9950x-nvidia-gefo",
-   "cat": "Grafikkarten",
-   "sub": "GeForce RTX 5080",
-   "name": "Captiva Highend Gaming R89-103 AMD Ryzen 9 9950X NVIDIA GeForce RTX 5080 32 GB RAM 1 TB SSD Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r89-103-amd-ryzen-9-9950x-nvidia-geforce-rtx-5080-32-gb-ram-1-tb-ssd-schwarz-100548117/",
-   "stand": "2026-11-23T14:29",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 3919.13,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r89-103-amd-ryzen-9-9950x-nvidia-geforce-rtx-5080-32-gb-ram-1-tb-ssd-schwarz-100548117/"
-    }
-   ],
-   "price": 3919.13,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 3798.98
-    },
-    {
-     "d": "2026-10-31",
-     "p": 3809.05
-    },
-    {
-     "d": "2026-11-01",
-     "p": 3809.05
-    },
-    {
-     "d": "2026-11-03",
-     "p": 3812.77
-    },
-    {
-     "d": "2026-11-05",
-     "p": 3812.77
-    },
-    {
-     "d": "2026-11-07",
-     "p": 3812.77
-    },
-    {
-     "d": "2026-11-10",
-     "p": 3812.77
-    },
-    {
-     "d": "2026-11-12",
-     "p": 3697.79
-    },
-    {
-     "d": "2026-11-14",
-     "p": 3700.67
-    },
-    {
-     "d": "2026-11-17",
-     "p": 3919.13
-    },
-    {
-     "d": "2026-11-20",
-     "p": 3919.13
-    },
-    {
-     "d": "2026-11-23",
-     "p": 3919.13
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten geforce rtx 5080 captiva highend gaming r89 103 amd ryzen 9950x nvidia geforce rtx 5080 ram ssd schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-captiva-highend-gaming-r89-102-amd-ryzen-9-9950x-nvidia-gefo",
-   "cat": "Grafikkarten",
-   "sub": "GeForce RTX 5080",
-   "name": "Captiva Highend Gaming R89-102 AMD Ryzen 9 9950X NVIDIA GeForce RTX 5080 32 GB RAM 1 TB SSD Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r89-102-amd-ryzen-9-9950x-nvidia-geforce-rtx-5080-32-gb-ram-1-tb-ssd-schwarz-100548116/",
-   "stand": "2026-11-23T20:07",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 3962.26,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r89-102-amd-ryzen-9-9950x-nvidia-geforce-rtx-5080-32-gb-ram-1-tb-ssd-schwarz-100548116/"
-    }
-   ],
-   "price": 3962.26,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 3842.11
-    },
-    {
-     "d": "2026-10-31",
-     "p": 3852.16
-    },
-    {
-     "d": "2026-11-01",
-     "p": 3852.16
-    },
-    {
-     "d": "2026-11-03",
-     "p": 3855.89
-    },
-    {
-     "d": "2026-11-05",
-     "p": 3855.89
-    },
-    {
-     "d": "2026-11-07",
-     "p": 3855.89
-    },
-    {
-     "d": "2026-11-10",
-     "p": 3855.89
-    },
-    {
-     "d": "2026-11-12",
-     "p": 3740.92
-    },
-    {
-     "d": "2026-11-15",
-     "p": 3743.79
-    },
-    {
-     "d": "2026-11-17",
-     "p": 3962.26
-    },
-    {
-     "d": "2026-11-20",
-     "p": 3962.26
-    },
-    {
-     "d": "2026-11-23",
-     "p": 3962.26
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten geforce rtx 5080 captiva highend gaming r89 102 amd ryzen 9950x nvidia geforce rtx 5080 ram ssd schwarz",
    "firstSeen": "2026-10-30"
   }
  ]
