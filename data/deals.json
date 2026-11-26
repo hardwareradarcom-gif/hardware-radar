@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T17:59:06.722Z",
+ "updated": "2026-11-26T20:10:12.354Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1754,8 +1754,8 @@
    "price": 849.9,
    "ref": 1212.91,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/patriot-viper-gaming-rgb-xtreme-5-ddr5-7600-ram-cl-36-intel-xmp-3.0-32gb-dual-kit-schwarz/MEPM-128.html",
-   "url": "https://www.caseking.de/patriot-viper-gaming-rgb-xtreme-5-ddr5-7600-ram-cl-36-intel-xmp-3.0-32gb-dual-kit-schwarz/MEPM-128.html",
+   "shopUrl": "https://www.caseking.de/en/patriot-viper-gaming-rgb-xtreme-5-ddr5-7600-ram-cl-36-intel-xmp-3.0-32gb-dual-kit-black/MEPM-128.html",
+   "url": "https://www.caseking.de/en/patriot-viper-gaming-rgb-xtreme-5-ddr5-7600-ram-cl-36-intel-xmp-3.0-32gb-dual-kit-black/MEPM-128.html",
    "note": "30 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -2571,6 +2571,52 @@
    "seen": "2026-11-26",
    "updated": "2026-11-26",
    "tags": "kuhlung luftkuhler noctua secufirm2 i17xx mp83 upgrade kit fur prozessorkuhler lga1700 silber",
+   "source": "crawler"
+  },
+  {
+   "id": "c-ux400-argb-lighting-cpu-kuhler-black",
+   "name": "UX400 ARGB Lighting CPU Kühler - Black",
+   "cat": "Kühlung",
+   "price": 19.77,
+   "ref": 24.99,
+   "shop": "Thermaltake LCGS",
+   "shopUrl": "https://lcgs.thermaltake.de/en/products/ux400-argb-lighting-black-cpu-kuehler?variant=51662864941395",
+   "url": "https://lcgs.thermaltake.de/en/products/ux400-argb-lighting-black-cpu-kuehler?variant=51662864941395",
+   "note": "21 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-20",
+     "p": 24.99
+    },
+    {
+     "d": "2026-11-21",
+     "p": 24.99
+    },
+    {
+     "d": "2026-11-22",
+     "p": 24.99
+    },
+    {
+     "d": "2026-11-23",
+     "p": 19.77
+    },
+    {
+     "d": "2026-11-24",
+     "p": 24.99
+    },
+    {
+     "d": "2026-11-25",
+     "p": 24.99
+    },
+    {
+     "d": "2026-11-26",
+     "p": 19.77
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
+   "tags": "kuhlung luftkuhler ux400 argb lighting cpu kuhler black",
    "source": "crawler"
   },
   {
@@ -6323,6 +6369,10 @@
     {
      "d": "2026-11-23",
      "p": 355.56
+    },
+    {
+     "d": "2026-11-26",
+     "p": 355.56
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -6653,64 +6703,6 @@
    "seen": "2026-11-26",
    "updated": "2026-11-26",
    "tags": "kuhlung luftkuhler alpenfohn matterhorn aurora black cpu kuhler",
-   "source": "crawler"
-  },
-  {
-   "id": "c-arctic-liquid-freezer-iii-pro-280-aio-water-cooling-280mm-bl",
-   "name": "Arctic Liquid Freezer III Pro 280 AiO Water Cooling - 280mm, black",
-   "cat": "Kühlung",
-   "price": 64.9,
-   "ref": 74.9,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/arctic-liquid-freezer-iii-pro-280-aio-water-cooling-280mm-black/WASE-984.html",
-   "url": "https://www.caseking.de/en/arctic-liquid-freezer-iii-pro-280-aio-water-cooling-280mm-black/WASE-984.html",
-   "note": "13 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-06",
-     "p": 74.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 74.9
-    },
-    {
-     "d": "2026-11-10",
-     "p": 74.9
-    },
-    {
-     "d": "2026-11-12",
-     "p": 74.9
-    },
-    {
-     "d": "2026-11-14",
-     "p": 74.9
-    },
-    {
-     "d": "2026-11-17",
-     "p": 74.9
-    },
-    {
-     "d": "2026-11-19",
-     "p": 64.9
-    },
-    {
-     "d": "2026-11-21",
-     "p": 64.9
-    },
-    {
-     "d": "2026-11-24",
-     "p": 64.9
-    },
-    {
-     "d": "2026-11-26",
-     "p": 64.9
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-26",
-   "updated": "2026-11-26",
-   "tags": "kuhlung aio-wasserkuhlung arctic liquid freezer iii pro 280 aio water cooling 280mm black",
    "source": "crawler"
   }
  ],
