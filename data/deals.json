@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T11:27:40.141Z",
+ "updated": "2026-11-26T12:06:23.246Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1822,6 +1822,80 @@
    "source": "crawler"
   },
   {
+   "id": "c-supermicro-h12ssl-c-server-mainboard-atx-socket-sp3-amd-epyc",
+   "name": "Supermicro H12SSL-C Server-Mainboard ATX, Socket SP3, AMD EPYC, DDR4 ECC bis 2 TB",
+   "cat": "Mainboards",
+   "price": 821.85,
+   "ref": 1103.32,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/supermicro-h12ssl-c-server-mainboard-atx-socket-sp3-amd-epyc-ddr4-ecc-bis-2-tb-6484913/",
+   "url": "https://www.jacob.de/produkt/supermicro-h12ssl-c-server-mainboard-atx-socket-sp3-amd-epyc-ddr4-ecc-bis-2-tb-6484913/",
+   "note": "26 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 919.72
+    },
+    {
+     "d": "2026-10-31",
+     "p": 1103.32
+    },
+    {
+     "d": "2026-11-01",
+     "p": 1103.32
+    },
+    {
+     "d": "2026-11-02",
+     "p": 1103.32
+    },
+    {
+     "d": "2026-11-03",
+     "p": 1103.32
+    },
+    {
+     "d": "2026-11-05",
+     "p": 1103.32
+    },
+    {
+     "d": "2026-11-07",
+     "p": 1103.32
+    },
+    {
+     "d": "2026-11-10",
+     "p": 1103.32
+    },
+    {
+     "d": "2026-11-12",
+     "p": 1103.32
+    },
+    {
+     "d": "2026-11-14",
+     "p": 1103.32
+    },
+    {
+     "d": "2026-11-17",
+     "p": 821.85
+    },
+    {
+     "d": "2026-11-20",
+     "p": 821.85
+    },
+    {
+     "d": "2026-11-23",
+     "p": 821.85
+    },
+    {
+     "d": "2026-11-26",
+     "p": 821.85
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
+   "tags": "mainboards supermicro h12ssl server mainboard atx socket sp3 amd epyc ddr4 ecc bis",
+   "source": "crawler"
+  },
+  {
    "id": "c-gigabyte-m27up-ice-27-zoll-uhd-fhd-gaming-monitor-160-320hz-",
    "name": "GIGABYTE M27UP ICE 27 Zoll UHD/FHD Gaming-Monitor, 160/320Hz, SS-IPS-Panel, Freesync Premium",
    "cat": "Monitore",
@@ -2708,6 +2782,10 @@
     },
     {
      "d": "2026-11-24",
+     "p": 79.9
+    },
+    {
+     "d": "2026-11-26",
      "p": 79.9
     }
    ],
@@ -4080,8 +4158,8 @@
    "price": 49.9,
    "ref": 59.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/hyte-x50-air-midi-tower-pitch-black/GEHY-060.html",
-   "url": "https://www.caseking.de/hyte-x50-air-midi-tower-pitch-black/GEHY-060.html",
+   "shopUrl": "https://www.caseking.de/en/hyte-x50-air-midi-tower-pitch-black/GEHY-060.html",
+   "url": "https://www.caseking.de/en/hyte-x50-air-midi-tower-pitch-black/GEHY-060.html",
    "note": "17 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -6549,6 +6627,10 @@
     {
      "d": "2026-11-24",
      "p": 299.9
+    },
+    {
+     "d": "2026-11-26",
+     "p": 299.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -6625,44 +6707,6 @@
    "seen": "2026-11-26",
    "updated": "2026-11-26",
    "tags": "arbeitsspeicher ddr4 32 gb kingston fury beast ddr4 3600 mhz cl18 dimm schwarz",
-   "source": "crawler"
-  },
-  {
-   "id": "c-asus-rog-ryuo-iv-360-argb-all-in-one-cpu-wasserkuhlung-6-67-",
-   "name": "ASUS ROG RYUO IV 360 ARGB All-in-One CPU-Wasserkühlung 6,67\" AMOLED Schwarz",
-   "cat": "Kühlung",
-   "price": 355.56,
-   "ref": 412.86,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/asus-rog-ryuo-iv-360-argb-all-in-one-cpu-wasserkuehlung-6-67-amoled-schwarz-100692720/",
-   "url": "https://www.jacob.de/produkt/asus-rog-ryuo-iv-360-argb-all-in-one-cpu-wasserkuehlung-6-67-amoled-schwarz-100692720/",
-   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-12",
-     "p": 412.86
-    },
-    {
-     "d": "2026-11-15",
-     "p": 412.86
-    },
-    {
-     "d": "2026-11-17",
-     "p": 412.86
-    },
-    {
-     "d": "2026-11-20",
-     "p": 412.86
-    },
-    {
-     "d": "2026-11-23",
-     "p": 355.56
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-26",
-   "updated": "2026-11-26",
-   "tags": "kuhlung aio-wasserkuhlung asus rog ryuo 360 argb all one cpu wasserkuhlung amoled schwarz",
    "source": "crawler"
   }
  ],
