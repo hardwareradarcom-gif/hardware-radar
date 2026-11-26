@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T17:29:33.184Z",
+ "updated": "2026-11-26T17:59:06.722Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -2359,6 +2359,10 @@
     {
      "d": "2026-11-24",
      "p": 99.99
+    },
+    {
+     "d": "2026-11-26",
+     "p": 99.99
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -2424,6 +2428,10 @@
     },
     {
      "d": "2026-11-24",
+     "p": 99.99
+    },
+    {
+     "d": "2026-11-26",
      "p": 99.99
     }
    ],
@@ -2525,6 +2533,44 @@
    "seen": "2026-11-26",
    "updated": "2026-11-26",
    "tags": "netzteile seasonic core 850 atx3 netzteil",
+   "source": "crawler"
+  },
+  {
+   "id": "c-noctua-secufirm2-nm-i17xx-mp83-upgrade-kit-fur-prozessorkuhl",
+   "name": "Noctua SecuFirm2 NM-i17xx-MP83 Upgrade-Kit für Prozessorkühler (LGA1700) Silber",
+   "cat": "Kühlung",
+   "price": 17.64,
+   "ref": 22.41,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/noctua-secufirm2-nm-i17xx-mp83-upgrade-kit-fuer-prozessorkuehler-lga1700-silber-7509962/",
+   "url": "https://www.jacob.de/produkt/noctua-secufirm2-nm-i17xx-mp83-upgrade-kit-fuer-prozessorkuehler-lga1700-silber-7509962/",
+   "note": "21 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-15",
+     "p": 23.61
+    },
+    {
+     "d": "2026-11-17",
+     "p": 22.41
+    },
+    {
+     "d": "2026-11-20",
+     "p": 22.41
+    },
+    {
+     "d": "2026-11-23",
+     "p": 17.64
+    },
+    {
+     "d": "2026-11-26",
+     "p": 17.64
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
+   "tags": "kuhlung luftkuhler noctua secufirm2 i17xx mp83 upgrade kit fur prozessorkuhler lga1700 silber",
    "source": "crawler"
   },
   {
@@ -4652,88 +4698,6 @@
    "source": "crawler"
   },
   {
-   "id": "c-be-quiet-system-power-11-80-plus-bronze-netzteil-atx-3-1-pci",
-   "name": "be quiet! System Power 11 80 PLUS Bronze Netzteil, ATX 3.1, PCIe 5.1 - 450 Watt, schwarz",
-   "cat": "Netzteile",
-   "price": 42.41,
-   "ref": 49.9,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/be-quiet-system-power-11-80-plus-bronze-power-supply-atx-3.1-pcie-5.1-450-watts-black/NEBE-255-A1.html",
-   "url": "https://www.caseking.de/en/be-quiet-system-power-11-80-plus-bronze-power-supply-atx-3.1-pcie-5.1-450-watts-black/NEBE-255-A1.html",
-   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-29",
-     "p": 49.9
-    },
-    {
-     "d": "2026-10-30",
-     "p": 49.9
-    },
-    {
-     "d": "2026-10-31",
-     "p": 49.9
-    },
-    {
-     "d": "2026-11-02",
-     "p": 49.9
-    },
-    {
-     "d": "2026-11-04",
-     "p": 49.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 49.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 49.9
-    },
-    {
-     "d": "2026-11-10",
-     "p": 49.9
-    },
-    {
-     "d": "2026-11-12",
-     "p": 49.9
-    },
-    {
-     "d": "2026-11-14",
-     "p": 49.9
-    },
-    {
-     "d": "2026-11-17",
-     "p": 49.9
-    },
-    {
-     "d": "2026-11-19",
-     "p": 49.9
-    },
-    {
-     "d": "2026-11-21",
-     "p": 49.9
-    },
-    {
-     "d": "2026-11-22",
-     "p": 49.9
-    },
-    {
-     "d": "2026-11-24",
-     "p": 49.9
-    },
-    {
-     "d": "2026-11-25",
-     "p": 42.41
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-26",
-   "updated": "2026-11-26",
-   "tags": "netzteile bis 600 w quiet system power plus bronze netzteil atx pcie 450 watt schwarz",
-   "source": "crawler"
-  },
-  {
    "id": "c-alphacool-core-1-lt-cpu-cooler-black",
    "name": "Alphacool Core 1 LT CPU Cooler - Black",
    "cat": "Kühlung",
@@ -4879,76 +4843,6 @@
    "seen": "2026-11-26",
    "updated": "2026-11-26",
    "tags": "kuhlung luftkuhler alphacool core aurora cpu kuhler argb acryl",
-   "source": "crawler"
-  },
-  {
-   "id": "c-lian-li-lancool-216-rgb-e-atx-gehause-midi-tower-schwarz",
-   "name": "Lian Li LANCOOL 216 RGB, E-ATX-Gehäuse, Midi-Tower - schwarz",
-   "cat": "Gehäuse",
-   "price": 76.41,
-   "ref": 89.9,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/lian-li-lancool-216-rgb-e-atx-case-mid-tower-black/GELI-915-A1.html",
-   "url": "https://www.caseking.de/en/lian-li-lancool-216-rgb-e-atx-case-mid-tower-black/GELI-915-A1.html",
-   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-01",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-02",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-04",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-10",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-12",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-15",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-17",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-20",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-22",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-24",
-     "p": 89.9
-    },
-    {
-     "d": "2026-11-25",
-     "p": 76.41
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-26",
-   "updated": "2026-11-26",
-   "tags": "gehause lian lancool 216 rgb atx midi tower schwarz",
    "source": "crawler"
   },
   {
@@ -5179,84 +5073,6 @@
    "seen": "2026-11-26",
    "updated": "2026-11-26",
    "tags": "kuhlung luftkuhler alphacool core cpu kuhler silber",
-   "source": "crawler"
-  },
-  {
-   "id": "c-montech-century-ii-80-plus-gold-netzteil-vollmodular-atx-3-1",
-   "name": "Montech Century II 80 PLUS Gold Netzteil, vollmodular, ATX 3.1, PCIe 5.1 - 1.050 Watt",
-   "cat": "Netzteile",
-   "price": 93.41,
-   "ref": 109.9,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/montech-century-ii-80-plus-gold-power-supply-fully-modular-atx-3.1-pcie-5.1-1-050-watts/NEMT-011-A1.html",
-   "url": "https://www.caseking.de/en/montech-century-ii-80-plus-gold-power-supply-fully-modular-atx-3.1-pcie-5.1-1-050-watts/NEMT-011-A1.html",
-   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-29",
-     "p": 109.9
-    },
-    {
-     "d": "2026-10-30",
-     "p": 109.9
-    },
-    {
-     "d": "2026-10-31",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-02",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-04",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-10",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-12",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-15",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-17",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-19",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-22",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-24",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-25",
-     "p": 93.41
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-26",
-   "updated": "2026-11-26",
-   "tags": "netzteile 1000 w+ montech century plus gold netzteil vollmodular atx pcie 050 watt",
    "source": "crawler"
   },
   {
@@ -6755,6 +6571,146 @@
    "seen": "2026-11-26",
    "updated": "2026-11-26",
    "tags": "ssds nvme 1 tb patriot p300 nvme ssd pcie typ 2280 1tb",
+   "source": "crawler"
+  },
+  {
+   "id": "c-alpenfohn-matterhorn-2-aurora-black-cpu-kuhler",
+   "name": "Alpenföhn Matterhorn 2 AURORA black, CPU-Kühler",
+   "cat": "Kühlung",
+   "price": 25.9,
+   "ref": 29.9,
+   "shop": "ALTERNATE",
+   "shopUrl": "https://www.alternate.de/Alpenf%C3%B6hn/Matterhorn-2-AURORA-black-CPU-K%C3%BChler/html/product/100201704",
+   "url": "https://www.alternate.de/Alpenf%C3%B6hn/Matterhorn-2-AURORA-black-CPU-K%C3%BChler/html/product/100201704",
+   "note": "13 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-04",
+     "p": 29.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 29.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 29.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 29.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 29.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 29.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 29.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 25.9
+    },
+    {
+     "d": "2026-11-14",
+     "p": 29.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 25.9
+    },
+    {
+     "d": "2026-11-17",
+     "p": 25.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 25.9
+    },
+    {
+     "d": "2026-11-20",
+     "p": 25.9
+    },
+    {
+     "d": "2026-11-22",
+     "p": 29.9
+    },
+    {
+     "d": "2026-11-23",
+     "p": 25.9
+    },
+    {
+     "d": "2026-11-25",
+     "p": 25.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
+   "tags": "kuhlung luftkuhler alpenfohn matterhorn aurora black cpu kuhler",
+   "source": "crawler"
+  },
+  {
+   "id": "c-arctic-liquid-freezer-iii-pro-280-aio-water-cooling-280mm-bl",
+   "name": "Arctic Liquid Freezer III Pro 280 AiO Water Cooling - 280mm, black",
+   "cat": "Kühlung",
+   "price": 64.9,
+   "ref": 74.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/arctic-liquid-freezer-iii-pro-280-aio-water-cooling-280mm-black/WASE-984.html",
+   "url": "https://www.caseking.de/en/arctic-liquid-freezer-iii-pro-280-aio-water-cooling-280mm-black/WASE-984.html",
+   "note": "13 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-06",
+     "p": 74.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 74.9
+    },
+    {
+     "d": "2026-11-10",
+     "p": 74.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 74.9
+    },
+    {
+     "d": "2026-11-14",
+     "p": 74.9
+    },
+    {
+     "d": "2026-11-17",
+     "p": 74.9
+    },
+    {
+     "d": "2026-11-19",
+     "p": 64.9
+    },
+    {
+     "d": "2026-11-21",
+     "p": 64.9
+    },
+    {
+     "d": "2026-11-24",
+     "p": 64.9
+    },
+    {
+     "d": "2026-11-26",
+     "p": 64.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
+   "tags": "kuhlung aio-wasserkuhlung arctic liquid freezer iii pro 280 aio water cooling 280mm black",
    "source": "crawler"
   }
  ],
