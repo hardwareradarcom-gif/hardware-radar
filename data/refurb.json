@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T12:06:23.246Z",
+ "updated": "2026-11-26T14:25:24.504Z",
  "products": [
   {
    "id": "r-acer-b246hylbymiprx-23-8-full-hd-1920x1080-display-hdmi-disp",
@@ -31968,6 +31968,10 @@
     {
      "d": "2026-11-23",
      "p": 439
+    },
+    {
+     "d": "2026-11-26",
+     "p": 439
     }
    ],
    "firstSeen": "2026-10-30"
@@ -60860,6 +60864,44 @@
    "firstSeen": "2026-11-12"
   },
   {
+   "id": "r-hp-prodesk-600-g6-sff-intel-core-i5-10500t-16gb-ram-512gb-ss",
+   "cat": "PCs & Workstations",
+   "name": "HP ProDesk 600 G6 SFF, Intel Core i5 10500T, 16GB RAM, 512GB SSD, Windows 11 Pro",
+   "brand": "HP",
+   "price": 569,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/hp-prodesk-600-g6-sff-intel-core-i5-10500-512gb-ssd-16gb-windows-11-pro-4",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-ProDesk-600-G6-SFF-1_abca84e9-f821-4a18-9fbc-87c45d5dbbb1.png?v=1770990556",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 569
+    }
+   ],
+   "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "r-hp-elitebook-840-g7-14-zoll-1920x1080-full-hd-intel-core-i5-",
+   "cat": "Laptops",
+   "name": "HP EliteBook 840 G7 14 Zoll 1920x1080 Full HD Intel Core i5 512GB SSD 16GB Windows 11 Pro LTE",
+   "brand": "HP",
+   "price": 569,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/hp-elitebook-840-g7-14-zoll-1920x1080-full-hd-intel-core-i5-512gb-ssd-16gb-windows-11-pro-lte",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-840-G7-10_fc85a346-0d5d-4d59-9888-80ef6501e3e7.jpg?v=1770994091",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 569
+    }
+   ],
+   "firstSeen": "2026-11-26"
+  },
+  {
    "id": "r-lenovo-thinkcentre-m80q-gen-3-tiny-intel-core-i5-12500t-8gb-",
    "cat": "PCs & Workstations",
    "name": "Lenovo ThinkCentre M80q Gen 3 Tiny, Intel Core i5 12500T, 8GB RAM, 256GB SSD, Windows 11 Pro",
@@ -69962,6 +70004,25 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "r-hp-elitebook-840-g7-14-fhd-display-intel-core-i5-10210u-16gb",
+   "cat": "Laptops",
+   "name": "HP EliteBook 840 G7, 14\" FHD Display, Intel Core i5 10210U, 16GB RAM, 512GB SSD, Webcam, LTE 4G, Windows 11 Pro, ESET Internet Security",
+   "brand": "HP",
+   "price": 629,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/hp-elitebook-840-g7-14-fhd-display-intel-core-i5-10210u-16gb-ram-512gb-ssd-lte-4g-windows-11-pro-eset-internet-security-1",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-840-G7-10_615b7832-aa28-430b-8735-fd3500428ca9.jpg?v=1770992249",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 629
+    }
+   ],
+   "firstSeen": "2026-11-26"
+  },
+  {
    "id": "r-lenovo-thinkpad-x13-yoga-gen-1-13-3-zoll-touch-display-intel",
    "cat": "Laptops",
    "name": "Lenovo ThinkPad X13 Yoga Gen 1 13,3 Zoll Touch Display Intel Core i7 1TB SSD 16GB Windows 11 Pro LTE",
@@ -70130,6 +70191,25 @@
     }
    ],
    "firstSeen": "2026-11-20"
+  },
+  {
+   "id": "r-hp-probook-450-g8-15-6-fhd-display-intel-core-i5-1135g7-16gb",
+   "cat": "Laptops",
+   "name": "HP ProBook 450 G8, 15,6\" FHD Display, Intel Core i5 1135G7, 16GB RAM, 512GB SSD, Webcam, LTE 4G, Windows 11 Pro, ESET Internet Security",
+   "brand": "HP",
+   "price": 638.99,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/hp-probook-450-g8-15-6-fhd-display-intel-core-i5-1135g7-16gb-ram-512gb-ssd-webcam-lte-4g-windows-11-pro-eset-internet-security",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-ProBook-450-G8-1.jpg?v=1775203698",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 638.99
+    }
+   ],
+   "firstSeen": "2026-11-26"
   },
   {
    "id": "r-lenovo-thinkpad-p14s-gen-2-14-zoll-1920x1080-full-hd-intel-c",
