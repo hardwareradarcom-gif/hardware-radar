@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T14:25:24.504Z",
+ "updated": "2026-11-26T16:10:12.616Z",
  "products": [
   {
    "id": "r-acer-b246hylbymiprx-23-8-full-hd-1920x1080-display-hdmi-disp",
@@ -3089,25 +3089,6 @@
    "firstSeen": "2026-11-19"
   },
   {
-   "id": "r-dell-latitude-3510-15-6-zoll-1920x1080-full-hd-intel-core-i5",
-   "cat": "Laptops",
-   "name": "Dell Latitude 3510 15,6 Zoll 1920x1080 Full HD Intel Core i5 256GB SSD 8GB Windows 11 Pro Fingerprint",
-   "brand": "Dell",
-   "price": 229,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/dell-latitude-3510-15-6-zoll-1920x1080-full-hd-intel-core-i5-256gb-ssd-8gb-windows-11-pro-fingerprint",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Latitude-3510-0_e6ee5dae-443d-4bc2-a193-23a4e3469f14.jpg?v=1770991573",
-   "hist": [
-    {
-     "d": "2026-11-23",
-     "p": 229
-    }
-   ],
-   "firstSeen": "2026-11-23"
-  },
-  {
    "id": "r-hp-prodesk-600-g4-sff-intel-pentium-gold-g5400-8gb-ram-256gb",
    "cat": "PCs & Workstations",
    "name": "HP ProDesk 600 G4 SFF, Intel Pentium Gold G5400, 8GB RAM, 256GB SSD, DVD-RW, Windows 11 Pro",
@@ -4028,121 +4009,6 @@
     },
     {
      "d": "2026-11-26",
-     "p": 289
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-hp-prodesk-600-g4-desktop-mini-intel-core-i5-8500t-256gb-ssd",
-   "cat": "PCs & Workstations",
-   "name": "HP ProDesk 600 G4 Desktop Mini Intel Core i5-8500T 256GB SSD 8GB Windows 11 Pro",
-   "brand": "HP",
-   "price": 289,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/hp-prodesk-600-g4-desktop-mini-intel-core-i5-8500t-256gb-ssd-8gb-windows-11-pro-4",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-ProDesk-600-G4-DM-0_3b5a1630-bd67-4754-9ea2-52116968f371.jpg?v=1741647835",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 289
-    },
-    {
-     "d": "2026-10-31",
-     "p": 289
-    },
-    {
-     "d": "2026-11-01",
-     "p": 289
-    },
-    {
-     "d": "2026-11-02",
-     "p": 289
-    },
-    {
-     "d": "2026-11-03",
-     "p": 289
-    },
-    {
-     "d": "2026-11-04",
-     "p": 289
-    },
-    {
-     "d": "2026-11-05",
-     "p": 289
-    },
-    {
-     "d": "2026-11-06",
-     "p": 289
-    },
-    {
-     "d": "2026-11-07",
-     "p": 289
-    },
-    {
-     "d": "2026-11-08",
-     "p": 289
-    },
-    {
-     "d": "2026-11-09",
-     "p": 289
-    },
-    {
-     "d": "2026-11-10",
-     "p": 289
-    },
-    {
-     "d": "2026-11-11",
-     "p": 289
-    },
-    {
-     "d": "2026-11-12",
-     "p": 289
-    },
-    {
-     "d": "2026-11-13",
-     "p": 289
-    },
-    {
-     "d": "2026-11-14",
-     "p": 289
-    },
-    {
-     "d": "2026-11-15",
-     "p": 289
-    },
-    {
-     "d": "2026-11-16",
-     "p": 289
-    },
-    {
-     "d": "2026-11-17",
-     "p": 289
-    },
-    {
-     "d": "2026-11-18",
-     "p": 289
-    },
-    {
-     "d": "2026-11-19",
-     "p": 289
-    },
-    {
-     "d": "2026-11-20",
-     "p": 289
-    },
-    {
-     "d": "2026-11-21",
-     "p": 289
-    },
-    {
-     "d": "2026-11-22",
-     "p": 289
-    },
-    {
-     "d": "2026-11-23",
      "p": 289
     }
    ],
@@ -10799,6 +10665,61 @@
     }
    ],
    "firstSeen": "2026-11-02"
+  },
+  {
+   "id": "r-dell-optiplex-3080-tower-intel-core-i5-10500-8gb-ram-256gb-s",
+   "cat": "PCs & Workstations",
+   "name": "Dell OptiPlex 3080 Tower, Intel Core i5 10500, 8GB RAM, 256GB SSD, Windows 11 Pro, ESET Internet Security",
+   "brand": "Dell",
+   "price": 339,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/dell-optiplex-3080-tower-intel-core-i5-10500-8gb-ram-256gb-ssd-windows-11-pro-eset-internet-security",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-OptiPlex-3080-MT-1.png?v=1770990732",
+   "hist": [
+    {
+     "d": "2026-11-10",
+     "p": 339
+    },
+    {
+     "d": "2026-11-11",
+     "p": 339
+    },
+    {
+     "d": "2026-11-12",
+     "p": 339
+    },
+    {
+     "d": "2026-11-13",
+     "p": 339
+    },
+    {
+     "d": "2026-11-14",
+     "p": 339
+    },
+    {
+     "d": "2026-11-15",
+     "p": 339
+    },
+    {
+     "d": "2026-11-16",
+     "p": 339
+    },
+    {
+     "d": "2026-11-17",
+     "p": 339
+    },
+    {
+     "d": "2026-11-18",
+     "p": 339
+    },
+    {
+     "d": "2026-11-26",
+     "p": 339
+    }
+   ],
+   "firstSeen": "2026-11-10"
   },
   {
    "id": "r-hp-elitedesk-800-g5-desktop-mini-intel-core-i5-9500-8gb-ram-",
@@ -23489,6 +23410,10 @@
     {
      "d": "2026-11-24",
      "p": 399
+    },
+    {
+     "d": "2026-11-26",
+     "p": 399
     }
    ],
    "firstSeen": "2026-10-30"
@@ -30866,6 +30791,25 @@
    "firstSeen": "2026-11-25"
   },
   {
+   "id": "r-dell-latitude-5510-15-6-zoll-1920x1080-full-hd-intel-core-i5",
+   "cat": "Laptops",
+   "name": "Dell Latitude 5510 15,6 Zoll 1920x1080 Full HD Intel Core i5 512GB SSD 16GB Windows 11 Pro Webcam",
+   "brand": "Dell",
+   "price": 429,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/dell-latitude-5510-15-6-zoll-1920x1080-full-hd-intel-core-i5-512gb-ssd-16gb-windows-11-pro-webcam-5",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Latitude-5510-1.png?v=1770990557",
+   "hist": [
+    {
+     "d": "2026-11-26",
+     "p": 429
+    }
+   ],
+   "firstSeen": "2026-11-26"
+  },
+  {
    "id": "r-lenovo-thinkpad-x13-yoga-gen-1-13-3-zoll-touch-display-intel",
    "cat": "Laptops",
    "name": "Lenovo ThinkPad X13 Yoga Gen 1 13,3 Zoll Touch Display Intel Core i5 256GB SSD 16GB Windows 11 Pro LTE",
@@ -33299,121 +33243,6 @@
     },
     {
      "d": "2026-11-26",
-     "p": 449
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-hp-probook-650-g8-15-6-zoll-1920x1080-full-hd-intel-core-i5-",
-   "cat": "Laptops",
-   "name": "HP ProBook 650 G8 15,6 Zoll 1920x1080 Full HD Intel Core i5 512GB SSD 16GB Windows 11 Pro Fingerprint",
-   "brand": "HP",
-   "price": 449,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/hp-probook-650-g8-15-6-zoll-1920x1080-full-hd-intel-core-i5-512gb-ssd-16gb-windows-11-pro-fingerprint-2",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-ProBook-650-G8-1_0367d6e4-d2a9-428f-a898-6acbc1d2ea13.png?v=1770990553",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 488.99
-    },
-    {
-     "d": "2026-10-31",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-01",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-02",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-03",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-04",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-05",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-06",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-07",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-08",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-09",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-10",
-     "p": 449
-    },
-    {
-     "d": "2026-11-11",
-     "p": 449
-    },
-    {
-     "d": "2026-11-12",
-     "p": 449
-    },
-    {
-     "d": "2026-11-13",
-     "p": 449
-    },
-    {
-     "d": "2026-11-14",
-     "p": 449
-    },
-    {
-     "d": "2026-11-15",
-     "p": 449
-    },
-    {
-     "d": "2026-11-16",
-     "p": 449
-    },
-    {
-     "d": "2026-11-17",
-     "p": 449
-    },
-    {
-     "d": "2026-11-18",
-     "p": 449
-    },
-    {
-     "d": "2026-11-19",
-     "p": 449
-    },
-    {
-     "d": "2026-11-20",
-     "p": 449
-    },
-    {
-     "d": "2026-11-21",
-     "p": 449
-    },
-    {
-     "d": "2026-11-22",
-     "p": 449
-    },
-    {
-     "d": "2026-11-23",
      "p": 449
     }
    ],
