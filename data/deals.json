@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T20:10:12.354Z",
+ "updated": "2026-11-26T21:59:39.837Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1161,6 +1161,10 @@
     {
      "d": "2026-11-24",
      "p": 39.9
+    },
+    {
+     "d": "2026-11-26",
+     "p": 39.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -2138,6 +2142,80 @@
    "source": "crawler"
   },
   {
+   "id": "c-lenovo-legion-r27s-27-full-hd-ips-gaming-monitor-144-hz-schw",
+   "name": "Lenovo Legion R27s 27\" Full HD IPS Gaming-Monitor 144 Hz Schwarz",
+   "cat": "Monitore",
+   "price": 96,
+   "ref": 127.27,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/lenovo-legion-r27s-27-full-hd-ips-gaming-monitor-144-hz-schwarz-100701343/",
+   "url": "https://www.jacob.de/produkt/lenovo-legion-r27s-27-full-hd-ips-gaming-monitor-144-hz-schwarz-100701343/",
+   "note": "25 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 127.27
+    },
+    {
+     "d": "2026-10-31",
+     "p": 127.27
+    },
+    {
+     "d": "2026-11-01",
+     "p": 127.27
+    },
+    {
+     "d": "2026-11-02",
+     "p": 127.27
+    },
+    {
+     "d": "2026-11-03",
+     "p": 127.27
+    },
+    {
+     "d": "2026-11-05",
+     "p": 149.35
+    },
+    {
+     "d": "2026-11-08",
+     "p": 111.88
+    },
+    {
+     "d": "2026-11-10",
+     "p": 111.88
+    },
+    {
+     "d": "2026-11-13",
+     "p": 97.81
+    },
+    {
+     "d": "2026-11-15",
+     "p": 127.27
+    },
+    {
+     "d": "2026-11-18",
+     "p": 127.27
+    },
+    {
+     "d": "2026-11-21",
+     "p": 127.27
+    },
+    {
+     "d": "2026-11-23",
+     "p": 127.27
+    },
+    {
+     "d": "2026-11-26",
+     "p": 96
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
+   "tags": "monitore 27\" lenovo legion r27s full ips gaming monitor 144 schwarz",
+   "source": "crawler"
+  },
+  {
    "id": "c-gigabyte-g27q3-ek-27-zoll-qhd-gaming-monitor-320hz-ss-ips-fr",
    "name": "GIGABYTE G27Q3 EK, 27 Zoll QHD Gaming Monitor, 320Hz, SS IPS, FreeSync Premium",
    "cat": "Monitore",
@@ -2941,80 +3019,6 @@
    "seen": "2026-11-26",
    "updated": "2026-11-26",
    "tags": "gehause jonsbo midi tower tempered glass weiss",
-   "source": "crawler"
-  },
-  {
-   "id": "c-western-digital-blue-sa510-m-2-ssd-sata-6g-1-tb",
-   "name": "Western Digital Blue SA510 M.2 SSD, SATA 6G - 1 TB",
-   "cat": "SSDs",
-   "price": 159.92,
-   "ref": 199.91,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/western-digital-blue-sa510-m.2-ssd-sata-6g-1-tb/SSWD-068-B1.html",
-   "url": "https://www.caseking.de/en/western-digital-blue-sa510-m.2-ssd-sata-6g-1-tb/SSWD-068-B1.html",
-   "note": "20 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 199.91
-    },
-    {
-     "d": "2026-10-31",
-     "p": 199.91
-    },
-    {
-     "d": "2026-11-02",
-     "p": 199.91
-    },
-    {
-     "d": "2026-11-04",
-     "p": 199.91
-    },
-    {
-     "d": "2026-11-06",
-     "p": 199.91
-    },
-    {
-     "d": "2026-11-08",
-     "p": 199.91
-    },
-    {
-     "d": "2026-11-10",
-     "p": 199.91
-    },
-    {
-     "d": "2026-11-12",
-     "p": 199.91
-    },
-    {
-     "d": "2026-11-15",
-     "p": 199.91
-    },
-    {
-     "d": "2026-11-17",
-     "p": 199.91
-    },
-    {
-     "d": "2026-11-20",
-     "p": 199.91
-    },
-    {
-     "d": "2026-11-22",
-     "p": 199.91
-    },
-    {
-     "d": "2026-11-24",
-     "p": 199.91
-    },
-    {
-     "d": "2026-11-25",
-     "p": 159.92
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-26",
-   "updated": "2026-11-26",
-   "tags": "ssds sata 1 tb western digital blue sa510 ssd sata",
    "source": "crawler"
   },
   {
