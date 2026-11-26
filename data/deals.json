@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-26T16:10:12.616Z",
+ "updated": "2026-11-26T17:29:33.184Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -2525,40 +2525,6 @@
    "seen": "2026-11-26",
    "updated": "2026-11-26",
    "tags": "netzteile seasonic core 850 atx3 netzteil",
-   "source": "crawler"
-  },
-  {
-   "id": "c-noctua-secufirm2-nm-i17xx-mp83-upgrade-kit-fur-prozessorkuhl",
-   "name": "Noctua SecuFirm2 NM-i17xx-MP83 Upgrade-Kit für Prozessorkühler (LGA1700) Silber",
-   "cat": "Kühlung",
-   "price": 17.64,
-   "ref": 22.41,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/noctua-secufirm2-nm-i17xx-mp83-upgrade-kit-fuer-prozessorkuehler-lga1700-silber-7509962/",
-   "url": "https://www.jacob.de/produkt/noctua-secufirm2-nm-i17xx-mp83-upgrade-kit-fuer-prozessorkuehler-lga1700-silber-7509962/",
-   "note": "21 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-15",
-     "p": 23.61
-    },
-    {
-     "d": "2026-11-17",
-     "p": 22.41
-    },
-    {
-     "d": "2026-11-20",
-     "p": 22.41
-    },
-    {
-     "d": "2026-11-23",
-     "p": 17.64
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-26",
-   "updated": "2026-11-26",
-   "tags": "kuhlung luftkuhler noctua secufirm2 i17xx mp83 upgrade kit fur prozessorkuhler lga1700 silber",
    "source": "crawler"
   },
   {
@@ -6715,6 +6681,80 @@
    "seen": "2026-11-26",
    "updated": "2026-11-26",
    "tags": "gehause jonsplus bo400cg midi tower atx tempered glass gunmetal grey",
+   "source": "crawler"
+  },
+  {
+   "id": "c-patriot-p300-nvme-ssd-pcie-3-0-m-2-typ-2280-1tb",
+   "name": "Patriot P300 NVMe SSD, PCIe 3.0. M.2 Typ 2280 - 1TB",
+   "cat": "SSDs",
+   "price": 129.9,
+   "ref": 150.39,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/patriot-p300-nvme-ssd-pcie-3.0.-m.2-type-2280-1tb/SSPM-031.html",
+   "url": "https://www.caseking.de/en/patriot-p300-nvme-ssd-pcie-3.0.-m.2-type-2280-1tb/SSPM-031.html",
+   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 150.39
+    },
+    {
+     "d": "2026-10-31",
+     "p": 150.39
+    },
+    {
+     "d": "2026-11-02",
+     "p": 150.39
+    },
+    {
+     "d": "2026-11-04",
+     "p": 150.39
+    },
+    {
+     "d": "2026-11-05",
+     "p": 150.39
+    },
+    {
+     "d": "2026-11-07",
+     "p": 150.39
+    },
+    {
+     "d": "2026-11-09",
+     "p": 150.39
+    },
+    {
+     "d": "2026-11-12",
+     "p": 150.39
+    },
+    {
+     "d": "2026-11-14",
+     "p": 150.39
+    },
+    {
+     "d": "2026-11-16",
+     "p": 150.39
+    },
+    {
+     "d": "2026-11-19",
+     "p": 129.9
+    },
+    {
+     "d": "2026-11-21",
+     "p": 129.9
+    },
+    {
+     "d": "2026-11-23",
+     "p": 129.9
+    },
+    {
+     "d": "2026-11-26",
+     "p": 129.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-26",
+   "updated": "2026-11-26",
+   "tags": "ssds nvme 1 tb patriot p300 nvme ssd pcie typ 2280 1tb",
    "source": "crawler"
   }
  ],
