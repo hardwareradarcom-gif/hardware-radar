@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T16:08:41.378Z",
+ "updated": "2026-11-27T17:30:32.910Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -22788,47 +22788,6 @@
    "firstSeen": "2026-11-05"
   },
   {
-   "id": "c-ubiquiti-unifi-uacc-ssd-tray-m-2-ssd-tray-fur-cloud-gateway-",
-   "cat": "SSDs",
-   "sub": "NVMe",
-   "name": "Ubiquiti UniFi UACC-SSD-Tray M.2 SSD-Tray für Cloud Gateway Max Grau, Weiß",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/ubiquiti-unifi-uacc-ssd-tray-m-2-ssd-tray-fuer-cloud-gateway-max-grau-weiss-100536408/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 27.02,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/ubiquiti-unifi-uacc-ssd-tray-m-2-ssd-tray-fuer-cloud-gateway-max-grau-weiss-100536408/"
-    }
-   ],
-   "price": 27.02,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-16",
-     "p": 26.69
-    },
-    {
-     "d": "2026-11-18",
-     "p": 27.02
-    },
-    {
-     "d": "2026-11-21",
-     "p": 27.02
-    },
-    {
-     "d": "2026-11-24",
-     "p": 27.02
-    }
-   ],
-   "count": 1,
-   "tags": "ssds nvme ubiquiti unifi uacc ssd tray fur cloud gateway max grau weiss",
-   "firstSeen": "2026-11-16"
-  },
-  {
    "id": "c-thermaltake-nic-l32-cpu-luftkuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -25545,6 +25504,35 @@
    "firstSeen": "2026-11-03"
   },
   {
+   "id": "c-inter-tech-b-30-midi-tower-atx-schwarz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Inter-Tech B-30 Midi Tower ATX Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/inter-tech-b-30-midi-tower-atx-schwarz-4593229/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 32.71,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/inter-tech-b-30-midi-tower-atx-schwarz-4593229/"
+    }
+   ],
+   "price": 32.71,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 32.71
+    }
+   ],
+   "count": 1,
+   "tags": "gehause inter tech midi tower atx schwarz",
+   "firstSeen": "2026-11-27"
+  },
+  {
    "id": "c-akasa-ak-955a-bv2-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -28251,6 +28239,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler thermaltake astria 200 argb lighting cpu cooler kuhler",
    "firstSeen": "2026-11-03"
+  },
+  {
+   "id": "c-inter-tech-it-2815-linear-midi-tower-schwarz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Inter-Tech IT-2815 Linear Midi-Tower Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/inter-tech-it-2815-linear-midi-tower-schwarz-100489049/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 35.9,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/inter-tech-it-2815-linear-midi-tower-schwarz-100489049/"
+    }
+   ],
+   "price": 35.9,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 35.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause inter tech 2815 linear midi tower schwarz",
+   "firstSeen": "2026-11-27"
   },
   {
    "id": "c-xilence-cryon-m806d-b-cpu-kuhler-multisocket-12-cm-schwarz",
@@ -34440,6 +34457,64 @@
    "firstSeen": "2026-11-26"
   },
   {
+   "id": "c-lc-power-classic-7038b-midi-tower-schwarz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "LC-Power Classic 7038B Midi-Tower Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/lc-power-classic-7038b-midi-tower-schwarz-3989976/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 45.32,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/lc-power-classic-7038b-midi-tower-schwarz-3989976/"
+    }
+   ],
+   "price": 45.32,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 45.32
+    }
+   ],
+   "count": 1,
+   "tags": "gehause power classic 7038b midi tower schwarz",
+   "firstSeen": "2026-11-27"
+  },
+  {
+   "id": "c-lc-power-lc-power-gaming-802b-black-wanderer-x-midi-tower-ar",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "LC-Power LC Power Gaming 802B - Black_Wanderer_X Midi-Tower ARGB Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/lc-power-lc-power-gaming-802b-black-wanderer-x-midi-tower-argb-schwarz-100018375/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 45.74,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/lc-power-lc-power-gaming-802b-black-wanderer-x-midi-tower-argb-schwarz-100018375/"
+    }
+   ],
+   "price": 45.74,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 45.74
+    }
+   ],
+   "count": 1,
+   "tags": "gehause power gaming 802b black wanderer midi tower argb schwarz",
+   "firstSeen": "2026-11-27"
+  },
+  {
    "id": "c-silentware-titan-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -35337,6 +35412,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-aerocool-pgs-v-series-cylon-midi-tower-atx-weiss",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Aerocool PGS V Series Cylon Midi Tower ATX Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/aerocool-pgs-v-series-cylon-midi-tower-atx-weiss-4226492/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 48.35,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/aerocool-pgs-v-series-cylon-midi-tower-atx-weiss-4226492/"
+    }
+   ],
+   "price": 48.35,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 48.35
+    }
+   ],
+   "count": 1,
+   "tags": "gehause aerocool pgs series cylon midi tower atx weiss",
+   "firstSeen": "2026-11-27"
+  },
+  {
    "id": "c-thermalright-axp120-x67-low-profile-cpu-kuhler-120mm-argb-we",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -35559,6 +35663,64 @@
    "count": 1,
    "tags": "kuhlung luftkuhler silverstone sst ar09 am4 cpu kuhler 1200 5000 rpm schwarz",
    "firstSeen": "2026-11-15"
+  },
+  {
+   "id": "c-aerocool-rift-midi-tower-schwarz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Aerocool Rift Midi Tower Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/aerocool-rift-midi-tower-schwarz-4469163/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 49.18,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/aerocool-rift-midi-tower-schwarz-4469163/"
+    }
+   ],
+   "price": 49.18,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 49.18
+    }
+   ],
+   "count": 1,
+   "tags": "gehause aerocool rift midi tower schwarz",
+   "firstSeen": "2026-11-27"
+  },
+  {
+   "id": "c-xpg-valor-air-midi-tower-atx-gehause-schwarz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "XPG VALOR AIR Midi Tower ATX Gehäuse Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/xpg-valor-air-midi-tower-atx-gehaeuse-schwarz-8250917/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 49.25,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/xpg-valor-air-midi-tower-atx-gehaeuse-schwarz-8250917/"
+    }
+   ],
+   "price": 49.25,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 49.25
+    }
+   ],
+   "count": 1,
+   "tags": "gehause xpg valor air midi tower atx schwarz",
+   "firstSeen": "2026-11-27"
   },
   {
    "id": "c-jonsbo-ca90-dual-tower-cpu-kuhler-argb-6-heatpipes-270w-tdp-",
@@ -38949,6 +39111,35 @@
    "firstSeen": "2026-11-02"
   },
   {
+   "id": "c-sharkoon-vs8-midi-tower-schwarz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Sharkoon VS8 Midi Tower Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/sharkoon-vs8-midi-tower-schwarz-100021833/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 52.93,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/sharkoon-vs8-midi-tower-schwarz-100021833/"
+    }
+   ],
+   "price": 52.93,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 52.93
+    }
+   ],
+   "count": 1,
+   "tags": "gehause sharkoon vs8 midi tower schwarz",
+   "firstSeen": "2026-11-27"
+  },
+  {
    "id": "c-xilence-gaming-bronze-series-xp650r10-pc-netzteil-650-w-80-p",
    "cat": "Netzteile",
    "sub": "650 W",
@@ -40261,6 +40452,35 @@
    "firstSeen": "2026-11-01"
   },
   {
+   "id": "c-xpg-valor-midi-tower-weiss",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "XPG VALOR Midi-Tower Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/xpg-valor-midi-tower-weiss-100001046/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 56.06,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/xpg-valor-midi-tower-weiss-100001046/"
+    }
+   ],
+   "price": 56.06,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 48.64
+    }
+   ],
+   "count": 1,
+   "tags": "gehause xpg valor midi tower weiss",
+   "firstSeen": "2026-11-27"
+  },
+  {
    "id": "c-thermalright-peerless-assassin-140-prozessor-luftkuhler-dual",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -40626,6 +40846,35 @@
    "count": 1,
    "tags": "ssds sata delock 47189 laufwerksschachtadapter fur hdd ssd schwarz",
    "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "c-lc-power-lc-gaming-lc-7041b-on-midi-tower-atx-weiss",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "LC-Power LC Gaming LC-7041B-ON Midi Tower ATX Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/lc-power-lc-gaming-lc-7041b-on-midi-tower-atx-weiss-100138971/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 58.83,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/lc-power-lc-gaming-lc-7041b-on-midi-tower-atx-weiss-100138971/"
+    }
+   ],
+   "price": 58.83,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 58.83
+    }
+   ],
+   "count": 1,
+   "tags": "gehause power gaming 7041b midi tower atx weiss",
+   "firstSeen": "2026-11-27"
   },
   {
    "id": "c-alphacool-eisblock-xpx-aurora-edge-acryl-black-cpu-kuhler",
@@ -43343,6 +43592,35 @@
    "firstSeen": "2026-11-04"
   },
   {
+   "id": "c-inter-tech-x2-duplex-pro-midi-tower-atx-schwarz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Inter-Tech X2 Duplex Pro Midi-Tower ATX Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/inter-tech-x2-duplex-pro-midi-tower-atx-schwarz-100294067/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 60.06,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/inter-tech-x2-duplex-pro-midi-tower-atx-schwarz-100294067/"
+    }
+   ],
+   "price": 60.06,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 60.06
+    }
+   ],
+   "count": 1,
+   "tags": "gehause inter tech duplex pro midi tower atx schwarz",
+   "firstSeen": "2026-11-27"
+  },
+  {
    "id": "c-asus-prime-a520m-r-mainboard-a520-chipsatz-sockel-am4-ddr4",
    "cat": "Mainboards",
    "sub": "AM4 A520",
@@ -43472,6 +43750,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler thermalright peerless assassin 140 prozessor weiss",
    "firstSeen": "2026-11-15"
+  },
+  {
+   "id": "c-thermaltake-versa-j25-tg-rgb-midi-tower-atx-schwarz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Thermaltake Versa J25 TG RGB Midi Tower ATX Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/thermaltake-versa-j25-tg-rgb-midi-tower-atx-schwarz-4405514/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 62.43,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/thermaltake-versa-j25-tg-rgb-midi-tower-atx-schwarz-4405514/"
+    }
+   ],
+   "price": 62.43,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 62.43
+    }
+   ],
+   "count": 1,
+   "tags": "gehause thermaltake versa j25 rgb midi tower atx schwarz",
+   "firstSeen": "2026-11-27"
   },
   {
    "id": "c-sapphire-pulse-a520m-e-mainboard-sockel-am4-amd-a520-matx-dd",
@@ -43739,6 +44046,35 @@
    "count": 1,
    "tags": "kuhlung luftkuhler deepcool ak620 cpu kuhler",
    "firstSeen": "2026-11-01"
+  },
+  {
+   "id": "c-chieftec-mesh-series-cg-04b-op-midi-tower-schwarz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Chieftec Mesh Series CG-04B-OP Midi Tower Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/chieftec-mesh-series-cg-04b-op-midi-tower-schwarz-4784580/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 63.46,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/chieftec-mesh-series-cg-04b-op-midi-tower-schwarz-4784580/"
+    }
+   ],
+   "price": 63.46,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 63.46
+    }
+   ],
+   "count": 1,
+   "tags": "gehause chieftec mesh series 04b midi tower schwarz",
+   "firstSeen": "2026-11-27"
   },
   {
    "id": "c-supermicro-snk-p0082p-cpu-kuhler",
@@ -48191,6 +48527,35 @@
    "firstSeen": "2026-11-26"
   },
   {
+   "id": "c-fsp-u530-bs-big-tower-gehause",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "FSP U530-BS, Big-Tower-Gehäuse",
+   "source": "crawler",
+   "url": "https://www.alternate.de/FSP/U530-BS-Big-Tower-Geh%C3%A4use/html/product/100184100",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 69.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/FSP/U530-BS-Big-Tower-Geh%C3%A4use/html/product/100184100"
+    }
+   ],
+   "price": 69.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 69.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause fsp u530 big tower",
+   "firstSeen": "2026-11-27"
+  },
+  {
    "id": "c-ugreen-es-ugreen-caja-ssd-m-2-nvme-40gbps",
    "cat": "SSDs",
    "sub": "NVMe",
@@ -48468,6 +48833,35 @@
    "firstSeen": "2026-11-21"
   },
   {
+   "id": "c-msi-mag-forge-100r-midi-tower-atx-gaming-gehause-schwarz-tra",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "MSI MAG Forge 100R Midi Tower ATX Gaming-Gehäuse Schwarz, Transparent",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/msi-mag-forge-100r-midi-tower-atx-gaming-gehaeuse-schwarz-transparent-6082991/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 70.9,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/msi-mag-forge-100r-midi-tower-atx-gaming-gehaeuse-schwarz-transparent-6082991/"
+    }
+   ],
+   "price": 70.9,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 70.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause msi mag forge 100r midi tower atx gaming schwarz transparent",
+   "firstSeen": "2026-11-27"
+  },
+  {
    "id": "c-msi-spatium-s270-sata-ssd-240-gb-2-5",
    "cat": "SSDs",
    "sub": "SATA 240 GB",
@@ -48584,83 +48978,6 @@
    "count": 1,
    "tags": "prozessoren intel core 10100f ghz kerne cache lga 1200 tray",
    "firstSeen": "2026-11-18"
-  },
-  {
-   "id": "c-gigabyte-v2-256-gb-ssd-m-2-2280-pcie-3-0-x4-nvme",
-   "cat": "SSDs",
-   "sub": "NVMe 256 GB",
-   "name": "Gigabyte V2 256 GB SSD M.2 2280 PCIe 3.0 x4 NVMe",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/gigabyte-v2-256-gb-ssd-m-2-2280-pcie-3-0-x4-nvme-100675177/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 71.1,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/gigabyte-v2-256-gb-ssd-m-2-2280-pcie-3-0-x4-nvme-100675177/"
-    }
-   ],
-   "price": 71.1,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 69.64
-    },
-    {
-     "d": "2026-10-31",
-     "p": 69.64
-    },
-    {
-     "d": "2026-11-01",
-     "p": 69.64
-    },
-    {
-     "d": "2026-11-02",
-     "p": 69.64
-    },
-    {
-     "d": "2026-11-03",
-     "p": 66.18
-    },
-    {
-     "d": "2026-11-06",
-     "p": 69.28
-    },
-    {
-     "d": "2026-11-08",
-     "p": 69.28
-    },
-    {
-     "d": "2026-11-11",
-     "p": 69.45
-    },
-    {
-     "d": "2026-11-13",
-     "p": 69.86
-    },
-    {
-     "d": "2026-11-15",
-     "p": 70.1
-    },
-    {
-     "d": "2026-11-18",
-     "p": 70.44
-    },
-    {
-     "d": "2026-11-21",
-     "p": 70.63
-    },
-    {
-     "d": "2026-11-24",
-     "p": 71.1
-    }
-   ],
-   "count": 1,
-   "tags": "ssds nvme 256 gb gigabyte 256 ssd 2280 pcie nvme",
-   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-dell-nfx6t-pc-server-netzteil-80-plus-bronze",
@@ -52102,6 +52419,35 @@
    "firstSeen": "2026-11-13"
   },
   {
+   "id": "c-genesis-irid-505f-midi-tower-sichtfenster-schwarz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Genesis Irid 505F Midi Tower Sichtfenster Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/genesis-irid-505f-midi-tower-sichtfenster-schwarz-100246917/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 79.17,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/genesis-irid-505f-midi-tower-sichtfenster-schwarz-100246917/"
+    }
+   ],
+   "price": 79.17,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 79.17
+    }
+   ],
+   "count": 1,
+   "tags": "gehause genesis irid 505f midi tower sichtfenster schwarz",
+   "firstSeen": "2026-11-27"
+  },
+  {
    "id": "c-asus-prime-h610m-r-d4-mainboard-lga-1700-h610-ddr4-micro-atx",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 H610",
@@ -54081,6 +54427,35 @@
    "firstSeen": "2026-11-22"
   },
   {
+   "id": "c-phanteks-xt-pro-ultra-midi-tower-tempered-glass-d-rgb-mattes",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Phanteks XT Pro Ultra Midi-Tower Tempered Glass D-RGB Mattes Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/phanteks-xt-pro-ultra-midi-tower-tempered-glass-d-rgb-mattes-weiss-100455410/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 80.54,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/phanteks-xt-pro-ultra-midi-tower-tempered-glass-d-rgb-mattes-weiss-100455410/"
+    }
+   ],
+   "price": 80.54,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 80.54
+    }
+   ],
+   "count": 1,
+   "tags": "gehause phanteks pro ultra midi tower tempered glass rgb mattes weiss",
+   "firstSeen": "2026-11-27"
+  },
+  {
    "id": "c-lian-li-edge-gold-850-80-plus-gold-netzteil-pcie-5-1-atx-3-1",
    "cat": "Netzteile",
    "sub": "850 W",
@@ -54954,6 +55329,35 @@
    "count": 1,
    "tags": "monitore 23,8\" koorui e2411h ips monitor 1920 1080 120 schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-nzxt-h-series-h6-flow-midi-tower-weiss",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "NZXT H series H6 Flow Midi-Tower Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/nzxt-h-series-h6-flow-midi-tower-weiss-100282683/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 83.41,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/nzxt-h-series-h6-flow-midi-tower-weiss-100282683/"
+    }
+   ],
+   "price": 83.41,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 83.41
+    }
+   ],
+   "count": 1,
+   "tags": "gehause nzxt series flow midi tower weiss",
+   "firstSeen": "2026-11-27"
   },
   {
    "id": "c-inter-tech-a-19-prozessor-luftkuhler-am4-80-mm-aluminium-sch",
@@ -56672,6 +57076,64 @@
    "firstSeen": "2026-11-26"
   },
   {
+   "id": "c-be-quiet-pure-base-600-window-midi-tower-schwarz-orange",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "be quiet! Pure Base 600 Window Midi-Tower Schwarz, Orange",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/be-quiet-pure-base-600-window-midi-tower-schwarz-orange-3625023/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 87.43,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/be-quiet-pure-base-600-window-midi-tower-schwarz-orange-3625023/"
+    }
+   ],
+   "price": 87.43,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 87.43
+    }
+   ],
+   "count": 1,
+   "tags": "gehause quiet pure base 600 window midi tower schwarz orange",
+   "firstSeen": "2026-11-27"
+  },
+  {
+   "id": "c-msi-mag-forge-321r-airflow-midi-tower-systemgehause-schwarz-",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "MSI MAG FORGE 321R AIRFLOW Midi Tower Systemgehäuse Schwarz, Transparent",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/msi-mag-forge-321r-airflow-midi-tower-systemgehaeuse-schwarz-transparent-100546854/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 87.6,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/msi-mag-forge-321r-airflow-midi-tower-systemgehaeuse-schwarz-transparent-100546854/"
+    }
+   ],
+   "price": 87.6,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 87.6
+    }
+   ],
+   "count": 1,
+   "tags": "gehause msi mag forge 321r airflow midi tower systemgehause schwarz transparent",
+   "firstSeen": "2026-11-27"
+  },
+  {
    "id": "c-silverstone-sst-st45sf-v3-0-80-plus-bronze-sfx-netzteil-450-",
    "cat": "Netzteile",
    "sub": "SFX",
@@ -57041,6 +57503,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-antec-cx800-argb-midi-tower-schwarz-holz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Antec CX800 ARGB Midi-Tower Schwarz, Holz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/antec-cx800-argb-midi-tower-schwarz-holz-100531243/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 88.24,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/antec-cx800-argb-midi-tower-schwarz-holz-100531243/"
+    }
+   ],
+   "price": 88.24,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 88.24
+    }
+   ],
+   "count": 1,
+   "tags": "gehause antec cx800 argb midi tower schwarz holz",
+   "firstSeen": "2026-11-27"
+  },
+  {
    "id": "c-acer-ka2-ka272p0bi-27-full-hd-gaming-monitor-144-hz-va-panel",
    "cat": "Monitore",
    "sub": "27\"",
@@ -57157,6 +57648,35 @@
    "count": 1,
    "tags": "ssds sata 512 gb verbatim vi560 ssd 512 2280 sata 6gb intern",
    "firstSeen": "2026-11-20"
+  },
+  {
+   "id": "c-jonsbo-u4-pro-mesh-midi-tower-weiss",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Jonsbo U4 PRO Mesh Midi-Tower Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/jonsbo-u4-pro-mesh-midi-tower-weiss-100293816/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 88.98,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/jonsbo-u4-pro-mesh-midi-tower-weiss-100293816/"
+    }
+   ],
+   "price": 88.98,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 88.98
+    }
+   ],
+   "count": 1,
+   "tags": "gehause jonsbo pro mesh midi tower weiss",
+   "firstSeen": "2026-11-27"
   },
   {
    "id": "c-itx-all-in-one-wasserkuhlung-th280-v2-argb-sync-cpu-liquid-c",
@@ -59687,6 +60207,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-fractal-design-meshify-c-midi-tower-schwarz-xoqfc",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Fractal Design Meshify C Midi-Tower Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/fractal-design-meshify-c-midi-tower-schwarz-3883564/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 91.7,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/fractal-design-meshify-c-midi-tower-schwarz-3883564/"
+    }
+   ],
+   "price": 91.7,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 91.7
+    }
+   ],
+   "count": 1,
+   "tags": "gehause fractal design meshify midi tower schwarz",
+   "firstSeen": "2026-11-27"
+  },
+  {
    "id": "c-silverstone-sst-tx500-g-tfx-netzteil-80-plus-gold-500-watt",
    "cat": "Netzteile",
    "sub": "bis 600 W",
@@ -60538,6 +61087,35 @@
    "firstSeen": "2026-11-08"
   },
   {
+   "id": "c-cougar-duoface-pro-rgb-gaming-midi-tower-gehause-atx-eatx-us",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Cougar Duoface Pro RGB Gaming Midi Tower Gehäuse ATX EATX USB-C 3.2 Gen 2 Gehärtetes Glas Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/cougar-duoface-pro-rgb-gaming-midi-tower-gehaeuse-atx-eatx-usb-c-3-2-gen-2-gehaertetes-glas-weiss-100062585/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 93.57,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/cougar-duoface-pro-rgb-gaming-midi-tower-gehaeuse-atx-eatx-usb-c-3-2-gen-2-gehaertetes-glas-weiss-100062585/"
+    }
+   ],
+   "price": 93.57,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 93.57
+    }
+   ],
+   "count": 1,
+   "tags": "gehause cougar duoface pro rgb gaming midi tower atx eatx usb gen gehartetes glas weiss",
+   "firstSeen": "2026-11-27"
+  },
+  {
    "id": "c-viewsonic-va2432-h-2-24-ips-monitor-full-hd-100-hz-1-ms-schw",
    "cat": "Monitore",
    "sub": "24\"",
@@ -61316,6 +61894,35 @@
    "firstSeen": "2026-11-26"
   },
   {
+   "id": "c-endorfy-arx-500-air-pc-gehause-midi-tower-atx-schwarz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Endorfy Arx 500 Air PC-Gehäuse Midi Tower ATX Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/endorfy-arx-500-air-pc-gehaeuse-midi-tower-atx-schwarz-100006767/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 95.18,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/endorfy-arx-500-air-pc-gehaeuse-midi-tower-atx-schwarz-100006767/"
+    }
+   ],
+   "price": 95.18,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 95.18
+    }
+   ],
+   "count": 1,
+   "tags": "gehause endorfy arx 500 air midi tower atx schwarz",
+   "firstSeen": "2026-11-27"
+  },
+  {
    "id": "c-arctic-liquid-freezer-iii-pro-420-a-rgb-cpu-wasserkuhlung-42",
    "cat": "Kühlung",
    "sub": "AiO-Wasserkühlung",
@@ -61588,6 +62195,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-be-quiet-pure-base-500-window-midi-tower-atx-weiss",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "be quiet! Pure Base 500 Window Midi Tower ATX Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/be-quiet-pure-base-500-window-midi-tower-atx-weiss-5969729/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 96.5,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/be-quiet-pure-base-500-window-midi-tower-atx-weiss-5969729/"
+    }
+   ],
+   "price": 96.5,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 96.5
+    }
+   ],
+   "count": 1,
+   "tags": "gehause quiet pure base 500 window midi tower atx weiss",
+   "firstSeen": "2026-11-27"
+  },
+  {
    "id": "c-hp-v24v-g5-23-8-full-hd-monitor-schwarz",
    "cat": "Monitore",
    "sub": "23,8\"",
@@ -61781,83 +62417,6 @@
    "count": 1,
    "tags": "gehause silverstone fara 511z midi tower tempered glass schwarz",
    "firstSeen": "2026-11-01"
-  },
-  {
-   "id": "c-sapphire-b650m-e-mainboard-micro-atx-sockel-am5-amd-b650-ddr",
-   "cat": "Mainboards",
-   "sub": "AM5 B650",
-   "name": "Sapphire B650M-E Mainboard Micro-ATX Sockel AM5 AMD B650 DDR5 Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/sapphire-b650m-e-mainboard-micro-atx-sockel-am5-amd-b650-ddr5-schwarz-100606847/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 97.7,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/sapphire-b650m-e-mainboard-micro-atx-sockel-am5-amd-b650-ddr5-schwarz-100606847/"
-    }
-   ],
-   "price": 97.7,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 96.49
-    },
-    {
-     "d": "2026-10-31",
-     "p": 96.49
-    },
-    {
-     "d": "2026-11-01",
-     "p": 96.49
-    },
-    {
-     "d": "2026-11-02",
-     "p": 96.49
-    },
-    {
-     "d": "2026-11-03",
-     "p": 96.13
-    },
-    {
-     "d": "2026-11-06",
-     "p": 95.78
-    },
-    {
-     "d": "2026-11-08",
-     "p": 95.49
-    },
-    {
-     "d": "2026-11-10",
-     "p": 95.49
-    },
-    {
-     "d": "2026-11-13",
-     "p": 96.54
-    },
-    {
-     "d": "2026-11-15",
-     "p": 97.04
-    },
-    {
-     "d": "2026-11-18",
-     "p": 97.7
-    },
-    {
-     "d": "2026-11-21",
-     "p": 97.59
-    },
-    {
-     "d": "2026-11-24",
-     "p": 97.7
-    }
-   ],
-   "count": 1,
-   "tags": "mainboards am5 b650 sapphire b650m mainboard micro atx sockel am5 amd b650 ddr5 schwarz",
-   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-asus-prime-h610m-d-d4-intel-h610-mainboard-sockel-1700-ddr4",
@@ -62737,83 +63296,6 @@
    ],
    "count": 1,
    "tags": "mainboards intel lga1851 h810 gigabyte h810m s2h mainboard lga1851 intel h810 micro atx ddr5 dark brown",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-koorui-e2711k-27-zoll-ips-monitor-full-hd-144-hz-5-ms-amd-fr",
-   "cat": "Monitore",
-   "sub": "27\"",
-   "name": "KOORUI E2711K 27 Zoll IPS-Monitor Full HD 144 Hz 5 ms AMD FreeSync Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/koorui-e2711k-27-zoll-ips-monitor-full-hd-144-hz-5-ms-amd-freesync-schwarz-100699817/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 99.4,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/koorui-e2711k-27-zoll-ips-monitor-full-hd-144-hz-5-ms-amd-freesync-schwarz-100699817/"
-    }
-   ],
-   "price": 99.4,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 93.93
-    },
-    {
-     "d": "2026-10-31",
-     "p": 99.4
-    },
-    {
-     "d": "2026-11-01",
-     "p": 99.4
-    },
-    {
-     "d": "2026-11-02",
-     "p": 99.4
-    },
-    {
-     "d": "2026-11-03",
-     "p": 99.4
-    },
-    {
-     "d": "2026-11-06",
-     "p": 99.4
-    },
-    {
-     "d": "2026-11-08",
-     "p": 99.4
-    },
-    {
-     "d": "2026-11-10",
-     "p": 99.4
-    },
-    {
-     "d": "2026-11-13",
-     "p": 99.4
-    },
-    {
-     "d": "2026-11-15",
-     "p": 99.4
-    },
-    {
-     "d": "2026-11-18",
-     "p": 99.4
-    },
-    {
-     "d": "2026-11-21",
-     "p": 99.4
-    },
-    {
-     "d": "2026-11-24",
-     "p": 99.4
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 27\" koorui e2711k zoll ips monitor full 144 amd freesync schwarz",
    "firstSeen": "2026-10-30"
   },
   {
@@ -66781,6 +67263,35 @@
    "firstSeen": "2026-11-21"
   },
   {
+   "id": "c-cooler-master-silencio-s600-midi-tower-schallgedammt-stahl-s",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Cooler Master Silencio S600 Midi-Tower Schallgedämmt Stahl Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/cooler-master-silencio-s600-midi-tower-schallgedaemmt-stahl-schwarz-5830608/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 103.52,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/cooler-master-silencio-s600-midi-tower-schallgedaemmt-stahl-schwarz-5830608/"
+    }
+   ],
+   "price": 103.52,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 103.52
+    }
+   ],
+   "count": 1,
+   "tags": "gehause cooler master silencio s600 midi tower schallgedammt stahl schwarz",
+   "firstSeen": "2026-11-27"
+  },
+  {
    "id": "c-msi-pro-h810m-b-mainboard",
    "cat": "Mainboards",
    "sub": "Intel LGA1851 H810",
@@ -67442,83 +67953,6 @@
    ],
    "count": 1,
    "tags": "mainboards am5 a620 asus pro a620m dash csm amd a620 motherboard socket am5 ddr5",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-krom-kertz-23-8-gaming-monitor-full-hd-200-hz-va-schwarz",
-   "cat": "Monitore",
-   "sub": "23,8\"",
-   "name": "Krom Kertz 23,8\" Gaming Monitor Full HD 200 Hz VA Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/krom-kertz-23-8-gaming-monitor-full-hd-200-hz-va-schwarz-100709353/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 104.89,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/krom-kertz-23-8-gaming-monitor-full-hd-200-hz-va-schwarz-100709353/"
-    }
-   ],
-   "price": 104.89,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 115.85
-    },
-    {
-     "d": "2026-10-31",
-     "p": 115.85
-    },
-    {
-     "d": "2026-11-01",
-     "p": 115.85
-    },
-    {
-     "d": "2026-11-02",
-     "p": 115.85
-    },
-    {
-     "d": "2026-11-03",
-     "p": 115.85
-    },
-    {
-     "d": "2026-11-06",
-     "p": 104.89
-    },
-    {
-     "d": "2026-11-08",
-     "p": 104.89
-    },
-    {
-     "d": "2026-11-10",
-     "p": 104.89
-    },
-    {
-     "d": "2026-11-13",
-     "p": 104.89
-    },
-    {
-     "d": "2026-11-15",
-     "p": 104.89
-    },
-    {
-     "d": "2026-11-18",
-     "p": 104.89
-    },
-    {
-     "d": "2026-11-21",
-     "p": 104.89
-    },
-    {
-     "d": "2026-11-24",
-     "p": 104.89
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 23,8\" krom kertz gaming monitor full 200 schwarz",
    "firstSeen": "2026-10-30"
   },
   {
@@ -68382,83 +68816,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-gigabyte-b840m-d2h-mainboard-amd-b840-sockel-am5-micro-atx-d",
-   "cat": "Mainboards",
-   "sub": "AM5 B840",
-   "name": "Gigabyte B840M D2H Mainboard AMD B840 Sockel AM5 Micro-ATX DDR5",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/gigabyte-b840m-d2h-mainboard-amd-b840-sockel-am5-micro-atx-ddr5-100555873/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 106.11,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/gigabyte-b840m-d2h-mainboard-amd-b840-sockel-am5-micro-atx-ddr5-100555873/"
-    }
-   ],
-   "price": 106.11,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 91.89
-    },
-    {
-     "d": "2026-10-31",
-     "p": 91.89
-    },
-    {
-     "d": "2026-11-01",
-     "p": 91.89
-    },
-    {
-     "d": "2026-11-02",
-     "p": 91.89
-    },
-    {
-     "d": "2026-11-03",
-     "p": 100.86
-    },
-    {
-     "d": "2026-11-06",
-     "p": 99.15
-    },
-    {
-     "d": "2026-11-08",
-     "p": 99.15
-    },
-    {
-     "d": "2026-11-10",
-     "p": 99.15
-    },
-    {
-     "d": "2026-11-13",
-     "p": 106.47
-    },
-    {
-     "d": "2026-11-15",
-     "p": 105.28
-    },
-    {
-     "d": "2026-11-18",
-     "p": 105.79
-    },
-    {
-     "d": "2026-11-21",
-     "p": 106.09
-    },
-    {
-     "d": "2026-11-24",
-     "p": 106.11
-    }
-   ],
-   "count": 1,
-   "tags": "mainboards am5 b840 gigabyte b840m d2h mainboard amd b840 sockel am5 micro atx ddr5",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-b-ware-a1-lian-li-sx-series-80-plus-platinum-netzteil-vollmo",
    "cat": "Netzteile",
    "sub": "850 W",
@@ -68567,6 +68924,35 @@
    "count": 1,
    "tags": "mainboards am4 b450 asus tuf gaming b450 plus mainboard atx amd socket am4 ddr4",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-deepcool-ch560-digital-midi-tower-atx-e-atx-argb-tempered-gl",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "DeepCool CH560 DIGITAL Midi Tower ATX E-ATX ARGB Tempered Glass Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/deepcool-ch560-digital-midi-tower-atx-e-atx-argb-tempered-glass-schwarz-100027695/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 106.47,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/deepcool-ch560-digital-midi-tower-atx-e-atx-argb-tempered-glass-schwarz-100027695/"
+    }
+   ],
+   "price": 106.47,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 106.47
+    }
+   ],
+   "count": 1,
+   "tags": "gehause deepcool ch560 digital midi tower atx argb tempered glass schwarz",
+   "firstSeen": "2026-11-27"
   },
   {
    "id": "c-msi-b550m-pro-vdh-mainboard-socket-am4-amd-b550-ddr4-schwarz",
@@ -70214,6 +70600,35 @@
    "firstSeen": "2026-11-26"
   },
   {
+   "id": "c-sharkoon-elite-shark-ca300h-generaluberholt-big-tower-gehaus",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Sharkoon ELITE SHARK CA300H Generalüberholt, Big-Tower-Gehäuse",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Sharkoon/ELITE-SHARK-CA300H-General%C3%BCberholt-Big-Tower-Geh%C3%A4use/html/product/100189619",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 109.9,
+     "ship": 0,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Sharkoon/ELITE-SHARK-CA300H-General%C3%BCberholt-Big-Tower-Geh%C3%A4use/html/product/100189619"
+    }
+   ],
+   "price": 109.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 109.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause sharkoon elite shark ca300h generaluberholt big tower",
+   "firstSeen": "2026-11-27"
+  },
+  {
    "id": "c-gigabyte-b760m-ds3h-ddr4-mainboard-lga-1700-micro-atx-schwar",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 B760",
@@ -70411,6 +70826,35 @@
    "count": 1,
    "tags": "ssds nvme 512 gb emtec power pro x300 512 ssd 2280 nvme pcie intern",
    "firstSeen": "2026-11-20"
+  },
+  {
+   "id": "c-be-quiet-silent-base-601-midi-tower-pc-gehause-e-atx-schwarz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "be quiet! Silent Base 601 Midi Tower PC-Gehäuse E-ATX Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/be-quiet-silent-base-601-midi-tower-pc-gehaeuse-e-atx-schwarz-4405437/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 111.07,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/be-quiet-silent-base-601-midi-tower-pc-gehaeuse-e-atx-schwarz-4405437/"
+    }
+   ],
+   "price": 111.07,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 111.07
+    }
+   ],
+   "count": 1,
+   "tags": "gehause quiet silent base 601 midi tower atx schwarz",
+   "firstSeen": "2026-11-27"
   },
   {
    "id": "c-intel-core-i3-14100-3-5-ghz-raptor-lake-refresh-sockel-1700-",
@@ -73046,83 +73490,6 @@
    "firstSeen": "2026-11-11"
   },
   {
-   "id": "c-gigabyte-gs25f2a-24-5-gaming-monitor-1920-x-1080-240-hz-schw",
-   "cat": "Monitore",
-   "sub": "24,5\"",
-   "name": "Gigabyte GS25F2A 24,5\" Gaming-Monitor 1920 x 1080 240 Hz Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/gigabyte-gs25f2a-24-5-gaming-monitor-1920-x-1080-240-hz-schwarz-100675592/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 117.92,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/gigabyte-gs25f2a-24-5-gaming-monitor-1920-x-1080-240-hz-schwarz-100675592/"
-    }
-   ],
-   "price": 117.92,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 110.36
-    },
-    {
-     "d": "2026-10-31",
-     "p": 110.36
-    },
-    {
-     "d": "2026-11-01",
-     "p": 110.36
-    },
-    {
-     "d": "2026-11-02",
-     "p": 110.36
-    },
-    {
-     "d": "2026-11-03",
-     "p": 112.55
-    },
-    {
-     "d": "2026-11-06",
-     "p": 107.94
-    },
-    {
-     "d": "2026-11-08",
-     "p": 107.91
-    },
-    {
-     "d": "2026-11-10",
-     "p": 107.91
-    },
-    {
-     "d": "2026-11-13",
-     "p": 107.91
-    },
-    {
-     "d": "2026-11-15",
-     "p": 107.91
-    },
-    {
-     "d": "2026-11-18",
-     "p": 107.68
-    },
-    {
-     "d": "2026-11-21",
-     "p": 117.92
-    },
-    {
-     "d": "2026-11-24",
-     "p": 117.92
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 24,5\" gigabyte gs25f2a gaming monitor 1920 1080 240 schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-hp-netzteil-ent20-260-w-intern-80-plus-silber",
    "cat": "Netzteile",
    "sub": "bis 600 W",
@@ -73353,6 +73720,64 @@
    "count": 1,
    "tags": "kuhlung aio-wasserkuhlung corsair nautilus 360 argb flussig cpu kuhler wasserkuhlung",
    "firstSeen": "2026-11-06"
+  },
+  {
+   "id": "c-be-quiet-silent-base-601-window-midi-tower-schwarz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "be quiet! Silent Base 601 Window Midi Tower Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/be-quiet-silent-base-601-window-midi-tower-schwarz-4405435/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 118.95,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/be-quiet-silent-base-601-window-midi-tower-schwarz-4405435/"
+    }
+   ],
+   "price": 118.95,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 118.95
+    }
+   ],
+   "count": 1,
+   "tags": "gehause quiet silent base 601 window midi tower schwarz",
+   "firstSeen": "2026-11-27"
+  },
+  {
+   "id": "c-nzxt-h-series-h6-flow-rgb-midi-tower-mattschwarz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "NZXT H series H6 Flow RGB Midi-Tower Mattschwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/nzxt-h-series-h6-flow-rgb-midi-tower-mattschwarz-100282686/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 119.52,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/nzxt-h-series-h6-flow-rgb-midi-tower-mattschwarz-100282686/"
+    }
+   ],
+   "price": 119.52,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 119.52
+    }
+   ],
+   "count": 1,
+   "tags": "gehause nzxt series flow rgb midi tower mattschwarz",
+   "firstSeen": "2026-11-27"
   },
   {
    "id": "c-noctua-nh-u12a-cpu-kuhler-120mm",
@@ -75977,6 +76402,35 @@
    "count": 1,
    "tags": "netzteile 1000 w+ montech century 1050w atx plus gold vollmodulares netzteil silber",
    "firstSeen": "2026-11-21"
+  },
+  {
+   "id": "c-montech-air-903-base-midi-tower-tempered-glass-schwarz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Montech Air 903 Base Midi-Tower Tempered Glass Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/montech-air-903-base-midi-tower-tempered-glass-schwarz-100030226/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 122.03,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/montech-air-903-base-midi-tower-tempered-glass-schwarz-100030226/"
+    }
+   ],
+   "price": 122.03,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 122.03
+    }
+   ],
+   "count": 1,
+   "tags": "gehause montech air 903 base midi tower tempered glass schwarz",
+   "firstSeen": "2026-11-27"
   },
   {
    "id": "c-gigabyte-b760m-gaming-x-ddr4-gen5-intel-b760-lga-1700-micro-",
@@ -80678,6 +81132,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-lian-li-lancool-217-inf-midi-tower-schwarz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Lian Li Lancool 217 INF Midi-Tower Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/lian-li-lancool-217-inf-midi-tower-schwarz-100684056/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 129.98,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/lian-li-lancool-217-inf-midi-tower-schwarz-100684056/"
+    }
+   ],
+   "price": 129.98,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 129.98
+    }
+   ],
+   "count": 1,
+   "tags": "gehause lian lancool 217 inf midi tower schwarz",
+   "firstSeen": "2026-11-27"
+  },
+  {
    "id": "c-gigabyte-b860m-eagle-v2-mainboard-micro-atx-lga1851-intel-b8",
    "cat": "Mainboards",
    "sub": "Intel LGA1851 B860",
@@ -80830,83 +81313,6 @@
    "count": 1,
    "tags": "prozessoren intel core 10400f ghz kerne threads cache lga1200",
    "firstSeen": "2026-10-31"
-  },
-  {
-   "id": "c-hp-324ph-series-3-pro-led-monitor-60-5-cm-23-8-fhd-1920x1080",
-   "cat": "Monitore",
-   "sub": "23,8\"",
-   "name": "HP 324ph - Series 3 Pro - LED-Monitor - 60.5 cm (23.8\") - FHD 1920x1080@100Hz DP/HDMI/VGA 250cd 5ms [Energieklasse D] (B0BU9UT#ABB)",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/hp-324ph-series-3-pro-led-monitor-60-5-cm-23-8-fhd-1920x1080at100hz-dp-hdmi-vga-250cd-5ms-energieklasse-d-b0bu9ut-abb-100589652/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 131.28,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/hp-324ph-series-3-pro-led-monitor-60-5-cm-23-8-fhd-1920x1080at100hz-dp-hdmi-vga-250cd-5ms-energieklasse-d-b0bu9ut-abb-100589652/"
-    }
-   ],
-   "price": 131.28,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 132.4
-    },
-    {
-     "d": "2026-10-31",
-     "p": 132.4
-    },
-    {
-     "d": "2026-11-01",
-     "p": 132.4
-    },
-    {
-     "d": "2026-11-02",
-     "p": 135.43
-    },
-    {
-     "d": "2026-11-03",
-     "p": 132.4
-    },
-    {
-     "d": "2026-11-05",
-     "p": 132.4
-    },
-    {
-     "d": "2026-11-08",
-     "p": 131.1
-    },
-    {
-     "d": "2026-11-10",
-     "p": 131.13
-    },
-    {
-     "d": "2026-11-13",
-     "p": 132.4
-    },
-    {
-     "d": "2026-11-15",
-     "p": 131.25
-    },
-    {
-     "d": "2026-11-18",
-     "p": 131.35
-    },
-    {
-     "d": "2026-11-21",
-     "p": 131.25
-    },
-    {
-     "d": "2026-11-24",
-     "p": 131.28
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 23,8\" 324ph series pro led monitor fhd 1920x1080 100hz hdmi vga 250cd 5ms energieklasse b0bu9ut abb",
-   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-hp-327pf-series-3-pro-led-monitor-68-6-cm-27-b0cg3ut-abb",
@@ -81219,6 +81625,35 @@
    "count": 1,
    "tags": "monitore 21,5\" philips line 222v8la led monitor full 1920 1080 textured black",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-montech-air-903-max-midi-tower-tempered-glass-schwarz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Montech AIR 903 MAX Midi-Tower Tempered Glass Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/montech-air-903-max-midi-tower-tempered-glass-schwarz-100030228/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 132.72,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/montech-air-903-max-midi-tower-tempered-glass-schwarz-100030228/"
+    }
+   ],
+   "price": 132.72,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 132.72
+    }
+   ],
+   "count": 1,
+   "tags": "gehause montech air 903 max midi tower tempered glass schwarz",
+   "firstSeen": "2026-11-27"
   },
   {
    "id": "c-gigabyte-b860-ds3h-mainboard-sockel-lga-1851-intel-b860-atx-",
@@ -82719,6 +83154,35 @@
    "firstSeen": "2026-11-26"
   },
   {
+   "id": "c-phanteks-enthoo-pro-big-tower-gehause",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Phanteks Enthoo Pro , Big-Tower-Gehäuse",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Phanteks/Enthoo-Pro-Big-Tower-Geh%C3%A4use/html/product/100042228",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 134.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Phanteks/Enthoo-Pro-Big-Tower-Geh%C3%A4use/html/product/100042228"
+    }
+   ],
+   "price": 134.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 134.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause phanteks enthoo pro big tower",
+   "firstSeen": "2026-11-27"
+  },
+  {
    "id": "c-asus-prime-b760m-plus-intel-b760-mainboard-sockel-1700-ddr5",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 B760",
@@ -83799,6 +84263,35 @@
    "count": 1,
    "tags": "prozessoren am5 amd ryzen 7400 ghz core prozessor sockel",
    "firstSeen": "2026-10-31"
+  },
+  {
+   "id": "c-asus-tuf-gaming-gt302-argb-midi-tower-e-atx-schwarz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "ASUS TUF Gaming GT302 ARGB Midi Tower E-ATX Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-tuf-gaming-gt302-argb-midi-tower-e-atx-schwarz-100470200/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 137.5,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-tuf-gaming-gt302-argb-midi-tower-e-atx-schwarz-100470200/"
+    }
+   ],
+   "price": 137.5,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 137.5
+    }
+   ],
+   "count": 1,
+   "tags": "gehause asus tuf gaming gt302 argb midi tower atx schwarz",
+   "firstSeen": "2026-11-27"
   },
   {
    "id": "c-acer-vero-cb2-cb242yp6bmiprx-23-8-full-hd-office-monitor-60-",
@@ -86128,6 +86621,35 @@
    "count": 1,
    "tags": "ssds sata transcend msa370 msata ssd",
    "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "c-corsair-frame-5000d-rs-midi-tower-weiss",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Corsair FRAME 5000D RS Midi Tower Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/corsair-frame-5000d-rs-midi-tower-weiss-100596011/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 140.69,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/corsair-frame-5000d-rs-midi-tower-weiss-100596011/"
+    }
+   ],
+   "price": 140.69,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 140.69
+    }
+   ],
+   "count": 1,
+   "tags": "gehause corsair frame 5000d midi tower weiss",
+   "firstSeen": "2026-11-27"
   },
   {
    "id": "c-iiyama-prolite-e1980s-b1-48-3cm-19-5-4-office-monitor-hdmi-d",
@@ -88817,83 +89339,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-lenovo-sk-hynix-ssd-256-gb-m-2-2280-pcie-3-0-x4-nvme",
-   "cat": "SSDs",
-   "sub": "NVMe 256 GB",
-   "name": "Lenovo SK Hynix SSD 256 GB M.2 2280 PCIe 3.0 x4 NVMe",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/lenovo-sk-hynix-ssd-256-gb-m-2-2280-pcie-3-0-x4-nvme-6933949/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 147.81,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/lenovo-sk-hynix-ssd-256-gb-m-2-2280-pcie-3-0-x4-nvme-6933949/"
-    }
-   ],
-   "price": 147.81,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 148.86
-    },
-    {
-     "d": "2026-10-31",
-     "p": 148.86
-    },
-    {
-     "d": "2026-11-01",
-     "p": 148.86
-    },
-    {
-     "d": "2026-11-02",
-     "p": 148.86
-    },
-    {
-     "d": "2026-11-03",
-     "p": 148.86
-    },
-    {
-     "d": "2026-11-06",
-     "p": 148.81
-    },
-    {
-     "d": "2026-11-08",
-     "p": 148.81
-    },
-    {
-     "d": "2026-11-11",
-     "p": 148.81
-    },
-    {
-     "d": "2026-11-13",
-     "p": 148.93
-    },
-    {
-     "d": "2026-11-15",
-     "p": 148.93
-    },
-    {
-     "d": "2026-11-18",
-     "p": 148.93
-    },
-    {
-     "d": "2026-11-21",
-     "p": 147.81
-    },
-    {
-     "d": "2026-11-24",
-     "p": 147.81
-    }
-   ],
-   "count": 1,
-   "tags": "ssds nvme 256 gb lenovo hynix ssd 256 2280 pcie nvme",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-sharkoon-rebel-p20-sfx-850w-pc-netzteil",
    "cat": "Netzteile",
    "sub": "SFX",
@@ -89070,83 +89515,6 @@
    ],
    "count": 1,
    "tags": "monitore 27\" dell se2726d ips qhd monitor 2560 1440 144 schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-benq-bl2490tc-23-8-ips-monitor-1920-x-1080-144-hz-schwarz",
-   "cat": "Monitore",
-   "sub": "23,8\"",
-   "name": "BenQ BL2490TC 23,8\" IPS Monitor 1920 x 1080 144 Hz Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/benq-bl2490tc-23-8-ips-monitor-1920-x-1080-144-hz-schwarz-100678760/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 148.89,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/benq-bl2490tc-23-8-ips-monitor-1920-x-1080-144-hz-schwarz-100678760/"
-    }
-   ],
-   "price": 148.89,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 150.63
-    },
-    {
-     "d": "2026-10-31",
-     "p": 150.63
-    },
-    {
-     "d": "2026-11-01",
-     "p": 150.64
-    },
-    {
-     "d": "2026-11-02",
-     "p": 150.64
-    },
-    {
-     "d": "2026-11-03",
-     "p": 156.83
-    },
-    {
-     "d": "2026-11-06",
-     "p": 156.83
-    },
-    {
-     "d": "2026-11-08",
-     "p": 148.89
-    },
-    {
-     "d": "2026-11-10",
-     "p": 148.89
-    },
-    {
-     "d": "2026-11-13",
-     "p": 148.89
-    },
-    {
-     "d": "2026-11-15",
-     "p": 147.42
-    },
-    {
-     "d": "2026-11-18",
-     "p": 148.89
-    },
-    {
-     "d": "2026-11-21",
-     "p": 148.89
-    },
-    {
-     "d": "2026-11-24",
-     "p": 148.89
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 23,8\" benq bl2490tc ips monitor 1920 1080 144 schwarz",
    "firstSeen": "2026-10-30"
   },
   {
@@ -91433,83 +91801,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-gigabyte-b550-aorus-elite-ax-v2-mainboard-atx-sockel-am4-ddr",
-   "cat": "Mainboards",
-   "sub": "AM4 B550",
-   "name": "Gigabyte B550 AORUS ELITE AX V2 Mainboard ATX Sockel AM4 DDR4 Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/gigabyte-b550-aorus-elite-ax-v2-mainboard-atx-sockel-am4-ddr4-schwarz-6922680/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 152.5,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/gigabyte-b550-aorus-elite-ax-v2-mainboard-atx-sockel-am4-ddr4-schwarz-6922680/"
-    }
-   ],
-   "price": 152.5,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 152.5
-    },
-    {
-     "d": "2026-10-31",
-     "p": 152.5
-    },
-    {
-     "d": "2026-11-01",
-     "p": 152.5
-    },
-    {
-     "d": "2026-11-02",
-     "p": 152.5
-    },
-    {
-     "d": "2026-11-03",
-     "p": 152.5
-    },
-    {
-     "d": "2026-11-06",
-     "p": 152.5
-    },
-    {
-     "d": "2026-11-08",
-     "p": 152.5
-    },
-    {
-     "d": "2026-11-10",
-     "p": 152.5
-    },
-    {
-     "d": "2026-11-13",
-     "p": 152.5
-    },
-    {
-     "d": "2026-11-15",
-     "p": 152.5
-    },
-    {
-     "d": "2026-11-18",
-     "p": 152.5
-    },
-    {
-     "d": "2026-11-21",
-     "p": 152.5
-    },
-    {
-     "d": "2026-11-24",
-     "p": 152.5
-    }
-   ],
-   "count": 1,
-   "tags": "mainboards am4 b550 gigabyte b550 aorus elite mainboard atx sockel am4 ddr4 schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-silverstone-icegem-280-aio-cooler-argb-280-mm",
    "cat": "Kühlung",
    "sub": "AiO-Wasserkühlung",
@@ -92341,6 +92632,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-montech-king-95-pro-midi-tower-tempered-glass-argb-schwarz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Montech King 95 PRO Midi-Tower Tempered Glass ARGB Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/montech-king-95-pro-midi-tower-tempered-glass-argb-schwarz-100369990/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 154.72,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/montech-king-95-pro-midi-tower-tempered-glass-argb-schwarz-100369990/"
+    }
+   ],
+   "price": 154.72,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 154.72
+    }
+   ],
+   "count": 1,
+   "tags": "gehause montech king pro midi tower tempered glass argb schwarz",
+   "firstSeen": "2026-11-27"
+  },
+  {
    "id": "c-asus-prime-b660m-a-d4-csm-intel-b660-mainboard-sockel-lga170",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 B660",
@@ -92538,6 +92858,35 @@
    "count": 1,
    "tags": "gehause phanteks enthoo pro big tower schwarz",
    "firstSeen": "2026-11-11"
+  },
+  {
+   "id": "c-phanteks-enthoo-pro-2-big-tower-gehause",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Phanteks Enthoo Pro 2 , Big-Tower-Gehäuse",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Phanteks/Enthoo-Pro-2-Big-Tower-Geh%C3%A4use/html/product/100042214",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 154.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Phanteks/Enthoo-Pro-2-Big-Tower-Geh%C3%A4use/html/product/100042214"
+    }
+   ],
+   "price": 154.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 154.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause phanteks enthoo pro big tower",
+   "firstSeen": "2026-11-27"
   },
   {
    "id": "c-asus-pro-h610t-csm-mainboard-thin-mini-itx-intel-h610-lga170",
@@ -93852,83 +94201,6 @@
    "count": 1,
    "tags": "gehause asus tuf gaming gt502 horizon argb tower",
    "firstSeen": "2026-11-25"
-  },
-  {
-   "id": "c-lenovo-ssd-m-2-2242-256-gb-pcie-3-0-x4-nvme",
-   "cat": "SSDs",
-   "sub": "NVMe 256 GB",
-   "name": "Lenovo SSD M.2 2242 256 GB PCIe 3.0 x4 NVMe",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/lenovo-ssd-m-2-2242-256-gb-pcie-3-0-x4-nvme-6955056/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 159.1,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/lenovo-ssd-m-2-2242-256-gb-pcie-3-0-x4-nvme-6955056/"
-    }
-   ],
-   "price": 159.1,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 159.42
-    },
-    {
-     "d": "2026-10-31",
-     "p": 159.42
-    },
-    {
-     "d": "2026-11-01",
-     "p": 159.42
-    },
-    {
-     "d": "2026-11-02",
-     "p": 159.42
-    },
-    {
-     "d": "2026-11-03",
-     "p": 158.56
-    },
-    {
-     "d": "2026-11-06",
-     "p": 160.02
-    },
-    {
-     "d": "2026-11-08",
-     "p": 160.02
-    },
-    {
-     "d": "2026-11-11",
-     "p": 160.02
-    },
-    {
-     "d": "2026-11-13",
-     "p": 156.73
-    },
-    {
-     "d": "2026-11-15",
-     "p": 156.73
-    },
-    {
-     "d": "2026-11-18",
-     "p": 159.1
-    },
-    {
-     "d": "2026-11-21",
-     "p": 159.1
-    },
-    {
-     "d": "2026-11-24",
-     "p": 159.1
-    }
-   ],
-   "count": 1,
-   "tags": "ssds nvme 256 gb lenovo ssd 2242 256 pcie nvme",
-   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-transcend-832s-ssd-256-gb-m-2-2280-sata-6gb-s-intern",
@@ -97425,83 +97697,6 @@
    "count": 1,
    "tags": "gehause phanteks enthoo pro big tower tempered glass argb schwarz",
    "firstSeen": "2026-11-11"
-  },
-  {
-   "id": "c-lenovo-thinkvision-t24d-30-24-ips-monitor-1920-x-1200-raven-",
-   "cat": "Monitore",
-   "sub": "24\"",
-   "name": "Lenovo ThinkVision T24d-30 24\" IPS-Monitor 1920 x 1200 Raven Black",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/lenovo-thinkvision-t24d-30-24-ips-monitor-1920-x-1200-raven-black-100507155/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 164.99,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/lenovo-thinkvision-t24d-30-24-ips-monitor-1920-x-1200-raven-black-100507155/"
-    }
-   ],
-   "price": 164.99,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 170.99
-    },
-    {
-     "d": "2026-10-31",
-     "p": 170.99
-    },
-    {
-     "d": "2026-11-01",
-     "p": 170.99
-    },
-    {
-     "d": "2026-11-02",
-     "p": 170.99
-    },
-    {
-     "d": "2026-11-03",
-     "p": 170.99
-    },
-    {
-     "d": "2026-11-06",
-     "p": 170.99
-    },
-    {
-     "d": "2026-11-08",
-     "p": 170.99
-    },
-    {
-     "d": "2026-11-10",
-     "p": 168.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 168.9
-    },
-    {
-     "d": "2026-11-15",
-     "p": 164.99
-    },
-    {
-     "d": "2026-11-18",
-     "p": 164.99
-    },
-    {
-     "d": "2026-11-21",
-     "p": 164.99
-    },
-    {
-     "d": "2026-11-24",
-     "p": 164.99
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 24\" lenovo thinkvision t24d ips monitor 1920 1200 raven black",
-   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-asus-rog-loki-sfx-l-80-plus-platinum-netzteil-modular-750-wa",
@@ -101007,6 +101202,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-lian-li-o11-dynamic-evo-rgb-midi-tower-e-atx-tempered-glass-",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Lian Li O11 Dynamic EVO RGB Midi-Tower E-ATX Tempered Glass Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/lian-li-o11-dynamic-evo-rgb-midi-tower-e-atx-tempered-glass-weiss-100367802/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 172.78,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/lian-li-o11-dynamic-evo-rgb-midi-tower-e-atx-tempered-glass-weiss-100367802/"
+    }
+   ],
+   "price": 172.78,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 172.78
+    }
+   ],
+   "count": 1,
+   "tags": "gehause lian o11 dynamic evo rgb midi tower atx tempered glass weiss",
+   "firstSeen": "2026-11-27"
+  },
+  {
    "id": "c-msi-spatium-s270-ssd-960-gb-2-5-sata-iii",
    "cat": "SSDs",
    "sub": "SATA 960 GB",
@@ -104032,83 +104256,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-transcend-mts552t2-64-gb-ssd-m-2-2242-sata-6gb-s-3d-tlc-nand",
-   "cat": "SSDs",
-   "sub": "SATA",
-   "name": "Transcend MTS552T2 64 GB SSD M.2 2242 SATA 6Gb/s 3D TLC NAND",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/transcend-mts552t2-64-gb-ssd-m-2-2242-sata-6gb-s-3d-tlc-nand-6545116/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 180.68,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/transcend-mts552t2-64-gb-ssd-m-2-2242-sata-6gb-s-3d-tlc-nand-6545116/"
-    }
-   ],
-   "price": 180.68,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 175.36
-    },
-    {
-     "d": "2026-10-31",
-     "p": 175.36
-    },
-    {
-     "d": "2026-11-01",
-     "p": 175.36
-    },
-    {
-     "d": "2026-11-02",
-     "p": 175.36
-    },
-    {
-     "d": "2026-11-03",
-     "p": 175.36
-    },
-    {
-     "d": "2026-11-06",
-     "p": 175.36
-    },
-    {
-     "d": "2026-11-08",
-     "p": 175.36
-    },
-    {
-     "d": "2026-11-11",
-     "p": 175.36
-    },
-    {
-     "d": "2026-11-13",
-     "p": 175.36
-    },
-    {
-     "d": "2026-11-15",
-     "p": 175.36
-    },
-    {
-     "d": "2026-11-18",
-     "p": 175.36
-    },
-    {
-     "d": "2026-11-21",
-     "p": 180.68
-    },
-    {
-     "d": "2026-11-24",
-     "p": 180.68
-    }
-   ],
-   "count": 1,
-   "tags": "ssds sata transcend mts552t2 ssd 2242 6gb tlc nand",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-philips-s-line-243s1-led-monitor-23-8-full-hd-ips-75-hz-hdmi",
    "cat": "Monitore",
    "sub": "23,8\"",
@@ -105847,237 +105994,6 @@
    "firstSeen": "2026-11-16"
   },
   {
-   "id": "c-lenovo-toshiba-ssd-512-gb-m-2-2280-pcie-3-0-x4",
-   "cat": "SSDs",
-   "sub": "NVMe 512 GB",
-   "name": "Lenovo Toshiba SSD 512 GB M.2 2280 PCIe 3.0 x4",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/lenovo-toshiba-ssd-512-gb-m-2-2280-pcie-3-0-x4-5834143/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 188.38,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/lenovo-toshiba-ssd-512-gb-m-2-2280-pcie-3-0-x4-5834143/"
-    }
-   ],
-   "price": 188.38,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 265.07
-    },
-    {
-     "d": "2026-10-31",
-     "p": 265.07
-    },
-    {
-     "d": "2026-11-01",
-     "p": 265.07
-    },
-    {
-     "d": "2026-11-02",
-     "p": 265.07
-    },
-    {
-     "d": "2026-11-03",
-     "p": 188.38
-    },
-    {
-     "d": "2026-11-06",
-     "p": 188.38
-    },
-    {
-     "d": "2026-11-08",
-     "p": 188.38
-    },
-    {
-     "d": "2026-11-11",
-     "p": 188.38
-    },
-    {
-     "d": "2026-11-13",
-     "p": 188.38
-    },
-    {
-     "d": "2026-11-15",
-     "p": 188.38
-    },
-    {
-     "d": "2026-11-18",
-     "p": 188.38
-    },
-    {
-     "d": "2026-11-21",
-     "p": 188.38
-    },
-    {
-     "d": "2026-11-24",
-     "p": 188.38
-    }
-   ],
-   "count": 1,
-   "tags": "ssds nvme 512 gb lenovo toshiba ssd 512 2280 pcie",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-lenovo-00up450-interne-ssd-m-2-512-gb-sata-iii",
-   "cat": "SSDs",
-   "sub": "SATA 512 GB",
-   "name": "Lenovo 00UP450 Interne SSD M.2 512 GB SATA III",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/lenovo-00up450-interne-ssd-m-2-512-gb-sata-iii-5836482/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 188.38,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/lenovo-00up450-interne-ssd-m-2-512-gb-sata-iii-5836482/"
-    }
-   ],
-   "price": 188.38,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 234.54
-    },
-    {
-     "d": "2026-10-31",
-     "p": 234.54
-    },
-    {
-     "d": "2026-11-01",
-     "p": 234.54
-    },
-    {
-     "d": "2026-11-02",
-     "p": 188.38
-    },
-    {
-     "d": "2026-11-03",
-     "p": 211.63
-    },
-    {
-     "d": "2026-11-06",
-     "p": 214.69
-    },
-    {
-     "d": "2026-11-08",
-     "p": 214.69
-    },
-    {
-     "d": "2026-11-11",
-     "p": 188.38
-    },
-    {
-     "d": "2026-11-13",
-     "p": 191.42
-    },
-    {
-     "d": "2026-11-15",
-     "p": 200.62
-    },
-    {
-     "d": "2026-11-18",
-     "p": 188.38
-    },
-    {
-     "d": "2026-11-21",
-     "p": 188.38
-    },
-    {
-     "d": "2026-11-24",
-     "p": 188.38
-    }
-   ],
-   "count": 1,
-   "tags": "ssds sata 512 gb lenovo 00up450 interne ssd 512 sata iii",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-lenovo-00up642-ssd-m-2-2280-512-gb-pcie-3-0-x4-nvme",
-   "cat": "SSDs",
-   "sub": "NVMe 512 GB",
-   "name": "Lenovo 00UP642 SSD M.2 2280 512 GB PCIe 3.0 x4 NVMe",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/lenovo-00up642-ssd-m-2-2280-512-gb-pcie-3-0-x4-nvme-5836562/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 188.38,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/lenovo-00up642-ssd-m-2-2280-512-gb-pcie-3-0-x4-nvme-5836562/"
-    }
-   ],
-   "price": 188.38,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 231.59
-    },
-    {
-     "d": "2026-10-31",
-     "p": 231.59
-    },
-    {
-     "d": "2026-11-01",
-     "p": 231.59
-    },
-    {
-     "d": "2026-11-02",
-     "p": 231.59
-    },
-    {
-     "d": "2026-11-03",
-     "p": 200.62
-    },
-    {
-     "d": "2026-11-06",
-     "p": 214.08
-    },
-    {
-     "d": "2026-11-08",
-     "p": 214.69
-    },
-    {
-     "d": "2026-11-11",
-     "p": 188.38
-    },
-    {
-     "d": "2026-11-13",
-     "p": 191.42
-    },
-    {
-     "d": "2026-11-15",
-     "p": 200.62
-    },
-    {
-     "d": "2026-11-18",
-     "p": 214.69
-    },
-    {
-     "d": "2026-11-21",
-     "p": 188.38
-    },
-    {
-     "d": "2026-11-24",
-     "p": 188.38
-    }
-   ],
-   "count": 1,
-   "tags": "ssds nvme 512 gb lenovo 00up642 ssd 2280 512 pcie nvme",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-western-digital-wd-blue-sn5100-1-tb-ssd-m-2-2280-pcie-4-0-nv",
    "cat": "SSDs",
    "sub": "PCIe 4.0 1 TB",
@@ -106617,6 +106533,35 @@
    "count": 1,
    "tags": "ssds pcie 4.0 256 gb lenovo ssd 256 pcie nvme 2280 mit opal verschlusselung",
    "firstSeen": "2026-11-03"
+  },
+  {
+   "id": "c-be-quiet-dark-base-701-pc-gehause-midi-tower-e-atx-argb-temp",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "be quiet! Dark Base 701 PC-Gehäuse Midi-Tower E-ATX ARGB Tempered Glass Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/be-quiet-dark-base-701-pc-gehaeuse-midi-tower-e-atx-argb-tempered-glass-schwarz-100294314/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 189.28,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/be-quiet-dark-base-701-pc-gehaeuse-midi-tower-e-atx-argb-tempered-glass-schwarz-100294314/"
+    }
+   ],
+   "price": 189.28,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 189.28
+    }
+   ],
+   "count": 1,
+   "tags": "gehause quiet dark base 701 midi tower atx argb tempered glass schwarz",
+   "firstSeen": "2026-11-27"
   },
   {
    "id": "c-japannext-gaming-monitor-62-2cm-24-5-ips-fhd",
@@ -108328,83 +108273,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-seagate-firecuda-x1070-1-tb-m-2-pcie-4-0-nvme-ssd",
-   "cat": "SSDs",
-   "sub": "PCIe 4.0 1 TB",
-   "name": "Seagate FireCuda X1070 1 TB M.2 PCIe 4.0 NVMe SSD",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/seagate-firecuda-x1070-1-tb-m-2-pcie-4-0-nvme-ssd-100869168/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 195.09,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/seagate-firecuda-x1070-1-tb-m-2-pcie-4-0-nvme-ssd-100869168/"
-    }
-   ],
-   "price": 195.09,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 195.09
-    },
-    {
-     "d": "2026-10-31",
-     "p": 195.09
-    },
-    {
-     "d": "2026-11-01",
-     "p": 195.09
-    },
-    {
-     "d": "2026-11-02",
-     "p": 195.09
-    },
-    {
-     "d": "2026-11-03",
-     "p": 195.09
-    },
-    {
-     "d": "2026-11-06",
-     "p": 195.09
-    },
-    {
-     "d": "2026-11-08",
-     "p": 195.09
-    },
-    {
-     "d": "2026-11-11",
-     "p": 195.09
-    },
-    {
-     "d": "2026-11-13",
-     "p": 195.09
-    },
-    {
-     "d": "2026-11-15",
-     "p": 195.09
-    },
-    {
-     "d": "2026-11-18",
-     "p": 195.09
-    },
-    {
-     "d": "2026-11-21",
-     "p": 195.09
-    },
-    {
-     "d": "2026-11-24",
-     "p": 195.09
-    }
-   ],
-   "count": 1,
-   "tags": "ssds pcie 4.0 1 tb seagate firecuda x1070 pcie nvme ssd",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-asus-rog-ryujin-iii-wb-cpu-kuhler",
    "cat": "Kühlung",
    "sub": "Luftkühler",
@@ -109306,47 +109174,6 @@
    "count": 1,
    "tags": "arbeitsspeicher ddr4 16 gb kingston fury beast ddr4 ram 3200 mhz dimm cl16 schwarz",
    "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-msi-spatium-m560-1-tb-ssd-m-2-2280-pcie-5-0-x4-nvme-3d-nand",
-   "cat": "SSDs",
-   "sub": "PCIe 5.0 1 TB",
-   "name": "MSI SPATIUM M560 1 TB SSD M.2 2280 PCIe 5.0 x4 NVMe 3D NAND",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/msi-spatium-m560-1-tb-ssd-m-2-2280-pcie-5-0-x4-nvme-3d-nand-100674343/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 198.5,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/msi-spatium-m560-1-tb-ssd-m-2-2280-pcie-5-0-x4-nvme-3d-nand-100674343/"
-    }
-   ],
-   "price": 198.5,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-16",
-     "p": 208.33
-    },
-    {
-     "d": "2026-11-18",
-     "p": 201.76
-    },
-    {
-     "d": "2026-11-21",
-     "p": 198.5
-    },
-    {
-     "d": "2026-11-24",
-     "p": 198.5
-    }
-   ],
-   "count": 1,
-   "tags": "ssds pcie 5.0 1 tb msi spatium m560 ssd 2280 pcie nvme nand",
-   "firstSeen": "2026-11-16"
   },
   {
    "id": "c-thermaltake-toughpower-sfx-platinum-850w-pc-netzteil",
@@ -113332,83 +113159,6 @@
    "count": 1,
    "tags": "gehause hyte y70 midi tower standard schwarz rot",
    "firstSeen": "2026-11-08"
-  },
-  {
-   "id": "c-benq-gw2786tc-27-ips-monitor-1920-x-1080-100-hz-weiss",
-   "cat": "Monitore",
-   "sub": "27\"",
-   "name": "BenQ GW2786TC 27\" IPS Monitor 1920 x 1080 100 Hz Weiß",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/benq-gw2786tc-27-ips-monitor-1920-x-1080-100-hz-weiss-100506904/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 210.96,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/benq-gw2786tc-27-ips-monitor-1920-x-1080-100-hz-weiss-100506904/"
-    }
-   ],
-   "price": 210.96,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 209.59
-    },
-    {
-     "d": "2026-10-31",
-     "p": 209.59
-    },
-    {
-     "d": "2026-11-01",
-     "p": 209.59
-    },
-    {
-     "d": "2026-11-02",
-     "p": 209.59
-    },
-    {
-     "d": "2026-11-03",
-     "p": 209.59
-    },
-    {
-     "d": "2026-11-06",
-     "p": 209.59
-    },
-    {
-     "d": "2026-11-08",
-     "p": 209.59
-    },
-    {
-     "d": "2026-11-10",
-     "p": 209.59
-    },
-    {
-     "d": "2026-11-13",
-     "p": 209.59
-    },
-    {
-     "d": "2026-11-15",
-     "p": 209.59
-    },
-    {
-     "d": "2026-11-18",
-     "p": 210.96
-    },
-    {
-     "d": "2026-11-21",
-     "p": 210.96
-    },
-    {
-     "d": "2026-11-24",
-     "p": 210.96
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 27\" benq gw2786tc ips monitor 1920 1080 100 weiss",
-   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-gigabyte-z790-aorus-elite-ax-sockel-lga-1700-intel-z790-atx-",
@@ -117584,6 +117334,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asus-proart-pa602-wood-edition-midi-tower-schwarz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "ASUS ProArt PA602 Wood Edition Midi Tower Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-proart-pa602-wood-edition-midi-tower-schwarz-100528582/",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 232.88,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-proart-pa602-wood-edition-midi-tower-schwarz-100528582/"
+    }
+   ],
+   "price": 232.88,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 232.88
+    }
+   ],
+   "count": 1,
+   "tags": "gehause asus proart pa602 wood edition midi tower schwarz",
+   "firstSeen": "2026-11-27"
+  },
+  {
    "id": "c-silverstone-sst-ex850r-pm-extreme-sfx-netzteil-platinum-850-",
    "cat": "Netzteile",
    "sub": "SFX",
@@ -119344,6 +119123,35 @@
    "count": 1,
    "tags": "gehause lian o11 dynamic evo big tower schwarz",
    "firstSeen": "2026-11-01"
+  },
+  {
+   "id": "c-lian-li-o11-dynamic-evo-xl-big-tower-gehause",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Lian Li O11 Dynamic EVO XL , Big-Tower-Gehäuse",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Lian-Li/O11-Dynamic-EVO-XL-Big-Tower-Geh%C3%A4use/html/product/100048854",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 239.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Lian-Li/O11-Dynamic-EVO-XL-Big-Tower-Geh%C3%A4use/html/product/100048854"
+    }
+   ],
+   "price": 239.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 239.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause lian o11 dynamic evo big tower",
+   "firstSeen": "2026-11-27"
   },
   {
    "id": "c-asrock-x870-steel-legend-wifi-mainboard-sockel-am5-amd-x870-",
@@ -121561,6 +121369,93 @@
    "firstSeen": "2026-11-26"
   },
   {
+   "id": "c-be-quiet-dark-base-pro-901-big-tower-gehause",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "be quiet! Dark Base Pro 901 , Big-Tower-Gehäuse",
+   "source": "crawler",
+   "url": "https://www.alternate.de/be-quiet/Dark-Base-Pro-901-Big-Tower-Geh%C3%A4use/html/product/100026068",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 249.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/be-quiet/Dark-Base-Pro-901-Big-Tower-Geh%C3%A4use/html/product/100026068"
+    }
+   ],
+   "price": 249.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 249.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause quiet dark base pro 901 big tower",
+   "firstSeen": "2026-11-27"
+  },
+  {
+   "id": "c-be-quiet-dark-base-pro-901-big-tower-gehause-u93uz",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "be quiet! Dark Base Pro 901 , Big-Tower-Gehäuse",
+   "source": "crawler",
+   "url": "https://www.alternate.de/be-quiet/Dark-Base-Pro-901-Big-Tower-Geh%C3%A4use/html/product/1874142",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 249.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/be-quiet/Dark-Base-Pro-901-Big-Tower-Geh%C3%A4use/html/product/1874142"
+    }
+   ],
+   "price": 249.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 249.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause quiet dark base pro 901 big tower",
+   "firstSeen": "2026-11-27"
+  },
+  {
+   "id": "c-lian-li-o11-dynamic-evo-xl-big-tower-gehause-ajmub",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Lian Li O11 Dynamic EVO XL , Big-Tower-Gehäuse",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Lian-Li/O11-Dynamic-EVO-XL-Big-Tower-Geh%C3%A4use/html/product/100048855",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 249.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Lian-Li/O11-Dynamic-EVO-XL-Big-Tower-Geh%C3%A4use/html/product/100048855"
+    }
+   ],
+   "price": 249.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 249.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause lian o11 dynamic evo big tower",
+   "firstSeen": "2026-11-27"
+  },
+  {
    "id": "c-kingston-fury-beast-rgb-8-gb-ram-ddr5-6000-mt-s-cl36-schwarz",
    "cat": "Arbeitsspeicher",
    "sub": "DDR5",
@@ -123125,47 +123020,6 @@
    "count": 1,
    "tags": "ssds nvme 1 tb coreparts 1tbt 2280 1000 pcie nvme ssd",
    "firstSeen": "2026-11-20"
-  },
-  {
-   "id": "c-samsung-980-500-gb-m-2-pcie-3-0-x4-nvme-ssd",
-   "cat": "SSDs",
-   "sub": "NVMe 500 GB",
-   "name": "Samsung 980 500 GB M.2 PCIe 3.0 x4 NVMe SSD",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/samsung-980-500-gb-m-2-pcie-3-0-x4-nvme-ssd-6983857/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 260.44,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/samsung-980-500-gb-m-2-pcie-3-0-x4-nvme-ssd-6983857/"
-    }
-   ],
-   "price": 260.44,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-16",
-     "p": 256.75
-    },
-    {
-     "d": "2026-11-18",
-     "p": 256.75
-    },
-    {
-     "d": "2026-11-21",
-     "p": 260.44
-    },
-    {
-     "d": "2026-11-24",
-     "p": 260.44
-    }
-   ],
-   "count": 1,
-   "tags": "ssds nvme 500 gb samsung 980 500 pcie nvme ssd",
-   "firstSeen": "2026-11-16"
   },
   {
    "id": "c-kingston-fury-beast-rgb-16-gb-ddr4-3200-mt-s-cl16-dimm-schwa",
@@ -125695,47 +125549,6 @@
    "count": 1,
    "tags": "monitore 15,6\" philips 3000 series 16b1p3302 tragbarer monitor full ips usb textured black",
    "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-samsung-990-pro-m-2-nvme-ssd-1-tb-pcie-4-0-x4-mit-kuhlkorper",
-   "cat": "SSDs",
-   "sub": "PCIe 4.0 1 TB",
-   "name": "Samsung 990 PRO M.2 NVMe SSD 1 TB PCIe 4.0 x4 mit Kühlkörper",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/samsung-990-pro-m-2-nvme-ssd-1-tb-pcie-4-0-x4-mit-kuehlkoerper-8265761/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 279.29,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/samsung-990-pro-m-2-nvme-ssd-1-tb-pcie-4-0-x4-mit-kuehlkoerper-8265761/"
-    }
-   ],
-   "price": 279.29,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-16",
-     "p": 279.5
-    },
-    {
-     "d": "2026-11-18",
-     "p": 279.29
-    },
-    {
-     "d": "2026-11-21",
-     "p": 279.29
-    },
-    {
-     "d": "2026-11-24",
-     "p": 279.29
-    }
-   ],
-   "count": 1,
-   "tags": "ssds pcie 4.0 1 tb samsung 990 pro nvme ssd pcie mit kuhlkorper",
-   "firstSeen": "2026-11-16"
   },
   {
    "id": "c-msi-mag-b860-tomahawk-wifi-mainboard-intel-b860-lga1851-atx-",
@@ -131771,83 +131584,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-dell-pro-p2726dev-27-qhd-ips-led-monitor-schwarz",
-   "cat": "Monitore",
-   "sub": "27\"",
-   "name": "Dell Pro P2726DEV 27\" QHD IPS LED-Monitor Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/dell-pro-p2726dev-27-qhd-ips-led-monitor-schwarz-100707194/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 327.76,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/dell-pro-p2726dev-27-qhd-ips-led-monitor-schwarz-100707194/"
-    }
-   ],
-   "price": 327.76,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 368.6
-    },
-    {
-     "d": "2026-10-31",
-     "p": 368.6
-    },
-    {
-     "d": "2026-11-01",
-     "p": 368.6
-    },
-    {
-     "d": "2026-11-02",
-     "p": 329.65
-    },
-    {
-     "d": "2026-11-03",
-     "p": 329.93
-    },
-    {
-     "d": "2026-11-06",
-     "p": 330.13
-    },
-    {
-     "d": "2026-11-08",
-     "p": 329.99
-    },
-    {
-     "d": "2026-11-10",
-     "p": 327.76
-    },
-    {
-     "d": "2026-11-13",
-     "p": 327.76
-    },
-    {
-     "d": "2026-11-15",
-     "p": 327.76
-    },
-    {
-     "d": "2026-11-18",
-     "p": 319.84
-    },
-    {
-     "d": "2026-11-21",
-     "p": 319.84
-    },
-    {
-     "d": "2026-11-24",
-     "p": 327.76
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 27\" dell pro p2726dev qhd ips led monitor schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-crucial-pro-ddr5-16-gb-ram-1-x-16-gb-6000-mhz-cl48-288-pin-d",
    "cat": "Arbeitsspeicher",
    "sub": "DDR5 16 GB",
@@ -133096,83 +132832,6 @@
    "count": 1,
    "tags": "grafikkarten geforce rtx 3050 asus geforce rtx 3050 low profile o6g 6144 gddr6",
    "firstSeen": "2026-10-29"
-  },
-  {
-   "id": "c-lenovo-thinkpad-1-tb-pcie-4-0-nvme-m-2-2280-ssd",
-   "cat": "SSDs",
-   "sub": "PCIe 4.0 1 TB",
-   "name": "Lenovo ThinkPad 1 TB PCIe 4.0 NVMe M.2 2280 SSD",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/lenovo-thinkpad-1-tb-pcie-4-0-nvme-m-2-2280-ssd-7090960/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 339.11,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/lenovo-thinkpad-1-tb-pcie-4-0-nvme-m-2-2280-ssd-7090960/"
-    }
-   ],
-   "price": 339.11,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 339.11
-    },
-    {
-     "d": "2026-10-31",
-     "p": 339.11
-    },
-    {
-     "d": "2026-11-01",
-     "p": 339.11
-    },
-    {
-     "d": "2026-11-02",
-     "p": 339.11
-    },
-    {
-     "d": "2026-11-03",
-     "p": 339.11
-    },
-    {
-     "d": "2026-11-06",
-     "p": 339.11
-    },
-    {
-     "d": "2026-11-08",
-     "p": 339.11
-    },
-    {
-     "d": "2026-11-11",
-     "p": 339.11
-    },
-    {
-     "d": "2026-11-13",
-     "p": 339.11
-    },
-    {
-     "d": "2026-11-15",
-     "p": 339.11
-    },
-    {
-     "d": "2026-11-18",
-     "p": 339.11
-    },
-    {
-     "d": "2026-11-21",
-     "p": 339.11
-    },
-    {
-     "d": "2026-11-24",
-     "p": 339.11
-    }
-   ],
-   "count": 1,
-   "tags": "ssds pcie 4.0 1 tb lenovo thinkpad pcie nvme 2280 ssd",
-   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-adata-xpg-mars-980-blade-nvme-ssd-pcie-5-0-m-2-typ-2280-2-tb",
@@ -141314,47 +140973,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-samsung-980-m-2-nvme-ssd-1-tb-pcie-3-0-bis-zu-2-900-mb-s",
-   "cat": "SSDs",
-   "sub": "NVMe 1 TB",
-   "name": "Samsung 980 M.2 NVMe SSD 1 TB PCIe 3.0 (bis zu 2.900 MB/s)",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/samsung-980-m-2-nvme-ssd-1-tb-pcie-3-0-bis-zu-2-900-mb-s-6983858/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 413.55,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/samsung-980-m-2-nvme-ssd-1-tb-pcie-3-0-bis-zu-2-900-mb-s-6983858/"
-    }
-   ],
-   "price": 413.55,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-16",
-     "p": 413.55
-    },
-    {
-     "d": "2026-11-18",
-     "p": 413.55
-    },
-    {
-     "d": "2026-11-21",
-     "p": 413.55
-    },
-    {
-     "d": "2026-11-24",
-     "p": 413.55
-    }
-   ],
-   "count": 1,
-   "tags": "ssds nvme 1 tb samsung 980 nvme ssd pcie bis 900",
-   "firstSeen": "2026-11-16"
-  },
-  {
    "id": "c-asus-p12r-m-server-motherboard-microatx-lga1200-c252-ddr4-sc",
    "cat": "Mainboards",
    "sub": "Mainboards",
@@ -145071,83 +144689,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-asrock-z890-taichi-mainboard-lga-1851-atx-ddr5-wi-fi-7-schwa",
-   "cat": "Mainboards",
-   "sub": "Intel LGA1851 Z890",
-   "name": "ASRock Z890 TAICHI Mainboard LGA 1851 ATX DDR5 Wi-Fi 7 Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/asrock-z890-taichi-mainboard-lga-1851-atx-ddr5-wi-fi-7-schwarz-100515994/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 476.15,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/asrock-z890-taichi-mainboard-lga-1851-atx-ddr5-wi-fi-7-schwarz-100515994/"
-    }
-   ],
-   "price": 476.15,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 464.39
-    },
-    {
-     "d": "2026-10-31",
-     "p": 464.39
-    },
-    {
-     "d": "2026-11-01",
-     "p": 464.22
-    },
-    {
-     "d": "2026-11-02",
-     "p": 464.22
-    },
-    {
-     "d": "2026-11-03",
-     "p": 463.92
-    },
-    {
-     "d": "2026-11-06",
-     "p": 462.64
-    },
-    {
-     "d": "2026-11-08",
-     "p": 463.47
-    },
-    {
-     "d": "2026-11-10",
-     "p": 462.55
-    },
-    {
-     "d": "2026-11-13",
-     "p": 468.91
-    },
-    {
-     "d": "2026-11-15",
-     "p": 470.18
-    },
-    {
-     "d": "2026-11-18",
-     "p": 473.95
-    },
-    {
-     "d": "2026-11-21",
-     "p": 470.26
-    },
-    {
-     "d": "2026-11-24",
-     "p": 476.15
-    }
-   ],
-   "count": 1,
-   "tags": "mainboards intel lga1851 z890 asrock z890 taichi mainboard lga 1851 atx ddr5 schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-lenovo-sk-hynix-ssd-1-tb-m-2-2280-pcie-4-0-x4-nvme-fru",
    "cat": "SSDs",
    "sub": "PCIe 4.0 1 TB",
@@ -147086,6 +146627,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-cooler-master-cosmos-c700m-big-tower-gehause",
+   "cat": "Gehäuse",
+   "sub": "Gehäuse",
+   "name": "Cooler Master COSMOS C700M, Big-Tower-Gehäuse",
+   "source": "crawler",
+   "url": "https://www.alternate.de/Cooler-Master/COSMOS-C700M-Big-Tower-Geh%C3%A4use/html/product/1479179",
+   "stand": "2026-11-27T17:30",
+   "offers": [
+    {
+     "shop": "ALTERNATE",
+     "price": 509.9,
+     "ship": 7.99,
+     "avail": "Auf Lager",
+     "url": "https://www.alternate.de/Cooler-Master/COSMOS-C700M-Big-Tower-Geh%C3%A4use/html/product/1479179"
+    }
+   ],
+   "price": 509.9,
+   "shop": "ALTERNATE",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 509.9
+    }
+   ],
+   "count": 1,
+   "tags": "gehause cooler master cosmos c700m big tower",
+   "firstSeen": "2026-11-27"
+  },
+  {
    "id": "c-benq-ma270u-27-4k-uhd-led-monitor-weiss",
    "cat": "Monitore",
    "sub": "27\"",
@@ -147749,83 +147319,6 @@
    ],
    "count": 1,
    "tags": "monitore 37\" samsung odyssey s37fg750eu 3840 2160 165 gaming monitor schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-samsung-870-qvo-1-tb-ssd-2-5-sata-iii",
-   "cat": "SSDs",
-   "sub": "SATA 1 TB",
-   "name": "Samsung 870 QVO 1 TB SSD 2,5\" SATA III",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/samsung-870-qvo-1-tb-ssd-2-5-sata-iii-6491946/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 524.39,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/samsung-870-qvo-1-tb-ssd-2-5-sata-iii-6491946/"
-    }
-   ],
-   "price": 524.39,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 470.38
-    },
-    {
-     "d": "2026-10-31",
-     "p": 470.38
-    },
-    {
-     "d": "2026-11-01",
-     "p": 470.38
-    },
-    {
-     "d": "2026-11-02",
-     "p": 470.38
-    },
-    {
-     "d": "2026-11-03",
-     "p": 501.72
-    },
-    {
-     "d": "2026-11-06",
-     "p": 498.88
-    },
-    {
-     "d": "2026-11-08",
-     "p": 498.86
-    },
-    {
-     "d": "2026-11-11",
-     "p": 498.74
-    },
-    {
-     "d": "2026-11-13",
-     "p": 498.66
-    },
-    {
-     "d": "2026-11-15",
-     "p": 498.62
-    },
-    {
-     "d": "2026-11-18",
-     "p": 648.84
-    },
-    {
-     "d": "2026-11-21",
-     "p": 524.39
-    },
-    {
-     "d": "2026-11-24",
-     "p": 524.39
-    }
-   ],
-   "count": 1,
-   "tags": "ssds sata 1 tb samsung 870 qvo ssd sata iii",
    "firstSeen": "2026-10-30"
   },
   {
@@ -148955,83 +148448,6 @@
    ],
    "count": 1,
    "tags": "monitore 34\" philips line 346b1c curved uwqhd monitor 3440 1440 black texture",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-samsung-pm893-480-gb-ssd-2-5-sata-6gb-s",
-   "cat": "SSDs",
-   "sub": "SATA 480 GB",
-   "name": "Samsung PM893 480 GB SSD 2.5\" SATA 6Gb/s",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/samsung-pm893-480-gb-ssd-2-5-sata-6gb-s-7102257/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 544.94,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/samsung-pm893-480-gb-ssd-2-5-sata-6gb-s-7102257/"
-    }
-   ],
-   "price": 544.94,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 550.33
-    },
-    {
-     "d": "2026-10-31",
-     "p": 550.33
-    },
-    {
-     "d": "2026-11-01",
-     "p": 550.33
-    },
-    {
-     "d": "2026-11-02",
-     "p": 550.33
-    },
-    {
-     "d": "2026-11-03",
-     "p": 549.93
-    },
-    {
-     "d": "2026-11-06",
-     "p": 548.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 544.94
-    },
-    {
-     "d": "2026-11-11",
-     "p": 544.41
-    },
-    {
-     "d": "2026-11-13",
-     "p": 544.41
-    },
-    {
-     "d": "2026-11-15",
-     "p": 543.79
-    },
-    {
-     "d": "2026-11-18",
-     "p": 547.63
-    },
-    {
-     "d": "2026-11-21",
-     "p": 547.63
-    },
-    {
-     "d": "2026-11-24",
-     "p": 544.94
-    }
-   ],
-   "count": 1,
-   "tags": "ssds sata 480 gb samsung pm893 480 ssd sata 6gb",
    "firstSeen": "2026-10-30"
   },
   {
@@ -151293,83 +150709,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-patriot-viper-venom-rgb-ddr5-32-gb-2-x-16-gb-6000-mt-s-dimm-",
-   "cat": "Arbeitsspeicher",
-   "sub": "DDR5 32 GB",
-   "name": "Patriot Viper Venom RGB DDR5 32 GB (2 x 16 GB) 6000 MT/s DIMM Kit",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/patriot-viper-venom-rgb-ddr5-32-gb-2-x-16-gb-6000-mt-s-dimm-kit-100505633/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 581.58,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/patriot-viper-venom-rgb-ddr5-32-gb-2-x-16-gb-6000-mt-s-dimm-kit-100505633/"
-    }
-   ],
-   "price": 581.58,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 566.2
-    },
-    {
-     "d": "2026-10-31",
-     "p": 566.2
-    },
-    {
-     "d": "2026-11-01",
-     "p": 566.2
-    },
-    {
-     "d": "2026-11-02",
-     "p": 566.2
-    },
-    {
-     "d": "2026-11-03",
-     "p": 576.46
-    },
-    {
-     "d": "2026-11-06",
-     "p": 581.58
-    },
-    {
-     "d": "2026-11-08",
-     "p": 581.58
-    },
-    {
-     "d": "2026-11-10",
-     "p": 581.58
-    },
-    {
-     "d": "2026-11-13",
-     "p": 581.58
-    },
-    {
-     "d": "2026-11-15",
-     "p": 581.58
-    },
-    {
-     "d": "2026-11-18",
-     "p": 581.58
-    },
-    {
-     "d": "2026-11-21",
-     "p": 581.58
-    },
-    {
-     "d": "2026-11-24",
-     "p": 581.58
-    }
-   ],
-   "count": 1,
-   "tags": "arbeitsspeicher ddr5 32 gb patriot viper venom rgb ddr5 6000 dimm kit",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-lenovo-mainboard-5b20w77637-mit-amd-ryzen-5-pro-4650u-8-gb-r",
    "cat": "Mainboards",
    "sub": "Mainboards",
@@ -153413,83 +152752,6 @@
    "count": 1,
    "tags": "arbeitsspeicher ddr5 32 gb xpg lancer blade ddr5 6000 ram kit cl48 schwarz",
    "firstSeen": "2026-11-19"
-  },
-  {
-   "id": "c-western-digital-wd-black-sn8100-nvme-ssd-2-tb-m-2-pcie-5-0",
-   "cat": "SSDs",
-   "sub": "PCIe 5.0 2 TB",
-   "name": "Western Digital WD_BLACK SN8100 NVMe SSD 2 TB M.2 PCIe 5.0",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/western-digital-wd-black-sn8100-nvme-ssd-2-tb-m-2-pcie-5-0-100861041/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 618.48,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/western-digital-wd-black-sn8100-nvme-ssd-2-tb-m-2-pcie-5-0-100861041/"
-    }
-   ],
-   "price": 618.48,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 618.48
-    },
-    {
-     "d": "2026-10-31",
-     "p": 618.48
-    },
-    {
-     "d": "2026-11-01",
-     "p": 618.48
-    },
-    {
-     "d": "2026-11-02",
-     "p": 618.48
-    },
-    {
-     "d": "2026-11-03",
-     "p": 618.48
-    },
-    {
-     "d": "2026-11-06",
-     "p": 618.48
-    },
-    {
-     "d": "2026-11-08",
-     "p": 618.48
-    },
-    {
-     "d": "2026-11-11",
-     "p": 618.48
-    },
-    {
-     "d": "2026-11-13",
-     "p": 618.48
-    },
-    {
-     "d": "2026-11-15",
-     "p": 618.48
-    },
-    {
-     "d": "2026-11-18",
-     "p": 618.48
-    },
-    {
-     "d": "2026-11-21",
-     "p": 618.48
-    },
-    {
-     "d": "2026-11-24",
-     "p": 618.48
-    }
-   ],
-   "count": 1,
-   "tags": "ssds pcie 5.0 2 tb western digital black sn8100 nvme ssd pcie",
-   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-g-skill-trident-z5-neo-ddr5-6000-ram-cl36-expo-32-gb-dual-ki",
@@ -155850,47 +155112,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-samsung-990-evo-plus-mz-v9s4t0bw-4-tb-m-2-nvme-pcie-ssd",
-   "cat": "SSDs",
-   "sub": "NVMe 4 TB",
-   "name": "Samsung 990 EVO Plus MZ-V9S4T0BW 4 TB M.2 NVMe PCIe SSD",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/samsung-990-evo-plus-mz-v9s4t0bw-4-tb-m-2-nvme-pcie-ssd-100516578/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 666.64,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/samsung-990-evo-plus-mz-v9s4t0bw-4-tb-m-2-nvme-pcie-ssd-100516578/"
-    }
-   ],
-   "price": 666.64,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-16",
-     "p": 672.4
-    },
-    {
-     "d": "2026-11-18",
-     "p": 662.72
-    },
-    {
-     "d": "2026-11-21",
-     "p": 662.72
-    },
-    {
-     "d": "2026-11-24",
-     "p": 666.64
-    }
-   ],
-   "count": 1,
-   "tags": "ssds nvme 4 tb samsung 990 evo plus v9s4t0bw nvme pcie ssd",
-   "firstSeen": "2026-11-16"
-  },
-  {
    "id": "c-transcend-mte712a-ssd-512-gb-m-2-2280-pcie-4-0-x4-nvme-sed-t",
    "cat": "SSDs",
    "sub": "PCIe 4.0 512 GB",
@@ -156010,83 +155231,6 @@
    ],
    "count": 1,
    "tags": "mainboards asus s14na u12 server mainboard ssi ceb socket sp6 amd epyc 8004 ddr5 schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-samsung-980-pro-nvme-m-2-ssd-2-tb",
-   "cat": "SSDs",
-   "sub": "NVMe 2 TB",
-   "name": "Samsung 980 PRO NVMe M.2 SSD 2 TB",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/samsung-980-pro-nvme-m-2-ssd-2-tb-6951385/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 672.67,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/samsung-980-pro-nvme-m-2-ssd-2-tb-6951385/"
-    }
-   ],
-   "price": 672.67,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 638.09
-    },
-    {
-     "d": "2026-10-31",
-     "p": 638.09
-    },
-    {
-     "d": "2026-11-01",
-     "p": 641.12
-    },
-    {
-     "d": "2026-11-02",
-     "p": 643.09
-    },
-    {
-     "d": "2026-11-03",
-     "p": 643.09
-    },
-    {
-     "d": "2026-11-06",
-     "p": 672.67
-    },
-    {
-     "d": "2026-11-08",
-     "p": 672.67
-    },
-    {
-     "d": "2026-11-11",
-     "p": 672.67
-    },
-    {
-     "d": "2026-11-13",
-     "p": 675.15
-    },
-    {
-     "d": "2026-11-15",
-     "p": 676.53
-    },
-    {
-     "d": "2026-11-18",
-     "p": 679.17
-    },
-    {
-     "d": "2026-11-21",
-     "p": 679.17
-    },
-    {
-     "d": "2026-11-24",
-     "p": 672.67
-    }
-   ],
-   "count": 1,
-   "tags": "ssds nvme 2 tb samsung 980 pro nvme ssd",
    "firstSeen": "2026-10-30"
   },
   {
@@ -159660,47 +158804,6 @@
    "firstSeen": "2026-10-31"
   },
   {
-   "id": "c-samsung-990-pro-mz-v9p4t0cw-ssd-4-tb-m-2-2280-pcie-4-0-x4-nv",
-   "cat": "SSDs",
-   "sub": "PCIe 4.0 4 TB",
-   "name": "Samsung 990 PRO MZ-V9P4T0CW SSD 4 TB M.2 2280 PCIe 4.0 x4 (NVMe)",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/samsung-990-pro-mz-v9p4t0cw-ssd-4-tb-m-2-2280-pcie-4-0-x4-nvme-100303631/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 743.8,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/samsung-990-pro-mz-v9p4t0cw-ssd-4-tb-m-2-2280-pcie-4-0-x4-nvme-100303631/"
-    }
-   ],
-   "price": 743.8,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-16",
-     "p": 743.8
-    },
-    {
-     "d": "2026-11-18",
-     "p": 756.54
-    },
-    {
-     "d": "2026-11-21",
-     "p": 743.8
-    },
-    {
-     "d": "2026-11-24",
-     "p": 743.8
-    }
-   ],
-   "count": 1,
-   "tags": "ssds pcie 4.0 4 tb samsung 990 pro v9p4t0cw ssd 2280 pcie nvme",
-   "firstSeen": "2026-11-16"
-  },
-  {
    "id": "c-kingston-fury-beast-32-gb-ram-ddr5-6000-cl36-kit-weiss",
    "cat": "Arbeitsspeicher",
    "sub": "DDR5 32 GB",
@@ -161987,47 +161090,6 @@
    "count": 1,
    "tags": "monitore 49\" nitro concepts sm1 curved monitor 144 sim racing display",
    "firstSeen": "2026-11-01"
-  },
-  {
-   "id": "c-western-digital-wd-blue-sn570-2-tb-m-2-pcie-3-0-nvme-ssd",
-   "cat": "SSDs",
-   "sub": "NVMe 2 TB",
-   "name": "Western Digital WD Blue SN570 2 TB M.2 PCIe 3.0 NVMe SSD",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/western-digital-wd-blue-sn570-2-tb-m-2-pcie-3-0-nvme-ssd-7402708/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 800.95,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/western-digital-wd-blue-sn570-2-tb-m-2-pcie-3-0-nvme-ssd-7402708/"
-    }
-   ],
-   "price": 800.95,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-16",
-     "p": 800.95
-    },
-    {
-     "d": "2026-11-18",
-     "p": 800.95
-    },
-    {
-     "d": "2026-11-21",
-     "p": 800.95
-    },
-    {
-     "d": "2026-11-24",
-     "p": 800.95
-    }
-   ],
-   "count": 1,
-   "tags": "ssds nvme 2 tb western digital blue sn570 pcie nvme ssd",
-   "firstSeen": "2026-11-16"
   },
   {
    "id": "c-hpe-480-gb-ssd-2-5-sata-hot-swap",
@@ -164579,83 +163641,6 @@
    "firstSeen": "2026-11-19"
   },
   {
-   "id": "c-samsung-870-qvo-2-tb-ssd-2-5-sata-iii",
-   "cat": "SSDs",
-   "sub": "SATA 2 TB",
-   "name": "Samsung 870 QVO 2 TB SSD 2.5\" SATA III",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/samsung-870-qvo-2-tb-ssd-2-5-sata-iii-6491947/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 867.01,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/samsung-870-qvo-2-tb-ssd-2-5-sata-iii-6491947/"
-    }
-   ],
-   "price": 867.01,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 825.28
-    },
-    {
-     "d": "2026-10-31",
-     "p": 825.28
-    },
-    {
-     "d": "2026-11-01",
-     "p": 825.28
-    },
-    {
-     "d": "2026-11-02",
-     "p": 825.28
-    },
-    {
-     "d": "2026-11-03",
-     "p": 825.28
-    },
-    {
-     "d": "2026-11-06",
-     "p": 825.28
-    },
-    {
-     "d": "2026-11-08",
-     "p": 825.28
-    },
-    {
-     "d": "2026-11-11",
-     "p": 825.28
-    },
-    {
-     "d": "2026-11-13",
-     "p": 825.28
-    },
-    {
-     "d": "2026-11-15",
-     "p": 825.28
-    },
-    {
-     "d": "2026-11-18",
-     "p": 825.28
-    },
-    {
-     "d": "2026-11-21",
-     "p": 825.28
-    },
-    {
-     "d": "2026-11-24",
-     "p": 867.01
-    }
-   ],
-   "count": 1,
-   "tags": "ssds sata 2 tb samsung 870 qvo ssd sata iii",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-xfx-mercury-oc-radeon-rx-9060-xt-16-gb-gddr6-schwarz",
    "cat": "Grafikkarten",
    "sub": "Radeon RX 9060 XT",
@@ -165658,83 +164643,6 @@
    ],
    "count": 1,
    "tags": "grafikkarten geforce rtx 5060 ti gainward geforce rtx 5060 ghost 16384 gddr7",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-seagate-firecuda-x1070-2-tb-m-2-ssd",
-   "cat": "SSDs",
-   "sub": "NVMe 2 TB",
-   "name": "Seagate FireCuda X1070 2 TB M.2 SSD",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/seagate-firecuda-x1070-2-tb-m-2-ssd-100869169/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 884.93,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/seagate-firecuda-x1070-2-tb-m-2-ssd-100869169/"
-    }
-   ],
-   "price": 884.93,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 911.17
-    },
-    {
-     "d": "2026-10-31",
-     "p": 911.17
-    },
-    {
-     "d": "2026-11-01",
-     "p": 911.17
-    },
-    {
-     "d": "2026-11-02",
-     "p": 911.17
-    },
-    {
-     "d": "2026-11-03",
-     "p": 911.17
-    },
-    {
-     "d": "2026-11-06",
-     "p": 911.17
-    },
-    {
-     "d": "2026-11-08",
-     "p": 902.9
-    },
-    {
-     "d": "2026-11-11",
-     "p": 909.7
-    },
-    {
-     "d": "2026-11-13",
-     "p": 914.86
-    },
-    {
-     "d": "2026-11-15",
-     "p": 920.25
-    },
-    {
-     "d": "2026-11-18",
-     "p": 884.93
-    },
-    {
-     "d": "2026-11-21",
-     "p": 884.93
-    },
-    {
-     "d": "2026-11-24",
-     "p": 884.93
-    }
-   ],
-   "count": 1,
-   "tags": "ssds nvme 2 tb seagate firecuda x1070 ssd",
    "firstSeen": "2026-10-30"
   },
   {
@@ -173335,83 +172243,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-samsung-870-qvo-ssd-4-tb-2-5-sata-iii",
-   "cat": "SSDs",
-   "sub": "SATA 4 TB",
-   "name": "Samsung 870 QVO SSD 4 TB 2.5\" SATA III",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/samsung-870-qvo-ssd-4-tb-2-5-sata-iii-6491948/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 1325.67,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/samsung-870-qvo-ssd-4-tb-2-5-sata-iii-6491948/"
-    }
-   ],
-   "price": 1325.67,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 1313.17
-    },
-    {
-     "d": "2026-10-31",
-     "p": 1313.17
-    },
-    {
-     "d": "2026-11-01",
-     "p": 1278.99
-    },
-    {
-     "d": "2026-11-02",
-     "p": 1278.99
-    },
-    {
-     "d": "2026-11-03",
-     "p": 1278.99
-    },
-    {
-     "d": "2026-11-06",
-     "p": 1285.06
-    },
-    {
-     "d": "2026-11-08",
-     "p": 1291.13
-    },
-    {
-     "d": "2026-11-11",
-     "p": 1294.16
-    },
-    {
-     "d": "2026-11-13",
-     "p": 1297.2
-    },
-    {
-     "d": "2026-11-15",
-     "p": 1300.23
-    },
-    {
-     "d": "2026-11-18",
-     "p": 1300.23
-    },
-    {
-     "d": "2026-11-21",
-     "p": 1325.67
-    },
-    {
-     "d": "2026-11-24",
-     "p": 1325.67
-    }
-   ],
-   "count": 1,
-   "tags": "ssds sata 4 tb samsung 870 qvo ssd sata iii",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-acer-nitro-v-17-ai-anv17-41-17-3-ryzen-7-260-16-gb-ram-1-tb-",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5070",
@@ -174936,83 +173767,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-seagate-firecuda-x1070-4-tb-m-2-nvme-ssd",
-   "cat": "SSDs",
-   "sub": "NVMe 4 TB",
-   "name": "Seagate FireCuda X1070 4 TB M.2 NVMe SSD",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/seagate-firecuda-x1070-4-tb-m-2-nvme-ssd-100869170/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 1507.11,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/seagate-firecuda-x1070-4-tb-m-2-nvme-ssd-100869170/"
-    }
-   ],
-   "price": 1507.11,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 1678.67
-    },
-    {
-     "d": "2026-10-31",
-     "p": 1678.67
-    },
-    {
-     "d": "2026-11-01",
-     "p": 1681.22
-    },
-    {
-     "d": "2026-11-02",
-     "p": 1681.22
-    },
-    {
-     "d": "2026-11-03",
-     "p": 1673.28
-    },
-    {
-     "d": "2026-11-06",
-     "p": 1668.83
-    },
-    {
-     "d": "2026-11-08",
-     "p": 1682.27
-    },
-    {
-     "d": "2026-11-11",
-     "p": 1680.61
-    },
-    {
-     "d": "2026-11-13",
-     "p": 1690.17
-    },
-    {
-     "d": "2026-11-15",
-     "p": 1700.13
-    },
-    {
-     "d": "2026-11-18",
-     "p": 1658
-    },
-    {
-     "d": "2026-11-21",
-     "p": 1584.73
-    },
-    {
-     "d": "2026-11-24",
-     "p": 1507.11
-    }
-   ],
-   "count": 1,
-   "tags": "ssds nvme 4 tb seagate firecuda x1070 nvme ssd",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-captiva-advanced-gaming-i95-889-i5-14400f-16-gb-ram-1-tb-ssd",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5060 Ti",
@@ -176222,47 +174976,6 @@
    "count": 1,
    "tags": "arbeitsspeicher ddr5 64 gb skill dimm ddr5 6000 dual kit",
    "firstSeen": "2026-11-27"
-  },
-  {
-   "id": "c-lenovo-ssd-2-tb-m-2-2280-pcie-4-0-nvme-tcg-opal-encryption-2",
-   "cat": "SSDs",
-   "sub": "PCIe 4.0 2 TB",
-   "name": "Lenovo SSD 2 TB M.2 2280 PCIe 4.0 (NVMe) TCG Opal Encryption 2.0",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/lenovo-ssd-2-tb-m-2-2280-pcie-4-0-nvme-tcg-opal-encryption-2-0-100358669/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 1639.45,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/lenovo-ssd-2-tb-m-2-2280-pcie-4-0-nvme-tcg-opal-encryption-2-0-100358669/"
-    }
-   ],
-   "price": 1639.45,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-16",
-     "p": 1639.45
-    },
-    {
-     "d": "2026-11-18",
-     "p": 1639.45
-    },
-    {
-     "d": "2026-11-21",
-     "p": 1639.45
-    },
-    {
-     "d": "2026-11-24",
-     "p": 1639.45
-    }
-   ],
-   "count": 1,
-   "tags": "ssds pcie 4.0 2 tb lenovo ssd 2280 pcie nvme tcg opal encryption",
-   "firstSeen": "2026-11-16"
   },
   {
    "id": "c-lg-ultragear-32gq950p-b-gaming-monitor-31-5-uhd-nano-ips-1-m",
@@ -179741,47 +178454,6 @@
    "firstSeen": "2026-11-13"
   },
   {
-   "id": "c-samsung-9100-pro-mz-vap8t0-ssd-8-tb-m-2-2280-pcie-5-0-x4-nvm",
-   "cat": "SSDs",
-   "sub": "PCIe 5.0 8 TB",
-   "name": "Samsung 9100 PRO MZ-VAP8T0 SSD 8 TB M.2 2280 PCIe 5.0 x4 NVMe Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/samsung-9100-pro-mz-vap8t0-ssd-8-tb-m-2-2280-pcie-5-0-x4-nvme-schwarz-100666437/",
-   "stand": "2026-11-24T16:15",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 2096.86,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/samsung-9100-pro-mz-vap8t0-ssd-8-tb-m-2-2280-pcie-5-0-x4-nvme-schwarz-100666437/"
-    }
-   ],
-   "price": 2096.86,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-16",
-     "p": 2124.83
-    },
-    {
-     "d": "2026-11-18",
-     "p": 2037.71
-    },
-    {
-     "d": "2026-11-21",
-     "p": 2037.71
-    },
-    {
-     "d": "2026-11-24",
-     "p": 2096.86
-    }
-   ],
-   "count": 1,
-   "tags": "ssds pcie 5.0 8 tb samsung 9100 pro vap8t0 ssd 2280 pcie nvme schwarz",
-   "firstSeen": "2026-11-16"
-  },
-  {
    "id": "c-captiva-highend-gaming-i94-375ge-17-3-intel-core-i7-13620h-3",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5070",
@@ -179971,634 +178643,6 @@
    "count": 1,
    "tags": "grafikkarten geforce rtx 4000 nvidia rtx 4000 sff ada grafikkarte gddr6",
    "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-samsung-9100-pro-series-nvme-ssd-pcie-5-0-m-2-typ-2280-8-tb",
-   "cat": "SSDs",
-   "sub": "PCIe 5.0 8 TB",
-   "name": "Samsung 9100 PRO Series NVMe SSD, PCIe 5.0 M.2 Typ 2280 - 8 TB",
-   "source": "crawler",
-   "url": "https://www.caseking.de/en/samsung-9100-pro-series-nvme-ssd-pcie-5.0-m.2-type-2280-8-tb/SSSS-214.html",
-   "stand": "2026-11-26T21:59",
-   "offers": [
-    {
-     "shop": "caseking.de",
-     "price": 2126.79,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/samsung-9100-pro-series-nvme-ssd-pcie-5.0-m.2-type-2280-8-tb/SSSS-214.html"
-    }
-   ],
-   "price": 2126.79,
-   "shop": "caseking.de",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 2126.79
-    },
-    {
-     "d": "2026-10-31",
-     "p": 2126.79
-    },
-    {
-     "d": "2026-11-02",
-     "p": 2126.79
-    },
-    {
-     "d": "2026-11-04",
-     "p": 2126.79
-    },
-    {
-     "d": "2026-11-06",
-     "p": 2126.79
-    },
-    {
-     "d": "2026-11-08",
-     "p": 2126.79
-    },
-    {
-     "d": "2026-11-10",
-     "p": 2126.79
-    },
-    {
-     "d": "2026-11-12",
-     "p": 2126.79
-    },
-    {
-     "d": "2026-11-15",
-     "p": 2126.79
-    },
-    {
-     "d": "2026-11-17",
-     "p": 2126.79
-    },
-    {
-     "d": "2026-11-20",
-     "p": 2126.79
-    },
-    {
-     "d": "2026-11-22",
-     "p": 2126.79
-    },
-    {
-     "d": "2026-11-24",
-     "p": 2126.79
-    },
-    {
-     "d": "2026-11-26",
-     "p": 2126.79
-    }
-   ],
-   "count": 1,
-   "tags": "ssds pcie 5.0 8 tb samsung 9100 pro series nvme ssd pcie typ 2280",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-samsung-9100-pro-mz-vap8t0-8-tb-ssd-m-2-2280-pcie-5-0-x4-nvm",
-   "cat": "SSDs",
-   "sub": "PCIe 5.0 8 TB",
-   "name": "Samsung 9100 PRO MZ-VAP8T0 8 TB SSD M.2 2280 PCIe 5.0 x4 NVMe Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/samsung-9100-pro-mz-vap8t0-8-tb-ssd-m-2-2280-pcie-5-0-x4-nvme-schwarz-100661921/",
-   "stand": "2026-11-27T14:24",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 2136.37,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/samsung-9100-pro-mz-vap8t0-8-tb-ssd-m-2-2280-pcie-5-0-x4-nvme-schwarz-100661921/"
-    }
-   ],
-   "price": 2136.37,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 2117.59
-    },
-    {
-     "d": "2026-10-31",
-     "p": 2135.54
-    },
-    {
-     "d": "2026-11-01",
-     "p": 2136.37
-    },
-    {
-     "d": "2026-11-02",
-     "p": 2136.37
-    },
-    {
-     "d": "2026-11-03",
-     "p": 2132.5
-    },
-    {
-     "d": "2026-11-06",
-     "p": 2118.6
-    },
-    {
-     "d": "2026-11-08",
-     "p": 2118.6
-    },
-    {
-     "d": "2026-11-10",
-     "p": 2118.6
-    },
-    {
-     "d": "2026-11-13",
-     "p": 2112.36
-    },
-    {
-     "d": "2026-11-15",
-     "p": 2112.36
-    },
-    {
-     "d": "2026-11-18",
-     "p": 2112.36
-    },
-    {
-     "d": "2026-11-21",
-     "p": 2136.37
-    },
-    {
-     "d": "2026-11-24",
-     "p": 2136.37
-    },
-    {
-     "d": "2026-11-27",
-     "p": 2136.37
-    }
-   ],
-   "count": 1,
-   "tags": "ssds pcie 5.0 8 tb samsung 9100 pro vap8t0 ssd 2280 pcie nvme schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-inno3d-geforce-rtx-5080-x3-16384-mb-gddr7",
-   "cat": "Grafikkarten",
-   "sub": "GeForce RTX 5080",
-   "name": "INNO3D GeForce RTX 5080 X3, 16384 MB GDDR7",
-   "source": "crawler",
-   "url": "https://www.caseking.de/en/inno3d-geforce-rtx-5080-x3-16384-mb-gddr7/GCI3-290.html",
-   "stand": "2026-11-26T14:25",
-   "offers": [
-    {
-     "shop": "caseking.de",
-     "price": 2139,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/inno3d-geforce-rtx-5080-x3-16384-mb-gddr7/GCI3-290.html"
-    }
-   ],
-   "price": 2139,
-   "shop": "caseking.de",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 2049
-    },
-    {
-     "d": "2026-10-31",
-     "p": 2049
-    },
-    {
-     "d": "2026-11-02",
-     "p": 2049
-    },
-    {
-     "d": "2026-11-04",
-     "p": 2049
-    },
-    {
-     "d": "2026-11-06",
-     "p": 2049
-    },
-    {
-     "d": "2026-11-08",
-     "p": 2049
-    },
-    {
-     "d": "2026-11-10",
-     "p": 2329
-    },
-    {
-     "d": "2026-11-12",
-     "p": 2139
-    },
-    {
-     "d": "2026-11-14",
-     "p": 2139
-    },
-    {
-     "d": "2026-11-17",
-     "p": 2139
-    },
-    {
-     "d": "2026-11-19",
-     "p": 2139
-    },
-    {
-     "d": "2026-11-21",
-     "p": 2139
-    },
-    {
-     "d": "2026-11-24",
-     "p": 2139
-    },
-    {
-     "d": "2026-11-26",
-     "p": 2139
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten geforce rtx 5080 inno3d geforce rtx 5080 16384 gddr7",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-samsung-9100-pro-series-nvme-ssd-pcie-5-0-m-2-typ-2280-mit-k-9l6id",
-   "cat": "SSDs",
-   "sub": "PCIe 5.0 8 TB",
-   "name": "Samsung 9100 PRO Series NVMe SSD, PCIe 5.0 M.2 Typ 2280, mit Kühlkörper - 8TB",
-   "source": "crawler",
-   "url": "https://www.caseking.de/samsung-9100-pro-series-nvme-ssd-pcie-5.0-m.2-typ-2280-mit-kuehlkoerper-8tb/SSSS-215.html",
-   "stand": "2026-11-26T21:59",
-   "offers": [
-    {
-     "shop": "caseking.de",
-     "price": 2139.94,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.caseking.de/samsung-9100-pro-series-nvme-ssd-pcie-5.0-m.2-typ-2280-mit-kuehlkoerper-8tb/SSSS-215.html"
-    }
-   ],
-   "price": 2139.94,
-   "shop": "caseking.de",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 2139.94
-    },
-    {
-     "d": "2026-10-31",
-     "p": 2139.94
-    },
-    {
-     "d": "2026-11-02",
-     "p": 2139.94
-    },
-    {
-     "d": "2026-11-04",
-     "p": 2139.94
-    },
-    {
-     "d": "2026-11-06",
-     "p": 2139.94
-    },
-    {
-     "d": "2026-11-08",
-     "p": 2139.94
-    },
-    {
-     "d": "2026-11-10",
-     "p": 2139.94
-    },
-    {
-     "d": "2026-11-12",
-     "p": 2139.94
-    },
-    {
-     "d": "2026-11-15",
-     "p": 2139.94
-    },
-    {
-     "d": "2026-11-17",
-     "p": 2139.94
-    },
-    {
-     "d": "2026-11-20",
-     "p": 2139.94
-    },
-    {
-     "d": "2026-11-22",
-     "p": 2139.94
-    },
-    {
-     "d": "2026-11-24",
-     "p": 2139.94
-    },
-    {
-     "d": "2026-11-26",
-     "p": 2139.94
-    }
-   ],
-   "count": 1,
-   "tags": "ssds pcie 5.0 8 tb samsung 9100 pro series nvme ssd pcie typ 2280 mit kuhlkorper 8tb",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-palit-geforce-rtx-5080-gamingpro-oc-16384-mb-gddr7",
-   "cat": "Grafikkarten",
-   "sub": "GeForce RTX 5080",
-   "name": "Palit GeForce RTX 5080 GamingPro OC, 16384 MB GDDR7",
-   "source": "crawler",
-   "url": "https://www.caseking.de/en/palit-geforce-rtx-5080-gamingpro-oc-16384-mb-gddr7/GCPI-122.html",
-   "stand": "2026-11-26T08:34",
-   "offers": [
-    {
-     "shop": "caseking.de",
-     "price": 2149,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/palit-geforce-rtx-5080-gamingpro-oc-16384-mb-gddr7/GCPI-122.html"
-    }
-   ],
-   "price": 2149,
-   "shop": "caseking.de",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 2099
-    },
-    {
-     "d": "2026-10-31",
-     "p": 2099
-    },
-    {
-     "d": "2026-11-02",
-     "p": 2099
-    },
-    {
-     "d": "2026-11-04",
-     "p": 2099
-    },
-    {
-     "d": "2026-11-06",
-     "p": 2099
-    },
-    {
-     "d": "2026-11-08",
-     "p": 2099
-    },
-    {
-     "d": "2026-11-10",
-     "p": 2249
-    },
-    {
-     "d": "2026-11-12",
-     "p": 2149
-    },
-    {
-     "d": "2026-11-14",
-     "p": 2149
-    },
-    {
-     "d": "2026-11-17",
-     "p": 2149
-    },
-    {
-     "d": "2026-11-19",
-     "p": 2149
-    },
-    {
-     "d": "2026-11-21",
-     "p": 2149
-    },
-    {
-     "d": "2026-11-23",
-     "p": 2149
-    },
-    {
-     "d": "2026-11-26",
-     "p": 2149
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten geforce rtx 5080 palit geforce rtx 5080 gamingpro 16384 gddr7",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-zotac-gaming-geforce-rtx-5080-amp-extreme-infinity-16384-mb-",
-   "cat": "Grafikkarten",
-   "sub": "GeForce RTX 5080",
-   "name": "ZOTAC GAMING GeForce RTX 5080 AMP Extreme INFINITY, 16384 MB GDDR7",
-   "source": "crawler",
-   "url": "https://www.caseking.de/en/zotac-gaming-geforce-rtx-5080-amp-extreme-infinity-16384-mb-gddr7/GCZT-264.html",
-   "stand": "2026-11-27T08:33",
-   "offers": [
-    {
-     "shop": "caseking.de",
-     "price": 2149,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/zotac-gaming-geforce-rtx-5080-amp-extreme-infinity-16384-mb-gddr7/GCZT-264.html"
-    }
-   ],
-   "price": 2149,
-   "shop": "caseking.de",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 2199
-    },
-    {
-     "d": "2026-10-31",
-     "p": 2199
-    },
-    {
-     "d": "2026-11-02",
-     "p": 2199
-    },
-    {
-     "d": "2026-11-04",
-     "p": 2239
-    },
-    {
-     "d": "2026-11-06",
-     "p": 2239
-    },
-    {
-     "d": "2026-11-08",
-     "p": 2239
-    },
-    {
-     "d": "2026-11-10",
-     "p": 2299
-    },
-    {
-     "d": "2026-11-12",
-     "p": 2149
-    },
-    {
-     "d": "2026-11-15",
-     "p": 2149
-    },
-    {
-     "d": "2026-11-17",
-     "p": 2149
-    },
-    {
-     "d": "2026-11-20",
-     "p": 2149
-    },
-    {
-     "d": "2026-11-22",
-     "p": 2149
-    },
-    {
-     "d": "2026-11-24",
-     "p": 2149
-    },
-    {
-     "d": "2026-11-27",
-     "p": 2149
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten geforce rtx 5080 zotac gaming geforce rtx 5080 amp extreme infinity 16384 gddr7",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-zotac-gaming-geforce-rtx-5080-solid-core-16384-mb-gddr7",
-   "cat": "Grafikkarten",
-   "sub": "GeForce RTX 5080",
-   "name": "ZOTAC GAMING GeForce RTX 5080 Solid Core, 16384 MB GDDR7",
-   "source": "crawler",
-   "url": "https://www.caseking.de/en/zotac-gaming-geforce-rtx-5080-solid-core-16384-mb-gddr7/GCZT-270.html",
-   "stand": "2026-11-27T14:24",
-   "offers": [
-    {
-     "shop": "caseking.de",
-     "price": 2149,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/zotac-gaming-geforce-rtx-5080-solid-core-16384-mb-gddr7/GCZT-270.html"
-    }
-   ],
-   "price": 2149,
-   "shop": "caseking.de",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 2099
-    },
-    {
-     "d": "2026-10-31",
-     "p": 2099
-    },
-    {
-     "d": "2026-11-02",
-     "p": 2099
-    },
-    {
-     "d": "2026-11-04",
-     "p": 2229
-    },
-    {
-     "d": "2026-11-06",
-     "p": 2229
-    },
-    {
-     "d": "2026-11-08",
-     "p": 2229
-    },
-    {
-     "d": "2026-11-10",
-     "p": 2229
-    },
-    {
-     "d": "2026-11-13",
-     "p": 2149
-    },
-    {
-     "d": "2026-11-15",
-     "p": 2149
-    },
-    {
-     "d": "2026-11-18",
-     "p": 2149
-    },
-    {
-     "d": "2026-11-20",
-     "p": 2149
-    },
-    {
-     "d": "2026-11-22",
-     "p": 2149
-    },
-    {
-     "d": "2026-11-25",
-     "p": 2149
-    },
-    {
-     "d": "2026-11-27",
-     "p": 2149
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten geforce rtx 5080 zotac gaming geforce rtx 5080 solid core 16384 gddr7",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-inno3d-geforce-rtx-5080-x3-oc-16384-mb-gddr7",
-   "cat": "Grafikkarten",
-   "sub": "GeForce RTX 5080",
-   "name": "INNO3D GeForce RTX 5080 X3 OC, 16384 MB GDDR7",
-   "source": "crawler",
-   "url": "https://www.caseking.de/en/inno3d-geforce-rtx-5080-x3-oc-16384-mb-gddr7/GCI3-289.html",
-   "stand": "2026-11-26T14:25",
-   "offers": [
-    {
-     "shop": "caseking.de",
-     "price": 2149,
-     "ship": null,
-     "avail": "Auf Lager",
-     "url": "https://www.caseking.de/en/inno3d-geforce-rtx-5080-x3-oc-16384-mb-gddr7/GCI3-289.html"
-    }
-   ],
-   "price": 2149,
-   "shop": "caseking.de",
-   "hist": [
-    {
-     "d": "2026-11-08",
-     "p": 2299
-    },
-    {
-     "d": "2026-11-10",
-     "p": 2299
-    },
-    {
-     "d": "2026-11-12",
-     "p": 2149
-    },
-    {
-     "d": "2026-11-15",
-     "p": 2149
-    },
-    {
-     "d": "2026-11-17",
-     "p": 2149
-    },
-    {
-     "d": "2026-11-19",
-     "p": 2149
-    },
-    {
-     "d": "2026-11-21",
-     "p": 2149
-    },
-    {
-     "d": "2026-11-24",
-     "p": 2149
-    },
-    {
-     "d": "2026-11-26",
-     "p": 2149
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten geforce rtx 5080 inno3d geforce rtx 5080 16384 gddr7",
-   "firstSeen": "2026-11-08"
   }
  ]
 }
