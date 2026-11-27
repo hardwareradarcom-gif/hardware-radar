@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T14:24:19.897Z",
+ "updated": "2026-11-27T16:08:41.378Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1338,76 +1338,6 @@
    "source": "crawler"
   },
   {
-   "id": "c-wd-red-sn700-wds500g1r0c-500-gb-m-2-nvme-ssd",
-   "name": "WD Red SN700 WDS500G1R0C 500 GB M.2 NVMe SSD",
-   "cat": "SSDs",
-   "price": 298.73,
-   "ref": 484.81,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/wd-red-sn700-wds500g1r0c-500-gb-m-2-nvme-ssd-7397902/",
-   "url": "https://www.jacob.de/produkt/wd-red-sn700-wds500g1r0c-500-gb-m-2-nvme-ssd-7397902/",
-   "note": "38 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 484.81
-    },
-    {
-     "d": "2026-10-31",
-     "p": 484.81
-    },
-    {
-     "d": "2026-11-01",
-     "p": 484.81
-    },
-    {
-     "d": "2026-11-02",
-     "p": 484.81
-    },
-    {
-     "d": "2026-11-03",
-     "p": 484.81
-    },
-    {
-     "d": "2026-11-06",
-     "p": 484.81
-    },
-    {
-     "d": "2026-11-08",
-     "p": 484.81
-    },
-    {
-     "d": "2026-11-10",
-     "p": 484.81
-    },
-    {
-     "d": "2026-11-13",
-     "p": 484.81
-    },
-    {
-     "d": "2026-11-15",
-     "p": 484.81
-    },
-    {
-     "d": "2026-11-18",
-     "p": 298.73
-    },
-    {
-     "d": "2026-11-21",
-     "p": 298.73
-    },
-    {
-     "d": "2026-11-24",
-     "p": 298.73
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-27",
-   "updated": "2026-11-27",
-   "tags": "ssds nvme 500 gb red sn700 wds500g1r0c 500 nvme ssd",
-   "source": "crawler"
-  },
-  {
    "id": "c-hyte-x50-air-midi-tower-snow-white",
    "name": "HYTE X50 Air Midi Tower - Snow White",
    "cat": "Gehäuse",
@@ -1750,6 +1680,10 @@
     },
     {
      "d": "2026-11-25",
+     "p": 19.9
+    },
+    {
+     "d": "2026-11-27",
      "p": 19.9
     }
    ],
@@ -6839,6 +6773,76 @@
    "seen": "2026-11-27",
    "updated": "2026-11-27",
    "tags": "kuhlung aio-wasserkuhlung alphacool core geforce rtx 5090 reference gpu wasserkuhlung argb mit backplate acryl",
+   "source": "crawler"
+  },
+  {
+   "id": "c-alphacool-core-geforce-rtx-5080-phantom-gamerock-gpu-wasserk",
+   "name": "Alphacool Core Geforce RTX 5080 Phantom / GameRock GPU Wasserkühlung, ARGB, mit Backplate - Acryl",
+   "cat": "Kühlung",
+   "price": 186.91,
+   "ref": 219.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/alphacool-core-geforce-rtx-5080-phantom-gamerock-gpu-wasserkuehlung-argb-mit-backplate-acryl/WACH-916.html",
+   "url": "https://www.caseking.de/alphacool-core-geforce-rtx-5080-phantom-gamerock-gpu-wasserkuehlung-argb-mit-backplate-acryl/WACH-916.html",
+   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 219.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-20",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-23",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-25",
+     "p": 186.91
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-27",
+   "updated": "2026-11-27",
+   "tags": "kuhlung aio-wasserkuhlung alphacool core geforce rtx 5080 phantom gamerock gpu wasserkuhlung argb mit backplate acryl",
    "source": "crawler"
   }
  ],

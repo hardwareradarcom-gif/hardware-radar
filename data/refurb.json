@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T14:24:19.897Z",
+ "updated": "2026-11-27T16:08:41.378Z",
  "products": [
   {
    "id": "r-acer-b246hylbymiprx-23-8-full-hd-1920x1080-display-hdmi-disp",
@@ -14384,89 +14384,6 @@
    "firstSeen": "2026-11-04"
   },
   {
-   "id": "r-lenovo-thinkcentre-m920q-tiny-intel-core-i5-9500t-8gb-ram-25",
-   "cat": "PCs & Workstations",
-   "name": "Lenovo ThinkCentre M920q Tiny, Intel Core i5 9500T, 8GB RAM, 256GB SSD, Windows 11 Pro",
-   "brand": "Lenovo",
-   "price": 359,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/lenovo-thinkcentre-m920q-tiny-intel-core-i5-9500t-256gb-ssd-8gb-windows-11-pro-kopie",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-M920q-Tiny-11_7305b4be-d855-4761-a5c0-5bca6658529c.jpg?v=1754158667",
-   "hist": [
-    {
-     "d": "2026-11-05",
-     "p": 359
-    },
-    {
-     "d": "2026-11-06",
-     "p": 359
-    },
-    {
-     "d": "2026-11-07",
-     "p": 359
-    },
-    {
-     "d": "2026-11-08",
-     "p": 359
-    },
-    {
-     "d": "2026-11-09",
-     "p": 359
-    },
-    {
-     "d": "2026-11-10",
-     "p": 359
-    },
-    {
-     "d": "2026-11-11",
-     "p": 359
-    },
-    {
-     "d": "2026-11-12",
-     "p": 359
-    },
-    {
-     "d": "2026-11-13",
-     "p": 359
-    },
-    {
-     "d": "2026-11-20",
-     "p": 359
-    },
-    {
-     "d": "2026-11-21",
-     "p": 359
-    },
-    {
-     "d": "2026-11-22",
-     "p": 359
-    },
-    {
-     "d": "2026-11-23",
-     "p": 359
-    },
-    {
-     "d": "2026-11-24",
-     "p": 359
-    },
-    {
-     "d": "2026-11-25",
-     "p": 359
-    },
-    {
-     "d": "2026-11-26",
-     "p": 359
-    },
-    {
-     "d": "2026-11-27",
-     "p": 359
-    }
-   ],
-   "firstSeen": "2026-11-05"
-  },
-  {
    "id": "r-fujitsu-esprimo-p758-intel-core-i5-8400-256gb-ssd-16gb-windo",
    "cat": "PCs & Workstations",
    "name": "Fujitsu Esprimo P758 Intel Core i5-8400 256GB SSD 16GB Windows 11 Pro Nvidia Quadro P400",
@@ -25273,6 +25190,89 @@
     {
      "d": "2026-11-27",
      "p": 399
+    }
+   ],
+   "firstSeen": "2026-11-05"
+  },
+  {
+   "id": "r-lenovo-thinkcentre-m920q-tiny-intel-core-i5-9500t-8gb-ram-25",
+   "cat": "PCs & Workstations",
+   "name": "Lenovo ThinkCentre M920q Tiny, Intel Core i5 9500T, 8GB RAM, 256GB SSD, Windows 11 Pro",
+   "brand": "Lenovo",
+   "price": 399,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkcentre-m920q-tiny-intel-core-i5-9500t-256gb-ssd-8gb-windows-11-pro-kopie",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-M920q-Tiny-11_7305b4be-d855-4761-a5c0-5bca6658529c.jpg?v=1754158667",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 359
+    },
+    {
+     "d": "2026-11-06",
+     "p": 359
+    },
+    {
+     "d": "2026-11-07",
+     "p": 359
+    },
+    {
+     "d": "2026-11-08",
+     "p": 359
+    },
+    {
+     "d": "2026-11-09",
+     "p": 359
+    },
+    {
+     "d": "2026-11-10",
+     "p": 359
+    },
+    {
+     "d": "2026-11-11",
+     "p": 359
+    },
+    {
+     "d": "2026-11-12",
+     "p": 359
+    },
+    {
+     "d": "2026-11-13",
+     "p": 359
+    },
+    {
+     "d": "2026-11-20",
+     "p": 359
+    },
+    {
+     "d": "2026-11-21",
+     "p": 359
+    },
+    {
+     "d": "2026-11-22",
+     "p": 359
+    },
+    {
+     "d": "2026-11-23",
+     "p": 359
+    },
+    {
+     "d": "2026-11-24",
+     "p": 359
+    },
+    {
+     "d": "2026-11-25",
+     "p": 359
+    },
+    {
+     "d": "2026-11-26",
+     "p": 359
+    },
+    {
+     "d": "2026-11-27",
+     "p": 359
     }
    ],
    "firstSeen": "2026-11-05"
@@ -57153,6 +57153,89 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "r-lenovo-thinkcentre-m920q-tiny-intel-core-i5-9500t-16gb-ram-1",
+   "cat": "PCs & Workstations",
+   "name": "Lenovo ThinkCentre M920q Tiny, Intel Core i5 9500T, 16GB RAM, 1TB SSD, Windows 11 Pro",
+   "brand": "Lenovo",
+   "price": 548.99,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkcentre-m920q-tiny-intel-core-i5-9500t-8gb-ram-256gb-ssd-windows-11-pro-kopie",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-M920q-Tiny-11_7305b4be-d855-4761-a5c0-5bca6658529c.jpg?v=1754158667",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 518.99
+    },
+    {
+     "d": "2026-11-06",
+     "p": 518.99
+    },
+    {
+     "d": "2026-11-07",
+     "p": 518.99
+    },
+    {
+     "d": "2026-11-08",
+     "p": 518.99
+    },
+    {
+     "d": "2026-11-09",
+     "p": 518.99
+    },
+    {
+     "d": "2026-11-10",
+     "p": 518.99
+    },
+    {
+     "d": "2026-11-11",
+     "p": 518.99
+    },
+    {
+     "d": "2026-11-12",
+     "p": 518.99
+    },
+    {
+     "d": "2026-11-13",
+     "p": 518.99
+    },
+    {
+     "d": "2026-11-20",
+     "p": 518.99
+    },
+    {
+     "d": "2026-11-21",
+     "p": 698.99
+    },
+    {
+     "d": "2026-11-22",
+     "p": 698.99
+    },
+    {
+     "d": "2026-11-23",
+     "p": 698.99
+    },
+    {
+     "d": "2026-11-24",
+     "p": 698.99
+    },
+    {
+     "d": "2026-11-25",
+     "p": 698.99
+    },
+    {
+     "d": "2026-11-26",
+     "p": 698.99
+    },
+    {
+     "d": "2026-11-27",
+     "p": 548.99
+    }
+   ],
+   "firstSeen": "2026-11-05"
+  },
+  {
    "id": "r-lenovo-thinkpad-t14-gen-1-14-fhd-display-intel-core-i5-10310",
    "cat": "Laptops",
    "name": "Lenovo ThinkPad T14 Gen 1, 14\" FHD Display, Intel Core i5 10310U, 16GB RAM, 512GB SSD, Webcam, Windows 11 Pro, ESET Internet Security",
@@ -66056,6 +66139,97 @@
     }
    ],
    "firstSeen": "2026-11-02"
+  },
+  {
+   "id": "r-lenovo-thinkcentre-m920s-sff-intel-core-i5-9500-24gb-ram-1tb",
+   "cat": "PCs & Workstations",
+   "name": "Lenovo ThinkCentre M920s SFF, Intel Core i5 9500, 24GB RAM, 1TB SSD, DVD-RW, Windows 11 Pro",
+   "brand": "Lenovo",
+   "price": 599,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkcentre-m920s-sff-intel-core-i5-9400-256gb-ssd-8gb-windows-11-pro-kopie",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkCentre-M920s-SFF-0_68dba61b-4a90-48a6-bd59-d114ecbe8b33.jpg?v=1741637260",
+   "hist": [
+    {
+     "d": "2026-11-05",
+     "p": 559
+    },
+    {
+     "d": "2026-11-06",
+     "p": 559
+    },
+    {
+     "d": "2026-11-07",
+     "p": 559
+    },
+    {
+     "d": "2026-11-08",
+     "p": 559
+    },
+    {
+     "d": "2026-11-09",
+     "p": 559
+    },
+    {
+     "d": "2026-11-10",
+     "p": 559
+    },
+    {
+     "d": "2026-11-11",
+     "p": 559
+    },
+    {
+     "d": "2026-11-12",
+     "p": 559
+    },
+    {
+     "d": "2026-11-17",
+     "p": 559
+    },
+    {
+     "d": "2026-11-18",
+     "p": 749
+    },
+    {
+     "d": "2026-11-19",
+     "p": 749
+    },
+    {
+     "d": "2026-11-20",
+     "p": 749
+    },
+    {
+     "d": "2026-11-21",
+     "p": 749
+    },
+    {
+     "d": "2026-11-22",
+     "p": 749
+    },
+    {
+     "d": "2026-11-23",
+     "p": 749
+    },
+    {
+     "d": "2026-11-24",
+     "p": 749
+    },
+    {
+     "d": "2026-11-25",
+     "p": 749
+    },
+    {
+     "d": "2026-11-26",
+     "p": 749
+    },
+    {
+     "d": "2026-11-27",
+     "p": 599
+    }
+   ],
+   "firstSeen": "2026-11-05"
   },
   {
    "id": "r-hp-zbook-firefly-14-g8-14-fhd-display-intel-core-i7-1185g7-3",
@@ -76289,89 +76463,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "r-lenovo-thinkcentre-m920q-tiny-intel-core-i5-9500t-16gb-ram-1",
-   "cat": "PCs & Workstations",
-   "name": "Lenovo ThinkCentre M920q Tiny, Intel Core i5 9500T, 16GB RAM, 1TB SSD, Windows 11 Pro",
-   "brand": "Lenovo",
-   "price": 698.99,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/lenovo-thinkcentre-m920q-tiny-intel-core-i5-9500t-8gb-ram-256gb-ssd-windows-11-pro-kopie",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-M920q-Tiny-11_7305b4be-d855-4761-a5c0-5bca6658529c.jpg?v=1754158667",
-   "hist": [
-    {
-     "d": "2026-11-05",
-     "p": 518.99
-    },
-    {
-     "d": "2026-11-06",
-     "p": 518.99
-    },
-    {
-     "d": "2026-11-07",
-     "p": 518.99
-    },
-    {
-     "d": "2026-11-08",
-     "p": 518.99
-    },
-    {
-     "d": "2026-11-09",
-     "p": 518.99
-    },
-    {
-     "d": "2026-11-10",
-     "p": 518.99
-    },
-    {
-     "d": "2026-11-11",
-     "p": 518.99
-    },
-    {
-     "d": "2026-11-12",
-     "p": 518.99
-    },
-    {
-     "d": "2026-11-13",
-     "p": 518.99
-    },
-    {
-     "d": "2026-11-20",
-     "p": 518.99
-    },
-    {
-     "d": "2026-11-21",
-     "p": 698.99
-    },
-    {
-     "d": "2026-11-22",
-     "p": 698.99
-    },
-    {
-     "d": "2026-11-23",
-     "p": 698.99
-    },
-    {
-     "d": "2026-11-24",
-     "p": 698.99
-    },
-    {
-     "d": "2026-11-25",
-     "p": 698.99
-    },
-    {
-     "d": "2026-11-26",
-     "p": 698.99
-    },
-    {
-     "d": "2026-11-27",
-     "p": 698.99
-    }
-   ],
-   "firstSeen": "2026-11-05"
-  },
-  {
    "id": "r-hp-elite-mini-600-g9-intel-core-i5-12500t-16gb-ram-512gb-ssd",
    "cat": "PCs & Workstations",
    "name": "HP Elite Mini 600 G9, Intel Core i5 12500T, 16GB RAM, 512GB SSD, Microsoft Windows 11 Pro inkl. W-Lan & Bluetooth",
@@ -79251,97 +79342,6 @@
     }
    ],
    "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-lenovo-thinkcentre-m920s-sff-intel-core-i5-9500-24gb-ram-1tb",
-   "cat": "PCs & Workstations",
-   "name": "Lenovo ThinkCentre M920s SFF, Intel Core i5 9500, 24GB RAM, 1TB SSD, DVD-RW, Windows 11 Pro",
-   "brand": "Lenovo",
-   "price": 749,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/lenovo-thinkcentre-m920s-sff-intel-core-i5-9400-256gb-ssd-8gb-windows-11-pro-kopie",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkCentre-M920s-SFF-0_68dba61b-4a90-48a6-bd59-d114ecbe8b33.jpg?v=1741637260",
-   "hist": [
-    {
-     "d": "2026-11-05",
-     "p": 559
-    },
-    {
-     "d": "2026-11-06",
-     "p": 559
-    },
-    {
-     "d": "2026-11-07",
-     "p": 559
-    },
-    {
-     "d": "2026-11-08",
-     "p": 559
-    },
-    {
-     "d": "2026-11-09",
-     "p": 559
-    },
-    {
-     "d": "2026-11-10",
-     "p": 559
-    },
-    {
-     "d": "2026-11-11",
-     "p": 559
-    },
-    {
-     "d": "2026-11-12",
-     "p": 559
-    },
-    {
-     "d": "2026-11-17",
-     "p": 559
-    },
-    {
-     "d": "2026-11-18",
-     "p": 749
-    },
-    {
-     "d": "2026-11-19",
-     "p": 749
-    },
-    {
-     "d": "2026-11-20",
-     "p": 749
-    },
-    {
-     "d": "2026-11-21",
-     "p": 749
-    },
-    {
-     "d": "2026-11-22",
-     "p": 749
-    },
-    {
-     "d": "2026-11-23",
-     "p": 749
-    },
-    {
-     "d": "2026-11-24",
-     "p": 749
-    },
-    {
-     "d": "2026-11-25",
-     "p": 749
-    },
-    {
-     "d": "2026-11-26",
-     "p": 749
-    },
-    {
-     "d": "2026-11-27",
-     "p": 749
-    }
-   ],
-   "firstSeen": "2026-11-05"
   },
   {
    "id": "r-hp-zbook-15-g5-15-6-fhd-display-intel-core-i7-8850h-32gb-ram",
