@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T12:01:42.632Z",
+ "updated": "2026-11-27T14:24:19.897Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1167,6 +1167,84 @@
    "seen": "2026-11-27",
    "updated": "2026-11-27",
    "tags": "monitore 34\" msi mag 345cqrde curved gaming monitor uwqhd 180 schwarz",
+   "source": "crawler"
+  },
+  {
+   "id": "c-cooler-master-hyper-212-3dhp-cpu-kuhler-intel-und-amd-schwar",
+   "name": "Cooler Master Hyper 212 3DHP CPU-Kühler, Intel und AMD - schwarz",
+   "cat": "Kühlung",
+   "price": 16.9,
+   "ref": 28.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/cooler-master-hyper-212-3dhp-cpu-kuehler-intel-und-amd-schwarz/CPCO-080.html",
+   "url": "https://www.caseking.de/cooler-master-hyper-212-3dhp-cpu-kuehler-intel-und-amd-schwarz/CPCO-080.html",
+   "note": "42 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 28.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 28.9
+    },
+    {
+     "d": "2026-11-01",
+     "p": 28.9
+    },
+    {
+     "d": "2026-11-03",
+     "p": 28.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 28.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 28.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 28.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 28.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 16.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 16.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 16.9
+    },
+    {
+     "d": "2026-11-20",
+     "p": 16.9
+    },
+    {
+     "d": "2026-11-22",
+     "p": 16.9
+    },
+    {
+     "d": "2026-11-25",
+     "p": 16.9
+    },
+    {
+     "d": "2026-11-27",
+     "p": 16.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-27",
+   "updated": "2026-11-27",
+   "tags": "kuhlung luftkuhler cooler master hyper 212 3dhp cpu kuhler intel und amd schwarz",
    "source": "crawler"
   },
   {
@@ -2926,6 +3004,88 @@
    "source": "crawler"
   },
   {
+   "id": "c-western-digital-blue-sa510-m-2-ssd-sata-6g-1-tb",
+   "name": "Western Digital Blue SA510 M.2 SSD, SATA 6G - 1 TB",
+   "cat": "SSDs",
+   "price": 159.92,
+   "ref": 199.91,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/western-digital-blue-sa510-m.2-ssd-sata-6g-1-tb/SSWD-068-B1.html",
+   "url": "https://www.caseking.de/en/western-digital-blue-sa510-m.2-ssd-sata-6g-1-tb/SSWD-068-B1.html",
+   "note": "20 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 199.91
+    },
+    {
+     "d": "2026-10-31",
+     "p": 199.91
+    },
+    {
+     "d": "2026-11-02",
+     "p": 199.91
+    },
+    {
+     "d": "2026-11-04",
+     "p": 199.91
+    },
+    {
+     "d": "2026-11-06",
+     "p": 199.91
+    },
+    {
+     "d": "2026-11-08",
+     "p": 199.91
+    },
+    {
+     "d": "2026-11-10",
+     "p": 199.91
+    },
+    {
+     "d": "2026-11-12",
+     "p": 199.91
+    },
+    {
+     "d": "2026-11-15",
+     "p": 199.91
+    },
+    {
+     "d": "2026-11-17",
+     "p": 199.91
+    },
+    {
+     "d": "2026-11-20",
+     "p": 199.91
+    },
+    {
+     "d": "2026-11-22",
+     "p": 199.91
+    },
+    {
+     "d": "2026-11-24",
+     "p": 199.91
+    },
+    {
+     "d": "2026-11-25",
+     "p": 159.92
+    },
+    {
+     "d": "2026-11-26",
+     "p": 199.91
+    },
+    {
+     "d": "2026-11-27",
+     "p": 159.92
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-27",
+   "updated": "2026-11-27",
+   "tags": "ssds sata 1 tb western digital blue sa510 ssd sata",
+   "source": "crawler"
+  },
+  {
    "id": "c-be-quiet-pure-power-12-netzteil-80-plus-gold-atx-3-1-pcie-5--l0ib5",
    "name": "be quiet! Pure Power 12 Netzteil, 80 PLUS Gold, ATX 3.1, PCIe 5.1 - 650 Watt",
    "cat": "Netzteile",
@@ -3256,8 +3416,8 @@
    "price": 91.92,
    "ref": 114.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/silverstone-sst-tx500-g-tfx-netzteil-80-plus-gold-500-watt/NEST-165-B1.html",
-   "url": "https://www.caseking.de/silverstone-sst-tx500-g-tfx-netzteil-80-plus-gold-500-watt/NEST-165-B1.html",
+   "shopUrl": "https://www.caseking.de/en/silverstone-sst-tx500-g-tfx-power-supply-80-plus-gold-500-watt/NEST-165-B1.html",
+   "url": "https://www.caseking.de/en/silverstone-sst-tx500-g-tfx-power-supply-80-plus-gold-500-watt/NEST-165-B1.html",
    "note": "20 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -3313,6 +3473,80 @@
    "seen": "2026-11-27",
    "updated": "2026-11-27",
    "tags": "netzteile bis 600 w silverstone sst tx500 tfx netzteil plus gold 500 watt",
+   "source": "crawler"
+  },
+  {
+   "id": "c-zotac-gaming-geforce-rtx-5090-solid-oc-white-edition-32768-m",
+   "name": "ZOTAC GAMING GeForce RTX 5090 Solid OC White Edition, 32768 MB GDDR7",
+   "cat": "Grafikkarten",
+   "price": 7299,
+   "ref": 8999,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/zotac-gaming-geforce-rtx-5090-solid-oc-white-edition-32768-mb-gddr7/GCZT-279.html",
+   "url": "https://www.caseking.de/en/zotac-gaming-geforce-rtx-5090-solid-oc-white-edition-32768-mb-gddr7/GCZT-279.html",
+   "note": "19 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 8499
+    },
+    {
+     "d": "2026-10-31",
+     "p": 8499
+    },
+    {
+     "d": "2026-11-02",
+     "p": 8499
+    },
+    {
+     "d": "2026-11-04",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-06",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-08",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-10",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-13",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-15",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-18",
+     "p": 8199
+    },
+    {
+     "d": "2026-11-20",
+     "p": 7999
+    },
+    {
+     "d": "2026-11-22",
+     "p": 7999
+    },
+    {
+     "d": "2026-11-25",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-27",
+     "p": 7299
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-27",
+   "updated": "2026-11-27",
+   "tags": "grafikkarten geforce rtx 5090 zotac gaming geforce rtx 5090 solid white edition 32768 gddr7",
    "source": "crawler"
   },
   {
@@ -3450,6 +3684,10 @@
     },
     {
      "d": "2026-11-25",
+     "p": 174.9
+    },
+    {
+     "d": "2026-11-27",
      "p": 174.9
     }
    ],
@@ -4155,76 +4393,6 @@
    "seen": "2026-11-27",
    "updated": "2026-11-27",
    "tags": "gehause phanteks evolv matrix midi tower atx tempered glass led schwarz",
-   "source": "crawler"
-  },
-  {
-   "id": "c-asus-tuf-gaming-b850m-plus-wifi7-amd-b850-mainboard-micro-at",
-   "name": "ASUS TUF GAMING B850M-PLUS WIFI7 AMD B850 Mainboard Micro ATX Sockel AM5 DDR5 Schwarz",
-   "cat": "Mainboards",
-   "price": 194.45,
-   "ref": 234.58,
-   "shop": "JACOB Elektronik GmbH",
-   "shopUrl": "https://www.jacob.de/produkt/asus-tuf-gaming-b850m-plus-wifi7-amd-b850-mainboard-micro-atx-sockel-am5-ddr5-schwarz-100603649/",
-   "url": "https://www.jacob.de/produkt/asus-tuf-gaming-b850m-plus-wifi7-amd-b850-mainboard-micro-atx-sockel-am5-ddr5-schwarz-100603649/",
-   "note": "17 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 234.58
-    },
-    {
-     "d": "2026-10-31",
-     "p": 234.58
-    },
-    {
-     "d": "2026-11-01",
-     "p": 234.58
-    },
-    {
-     "d": "2026-11-02",
-     "p": 234.58
-    },
-    {
-     "d": "2026-11-03",
-     "p": 234.58
-    },
-    {
-     "d": "2026-11-06",
-     "p": 234.58
-    },
-    {
-     "d": "2026-11-08",
-     "p": 234.58
-    },
-    {
-     "d": "2026-11-10",
-     "p": 237.43
-    },
-    {
-     "d": "2026-11-13",
-     "p": 237.43
-    },
-    {
-     "d": "2026-11-15",
-     "p": 237.43
-    },
-    {
-     "d": "2026-11-18",
-     "p": 237.43
-    },
-    {
-     "d": "2026-11-21",
-     "p": 200.81
-    },
-    {
-     "d": "2026-11-24",
-     "p": 194.45
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-27",
-   "updated": "2026-11-27",
-   "tags": "mainboards am5 b850 asus tuf gaming b850m plus wifi7 amd b850 mainboard micro atx sockel am5 ddr5 schwarz",
    "source": "crawler"
   },
   {
@@ -5092,76 +5260,6 @@
    "source": "crawler"
   },
   {
-   "id": "c-intel-core-i3-12100-3-30-ghz-alder-lake-s-sockel-1700-boxed",
-   "name": "Intel Core i3-12100 3,30 GHz (Alder Lake-S) Sockel 1700 - boxed",
-   "cat": "Prozessoren",
-   "price": 109.64,
-   "ref": 129,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/intel-core-i3-12100-3.30-ghz-alder-lake-s-socket-1700-boxed/HPIT-757-A1.html",
-   "url": "https://www.caseking.de/en/intel-core-i3-12100-3.30-ghz-alder-lake-s-socket-1700-boxed/HPIT-757-A1.html",
-   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-11-02",
-     "p": 191.78
-    },
-    {
-     "d": "2026-11-03",
-     "p": 191.78
-    },
-    {
-     "d": "2026-11-05",
-     "p": 191.78
-    },
-    {
-     "d": "2026-11-07",
-     "p": 129
-    },
-    {
-     "d": "2026-11-10",
-     "p": 129
-    },
-    {
-     "d": "2026-11-12",
-     "p": 129
-    },
-    {
-     "d": "2026-11-14",
-     "p": 129
-    },
-    {
-     "d": "2026-11-17",
-     "p": 129
-    },
-    {
-     "d": "2026-11-19",
-     "p": 129
-    },
-    {
-     "d": "2026-11-20",
-     "p": 129
-    },
-    {
-     "d": "2026-11-22",
-     "p": 129
-    },
-    {
-     "d": "2026-11-25",
-     "p": 109.64
-    },
-    {
-     "d": "2026-11-27",
-     "p": 109.64
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-27",
-   "updated": "2026-11-27",
-   "tags": "prozessoren intel lga1700 intel core 12100 ghz alder lake sockel 1700 boxed",
-   "source": "crawler"
-  },
-  {
    "id": "c-alphacool-core-1-lt-cpu-cooler-black",
    "name": "Alphacool Core 1 LT CPU Cooler - Black",
    "cat": "Kühlung",
@@ -6009,84 +6107,6 @@
    "seen": "2026-11-27",
    "updated": "2026-11-27",
    "tags": "kuhlung luftkuhler alphacool core cpu kuhler carbon",
-   "source": "crawler"
-  },
-  {
-   "id": "c-seasonic-focus-gx-80-plus-gold-netzteil-modular-750-watt-sch",
-   "name": "Seasonic Focus GX 80 PLUS Gold Netzteil, modular - 750 Watt, schwarz",
-   "cat": "Netzteile",
-   "price": 106.16,
-   "ref": 124.9,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/seasonic-focus-gx-80-plus-gold-power-supply-modular-750-watts-black/NESE-183-A1.html",
-   "url": "https://www.caseking.de/en/seasonic-focus-gx-80-plus-gold-power-supply-modular-750-watts-black/NESE-183-A1.html",
-   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-29",
-     "p": 124.9
-    },
-    {
-     "d": "2026-10-30",
-     "p": 124.9
-    },
-    {
-     "d": "2026-10-31",
-     "p": 124.9
-    },
-    {
-     "d": "2026-11-02",
-     "p": 124.9
-    },
-    {
-     "d": "2026-11-04",
-     "p": 124.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 124.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 124.9
-    },
-    {
-     "d": "2026-11-10",
-     "p": 124.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 124.9
-    },
-    {
-     "d": "2026-11-15",
-     "p": 124.9
-    },
-    {
-     "d": "2026-11-18",
-     "p": 124.9
-    },
-    {
-     "d": "2026-11-20",
-     "p": 124.9
-    },
-    {
-     "d": "2026-11-22",
-     "p": 124.9
-    },
-    {
-     "d": "2026-11-25",
-     "p": 106.16
-    },
-    {
-     "d": "2026-11-27",
-     "p": 106.16
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-27",
-   "updated": "2026-11-27",
-   "tags": "netzteile 750 w seasonic focus plus gold netzteil modular 750 watt schwarz",
    "source": "crawler"
   },
   {
