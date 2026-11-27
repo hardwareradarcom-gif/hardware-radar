@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T10:14:00.406Z",
+ "updated": "2026-11-27T11:25:17.178Z",
  "products": [
   {
    "id": "asus-dual-geforce-rtx-5050-oc-8gb",
@@ -94,7 +94,7 @@
    "name": "MSI GeForce RTX 5060 Ti 16G Ventus 2X OC Plus",
    "url": "https://www.hardwaredealz.com/hardware/gpu/nvidia-geforce-rtx-5060-ti-16gb/msi-ventus-2x-oc-plus-16gb-gddr7-hdmi-3x-dp/preisvergleich.26853",
    "source": "hardwaredealz",
-   "stand": "2026-11-27T10:14",
+   "stand": "2026-11-27T11:25",
    "offers": [
     {
      "shop": "MobPicker",
@@ -126,6 +126,14 @@
      "ship": null,
      "avail": "Auf Lager",
      "url": "https://www.caseking.de/en/msi-geforce-rtx-5060-ti-16g-ventus-2x-oc-plus-16384-mb-gddr7/GCMC-418.html",
+     "crawler": true
+    },
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 888.57,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/msi-geforce-rtx-5060-ti-16g-ventus-2x-oc-plus-grafikkarte-16-gb-gddr7-schwarz-grau-100567937/",
      "crawler": true
     }
    ],
@@ -6447,13 +6455,21 @@
    "name": "ASUS ROG Astral GeForce RTX 5080 OC",
    "url": "https://www.hardwaredealz.com/hardware/gpu/nvidia-geforce-rtx-5080-16gb/asus-rog-astral-oc-16gb-gddr7-2x-hdmi-3x-dp/preisvergleich.25495",
    "source": "hardwaredealz",
-   "stand": "2026-11-05T11:27",
+   "stand": "2026-11-27T11:25",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
      "price": 2277,
      "ship": null,
      "avail": null
+    },
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 2810.21,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-rog-astral-geforce-rtx-5080-oc-edition-16-gb-gddr7-schwarz-100547590/",
+     "crawler": true
     }
    ],
    "price": 2277,
@@ -6473,6 +6489,10 @@
     },
     {
      "d": "2026-11-07",
+     "p": 2277
+    },
+    {
+     "d": "2026-11-27",
      "p": 2277
     }
    ]
@@ -7903,13 +7923,21 @@
    "name": "ASUS Prime Radeon RX 9070 OC EVO",
    "url": "https://www.hardwaredealz.com/hardware/gpu/amd-radeon-rx-9070-16gb/asus-prime-radeon-oc-evo-16gb-gddr6-hdmi-3x-dp/preisvergleich.30336",
    "source": "hardwaredealz",
-   "stand": "2026-10-29T15:40",
+   "stand": "2026-11-27T11:25",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
      "price": 779,
      "ship": null,
      "avail": null
+    },
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 908.78,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-prime-radeon-rx-9070-oc-evo-grafikkarte-16-gb-gddr6-pcie-5-0-schwarz-100604697/",
+     "crawler": true
     }
    ],
    "price": 779,
@@ -7917,6 +7945,10 @@
    "hist": [
     {
      "d": "2026-10-29",
+     "p": 779
+    },
+    {
+     "d": "2026-11-27",
      "p": 779
     }
    ]
@@ -8390,17 +8422,25 @@
    "name": "ASUS TUF Gaming GeForce RTX 5070 Ti OC",
    "url": "https://www.hardwaredealz.com/hardware/gpu/nvidia-geforce-rtx-5070-ti-16gb/asus-tuf-gaming-oc-16gb-gddr7-2x-hdmi-3x-dp/preisvergleich.25168",
    "source": "hardwaredealz",
-   "stand": "2026-10-30T20:28",
+   "stand": "2026-11-27T11:25",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
      "price": 1659,
      "ship": null,
      "avail": null
+    },
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 2022.23,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-tuf-gaming-geforce-rtx-5070-ti-16gb-gddr7-oc-edition-weiss-100584578/",
+     "crawler": true
     }
    ],
-   "price": 1549,
-   "shop": "caseking.de",
+   "price": 1659,
+   "shop": "hardwaredealz-Bestpreis",
    "hist": [
     {
      "d": "2026-10-29",
@@ -8417,6 +8457,10 @@
     {
      "d": "2026-11-01",
      "p": 1549
+    },
+    {
+     "d": "2026-11-27",
+     "p": 1659
     }
    ]
   },
@@ -8768,13 +8812,21 @@
    "name": "ASUS ROG Astral GeForce RTX 5090 OC",
    "url": "https://www.hardwaredealz.com/hardware/gpu/nvidia-geforce-rtx-5090-32gb/asus-rog-astral-oc-32gb-gddr7-2x-hdmi-3x-dp/preisvergleich.26216",
    "source": "hardwaredealz",
-   "stand": "2026-11-26T08:34",
+   "stand": "2026-11-27T11:25",
    "offers": [
     {
      "shop": "hardwaredealz-Bestpreis",
      "price": 8099,
      "ship": null,
      "avail": null
+    },
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 9225.4,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-rog-astral-oc-btf-edition-geforce-rtx-5090-32-gb-gddr7-schwarz-grau-100600588/",
+     "crawler": true
     },
     {
      "shop": "caseking.de",
@@ -39231,83 +39283,6 @@
    "firstSeen": "2026-11-20"
   },
   {
-   "id": "c-team-group-t-force-vulcan-z-256-gb-2-5-sata-ssd",
-   "cat": "SSDs",
-   "sub": "SATA 256 GB",
-   "name": "Team Group T-FORCE Vulcan Z 256 GB 2.5\" SATA SSD",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/team-group-t-force-vulcan-z-256-gb-2-5-sata-ssd-8297797/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 55.54,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/team-group-t-force-vulcan-z-256-gb-2-5-sata-ssd-8297797/"
-    }
-   ],
-   "price": 55.54,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 51.96
-    },
-    {
-     "d": "2026-10-31",
-     "p": 51.96
-    },
-    {
-     "d": "2026-11-01",
-     "p": 51.96
-    },
-    {
-     "d": "2026-11-02",
-     "p": 51.96
-    },
-    {
-     "d": "2026-11-03",
-     "p": 54.82
-    },
-    {
-     "d": "2026-11-06",
-     "p": 54.82
-    },
-    {
-     "d": "2026-11-08",
-     "p": 54.82
-    },
-    {
-     "d": "2026-11-10",
-     "p": 54.82
-    },
-    {
-     "d": "2026-11-13",
-     "p": 54.82
-    },
-    {
-     "d": "2026-11-15",
-     "p": 54.82
-    },
-    {
-     "d": "2026-11-18",
-     "p": 54.82
-    },
-    {
-     "d": "2026-11-21",
-     "p": 55.54
-    },
-    {
-     "d": "2026-11-24",
-     "p": 55.54
-    }
-   ],
-   "count": 1,
-   "tags": "ssds sata 256 gb team group force vulcan 256 sata ssd",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-be-quiet-system-power-11-450w-atx-netzteil-80-plus-bronze-sc",
    "cat": "Netzteile",
    "sub": "bis 600 W",
@@ -69095,83 +69070,6 @@
    "firstSeen": "2026-11-20"
   },
   {
-   "id": "c-lenovo-thinkvision-e27-40-27-monitor-full-hd-ips-100-hz-rave",
-   "cat": "Monitore",
-   "sub": "27\"",
-   "name": "Lenovo ThinkVision E27-40 27\" Monitor Full HD IPS 100 Hz Raven Black",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/lenovo-thinkvision-e27-40-27-monitor-full-hd-ips-100-hz-raven-black-100678390/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 111.65,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/lenovo-thinkvision-e27-40-27-monitor-full-hd-ips-100-hz-raven-black-100678390/"
-    }
-   ],
-   "price": 111.65,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 108.37
-    },
-    {
-     "d": "2026-10-31",
-     "p": 108.37
-    },
-    {
-     "d": "2026-11-01",
-     "p": 108.37
-    },
-    {
-     "d": "2026-11-02",
-     "p": 110.96
-    },
-    {
-     "d": "2026-11-03",
-     "p": 101.98
-    },
-    {
-     "d": "2026-11-05",
-     "p": 101.98
-    },
-    {
-     "d": "2026-11-08",
-     "p": 101.98
-    },
-    {
-     "d": "2026-11-10",
-     "p": 101.98
-    },
-    {
-     "d": "2026-11-12",
-     "p": 101.98
-    },
-    {
-     "d": "2026-11-15",
-     "p": 101.98
-    },
-    {
-     "d": "2026-11-18",
-     "p": 108.37
-    },
-    {
-     "d": "2026-11-21",
-     "p": 112.61
-    },
-    {
-     "d": "2026-11-24",
-     "p": 111.65
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 27\" lenovo thinkvision e27 monitor full ips 100 raven black",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-intel-core-i3-14100-3-5-ghz-raptor-lake-refresh-sockel-1700-",
    "cat": "Prozessoren",
    "sub": "Intel LGA1700",
@@ -69426,83 +69324,6 @@
    "count": 1,
    "tags": "mainboards am4 b550 asus prime b550 plus mainboard sockel am4 amd atx ddr4",
    "firstSeen": "2026-11-05"
-  },
-  {
-   "id": "c-xiaomi-g27i-2026-gaming-monitor-68-6-cm-27-full-hd-200hz-1ms",
-   "cat": "Monitore",
-   "sub": "27\"",
-   "name": "Xiaomi G27i 2026 Gaming Monitor 68,6 cm (27\") Full HD 200Hz 1ms FreeSync Premium Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/xiaomi-g27i-2026-gaming-monitor-68-6-cm-27-full-hd-200hz-1ms-freesync-premium-schwarz-100697106/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 113.34,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/xiaomi-g27i-2026-gaming-monitor-68-6-cm-27-full-hd-200hz-1ms-freesync-premium-schwarz-100697106/"
-    }
-   ],
-   "price": 113.34,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 152.89
-    },
-    {
-     "d": "2026-10-31",
-     "p": 127.45
-    },
-    {
-     "d": "2026-11-01",
-     "p": 127.4
-    },
-    {
-     "d": "2026-11-02",
-     "p": 127.4
-    },
-    {
-     "d": "2026-11-03",
-     "p": 126.74
-    },
-    {
-     "d": "2026-11-05",
-     "p": 127.29
-    },
-    {
-     "d": "2026-11-08",
-     "p": 126.75
-    },
-    {
-     "d": "2026-11-10",
-     "p": 127.52
-    },
-    {
-     "d": "2026-11-12",
-     "p": 127.07
-    },
-    {
-     "d": "2026-11-15",
-     "p": 127.02
-    },
-    {
-     "d": "2026-11-18",
-     "p": 114.61
-    },
-    {
-     "d": "2026-11-21",
-     "p": 113.48
-    },
-    {
-     "d": "2026-11-24",
-     "p": 113.34
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 27\" xiaomi g27i 2026 gaming monitor full 200hz 1ms freesync premium schwarz",
-   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-benq-gw2791-27-ips-100-hz-1920-x-1080-led-monitor-schwarz",
@@ -77162,83 +76983,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-dell-p2225h-monitor-21-5-full-hd-ips-100-hz-hdmi-displayport",
-   "cat": "Monitore",
-   "sub": "21,5\"",
-   "name": "Dell P2225H Monitor 21,5\" Full HD IPS 100 Hz HDMI DisplayPort USB-C Schwarz, Silber",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/dell-p2225h-monitor-21-5-full-hd-ips-100-hz-hdmi-displayport-usb-c-schwarz-silber-100470693/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 126.54,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/dell-p2225h-monitor-21-5-full-hd-ips-100-hz-hdmi-displayport-usb-c-schwarz-silber-100470693/"
-    }
-   ],
-   "price": 126.54,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 124.65
-    },
-    {
-     "d": "2026-10-31",
-     "p": 124.65
-    },
-    {
-     "d": "2026-11-01",
-     "p": 124.65
-    },
-    {
-     "d": "2026-11-02",
-     "p": 124.65
-    },
-    {
-     "d": "2026-11-03",
-     "p": 125.51
-    },
-    {
-     "d": "2026-11-05",
-     "p": 126.59
-    },
-    {
-     "d": "2026-11-08",
-     "p": 126.58
-    },
-    {
-     "d": "2026-11-10",
-     "p": 126.58
-    },
-    {
-     "d": "2026-11-12",
-     "p": 126.49
-    },
-    {
-     "d": "2026-11-15",
-     "p": 126.52
-    },
-    {
-     "d": "2026-11-18",
-     "p": 126.54
-    },
-    {
-     "d": "2026-11-21",
-     "p": 126.54
-    },
-    {
-     "d": "2026-11-24",
-     "p": 126.54
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 21,5\" dell p2225h monitor full ips 100 hdmi displayport usb schwarz silber",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-asus-pro-b760m-c-csm-intel-b760-mainboard-sockel-1700-ddr5",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 B760",
@@ -82558,83 +82302,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-viewsonic-vg2408a-led-monitor-61-cm-24-23-8-sichtbar-1920-x-",
-   "cat": "Monitore",
-   "sub": "24\"",
-   "name": "ViewSonic VG2408A - LED-Monitor - 61 cm (24\") (23.8\" sichtbar) - 1920 x 1080 Full HD (1080p) @ 100 Hz - IPS - 250 cd/m² - 1300:1 - 5 ms - HDMI, VGA, DisplayPort - Lautsprecher (VG2408A)",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/viewsonic-vg2408a-led-monitor-61-cm-24-23-8-sichtbar-1920-x-1080-full-hd-1080p-at-100-hz-ips-250-cd-m2-1300-1-5-ms-hdmi-vga-displayport-lautsprecher-vg2408a-100274672/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 136.99,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/viewsonic-vg2408a-led-monitor-61-cm-24-23-8-sichtbar-1920-x-1080-full-hd-1080p-at-100-hz-ips-250-cd-m2-1300-1-5-ms-hdmi-vga-displayport-lautsprecher-vg2408a-100274672/"
-    }
-   ],
-   "price": 136.99,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 139.22
-    },
-    {
-     "d": "2026-10-31",
-     "p": 139.22
-    },
-    {
-     "d": "2026-11-01",
-     "p": 138.93
-    },
-    {
-     "d": "2026-11-02",
-     "p": 138.93
-    },
-    {
-     "d": "2026-11-03",
-     "p": 138.93
-    },
-    {
-     "d": "2026-11-05",
-     "p": 138.93
-    },
-    {
-     "d": "2026-11-08",
-     "p": 138.93
-    },
-    {
-     "d": "2026-11-10",
-     "p": 137.3
-    },
-    {
-     "d": "2026-11-12",
-     "p": 137.79
-    },
-    {
-     "d": "2026-11-15",
-     "p": 137.45
-    },
-    {
-     "d": "2026-11-18",
-     "p": 136.98
-    },
-    {
-     "d": "2026-11-21",
-     "p": 136.99
-    },
-    {
-     "d": "2026-11-24",
-     "p": 136.99
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 24\" viewsonic vg2408a led monitor sichtbar 1920 1080 full 1080p 100 ips 250 1300 hdmi vga displayport",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-amd-ryzen-5-7400-4-3-ghz-6-core-prozessor-sockel-am5",
    "cat": "Prozessoren",
    "sub": "AM5",
@@ -85914,83 +85581,6 @@
    ],
    "count": 1,
    "tags": "monitore 27\" aoc 27g4ha gaming monitor zoll schwarz matt fullhd fast ips hdmi lautsprecher 200hz panel energieklasse",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-dell-24-plus-monitor-s2425hsm-60-45cm-23-8-ips-1920x1080-16-",
-   "cat": "Monitore",
-   "sub": "23,8\"",
-   "name": "DELL 24 Plus Monitor S2425HSM 60,45cm (23,8\") IPS 1920x1080 16:9 300 cd/m2 144Hz 2xHDMI (DELL-S2425HSM)",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/dell-24-plus-monitor-s2425hsm-60-45cm-23-8-ips-1920x1080-16-9-300-cd-m2-144hz-2xhdmi-dell-s2425hsm-100673692/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 143.69,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/dell-24-plus-monitor-s2425hsm-60-45cm-23-8-ips-1920x1080-16-9-300-cd-m2-144hz-2xhdmi-dell-s2425hsm-100673692/"
-    }
-   ],
-   "price": 143.69,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 137.72
-    },
-    {
-     "d": "2026-10-31",
-     "p": 137.72
-    },
-    {
-     "d": "2026-11-01",
-     "p": 137.72
-    },
-    {
-     "d": "2026-11-02",
-     "p": 139.49
-    },
-    {
-     "d": "2026-11-03",
-     "p": 139.49
-    },
-    {
-     "d": "2026-11-05",
-     "p": 139.49
-    },
-    {
-     "d": "2026-11-08",
-     "p": 144.62
-    },
-    {
-     "d": "2026-11-10",
-     "p": 146.32
-    },
-    {
-     "d": "2026-11-12",
-     "p": 144.92
-    },
-    {
-     "d": "2026-11-15",
-     "p": 144.25
-    },
-    {
-     "d": "2026-11-18",
-     "p": 145.58
-    },
-    {
-     "d": "2026-11-21",
-     "p": 146.31
-    },
-    {
-     "d": "2026-11-24",
-     "p": 143.69
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 23,8\" dell plus monitor s2425hsm 45cm ips 1920x1080 300 144hz 2xhdmi",
    "firstSeen": "2026-10-30"
   },
   {
@@ -89867,83 +89457,6 @@
    ],
    "count": 1,
    "tags": "ssds nvme 1 tb team group mp33 pro nvme ssd pcie typ 2280",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-viewsonic-vg2708a-27-ips-monitor-1920-x-1080-100-hz-schwarz",
-   "cat": "Monitore",
-   "sub": "27\"",
-   "name": "ViewSonic VG2708A 27\" IPS-Monitor 1920 x 1080 100 Hz Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/viewsonic-vg2708a-27-ips-monitor-1920-x-1080-100-hz-schwarz-100272732/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 150.49,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/viewsonic-vg2708a-27-ips-monitor-1920-x-1080-100-hz-schwarz-100272732/"
-    }
-   ],
-   "price": 150.49,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 137.92
-    },
-    {
-     "d": "2026-10-31",
-     "p": 137.92
-    },
-    {
-     "d": "2026-11-01",
-     "p": 137.92
-    },
-    {
-     "d": "2026-11-02",
-     "p": 137.92
-    },
-    {
-     "d": "2026-11-03",
-     "p": 137.92
-    },
-    {
-     "d": "2026-11-05",
-     "p": 137.92
-    },
-    {
-     "d": "2026-11-08",
-     "p": 137.92
-    },
-    {
-     "d": "2026-11-10",
-     "p": 137.92
-    },
-    {
-     "d": "2026-11-12",
-     "p": 150.49
-    },
-    {
-     "d": "2026-11-15",
-     "p": 150.49
-    },
-    {
-     "d": "2026-11-18",
-     "p": 150.49
-    },
-    {
-     "d": "2026-11-21",
-     "p": 150.49
-    },
-    {
-     "d": "2026-11-24",
-     "p": 150.49
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 27\" viewsonic vg2708a ips monitor 1920 1080 100 schwarz",
    "firstSeen": "2026-10-30"
   },
   {
@@ -94866,83 +94379,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-philips-evnia-5000-27m2c5201l-27-gaming-monitor-180-hz-weiss",
-   "cat": "Monitore",
-   "sub": "27\"",
-   "name": "Philips Evnia 5000 27M2C5201L 27\" Gaming Monitor 180 Hz Weiß",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/philips-evnia-5000-27m2c5201l-27-gaming-monitor-180-hz-weiss-100508103/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 161.9,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/philips-evnia-5000-27m2c5201l-27-gaming-monitor-180-hz-weiss-100508103/"
-    }
-   ],
-   "price": 161.9,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 163.34
-    },
-    {
-     "d": "2026-10-31",
-     "p": 163.34
-    },
-    {
-     "d": "2026-11-01",
-     "p": 163.34
-    },
-    {
-     "d": "2026-11-02",
-     "p": 166.5
-    },
-    {
-     "d": "2026-11-03",
-     "p": 166.5
-    },
-    {
-     "d": "2026-11-05",
-     "p": 166.5
-    },
-    {
-     "d": "2026-11-08",
-     "p": 166.5
-    },
-    {
-     "d": "2026-11-10",
-     "p": 166.5
-    },
-    {
-     "d": "2026-11-13",
-     "p": 161.9
-    },
-    {
-     "d": "2026-11-15",
-     "p": 161.9
-    },
-    {
-     "d": "2026-11-18",
-     "p": 161.9
-    },
-    {
-     "d": "2026-11-21",
-     "p": 161.9
-    },
-    {
-     "d": "2026-11-24",
-     "p": 161.9
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 27\" philips evnia 5000 27m2c5201l gaming monitor 180 weiss",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-silverstone-icegem-360-aio-cooler-argb-360-mm",
    "cat": "Kühlung",
    "sub": "AiO-Wasserkühlung",
@@ -97698,83 +97134,6 @@
    "count": 1,
    "tags": "mainboards am5 b650 gigabyte b650m aorus elite ice mainboard sockel am5 amd b650 matx ddr5",
    "firstSeen": "2026-11-08"
-  },
-  {
-   "id": "c-asus-prime-b660m-a-wifi-d4-mainboard-intel-b660-lga-1700-mic",
-   "cat": "Mainboards",
-   "sub": "Intel LGA1700 B660",
-   "name": "ASUS PRIME B660M-A WIFI D4 Mainboard (Intel B660, LGA 1700, micro ATX, DDR4, Wi-Fi 6)",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/asus-prime-b660m-a-wifi-d4-mainboard-intel-b660-lga-1700-micro-atx-ddr4-wi-fi-6-7533347/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 168.58,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/asus-prime-b660m-a-wifi-d4-mainboard-intel-b660-lga-1700-micro-atx-ddr4-wi-fi-6-7533347/"
-    }
-   ],
-   "price": 168.58,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 168.58
-    },
-    {
-     "d": "2026-10-31",
-     "p": 168.58
-    },
-    {
-     "d": "2026-11-01",
-     "p": 168.58
-    },
-    {
-     "d": "2026-11-02",
-     "p": 168.58
-    },
-    {
-     "d": "2026-11-03",
-     "p": 168.58
-    },
-    {
-     "d": "2026-11-06",
-     "p": 168.58
-    },
-    {
-     "d": "2026-11-08",
-     "p": 168.58
-    },
-    {
-     "d": "2026-11-10",
-     "p": 168.58
-    },
-    {
-     "d": "2026-11-13",
-     "p": 168.58
-    },
-    {
-     "d": "2026-11-15",
-     "p": 168.58
-    },
-    {
-     "d": "2026-11-18",
-     "p": 168.58
-    },
-    {
-     "d": "2026-11-21",
-     "p": 168.58
-    },
-    {
-     "d": "2026-11-24",
-     "p": 168.58
-    }
-   ],
-   "count": 1,
-   "tags": "mainboards intel lga1700 b660 asus prime b660m wifi mainboard intel b660 lga 1700 micro atx ddr4",
-   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-fractal-design-meshify-2-lite-rgb-midi-tower-light-tint-temp",
@@ -103681,83 +103040,6 @@
    ],
    "count": 1,
    "tags": "monitore 23,8\" asus eye care vu249cfe ips full monitor 100 grun grau",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-aoc-q27b3ma-b3-series-led-monitor-27-zoll-qhd-75hz-va-panel-",
-   "cat": "Monitore",
-   "sub": "27\"",
-   "name": "AOC Q27B3MA B3 Series LED-Monitor 27 Zoll QHD 75Hz VA-Panel Lautsprecher Schwarz (Q27B3MA)",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/aoc-q27b3ma-b3-series-led-monitor-27-zoll-qhd-75hz-va-panel-lautsprecher-schwarz-q27b3ma-7893680/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 184.89,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/aoc-q27b3ma-b3-series-led-monitor-27-zoll-qhd-75hz-va-panel-lautsprecher-schwarz-q27b3ma-7893680/"
-    }
-   ],
-   "price": 184.89,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 184.89
-    },
-    {
-     "d": "2026-10-31",
-     "p": 184.89
-    },
-    {
-     "d": "2026-11-01",
-     "p": 184.89
-    },
-    {
-     "d": "2026-11-02",
-     "p": 184.89
-    },
-    {
-     "d": "2026-11-03",
-     "p": 184.89
-    },
-    {
-     "d": "2026-11-05",
-     "p": 184.89
-    },
-    {
-     "d": "2026-11-08",
-     "p": 184.89
-    },
-    {
-     "d": "2026-11-10",
-     "p": 184.89
-    },
-    {
-     "d": "2026-11-13",
-     "p": 184.89
-    },
-    {
-     "d": "2026-11-15",
-     "p": 184.89
-    },
-    {
-     "d": "2026-11-18",
-     "p": 184.89
-    },
-    {
-     "d": "2026-11-21",
-     "p": 184.89
-    },
-    {
-     "d": "2026-11-24",
-     "p": 184.89
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 27\" aoc q27b3ma series led monitor zoll qhd 75hz panel lautsprecher schwarz",
    "firstSeen": "2026-10-30"
   },
   {
@@ -114904,83 +114186,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-aoc-pro-line-24p3cw-23-8-full-hd-ips-monitor-schwarz",
-   "cat": "Monitore",
-   "sub": "23,8\"",
-   "name": "AOC Pro-line 24P3CW 23,8\" Full HD IPS Monitor Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/aoc-pro-line-24p3cw-23-8-full-hd-ips-monitor-schwarz-8129872/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 223.48,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/aoc-pro-line-24p3cw-23-8-full-hd-ips-monitor-schwarz-8129872/"
-    }
-   ],
-   "price": 223.48,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 228.37
-    },
-    {
-     "d": "2026-10-31",
-     "p": 227.03
-    },
-    {
-     "d": "2026-11-01",
-     "p": 227.03
-    },
-    {
-     "d": "2026-11-02",
-     "p": 227.03
-    },
-    {
-     "d": "2026-11-03",
-     "p": 227.03
-    },
-    {
-     "d": "2026-11-05",
-     "p": 220.71
-    },
-    {
-     "d": "2026-11-08",
-     "p": 219.61
-    },
-    {
-     "d": "2026-11-10",
-     "p": 219.51
-    },
-    {
-     "d": "2026-11-12",
-     "p": 226.04
-    },
-    {
-     "d": "2026-11-15",
-     "p": 226.04
-    },
-    {
-     "d": "2026-11-18",
-     "p": 226.04
-    },
-    {
-     "d": "2026-11-21",
-     "p": 223.48
-    },
-    {
-     "d": "2026-11-24",
-     "p": 223.48
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 23,8\" aoc pro line 24p3cw full ips monitor schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-asus-rog-strix-b760-f-gaming-wifi-intel-b760-mainboard-socke",
    "cat": "Mainboards",
    "sub": "Intel LGA1700 B760",
@@ -117875,83 +117080,6 @@
    ],
    "count": 1,
    "tags": "mainboards am5 b850 asus tuf gaming b850m plus wifi7 mainboard sockel am5 ddr5 micro atx weiss",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-dell-27-plus-qhd-usb-c-monitor-s2725dc-68-6-cm-27-ips-2560x1",
-   "cat": "Monitore",
-   "sub": "27\"",
-   "name": "DELL 27 Plus QHD USB-C Monitor S2725DC - 68,6 cm (27\"), IPS, 2560x1440, 144Hz, USB-C, Weiß (DELL-S2725DC)",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/dell-27-plus-qhd-usb-c-monitor-s2725dc-68-6-cm-27-ips-2560x1440-144hz-usb-c-weiss-dell-s2725dc-100673693/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 238.48,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/dell-27-plus-qhd-usb-c-monitor-s2725dc-68-6-cm-27-ips-2560x1440-144hz-usb-c-weiss-dell-s2725dc-100673693/"
-    }
-   ],
-   "price": 238.48,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 273.32
-    },
-    {
-     "d": "2026-10-31",
-     "p": 273.32
-    },
-    {
-     "d": "2026-11-01",
-     "p": 273.32
-    },
-    {
-     "d": "2026-11-02",
-     "p": 273.32
-    },
-    {
-     "d": "2026-11-03",
-     "p": 273.32
-    },
-    {
-     "d": "2026-11-05",
-     "p": 254.3
-    },
-    {
-     "d": "2026-11-08",
-     "p": 240.67
-    },
-    {
-     "d": "2026-11-10",
-     "p": 242.25
-    },
-    {
-     "d": "2026-11-12",
-     "p": 259.49
-    },
-    {
-     "d": "2026-11-15",
-     "p": 258.21
-    },
-    {
-     "d": "2026-11-18",
-     "p": 273.64
-    },
-    {
-     "d": "2026-11-21",
-     "p": 238.98
-    },
-    {
-     "d": "2026-11-24",
-     "p": 238.48
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 27\" dell plus qhd usb monitor s2725dc ips 2560x1440 144hz weiss",
    "firstSeen": "2026-10-30"
   },
   {
@@ -122425,83 +121553,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-aoc-e4-series-led-monitor-68-6-cm-27-3840-x-2160-4k-uhd-2160",
-   "cat": "Monitore",
-   "sub": "27\"",
-   "name": "AOC E4 Series LED-Monitor 68,6 cm (27\") - 3840 x 2160 4K UHD 2160p @ 60 Hz - IPS 400 cd/m² - 1200:1 - 4 ms - 2xHDMI DisplayPort USB-C Lautsprecher Schwarz (U27E4CV)",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/aoc-e4-series-led-monitor-68-6-cm-27-3840-x-2160-4k-uhd-2160p-at-60-hz-ips-400-cd-m2-1200-1-4-ms-2xhdmi-displayport-usb-c-lautsprecher-schwarz-u27e4cv-100673599/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 259.68,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/aoc-e4-series-led-monitor-68-6-cm-27-3840-x-2160-4k-uhd-2160p-at-60-hz-ips-400-cd-m2-1200-1-4-ms-2xhdmi-displayport-usb-c-lautsprecher-schwarz-u27e4cv-100673599/"
-    }
-   ],
-   "price": 259.68,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 252.64
-    },
-    {
-     "d": "2026-10-31",
-     "p": 252.64
-    },
-    {
-     "d": "2026-11-01",
-     "p": 252.64
-    },
-    {
-     "d": "2026-11-02",
-     "p": 252.64
-    },
-    {
-     "d": "2026-11-03",
-     "p": 252.64
-    },
-    {
-     "d": "2026-11-05",
-     "p": 252.64
-    },
-    {
-     "d": "2026-11-08",
-     "p": 252.64
-    },
-    {
-     "d": "2026-11-10",
-     "p": 252.64
-    },
-    {
-     "d": "2026-11-12",
-     "p": 252.64
-    },
-    {
-     "d": "2026-11-15",
-     "p": 252.64
-    },
-    {
-     "d": "2026-11-18",
-     "p": 254.78
-    },
-    {
-     "d": "2026-11-21",
-     "p": 259.68
-    },
-    {
-     "d": "2026-11-24",
-     "p": 259.68
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 27\" aoc series led monitor 3840 2160 uhd 2160p ips 400 1200 2xhdmi displayport usb lautsprecher schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-lenovo-thinkvision-t24d-4v-23-8-full-hd-ips-monitor-webcam-u",
    "cat": "Monitore",
    "sub": "23,8\"",
@@ -125443,83 +124494,6 @@
    "firstSeen": "2026-11-26"
   },
   {
-   "id": "c-acer-vero-cb273u-27-ips-wqhd-monitor-100-hz-schwarz",
-   "cat": "Monitore",
-   "sub": "27\"",
-   "name": "Acer Vero CB273U 27\" IPS WQHD Monitor 100 Hz Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/acer-vero-cb273u-27-ips-wqhd-monitor-100-hz-schwarz-100316576/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 280.3,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/acer-vero-cb273u-27-ips-wqhd-monitor-100-hz-schwarz-100316576/"
-    }
-   ],
-   "price": 280.3,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 226.56
-    },
-    {
-     "d": "2026-10-31",
-     "p": 226.56
-    },
-    {
-     "d": "2026-11-01",
-     "p": 226.56
-    },
-    {
-     "d": "2026-11-02",
-     "p": 226.56
-    },
-    {
-     "d": "2026-11-03",
-     "p": 226.56
-    },
-    {
-     "d": "2026-11-05",
-     "p": 230.97
-    },
-    {
-     "d": "2026-11-08",
-     "p": 258.58
-    },
-    {
-     "d": "2026-11-10",
-     "p": 258.58
-    },
-    {
-     "d": "2026-11-12",
-     "p": 280.3
-    },
-    {
-     "d": "2026-11-15",
-     "p": 280.3
-    },
-    {
-     "d": "2026-11-18",
-     "p": 280.3
-    },
-    {
-     "d": "2026-11-21",
-     "p": 280.3
-    },
-    {
-     "d": "2026-11-24",
-     "p": 280.3
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 27\" acer vero cb273u ips wqhd monitor 100 schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-asus-rog-strix-b860-a-gaming-wifi-mainboard-atx-lga-1851-int",
    "cat": "Mainboards",
    "sub": "Intel LGA1851 B860",
@@ -125871,51 +124845,6 @@
    "count": 1,
    "tags": "monitore 34\" acer nitro xz340cur x0bmiiphx wqhd gaming monitor schwarz",
    "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-samsung-870-evo-1-tb-2-5-sata-ssd-schwarz",
-   "cat": "SSDs",
-   "sub": "SATA 1 TB",
-   "name": "Samsung 870 EVO 1 TB 2.5\" SATA SSD Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/samsung-870-evo-1-tb-2-5-sata-ssd-schwarz-6951388/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 288.87,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/samsung-870-evo-1-tb-2-5-sata-ssd-schwarz-6951388/"
-    }
-   ],
-   "price": 288.87,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-13",
-     "p": 285.81
-    },
-    {
-     "d": "2026-11-15",
-     "p": 285.81
-    },
-    {
-     "d": "2026-11-18",
-     "p": 285.81
-    },
-    {
-     "d": "2026-11-21",
-     "p": 284.99
-    },
-    {
-     "d": "2026-11-24",
-     "p": 288.87
-    }
-   ],
-   "count": 1,
-   "tags": "ssds sata 1 tb samsung 870 evo sata ssd schwarz",
-   "firstSeen": "2026-11-13"
   },
   {
    "id": "c-intel-core-i7-14700f-2-1-ghz-raptor-lake-refresh-sockel-1700",
@@ -126706,83 +125635,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-aoc-cu34v5c-34-zoll-wqhd-curved-monitor-lautsprecher-hohenve",
-   "cat": "Monitore",
-   "sub": "34\"",
-   "name": "AOC CU34V5C - 34 Zoll WQHD Curved Monitor, Lautsprecher, höhenverstellbar (3440x1440, 100 Hz, HDMI, DisplayPort, USB-C, USB Hub) schwarz [Energieklasse G] (CU34V5C/BK)",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/aoc-cu34v5c-34-zoll-wqhd-curved-monitor-lautsprecher-hoehenverstellbar-3440x1440-100-hz-hdmi-displayport-usb-c-usb-hub-schwarz-energieklasse-g-cu34v5c-bk-7893676/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 293.63,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/aoc-cu34v5c-34-zoll-wqhd-curved-monitor-lautsprecher-hoehenverstellbar-3440x1440-100-hz-hdmi-displayport-usb-c-usb-hub-schwarz-energieklasse-g-cu34v5c-bk-7893676/"
-    }
-   ],
-   "price": 293.63,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 274.58
-    },
-    {
-     "d": "2026-10-31",
-     "p": 274.58
-    },
-    {
-     "d": "2026-11-01",
-     "p": 274.58
-    },
-    {
-     "d": "2026-11-02",
-     "p": 274.58
-    },
-    {
-     "d": "2026-11-03",
-     "p": 273.02
-    },
-    {
-     "d": "2026-11-06",
-     "p": 274.4
-    },
-    {
-     "d": "2026-11-08",
-     "p": 274.4
-    },
-    {
-     "d": "2026-11-10",
-     "p": 293.63
-    },
-    {
-     "d": "2026-11-13",
-     "p": 293.63
-    },
-    {
-     "d": "2026-11-15",
-     "p": 293.63
-    },
-    {
-     "d": "2026-11-18",
-     "p": 293.63
-    },
-    {
-     "d": "2026-11-21",
-     "p": 293.63
-    },
-    {
-     "d": "2026-11-24",
-     "p": 293.63
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 34\" aoc cu34v5c zoll wqhd curved monitor lautsprecher hohenverstellbar 3440x1440 100 hdmi displayport usb hub schwarz energieklasse",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-wd-blue-sa510-wds200t3b0b-00c7c0-2-tb-m-2-2280-ssd",
    "cat": "SSDs",
    "sub": "NVMe 2 TB",
@@ -126906,83 +125758,6 @@
    ],
    "count": 1,
    "tags": "mainboards am5 x870 gigabyte x870i aorus pro ice mainboard sockel am5 amd x870 mini itx ddr5",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-lg-34u601sa-w-34-curved-dual-wqhd-monitor-webos-100-hz-5-ms-",
-   "cat": "Monitore",
-   "sub": "34\"",
-   "name": "LG 34U601SA-W 34\" Curved Dual WQHD Monitor webOS 100 Hz 5 ms Weiß",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/lg-34u601sa-w-34-curved-dual-wqhd-monitor-webos-100-hz-5-ms-weiss-100700947/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 296.73,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/lg-34u601sa-w-34-curved-dual-wqhd-monitor-webos-100-hz-5-ms-weiss-100700947/"
-    }
-   ],
-   "price": 296.73,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 272.87
-    },
-    {
-     "d": "2026-10-31",
-     "p": 285.92
-    },
-    {
-     "d": "2026-11-01",
-     "p": 295.27
-    },
-    {
-     "d": "2026-11-02",
-     "p": 295.27
-    },
-    {
-     "d": "2026-11-03",
-     "p": 259.96
-    },
-    {
-     "d": "2026-11-05",
-     "p": 261.31
-    },
-    {
-     "d": "2026-11-08",
-     "p": 262.32
-    },
-    {
-     "d": "2026-11-10",
-     "p": 271.22
-    },
-    {
-     "d": "2026-11-13",
-     "p": 265.17
-    },
-    {
-     "d": "2026-11-15",
-     "p": 266.19
-    },
-    {
-     "d": "2026-11-18",
-     "p": 279.98
-    },
-    {
-     "d": "2026-11-21",
-     "p": 280.17
-    },
-    {
-     "d": "2026-11-24",
-     "p": 296.73
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 34\" 34u601sa curved dual wqhd monitor webos 100 weiss",
    "firstSeen": "2026-10-30"
   },
   {
@@ -130181,83 +128956,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-hp-omen-27s-gaming-monitor-27-zoll-full-hd-ips-240hz-g-sync-",
-   "cat": "Monitore",
-   "sub": "27\"",
-   "name": "HP OMEN 27s Gaming Monitor – 27 Zoll Full HD IPS, 240Hz, G-SYNC & FreeSync (780G5E9#ABB)",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/hp-omen-27s-gaming-monitor-27-zoll-full-hd-ips-240hz-g-sync-freesync-780g5e9-abb-9227451/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 318.59,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/hp-omen-27s-gaming-monitor-27-zoll-full-hd-ips-240hz-g-sync-freesync-780g5e9-abb-9227451/"
-    }
-   ],
-   "price": 318.59,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 272.63
-    },
-    {
-     "d": "2026-10-31",
-     "p": 272.63
-    },
-    {
-     "d": "2026-11-01",
-     "p": 272.63
-    },
-    {
-     "d": "2026-11-02",
-     "p": 275.26
-    },
-    {
-     "d": "2026-11-03",
-     "p": 280.66
-    },
-    {
-     "d": "2026-11-06",
-     "p": 286.21
-    },
-    {
-     "d": "2026-11-08",
-     "p": 286.21
-    },
-    {
-     "d": "2026-11-10",
-     "p": 291.87
-    },
-    {
-     "d": "2026-11-13",
-     "p": 300.46
-    },
-    {
-     "d": "2026-11-15",
-     "p": 300.46
-    },
-    {
-     "d": "2026-11-18",
-     "p": 309.44
-    },
-    {
-     "d": "2026-11-21",
-     "p": 315.5
-    },
-    {
-     "d": "2026-11-24",
-     "p": 318.59
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 27\" omen 27s gaming monitor zoll full ips 240hz sync freesync 780g5e9 abb",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-gigabyte-aorus-b850-stealth-ice-mainboard-amd-am5-ddr5-atx-w",
    "cat": "Mainboards",
    "sub": "AM5 B850",
@@ -133196,83 +131894,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-samsung-odyssey-g6-s27bg650eu-27-curved-qhd-240-hz-lcd-monit",
-   "cat": "Monitore",
-   "sub": "27\"",
-   "name": "Samsung Odyssey G6 S27BG650EU 27\" Curved QHD 240 Hz LCD-Monitor Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/samsung-odyssey-g6-s27bg650eu-27-curved-qhd-240-hz-lcd-monitor-schwarz-7998961/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 341.49,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/samsung-odyssey-g6-s27bg650eu-27-curved-qhd-240-hz-lcd-monitor-schwarz-7998961/"
-    }
-   ],
-   "price": 341.49,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 341.49
-    },
-    {
-     "d": "2026-10-31",
-     "p": 341.49
-    },
-    {
-     "d": "2026-11-01",
-     "p": 341.49
-    },
-    {
-     "d": "2026-11-02",
-     "p": 341.49
-    },
-    {
-     "d": "2026-11-03",
-     "p": 341.49
-    },
-    {
-     "d": "2026-11-05",
-     "p": 341.49
-    },
-    {
-     "d": "2026-11-08",
-     "p": 341.49
-    },
-    {
-     "d": "2026-11-10",
-     "p": 341.49
-    },
-    {
-     "d": "2026-11-13",
-     "p": 341.49
-    },
-    {
-     "d": "2026-11-15",
-     "p": 341.49
-    },
-    {
-     "d": "2026-11-18",
-     "p": 341.49
-    },
-    {
-     "d": "2026-11-21",
-     "p": 341.49
-    },
-    {
-     "d": "2026-11-24",
-     "p": 341.49
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 27\" samsung odyssey s27bg650eu curved qhd 240 lcd monitor schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-asrock-x870-taichi-creator-atx-mainboard-sockel-am5-ddr5-sch",
    "cat": "Mainboards",
    "sub": "AM5 X870",
@@ -134544,6 +133165,35 @@
    "firstSeen": "2026-11-26"
   },
   {
+   "id": "c-msi-geforce-rtx-3050-lp-e-6g-oc-6-gb-gddr6-low-profile-schwa",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 3050",
+   "name": "MSI GeForce RTX 3050 LP E 6G OC 6 GB GDDR6 Low-Profile Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/msi-geforce-rtx-3050-lp-e-6g-oc-6-gb-gddr6-low-profile-schwarz-100678477/",
+   "stand": "2026-11-27T11:25",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 350.69,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/msi-geforce-rtx-3050-lp-e-6g-oc-6-gb-gddr6-low-profile-schwarz-100678477/"
+    }
+   ],
+   "price": 350.69,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 350.69
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 3050 msi geforce rtx 3050 gddr6 low profile schwarz",
+   "firstSeen": "2026-11-27"
+  },
+  {
    "id": "c-asus-rog-strix-x870-a-gaming-wifi-mainboard-amd-x870-am5-ddr",
    "cat": "Mainboards",
    "sub": "AM5 X870",
@@ -134935,83 +133585,6 @@
    ],
    "count": 1,
    "tags": "monitore 27\" asus rog strix xg279cns zoll gaming monitor 380hz fast ips sync",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-dell-p2419h-led-monitor-61-cm-24-23-8-sichtbar-1920-x-1080-f",
-   "cat": "Monitore",
-   "sub": "24\"",
-   "name": "Dell P2419H - LED-Monitor - 61 cm (24\") (23.8\" sichtbar) - 1920 x 1080 Full HD (1080p) - IPS - 250 cd/m² - 1000:1 - 5 ms - HDMI, VGA, DisplayPort - (Energieklasse D) (DELL-P2419H)",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/dell-p2419h-led-monitor-61-cm-24-23-8-sichtbar-1920-x-1080-full-hd-1080p-ips-250-cd-m2-1000-1-5-ms-hdmi-vga-displayport-energieklasse-d-dell-p2419h-4590006/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 359.2,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/dell-p2419h-led-monitor-61-cm-24-23-8-sichtbar-1920-x-1080-full-hd-1080p-ips-250-cd-m2-1000-1-5-ms-hdmi-vga-displayport-energieklasse-d-dell-p2419h-4590006/"
-    }
-   ],
-   "price": 359.2,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 397.77
-    },
-    {
-     "d": "2026-10-31",
-     "p": 397.77
-    },
-    {
-     "d": "2026-11-01",
-     "p": 397.77
-    },
-    {
-     "d": "2026-11-02",
-     "p": 397.77
-    },
-    {
-     "d": "2026-11-03",
-     "p": 397.77
-    },
-    {
-     "d": "2026-11-05",
-     "p": 397.77
-    },
-    {
-     "d": "2026-11-08",
-     "p": 397.77
-    },
-    {
-     "d": "2026-11-10",
-     "p": 397.02
-    },
-    {
-     "d": "2026-11-13",
-     "p": 397.02
-    },
-    {
-     "d": "2026-11-15",
-     "p": 359.2
-    },
-    {
-     "d": "2026-11-18",
-     "p": 359.2
-    },
-    {
-     "d": "2026-11-21",
-     "p": 359.2
-    },
-    {
-     "d": "2026-11-24",
-     "p": 359.2
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 24\" dell p2419h led monitor sichtbar 1920 1080 full 1080p ips 250 1000 hdmi vga displayport energieklasse",
    "firstSeen": "2026-10-30"
   },
   {
@@ -136400,83 +134973,6 @@
    ],
    "count": 1,
    "tags": "arbeitsspeicher ddr4 32 gb kingston fury beast ddr4 3600 mhz cl18 dimm schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-dell-p2423de-24-qhd-ips-monitor-schwarz",
-   "cat": "Monitore",
-   "sub": "24\"",
-   "name": "Dell P2423DE 24\" QHD IPS Monitor Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/dell-p2423de-24-qhd-ips-monitor-schwarz-100580141/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 370.59,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/dell-p2423de-24-qhd-ips-monitor-schwarz-100580141/"
-    }
-   ],
-   "price": 370.59,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 370.59
-    },
-    {
-     "d": "2026-10-31",
-     "p": 370.59
-    },
-    {
-     "d": "2026-11-01",
-     "p": 370.59
-    },
-    {
-     "d": "2026-11-02",
-     "p": 370.59
-    },
-    {
-     "d": "2026-11-03",
-     "p": 370.59
-    },
-    {
-     "d": "2026-11-05",
-     "p": 370.59
-    },
-    {
-     "d": "2026-11-08",
-     "p": 370.59
-    },
-    {
-     "d": "2026-11-10",
-     "p": 370.59
-    },
-    {
-     "d": "2026-11-12",
-     "p": 370.59
-    },
-    {
-     "d": "2026-11-15",
-     "p": 370.59
-    },
-    {
-     "d": "2026-11-18",
-     "p": 370.59
-    },
-    {
-     "d": "2026-11-21",
-     "p": 370.59
-    },
-    {
-     "d": "2026-11-24",
-     "p": 370.59
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 24\" dell p2423de qhd ips monitor schwarz",
    "firstSeen": "2026-10-30"
   },
   {
@@ -137944,83 +136440,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-viewsonic-vg3419c-led-monitor-gebogen-86-4-cm-34-3440-x-1440",
-   "cat": "Monitore",
-   "sub": "34\"",
-   "name": "ViewSonic VG3419C - LED-Monitor - gebogen - 86.4 cm (34\") - 3440 x 1440 UWQHD @ 120 Hz - VA - 300 cd/m² - 3000:1 - HDR10 - 0.4 ms - HDMI, DisplayPort, USB-C - Lautsprecher (VG3419C)",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/viewsonic-vg3419c-led-monitor-gebogen-86-4-cm-34-3440-x-1440-uwqhd-at-120-hz-va-300-cd-m2-3000-1-hdr10-0-4-ms-hdmi-displayport-usb-c-lautsprecher-vg3419c-100280758/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 381.18,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/viewsonic-vg3419c-led-monitor-gebogen-86-4-cm-34-3440-x-1440-uwqhd-at-120-hz-va-300-cd-m2-3000-1-hdr10-0-4-ms-hdmi-displayport-usb-c-lautsprecher-vg3419c-100280758/"
-    }
-   ],
-   "price": 381.18,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 381.18
-    },
-    {
-     "d": "2026-10-31",
-     "p": 381.18
-    },
-    {
-     "d": "2026-11-01",
-     "p": 381.18
-    },
-    {
-     "d": "2026-11-02",
-     "p": 381.18
-    },
-    {
-     "d": "2026-11-03",
-     "p": 381.18
-    },
-    {
-     "d": "2026-11-05",
-     "p": 381.18
-    },
-    {
-     "d": "2026-11-08",
-     "p": 381.18
-    },
-    {
-     "d": "2026-11-10",
-     "p": 381.18
-    },
-    {
-     "d": "2026-11-12",
-     "p": 381.18
-    },
-    {
-     "d": "2026-11-15",
-     "p": 381.18
-    },
-    {
-     "d": "2026-11-18",
-     "p": 381.18
-    },
-    {
-     "d": "2026-11-21",
-     "p": 381.18
-    },
-    {
-     "d": "2026-11-24",
-     "p": 381.18
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 34\" viewsonic vg3419c led monitor gebogen 3440 1440 uwqhd 120 300 3000 hdr10 hdmi displayport usb lautsprecher",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-samsung-990-evo-series-nvme-ssd-pcie-4-0-m-2-typ-2280-2-tb",
    "cat": "SSDs",
    "sub": "PCIe 4.0 2 TB",
@@ -138056,83 +136475,6 @@
    "count": 1,
    "tags": "ssds pcie 4.0 2 tb samsung 990 evo series nvme ssd pcie typ 2280",
    "firstSeen": "2026-11-21"
-  },
-  {
-   "id": "c-samsung-870-evo-1-tb-ssd-2-5-sata-iii-schwarz",
-   "cat": "SSDs",
-   "sub": "SATA 1 TB",
-   "name": "Samsung 870 EVO 1 TB SSD 2.5\" SATA III Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/samsung-870-evo-1-tb-ssd-2-5-sata-iii-schwarz-100540084/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 381.32,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/samsung-870-evo-1-tb-ssd-2-5-sata-iii-schwarz-100540084/"
-    }
-   ],
-   "price": 381.32,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 381.32
-    },
-    {
-     "d": "2026-10-31",
-     "p": 381.32
-    },
-    {
-     "d": "2026-11-01",
-     "p": 381.32
-    },
-    {
-     "d": "2026-11-02",
-     "p": 381.32
-    },
-    {
-     "d": "2026-11-03",
-     "p": 381.32
-    },
-    {
-     "d": "2026-11-06",
-     "p": 381.32
-    },
-    {
-     "d": "2026-11-08",
-     "p": 381.32
-    },
-    {
-     "d": "2026-11-10",
-     "p": 381.32
-    },
-    {
-     "d": "2026-11-13",
-     "p": 381.32
-    },
-    {
-     "d": "2026-11-15",
-     "p": 381.32
-    },
-    {
-     "d": "2026-11-18",
-     "p": 381.32
-    },
-    {
-     "d": "2026-11-21",
-     "p": 381.32
-    },
-    {
-     "d": "2026-11-24",
-     "p": 381.32
-    }
-   ],
-   "count": 1,
-   "tags": "ssds sata 1 tb samsung 870 evo ssd sata iii schwarz",
-   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-renkforce-pc-tuning-kit-intel-core-i5-12400-4-40-ghz-ddr4-ra",
@@ -138242,83 +136584,6 @@
    ],
    "count": 1,
    "tags": "monitore 27\" omen 27qs qhd 280 ips gaming monitor schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-philips-p-line-279p1-led-monitor-27-4k-uhd-ips-usb-c-hdmi-di",
-   "cat": "Monitore",
-   "sub": "27\"",
-   "name": "Philips P-line 279P1 LED-Monitor 27\" 4K UHD IPS USB-C HDMI DisplayPort Black Texture",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/philips-p-line-279p1-led-monitor-27-4k-uhd-ips-usb-c-hdmi-displayport-black-texture-6793214/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 383.89,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/philips-p-line-279p1-led-monitor-27-4k-uhd-ips-usb-c-hdmi-displayport-black-texture-6793214/"
-    }
-   ],
-   "price": 383.89,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 383.89
-    },
-    {
-     "d": "2026-10-31",
-     "p": 383.89
-    },
-    {
-     "d": "2026-11-01",
-     "p": 383.89
-    },
-    {
-     "d": "2026-11-02",
-     "p": 383.89
-    },
-    {
-     "d": "2026-11-03",
-     "p": 383.89
-    },
-    {
-     "d": "2026-11-05",
-     "p": 383.89
-    },
-    {
-     "d": "2026-11-08",
-     "p": 383.89
-    },
-    {
-     "d": "2026-11-10",
-     "p": 383.89
-    },
-    {
-     "d": "2026-11-13",
-     "p": 383.89
-    },
-    {
-     "d": "2026-11-15",
-     "p": 383.89
-    },
-    {
-     "d": "2026-11-18",
-     "p": 383.89
-    },
-    {
-     "d": "2026-11-21",
-     "p": 383.89
-    },
-    {
-     "d": "2026-11-24",
-     "p": 383.89
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 27\" philips line 279p1 led monitor uhd ips usb hdmi displayport black texture",
    "firstSeen": "2026-10-30"
   },
   {
@@ -138681,6 +136946,35 @@
    "count": 1,
    "tags": "mainboards am5 x870 asrock taichi x870e lite mainboard atx sockel am5 ddr5 schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-msi-geforce-rtx-3050-ventus-2x-xs-oc-8-gb-gddr6-weiss",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 3050",
+   "name": "MSI GeForce RTX 3050 VENTUS 2X XS OC 8 GB GDDR6, Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/msi-geforce-rtx-3050-ventus-2x-xs-oc-8-gb-gddr6-weiss-100532699/",
+   "stand": "2026-11-27T11:25",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 386.38,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/msi-geforce-rtx-3050-ventus-2x-xs-oc-8-gb-gddr6-weiss-100532699/"
+    }
+   ],
+   "price": 386.38,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 386.38
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 3050 msi geforce rtx 3050 ventus gddr6 weiss",
+   "firstSeen": "2026-11-27"
   },
   {
    "id": "c-aoc-gaming-q27g4zd-27-oled-monitor-2560-x-1440-240-hz-schwar",
@@ -145680,83 +143974,6 @@
    "firstSeen": "2026-11-22"
   },
   {
-   "id": "c-lenovo-512-gb-ssd-pcie-gen4-nvme-m-2-2280-opal2",
-   "cat": "SSDs",
-   "sub": "PCIe 4.0 512 GB",
-   "name": "Lenovo 512 GB SSD PCIe Gen4 NVMe M.2 2280 OPAL2",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/lenovo-512-gb-ssd-pcie-gen4-nvme-m-2-2280-opal2-100280281/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 494.62,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/lenovo-512-gb-ssd-pcie-gen4-nvme-m-2-2280-opal2-100280281/"
-    }
-   ],
-   "price": 494.62,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 413.74
-    },
-    {
-     "d": "2026-10-31",
-     "p": 413.74
-    },
-    {
-     "d": "2026-11-01",
-     "p": 413.74
-    },
-    {
-     "d": "2026-11-02",
-     "p": 413.74
-    },
-    {
-     "d": "2026-11-03",
-     "p": 494.62
-    },
-    {
-     "d": "2026-11-06",
-     "p": 494.62
-    },
-    {
-     "d": "2026-11-08",
-     "p": 494.62
-    },
-    {
-     "d": "2026-11-10",
-     "p": 494.62
-    },
-    {
-     "d": "2026-11-13",
-     "p": 460.05
-    },
-    {
-     "d": "2026-11-15",
-     "p": 460.05
-    },
-    {
-     "d": "2026-11-18",
-     "p": 494.62
-    },
-    {
-     "d": "2026-11-21",
-     "p": 494.62
-    },
-    {
-     "d": "2026-11-24",
-     "p": 494.62
-    }
-   ],
-   "count": 1,
-   "tags": "ssds pcie 4.0 512 gb lenovo 512 ssd pcie gen4 nvme 2280 opal2",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-philips-evnia-8000-27m2n8500-26-5-qd-oled-monitor-2560-x-144",
    "cat": "Monitore",
    "sub": "26,5\"",
@@ -146388,6 +144605,35 @@
    "count": 1,
    "tags": "arbeitsspeicher ddr5 32 gb corsair vengeance cmk32gx5m2f6000z36 ram ddr5 6000 cl36 grau",
    "firstSeen": "2026-11-19"
+  },
+  {
+   "id": "c-msi-geforce-rtx-5050-8g-ventus-2x-oc-grafikkarte-8-gb-gddr6-",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5050",
+   "name": "MSI GeForce RTX 5050 8G VENTUS 2X OC Grafikkarte 8 GB GDDR6 Silber",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/msi-geforce-rtx-5050-8g-ventus-2x-oc-grafikkarte-8-gb-gddr6-silber-100598610/",
+   "stand": "2026-11-27T11:25",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 504.99,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/msi-geforce-rtx-5050-8g-ventus-2x-oc-grafikkarte-8-gb-gddr6-silber-100598610/"
+    }
+   ],
+   "price": 504.99,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 504.99
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5050 msi geforce rtx 5050 ventus grafikkarte gddr6 silber",
+   "firstSeen": "2026-11-27"
   },
   {
    "id": "c-lenovo-ssd-1-tb-m-2-2242-pcie-4-0-x4-nvme",
@@ -147834,83 +146080,6 @@
    "count": 1,
    "tags": "ssds pcie 4.0 1024 gb lenovo ssd 2280 pcie nvme 1024",
    "firstSeen": "2026-11-22"
-  },
-  {
-   "id": "c-asus-rog-strix-oled-xg27aqng-led-monitor-67-3-cm-27-wqhd-hdm",
-   "cat": "Monitore",
-   "sub": "27\"",
-   "name": "ASUS ROG Strix OLED XG27AQNG LED-Monitor 67,3 cm (27\") WQHD – HDMI/DP – Schwarz (90LM0CH0-B01971)",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/asus-rog-strix-oled-xg27aqng-led-monitor-67-3-cm-27-wqhd-hdmi-dp-schwarz-90lm0ch0-b01971-100688795/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 532.04,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/asus-rog-strix-oled-xg27aqng-led-monitor-67-3-cm-27-wqhd-hdmi-dp-schwarz-90lm0ch0-b01971-100688795/"
-    }
-   ],
-   "price": 532.04,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 622.32
-    },
-    {
-     "d": "2026-10-31",
-     "p": 627.48
-    },
-    {
-     "d": "2026-11-01",
-     "p": 626.06
-    },
-    {
-     "d": "2026-11-02",
-     "p": 626.33
-    },
-    {
-     "d": "2026-11-03",
-     "p": 626.33
-    },
-    {
-     "d": "2026-11-05",
-     "p": 557.16
-    },
-    {
-     "d": "2026-11-08",
-     "p": 557.16
-    },
-    {
-     "d": "2026-11-10",
-     "p": 557.16
-    },
-    {
-     "d": "2026-11-13",
-     "p": 557.16
-    },
-    {
-     "d": "2026-11-15",
-     "p": 552.68
-    },
-    {
-     "d": "2026-11-18",
-     "p": 572.45
-    },
-    {
-     "d": "2026-11-21",
-     "p": 572.45
-    },
-    {
-     "d": "2026-11-24",
-     "p": 532.04
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 27\" asus rog strix oled xg27aqng led monitor wqhd hdmi schwarz 90lm0ch0 b01971",
-   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-corsair-hydro-x-series-mp700-pro-2-tb-ssd-m-2-2280-pcie-5-0-",
@@ -149867,6 +148036,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-msi-geforce-rtx-5060-8-gb-gddr7-ventus-2x-oc-white-grafikkar",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060",
+   "name": "MSI GeForce RTX 5060 8 GB GDDR7 VENTUS 2X OC WHITE Grafikkarte Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/msi-geforce-rtx-5060-8-gb-gddr7-ventus-2x-oc-white-grafikkarte-weiss-100584065/",
+   "stand": "2026-11-27T11:25",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 562.42,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/msi-geforce-rtx-5060-8-gb-gddr7-ventus-2x-oc-white-grafikkarte-weiss-100584065/"
+    }
+   ],
+   "price": 562.42,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 562.42
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 msi geforce rtx 5060 gddr7 ventus white grafikkarte weiss",
+   "firstSeen": "2026-11-27"
+  },
+  {
    "id": "c-asus-pro-ws-w680m-ace-se-mainboard-lga-1700-intel-w680-ddr5-",
    "cat": "Mainboards",
    "sub": "Mainboards",
@@ -150218,6 +148416,35 @@
    "count": 1,
    "tags": "mainboards asus p13r 10g mainboard atx lga1700 intel c266 10gb lan ddr5 schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-dual-geforce-rtx-5050-oc-edition-8-gb-gddr6-schwarz",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5050",
+   "name": "ASUS Dual GeForce RTX 5050 OC Edition 8 GB GDDR6 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-dual-geforce-rtx-5050-oc-edition-8-gb-gddr6-schwarz-100596075/",
+   "stand": "2026-11-27T11:25",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 568.55,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-dual-geforce-rtx-5050-oc-edition-8-gb-gddr6-schwarz-100596075/"
+    }
+   ],
+   "price": 568.55,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 568.55
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5050 asus dual geforce rtx 5050 edition gddr6 schwarz",
+   "firstSeen": "2026-11-27"
   },
   {
    "id": "c-inno3d-geforce-rtx-5060-ti-twin-x2-oc-8192-mb-gddr7",
@@ -153444,6 +151671,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-asus-dual-geforce-rtx-5060-oc-8-gb-gddr7-grafikkarte-schwarz",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060",
+   "name": "ASUS Dual GeForce RTX 5060 OC 8 GB GDDR7 Grafikkarte Schwarz Grau",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-dual-geforce-rtx-5060-oc-8-gb-gddr7-grafikkarte-schwarz-grau-100586179/",
+   "stand": "2026-11-27T11:25",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 627.27,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-dual-geforce-rtx-5060-oc-8-gb-gddr7-grafikkarte-schwarz-grau-100586179/"
+    }
+   ],
+   "price": 627.27,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 627.27
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 asus dual geforce rtx 5060 gddr7 grafikkarte schwarz grau",
+   "firstSeen": "2026-11-27"
+  },
+  {
    "id": "c-asus-rog-crosshair-x870e-hero-btf-mainboard-atx-am5-x870e-dd",
    "cat": "Mainboards",
    "sub": "AM5 X870",
@@ -153519,6 +151775,35 @@
    "count": 1,
    "tags": "mainboards am5 x870 asus rog crosshair x870e hero btf mainboard atx am5 ddr5 wifi 5gbe",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-msi-geforce-rtx-5060-8g-gaming-oc-grafikkarte-8-gb-gddr7-sch",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060",
+   "name": "MSI GeForce RTX 5060 8G GAMING OC Grafikkarte 8 GB GDDR7 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/msi-geforce-rtx-5060-8g-gaming-oc-grafikkarte-8-gb-gddr7-schwarz-100583535/",
+   "stand": "2026-11-27T11:25",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 629.55,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/msi-geforce-rtx-5060-8g-gaming-oc-grafikkarte-8-gb-gddr7-schwarz-100583535/"
+    }
+   ],
+   "price": 629.55,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 629.55
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 msi geforce rtx 5060 gaming grafikkarte gddr7 schwarz",
+   "firstSeen": "2026-11-27"
   },
   {
    "id": "c-klevv-cras-v-rgb-ddr5-6000-ram-cl28-xmp-3-0-expo-32-gb-dual-",
@@ -154961,160 +153246,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-ag-neovo-neovo-x-22e-led-monitor-54-6-cm-21-5-1920-x-1080-fu",
-   "cat": "Monitore",
-   "sub": "21,5\"",
-   "name": "AG Neovo Neovo X-22E - LED-Monitor - 54,6 cm (21.5\") - 1920 x 1080 Full HD (1080p) - TN - 250 cd/m² - 3 ms - HDMI, DVI-D, VGA, DisplayPort - Lautsprecher - weiß [Energieklasse E] (X22E00A1E0100)",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/ag-neovo-neovo-x-22e-led-monitor-54-6-cm-21-5-1920-x-1080-full-hd-1080p-tn-250-cd-m2-3-ms-hdmi-dvi-d-vga-displayport-lautsprecher-weiss-energieklasse-e-x22e00a1e0100-3660376/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 657.89,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/ag-neovo-neovo-x-22e-led-monitor-54-6-cm-21-5-1920-x-1080-full-hd-1080p-tn-250-cd-m2-3-ms-hdmi-dvi-d-vga-displayport-lautsprecher-weiss-energieklasse-e-x22e00a1e0100-3660376/"
-    }
-   ],
-   "price": 657.89,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 657.89
-    },
-    {
-     "d": "2026-10-31",
-     "p": 657.89
-    },
-    {
-     "d": "2026-11-01",
-     "p": 657.89
-    },
-    {
-     "d": "2026-11-02",
-     "p": 657.89
-    },
-    {
-     "d": "2026-11-03",
-     "p": 657.89
-    },
-    {
-     "d": "2026-11-05",
-     "p": 657.89
-    },
-    {
-     "d": "2026-11-08",
-     "p": 657.89
-    },
-    {
-     "d": "2026-11-10",
-     "p": 657.89
-    },
-    {
-     "d": "2026-11-13",
-     "p": 657.89
-    },
-    {
-     "d": "2026-11-15",
-     "p": 657.89
-    },
-    {
-     "d": "2026-11-18",
-     "p": 657.89
-    },
-    {
-     "d": "2026-11-21",
-     "p": 657.89
-    },
-    {
-     "d": "2026-11-24",
-     "p": 657.89
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 21,5\" neovo 22e led monitor 1920 1080 full 1080p 250 hdmi dvi vga displayport lautsprecher weiss energieklasse",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-hp-monitor-e24i-g4-wuxga-monitor-61cm-24zoll-hdmi-vga-usb-hu",
-   "cat": "Monitore",
-   "sub": "24\"",
-   "name": "HP Monitor E24i G4 WUXGA Monitor 61cm 24Zoll HDMI VGA USB hub DisplayPort [Energieklasse D] (9VJ40AA)",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/hp-monitor-e24i-g4-wuxga-monitor-61cm-24zoll-hdmi-vga-usb-hub-displayport-energieklasse-d-9vj40aa-6982838/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 658.32,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/hp-monitor-e24i-g4-wuxga-monitor-61cm-24zoll-hdmi-vga-usb-hub-displayport-energieklasse-d-9vj40aa-6982838/"
-    }
-   ],
-   "price": 658.32,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 658.32
-    },
-    {
-     "d": "2026-10-31",
-     "p": 658.32
-    },
-    {
-     "d": "2026-11-01",
-     "p": 658.32
-    },
-    {
-     "d": "2026-11-02",
-     "p": 658.32
-    },
-    {
-     "d": "2026-11-03",
-     "p": 658.32
-    },
-    {
-     "d": "2026-11-05",
-     "p": 658.32
-    },
-    {
-     "d": "2026-11-08",
-     "p": 658.32
-    },
-    {
-     "d": "2026-11-10",
-     "p": 658.32
-    },
-    {
-     "d": "2026-11-13",
-     "p": 658.32
-    },
-    {
-     "d": "2026-11-15",
-     "p": 658.32
-    },
-    {
-     "d": "2026-11-18",
-     "p": 658.32
-    },
-    {
-     "d": "2026-11-21",
-     "p": 658.32
-    },
-    {
-     "d": "2026-11-24",
-     "p": 658.32
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 24\" monitor e24i wuxga 61cm 24zoll hdmi vga usb hub displayport energieklasse 9vj40aa",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-t-force-vulcan-ddr5-32-gb-ram-2x16-gb-6000-mhz-cl38-schwarz",
    "cat": "Arbeitsspeicher",
    "sub": "DDR5 32 GB",
@@ -155929,6 +154060,35 @@
    "count": 1,
    "tags": "ssds nvme 2 tb samsung 980 pro nvme ssd",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-tuf-gaming-geforce-rtx-5060-oc-8-gb-gddr7-grafikkarte-p",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060",
+   "name": "ASUS TUF Gaming GeForce RTX 5060 OC 8 GB GDDR7 Grafikkarte PCIe 5.0 - Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-tuf-gaming-geforce-rtx-5060-oc-8-gb-gddr7-grafikkarte-pcie-5-0-schwarz-100583745/",
+   "stand": "2026-11-27T11:25",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 672.73,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-tuf-gaming-geforce-rtx-5060-oc-8-gb-gddr7-grafikkarte-pcie-5-0-schwarz-100583745/"
+    }
+   ],
+   "price": 672.73,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 672.73
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 asus tuf gaming geforce rtx 5060 gddr7 grafikkarte pcie schwarz",
+   "firstSeen": "2026-11-27"
   },
   {
    "id": "c-corsair-vengeance-ddr5-kit-32-gb-2-x-16-gb-6400-mt-s-cl32-gr",
@@ -160206,6 +158366,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-msi-geforce-rtx-5050-8g-gaming-oc-grafikkarte-8-gb-gddr6-pci",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5050",
+   "name": "MSI GeForce RTX 5050 8G GAMING OC Grafikkarte 8 GB GDDR6 PCIe 5.0 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/msi-geforce-rtx-5050-8g-gaming-oc-grafikkarte-8-gb-gddr6-pcie-5-0-schwarz-100598609/",
+   "stand": "2026-11-27T11:25",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 760.08,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/msi-geforce-rtx-5050-8g-gaming-oc-grafikkarte-8-gb-gddr6-pcie-5-0-schwarz-100598609/"
+    }
+   ],
+   "price": 760.08,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 760.08
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5050 msi geforce rtx 5050 gaming grafikkarte gddr6 pcie schwarz",
+   "firstSeen": "2026-11-27"
+  },
+  {
    "id": "c-g-skill-trident-z5-rgb-32-gb-ram-2x16-gb-ddr5-6000-mhz-cl36-",
    "cat": "Arbeitsspeicher",
    "sub": "DDR5 32 GB",
@@ -160669,6 +158858,35 @@
    "count": 1,
    "tags": "arbeitsspeicher ddr5 32 gb corsair dominator titanium rgb ram 6000 mhz cl30 ddr5 weiss",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-msi-ventus-geforce-rtx-5060-ti-16-gb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060 Ti",
+   "name": "MSI VENTUS GeForce RTX 5060 Ti 16 GB GDDR7",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/msi-ventus-geforce-rtx-5060-ti-16-gb-gddr7-100704054/",
+   "stand": "2026-11-27T11:25",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 771.93,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/msi-ventus-geforce-rtx-5060-ti-16-gb-gddr7-100704054/"
+    }
+   ],
+   "price": 771.93,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 771.93
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 ti msi ventus geforce rtx 5060 gddr7",
+   "firstSeen": "2026-11-27"
   },
   {
    "id": "c-amd-epyc-4585px-4-3-ghz-16-kerne-32-threads-prozessor",
@@ -161417,6 +159635,35 @@
    "count": 1,
    "tags": "ssds pcie 4.0 2 tb transcend mte410s ssd pcie nvme",
    "firstSeen": "2026-11-18"
+  },
+  {
+   "id": "c-asus-prime-geforce-rtx-5060-oc-grafikkarte-8-gb-gddr7",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060",
+   "name": "ASUS Prime GeForce RTX 5060 OC Grafikkarte 8 GB GDDR7",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-prime-geforce-rtx-5060-oc-grafikkarte-8-gb-gddr7-100583744/",
+   "stand": "2026-11-27T11:25",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 797.31,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-prime-geforce-rtx-5060-oc-grafikkarte-8-gb-gddr7-100583744/"
+    }
+   ],
+   "price": 797.31,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 797.31
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 asus prime geforce rtx 5060 grafikkarte gddr7",
+   "firstSeen": "2026-11-27"
   },
   {
    "id": "c-nitro-concepts-sm1-curved-monitor-144-hz-49-sim-racing-displ",
@@ -162875,6 +161122,35 @@
    "firstSeen": "2026-11-26"
   },
   {
+   "id": "c-msi-geforce-rtx-5060-ti-16g-gaming-oc-grafikkarte-16-gb-gddr",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060 Ti",
+   "name": "MSI GeForce RTX 5060 Ti 16G GAMING OC Grafikkarte 16 GB GDDR7 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/msi-geforce-rtx-5060-ti-16g-gaming-oc-grafikkarte-16-gb-gddr7-schwarz-100579315/",
+   "stand": "2026-11-27T11:25",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 835.98,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/msi-geforce-rtx-5060-ti-16g-gaming-oc-grafikkarte-16-gb-gddr7-schwarz-100579315/"
+    }
+   ],
+   "price": 835.98,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 835.98
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 ti msi geforce rtx 5060 16g gaming grafikkarte gddr7 schwarz",
+   "firstSeen": "2026-11-27"
+  },
+  {
    "id": "c-g-skill-dimm-32-gb-ddr5-6000-2x-16-gb-dual-kit-arbeitsspeich",
    "cat": "Arbeitsspeicher",
    "sub": "DDR5 32 GB",
@@ -163140,83 +161416,6 @@
    ],
    "count": 1,
    "tags": "monitore 27\" benq photovue sw272q 2560 1440 ips monitor schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-msi-mpg-321urxwde-qd-oled-gaming-monitor-80-cm-31-5-zoll-ult",
-   "cat": "Monitore",
-   "sub": "31,5\"",
-   "name": "MSI MPG 321URXWDE QD-OLED, Gaming-Monitor - (80 cm (31.5 Zoll) UltraHD/4K, QD-OLED, Adaptive-Sync, USB-C, 240Hz Panel) white [Energieklasse G] (9S6-3DD29A-023)",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/msi-mpg-321urxwde-qd-oled-gaming-monitor-80-cm-31-5-zoll-ultrahd-4k-qd-oled-adaptive-sync-usb-c-240hz-panel-white-energieklasse-g-9s6-3dd29a-023-100551406/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 842.97,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/msi-mpg-321urxwde-qd-oled-gaming-monitor-80-cm-31-5-zoll-ultrahd-4k-qd-oled-adaptive-sync-usb-c-240hz-panel-white-energieklasse-g-9s6-3dd29a-023-100551406/"
-    }
-   ],
-   "price": 842.97,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 842.97
-    },
-    {
-     "d": "2026-10-31",
-     "p": 842.97
-    },
-    {
-     "d": "2026-11-01",
-     "p": 842.97
-    },
-    {
-     "d": "2026-11-02",
-     "p": 842.97
-    },
-    {
-     "d": "2026-11-03",
-     "p": 842.97
-    },
-    {
-     "d": "2026-11-05",
-     "p": 842.97
-    },
-    {
-     "d": "2026-11-08",
-     "p": 842.97
-    },
-    {
-     "d": "2026-11-10",
-     "p": 842.97
-    },
-    {
-     "d": "2026-11-12",
-     "p": 842.97
-    },
-    {
-     "d": "2026-11-15",
-     "p": 842.97
-    },
-    {
-     "d": "2026-11-18",
-     "p": 842.97
-    },
-    {
-     "d": "2026-11-21",
-     "p": 842.97
-    },
-    {
-     "d": "2026-11-24",
-     "p": 842.97
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 31,5\" msi mpg 321urxwde oled gaming monitor zoll ultrahd adaptive sync usb 240hz panel white energieklasse 9s6",
    "firstSeen": "2026-10-30"
   },
   {
@@ -164988,83 +163187,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-samsung-viewfinity-s9-s27c902pau-s90pc-series-led-monitor-sm",
-   "cat": "Monitore",
-   "sub": "27\"",
-   "name": "Samsung ViewFinity S9 S27C902PAU - S90PC Series - LED-Monitor - Smart - 68.6 cm (27\") - 5120 x 2880 5K @ 60 Hz - IPS - 600 cd/m² - 1000:1 - 5 ms - Mini DisplayPort, Thunderbolt 4 - Lautsprecher - Silber, Metal Silver [Energieklasse F] (LS27C902PAUXEN)",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/samsung-viewfinity-s9-s27c902pau-s90pc-series-led-monitor-smart-68-6-cm-27-5120-x-2880-5k-at-60-hz-ips-600-cd-m2-1000-1-5-ms-mini-displayport-thunderbolt-4-lautsprecher-silber-metal-silver-energieklasse-f-ls27c902pauxen-8943903/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 882.17,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/samsung-viewfinity-s9-s27c902pau-s90pc-series-led-monitor-smart-68-6-cm-27-5120-x-2880-5k-at-60-hz-ips-600-cd-m2-1000-1-5-ms-mini-displayport-thunderbolt-4-lautsprecher-silber-metal-silver-energieklasse-f-ls27c902pauxen-8943903/"
-    }
-   ],
-   "price": 882.17,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 850.83
-    },
-    {
-     "d": "2026-10-31",
-     "p": 823.1
-    },
-    {
-     "d": "2026-11-01",
-     "p": 823.1
-    },
-    {
-     "d": "2026-11-02",
-     "p": 823.1
-    },
-    {
-     "d": "2026-11-03",
-     "p": 823.1
-    },
-    {
-     "d": "2026-11-05",
-     "p": 823.1
-    },
-    {
-     "d": "2026-11-08",
-     "p": 850.83
-    },
-    {
-     "d": "2026-11-10",
-     "p": 850.83
-    },
-    {
-     "d": "2026-11-12",
-     "p": 850.83
-    },
-    {
-     "d": "2026-11-15",
-     "p": 850.83
-    },
-    {
-     "d": "2026-11-18",
-     "p": 876.57
-    },
-    {
-     "d": "2026-11-21",
-     "p": 855.54
-    },
-    {
-     "d": "2026-11-24",
-     "p": 882.17
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 27\" samsung viewfinity s27c902pau s90pc series led monitor smart 5120 2880 ips 600 1000 mini displayport thunderbolt",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-asus-pro-ws-trx50-sage-wifi-a-mainboard-ssi-ceb-socket-str5-",
    "cat": "Mainboards",
    "sub": "Mainboards",
@@ -165140,6 +163262,35 @@
    "count": 1,
    "tags": "mainboards asus pro trx50 sage wifi mainboard ssi ceb socket str5 ddr5 schwarz",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-msi-geforce-rtx-5070-ventus-3x-oc-12-gb-gddr7-grafikkarte-sc",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5070",
+   "name": "MSI GeForce RTX 5070 VENTUS 3X OC 12 GB GDDR7 Grafikkarte Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/msi-geforce-rtx-5070-ventus-3x-oc-12-gb-gddr7-grafikkarte-schwarz-100583534/",
+   "stand": "2026-11-27T11:25",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 884.74,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/msi-geforce-rtx-5070-ventus-3x-oc-12-gb-gddr7-grafikkarte-schwarz-100583534/"
+    }
+   ],
+   "price": 884.74,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 884.74
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5070 msi geforce rtx 5070 ventus gddr7 grafikkarte schwarz",
+   "firstSeen": "2026-11-27"
   },
   {
    "id": "c-gainward-geforce-rtx-5060-ti-ghost-oc-16384-mb-gddr7",
@@ -166009,6 +164160,35 @@
    "firstSeen": "2026-11-19"
   },
   {
+   "id": "c-palit-geforce-rtx-5060-ti-infinity-3-oc-16-gb-gddr7-schwarz",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060 Ti",
+   "name": "Palit GeForce RTX 5060 Ti Infinity 3 OC 16 GB GDDR7 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/palit-geforce-rtx-5060-ti-infinity-3-oc-16-gb-gddr7-schwarz-100567571/",
+   "stand": "2026-11-27T11:25",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 909.29,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/palit-geforce-rtx-5060-ti-infinity-3-oc-16-gb-gddr7-schwarz-100567571/"
+    }
+   ],
+   "price": 909.29,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 909.29
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 ti palit geforce rtx 5060 infinity gddr7 schwarz",
+   "firstSeen": "2026-11-27"
+  },
+  {
    "id": "c-intel-xeon-w-w3-2435-prozessor-3-1-ghz-8-kerne-22-5-mb-cache",
    "cat": "Prozessoren",
    "sub": "Prozessoren",
@@ -166165,51 +164345,6 @@
    "count": 1,
    "tags": "arbeitsspeicher ddr5 32 gb patriot viper gaming rgb xtreme ddr5 8000 ram intel xmp 32gb dual kit silber",
    "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "c-hpe-p18422-b21-480-gb-ssd-2-5-sata-6gb-s-schwarz",
-   "cat": "SSDs",
-   "sub": "SATA 480 GB",
-   "name": "HPE P18422-B21 480 GB SSD 2.5\" SATA 6Gb/s Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/hpe-p18422-b21-480-gb-ssd-2-5-sata-6gb-s-schwarz-6083265/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 914.71,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/hpe-p18422-b21-480-gb-ssd-2-5-sata-6gb-s-schwarz-6083265/"
-    }
-   ],
-   "price": 914.71,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-13",
-     "p": 914.71
-    },
-    {
-     "d": "2026-11-15",
-     "p": 914.71
-    },
-    {
-     "d": "2026-11-18",
-     "p": 914.71
-    },
-    {
-     "d": "2026-11-21",
-     "p": 914.71
-    },
-    {
-     "d": "2026-11-24",
-     "p": 914.71
-    }
-   ],
-   "count": 1,
-   "tags": "ssds sata 480 gb hpe p18422 b21 480 ssd sata 6gb schwarz",
-   "firstSeen": "2026-11-13"
   },
   {
    "id": "c-synology-enterprise-series-snv5420-800g-800-gb-ssd-m-2-2280-",
@@ -168387,6 +166522,35 @@
    "firstSeen": "2026-11-20"
   },
   {
+   "id": "c-asus-dual-white-oc-edition-geforce-rtx-5060-ti-16-gb-gddr7-w",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060 Ti",
+   "name": "ASUS Dual White OC Edition GeForce RTX 5060 Ti 16 GB GDDR7 White",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-dual-white-oc-edition-geforce-rtx-5060-ti-16-gb-gddr7-white-100601482/",
+   "stand": "2026-11-27T11:25",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 986.4,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-dual-white-oc-edition-geforce-rtx-5060-ti-16-gb-gddr7-white-100601482/"
+    }
+   ],
+   "price": 986.4,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 986.4
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 ti asus dual white edition geforce rtx 5060 gddr7",
+   "firstSeen": "2026-11-27"
+  },
+  {
    "id": "c-samsung-9100-pro-ssd-4-tb-m-2-pcie-5-0-nvme-schwarz",
    "cat": "SSDs",
    "sub": "PCIe 5.0 4 TB",
@@ -168977,6 +167141,35 @@
    "count": 1,
    "tags": "grafikkarten radeon rx 9070 sapphire pure radeon 9070 gddr6 grafikkarte weiss",
    "firstSeen": "2026-11-25"
+  },
+  {
+   "id": "c-msi-gaming-trio-geforce-rtx-5060-ti-oc-16-gb-gddr7-weiss",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060 Ti",
+   "name": "MSI GAMING TRIO GeForce RTX 5060 Ti OC 16 GB GDDR7 Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/msi-gaming-trio-geforce-rtx-5060-ti-oc-16-gb-gddr7-weiss-100584332/",
+   "stand": "2026-11-27T11:25",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1003.67,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/msi-gaming-trio-geforce-rtx-5060-ti-oc-16-gb-gddr7-weiss-100584332/"
+    }
+   ],
+   "price": 1003.67,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 1003.67
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 ti msi gaming trio geforce rtx 5060 gddr7 weiss",
+   "firstSeen": "2026-11-27"
   },
   {
    "id": "c-samsung-odyssey-oled-g80sh-32-4k-uhd-240-hz-monitor-weiss",
@@ -170625,83 +168818,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-g-skill-flare-x5-32-gb-ram-2x-16-gb-ddr5-6000-cl28-dimm-low-",
-   "cat": "Arbeitsspeicher",
-   "sub": "DDR5 32 GB",
-   "name": "G.Skill Flare X5 32 GB RAM 2x 16 GB DDR5-6000 CL28 DIMM Low Profile Weiß",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/g-skill-flare-x5-32-gb-ram-2x-16-gb-ddr5-6000-cl28-dimm-low-profile-weiss-100545665/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 1120.44,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/g-skill-flare-x5-32-gb-ram-2x-16-gb-ddr5-6000-cl28-dimm-low-profile-weiss-100545665/"
-    }
-   ],
-   "price": 1120.44,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 902.53
-    },
-    {
-     "d": "2026-10-31",
-     "p": 902.53
-    },
-    {
-     "d": "2026-11-01",
-     "p": 902.53
-    },
-    {
-     "d": "2026-11-02",
-     "p": 902.53
-    },
-    {
-     "d": "2026-11-03",
-     "p": 902.53
-    },
-    {
-     "d": "2026-11-05",
-     "p": 1076.78
-    },
-    {
-     "d": "2026-11-07",
-     "p": 1076.78
-    },
-    {
-     "d": "2026-11-10",
-     "p": 1076.78
-    },
-    {
-     "d": "2026-11-12",
-     "p": 1128.42
-    },
-    {
-     "d": "2026-11-15",
-     "p": 1101.89
-    },
-    {
-     "d": "2026-11-18",
-     "p": 1107.53
-    },
-    {
-     "d": "2026-11-21",
-     "p": 1120.42
-    },
-    {
-     "d": "2026-11-24",
-     "p": 1120.44
-    }
-   ],
-   "count": 1,
-   "tags": "arbeitsspeicher ddr5 32 gb skill flare ram ddr5 6000 cl28 dimm low profile weiss",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-corsair-dominator-titanium-rgb-ddr5-48-gb-ram-2x-24-gb-7200-",
    "cat": "Arbeitsspeicher",
    "sub": "DDR5 48 GB",
@@ -170781,6 +168897,35 @@
    "count": 1,
    "tags": "arbeitsspeicher ddr5 48 gb corsair dominator titanium rgb ddr5 ram 7200 mhz cl36 weiss",
    "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-dual-geforce-rtx-5070-12-gb-oc-edition-grafikkarte-gddr",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5070",
+   "name": "ASUS Dual GeForce RTX 5070 12 GB OC Edition Grafikkarte GDDR7 PCI Express 5.0 Silber Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-dual-geforce-rtx-5070-12-gb-oc-edition-grafikkarte-gddr7-pci-express-5-0-silber-schwarz-100584074/",
+   "stand": "2026-11-27T11:25",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1130.51,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-dual-geforce-rtx-5070-12-gb-oc-edition-grafikkarte-gddr7-pci-express-5-0-silber-schwarz-100584074/"
+    }
+   ],
+   "price": 1130.51,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 1130.51
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5070 asus dual geforce rtx 5070 edition grafikkarte gddr7 pci express silber schwarz",
+   "firstSeen": "2026-11-27"
   },
   {
    "id": "c-patriot-viper-gaming-rgb-xtreme-5-ddr5-6000-ram-cl-30-intel-",
@@ -172335,83 +170480,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-lenovo-thinkvision-p40wd-40-40-5120-x-2160-120-hz-ips-led-mo",
-   "cat": "Monitore",
-   "sub": "40\"",
-   "name": "Lenovo ThinkVision P40WD-40 40\" 5120 x 2160 120 Hz IPS LED-Monitor Finsternis schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/lenovo-thinkvision-p40wd-40-40-5120-x-2160-120-hz-ips-led-monitor-finsternis-schwarz-100830101/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 1287.85,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/lenovo-thinkvision-p40wd-40-40-5120-x-2160-120-hz-ips-led-monitor-finsternis-schwarz-100830101/"
-    }
-   ],
-   "price": 1287.85,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 1334.3
-    },
-    {
-     "d": "2026-10-31",
-     "p": 1334.3
-    },
-    {
-     "d": "2026-11-01",
-     "p": 1334.3
-    },
-    {
-     "d": "2026-11-02",
-     "p": 1334.3
-    },
-    {
-     "d": "2026-11-03",
-     "p": 1316.41
-    },
-    {
-     "d": "2026-11-05",
-     "p": 1311.07
-    },
-    {
-     "d": "2026-11-08",
-     "p": 1280.17
-    },
-    {
-     "d": "2026-11-10",
-     "p": 1280.17
-    },
-    {
-     "d": "2026-11-12",
-     "p": 1280.17
-    },
-    {
-     "d": "2026-11-15",
-     "p": 1280.17
-    },
-    {
-     "d": "2026-11-18",
-     "p": 1280.17
-    },
-    {
-     "d": "2026-11-21",
-     "p": 1287.85
-    },
-    {
-     "d": "2026-11-24",
-     "p": 1287.85
-    }
-   ],
-   "count": 1,
-   "tags": "monitore 40\" lenovo thinkvision p40wd 5120 2160 120 ips led monitor finsternis schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-asus-proart-pa32qcv-32-6k-ips-monitor-thunderbolt-4-grau",
    "cat": "Monitore",
    "sub": "32\"",
@@ -172536,83 +170604,6 @@
    "count": 1,
    "tags": "prozessoren amd epyc 9254 ghz prozessor kerne",
    "firstSeen": "2026-11-11"
-  },
-  {
-   "id": "c-kingston-dc600m-1-92-tb-ssd-sata-6gb-s",
-   "cat": "SSDs",
-   "sub": "SATA 1,92 TB",
-   "name": "Kingston DC600M 1.92 TB SSD SATA 6Gb/s",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/kingston-dc600m-1-92-tb-ssd-sata-6gb-s-8360486/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 1299.46,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/kingston-dc600m-1-92-tb-ssd-sata-6gb-s-8360486/"
-    }
-   ],
-   "price": 1299.46,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 1320.21
-    },
-    {
-     "d": "2026-10-31",
-     "p": 1320.21
-    },
-    {
-     "d": "2026-11-01",
-     "p": 1320.21
-    },
-    {
-     "d": "2026-11-02",
-     "p": 1320.21
-    },
-    {
-     "d": "2026-11-03",
-     "p": 1320.21
-    },
-    {
-     "d": "2026-11-06",
-     "p": 1320.21
-    },
-    {
-     "d": "2026-11-08",
-     "p": 1331.62
-    },
-    {
-     "d": "2026-11-10",
-     "p": 1322.47
-    },
-    {
-     "d": "2026-11-13",
-     "p": 1322.47
-    },
-    {
-     "d": "2026-11-15",
-     "p": 1322.47
-    },
-    {
-     "d": "2026-11-18",
-     "p": 1304.2
-    },
-    {
-     "d": "2026-11-21",
-     "p": 1294.32
-    },
-    {
-     "d": "2026-11-24",
-     "p": 1299.46
-    }
-   ],
-   "count": 1,
-   "tags": "ssds sata 1,92 tb kingston dc600m ssd sata 6gb",
-   "firstSeen": "2026-10-30"
   },
   {
    "id": "c-g-skill-dimm-64-gb-ddr5-5600-2x-32-gb-dual-kit-arbeitsspeich",
@@ -173250,83 +171241,6 @@
    "firstSeen": "2026-11-22"
   },
   {
-   "id": "c-g-skill-flare-x5-ddr5-64-gb-ram-2-x-32-gb-6000-mhz-cl36-dimm",
-   "cat": "Arbeitsspeicher",
-   "sub": "DDR5 64 GB",
-   "name": "G.Skill Flare X5 DDR5 64 GB RAM 2 x 32 GB 6000 MHz CL36 DIMM Mattes Weiß",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/g-skill-flare-x5-ddr5-64-gb-ram-2-x-32-gb-6000-mhz-cl36-dimm-mattes-weiss-100545667/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 1382.36,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/g-skill-flare-x5-ddr5-64-gb-ram-2-x-32-gb-6000-mhz-cl36-dimm-mattes-weiss-100545667/"
-    }
-   ],
-   "price": 1382.36,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 1282.12
-    },
-    {
-     "d": "2026-10-31",
-     "p": 1282.12
-    },
-    {
-     "d": "2026-11-01",
-     "p": 1282.12
-    },
-    {
-     "d": "2026-11-02",
-     "p": 1282.12
-    },
-    {
-     "d": "2026-11-03",
-     "p": 1282.12
-    },
-    {
-     "d": "2026-11-05",
-     "p": 1282.12
-    },
-    {
-     "d": "2026-11-07",
-     "p": 1282.12
-    },
-    {
-     "d": "2026-11-10",
-     "p": 1282.12
-    },
-    {
-     "d": "2026-11-12",
-     "p": 1368.2
-    },
-    {
-     "d": "2026-11-15",
-     "p": 1368.2
-    },
-    {
-     "d": "2026-11-18",
-     "p": 1368.2
-    },
-    {
-     "d": "2026-11-21",
-     "p": 1382.36
-    },
-    {
-     "d": "2026-11-24",
-     "p": 1382.36
-    }
-   ],
-   "count": 1,
-   "tags": "arbeitsspeicher ddr5 64 gb skill flare ddr5 ram 6000 mhz cl36 dimm mattes weiss",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-captiva-advanced-gaming-r98-174-ryzen-7-5700x-nvidia-geforce",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5060",
@@ -173682,51 +171596,6 @@
    "count": 1,
    "tags": "arbeitsspeicher ddr5 64 gb kingston fury beast ddr5 ram kit 5600 cl40 dimm schwarz",
    "firstSeen": "2026-11-19"
-  },
-  {
-   "id": "c-samsung-pm9a3-960-gb-ssd-m-2-22110-pcie-4-0-x4-nvme",
-   "cat": "SSDs",
-   "sub": "PCIe 4.0 960 GB",
-   "name": "Samsung PM9A3 960 GB SSD M.2 22110 PCIe 4.0 x4 NVMe",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/samsung-pm9a3-960-gb-ssd-m-2-22110-pcie-4-0-x4-nvme-6972451/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 1403.5,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/samsung-pm9a3-960-gb-ssd-m-2-22110-pcie-4-0-x4-nvme-6972451/"
-    }
-   ],
-   "price": 1403.5,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-13",
-     "p": 1370.99
-    },
-    {
-     "d": "2026-11-15",
-     "p": 1370.99
-    },
-    {
-     "d": "2026-11-18",
-     "p": 1370.99
-    },
-    {
-     "d": "2026-11-21",
-     "p": 1370.99
-    },
-    {
-     "d": "2026-11-24",
-     "p": 1403.5
-    }
-   ],
-   "count": 1,
-   "tags": "ssds pcie 4.0 960 gb samsung pm9a3 960 ssd 22110 pcie nvme",
-   "firstSeen": "2026-11-13"
   },
   {
    "id": "c-transcend-mts600-256-gb-ssd-m-2-2260-sata-6gb-s",
@@ -177494,6 +175363,35 @@
    "firstSeen": "2026-10-30"
   },
   {
+   "id": "c-msi-katana-17-b13vfk-442-17-3-full-hd-144-hz-intel-core-i7-1",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 4060",
+   "name": "MSI Katana 17 B13VFK-442 17,3\" Full HD 144 Hz Intel Core i7 13620H 16 GB RAM 512 GB SSD GeForce RTX 4060 Windows 11 Home Kern schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/msi-katana-17-b13vfk-442-17-3-full-hd-144-hz-intel-core-i7-13620h-16-gb-ram-512-gb-ssd-geforce-rtx-4060-windows-11-home-kern-schwarz-100483212/",
+   "stand": "2026-11-27T11:25",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 1945.45,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/msi-katana-17-b13vfk-442-17-3-full-hd-144-hz-intel-core-i7-13620h-16-gb-ram-512-gb-ssd-geforce-rtx-4060-windows-11-home-kern-schwarz-100483212/"
+    }
+   ],
+   "price": 1945.45,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 1945.45
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 4060 msi katana b13vfk 442 full 144 intel core 13620h ram 512 ssd geforce rtx 4060 windows",
+   "firstSeen": "2026-11-27"
+  },
+  {
    "id": "c-captiva-highend-gaming-i89-959-i5-14600kf-nvidia-geforce-rtx",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5070",
@@ -178936,51 +176834,6 @@
    "firstSeen": "2026-11-23"
   },
   {
-   "id": "c-lenovo-thinksystem-s4520-3-5-480-gb-ssd-sata-6gb-s",
-   "cat": "SSDs",
-   "sub": "SATA 480 GB",
-   "name": "Lenovo ThinkSystem S4520 3,5\" 480 GB SSD SATA 6Gb/s",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/lenovo-thinksystem-s4520-3-5-480-gb-ssd-sata-6gb-s-7382182/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 2093.6,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/lenovo-thinksystem-s4520-3-5-480-gb-ssd-sata-6gb-s-7382182/"
-    }
-   ],
-   "price": 2093.6,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-11-13",
-     "p": 2093.6
-    },
-    {
-     "d": "2026-11-15",
-     "p": 2093.6
-    },
-    {
-     "d": "2026-11-18",
-     "p": 2093.6
-    },
-    {
-     "d": "2026-11-21",
-     "p": 2093.6
-    },
-    {
-     "d": "2026-11-24",
-     "p": 2093.6
-    }
-   ],
-   "count": 1,
-   "tags": "ssds sata 480 gb lenovo thinksystem s4520 480 ssd sata 6gb",
-   "firstSeen": "2026-11-13"
-  },
-  {
    "id": "c-samsung-9100-pro-mz-vap8t0-ssd-8-tb-m-2-2280-pcie-5-0-x4-nvm",
    "cat": "SSDs",
    "sub": "PCIe 5.0 8 TB",
@@ -179947,83 +177800,6 @@
    "firstSeen": "2026-10-30"
   },
   {
-   "id": "c-captiva-advanced-gaming-i95-812-i5-14600kf-nvidia-geforce-rt",
-   "cat": "Grafikkarten",
-   "sub": "GeForce RTX 5060 Ti",
-   "name": "CAPTIVA Advanced Gaming I95-812 i5-14600KF NVIDIA GeForce RTX 5060 Ti 32 GB RAM 2 TB SSD Schwarz",
-   "source": "crawler",
-   "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-i95-812-i5-14600kf-nvidia-geforce-rtx-5060-ti-32-gb-ram-2-tb-ssd-schwarz-100674795/",
-   "stand": "2026-11-24T10:14",
-   "offers": [
-    {
-     "shop": "JACOB Elektronik GmbH",
-     "price": 2171.95,
-     "ship": null,
-     "avail": null,
-     "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-i95-812-i5-14600kf-nvidia-geforce-rtx-5060-ti-32-gb-ram-2-tb-ssd-schwarz-100674795/"
-    }
-   ],
-   "price": 2171.95,
-   "shop": "JACOB Elektronik GmbH",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 2171.95
-    },
-    {
-     "d": "2026-10-31",
-     "p": 2171.95
-    },
-    {
-     "d": "2026-11-01",
-     "p": 2171.95
-    },
-    {
-     "d": "2026-11-02",
-     "p": 2171.95
-    },
-    {
-     "d": "2026-11-03",
-     "p": 2171.95
-    },
-    {
-     "d": "2026-11-05",
-     "p": 2171.95
-    },
-    {
-     "d": "2026-11-08",
-     "p": 2171.95
-    },
-    {
-     "d": "2026-11-10",
-     "p": 2171.95
-    },
-    {
-     "d": "2026-11-12",
-     "p": 2171.95
-    },
-    {
-     "d": "2026-11-15",
-     "p": 2171.95
-    },
-    {
-     "d": "2026-11-18",
-     "p": 2171.95
-    },
-    {
-     "d": "2026-11-21",
-     "p": 2171.95
-    },
-    {
-     "d": "2026-11-24",
-     "p": 2171.95
-    }
-   ],
-   "count": 1,
-   "tags": "grafikkarten geforce rtx 5060 ti captiva advanced gaming i95 812 14600kf nvidia geforce rtx 5060 ram ssd schwarz",
-   "firstSeen": "2026-10-30"
-  },
-  {
    "id": "c-captiva-highend-gaming-r92-885-amd-ryzen-7-5700x-32-gb-ram-1",
    "cat": "Grafikkarten",
    "sub": "GeForce RTX 5070",
@@ -180132,6 +177908,1182 @@
    "count": 1,
    "tags": "grafikkarten geforce rtx 5060 ti captiva advanced gaming i93 192 14700kf nvidia geforce rtx 5060 ram ssd black",
    "firstSeen": "2026-11-23"
+  },
+  {
+   "id": "c-captiva-highend-gaming-i93-208-intel-core-i5-14600kf-nvidia-",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5070",
+   "name": "CAPTIVA Highend Gaming I93-208 Intel Core i5-14600KF NVIDIA GeForce RTX 5070 32 GB RAM 1 TB SSD Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-i93-208-intel-core-i5-14600kf-nvidia-geforce-rtx-5070-32-gb-ram-1-tb-ssd-schwarz-100596598/",
+   "stand": "2026-11-25T14:27",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 2203.57,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-i93-208-intel-core-i5-14600kf-nvidia-geforce-rtx-5070-32-gb-ram-1-tb-ssd-schwarz-100596598/"
+    }
+   ],
+   "price": 2203.57,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 2203.57
+    },
+    {
+     "d": "2026-10-31",
+     "p": 2203.57
+    },
+    {
+     "d": "2026-11-01",
+     "p": 2203.57
+    },
+    {
+     "d": "2026-11-02",
+     "p": 2203.57
+    },
+    {
+     "d": "2026-11-04",
+     "p": 2203.57
+    },
+    {
+     "d": "2026-11-06",
+     "p": 2203.57
+    },
+    {
+     "d": "2026-11-09",
+     "p": 2203.57
+    },
+    {
+     "d": "2026-11-11",
+     "p": 2203.57
+    },
+    {
+     "d": "2026-11-14",
+     "p": 2203.57
+    },
+    {
+     "d": "2026-11-16",
+     "p": 2203.57
+    },
+    {
+     "d": "2026-11-19",
+     "p": 2203.57
+    },
+    {
+     "d": "2026-11-22",
+     "p": 2203.57
+    },
+    {
+     "d": "2026-11-25",
+     "p": 2203.57
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5070 captiva highend gaming i93 208 intel core 14600kf nvidia geforce rtx 5070 ram ssd schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-captiva-highend-gaming-i95-815-intel-core-i5-14600kf-32-gb-r",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5070",
+   "name": "CAPTIVA Highend Gaming I95-815 Intel Core i5-14600KF 32 GB RAM 1 TB SSD NVIDIA GeForce RTX 5070 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-i95-815-intel-core-i5-14600kf-32-gb-ram-1-tb-ssd-nvidia-geforce-rtx-5070-schwarz-100674797/",
+   "stand": "2026-11-25T16:15",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 2217.96,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-i95-815-intel-core-i5-14600kf-32-gb-ram-1-tb-ssd-nvidia-geforce-rtx-5070-schwarz-100674797/"
+    }
+   ],
+   "price": 2217.96,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 2217.96
+    },
+    {
+     "d": "2026-10-31",
+     "p": 2217.96
+    },
+    {
+     "d": "2026-11-01",
+     "p": 2217.96
+    },
+    {
+     "d": "2026-11-02",
+     "p": 2217.96
+    },
+    {
+     "d": "2026-11-04",
+     "p": 2217.96
+    },
+    {
+     "d": "2026-11-07",
+     "p": 2217.96
+    },
+    {
+     "d": "2026-11-09",
+     "p": 2217.96
+    },
+    {
+     "d": "2026-11-11",
+     "p": 2217.96
+    },
+    {
+     "d": "2026-11-14",
+     "p": 2217.96
+    },
+    {
+     "d": "2026-11-16",
+     "p": 2217.96
+    },
+    {
+     "d": "2026-11-19",
+     "p": 2217.96
+    },
+    {
+     "d": "2026-11-22",
+     "p": 2217.96
+    },
+    {
+     "d": "2026-11-25",
+     "p": 2217.96
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5070 captiva highend gaming i95 815 intel core 14600kf ram ssd nvidia geforce rtx 5070 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-captiva-highend-gaming-i95-839-intel-core-i7-14700kf-nvidia-",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060 Ti",
+   "name": "CAPTIVA Highend Gaming I95-839 Intel Core i7-14700KF NVIDIA GeForce RTX 5060 Ti 16 GB GDDR7 32 GB RAM 1 TB SSD Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-i95-839-intel-core-i7-14700kf-nvidia-geforce-rtx-5060-ti-16-gb-gddr7-32-gb-ram-1-tb-ssd-schwarz-100674817/",
+   "stand": "2026-11-25T16:15",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 2242.39,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-i95-839-intel-core-i7-14700kf-nvidia-geforce-rtx-5060-ti-16-gb-gddr7-32-gb-ram-1-tb-ssd-schwarz-100674817/"
+    }
+   ],
+   "price": 2242.39,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 2242.39
+    },
+    {
+     "d": "2026-10-31",
+     "p": 2242.39
+    },
+    {
+     "d": "2026-11-01",
+     "p": 2242.39
+    },
+    {
+     "d": "2026-11-02",
+     "p": 2242.39
+    },
+    {
+     "d": "2026-11-04",
+     "p": 2242.39
+    },
+    {
+     "d": "2026-11-06",
+     "p": 2242.39
+    },
+    {
+     "d": "2026-11-09",
+     "p": 2242.39
+    },
+    {
+     "d": "2026-11-11",
+     "p": 2242.39
+    },
+    {
+     "d": "2026-11-14",
+     "p": 2242.39
+    },
+    {
+     "d": "2026-11-16",
+     "p": 2242.39
+    },
+    {
+     "d": "2026-11-19",
+     "p": 2242.39
+    },
+    {
+     "d": "2026-11-22",
+     "p": 2242.39
+    },
+    {
+     "d": "2026-11-25",
+     "p": 2242.39
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 ti captiva highend gaming i95 839 intel core 14700kf nvidia geforce rtx 5060 gddr7 ram ssd schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-pny-geforce-rtx-5080-argb-oc-16-gb-gddr7-schwarz",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5080",
+   "name": "PNY GeForce RTX 5080 ARGB OC 16 GB GDDR7 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/pny-geforce-rtx-5080-argb-oc-16-gb-gddr7-schwarz-100554602/",
+   "stand": "2026-11-26T17:59",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 2283.03,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/pny-geforce-rtx-5080-argb-oc-16-gb-gddr7-schwarz-100554602/"
+    }
+   ],
+   "price": 2283.03,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-23",
+     "p": 2283.03
+    },
+    {
+     "d": "2026-11-26",
+     "p": 2283.03
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5080 pny geforce rtx 5080 argb gddr7 schwarz",
+   "firstSeen": "2026-11-23"
+  },
+  {
+   "id": "c-hp-omen-16-ap0295ng-16-amd-ryzen-9-8940hx-32-gb-ram-1-tb-ssd",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5070",
+   "name": "HP OMEN 16-ap0295ng 16\" AMD Ryzen 9 8940HX 32 GB RAM 1 TB SSD NVIDIA GeForce RTX 5070 Shadow Black",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/hp-omen-16-ap0295ng-16-amd-ryzen-9-8940hx-32-gb-ram-1-tb-ssd-nvidia-geforce-rtx-5070-shadow-black-100870070/",
+   "stand": "2026-11-25T10:17",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 2309.36,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/hp-omen-16-ap0295ng-16-amd-ryzen-9-8940hx-32-gb-ram-1-tb-ssd-nvidia-geforce-rtx-5070-shadow-black-100870070/"
+    }
+   ],
+   "price": 2309.36,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 2309.36
+    },
+    {
+     "d": "2026-10-31",
+     "p": 2309.36
+    },
+    {
+     "d": "2026-11-01",
+     "p": 2309.36
+    },
+    {
+     "d": "2026-11-02",
+     "p": 2309.36
+    },
+    {
+     "d": "2026-11-04",
+     "p": 2309.36
+    },
+    {
+     "d": "2026-11-06",
+     "p": 2309.36
+    },
+    {
+     "d": "2026-11-09",
+     "p": 2309.36
+    },
+    {
+     "d": "2026-11-11",
+     "p": 2309.36
+    },
+    {
+     "d": "2026-11-13",
+     "p": 2309.36
+    },
+    {
+     "d": "2026-11-16",
+     "p": 2309.36
+    },
+    {
+     "d": "2026-11-19",
+     "p": 2309.36
+    },
+    {
+     "d": "2026-11-22",
+     "p": 2309.36
+    },
+    {
+     "d": "2026-11-25",
+     "p": 2309.36
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5070 omen ap0295ng amd ryzen 8940hx ram ssd nvidia geforce rtx 5070 shadow black",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-samsung-pm9a3-mz1l21t9hcls-ssd-1-92-tb-pcie-4-0-x4-nvme-m-2-",
+   "cat": "SSDs",
+   "sub": "PCIe 4.0 1,92 TB",
+   "name": "Samsung PM9A3 MZ1L21T9HCLS SSD 1.92 TB PCIe 4.0 x4 NVMe M.2 22110 OEM",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/samsung-pm9a3-mz1l21t9hcls-ssd-1-92-tb-pcie-4-0-x4-nvme-m-2-22110-oem-6972452/",
+   "stand": "2026-11-24T16:15",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 2318.35,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/samsung-pm9a3-mz1l21t9hcls-ssd-1-92-tb-pcie-4-0-x4-nvme-m-2-22110-oem-6972452/"
+    }
+   ],
+   "price": 2318.35,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-16",
+     "p": 2030.52
+    },
+    {
+     "d": "2026-11-18",
+     "p": 2080.01
+    },
+    {
+     "d": "2026-11-21",
+     "p": 2030.59
+    },
+    {
+     "d": "2026-11-24",
+     "p": 2318.35
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 4.0 1,92 tb samsung pm9a3 mz1l21t9hcls ssd pcie nvme 22110 oem",
+   "firstSeen": "2026-11-16"
+  },
+  {
+   "id": "c-captiva-highend-gaming-r89-846-amd-ryzen-5-7500f-nvidia-gefo",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5070",
+   "name": "CAPTIVA Highend Gaming R89-846, AMD Ryzen 5 7500F, NVIDIA GeForce RTX 5070, 32 GB RAM, 1 TB SSD, Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r89-846-amd-ryzen-5-7500f-nvidia-geforce-rtx-5070-32-gb-ram-1-tb-ssd-schwarz-100556062/",
+   "stand": "2026-11-27T10:14",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 2330.91,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r89-846-amd-ryzen-5-7500f-nvidia-geforce-rtx-5070-32-gb-ram-1-tb-ssd-schwarz-100556062/"
+    }
+   ],
+   "price": 2330.91,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 2256.76
+    },
+    {
+     "d": "2026-10-31",
+     "p": 2256.76
+    },
+    {
+     "d": "2026-11-01",
+     "p": 2256.76
+    },
+    {
+     "d": "2026-11-02",
+     "p": 2256.76
+    },
+    {
+     "d": "2026-11-03",
+     "p": 2260.49
+    },
+    {
+     "d": "2026-11-05",
+     "p": 2260.49
+    },
+    {
+     "d": "2026-11-08",
+     "p": 2260.49
+    },
+    {
+     "d": "2026-11-10",
+     "p": 2260.49
+    },
+    {
+     "d": "2026-11-12",
+     "p": 2254.73
+    },
+    {
+     "d": "2026-11-15",
+     "p": 2257.62
+    },
+    {
+     "d": "2026-11-18",
+     "p": 2257.62
+    },
+    {
+     "d": "2026-11-21",
+     "p": 2257.62
+    },
+    {
+     "d": "2026-11-24",
+     "p": 2257.62
+    },
+    {
+     "d": "2026-11-27",
+     "p": 2330.91
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5070 captiva highend gaming r89 846 amd ryzen 7500f nvidia geforce rtx 5070 ram ssd schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-captiva-advanced-gaming-r98-260-amd-ryzen-5-7500x3d-32-gb-ra",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060 Ti",
+   "name": "CAPTIVA Advanced Gaming R98-260 AMD Ryzen 5 7500X3D 32 GB RAM 2 TB SSD NVIDIA GeForce RTX 5060 Ti Weiß",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-r98-260-amd-ryzen-5-7500x3d-32-gb-ram-2-tb-ssd-nvidia-geforce-rtx-5060-ti-weiss-100682066/",
+   "stand": "2026-11-25T14:27",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 2335.23,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-r98-260-amd-ryzen-5-7500x3d-32-gb-ram-2-tb-ssd-nvidia-geforce-rtx-5060-ti-weiss-100682066/"
+    }
+   ],
+   "price": 2335.23,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 2331.5
+    },
+    {
+     "d": "2026-10-31",
+     "p": 2331.5
+    },
+    {
+     "d": "2026-11-01",
+     "p": 2331.5
+    },
+    {
+     "d": "2026-11-02",
+     "p": 2331.5
+    },
+    {
+     "d": "2026-11-04",
+     "p": 2335.23
+    },
+    {
+     "d": "2026-11-06",
+     "p": 2335.23
+    },
+    {
+     "d": "2026-11-09",
+     "p": 2335.23
+    },
+    {
+     "d": "2026-11-11",
+     "p": 2335.23
+    },
+    {
+     "d": "2026-11-14",
+     "p": 2335.23
+    },
+    {
+     "d": "2026-11-16",
+     "p": 2335.23
+    },
+    {
+     "d": "2026-11-19",
+     "p": 2335.23
+    },
+    {
+     "d": "2026-11-22",
+     "p": 2335.23
+    },
+    {
+     "d": "2026-11-25",
+     "p": 2335.23
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 ti captiva advanced gaming r98 260 amd ryzen 7500x3d ram ssd nvidia geforce rtx 5060 weiss",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asus-proart-geforce-rtx-5080-oc-edition-grafikkarte-16-gb-gd",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5080",
+   "name": "ASUS ProArt GeForce RTX 5080 OC Edition Grafikkarte 16 GB GDDR7 PCI Express 5.0 Schwarz, Braun",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asus-proart-geforce-rtx-5080-oc-edition-grafikkarte-16-gb-gddr7-pci-express-5-0-schwarz-braun-100662615/",
+   "stand": "2026-11-27T11:25",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 2345.67,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asus-proart-geforce-rtx-5080-oc-edition-grafikkarte-16-gb-gddr7-pci-express-5-0-schwarz-braun-100662615/"
+    }
+   ],
+   "price": 2345.67,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 2345.67
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5080 asus proart geforce rtx 5080 edition grafikkarte gddr7 pci express schwarz braun",
+   "firstSeen": "2026-11-27"
+  },
+  {
+   "id": "c-b-ware-a1-pny-geforce-rtx-5080-slim-oc-grafikkarte-16384-mb-",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5080",
+   "name": "B-Ware A1 - PNY GeForce RTX 5080 Slim OC Grafikkarte, 16384 MB GDDR7",
+   "source": "crawler",
+   "url": "https://www.caseking.de/en/pny-geforce-rtx-5080-slim-oc-graphics-card-16384-mb-gddr7/GCPN-124-A1.html",
+   "stand": "2026-11-25T06:27",
+   "offers": [
+    {
+     "shop": "caseking.de",
+     "price": 2349,
+     "ship": null,
+     "avail": "Auf Lager",
+     "url": "https://www.caseking.de/en/pny-geforce-rtx-5080-slim-oc-graphics-card-16384-mb-gddr7/GCPN-124-A1.html"
+    }
+   ],
+   "price": 2349,
+   "shop": "caseking.de",
+   "hist": [
+    {
+     "d": "2026-11-25",
+     "p": 2349
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5080 ware pny geforce rtx 5080 slim grafikkarte 16384 gddr7",
+   "firstSeen": "2026-11-25"
+  },
+  {
+   "id": "c-captiva-highend-gaming-r90-180-intel-core-i5-14600kf-32-gb-r",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5070",
+   "name": "CAPTIVA Highend Gaming R90-180 Intel Core i5-14600KF 32 GB RAM 1 TB SSD NVIDIA GeForce RTX 5070 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r90-180-intel-core-i5-14600kf-32-gb-ram-1-tb-ssd-nvidia-geforce-rtx-5070-schwarz-100581621/",
+   "stand": "2026-11-25T11:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 2350.17,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r90-180-intel-core-i5-14600kf-32-gb-ram-1-tb-ssd-nvidia-geforce-rtx-5070-schwarz-100581621/"
+    }
+   ],
+   "price": 2350.17,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-25",
+     "p": 2350.17
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5070 captiva highend gaming r90 180 intel core 14600kf ram ssd nvidia geforce rtx 5070 schwarz",
+   "firstSeen": "2026-11-25"
+  },
+  {
+   "id": "c-kioxia-cm7-v-1-6-tb-2-5-ssd-pcie-5-0-x4-nvme-u-3",
+   "cat": "SSDs",
+   "sub": "PCIe 5.0 1,6 TB",
+   "name": "Kioxia CM7-V 1,6 TB 2.5\" SSD PCIe 5.0 x4 NVMe U.3",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/kioxia-cm7-v-1-6-tb-2-5-ssd-pcie-5-0-x4-nvme-u-3-100361186/",
+   "stand": "2026-11-24T11:26",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 2355.97,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/kioxia-cm7-v-1-6-tb-2-5-ssd-pcie-5-0-x4-nvme-u-3-100361186/"
+    }
+   ],
+   "price": 2355.97,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-24",
+     "p": 2355.97
+    }
+   ],
+   "count": 1,
+   "tags": "ssds pcie 5.0 1,6 tb kioxia cm7 ssd pcie nvme",
+   "firstSeen": "2026-11-24"
+  },
+  {
+   "id": "c-captiva-highend-gaming-r94-617-amd-ryzen-5-7600x-nvidia-gefo",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5070",
+   "name": "Captiva Highend Gaming R94-617 AMD Ryzen 5 7600X NVIDIA GeForce RTX 5070 32 GB RAM 1 TB SSD Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r94-617-amd-ryzen-5-7600x-nvidia-geforce-rtx-5070-32-gb-ram-1-tb-ssd-schwarz-100672340/",
+   "stand": "2026-11-26T12:06",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 2372.6,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r94-617-amd-ryzen-5-7600x-nvidia-geforce-rtx-5070-32-gb-ram-1-tb-ssd-schwarz-100672340/"
+    }
+   ],
+   "price": 2372.6,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-23",
+     "p": 2299.29
+    },
+    {
+     "d": "2026-11-26",
+     "p": 2372.6
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5070 captiva highend gaming r94 617 amd ryzen 7600x nvidia geforce rtx 5070 ram ssd schwarz",
+   "firstSeen": "2026-11-23"
+  },
+  {
+   "id": "c-captiva-entry-gaming-r10-2398-amd-ryzen-5-7500x3d-32-gb-ram-",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5070",
+   "name": "CAPTIVA Entry Gaming R10-2398 AMD Ryzen 5 7500X3D 32 GB RAM 1 TB SSD NVIDIA GeForce RTX 5070 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-entry-gaming-r10-2398-amd-ryzen-5-7500x3d-32-gb-ram-1-tb-ssd-nvidia-geforce-rtx-5070-schwarz-100865432/",
+   "stand": "2026-11-25T16:15",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 2374.04,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-entry-gaming-r10-2398-amd-ryzen-5-7500x3d-32-gb-ram-1-tb-ssd-nvidia-geforce-rtx-5070-schwarz-100865432/"
+    }
+   ],
+   "price": 2374.04,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 2308.5
+    },
+    {
+     "d": "2026-10-31",
+     "p": 2308.5
+    },
+    {
+     "d": "2026-11-01",
+     "p": 2308.5
+    },
+    {
+     "d": "2026-11-02",
+     "p": 2308.5
+    },
+    {
+     "d": "2026-11-04",
+     "p": 2312.23
+    },
+    {
+     "d": "2026-11-06",
+     "p": 2312.23
+    },
+    {
+     "d": "2026-11-09",
+     "p": 2312.23
+    },
+    {
+     "d": "2026-11-11",
+     "p": 2312.23
+    },
+    {
+     "d": "2026-11-14",
+     "p": 2302.16
+    },
+    {
+     "d": "2026-11-16",
+     "p": 2302.16
+    },
+    {
+     "d": "2026-11-19",
+     "p": 2302.16
+    },
+    {
+     "d": "2026-11-22",
+     "p": 2302.16
+    },
+    {
+     "d": "2026-11-25",
+     "p": 2374.04
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5070 captiva entry gaming r10 2398 amd ryzen 7500x3d ram ssd nvidia geforce rtx 5070 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-powercolor-radeon-ai-pro-r9700-32-gb-gddr6-grafikkarte-pcie-",
+   "cat": "Grafikkarten",
+   "sub": "Grafikkarten",
+   "name": "PowerColor Radeon AI PRO R9700 32 GB GDDR6 Grafikkarte PCIe 5.0 x16 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/powercolor-radeon-ai-pro-r9700-32-gb-gddr6-grafikkarte-pcie-5-0-x16-schwarz-100674864/",
+   "stand": "2026-11-26T16:10",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 2394.68,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/powercolor-radeon-ai-pro-r9700-32-gb-gddr6-grafikkarte-pcie-5-0-x16-schwarz-100674864/"
+    }
+   ],
+   "price": 2394.68,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 2228.26
+    },
+    {
+     "d": "2026-10-31",
+     "p": 2228.26
+    },
+    {
+     "d": "2026-11-01",
+     "p": 2396.76
+    },
+    {
+     "d": "2026-11-03",
+     "p": 2396.76
+    },
+    {
+     "d": "2026-11-05",
+     "p": 2396.76
+    },
+    {
+     "d": "2026-11-07",
+     "p": 2396.76
+    },
+    {
+     "d": "2026-11-10",
+     "p": 2476.84
+    },
+    {
+     "d": "2026-11-12",
+     "p": 2398.62
+    },
+    {
+     "d": "2026-11-14",
+     "p": 2405.2
+    },
+    {
+     "d": "2026-11-17",
+     "p": 2417.32
+    },
+    {
+     "d": "2026-11-20",
+     "p": 2396.76
+    },
+    {
+     "d": "2026-11-23",
+     "p": 2503.03
+    },
+    {
+     "d": "2026-11-26",
+     "p": 2394.68
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten powercolor radeon pro r9700 gddr6 grafikkarte pcie x16 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-captiva-advanced-gaming-r95-857-amd-ryzen-7-7800x3d-32-gb-ra",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060 Ti",
+   "name": "Captiva Advanced Gaming R95-857 AMD Ryzen 7 7800X3D 32 GB RAM 2 TB SSD NVIDIA GeForce RTX 5060 Ti Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-r95-857-amd-ryzen-7-7800x3d-32-gb-ram-2-tb-ssd-nvidia-geforce-rtx-5060-ti-schwarz-100675960/",
+   "stand": "2026-11-25T17:54",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 2413.42,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-r95-857-amd-ryzen-7-7800x3d-32-gb-ram-2-tb-ssd-nvidia-geforce-rtx-5060-ti-schwarz-100675960/"
+    }
+   ],
+   "price": 2413.42,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 2413.42
+    },
+    {
+     "d": "2026-10-31",
+     "p": 2413.42
+    },
+    {
+     "d": "2026-11-01",
+     "p": 2413.42
+    },
+    {
+     "d": "2026-11-02",
+     "p": 2413.42
+    },
+    {
+     "d": "2026-11-04",
+     "p": 2413.42
+    },
+    {
+     "d": "2026-11-07",
+     "p": 2413.42
+    },
+    {
+     "d": "2026-11-09",
+     "p": 2413.42
+    },
+    {
+     "d": "2026-11-11",
+     "p": 2413.42
+    },
+    {
+     "d": "2026-11-14",
+     "p": 2413.42
+    },
+    {
+     "d": "2026-11-16",
+     "p": 2413.42
+    },
+    {
+     "d": "2026-11-19",
+     "p": 2413.42
+    },
+    {
+     "d": "2026-11-22",
+     "p": 2413.42
+    },
+    {
+     "d": "2026-11-25",
+     "p": 2413.42
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 ti captiva advanced gaming r95 857 amd ryzen 7800x3d ram ssd nvidia geforce rtx 5060 schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-captiva-highend-gaming-r88-789-amd-ryzen-5-9600x-radeon-rx-9",
+   "cat": "Grafikkarten",
+   "sub": "Radeon RX 9070 XT",
+   "name": "CAPTIVA Highend Gaming R88-789 AMD Ryzen 5 9600X Radeon RX 9070 XT 32 GB RAM 2 TB SSD Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r88-789-amd-ryzen-5-9600x-radeon-rx-9070-xt-32-gb-ram-2-tb-ssd-schwarz-100558041/",
+   "stand": "2026-11-25T11:30",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 2437.27,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-highend-gaming-r88-789-amd-ryzen-5-9600x-radeon-rx-9070-xt-32-gb-ram-2-tb-ssd-schwarz-100558041/"
+    }
+   ],
+   "price": 2437.27,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-11-25",
+     "p": 2437.27
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten radeon rx 9070 xt captiva highend gaming r88 789 amd ryzen 9600x radeon 9070 ram ssd schwarz",
+   "firstSeen": "2026-11-25"
+  },
+  {
+   "id": "c-corsair-vengeance-ddr5-48-gb-ram-2x24-gb-cudimm-pc5-64000-cl",
+   "cat": "Arbeitsspeicher",
+   "sub": "DDR5 48 GB",
+   "name": "CORSAIR Vengeance DDR5 48 GB RAM 2x24 GB CUDIMM PC5-64000 CL38 Silber",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/corsair-vengeance-ddr5-48-gb-ram-2x24-gb-cudimm-pc5-64000-cl38-silber-100542528/",
+   "stand": "2026-11-26T20:10",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 2441.12,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/corsair-vengeance-ddr5-48-gb-ram-2x24-gb-cudimm-pc5-64000-cl38-silber-100542528/"
+    }
+   ],
+   "price": 2441.12,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 1286.89
+    },
+    {
+     "d": "2026-10-31",
+     "p": 1286.89
+    },
+    {
+     "d": "2026-11-01",
+     "p": 1286.89
+    },
+    {
+     "d": "2026-11-02",
+     "p": 1286.89
+    },
+    {
+     "d": "2026-11-03",
+     "p": 1286.89
+    },
+    {
+     "d": "2026-11-05",
+     "p": 1286.89
+    },
+    {
+     "d": "2026-11-08",
+     "p": 1286.89
+    },
+    {
+     "d": "2026-11-10",
+     "p": 1286.89
+    },
+    {
+     "d": "2026-11-12",
+     "p": 1290.47
+    },
+    {
+     "d": "2026-11-15",
+     "p": 1290.47
+    },
+    {
+     "d": "2026-11-17",
+     "p": 1290.47
+    },
+    {
+     "d": "2026-11-26",
+     "p": 2441.12
+    }
+   ],
+   "count": 1,
+   "tags": "arbeitsspeicher ddr5 48 gb corsair vengeance ddr5 ram 2x24 cudimm pc5 64000 cl38 silber",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-captiva-advanced-gaming-r93-166-amd-ryzen-9-9900x-nvidia-gef",
+   "cat": "Grafikkarten",
+   "sub": "GeForce RTX 5060 Ti",
+   "name": "Captiva Advanced Gaming R93-166 AMD Ryzen 9 9900X NVIDIA GeForce RTX 5060 Ti 32 GB RAM 1 TB SSD Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-r93-166-amd-ryzen-9-9900x-nvidia-geforce-rtx-5060-ti-32-gb-ram-1-tb-ssd-schwarz-100596574/",
+   "stand": "2026-11-25T14:27",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 2444.45,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/captiva-advanced-gaming-r93-166-amd-ryzen-9-9900x-nvidia-geforce-rtx-5060-ti-32-gb-ram-1-tb-ssd-schwarz-100596574/"
+    }
+   ],
+   "price": 2444.45,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 2446.47
+    },
+    {
+     "d": "2026-10-31",
+     "p": 2446.47
+    },
+    {
+     "d": "2026-11-01",
+     "p": 2446.47
+    },
+    {
+     "d": "2026-11-02",
+     "p": 2446.47
+    },
+    {
+     "d": "2026-11-04",
+     "p": 2446.47
+    },
+    {
+     "d": "2026-11-06",
+     "p": 2444.45
+    },
+    {
+     "d": "2026-11-09",
+     "p": 2444.45
+    },
+    {
+     "d": "2026-11-11",
+     "p": 2444.45
+    },
+    {
+     "d": "2026-11-14",
+     "p": 2444.45
+    },
+    {
+     "d": "2026-11-16",
+     "p": 2444.45
+    },
+    {
+     "d": "2026-11-19",
+     "p": 2444.45
+    },
+    {
+     "d": "2026-11-22",
+     "p": 2444.45
+    },
+    {
+     "d": "2026-11-25",
+     "p": 2444.45
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten geforce rtx 5060 ti captiva advanced gaming r93 166 amd ryzen 9900x nvidia geforce rtx 5060 ram ssd schwarz",
+   "firstSeen": "2026-10-30"
+  },
+  {
+   "id": "c-asrock-creator-radeon-ai-pro-r9700-32-gb-gddr6-schwarz",
+   "cat": "Grafikkarten",
+   "sub": "Grafikkarten",
+   "name": "ASRock Creator Radeon AI PRO R9700 32 GB GDDR6 Schwarz",
+   "source": "crawler",
+   "url": "https://www.jacob.de/produkt/asrock-creator-radeon-ai-pro-r9700-32-gb-gddr6-schwarz-100674486/",
+   "stand": "2026-11-26T16:10",
+   "offers": [
+    {
+     "shop": "JACOB Elektronik GmbH",
+     "price": 2445.84,
+     "ship": null,
+     "avail": null,
+     "url": "https://www.jacob.de/produkt/asrock-creator-radeon-ai-pro-r9700-32-gb-gddr6-schwarz-100674486/"
+    }
+   ],
+   "price": 2445.84,
+   "shop": "JACOB Elektronik GmbH",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 2526.79
+    },
+    {
+     "d": "2026-10-31",
+     "p": 2531.74
+    },
+    {
+     "d": "2026-11-01",
+     "p": 2531.74
+    },
+    {
+     "d": "2026-11-03",
+     "p": 2535.47
+    },
+    {
+     "d": "2026-11-05",
+     "p": 2535.47
+    },
+    {
+     "d": "2026-11-07",
+     "p": 2535.47
+    },
+    {
+     "d": "2026-11-10",
+     "p": 2538.76
+    },
+    {
+     "d": "2026-11-12",
+     "p": 2651.76
+    },
+    {
+     "d": "2026-11-14",
+     "p": 2545.54
+    },
+    {
+     "d": "2026-11-17",
+     "p": 2662.46
+    },
+    {
+     "d": "2026-11-20",
+     "p": 2445.84
+    },
+    {
+     "d": "2026-11-23",
+     "p": 2445.84
+    },
+    {
+     "d": "2026-11-26",
+     "p": 2445.84
+    }
+   ],
+   "count": 1,
+   "tags": "grafikkarten asrock creator radeon pro r9700 gddr6 schwarz",
+   "firstSeen": "2026-10-30"
   }
  ]
 }

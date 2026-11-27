@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T10:14:00.406Z",
+ "updated": "2026-11-27T11:25:17.178Z",
  "products": [
   {
    "id": "r-acer-b246hylbymiprx-23-8-full-hd-1920x1080-display-hdmi-disp",
@@ -44552,6 +44552,10 @@
     {
      "d": "2026-11-26",
      "p": 488.99
+    },
+    {
+     "d": "2026-11-27",
+     "p": 488.99
     }
    ],
    "firstSeen": "2026-11-04"
@@ -44630,49 +44634,6 @@
     }
    ],
    "firstSeen": "2026-11-13"
-  },
-  {
-   "id": "r-hp-elitebook-850-g7-15-6-fhd-display-intel-core-i5-10310u-8g",
-   "cat": "Laptops",
-   "name": "HP EliteBook 850 G7, 15,6” FHD Display, Intel Core i5 10310U, 8GB RAM, 256GB SSD, Webcam, Windows 11 Pro, ESET Internet Security",
-   "brand": "HP",
-   "price": 488.99,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/hp-elitebook-850-g7-15-6-fhd-display-intel-core-i5-10310u-8gb-ram-256gb-ssd-webcam-windows-11-pro-eset-internet-security",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-850-G7-0_84b56df9-eab5-46e0-ad5a-7884d24f70ba.jpg?v=1770991092",
-   "hist": [
-    {
-     "d": "2026-11-18",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-19",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-20",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-21",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-22",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-23",
-     "p": 488.99
-    },
-    {
-     "d": "2026-11-24",
-     "p": 488.99
-    }
-   ],
-   "firstSeen": "2026-11-18"
   },
   {
    "id": "r-dell-latitude-7420-14-fhd-display-intel-core-i5-1145g7-16gb-",
@@ -53800,6 +53761,10 @@
     },
     {
      "d": "2026-11-26",
+     "p": 529
+    },
+    {
+     "d": "2026-11-27",
      "p": 529
     }
    ],
@@ -71068,6 +71033,37 @@
     }
    ],
    "firstSeen": "2026-11-20"
+  },
+  {
+   "id": "r-lenovo-thinkstation-p520-intel-xeon-w-2135-32gb-ram-1tb-ssd-",
+   "cat": "PCs & Workstations",
+   "name": "Lenovo ThinkStation P520, Intel Xeon W-2135, 32GB RAM, 1TB SSD, Nvidia Geforce RTX 2080, Windows 11 Pro, Office & Media Software Suite",
+   "brand": "Lenovo",
+   "price": 619,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/lenovo-thinkstation-p520-intel-xeon-w-2135-32gb-ram-1tb-ssd-nvidia-geforce-rtx-2080-windows-11-pro-office-media-software-suite-1",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkStation-P520c-4_3e754241-f259-4b49-b9eb-5823648f0464.png?v=1770990973",
+   "hist": [
+    {
+     "d": "2026-11-24",
+     "p": 619
+    },
+    {
+     "d": "2026-11-25",
+     "p": 619
+    },
+    {
+     "d": "2026-11-26",
+     "p": 619
+    },
+    {
+     "d": "2026-11-27",
+     "p": 619
+    }
+   ],
+   "firstSeen": "2026-11-24"
   },
   {
    "id": "r-hp-elitedesk-800-g6-desktop-mini-intel-core-i5-10500t-8gb-ra",
