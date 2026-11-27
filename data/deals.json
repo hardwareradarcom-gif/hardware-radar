@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T17:30:32.910Z",
+ "updated": "2026-11-27T17:58:47.006Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1335,6 +1335,80 @@
    "seen": "2026-11-27",
    "updated": "2026-11-27",
    "tags": "kuhlung aio-wasserkuhlung thermaltake th240 ultra argb cpu aio liquid cooler wasserkuhlung",
+   "source": "crawler"
+  },
+  {
+   "id": "c-wd-red-sn700-wds500g1r0c-500-gb-m-2-nvme-ssd",
+   "name": "WD Red SN700 WDS500G1R0C 500 GB M.2 NVMe SSD",
+   "cat": "SSDs",
+   "price": 298.73,
+   "ref": 484.81,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/wd-red-sn700-wds500g1r0c-500-gb-m-2-nvme-ssd-7397902/",
+   "url": "https://www.jacob.de/produkt/wd-red-sn700-wds500g1r0c-500-gb-m-2-nvme-ssd-7397902/",
+   "note": "38 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 484.81
+    },
+    {
+     "d": "2026-10-31",
+     "p": 484.81
+    },
+    {
+     "d": "2026-11-01",
+     "p": 484.81
+    },
+    {
+     "d": "2026-11-02",
+     "p": 484.81
+    },
+    {
+     "d": "2026-11-03",
+     "p": 484.81
+    },
+    {
+     "d": "2026-11-06",
+     "p": 484.81
+    },
+    {
+     "d": "2026-11-08",
+     "p": 484.81
+    },
+    {
+     "d": "2026-11-10",
+     "p": 484.81
+    },
+    {
+     "d": "2026-11-13",
+     "p": 484.81
+    },
+    {
+     "d": "2026-11-15",
+     "p": 484.81
+    },
+    {
+     "d": "2026-11-18",
+     "p": 298.73
+    },
+    {
+     "d": "2026-11-21",
+     "p": 298.73
+    },
+    {
+     "d": "2026-11-24",
+     "p": 298.73
+    },
+    {
+     "d": "2026-11-27",
+     "p": 298.73
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-27",
+   "updated": "2026-11-27",
+   "tags": "ssds nvme 500 gb red sn700 wds500g1r0c 500 nvme ssd",
    "source": "crawler"
   },
   {
@@ -4177,6 +4251,10 @@
     {
      "d": "2026-11-25",
      "p": 324.9
+    },
+    {
+     "d": "2026-11-27",
+     "p": 324.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -5200,8 +5278,8 @@
    "price": 67.91,
    "ref": 79.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/alphacool-core-1-lt-cpu-cooler-black/WACP-552.html",
-   "url": "https://www.caseking.de/en/alphacool-core-1-lt-cpu-cooler-black/WACP-552.html",
+   "shopUrl": "https://www.caseking.de/alphacool-core-1-lt-cpu-kuehler-schwarz/WACP-552.html",
+   "url": "https://www.caseking.de/alphacool-core-1-lt-cpu-kuehler-schwarz/WACP-552.html",
    "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -5259,6 +5337,10 @@
     {
      "d": "2026-11-25",
      "p": 67.91
+    },
+    {
+     "d": "2026-11-27",
+     "p": 67.91
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -5274,8 +5356,8 @@
    "price": 72.16,
    "ref": 84.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/alphacool-core-1-aurora-lt-cpu-cooler-argb-acrylic/WACP-551.html",
-   "url": "https://www.caseking.de/en/alphacool-core-1-aurora-lt-cpu-cooler-argb-acrylic/WACP-551.html",
+   "shopUrl": "https://www.caseking.de/alphacool-core-1-aurora-lt-cpu-kuehler-argb-acryl/WACP-551.html",
+   "url": "https://www.caseking.de/alphacool-core-1-aurora-lt-cpu-kuehler-argb-acryl/WACP-551.html",
    "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -5332,6 +5414,10 @@
     },
     {
      "d": "2026-11-25",
+     "p": 72.16
+    },
+    {
+     "d": "2026-11-27",
      "p": 72.16
     }
    ],
@@ -5502,88 +5588,14 @@
    "source": "crawler"
   },
   {
-   "id": "c-alphacool-core-1-cpu-cooler-black",
-   "name": "Alphacool Core 1 CPU Cooler - Black",
-   "cat": "Kühlung",
-   "price": 90.01,
-   "ref": 105.9,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/alphacool-core-1-cpu-cooler-black/WACP-533.html",
-   "url": "https://www.caseking.de/en/alphacool-core-1-cpu-cooler-black/WACP-533.html",
-   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 105.9
-    },
-    {
-     "d": "2026-11-01",
-     "p": 105.9
-    },
-    {
-     "d": "2026-11-03",
-     "p": 105.9
-    },
-    {
-     "d": "2026-11-04",
-     "p": 105.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 105.9
-    },
-    {
-     "d": "2026-11-09",
-     "p": 105.9
-    },
-    {
-     "d": "2026-11-11",
-     "p": 105.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 105.9
-    },
-    {
-     "d": "2026-11-15",
-     "p": 105.9
-    },
-    {
-     "d": "2026-11-18",
-     "p": 105.9
-    },
-    {
-     "d": "2026-11-20",
-     "p": 105.9
-    },
-    {
-     "d": "2026-11-22",
-     "p": 105.9
-    },
-    {
-     "d": "2026-11-23",
-     "p": 90.01
-    },
-    {
-     "d": "2026-11-25",
-     "p": 90.01
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-27",
-   "updated": "2026-11-27",
-   "tags": "kuhlung luftkuhler alphacool core cpu cooler black",
-   "source": "crawler"
-  },
-  {
    "id": "c-alphacool-core-1-cpu-kuhler-silber",
    "name": "Alphacool Core 1 CPU-Kühler - Silber",
    "cat": "Kühlung",
    "price": 90.01,
    "ref": 105.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/alphacool-core-1-cpu-cooler-silver/WACP-534.html",
-   "url": "https://www.caseking.de/en/alphacool-core-1-cpu-cooler-silver/WACP-534.html",
+   "shopUrl": "https://www.caseking.de/alphacool-core-1-cpu-kuehler-silber/WACP-534.html",
+   "url": "https://www.caseking.de/alphacool-core-1-cpu-kuehler-silber/WACP-534.html",
    "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -5644,6 +5656,10 @@
     },
     {
      "d": "2026-11-25",
+     "p": 90.01
+    },
+    {
+     "d": "2026-11-27",
      "p": 90.01
     }
    ],
@@ -5828,8 +5844,8 @@
    "price": 98.51,
    "ref": 115.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/alphacool-core-1-cpu-cooler-white/WACP-535.html",
-   "url": "https://www.caseking.de/en/alphacool-core-1-cpu-cooler-white/WACP-535.html",
+   "shopUrl": "https://www.caseking.de/alphacool-core-1-cpu-kuehler-weiss/WACP-535.html",
+   "url": "https://www.caseking.de/alphacool-core-1-cpu-kuehler-weiss/WACP-535.html",
    "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -5886,6 +5902,10 @@
     },
     {
      "d": "2026-11-25",
+     "p": 98.51
+    },
+    {
+     "d": "2026-11-27",
      "p": 98.51
     }
    ],
@@ -5902,8 +5922,8 @@
    "price": 101.91,
    "ref": 119.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/alphacool-core-1-aurora-cpu-cooler-argb-black/WACP-536.html",
-   "url": "https://www.caseking.de/en/alphacool-core-1-aurora-cpu-cooler-argb-black/WACP-536.html",
+   "shopUrl": "https://www.caseking.de/alphacool-core-1-aurora-cpu-kuehler-argb-schwarz/WACP-536.html",
+   "url": "https://www.caseking.de/alphacool-core-1-aurora-cpu-kuehler-argb-schwarz/WACP-536.html",
    "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -5960,6 +5980,10 @@
     },
     {
      "d": "2026-11-25",
+     "p": 101.91
+    },
+    {
+     "d": "2026-11-27",
      "p": 101.91
     }
    ],
@@ -5976,8 +6000,8 @@
    "price": 101.91,
    "ref": 119.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/alphacool-core-1-cpu-cooler-carbon/WACP-553.html",
-   "url": "https://www.caseking.de/en/alphacool-core-1-cpu-cooler-carbon/WACP-553.html",
+   "shopUrl": "https://www.caseking.de/alphacool-core-1-cpu-kuehler-carbon/WACP-553.html",
+   "url": "https://www.caseking.de/alphacool-core-1-cpu-kuehler-carbon/WACP-553.html",
    "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -6034,6 +6058,10 @@
     },
     {
      "d": "2026-11-25",
+     "p": 101.91
+    },
+    {
+     "d": "2026-11-27",
      "p": 101.91
     }
    ],
@@ -6050,8 +6078,8 @@
    "price": 116.36,
    "ref": 136.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/alphacool-core-1-aurora-cpu-cooler-argb-white/WACH-874.html",
-   "url": "https://www.caseking.de/en/alphacool-core-1-aurora-cpu-cooler-argb-white/WACH-874.html",
+   "shopUrl": "https://www.caseking.de/alphacool-core-1-aurora-cpu-kuehler-argb-weiss/WACH-874.html",
+   "url": "https://www.caseking.de/alphacool-core-1-aurora-cpu-kuehler-argb-weiss/WACH-874.html",
    "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -6108,6 +6136,10 @@
     },
     {
      "d": "2026-11-25",
+     "p": 116.36
+    },
+    {
+     "d": "2026-11-27",
      "p": 116.36
     }
    ],
@@ -6124,8 +6156,8 @@
    "price": 116.36,
    "ref": 136.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/alphacool-core-1-aurora-cpu-cooler-a-rgb-carbon/WACP-550.html",
-   "url": "https://www.caseking.de/en/alphacool-core-1-aurora-cpu-cooler-a-rgb-carbon/WACP-550.html",
+   "shopUrl": "https://www.caseking.de/alphacool-core-1-aurora-cpu-kuehler-a-rgb-carbon/WACP-550.html",
+   "url": "https://www.caseking.de/alphacool-core-1-aurora-cpu-kuehler-a-rgb-carbon/WACP-550.html",
    "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -6182,6 +6214,10 @@
     },
     {
      "d": "2026-11-25",
+     "p": 116.36
+    },
+    {
+     "d": "2026-11-27",
      "p": 116.36
     }
    ],
