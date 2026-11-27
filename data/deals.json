@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T08:33:34.353Z",
+ "updated": "2026-11-27T10:14:00.406Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1086,6 +1086,10 @@
     },
     {
      "d": "2026-11-24",
+     "p": 25.9
+    },
+    {
+     "d": "2026-11-27",
      "p": 25.9
     }
    ],
@@ -2840,162 +2844,6 @@
    "source": "crawler"
   },
   {
-   "id": "c-lian-li-rb-series-80-plus-bronze-netzteil-teilmodular-pcie-5-8lelc",
-   "name": "Lian Li RB Series 80 PLUS Bronze Netzteil, teilmodular, PCIe 5.1, ATX 3.1 - 650 Watt, schwarz",
-   "cat": "Netzteile",
-   "price": 51.92,
-   "ref": 64.9,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/lian-li-rb-series-80-plus-bronze-power-supply-semi-modular-pcie-5.1-atx-3.1-650-watts-black/NELI-038-B1.html",
-   "url": "https://www.caseking.de/en/lian-li-rb-series-80-plus-bronze-power-supply-semi-modular-pcie-5.1-atx-3.1-650-watts-black/NELI-038-B1.html",
-   "note": "20 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-29",
-     "p": 64.9
-    },
-    {
-     "d": "2026-10-30",
-     "p": 64.9
-    },
-    {
-     "d": "2026-10-31",
-     "p": 64.9
-    },
-    {
-     "d": "2026-11-02",
-     "p": 64.9
-    },
-    {
-     "d": "2026-11-04",
-     "p": 64.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 64.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 64.9
-    },
-    {
-     "d": "2026-11-10",
-     "p": 64.9
-    },
-    {
-     "d": "2026-11-12",
-     "p": 64.9
-    },
-    {
-     "d": "2026-11-15",
-     "p": 64.9
-    },
-    {
-     "d": "2026-11-17",
-     "p": 64.9
-    },
-    {
-     "d": "2026-11-20",
-     "p": 64.9
-    },
-    {
-     "d": "2026-11-22",
-     "p": 64.9
-    },
-    {
-     "d": "2026-11-24",
-     "p": 64.9
-    },
-    {
-     "d": "2026-11-25",
-     "p": 51.92
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-27",
-   "updated": "2026-11-27",
-   "tags": "netzteile 650 w lian series plus bronze netzteil teilmodular pcie atx 650 watt schwarz",
-   "source": "crawler"
-  },
-  {
-   "id": "c-seasonic-prime-fanless-tx-netzteil-80-plus-titanium-modular-",
-   "name": "Seasonic Prime Fanless TX Netzteil, 80 PLUS Titanium, modular - 700 Watt",
-   "cat": "Netzteile",
-   "price": 199.92,
-   "ref": 249.9,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/seasonic-prime-fanless-tx-power-supply-80-plus-titanium-modular-700-watt/NESE-133-B1.html",
-   "url": "https://www.caseking.de/en/seasonic-prime-fanless-tx-power-supply-80-plus-titanium-modular-700-watt/NESE-133-B1.html",
-   "note": "20 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-29",
-     "p": 249.9
-    },
-    {
-     "d": "2026-10-30",
-     "p": 249.9
-    },
-    {
-     "d": "2026-10-31",
-     "p": 249.9
-    },
-    {
-     "d": "2026-11-02",
-     "p": 249.9
-    },
-    {
-     "d": "2026-11-04",
-     "p": 249.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 249.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 249.9
-    },
-    {
-     "d": "2026-11-10",
-     "p": 249.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 249.9
-    },
-    {
-     "d": "2026-11-15",
-     "p": 249.9
-    },
-    {
-     "d": "2026-11-18",
-     "p": 249.9
-    },
-    {
-     "d": "2026-11-20",
-     "p": 249.9
-    },
-    {
-     "d": "2026-11-22",
-     "p": 249.9
-    },
-    {
-     "d": "2026-11-24",
-     "p": 249.9
-    },
-    {
-     "d": "2026-11-25",
-     "p": 199.92
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-27",
-   "updated": "2026-11-27",
-   "tags": "netzteile 650 w seasonic prime fanless netzteil plus titanium modular 700 watt",
-   "source": "crawler"
-  },
-  {
    "id": "c-seasonic-focus-sgx-80-plus-gold-netzteil-modular-750-watt",
    "name": "Seasonic Focus SGX 80 PLUS Gold Netzteil, modular - 750 Watt",
    "cat": "Netzteile",
@@ -3832,6 +3680,10 @@
     },
     {
      "d": "2026-11-24",
+     "p": 189
+    },
+    {
+     "d": "2026-11-27",
      "p": 189
     }
    ],
@@ -4983,84 +4835,6 @@
    "seen": "2026-11-27",
    "updated": "2026-11-27",
    "tags": "kuhlung luftkuhler alphacool core cpu kuhler silber",
-   "source": "crawler"
-  },
-  {
-   "id": "c-phanteks-amp-gh-850w-80-plus-gold-netzteil-pcie-5-1-atx-3-1-",
-   "name": "Phanteks AMP GH 850W 80 PLUS Gold Netzteil, PCIe 5.1, ATX 3.1 - 850 Watt, schwarz",
-   "cat": "Netzteile",
-   "price": 93.41,
-   "ref": 109.9,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/phanteks-amp-gh-850w-80-plus-gold-power-supply-pcie-5.1-atx-3.1-850-watt-black/NEPH-024-A1.html",
-   "url": "https://www.caseking.de/en/phanteks-amp-gh-850w-80-plus-gold-power-supply-pcie-5.1-atx-3.1-850-watt-black/NEPH-024-A1.html",
-   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-29",
-     "p": 109.9
-    },
-    {
-     "d": "2026-10-30",
-     "p": 109.9
-    },
-    {
-     "d": "2026-10-31",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-02",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-04",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-10",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-15",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-18",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-20",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-22",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-24",
-     "p": 109.9
-    },
-    {
-     "d": "2026-11-25",
-     "p": 93.41
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-27",
-   "updated": "2026-11-27",
-   "tags": "netzteile 850 w phanteks amp 850w plus gold netzteil pcie atx 850 watt schwarz",
    "source": "crawler"
   },
   {
@@ -6410,6 +6184,48 @@
    "source": "crawler"
   },
   {
+   "id": "c-transcend-msa452t2-msata-ssd-128-gb-sata-iii-3d-tlc",
+   "name": "Transcend MSA452T2 mSATA SSD 128 GB SATA III 3D TLC",
+   "cat": "SSDs",
+   "price": 271.03,
+   "ref": 313.54,
+   "shop": "JACOB Elektronik GmbH",
+   "shopUrl": "https://www.jacob.de/produkt/transcend-msa452t2-msata-ssd-128-gb-sata-iii-3d-tlc-6643834/",
+   "url": "https://www.jacob.de/produkt/transcend-msa452t2-msata-ssd-128-gb-sata-iii-3d-tlc-6643834/",
+   "note": "14 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-11-13",
+     "p": 313.54
+    },
+    {
+     "d": "2026-11-15",
+     "p": 313.54
+    },
+    {
+     "d": "2026-11-18",
+     "p": 313.54
+    },
+    {
+     "d": "2026-11-21",
+     "p": 313.54
+    },
+    {
+     "d": "2026-11-24",
+     "p": 299.42
+    },
+    {
+     "d": "2026-11-27",
+     "p": 271.03
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-27",
+   "updated": "2026-11-27",
+   "tags": "ssds sata 128 gb transcend msa452t2 msata ssd 128 sata iii tlc",
+   "source": "crawler"
+  },
+  {
    "id": "c-alpenfohn-matterhorn-2-aurora-black-cpu-kuhler",
    "name": "Alpenföhn Matterhorn 2 AURORA black, CPU-Kühler",
    "cat": "Kühlung",
@@ -6659,6 +6475,154 @@
    "seen": "2026-11-27",
    "updated": "2026-11-27",
    "tags": "netzteile sfx sharkoon rebel p20 850w netzteil",
+   "source": "crawler"
+  },
+  {
+   "id": "c-zotac-gaming-geforce-rtx-5060-ti-twin-edge-oc-8192-mb-gddr7",
+   "name": "ZOTAC GAMING GeForce RTX 5060 Ti Twin Edge OC, 8192 MB GDDR7",
+   "cat": "Grafikkarten",
+   "price": 549,
+   "ref": 629,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/zotac-gaming-geforce-rtx-5060-ti-twin-edge-oc-8192-mb-gddr7/GCZT-289.html",
+   "url": "https://www.caseking.de/en/zotac-gaming-geforce-rtx-5060-ti-twin-edge-oc-8192-mb-gddr7/GCZT-289.html",
+   "note": "13 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 629
+    },
+    {
+     "d": "2026-10-31",
+     "p": 629
+    },
+    {
+     "d": "2026-11-02",
+     "p": 629
+    },
+    {
+     "d": "2026-11-04",
+     "p": 629
+    },
+    {
+     "d": "2026-11-06",
+     "p": 629
+    },
+    {
+     "d": "2026-11-08",
+     "p": 629
+    },
+    {
+     "d": "2026-11-10",
+     "p": 659
+    },
+    {
+     "d": "2026-11-13",
+     "p": 659
+    },
+    {
+     "d": "2026-11-15",
+     "p": 659
+    },
+    {
+     "d": "2026-11-18",
+     "p": 659
+    },
+    {
+     "d": "2026-11-20",
+     "p": 659
+    },
+    {
+     "d": "2026-11-22",
+     "p": 659
+    },
+    {
+     "d": "2026-11-25",
+     "p": 549
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-27",
+   "updated": "2026-11-27",
+   "tags": "grafikkarten geforce rtx 5060 ti zotac gaming geforce rtx 5060 twin edge 8192 gddr7",
+   "source": "crawler"
+  },
+  {
+   "id": "c-adata-xpg-kyber-80-plus-gold-netzteil-atx-3-0-850-watt-schwa",
+   "name": "ADATA XPG KYBER 80 PLUS Gold Netzteil, ATX 3.0 - 850 Watt, schwarz",
+   "cat": "Netzteile",
+   "price": 69.9,
+   "ref": 79.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/adata-xpg-kyber-80-plus-gold-power-supply-atx-3.0-850-watts-black/NEAD-014.html",
+   "url": "https://www.caseking.de/en/adata-xpg-kyber-80-plus-gold-power-supply-atx-3.0-850-watts-black/NEAD-014.html",
+   "note": "13 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-29",
+     "p": 79.9
+    },
+    {
+     "d": "2026-10-30",
+     "p": 79.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 79.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 79.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 79.9
+    },
+    {
+     "d": "2026-11-05",
+     "p": 79.9
+    },
+    {
+     "d": "2026-11-07",
+     "p": 79.9
+    },
+    {
+     "d": "2026-11-09",
+     "p": 79.9
+    },
+    {
+     "d": "2026-11-12",
+     "p": 79.9
+    },
+    {
+     "d": "2026-11-14",
+     "p": 79.9
+    },
+    {
+     "d": "2026-11-16",
+     "p": 79.9
+    },
+    {
+     "d": "2026-11-19",
+     "p": 69.9
+    },
+    {
+     "d": "2026-11-21",
+     "p": 69.9
+    },
+    {
+     "d": "2026-11-23",
+     "p": 69.9
+    },
+    {
+     "d": "2026-11-25",
+     "p": 69.9
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-27",
+   "updated": "2026-11-27",
+   "tags": "netzteile 850 w adata xpg kyber plus gold netzteil atx 850 watt schwarz",
    "source": "crawler"
   }
  ],
