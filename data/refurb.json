@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T20:03:34.757Z",
+ "updated": "2026-11-27T21:59:45.896Z",
  "products": [
   {
    "id": "r-acer-b246hylbymiprx-23-8-full-hd-1920x1080-display-hdmi-disp",
@@ -3407,6 +3407,25 @@
     }
    ],
    "firstSeen": "2026-11-26"
+  },
+  {
+   "id": "r-dell-optiplex-3070-sff-intel-core-i5-9500-256gb-ssd-8gb-wind",
+   "cat": "PCs & Workstations",
+   "name": "Dell OptiPlex 3070 SFF Intel Core i5-9500 256GB SSD 8GB Windows 11 Pro",
+   "brand": "Dell",
+   "price": 249,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/dell-optiplex-3070-sff-intel-core-i5-9500-256gb-ssd-8gb-windows-11-pro",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-OptiPlex-3070-SFF-0.jpg?v=1741648575",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 249
+    }
+   ],
+   "firstSeen": "2026-11-27"
   },
   {
    "id": "r-hp-elitedesk-800-g5-desktop-mini-usdt-intel-six-core-i5-256g",
@@ -19980,125 +19999,6 @@
     },
     {
      "d": "2026-11-27",
-     "p": 389
-    }
-   ],
-   "firstSeen": "2026-10-30"
-  },
-  {
-   "id": "r-dell-optiplex-7070-micro-intel-core-i5-9400t-8gb-ram-256gb-s",
-   "cat": "PCs & Workstations",
-   "name": "Dell OptiPlex 7070 Micro, Intel Core i5 9400T, 8GB RAM, 256GB SSD, Windows 11 Pro",
-   "brand": "Dell",
-   "price": 389,
-   "ship": null,
-   "shop": "it-versand.com",
-   "url": "https://it-versand.com/products/dell-optiplex-7070-micro-intel-six-core-i5-256gb-ssd-8gb-windows-11-pro-1",
-   "avail": "Auf Lager",
-   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Dell-Optiplex-7070-Micro-0_5b312dad-d16c-4b6a-a65d-c869f3ff9898.jpg?v=1741654578",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 389
-    },
-    {
-     "d": "2026-10-31",
-     "p": 389
-    },
-    {
-     "d": "2026-11-01",
-     "p": 389
-    },
-    {
-     "d": "2026-11-02",
-     "p": 389
-    },
-    {
-     "d": "2026-11-03",
-     "p": 389
-    },
-    {
-     "d": "2026-11-04",
-     "p": 389
-    },
-    {
-     "d": "2026-11-05",
-     "p": 389
-    },
-    {
-     "d": "2026-11-06",
-     "p": 389
-    },
-    {
-     "d": "2026-11-07",
-     "p": 389
-    },
-    {
-     "d": "2026-11-08",
-     "p": 389
-    },
-    {
-     "d": "2026-11-09",
-     "p": 389
-    },
-    {
-     "d": "2026-11-10",
-     "p": 389
-    },
-    {
-     "d": "2026-11-11",
-     "p": 389
-    },
-    {
-     "d": "2026-11-12",
-     "p": 389
-    },
-    {
-     "d": "2026-11-13",
-     "p": 389
-    },
-    {
-     "d": "2026-11-14",
-     "p": 389
-    },
-    {
-     "d": "2026-11-15",
-     "p": 389
-    },
-    {
-     "d": "2026-11-16",
-     "p": 389
-    },
-    {
-     "d": "2026-11-17",
-     "p": 389
-    },
-    {
-     "d": "2026-11-18",
-     "p": 389
-    },
-    {
-     "d": "2026-11-19",
-     "p": 389
-    },
-    {
-     "d": "2026-11-20",
-     "p": 389
-    },
-    {
-     "d": "2026-11-21",
-     "p": 389
-    },
-    {
-     "d": "2026-11-22",
-     "p": 389
-    },
-    {
-     "d": "2026-11-23",
-     "p": 389
-    },
-    {
-     "d": "2026-11-24",
      "p": 389
     }
    ],
@@ -62691,6 +62591,25 @@
    "url": "https://it-versand.com/products/lenovo-thinkpad-x13-yoga-gen-1-13-3-touch-display-intel-core-i7-10610u-16gb-ram-512gb-ssd-webcam-stift-windows-11-pro-eset-internet-security",
    "avail": "Auf Lager",
    "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/Lenovo-ThinkPad-X13-Yoga-Gen-1-0.jpg?v=1770991935",
+   "hist": [
+    {
+     "d": "2026-11-27",
+     "p": 578.99
+    }
+   ],
+   "firstSeen": "2026-11-27"
+  },
+  {
+   "id": "r-hp-elitebook-x360-830-g6-13-3-touch-display-intel-core-i5-83",
+   "cat": "Laptops",
+   "name": "HP EliteBook x360 830 G6, 13,3” Touch Display, Intel Core i5 8365U, 16GB RAM, 512GB SSD, Webcam, Windows 11 Pro, ESET Internet Security",
+   "brand": "HP",
+   "price": 578.99,
+   "ship": null,
+   "shop": "it-versand.com",
+   "url": "https://it-versand.com/products/hp-elitebook-x360-830-g6-13-3-touch-display-intel-core-i5-8365u-16gb-ram-512gb-ssd-webcam-windows-11-pro-eset-internet-security",
+   "avail": "Auf Lager",
+   "img": "https://cdn.shopify.com/s/files/1/0876/1792/9526/files/HP-EliteBook-x360-830-G6-1.jpg?v=1780655469",
    "hist": [
     {
      "d": "2026-11-27",
