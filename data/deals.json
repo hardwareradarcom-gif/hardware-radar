@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-27T17:58:47.006Z",
+ "updated": "2026-11-27T20:03:34.757Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -2001,6 +2001,10 @@
     {
      "d": "2026-11-25",
      "p": 69.9
+    },
+    {
+     "d": "2026-11-27",
+     "p": 69.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -2309,6 +2313,10 @@
     {
      "d": "2026-11-25",
      "p": 184.9
+    },
+    {
+     "d": "2026-11-27",
+     "p": 184.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -2402,6 +2410,10 @@
     },
     {
      "d": "2026-11-25",
+     "p": 63.9
+    },
+    {
+     "d": "2026-11-27",
      "p": 63.9
     }
    ],
@@ -2636,6 +2648,10 @@
     },
     {
      "d": "2026-11-25",
+     "p": 73.9
+    },
+    {
+     "d": "2026-11-27",
      "p": 73.9
     }
    ],
@@ -4769,6 +4785,10 @@
     {
      "d": "2026-11-25",
      "p": 79.9
+    },
+    {
+     "d": "2026-11-27",
+     "p": 79.9
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -6314,92 +6334,14 @@
    "source": "crawler"
   },
   {
-   "id": "c-silverstone-sst-sx700-pt-sfx-netzteil-80-plus-platinum-modul",
-   "name": "SilverStone SST-SX700-PT SFX Netzteil 80 PLUS Platinum, modular - 700 Watt",
-   "cat": "Netzteile",
-   "price": 135.91,
-   "ref": 159.9,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/silverstone-sst-sx700-pt-sfx-power-supply-80-plus-platinum-modular-700-watt/NEST-142-A1.html",
-   "url": "https://www.caseking.de/en/silverstone-sst-sx700-pt-sfx-power-supply-80-plus-platinum-modular-700-watt/NEST-142-A1.html",
-   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-29",
-     "p": 159.9
-    },
-    {
-     "d": "2026-10-30",
-     "p": 159.9
-    },
-    {
-     "d": "2026-10-31",
-     "p": 159.9
-    },
-    {
-     "d": "2026-11-02",
-     "p": 159.9
-    },
-    {
-     "d": "2026-11-04",
-     "p": 159.9
-    },
-    {
-     "d": "2026-11-06",
-     "p": 159.9
-    },
-    {
-     "d": "2026-11-08",
-     "p": 159.9
-    },
-    {
-     "d": "2026-11-11",
-     "p": 159.9
-    },
-    {
-     "d": "2026-11-13",
-     "p": 159.9
-    },
-    {
-     "d": "2026-11-15",
-     "p": 159.9
-    },
-    {
-     "d": "2026-11-18",
-     "p": 159.9
-    },
-    {
-     "d": "2026-11-20",
-     "p": 159.9
-    },
-    {
-     "d": "2026-11-23",
-     "p": 159.9
-    },
-    {
-     "d": "2026-11-25",
-     "p": 135.91
-    },
-    {
-     "d": "2026-11-27",
-     "p": 135.91
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-27",
-   "updated": "2026-11-27",
-   "tags": "netzteile sfx silverstone sst sx700 netzteil plus platinum modular 700 watt",
-   "source": "crawler"
-  },
-  {
    "id": "c-alphacool-apex-1-cpu-cooler-am5-socket-argb-black",
    "name": "Alphacool Apex 1 CPU cooler, AM5 socket, ARGB - black",
    "cat": "Kühlung",
    "price": 135.91,
    "ref": 159.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/alphacool-apex-1-cpu-cooler-am5-socket-argb-black/WACP-562.html",
-   "url": "https://www.caseking.de/en/alphacool-apex-1-cpu-cooler-am5-socket-argb-black/WACP-562.html",
+   "shopUrl": "https://www.caseking.de/alphacool-apex-1-cpu-kuehler-am5-sockel-argb-schwarz/WACP-562.html",
+   "url": "https://www.caseking.de/alphacool-apex-1-cpu-kuehler-am5-sockel-argb-schwarz/WACP-562.html",
    "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -6456,6 +6398,10 @@
     },
     {
      "d": "2026-11-25",
+     "p": 135.91
+    },
+    {
+     "d": "2026-11-27",
      "p": 135.91
     }
    ],
@@ -6530,8 +6476,8 @@
    "price": 152.06,
    "ref": 178.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/en/alphacool-apex-1-cpu-cooler-lga-1700-1851-socket-argb-black/WACP-563.html",
-   "url": "https://www.caseking.de/en/alphacool-apex-1-cpu-cooler-lga-1700-1851-socket-argb-black/WACP-563.html",
+   "shopUrl": "https://www.caseking.de/alphacool-apex-1-cpu-kuehler-lga-1700-1851-sockel-argb-schwarz/WACP-563.html",
+   "url": "https://www.caseking.de/alphacool-apex-1-cpu-kuehler-lga-1700-1851-sockel-argb-schwarz/WACP-563.html",
    "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -6588,6 +6534,10 @@
     },
     {
      "d": "2026-11-25",
+     "p": 152.06
+    },
+    {
+     "d": "2026-11-27",
      "p": 152.06
     }
    ],
@@ -6803,6 +6753,10 @@
     {
      "d": "2026-11-25",
      "p": 178.41
+    },
+    {
+     "d": "2026-11-27",
+     "p": 178.41
     }
    ],
    "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
@@ -6879,6 +6833,76 @@
    "seen": "2026-11-27",
    "updated": "2026-11-27",
    "tags": "kuhlung aio-wasserkuhlung alphacool core geforce rtx 5080 phantom gamerock gpu wasserkuhlung argb mit backplate acryl",
+   "source": "crawler"
+  },
+  {
+   "id": "c-alphacool-core-geforce-rtx-5080-und-5070-ti-tuf-gpu-wasserku",
+   "name": "Alphacool Core Geforce RTX 5080 und 5070 Ti TUF GPU Wasserkühlung, ARGB, mit Backplate - Acryl",
+   "cat": "Kühlung",
+   "price": 186.91,
+   "ref": 219.9,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/alphacool-core-geforce-rtx-5080-und-5070-ti-tuf-gpu-wasserkuehlung-argb-mit-backplate-acryl/WACH-919.html",
+   "url": "https://www.caseking.de/alphacool-core-geforce-rtx-5080-und-5070-ti-tuf-gpu-wasserkuehlung-argb-mit-backplate-acryl/WACH-919.html",
+   "note": "15 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 219.9
+    },
+    {
+     "d": "2026-10-31",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-02",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-04",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-06",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-08",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-11",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-13",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-15",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-18",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-20",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-23",
+     "p": 219.9
+    },
+    {
+     "d": "2026-11-25",
+     "p": 186.91
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-27",
+   "updated": "2026-11-27",
+   "tags": "kuhlung aio-wasserkuhlung alphacool core geforce rtx 5080 und 5070 tuf gpu wasserkuhlung argb mit backplate acryl",
    "source": "crawler"
   }
  ],
