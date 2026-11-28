@@ -1,5 +1,5 @@
 {
- "updated": "2026-11-28T08:18:09.951Z",
+ "updated": "2026-11-28T09:56:37.916Z",
  "deals": [
   {
    "cat": "Grafikkarten",
@@ -1172,6 +1172,10 @@
     },
     {
      "d": "2026-11-26",
+     "p": 89.9
+    },
+    {
+     "d": "2026-11-28",
      "p": 89.9
     }
    ],
@@ -5044,84 +5048,6 @@
    "source": "crawler"
   },
   {
-   "id": "c-gigabyte-b860m-aorus-elite-wifi6e-ice-mainboard-sockel-1851-",
-   "name": "GIGABYTE B860M Aorus Elite WiFi6E ICE Mainboard, Sockel 1851, Intel B860, mATX, DDR5",
-   "cat": "Mainboards",
-   "price": 135.92,
-   "ref": 169.9,
-   "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/gigabyte-b860m-aorus-elite-wifi6e-ice-mainboard-sockel-1851-intel-b860-matx-ddr5/MBGB-664-B1.html",
-   "url": "https://www.caseking.de/gigabyte-b860m-aorus-elite-wifi6e-ice-mainboard-sockel-1851-intel-b860-matx-ddr5/MBGB-664-B1.html",
-   "note": "20 % unter dem mittleren Preis der letzten 30 Tage.",
-   "hist": [
-    {
-     "d": "2026-10-30",
-     "p": 169.9
-    },
-    {
-     "d": "2026-10-31",
-     "p": 169.9
-    },
-    {
-     "d": "2026-11-01",
-     "p": 169.9
-    },
-    {
-     "d": "2026-11-03",
-     "p": 169.9
-    },
-    {
-     "d": "2026-11-05",
-     "p": 169.9
-    },
-    {
-     "d": "2026-11-07",
-     "p": 169.9
-    },
-    {
-     "d": "2026-11-09",
-     "p": 169.9
-    },
-    {
-     "d": "2026-11-11",
-     "p": 169.9
-    },
-    {
-     "d": "2026-11-14",
-     "p": 169.9
-    },
-    {
-     "d": "2026-11-16",
-     "p": 169.9
-    },
-    {
-     "d": "2026-11-19",
-     "p": 169.9
-    },
-    {
-     "d": "2026-11-21",
-     "p": 169.9
-    },
-    {
-     "d": "2026-11-23",
-     "p": 169.9
-    },
-    {
-     "d": "2026-11-25",
-     "p": 169.9
-    },
-    {
-     "d": "2026-11-28",
-     "p": 135.92
-    }
-   ],
-   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
-   "seen": "2026-11-28",
-   "updated": "2026-11-28",
-   "tags": "mainboards intel lga1851 b860 gigabyte b860m aorus elite wifi6e ice mainboard sockel 1851 intel b860 matx ddr5",
-   "source": "crawler"
-  },
-  {
    "id": "c-fractal-design-north-midi-tower-schwarz",
    "name": "Fractal Design North Midi-Tower - schwarz",
    "cat": "Gehäuse",
@@ -6394,8 +6320,8 @@
    "price": 54.9,
    "ref": 66.9,
    "shop": "caseking.de",
-   "shopUrl": "https://www.caseking.de/adata-xpg-probe-80-plus-bronze-netzteil-atx-2.4-700-watt-schwarz/NEAD-017.html",
-   "url": "https://www.caseking.de/adata-xpg-probe-80-plus-bronze-netzteil-atx-2.4-700-watt-schwarz/NEAD-017.html",
+   "shopUrl": "https://www.caseking.de/en/adata-xpg-probe-80-plus-bronze-power-supply-atx-2.4-700-watts-black/NEAD-017.html",
+   "url": "https://www.caseking.de/en/adata-xpg-probe-80-plus-bronze-power-supply-atx-2.4-700-watts-black/NEAD-017.html",
    "note": "18 % unter dem mittleren Preis der letzten 30 Tage.",
    "hist": [
     {
@@ -6903,6 +6829,80 @@
    "seen": "2026-11-28",
    "updated": "2026-11-28",
    "tags": "mainboards am4 b550 asrock b550m pro4 amd b550 mainboard sockel am4",
+   "source": "crawler"
+  },
+  {
+   "id": "c-zotac-gaming-geforce-rtx-5090-solid-oc-32768-mb-gddr7",
+   "name": "ZOTAC GAMING GeForce RTX 5090 SOLID OC, 32768 MB GDDR7",
+   "cat": "Grafikkarten",
+   "price": 7399,
+   "ref": 8849,
+   "shop": "caseking.de",
+   "shopUrl": "https://www.caseking.de/en/zotac-gaming-geforce-rtx-5090-solid-oc-32768-mb-gddr7/GCZT-262.html",
+   "url": "https://www.caseking.de/en/zotac-gaming-geforce-rtx-5090-solid-oc-32768-mb-gddr7/GCZT-262.html",
+   "note": "16 % unter dem mittleren Preis der letzten 30 Tage.",
+   "hist": [
+    {
+     "d": "2026-10-30",
+     "p": 8699
+    },
+    {
+     "d": "2026-10-31",
+     "p": 8699
+    },
+    {
+     "d": "2026-11-02",
+     "p": 8699
+    },
+    {
+     "d": "2026-11-04",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-06",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-08",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-10",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-12",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-15",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-17",
+     "p": 8299
+    },
+    {
+     "d": "2026-11-20",
+     "p": 8099
+    },
+    {
+     "d": "2026-11-22",
+     "p": 8099
+    },
+    {
+     "d": "2026-11-24",
+     "p": 8999
+    },
+    {
+     "d": "2026-11-27",
+     "p": 7399
+    }
+   ],
+   "histLabel": "Skala: günstigster Preis laut Hardware-Radar-Crawler",
+   "seen": "2026-11-28",
+   "updated": "2026-11-28",
+   "tags": "grafikkarten geforce rtx 5090 zotac gaming geforce rtx 5090 solid 32768 gddr7",
    "source": "crawler"
   }
  ],
